@@ -2,17 +2,18 @@ name: Sync Financial Market Data
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # Run every 10 minutes
-  workflow_dispatch:        # Allow manual trigger
-  push:
+    # Run every 10 minutes
+    - cron: '*/10 * * * *'
+  workflow_dispatch: # Allow manual trigger
+  push: # Trigger on pushes
     branches:
-      - main                # Trigger only on pushes to the main branch
+      - main # Adjust branch name if needed
 
 jobs:
   sync-data:
     runs-on: ubuntu-latest
     permissions:
-      contents: write       # Need write permission to commit back to the repo
+      contents: write # Needed to commit back
     env:
       PYTHON_VERSION: '3.12'
       BRS_API_KEY: ${{ secrets.BRS_API_KEY }}
@@ -26,7 +27,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0 # Fetch all history for accurate diff
 
       - name: Set up Python ${{ env.PYTHON_VERSION }}
         uses: actions/setup-python@v5
@@ -49,6 +50,8 @@ jobs:
             pip install -r requirements.txt
           else
             echo "requirements.txt not found, skipping dependency installation."
+          fi # <--- **** این fi جا افتاده بود ****
+        shell: bash # Explicitly use bash
 
       - name: Run data fetching and aggregation script
         run: python src/main.py
@@ -57,26 +60,23 @@ jobs:
         run: |
           echo "--- Data Directory ---"
           ls -lah data/ || echo "Warning: data directory not found or cannot be listed."
-
           echo "--- Aggregates Directory ---"
           if [ -d "data/aggregates" ]; then
             ls -lah data/aggregates/
           else
             echo "Info: data/aggregates directory does not exist (likely no aggregates generated yet)."
           fi
-
           echo "--- Logs Directory ---"
           ls -lah logs/ || echo "Warning: logs directory not found or cannot be listed."
-        if: always()
+        if: always() # Run even if previous steps fail
         shell: bash
 
       - name: Commit and push changes
         run: |
           git config --global user.name "${{ env.GIT_USER_NAME }}"
           git config --global user.email "${{ env.GIT_USER_EMAIL }}"
-
+          # Add data, aggregates, and logs. Use --force if needed. Consider excluding logs if repo size is a concern.
           git add data/ logs/
-
           if git diff --staged --quiet; then
             echo "No changes detected in data/ or logs/ to commit."
           else
@@ -84,6 +84,7 @@ jobs:
             git commit -m "Update market data [skip ci]" -m "Timestamp: $(date -u +'%Y-%m-%dT%H:%M:%SZ')" -m "Triggered by: ${{ github.event_name }}"
             git push origin main
           fi
+        # Decide if you want to commit even on script failure
         if: always()
 
   cleanup-workflows:
@@ -108,6 +109,7 @@ jobs:
       - name: Delete old workflow runs (keep recent 10)
         run: |
           echo "Fetching workflow runs..."
+          # Get IDs of completed/failed/cancelled runs beyond the 10 most recent for this workflow
           RUNS_TO_DELETE=$(gh run list --workflow "${{ github.workflow }}" --limit 100 --json databaseId,status,createdAt --jq '.[] | select(.status == "completed" or .status == "failed" or .status == "cancelled") | .databaseId' | tail -n +11)
 
           if [ -z "$RUNS_TO_DELETE" ]; then
@@ -116,11 +118,12 @@ jobs:
             echo "Deleting old workflow runs..."
             echo "$RUNS_TO_DELETE" | while read run_id; do
               echo "Deleting run $run_id"
-              gh run delete "$run_id" || echo "Failed to delete run $run_id (might be already deleted or protected)"
-              sleep 1
+              # Use --repo flag explicitly for clarity/safety
+              gh run delete "$run_id" --repo "${{ github.repository }}" || echo "Warning: Failed to delete run $run_id"
+              sleep 1 # Small delay between deletions
             done
             echo "Finished deleting old workflow runs."
           fi
         shell: bash
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
