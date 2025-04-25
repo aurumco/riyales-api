@@ -15,13 +15,17 @@ jobs:
     permissions:
       contents: write # Needed to commit back
     env:
-      PYTHON_VERSION: '3.12'
+      PYTHON_VERSION: '3.13'
       BRS_API_KEY: ${{ secrets.BRS_API_KEY }}
       BRS_BASE_URL: ${{ secrets.BRS_BASE_URL }}
       LOG_LEVEL: ${{ secrets.LOG_LEVEL || 'INFO' }}
       TZ: 'Asia/Tehran'
       GIT_USER_NAME: 'Market Data Bot'
       GIT_USER_EMAIL: 'market-data-bot@users.noreply.github.com'
+      # Define DuckDB version explicitly
+      DUCKDB_VERSION: '1.2.2'
+      # Use this variable to force cache invalidation when needed
+      CACHE_VERSION: '1'
 
     steps:
       - name: Checkout code
@@ -38,20 +42,34 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-${{ hashFiles('requirements.txt') }}
+          # Include CACHE_VERSION and DUCKDB_VERSION in the cache key to allow forced updates
+          key: ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-${{ env.CACHE_VERSION }}-duckdb${{ env.DUCKDB_VERSION }}-${{ hashFiles('requirements.txt') }}
           restore-keys: |
+            ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-${{ env.CACHE_VERSION }}-duckdb${{ env.DUCKDB_VERSION }}-
             ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-
-            ${{ runner.os }}-pip-
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
+          
+          # Install DuckDB with specific version
+          pip install duckdb==${{ env.DUCKDB_VERSION }} --force-reinstall
+          
+          # Report DuckDB version
+          echo "Installed DuckDB version:"
+          python -c "import duckdb; print(duckdb.__version__)"
+          
+          # Install other dependencies
           if [ -f requirements.txt ]; then
-            pip install -r requirements.txt
+            # Modify requirements.txt to exclude duckdb (we installed it separately)
+            grep -v "duckdb" requirements.txt > requirements_filtered.txt || cp requirements.txt requirements_filtered.txt
+            pip install -r requirements_filtered.txt
+            echo "Dependencies installed from requirements.txt (excluding DuckDB)"
           else
-            echo "requirements.txt not found, skipping dependency installation."
-          fi # <--- **** این fi جا افتاده بود ****
-        shell: bash # Explicitly use bash
+            echo "requirements.txt not found, installing minimal dependencies."
+            pip install aiohttp pytz python-dotenv
+          fi
+        shell: bash
 
       - name: Run data fetching and aggregation script
         run: python src/main.py
@@ -126,4 +144,4 @@ jobs:
           fi
         shell: bash
         env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
