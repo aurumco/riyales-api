@@ -98,12 +98,8 @@ jobs:
     steps:
       - name: Install GitHub CLI
         run: |
-          type -p curl >/dev/null || sudo apt-get update && sudo apt-get install curl -y
-          curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg \
-          && sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg \
-          && echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null \
-          && sudo apt-get update \
-          && sudo apt-get install gh -y
+          sudo apt-get update
+          sudo apt-get install gh -y
         shell: bash
 
       - name: Authenticate with GitHub CLI
@@ -112,19 +108,19 @@ jobs:
 
       - name: Delete old workflow runs (keep recent 10)
         run: |
-          echo "Fetching workflow runs..."
-          RUNS_TO_DELETE=$(gh run list --workflow "${{ github.workflow }}" --limit 100 --json databaseId,status,createdAt --jq '.[] | select(.status == "completed" or .status == "failed" or .status == "cancelled") | .databaseId' | tail -n +11)
+          echo "Fetching workflow runs for ${{ github.repository }}..."
+          RUNS_TO_DELETE=$(gh run list --repo "${{ github.repository }}" --workflow "${{ github.workflow }}" --limit 100 --json databaseId,status,createdAt --jq '.[] | select(.status == "completed" or .status == "failed" or .status == "cancelled") | .databaseId' | tail -n +11)
 
           if [ -z "$RUNS_TO_DELETE" ]; then
-            echo "No old workflow runs found to delete (keeping last 10)."
+            echo "No old workflow runs found to delete (we're keeping last 10)."
           else
             echo "Deleting old workflow runs..."
             echo "$RUNS_TO_DELETE" | while read run_id; do
-              echo "Deleting run $run_id"
-              gh run delete "$run_id" --repo "${{ github.repository }}" || echo "Warning: Failed to delete run $run_id"
+              echo "Deleting run $run_id..."
+              gh run delete "$run_id" --repo "${{ github.repository }}" --yes || echo "⚠Failed to delete run $run_id"
               sleep 1
             done
-            echo "Finished deleting old workflow runs."
+            echo "Cleanup complete."
           fi
         shell: bash
         env:
