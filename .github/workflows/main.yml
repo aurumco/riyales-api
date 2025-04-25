@@ -13,22 +13,21 @@ env:
   DUCKDB_VERSION: '1.2.2'
 
 jobs:
+
   sync-data:
-    name: Sync Data → Alert → Commit
+    name: Sync → Alert → Commit
     runs-on: ubuntu-latest
     permissions:
       contents: write
     env:
-      # Your API credentials
-      BRS_API_KEY:  ${{ secrets.BRS_API_KEY }}
-      BRS_BASE_URL: ${{ secrets.BRS_BASE_URL }}
-      # Telegram settings
+      BRS_API_KEY:        ${{ secrets.BRS_API_KEY }}
+      BRS_BASE_URL:       ${{ secrets.BRS_BASE_URL }}
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_USER_ID:   ${{ secrets.TELEGRAM_USER_ID }}
       LOG_LEVELS:         ${{ secrets.LOG_LEVELS || 'ERROR' }}
     steps:
 
-      - name: Checkout code (full history)
+      - name: Checkout code
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -56,15 +55,14 @@ jobs:
         run: python src/main.py
         shell: bash
 
-      - name: Send colored log screenshot to Telegram (as document)
+      - name: Send Telegram error log
         run: python src/alert_sender.py
         shell: bash
 
-      - name: Rebase & Commit changes if any
+      - name: Pull, Commit & Push if any
         run: |
           git config --global user.name "Market Data Bot"
           git config --global user.email "market-data-bot@users.noreply.github.com"
-          # ensure we're up-to-date
           git pull --rebase origin main || true
           git add data/ logs/
           git diff --staged --quiet || (
@@ -80,19 +78,9 @@ jobs:
     if: always()
     runs-on: ubuntu-latest
     env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      - name: Install GitHub CLI
-        run: |
-          sudo apt-get update
-          sudo apt-get install gh -y
-        shell: bash
-
-      - name: Authenticate gh
-        run: echo "${{ env.GITHUB_TOKEN }}" | gh auth login --with-token
-        shell: bash
-
-      - name: Remove old workflow runs (keep latest 24)
+      - name: Remove old runs (keep latest 24)
         run: |
           runs=$(gh run list \
             --repo "${{ github.repository }}" \
@@ -102,7 +90,6 @@ jobs:
             --jq '.[] | select(.status!="in_progress" and .status!="queued") | .databaseId')
           total=$(echo "$runs" | wc -l)
           if [ "$total" -le 24 ]; then exit 0; fi
-          # lines 25..end are the older runs
           to_delete=$(echo "$runs" | tail -n +25)
           echo "$to_delete" | while read id; do
             gh run delete "$id" --repo "${{ github.repository }}" --yes
