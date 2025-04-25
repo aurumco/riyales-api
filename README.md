@@ -4,7 +4,6 @@ This repository contains the automated data aggregation service for the **Riyale
 
 The service runs automatically using **GitHub Actions**, collects data from various API endpoints, stores the latest state in individual JSON files, and appends historical data to a **DuckDB** database. Updates occur frequently (every 10–20 minutes, respecting TSE market hours for relevant sources).
 
----
 
 ## ⚙️ Features
 
@@ -20,7 +19,6 @@ The service runs automatically using **GitHub Actions**, collects data from vari
 - 🔄 **Automated Persistence**: Automatically commits updated data (JSON files, DuckDB database) and logs back to the repository via GitHub Actions.  
 - 🔧 **Configurable**: API endpoints, fetch intervals, market hours logic, and other settings are managed within the Python script (`src/main.py`).  
 
----
 
 ## 🧠 Tech Stack
 
@@ -31,7 +29,6 @@ The service runs automatically using **GitHub Actions**, collects data from vari
 - **Scheduling & Execution**: GitHub Actions (cron)  
 - **Persistence**: Git (via GitHub Actions)  
 
----
 
 ## 📦 Output Structure
 
@@ -54,13 +51,11 @@ The service runs automatically using **GitHub Actions**, collects data from vari
   - `data_fetcher.log`: Main log file for the current day.  
   - `data_fetcher.log.YYYY-MM-DD`: Log files from previous days (kept for 3 days by default).  
 
----
 
 ## 🧪 Status
 
 ✅ Actively developed and used as the core data source for the **Riyales** mobile app.
 
----
 
 ## 📫 Contact
 
