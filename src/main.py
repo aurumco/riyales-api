@@ -13,79 +13,71 @@ import glob
 import re # For masking secrets
 from decimal import Decimal, InvalidOperation, ROUND_HALF_UP # For median/aggregation
 from datetime import datetime, time as dt_time, timedelta, date
-from logging.handlers import TimedRotatingFileHandler
+# Removed TimedRotatingFileHandler, will use basic FileHandler per run
 import traceback
-from typing import Dict, Any, Optional, List, Tuple, Union # Re-added Union
+from typing import Dict, Any, Optional, List, Tuple, Union
 
 # --- Configuration ---
 
 # Secrets & Environment Variables
-BASE_URL_ENV_VAR: str = "BRS_BASE_URL"
-API_KEY_ENV_VAR: str = "BRS_API_KEY"
-LOG_LEVEL_ENV_VAR: str = "LOG_LEVEL"
+BASE_URL_ENV_VAR: str = "BRS_BASE_URL"    # Base URL for the API provider
+API_KEY_ENV_VAR: str = "BRS_API_KEY"      # API Key for authentication
+LOG_LEVEL_ENV_VAR: str = "LOG_LEVEL"      # Controls console log verbosity (e.g., INFO, DEBUG)
 
 # General Settings
-LOG_FOLDER: str = "logs"
-LOG_FILE_NAME: str = "market_data.log"
-LOG_ROTATION_HOURS: int = 48 # Rotation every 48 hours
-LOG_BACKUP_COUNT: int = 5 # Keep 5 backup log files
-DATA_FOLDER: str = "data"
-DB_FILE: str = os.path.join(DATA_FOLDER, "market_data.duckdb")
-REQUEST_TIMEOUT_SECONDS: int = 10
-PRETTY_PRINT_JSON: bool = False # Keep False for smaller file size
-MAX_CONCURRENT_REQUESTS: int = 10
-TIMEZONE: str = "Asia/Tehran"
-DEFAULT_TIMEZONE = pytz.timezone(TIMEZONE) # Cache timezone object
+LOG_FOLDER: str = "logs"                  # Directory for log files
+DATA_FOLDER: str = "data"                 # Directory for output JSON and DB
+AGGREGATE_JSON_FOLDER: str = os.path.join(DATA_FOLDER, "aggregates") # Subfolder for aggregate JSONs
+DB_FILE: str = os.path.join(DATA_FOLDER, "market_data.duckdb") # DuckDB database file path
+REQUEST_TIMEOUT_SECONDS: int = 15         # Increased timeout slightly
+PRETTY_PRINT_JSON: bool = False           # Save JSON compact (False) or pretty-printed (True)
+MAX_CONCURRENT_REQUESTS: int = 10         # Max simultaneous API requests
+TIMEZONE: str = "Asia/Tehran"             # Default timezone for operations like market hours
+DEFAULT_TIMEZONE = pytz.timezone(TIMEZONE)# Cached timezone object for performance
 
-# User Agent (Keep updated)
-USER_AGENT: str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" # Example
+# User Agent (Update periodically to mimic real browsers)
+USER_AGENT: str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
 HEADERS: Dict[str, str] = { "User-Agent": USER_AGENT, "Accept": "application/json, text/plain, */*" }
 
 # --- API Endpoint Configuration ---
-# Added 'pk_json_path' for unique identification within arrays if symbol is not unique across nested structures
+# 'relative_url': Path appended to BASE_URL, {api_key} is replaced.
+# 'output_filename': Name for the latest raw data JSON file.
+# 'fetch_interval_minutes': How often to attempt fetching this endpoint.
+# 'market_hours_apply': True if fetching should only occur during TSE market hours.
+# 'enabled': Globally enable/disable processing for this endpoint.
+# 'aggregation_levels': List of aggregation periods (e.g., '6h', 'daily') to calculate.
+# 'price_json_path': JSON path (within each array item) to extract the price value.
+# 'symbol_json_path': JSON path (within each array item) to extract the symbol/identifier.
+# 'array_base_paths': List of JSON paths pointing to the arrays containing the items to process. '$' represents the root array.
 API_ENDPOINTS: Dict[str, Dict[str, Any]] = {
     "gold_currency": {
-        "relative_url": "/Api/Market/Gold_Currency.php?key={api_key}",
-        "output_filename": "gold_currency.json",
+        "relative_url": "/Api/Market/Gold_Currency.php?key={api_key}", "output_filename": "gold_currency.json",
         "fetch_interval_minutes": 10, "market_hours_apply": False, "enabled": True,
-        "aggregation_levels": ["daily", "6h", "12h", "3d", "weekly"],
-        # Assumes structure { "gold": [ { "symbol": "X", "price": Y }, ... ], "currency": [ ... ] }
-        # We'll aggregate 'gold' and 'currency' separately if needed, or define paths more precisely
-        "price_json_path": ["$.price"], # Path relative to each item in the array
-        "symbol_json_path": ["$.symbol"], # Path relative to each item
-        "array_base_paths": ["gold", "currency"], # NEW: List of base keys containing arrays to process
+        "aggregation_levels": ["6h", "12h", "daily", "3d", "weekly"],
+        "price_json_path": "$.price", "symbol_json_path": "$.symbol",
+        "array_base_paths": ["$.gold", "$.currency"], # Process both nested arrays
     },
     "crypto": {
-        "relative_url": "/Api/Market/Cryptocurrency.php?key={api_key}",
-        "output_filename": "cryptocurrency.json",
+        "relative_url": "/Api/Market/Cryptocurrency.php?key={api_key}", "output_filename": "cryptocurrency.json",
         "fetch_interval_minutes": 10, "market_hours_apply": False, "enabled": True,
-        "aggregation_levels": ["daily", "6h", "12h", "3d", "weekly"],
-        # Assumes structure [ { "name": "X", "price_toman": Y }, ... ]
-        "price_json_path": ["$.price_toman"],
-        "symbol_json_path": ["$.name"],
-        "array_base_paths": ["$"], # Represents the root array itself
+        "aggregation_levels": ["6h", "12h", "daily", "3d", "weekly"],
+        "price_json_path": "$.price_toman", "symbol_json_path": "$.name",
+        "array_base_paths": ["$"], # Root is the array
     },
     "commodity": {
-        "relative_url": "/Api/Market/Commodity.php?key={api_key}",
-        "output_filename": "commodity.json",
+        "relative_url": "/Api/Market/Commodity.php?key={api_key}", "output_filename": "commodity.json",
         "fetch_interval_minutes": 10, "market_hours_apply": False, "enabled": True,
-        "aggregation_levels": ["daily", "6h", "12h", "3d", "weekly"],
-        # Aggregate precious metals only for now
-        "price_json_path": ["$.price"],
-        "symbol_json_path": ["$.symbol"],
-        "array_base_paths": ["metal_precious"], # Only process this array
+        "aggregation_levels": ["6h", "12h", "daily", "3d", "weekly"],
+        "price_json_path": "$.price", "symbol_json_path": "$.symbol",
+        "array_base_paths": ["$.metal_precious"], # Only process this nested array for now
     },
     "tse_ifb_symbols": {
-        "relative_url": "/Api/Tsetmc/AllSymbols.php?key={api_key}&type=1",
-        "output_filename": "tse_ifb_symbols.json",
+        "relative_url": "/Api/Tsetmc/AllSymbols.php?key={api_key}&type=1", "output_filename": "tse_ifb_symbols.json",
         "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": True,
-        "aggregation_levels": ["daily"], # Only daily aggregation
-        # Assumes structure [ { "l18": "X", "pc": Y }, ... ]
-        "price_json_path": ["$.pc"],
-        "symbol_json_path": ["$.l18"],
+        "aggregation_levels": ["daily"], # Only daily aggregation needed typically for EOD symbols
+        "price_json_path": "$.pc", "symbol_json_path": "$.l18", # 'pc' is closing price
         "array_base_paths": ["$"],
     },
-    # Other endpoints remain the same, without aggregation config unless added
      "tse_options": { "relative_url": "/Api/Tsetmc/Option.php?key={api_key}", "output_filename": "tse_options.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": False },
      "tse_nav": { "relative_url": "/Api/Tsetmc/Nav.php?key={api_key}", "output_filename": "tse_nav.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": False },
      "tse_index": { "relative_url": "/Api/Tsetmc/Index.php?key={api_key}&type=1", "output_filename": "tse_index.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": False },
@@ -96,17 +88,19 @@ API_ENDPOINTS: Dict[str, Dict[str, Any]] = {
      "futures": { "relative_url": "/Api/Tsetmc/AllSymbols.php?key={api_key}&type=3", "output_filename": "futures.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": True },
 }
 
-# Market Hours
-TSE_MARKET_OPEN_TIME: dt_time = dt_time(8, 45)
-TSE_MARKET_CLOSE_TIME: dt_time = dt_time(12, 45)
-TSE_MARKET_DAYS: List[int] = [5, 6, 0, 1, 2] # Sat-Wed
+# Market Hours (Tehran Stock Exchange - Adjust if necessary)
+TSE_MARKET_OPEN_TIME: dt_time = dt_time(8, 45)   # Market opening time (local)
+TSE_MARKET_CLOSE_TIME: dt_time = dt_time(12, 45) # Market closing time (local)
+TSE_MARKET_DAYS: List[int] = [5, 6, 0, 1, 2]     # Weekdays for TSE (0=Monday, 5=Saturday, 6=Sunday)
 
 # Aggregation Intervals & Trigger Time
+# Defines the duration for each aggregation level
 AGGREGATION_INTERVALS: Dict[str, timedelta] = {
     "6h": timedelta(hours=6), "12h": timedelta(hours=12), "daily": timedelta(days=1),
     "3d": timedelta(days=3), "weekly": timedelta(weeks=1),
 }
-DAILY_AGGREGATION_TIME_LOCAL: dt_time = dt_time(0, 5) # 00:05 Tehran time
+# Time (local) after which daily aggregation for the *previous* day should run
+DAILY_AGGREGATION_TIME_LOCAL: dt_time = dt_time(0, 5) # e.g., 5 minutes past midnight
 
 # --- Constants ---
 COLOR_GREEN: str = "\033[32m"
@@ -114,54 +108,55 @@ COLOR_RED: str = "\033[31m"
 COLOR_YELLOW: str = "\033[33m"
 COLOR_BLUE: str = "\033[34m"
 COLOR_RESET: str = "\033[0m"
-DECIMAL_PRECISION = 18 # Precision for storing prices
-DECIMAL_SCALE = 6    # Scale for storing prices
+# Precision and Scale for storing prices in DuckDB DECIMAL type
+DECIMAL_PRECISION = 18 # Total number of digits
+DECIMAL_SCALE = 6    # Number of digits after the decimal point
 
 # --- Global Logger ---
+# Logger instance is configured in setup_logging()
 logger = logging.getLogger("MarketDataSync")
 
 # --- Utility ---
 def mask_string(s: Optional[str]) -> str:
-    """Masks potentially sensitive strings."""
+    """Masks potentially sensitive strings like API keys in logs."""
     if s is None: return "None"
-    # Mask common key patterns more robustly
-    s = re.sub(r"key=[^&?\s]+", "key=********", s, flags=re.IGNORECASE)
-    s = re.sub(r"token=[^&?\s]+", "token=********", s, flags=re.IGNORECASE)
-    # Add other sensitive patterns if needed
+    # Mask common key patterns robustly using regex (case-insensitive)
+    s = re.sub(r"key=([^&?\s]+)", "key=********", s, flags=re.IGNORECASE)
+    s = re.sub(r"token=([^&?\s]+)", "token=********", s, flags=re.IGNORECASE)
+    # Add other patterns here if needed (e.g., authorization headers)
     return s
 
 # --- Logging Setup ---
 def setup_logging() -> None:
+    """Configures logging: one file per run, console output with colors, log cleanup."""
     log_level_str = os.getenv(LOG_LEVEL_ENV_VAR, 'INFO').upper()
     log_level = getattr(logging, log_level_str, logging.INFO)
 
-    # Set the logger's level - Handlers will inherit or filter further
-    logger.setLevel(logging.DEBUG) # Allow all messages to reach handlers initially
+    # Set the logger's base level to DEBUG to capture everything
+    logger.setLevel(logging.DEBUG)
 
+    # Clear existing handlers to avoid duplicates if re-run in same context
     if logger.hasHandlers(): logger.handlers.clear()
 
-    log_dir = LOG_FOLDER
-    os.makedirs(log_dir, exist_ok=True)
-    cleanup_old_logs(log_dir, LOG_ROTATION_HOURS)
-    log_file_path = os.path.join(log_dir, LOG_FILE_NAME)
+    os.makedirs(LOG_FOLDER, exist_ok=True)
 
-    # File Handler - Always DEBUG
-    file_handler = TimedRotatingFileHandler(
-        log_file_path, when="H", interval=LOG_ROTATION_HOURS, backupCount=LOG_BACKUP_COUNT,
-        encoding='utf-8'
-    )
-    file_handler.setLevel(logging.DEBUG)
+    # --- File Handler (New file per run, no colors) ---
+    run_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    log_file_path = os.path.join(LOG_FOLDER, f"market_data_{run_timestamp}.log")
+    file_handler = logging.FileHandler(log_file_path, encoding='utf-8')
+    file_handler.setLevel(logging.DEBUG) # Log everything to the file
+    # Simple formatter without colors for the file
     file_formatter = logging.Formatter(
         "%(asctime)s|%(levelname)-7s|%(name)s|%(message)s", datefmt="%Y-%m-%d %H:%M:%S"
     )
     file_handler.setFormatter(file_formatter)
 
-    # Console Handler - Level from ENV
+    # --- Console Handler (Level from ENV, with colors) ---
     console_handler = logging.StreamHandler()
-    console_handler.setLevel(log_level) # Filter based on ENV
+    console_handler.setLevel(log_level) # Use level from environment variable
 
+    # Custom formatter for console output with ANSI colors and secret masking
     class SecureColorFormatter(logging.Formatter):
-        # ... (formatter code remains the same as previous version, ensuring masking) ...
         level_colors = {
             logging.DEBUG: COLOR_BLUE, logging.INFO: COLOR_GREEN,
             logging.WARNING: COLOR_YELLOW, logging.ERROR: COLOR_RED, logging.CRITICAL: COLOR_RED,
@@ -169,69 +164,99 @@ def setup_logging() -> None:
         def format(self, record):
             color = self.level_colors.get(record.levelno, COLOR_RESET)
             original_message = record.getMessage()
-            # Mask secrets HERE before formatting
+            # Mask secrets HERE before formatting for console
             masked_message = mask_string(original_message)
 
+            # Simplified format for console: Time | Level | Masked Message
             log_fmt = f"{color}•{COLOR_RESET} %(asctime)s|{color}%(levelname)-7s{COLOR_RESET}| {color}{masked_message}{COLOR_RESET}"
-            _formatter = logging.Formatter(log_fmt, datefmt="%H:%M:%S") # Use simple format
-            record.message = record.getMessage() # Keep original if needed
-            record.msg = masked_message # Set msg attribute for the formatter
-            formatted = _formatter.format(record)
-            return formatted
+            _formatter = logging.Formatter(log_fmt, datefmt="%H:%M:%S") # Use simple time format for console
+
+            # We need to modify the record's message attribute for the formatter to use the masked one
+            # Create a copy to avoid modifying the original record used by other handlers
+            temp_record = logging.makeLogRecord(record.__dict__)
+            temp_record.msg = masked_message # Use the masked message
+            return _formatter.format(temp_record)
 
     console_handler.setFormatter(SecureColorFormatter())
 
     logger.addHandler(file_handler)
     logger.addHandler(console_handler)
+
+    # Perform log cleanup *after* setting up the new handlers
+    cleanup_old_logs(LOG_FOLDER, 12) # Keep logs for 12 hours
+
     logger.info(f"Logging setup complete. Console Level: {log_level_str}, File Level: DEBUG")
+    logger.info(f"Current log file: {log_file_path}")
 
 def cleanup_old_logs(log_directory: str, hours_to_keep: int) -> None:
-    cutoff = time.time() - (hours_to_keep * 60 * 60)
-    print(f"{COLOR_BLUE}•{COLOR_RESET} Checking logs older than {hours_to_keep} hours in '{log_directory}'...")
+    """Removes log files older than the specified number of hours based on filename timestamp."""
+    cutoff = datetime.now() - timedelta(hours=hours_to_keep)
+    logger.debug(f"Checking for logs older than {hours_to_keep} hours ({cutoff.isoformat()}) in '{log_directory}'...")
     cleaned_count = 0
     try:
-        for filename in glob.glob(os.path.join(log_directory, LOG_FILE_NAME + "*")):
+        # Match filenames like 'market_data_YYYYMMDD_HHMMSS.log'
+        log_pattern = os.path.join(log_directory, "market_data_*.log")
+        for filename in glob.glob(log_pattern):
             if os.path.isfile(filename):
                 try:
-                    if os.path.getmtime(filename) < cutoff:
-                        os.remove(filename)
-                        print(f"{COLOR_YELLOW}✓ Cleaned old log: {os.path.basename(filename)}{COLOR_RESET}")
-                        cleaned_count += 1
+                    # Extract timestamp from filename
+                    match = re.search(r"market_data_(\d{8}_\d{6})\.log", os.path.basename(filename))
+                    if match:
+                        file_ts_str = match.group(1)
+                        file_dt = datetime.strptime(file_ts_str, "%Y%m%d_%H%M%S")
+                        if file_dt < cutoff:
+                            os.remove(filename)
+                            logger.info(f"Cleaned old log file: {os.path.basename(filename)}")
+                            cleaned_count += 1
+                    else:
+                        # Fallback for unexpected filenames: use modification time
+                        if datetime.fromtimestamp(os.path.getmtime(filename)) < cutoff:
+                             os.remove(filename)
+                             logger.warning(f"Cleaned log file by mtime (unexpected name): {os.path.basename(filename)}")
+                             cleaned_count += 1
                 except OSError as e:
-                    print(f"{COLOR_RED}✗ Error removing {os.path.basename(filename)}: {e}{COLOR_RESET}")
-        if cleaned_count == 0: print(f"{COLOR_GREEN}✓ No old logs found.{COLOR_RESET}")
-    except Exception as e: print(f"{COLOR_RED}✗ Log cleanup scan error: {e}{COLOR_RESET}")
+                    logger.error(f"Error removing log file {os.path.basename(filename)}: {e}")
+                except ValueError:
+                    logger.warning(f"Could not parse timestamp from log filename: {os.path.basename(filename)}")
+
+        logger.debug(f"Log cleanup finished. Removed {cleaned_count} old files.")
+    except Exception as e:
+        logger.error(f"Log cleanup scan failed: {e}", exc_info=True)
 
 # --- Timezone & Market Check ---
-def is_market_open(tz_str: str, open_time: dt_time, close_time: dt_time, market_days: List[int]) -> bool:
+def is_market_open(tz: pytz.BaseTzInfo, open_time: dt_time, close_time: dt_time, market_days: List[int]) -> bool:
+    """Checks if the current time is within specified market hours and days."""
     try:
-        now_local = datetime.now(DEFAULT_TIMEZONE) # Use cached timezone
+        now_local = datetime.now(tz)
         current_time = now_local.time()
-        current_weekday = now_local.weekday()
+        current_weekday = now_local.weekday() # Monday is 0, Sunday is 6
+
         logger.debug(f"Market Check: Local={now_local.strftime('%H:%M:%S %Z')}, WDay={current_weekday}, Time={current_time} vs {open_time}-{close_time}, Days={market_days}")
+
         if current_weekday not in market_days:
             logger.debug("Market Status: CLOSED (Day)")
             return False
+
         is_open = open_time <= current_time < close_time
         logger.debug(f"Market Status: {'OPEN' if is_open else 'CLOSED'} (Hours)")
         return is_open
     except Exception as e:
         logger.error(f"Market hours check failed: {e}", exc_info=True)
-        return False
+        return False # Fail safe: assume market is closed if check fails
 
 # --- Database Functions ---
-# ... (get_db_connection, get_last_run_time, update_last_run_time, should_run_task remain mostly the same) ...
 def get_db_connection(db_path: str) -> Optional[duckdb.DuckDBPyConnection]:
+    """Establishes and returns a DuckDB connection, ensuring tracker table exists."""
     try:
         logger.debug(f"Connecting to DB: {db_path}")
         os.makedirs(os.path.dirname(db_path), exist_ok=True)
         conn = duckdb.connect(database=db_path, read_only=False)
         logger.info("DB connection successful.")
-        # Ensure tracker table exists on connection
+        # Ensure task tracker table exists on every connection
         conn.execute("""
             CREATE TABLE IF NOT EXISTS aggregation_tracker (
                 task_name TEXT PRIMARY KEY,
-                last_run_timestamp TIMESTAMPTZ
+                last_run_timestamp TIMESTAMPTZ NOT NULL
             );
         """)
         logger.debug("Ensured aggregation_tracker table exists.")
@@ -241,25 +266,34 @@ def get_db_connection(db_path: str) -> Optional[duckdb.DuckDBPyConnection]:
         return None
 
 def get_last_run_time(conn: duckdb.DuckDBPyConnection, task_name: str) -> Optional[datetime]:
+    """Retrieves the last successful run timestamp for a given task from the tracker table."""
     try:
         result = conn.execute("SELECT last_run_timestamp FROM aggregation_tracker WHERE task_name = ?", (task_name,)).fetchone()
         if result and result[0]:
             ts = result[0]
-            # DuckDB TIMESTAMPTZ should be timezone-aware (UTC)
-            if isinstance(ts, datetime) and ts.tzinfo is not None:
-                return ts
-            elif isinstance(ts, datetime): # If somehow naive, assume UTC
+            # Ensure the datetime object is timezone-aware (should be UTC from DuckDB TIMESTAMPTZ)
+            if isinstance(ts, datetime) and ts.tzinfo is None:
                  logger.warning(f"DB returned naive datetime for {task_name}, assuming UTC.")
                  return pytz.utc.localize(ts)
-            else: # Handle date type for daily task tracking if needed
+            elif isinstance(ts, datetime):
+                return ts
+            else:
                  logger.warning(f"Unexpected type {type(ts)} for last_run_timestamp for {task_name}")
                  return None
-        return None
+        return None # Task never run or timestamp is NULL
     except Exception as e:
         logger.error(f"Error getting last run time for '{task_name}': {e}", exc_info=True)
         return None
 
 def update_last_run_time(conn: duckdb.DuckDBPyConnection, task_name: str, timestamp: datetime) -> None:
+    """Updates or inserts the last run timestamp for a task."""
+    # Ensure the timestamp is timezone-aware UTC before inserting
+    if timestamp.tzinfo is None:
+        logger.warning(f"Received naive timestamp for {task_name}, assuming UTC.")
+        timestamp = pytz.utc.localize(timestamp)
+    else:
+        timestamp = timestamp.astimezone(pytz.utc) # Convert to UTC if it's not already
+
     try:
         conn.execute("""
             INSERT INTO aggregation_tracker (task_name, last_run_timestamp) VALUES (?, ?)
@@ -270,6 +304,7 @@ def update_last_run_time(conn: duckdb.DuckDBPyConnection, task_name: str, timest
         logger.error(f"Error updating last run time for '{task_name}': {e}", exc_info=True)
 
 def should_run_task(conn: duckdb.DuckDBPyConnection, task_name: str, interval: timedelta, now_utc: datetime) -> bool:
+    """Determines if a task is due based on its last run time and interval."""
     last_run = get_last_run_time(conn, task_name)
     if last_run is None:
         logger.info(f"Task '{task_name}' due: Never run before.")
@@ -280,9 +315,8 @@ def should_run_task(conn: duckdb.DuckDBPyConnection, task_name: str, interval: t
     logger.debug(f"Task '{task_name}': Last={last_run.isoformat()}, Since={time_since_last_run}, Interval={interval}, Due={is_due}")
     return is_due
 
-
 def ensure_table(conn: duckdb.DuckDBPyConnection, create_sql: str, table_name: str) -> bool:
-    """Generic function to ensure a table exists."""
+    """Generic function to execute a CREATE TABLE IF NOT EXISTS statement."""
     try:
         conn.execute(create_sql)
         logger.debug(f"Ensured table '{table_name}' exists.")
@@ -292,33 +326,45 @@ def ensure_table(conn: duckdb.DuckDBPyConnection, create_sql: str, table_name: s
         return False
 
 def ensure_raw_table(conn: duckdb.DuckDBPyConnection, endpoint_name: str) -> bool:
+    """Ensures the table for storing raw JSON data for an endpoint exists."""
     table_name = f"{endpoint_name}_raw"
-    sql = f'CREATE TABLE IF NOT EXISTS "{table_name}" (timestamp TIMESTAMPTZ PRIMARY KEY, data JSON);'
+    # Store raw data as JSON type (DuckDB handles this efficiently)
+    sql = f'CREATE TABLE IF NOT EXISTS "{table_name}" (timestamp TIMESTAMPTZ PRIMARY KEY, data JSON NOT NULL);'
     return ensure_table(conn, sql, table_name)
 
 def ensure_aggregate_table(conn: duckdb.DuckDBPyConnection, endpoint_name: str, level: str) -> bool:
+    """Ensures the table for storing aggregated data for a specific level exists."""
     table_name = f"{endpoint_name}_{level}"
+    # Use DATE for daily aggregates, TIMESTAMPTZ for others
     ts_type = "DATE" if level == "daily" else "TIMESTAMPTZ"
+    # Store median price as DECIMAL for accuracy
     sql = f"""
     CREATE TABLE IF NOT EXISTS "{table_name}" (
-        timestamp {ts_type}, symbol TEXT,
+        timestamp {ts_type} NOT NULL, symbol TEXT NOT NULL,
         median_price DECIMAL({DECIMAL_PRECISION}, {DECIMAL_SCALE}), source_count BIGINT,
         PRIMARY KEY (timestamp, symbol)
     );"""
     return ensure_table(conn, sql, table_name)
 
-
 def insert_raw_data(conn: duckdb.DuckDBPyConnection, endpoint_name: str, timestamp: datetime, data: Any) -> bool:
+    """Inserts the raw fetched JSON data into the corresponding _raw table."""
     table_name = f"{endpoint_name}_raw"
-    if not ensure_raw_table(conn, endpoint_name): return False # Added ensure call here
+    # Ensure the table exists *before* trying to insert
+    if not ensure_raw_table(conn, endpoint_name): return False
+
+    # Ensure timestamp is UTC
+    if timestamp.tzinfo is None: timestamp = pytz.utc.localize(timestamp)
+    else: timestamp = timestamp.astimezone(pytz.utc)
+
     try:
+        # DuckDB's JSON type accepts string representation
         json_data_str = json.dumps(data, ensure_ascii=False)
         conn.execute(f'INSERT INTO "{table_name}" (timestamp, data) VALUES (?, ?)', (timestamp, json_data_str))
         logger.debug(f"Inserted raw data into '{table_name}'.")
         return True
     except duckdb.ConstraintException:
-         logger.warning(f"Duplicate raw timestamp for '{table_name}'. Skipping.")
-         return True
+         logger.warning(f"Duplicate raw timestamp {timestamp.isoformat()} for '{table_name}'. Skipping insert.")
+         return True # Not a failure, just duplicate data point
     except Exception as e:
         logger.error(f"Failed insert raw data into '{table_name}': {e}", exc_info=True)
         return False
@@ -327,100 +373,115 @@ def insert_raw_data(conn: duckdb.DuckDBPyConnection, endpoint_name: str, timesta
 def calculate_and_store_aggregates(
     conn: duckdb.DuckDBPyConnection, endpoint_name: str, level: str,
     config: Dict[str, Any], start_time_utc: datetime, end_time_utc: datetime,
-    target_timestamp: Union[datetime, date]
+    target_timestamp: Union[datetime, date] # Timestamp or Date for the aggregated record
 ) -> bool:
+    """Calculates median price for symbols over a period and stores it."""
     raw_table = f"{endpoint_name}_raw"
     agg_table = f"{endpoint_name}_{level}"
-    task_name = f"aggregate_{level}_{endpoint_name}"
+    agg_task_name = f"aggregate_{level}_{endpoint_name}" # For tracker updates
 
     # --- Check if raw table exists and has data for the period ---
     try:
+         # Check if raw table exists first
+         conn.execute(f"SELECT 1 FROM information_schema.tables WHERE table_name = '{raw_table}'").fetchone()
+         # Now check for data in the period
          count_result = conn.execute(f'SELECT COUNT(*) FROM "{raw_table}" WHERE timestamp >= ? AND timestamp < ?', (start_time_utc, end_time_utc)).fetchone()
          if not count_result or count_result[0] == 0:
-              logger.info(f"Skipping aggregation for {agg_table}: No raw data found in period {start_time_utc.date()} - {end_time_utc.date()}.")
-              # Update tracker so we don't check again immediately for this period
-              update_last_run_time(conn, task_name, datetime.now(pytz.utc))
-              return True
+              logger.info(f"Skip Aggregation for {agg_table}: No raw data in period {start_time_utc.isoformat()} to {end_time_utc.isoformat()}.")
+              # Update tracker: We've checked this period, don't retry immediately unless new raw data arrives
+              update_last_run_time(conn, agg_task_name, datetime.now(pytz.utc))
+              return True # Not an error, just nothing to aggregate
     except duckdb.CatalogException:
-         logger.warning(f"Skipping aggregation for {agg_table}: Raw table '{raw_table}' does not exist yet.")
-         return True # Not an error, just wait for raw data
+         logger.warning(f"Skip Aggregation for {agg_table}: Raw table '{raw_table}' does not exist.")
+         return True # Not an error, wait for raw data
     except Exception as e:
          logger.error(f"Error checking raw data count for {agg_table}: {e}", exc_info=True)
-         return False
+         return False # Real error during check
 
     # Ensure aggregate table exists
     if not ensure_aggregate_table(conn, endpoint_name, level): return False
 
-    # Get JSON processing paths
-    price_path_in_item = config.get("price_json_path", ["$.price"])[0] # Take first path element
-    symbol_path_in_item = config.get("symbol_json_path", ["$.symbol"])[0]
-    array_base_paths = config.get("array_base_paths", ["$"]) # List of paths to arrays
+    # Get JSON processing paths from config
+    price_path = config.get("price_json_path", "$.price")
+    symbol_path = config.get("symbol_json_path", "$.symbol")
+    array_base_paths = config.get("array_base_paths", ["$"])
 
-    # --- Build Aggregation Query ---
-    # We need to handle multiple base paths (like gold and currency)
+    # --- Build and Execute Aggregation Query ---
     all_aggregates = []
     query_success = True
 
     for base_path in array_base_paths:
         try:
-            # Correct function is unnest
-            # Need to handle root array ($) vs nested array (gold, metal_precious)
-            if base_path == "$": # Root is an array
-                unnest_expr = f"unnest(data)"
-            else: # Nested array
-                unnest_expr = f"unnest(data -> '{base_path}')"
-
-            # Use json_extract_string for symbol, try_cast for price
+            # *** FIX for BinderException ***
+            # Use json_extract to get the array, then unnest the result.
+            # Need to handle potential NULLs if path doesn't exist.
+            # Use json_type to check if extracted value is an array.
             query = f"""
-            WITH UnnestedItems AS (
-                SELECT {unnest_expr} AS item
+            WITH RawJsonArrays AS (
+                SELECT
+                    timestamp,
+                    json_extract(data, '{base_path}') as item_array
                 FROM "{raw_table}"
                 WHERE timestamp >= ? AND timestamp < ?
+                  AND json_type(json_extract(data, '{base_path}')) = 'ARRAY' -- Process only if path yields an array
+            ),
+            UnnestedItems AS (
+                SELECT
+                    -- Unnest the extracted JSON array
+                    unnest(item_array) AS item
+                FROM RawJsonArrays
             ),
             ExtractedData AS (
                 SELECT
-                    json_extract_string(item, '{symbol_path_in_item}') AS symbol,
-                    -- Extract as string first, then try_cast
-                    json_extract_string(item, '{price_path_in_item}') AS price_str
+                    -- Extract symbol and price string from each item object
+                    json_extract_string(item, '{symbol_path}') AS symbol,
+                    json_extract_string(item, '{price_path}') AS price_str
                 FROM UnnestedItems
+                WHERE json_type(item) = 'OBJECT' -- Process only if item is an object
             ),
             FilteredData AS (
                 SELECT
                     symbol,
+                    -- Attempt to cast price string to DECIMAL
                     try_cast(price_str AS DECIMAL({DECIMAL_PRECISION*2}, {DECIMAL_SCALE*2})) AS price_decimal
-                    -- Use higher intermediate precision for cast
                 FROM ExtractedData
-                WHERE symbol IS NOT NULL AND price_str IS NOT NULL AND symbol != ''
+                WHERE symbol IS NOT NULL AND price_str IS NOT NULL AND symbol != '' AND price_str != ''
             )
             SELECT
                 symbol,
+                -- Calculate median on valid decimal prices
                 median(price_decimal) AS median_price,
                 count(*) AS source_count
             FROM FilteredData
-            WHERE price_decimal IS NOT NULL -- Filter out failed casts
+            WHERE price_decimal IS NOT NULL -- Exclude rows where cast failed
             GROUP BY symbol;
             """
-            logger.debug(f"Executing agg query for {agg_table} (path: {base_path}) period: {start_time_utc.date()}-{end_time_utc.date()}")
+            logger.debug(f"Executing agg query for {agg_table} (path: {base_path}) period: {start_time_utc.isoformat()} - {end_time_utc.isoformat()}")
             aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
             logger.info(f"Aggregated {len(aggregates)} symbols from path '{base_path}' for {agg_table}")
             all_aggregates.extend(aggregates)
 
-        except duckdb.CatalogException as e:
-            # Specific error for non-existent table function - likely typo or version issue
-             logger.error(f"DuckDB Catalog Error during aggregation for {agg_table} (path: {base_path}): {e}. Check DuckDB version and JSON functions.", exc_info=True)
+        except duckdb.BinderException as e:
+             # Should be fixed, but log if it happens again
+             logger.error(f"DuckDB Binder Error during aggregation query for {agg_table} (path: {base_path}): {e}. Please check query structure.", exc_info=True)
              query_success = False
-             break # Stop processing other base paths for this endpoint/level if query fails
-        except Exception as e:
-            logger.error(f"Error during aggregation for {agg_table} (path: {base_path}): {e}", exc_info=True)
+             break
+        except duckdb.CatalogException as e:
+            logger.error(f"DuckDB Catalog Error during aggregation for {agg_table} (path: {base_path}): {e}. Check JSON functions/paths.", exc_info=True)
             query_success = False
-            break # Stop processing
+            break
+        except Exception as e:
+            logger.error(f"General Error during aggregation query for {agg_table} (path: {base_path}): {e}", exc_info=True)
+            query_success = False
+            break # Stop processing other base paths if one fails
 
     if not query_success:
+        logger.error(f"Aggregation failed for {endpoint_name} level {level} due to query error.")
         return False # Don't update tracker if query failed
 
     # --- Insert Aggregates ---
     if not all_aggregates:
-        logger.warning(f"No valid aggregate data calculated for {agg_table} in the period.")
+        logger.warning(f"No valid aggregate data calculated for {agg_table} in period {start_time_utc.isoformat()} - {end_time_utc.isoformat()}.")
     else:
         insert_sql = f"""
         INSERT INTO "{agg_table}" (timestamp, symbol, median_price, source_count) VALUES (?, ?, ?, ?)
@@ -430,89 +491,172 @@ def calculate_and_store_aggregates(
         rows_to_insert = []
         for symbol, median_val, count in all_aggregates:
              if isinstance(median_val, (Decimal, float, int)):
-                  # Convert median_val to Decimal with target precision/scale before inserting
                   try:
+                      # Quantize to target scale before insertion
                       final_median = Decimal(median_val).quantize(Decimal('1e-' + str(DECIMAL_SCALE)), rounding=ROUND_HALF_UP)
+                      # target_timestamp is already Date or Datetime
                       rows_to_insert.append((target_timestamp, symbol, final_median, count))
-                  except (InvalidOperation, TypeError):
-                      logger.warning(f"Could not convert median value {median_val} ({type(median_val)}) to Decimal for {symbol} in {agg_table}.")
+                  except (InvalidOperation, TypeError, ValueError) as q_err:
+                      logger.warning(f"Could not convert/quantize median value {median_val} ({type(median_val)}) to Decimal for {symbol} in {agg_table}: {q_err}")
              else:
-                  logger.warning(f"Median value for {symbol} in {agg_table} is not numeric ({type(median_val)}), skipping.")
+                  logger.warning(f"Median value for {symbol} in {agg_table} is not numeric ({type(median_val)}:{median_val}), skipping.")
 
         if rows_to_insert:
             try:
-                conn.executemany(insert_sql, rows_to_insert)
-                logger.info(f"Stored {len(rows_to_insert)} aggregates into {agg_table}.")
+                # Use transaction for bulk insert
+                with conn.transaction():
+                    conn.executemany(insert_sql, rows_to_insert)
+                logger.info(f"Stored/Updated {len(rows_to_insert)} aggregates into {agg_table}.")
             except Exception as e:
-                logger.error(f"Error inserting aggregates into {agg_table}: {e}", exc_info=True)
+                logger.error(f"Error inserting/updating aggregates into {agg_table}: {e}", exc_info=True)
                 return False # Return failure if insert fails
         else:
             logger.warning(f"No valid rows to insert into {agg_table} after validation.")
 
-    # Update tracker *after* successful processing or if no data was found
-    update_last_run_time(conn, task_name, datetime.now(pytz.utc))
+    # Update tracker only if the process completed (even if no data was inserted)
+    update_last_run_time(conn, agg_task_name, datetime.now(pytz.utc))
+    # After successful storage, export this level to JSON
+    export_aggregates_to_json(conn, endpoint_name, level)
     return True
+
+# --- Aggregate JSON Export ---
+def export_aggregates_to_json(conn: duckdb.DuckDBPyConnection, endpoint_name: str, level: str) -> bool:
+    """Exports aggregated data for a specific level to a JSON file suitable for charting."""
+    agg_table = f"{endpoint_name}_{level}"
+    output_dir = AGGREGATE_JSON_FOLDER
+    output_filename = os.path.join(output_dir, f"agg_{endpoint_name}_{level}.json")
+
+    logger.info(f"Exporting aggregates from '{agg_table}' to JSON...")
+    try:
+        # Fetch all data for the level, ordered by time
+        # Ensure timestamp is converted to UTC if not already
+        query = f'SELECT timestamp, symbol, median_price FROM "{agg_table}" ORDER BY timestamp ASC'
+        all_data = conn.execute(query).fetchall()
+
+        if not all_data:
+            logger.warning(f"No aggregate data found in '{agg_table}' to export.")
+            # Optionally create an empty file or skip
+            # For consistency, let's write an empty JSON object if the table is empty
+            os.makedirs(output_dir, exist_ok=True)
+            with open(output_filename, 'w', encoding='utf-8') as f:
+                json.dump({}, f)
+            return True
+
+        # Structure data for charting: { "SYMBOL": [[timestamp_ms, price], ...], ... }
+        chart_data: Dict[str, List[List[Union[int, float]]]] = {}
+        for ts, symbol, price in all_data:
+            if symbol not in chart_data:
+                chart_data[symbol] = []
+
+            # Convert timestamp (Date or Datetime) to milliseconds epoch UTC
+            timestamp_ms: Optional[int] = None
+            if isinstance(ts, datetime):
+                # Ensure it's UTC
+                if ts.tzinfo is None: ts_utc = pytz.utc.localize(ts)
+                else: ts_utc = ts.astimezone(pytz.utc)
+                timestamp_ms = int(ts_utc.timestamp() * 1000)
+            elif isinstance(ts, date):
+                # For daily data, represent it as midnight UTC of that day
+                dt_utc = pytz.utc.localize(datetime.combine(ts, dt_time.min))
+                timestamp_ms = int(dt_utc.timestamp() * 1000)
+
+            # Convert Decimal price to float for JSON
+            price_float = float(price) if price is not None else None
+
+            if timestamp_ms is not None and price_float is not None:
+                chart_data[symbol].append([timestamp_ms, price_float])
+
+        # Save the structured data to JSON
+        os.makedirs(output_dir, exist_ok=True)
+        with open(output_filename, 'w', encoding='utf-8') as f:
+            json.dump(chart_data, f, ensure_ascii=False,
+                      indent=4 if PRETTY_PRINT_JSON else None,
+                      separators=(',', ':') if not PRETTY_PRINT_JSON else None)
+        logger.info(f"Successfully exported aggregates to {output_filename}")
+        return True
+
+    except duckdb.CatalogException:
+         logger.warning(f"Cannot export JSON for {agg_table}: Table does not exist.")
+         return True # Not an error if table isn't there yet
+    except Exception as e:
+        logger.error(f"Failed to export aggregates from '{agg_table}' to JSON: {e}", exc_info=True)
+        return False
 
 
 # --- API Fetching ---
-# ... (fetch_api_data remains the same as previous, ensuring masking) ...
 async def fetch_api_data(
     session: aiohttp.ClientSession, endpoint_name: str, config: Dict[str, Any],
     base_url: str, api_key: str
 ) -> Optional[Tuple[str, Dict[str, Any], Any]]:
+    """Fetches data from a single API endpoint asynchronously, handling errors and masking."""
     relative_url = config['relative_url'].format(api_key=api_key)
     full_url = f"{base_url.rstrip('/')}/{relative_url.lstrip('/')}"
-    masked_url = mask_string(full_url) # Mask upfront
+    masked_url = mask_string(full_url) # Mask URL for logging
     logger.debug(f"Requesting: {endpoint_name} ({masked_url})") # Log masked URL
     start_time = time.monotonic()
     try:
-        async with session.get(full_url, timeout=REQUEST_TIMEOUT_SECONDS) as response:
+        # Use configured headers
+        async with session.get(full_url, headers=HEADERS, timeout=REQUEST_TIMEOUT_SECONDS) as response:
             elapsed_time = time.monotonic() - start_time
-            logger.debug(f"Response: {endpoint_name} ({response.status}) in {elapsed_time:.2f}s") # Log only status/time
+            logger.debug(f"Response: {endpoint_name} Status={response.status} in {elapsed_time:.2f}s") # Log status/time
+
             if response.status == 200:
                 try:
+                    # Attempt to decode JSON, allow any content type if server doesn't set it right
                     data = await response.json(content_type=None)
-                    # Log success without data itself unless DEBUG
                     logger.info(f"Success: Fetched '{endpoint_name}'.")
-                    # logger.debug(f"Data for {endpoint_name}: {str(data)[:200]}...") # Optional: log snippet at DEBUG
+                    # Avoid logging full data unless necessary for debugging
+                    # logger.debug(f"Data preview for {endpoint_name}: {str(data)[:200]}...")
                     return endpoint_name, config, data
                 except json.JSONDecodeError as json_err:
                     response_text_snippet = await response.text()
-                    response_text_snippet = mask_string(response_text_snippet[:200]) # Mask snippet
+                    response_text_snippet = mask_string(response_text_snippet[:200]) # Mask response snippet too
                     logger.error(f"JSON Decode Error: {endpoint_name} ({response.status}). Snippet: '{response_text_snippet}'. Err: {json_err}", exc_info=False)
                     return None
                 except Exception as e:
-                    logger.error(f"Response Proc Error: {endpoint_name} ({response.status}). Err: {e}", exc_info=True)
+                    logger.error(f"Response Processing Error: {endpoint_name} ({response.status}). Err: {e}", exc_info=True)
                     return None
             else:
+                # Log non-200 status codes as errors
                 response_text_snippet = await response.text()
                 response_text_snippet = mask_string(response_text_snippet[:200])
                 logger.error(f"API Request Failed: {endpoint_name} ({response.status}). Snippet: '{response_text_snippet}'")
                 return None
     except asyncio.TimeoutError:
-        logger.error(f"Timeout Error ({REQUEST_TIMEOUT_SECONDS}s): {endpoint_name}", exc_info=False)
+        logger.error(f"Timeout Error ({REQUEST_TIMEOUT_SECONDS}s): {endpoint_name} ({masked_url})", exc_info=False)
         return None
     except aiohttp.ClientError as client_err:
-        logger.error(f"Client Error: {endpoint_name}. Err: {client_err}", exc_info=False)
+        # Handles connection errors, proxy errors, etc.
+        logger.error(f"Client Error: {endpoint_name} ({masked_url}). Err: {client_err}", exc_info=False)
         return None
     except Exception as e:
-        logger.error(f"Unexpected Fetch Error: {endpoint_name}. Err: {e}", exc_info=True)
+        # Catch any other unexpected exceptions during fetch
+        logger.error(f"Unexpected Fetch Error: {endpoint_name} ({masked_url}). Err: {e}", exc_info=True)
         return None
 
 # --- Main Execution ---
 async def main():
+    """Main asynchronous function orchestrating the fetch and aggregation process."""
+    # Setup logging first (will create the log file for this run)
+    setup_logging()
+
     script_start_time = time.monotonic()
     logger.info(f"{COLOR_GREEN}--- Starting Market Data Sync Cycle ---{COLOR_RESET}")
 
+    # Load configuration from environment variables
     api_key = os.getenv(API_KEY_ENV_VAR)
     base_url = os.getenv(BASE_URL_ENV_VAR)
     if not api_key or not base_url:
-        logger.critical("CRITICAL: BRS_API_KEY or BRS_BASE_URL env var not set.")
-        return
+        logger.critical(f"CRITICAL: {API_KEY_ENV_VAR} or {BASE_URL_ENV_VAR} environment variable not set.")
+        return # Cannot proceed without API key and base URL
 
+    # Establish database connection
     db_conn = get_db_connection(DB_FILE)
-    if db_conn is None: return
+    if db_conn is None:
+        logger.critical("CRITICAL: Failed to establish database connection. Exiting.")
+        return # Cannot proceed without DB
 
+    # Get current time in UTC and local timezone for scheduling checks
     now_utc = datetime.now(pytz.utc)
     now_local = now_utc.astimezone(DEFAULT_TIMEZONE)
     logger.debug(f"Cycle time: UTC={now_utc.isoformat()}, Local={now_local.isoformat()}")
@@ -521,55 +665,69 @@ async def main():
     apis_to_fetch_this_run: List[Tuple[str, Dict[str, Any]]] = []
     logger.info("--- Checking API Fetch Tasks ---")
     for name, config in API_ENDPOINTS.items():
-        logger.debug(f"Checking: '{name}'")
+        logger.debug(f"Checking fetch task: '{name}'")
         if not config.get('enabled', False):
-            logger.debug(" -> Skip: Disabled")
+            logger.debug(f" -> Skip '{name}': Disabled in config.")
             continue
-        if config.get('market_hours_apply', False) and not is_market_open(TIMEZONE, TSE_MARKET_OPEN_TIME, TSE_MARKET_CLOSE_TIME, TSE_MARKET_DAYS):
-            logger.debug(" -> Skip: Market Closed")
+        if config.get('market_hours_apply', False) and not is_market_open(DEFAULT_TIMEZONE, TSE_MARKET_OPEN_TIME, TSE_MARKET_CLOSE_TIME, TSE_MARKET_DAYS):
+            logger.debug(f" -> Skip '{name}': Market is closed.")
             continue
         fetch_interval = timedelta(minutes=config.get('fetch_interval_minutes', 10))
+        # Check if interval has passed since last successful/failed run
         if not should_run_task(db_conn, f"fetch_{name}", fetch_interval, now_utc):
-            logger.debug(" -> Skip: Interval not met")
+            logger.debug(f" -> Skip '{name}': Interval not met.")
             continue
-        logger.info(f"Scheduling fetch: '{name}'")
+
+        logger.info(f"Scheduling fetch for: '{name}'")
         apis_to_fetch_this_run.append((name, config))
 
-    # Execute fetches
+    # Execute API fetches concurrently
     fetch_results = []
     if apis_to_fetch_this_run:
-        logger.info(f"Fetching data for {len(apis_to_fetch_this_run)} endpoints...")
-        # ... (asyncio gather logic remains the same) ...
+        logger.info(f"Attempting to fetch data for {len(apis_to_fetch_this_run)} endpoints...")
         semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
         async def fetch_with_semaphore(session, name, cfg, key):
              async with semaphore:
                  return await fetch_api_data(session, name, cfg, base_url, key)
-        timeout = aiohttp.ClientTimeout(total=REQUEST_TIMEOUT_SECONDS)
-        async with aiohttp.ClientSession(headers=HEADERS, timeout=timeout) as session:
-            tasks = [fetch_with_semaphore(session, name, config, api_key) for name, config in apis_to_fetch_this_run]
-            fetch_results = await asyncio.gather(*tasks, return_exceptions=True)
 
-    # Process fetch results
+        timeout = aiohttp.ClientTimeout(total=REQUEST_TIMEOUT_SECONDS)
+        # Use a single session for connection pooling and respecting headers
+        async with aiohttp.ClientSession(timeout=timeout) as session:
+            tasks = [fetch_with_semaphore(session, name, config, api_key) for name, config in apis_to_fetch_this_run]
+            # Gather results, capturing exceptions instead of crashing
+            fetch_results = await asyncio.gather(*tasks, return_exceptions=True)
+    else:
+        logger.info("No API endpoints scheduled for fetching in this cycle.")
+
+
+    # Process fetch results: Store raw data and latest JSON
     processed_fetches = 0
     successful_raw_inserts = 0
     fetch_errors = 0
     if fetch_results:
-        insert_time_utc = datetime.now(pytz.utc)
+        insert_time_utc = datetime.now(pytz.utc) # Use a consistent timestamp for all inserts in this batch
         logger.info("--- Processing Fetch Results ---")
         for i, result in enumerate(fetch_results):
             processed_fetches += 1
             endpoint_name, config = apis_to_fetch_this_run[i]
-            fetch_task_name = f"fetch_{endpoint_name}"
+            fetch_task_name = f"fetch_{endpoint_name}" # Task name for the tracker
+
             if isinstance(result, Exception):
-                logger.error(f"Fetch Task Error: '{endpoint_name}'. Details logged previously.", exc_info=False)
+                # Errors from gather() itself, already logged if they occurred in fetch_api_data
+                logger.error(f"Fetch Task Error (Caught by Gather): '{endpoint_name}'. Details logged previously. Exception: {result}", exc_info=False)
                 fetch_errors += 1
-                update_last_run_time(db_conn, fetch_task_name, now_utc) # Update even on error
+                # Update tracker even on error, so we don't immediately retry locked/broken endpoints
+                update_last_run_time(db_conn, fetch_task_name, now_utc)
             elif result is not None:
-                _name, _config, data = result
+                # Successful fetch
+                _name, _config, data = result # Unpack the result tuple
+                # Attempt to insert raw data into the database
                 if insert_raw_data(db_conn, endpoint_name, insert_time_utc, data):
                     successful_raw_inserts += 1
-                else: fetch_errors += 1
-                # Save JSON file (optional)
+                else:
+                    fetch_errors += 1 # Count DB insert failure as an error
+
+                # Save the latest fetched data to a JSON file (overwrites previous)
                 output_filename = os.path.join(DATA_FOLDER, config['output_filename'])
                 try:
                     os.makedirs(DATA_FOLDER, exist_ok=True)
@@ -577,13 +735,20 @@ async def main():
                         json.dump(data, f, ensure_ascii=False,
                                   indent=4 if PRETTY_PRINT_JSON else None,
                                   separators=(',', ':') if not PRETTY_PRINT_JSON else None)
-                    logger.debug(f"Saved JSON: {os.path.basename(output_filename)}")
-                except IOError as e: logger.error(f"JSON write failed for {os.path.basename(output_filename)}: {e}", exc_info=False)
-                update_last_run_time(db_conn, fetch_task_name, now_utc) # Update on success/skip
-            else: # Fetch failed (non-200, timeout etc)
+                    logger.debug(f"Saved latest raw JSON: {os.path.basename(output_filename)}")
+                except IOError as e:
+                    logger.error(f"Failed to write latest JSON file {os.path.basename(output_filename)}: {e}", exc_info=False)
+                    # Don't count this as a fetch error, but log it
+
+                # Update tracker on success
+                update_last_run_time(db_conn, fetch_task_name, now_utc)
+            else:
+                # Fetch failed (non-200, timeout, JSON decode error, etc.) - Error logged in fetch_api_data
                 fetch_errors += 1
-                update_last_run_time(db_conn, fetch_task_name, now_utc) # Update on failure
-        logger.info(f"Fetch Results: Processed={processed_fetches}, Inserts={successful_raw_inserts}, Errors={fetch_errors}")
+                # Update tracker on failure as well
+                update_last_run_time(db_conn, fetch_task_name, now_utc)
+
+        logger.info(f"Fetch Results Summary: Processed={processed_fetches}, DB Inserts={successful_raw_inserts}, Errors={fetch_errors}")
 
     # --- 2. Run Aggregations ---
     logger.info("--- Checking Aggregation Tasks ---")
@@ -591,69 +756,125 @@ async def main():
     agg_skipped = 0
     agg_errors = 0
     for endpoint_name, config in API_ENDPOINTS.items():
-        if not config.get('enabled', False): continue
-        levels = config.get('aggregation_levels', [])
-        if not levels: continue
+        if not config.get('enabled', False): continue # Skip disabled endpoints
 
+        levels = config.get('aggregation_levels', [])
+        if not levels:
+            logger.debug(f"No aggregation levels configured for '{endpoint_name}'.")
+            continue # Skip if no aggregation levels defined
+
+        logger.debug(f"Checking aggregations for '{endpoint_name}': Levels={levels}")
         for level in levels:
-            if level not in AGGREGATION_INTERVALS: continue
+            if level not in AGGREGATION_INTERVALS:
+                logger.warning(f"Invalid aggregation level '{level}' configured for '{endpoint_name}'. Skipping.")
+                continue
+
             interval = AGGREGATION_INTERVALS[level]
             agg_task_name = f"aggregate_{level}_{endpoint_name}"
             run_agg = False
-            target_ts = None
-            start_ts_utc = None
-            end_ts_utc = now_utc
+            target_ts: Union[datetime, date, None] = None # Timestamp for the aggregated record
+            start_ts_utc: Optional[datetime] = None     # Start of the period to aggregate
+            end_ts_utc: Optional[datetime] = now_utc       # End of the period (usually now)
 
             if level == 'daily':
+                # Daily aggregation runs shortly after midnight for the *previous* day
                 if now_local.time() >= DAILY_AGGREGATION_TIME_LOCAL:
                     last_run_daily = get_last_run_time(db_conn, agg_task_name)
+                    # Run if never run before OR if the last run was before today (local time)
                     if last_run_daily is None or last_run_daily.astimezone(DEFAULT_TIMEZONE).date() < now_local.date():
                         run_agg = True
-                        target_ts = now_local.date() - timedelta(days=1) # Agg for yesterday
-                        start_ts_utc = DEFAULT_TIMEZONE.localize(datetime.combine(target_ts, dt_time.min)).astimezone(pytz.utc)
-                        end_ts_utc = DEFAULT_TIMEZONE.localize(datetime.combine(target_ts, dt_time.max)).astimezone(pytz.utc)
-                    else: logger.debug(f"Skip Daily '{agg_task_name}': Ran today.")
-                else: logger.debug(f"Skip Daily '{agg_task_name}': Time not reached.")
-            else: # Other intervals
+                        # Target timestamp is the date of the day being aggregated (yesterday)
+                        target_ts = now_local.date() - timedelta(days=1)
+                        # Period is from midnight to midnight of the target date, in UTC
+                        start_dt_local = datetime.combine(target_ts, dt_time.min)
+                        end_dt_local = datetime.combine(target_ts, dt_time.max)
+                        start_ts_utc = DEFAULT_TIMEZONE.localize(start_dt_local).astimezone(pytz.utc)
+                        # Use strictly less than the start of the next day for the end boundary
+                        end_ts_utc = DEFAULT_TIMEZONE.localize(datetime.combine(target_ts + timedelta(days=1), dt_time.min)).astimezone(pytz.utc)
+                        logger.debug(f"Daily agg '{agg_task_name}' period: {start_ts_utc.isoformat()} to {end_ts_utc.isoformat()}")
+                    else: logger.debug(f"Skip Daily '{agg_task_name}': Already ran for {now_local.date()}.")
+                else: logger.debug(f"Skip Daily '{agg_task_name}': Trigger time {DAILY_AGGREGATION_TIME_LOCAL} not reached.")
+            else: # Other intervals (6h, 12h, 3d, weekly)
                 if should_run_task(db_conn, agg_task_name, interval, now_utc):
                     run_agg = True
-                    target_ts = now_utc # Aggregate up to now
+                    # Target timestamp is the end of the period (now_utc for interval-based)
+                    target_ts = now_utc
+                    # Period is from (now - interval) up to (but not including) now
                     start_ts_utc = now_utc - interval
+                    end_ts_utc = now_utc # Use current time as end boundary
+                    logger.debug(f"Interval agg '{agg_task_name}' period: {start_ts_utc.isoformat()} to {end_ts_utc.isoformat()}")
 
-            if run_agg:
-                logger.info(f"Running Aggregation: '{agg_task_name}' for period ending {target_ts}")
-                if calculate_and_store_aggregates(db_conn, endpoint_name, level, config, start_ts_utc, end_ts_utc, target_ts):
-                    agg_success += 1
-                else: agg_errors += 1
-            else: agg_skipped += 1
 
-    logger.info(f"Aggregation Results: Success={agg_success}, Skipped={agg_skipped}, Errors={agg_errors}")
+            # Execute aggregation if scheduled
+            if run_agg and target_ts is not None and start_ts_utc is not None and end_ts_utc is not None:
+                logger.info(f"Running Aggregation: '{agg_task_name}' for period ending {target_ts.isoformat()}")
+                try:
+                    if calculate_and_store_aggregates(db_conn, endpoint_name, level, config, start_ts_utc, end_ts_utc, target_ts):
+                        agg_success += 1
+                    else:
+                        agg_errors += 1
+                        # Don't update tracker here, calculate_and_store does it on success/no-data
+                except Exception as agg_e:
+                     logger.error(f"Unexpected error during calculate_and_store_aggregates for {agg_task_name}: {agg_e}", exc_info=True)
+                     agg_errors += 1
+            else:
+                if run_agg: logger.warning(f"Aggregation scheduled for {agg_task_name} but timestamps were invalid. Skipping.")
+                agg_skipped += 1 # Count skipped runs (due to timing or market hours)
+
+    logger.info(f"Aggregation Results Summary: Success={agg_success}, Skipped={agg_skipped}, Errors={agg_errors}")
 
     # --- Finish ---
     try:
         if db_conn:
+            # Optional: Run VACUUM or OPTIMIZE if DB grows very large, but can be slow
+            # logger.debug("Running DB VACUUM...")
+            # db_conn.execute("VACUUM;")
             db_conn.close()
             logger.info("DB connection closed.")
-    except Exception as e: logger.error(f"Error closing DB: {e}", exc_info=True)
+    except Exception as e:
+        logger.error(f"Error during DB close/cleanup: {e}", exc_info=True)
 
     script_end_time = time.monotonic()
-    logger.info(f"{COLOR_GREEN}--- Market Data Sync Cycle Finished in {script_end_time - script_start_time:.2f} seconds ---{COLOR_RESET}")
+    total_duration = script_end_time - script_start_time
+    logger.info(f"{COLOR_GREEN}--- Market Data Sync Cycle Finished in {total_duration:.2f} seconds ---{COLOR_RESET}")
 
-# --- Entry Point ---
+    # --- Post-Execution Suggestions ---
+    logger.info("Improvement Suggestion 1: Monitor DuckDB file size and consider partitioning or archiving raw data if it grows excessively large.")
+    logger.info("Improvement Suggestion 2: Add schema validation for API responses using a library like Pydantic to catch unexpected data structures early.")
+
+
+# --- Script Entry Point ---
 if __name__ == "__main__":
-    setup_logging()
-    # ... (dotenv loading remains same) ...
+    # Load .env file if present (useful for local development)
     try:
         from dotenv import load_dotenv
         script_dir = os.path.dirname(__file__)
+        # Look for .env in the parent directory relative to src/
         dotenv_path = os.path.join(script_dir, '..', '.env')
         if os.path.exists(dotenv_path):
-            load_dotenv(dotenv_path=dotenv_path)
-            logger.info("Loaded .env from project root.")
-    except ImportError: logger.debug(".env library not found.")
-    except Exception as e: logger.error(f"Error loading .env: {e}", exc_info=True)
+             if load_dotenv(dotenv_path=dotenv_path):
+                 print(f"{COLOR_BLUE}•{COLOR_RESET} Loaded environment variables from: {dotenv_path}")
+             else:
+                 print(f"{COLOR_YELLOW}⚠️{COLOR_RESET} .env file found but loading failed or empty: {dotenv_path}")
+        else:
+            print(f"{COLOR_BLUE}•{COLOR_RESET} No .env file found at: {dotenv_path}. Relying on system environment variables.")
+    except ImportError:
+        print(f"{COLOR_YELLOW}⚠️ {COLOR_RESET} python-dotenv library not installed, cannot load .env file. Relying on system environment variables.")
+    except Exception as e:
+        print(f"{COLOR_RED}✗ Error loading .env file: {e}{COLOR_RESET}")
 
+    # Run the main asynchronous function
     try:
+        # In Python 3.7+, asyncio.run handles loop creation/closing
         asyncio.run(main())
-    except KeyboardInterrupt: logger.warning("Script interrupted.")
-    except Exception as e: logger.critical(f"Unhandled main exception: {e}", exc_info=True)
+    except KeyboardInterrupt:
+        # Use print here as logger might not be set up if interrupted early
+        print(f"\n{COLOR_YELLOW}⚠️ Script interrupted by user.{COLOR_RESET}")
+    except Exception as e:
+        # Catch any unhandled exceptions in the main execution flow
+        # Use logger if available, otherwise print
+        if logger.handlers:
+            logger.critical(f"Unhandled critical exception in main execution: {e}", exc_info=True)
+        else:
+            print(f"{COLOR_RED}✗ Unhandled critical exception in main execution: {e}{COLOR_RESET}")
+            traceback.print_exc()
