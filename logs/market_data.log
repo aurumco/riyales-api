@@ -1,0 +1,356 @@
+2025-04-25 04:14:36|INFO|MarketDataSync|Logging setup complete. Console level: INFO, File level: DEBUG
+2025-04-25 04:14:36|INFO|MarketDataSync|[32m--- Starting Market Data Sync Cycle ---[0m
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Connecting to DB: data/market_data.duckdb
+2025-04-25 04:14:36|INFO|MarketDataSync|DB connection successful.
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Ensured aggregation_tracker table exists.
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Current UTC time: 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Current Local time (Asia/Tehran): 2025-04-25 04:14:36.493832+03:30
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Checking fetch task: 'gold_currency'
+2025-04-25 04:14:36|INFO|MarketDataSync|Task 'fetch_gold_currency' never run before or error fetching time. Running now.
+2025-04-25 04:14:36|INFO|MarketDataSync|Scheduling fetch for: 'gold_currency'
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Checking fetch task: 'crypto'
+2025-04-25 04:14:36|INFO|MarketDataSync|Task 'fetch_crypto' never run before or error fetching time. Running now.
+2025-04-25 04:14:36|INFO|MarketDataSync|Scheduling fetch for: 'crypto'
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Checking fetch task: 'commodity'
+2025-04-25 04:14:36|INFO|MarketDataSync|Task 'fetch_commodity' never run before or error fetching time. Running now.
+2025-04-25 04:14:36|INFO|MarketDataSync|Scheduling fetch for: 'commodity'
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Checking fetch task: 'tse_ifb_symbols'
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Market Check: Local Time=2025-04-25 04:14:36 +0330, Weekday=4, Time=04:14:36.507840, Market Days=[5, 6, 0, 1, 2], Market Hours=08:45:00-12:45:00
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Market Status: CLOSED (Outside Market Days)
+2025-04-25 04:14:36|DEBUG|MarketDataSync| -> Skipped: Market Closed.
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Checking fetch task: 'tse_options'
+2025-04-25 04:14:36|DEBUG|MarketDataSync| -> Skipped: Disabled.
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Checking fetch task: 'tse_nav'
+2025-04-25 04:14:36|DEBUG|MarketDataSync| -> Skipped: Disabled.
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Checking fetch task: 'tse_index'
+2025-04-25 04:14:36|DEBUG|MarketDataSync| -> Skipped: Disabled.
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Checking fetch task: 'ifb_index'
+2025-04-25 04:14:36|DEBUG|MarketDataSync| -> Skipped: Disabled.
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Checking fetch task: 'selected_indices'
+2025-04-25 04:14:36|DEBUG|MarketDataSync| -> Skipped: Disabled.
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Checking fetch task: 'debt_securities'
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Market Check: Local Time=2025-04-25 04:14:36 +0330, Weekday=4, Time=04:14:36.508235, Market Days=[5, 6, 0, 1, 2], Market Hours=08:45:00-12:45:00
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Market Status: CLOSED (Outside Market Days)
+2025-04-25 04:14:36|DEBUG|MarketDataSync| -> Skipped: Market Closed.
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Checking fetch task: 'housing_facilities'
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Market Check: Local Time=2025-04-25 04:14:36 +0330, Weekday=4, Time=04:14:36.508336, Market Days=[5, 6, 0, 1, 2], Market Hours=08:45:00-12:45:00
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Market Status: CLOSED (Outside Market Days)
+2025-04-25 04:14:36|DEBUG|MarketDataSync| -> Skipped: Market Closed.
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Checking fetch task: 'futures'
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Market Check: Local Time=2025-04-25 04:14:36 +0330, Weekday=4, Time=04:14:36.508432, Market Days=[5, 6, 0, 1, 2], Market Hours=08:45:00-12:45:00
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Market Status: CLOSED (Outside Market Days)
+2025-04-25 04:14:36|DEBUG|MarketDataSync| -> Skipped: Market Closed.
+2025-04-25 04:14:36|INFO|MarketDataSync|Fetching data for 3 endpoints...
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Requesting: gold_currency (https://brsapi.ir/Api/Market/Gold_Currency.php?key=********)
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Requesting: crypto (https://brsapi.ir/Api/Market/Cryptocurrency.php?key=********)
+2025-04-25 04:14:36|DEBUG|MarketDataSync|Requesting: commodity (https://brsapi.ir/Api/Market/Commodity.php?key=********)
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Response: gold_currency (200) in 1.71s
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Response: crypto (200) in 1.73s
+2025-04-25 04:14:38|INFO|MarketDataSync|Success: Fetched data for gold_currency.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Response: commodity (200) in 1.96s
+2025-04-25 04:14:38|INFO|MarketDataSync|Success: Fetched data for commodity.
+2025-04-25 04:14:38|INFO|MarketDataSync|Success: Fetched data for crypto.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Ensured raw table 'gold_currency_raw' exists.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Inserted raw data into 'gold_currency_raw' for 2025-04-25 00:44:38.798378+00:00.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Saved JSON: data/gold_currency.json
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Updated last run time for 'fetch_gold_currency' to 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Ensured raw table 'crypto_raw' exists.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Inserted raw data into 'crypto_raw' for 2025-04-25 00:44:38.798378+00:00.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Saved JSON: data/cryptocurrency.json
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Updated last run time for 'fetch_crypto' to 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Ensured raw table 'commodity_raw' exists.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Inserted raw data into 'commodity_raw' for 2025-04-25 00:44:38.798378+00:00.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Saved JSON: data/commodity.json
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Updated last run time for 'fetch_commodity' to 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|INFO|MarketDataSync|Fetch processing done. Processed: 3, Raw Inserts: 3, Errors: 0
+2025-04-25 04:14:38|INFO|MarketDataSync|--- Starting Aggregation Checks ---
+2025-04-25 04:14:38|INFO|MarketDataSync|Running aggregation task: 'aggregate_daily_gold_currency' for period ending 2025-04-24
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Ensured aggregate table 'gold_currency_daily' exists.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Executing aggregation query for gold_currency_daily between 2025-04-23 20:30:00+00:00 and 2025-04-24 20:29:59.999999+00:00
+2025-04-25 04:14:38|ERROR|MarketDataSync|Error during aggregation for gold_currency_daily: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "gold_currency_raw", json_array_elements(data -> 'gold') AS tbl(item)
+                                              ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 454, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.CatalogException: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "gold_currency_raw", json_array_elements(data -> 'gold') AS tbl(item)
+                                              ^
+2025-04-25 04:14:38|INFO|MarketDataSync|Task 'aggregate_6h_gold_currency' never run before or error fetching time. Running now.
+2025-04-25 04:14:38|INFO|MarketDataSync|Running aggregation task: 'aggregate_6h_gold_currency' for period ending 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Ensured aggregate table 'gold_currency_6h' exists.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Executing aggregation query for gold_currency_6h between 2025-04-24 18:44:36.493832+00:00 and 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|ERROR|MarketDataSync|Error during aggregation for gold_currency_6h: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "gold_currency_raw", json_array_elements(data -> 'gold') AS tbl(item)
+                                              ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 454, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.CatalogException: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "gold_currency_raw", json_array_elements(data -> 'gold') AS tbl(item)
+                                              ^
+2025-04-25 04:14:38|INFO|MarketDataSync|Task 'aggregate_12h_gold_currency' never run before or error fetching time. Running now.
+2025-04-25 04:14:38|INFO|MarketDataSync|Running aggregation task: 'aggregate_12h_gold_currency' for period ending 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Ensured aggregate table 'gold_currency_12h' exists.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Executing aggregation query for gold_currency_12h between 2025-04-24 12:44:36.493832+00:00 and 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|ERROR|MarketDataSync|Error during aggregation for gold_currency_12h: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "gold_currency_raw", json_array_elements(data -> 'gold') AS tbl(item)
+                                              ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 454, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.CatalogException: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "gold_currency_raw", json_array_elements(data -> 'gold') AS tbl(item)
+                                              ^
+2025-04-25 04:14:38|INFO|MarketDataSync|Task 'aggregate_3d_gold_currency' never run before or error fetching time. Running now.
+2025-04-25 04:14:38|INFO|MarketDataSync|Running aggregation task: 'aggregate_3d_gold_currency' for period ending 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Ensured aggregate table 'gold_currency_3d' exists.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Executing aggregation query for gold_currency_3d between 2025-04-22 00:44:36.493832+00:00 and 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|ERROR|MarketDataSync|Error during aggregation for gold_currency_3d: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "gold_currency_raw", json_array_elements(data -> 'gold') AS tbl(item)
+                                              ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 454, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.CatalogException: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "gold_currency_raw", json_array_elements(data -> 'gold') AS tbl(item)
+                                              ^
+2025-04-25 04:14:38|INFO|MarketDataSync|Task 'aggregate_weekly_gold_currency' never run before or error fetching time. Running now.
+2025-04-25 04:14:38|INFO|MarketDataSync|Running aggregation task: 'aggregate_weekly_gold_currency' for period ending 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Ensured aggregate table 'gold_currency_weekly' exists.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Executing aggregation query for gold_currency_weekly between 2025-04-18 00:44:36.493832+00:00 and 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|ERROR|MarketDataSync|Error during aggregation for gold_currency_weekly: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "gold_currency_raw", json_array_elements(data -> 'gold') AS tbl(item)
+                                              ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 454, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.CatalogException: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "gold_currency_raw", json_array_elements(data -> 'gold') AS tbl(item)
+                                              ^
+2025-04-25 04:14:38|INFO|MarketDataSync|Running aggregation task: 'aggregate_daily_crypto' for period ending 2025-04-24
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Ensured aggregate table 'crypto_daily' exists.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Executing aggregation query for crypto_daily between 2025-04-23 20:30:00+00:00 and 2025-04-24 20:29:59.999999+00:00
+2025-04-25 04:14:38|ERROR|MarketDataSync|Error during aggregation for crypto_daily: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "crypto_raw", json_array_elements(data) AS tbl(item)
+                                       ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 454, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.CatalogException: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "crypto_raw", json_array_elements(data) AS tbl(item)
+                                       ^
+2025-04-25 04:14:38|INFO|MarketDataSync|Task 'aggregate_6h_crypto' never run before or error fetching time. Running now.
+2025-04-25 04:14:38|INFO|MarketDataSync|Running aggregation task: 'aggregate_6h_crypto' for period ending 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Ensured aggregate table 'crypto_6h' exists.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Executing aggregation query for crypto_6h between 2025-04-24 18:44:36.493832+00:00 and 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|ERROR|MarketDataSync|Error during aggregation for crypto_6h: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "crypto_raw", json_array_elements(data) AS tbl(item)
+                                       ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 454, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.CatalogException: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "crypto_raw", json_array_elements(data) AS tbl(item)
+                                       ^
+2025-04-25 04:14:38|INFO|MarketDataSync|Task 'aggregate_12h_crypto' never run before or error fetching time. Running now.
+2025-04-25 04:14:38|INFO|MarketDataSync|Running aggregation task: 'aggregate_12h_crypto' for period ending 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Ensured aggregate table 'crypto_12h' exists.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Executing aggregation query for crypto_12h between 2025-04-24 12:44:36.493832+00:00 and 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|ERROR|MarketDataSync|Error during aggregation for crypto_12h: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "crypto_raw", json_array_elements(data) AS tbl(item)
+                                       ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 454, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.CatalogException: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "crypto_raw", json_array_elements(data) AS tbl(item)
+                                       ^
+2025-04-25 04:14:38|INFO|MarketDataSync|Task 'aggregate_3d_crypto' never run before or error fetching time. Running now.
+2025-04-25 04:14:38|INFO|MarketDataSync|Running aggregation task: 'aggregate_3d_crypto' for period ending 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Ensured aggregate table 'crypto_3d' exists.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Executing aggregation query for crypto_3d between 2025-04-22 00:44:36.493832+00:00 and 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|ERROR|MarketDataSync|Error during aggregation for crypto_3d: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "crypto_raw", json_array_elements(data) AS tbl(item)
+                                       ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 454, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.CatalogException: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "crypto_raw", json_array_elements(data) AS tbl(item)
+                                       ^
+2025-04-25 04:14:38|INFO|MarketDataSync|Task 'aggregate_weekly_crypto' never run before or error fetching time. Running now.
+2025-04-25 04:14:38|INFO|MarketDataSync|Running aggregation task: 'aggregate_weekly_crypto' for period ending 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Ensured aggregate table 'crypto_weekly' exists.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Executing aggregation query for crypto_weekly between 2025-04-18 00:44:36.493832+00:00 and 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|ERROR|MarketDataSync|Error during aggregation for crypto_weekly: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "crypto_raw", json_array_elements(data) AS tbl(item)
+                                       ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 454, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.CatalogException: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "crypto_raw", json_array_elements(data) AS tbl(item)
+                                       ^
+2025-04-25 04:14:38|INFO|MarketDataSync|Running aggregation task: 'aggregate_daily_commodity' for period ending 2025-04-24
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Ensured aggregate table 'commodity_daily' exists.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Executing aggregation query for commodity_daily between 2025-04-23 20:30:00+00:00 and 2025-04-24 20:29:59.999999+00:00
+2025-04-25 04:14:38|ERROR|MarketDataSync|Error during aggregation for commodity_daily: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "commodity_raw", json_array_elements(data -> 'metal_precious') AS tbl(item)
+                                          ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 454, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.CatalogException: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "commodity_raw", json_array_elements(data -> 'metal_precious') AS tbl(item)
+                                          ^
+2025-04-25 04:14:38|INFO|MarketDataSync|Task 'aggregate_6h_commodity' never run before or error fetching time. Running now.
+2025-04-25 04:14:38|INFO|MarketDataSync|Running aggregation task: 'aggregate_6h_commodity' for period ending 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Ensured aggregate table 'commodity_6h' exists.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Executing aggregation query for commodity_6h between 2025-04-24 18:44:36.493832+00:00 and 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|ERROR|MarketDataSync|Error during aggregation for commodity_6h: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "commodity_raw", json_array_elements(data -> 'metal_precious') AS tbl(item)
+                                          ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 454, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.CatalogException: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "commodity_raw", json_array_elements(data -> 'metal_precious') AS tbl(item)
+                                          ^
+2025-04-25 04:14:38|INFO|MarketDataSync|Task 'aggregate_12h_commodity' never run before or error fetching time. Running now.
+2025-04-25 04:14:38|INFO|MarketDataSync|Running aggregation task: 'aggregate_12h_commodity' for period ending 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Ensured aggregate table 'commodity_12h' exists.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Executing aggregation query for commodity_12h between 2025-04-24 12:44:36.493832+00:00 and 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|ERROR|MarketDataSync|Error during aggregation for commodity_12h: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "commodity_raw", json_array_elements(data -> 'metal_precious') AS tbl(item)
+                                          ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 454, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.CatalogException: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "commodity_raw", json_array_elements(data -> 'metal_precious') AS tbl(item)
+                                          ^
+2025-04-25 04:14:38|INFO|MarketDataSync|Task 'aggregate_3d_commodity' never run before or error fetching time. Running now.
+2025-04-25 04:14:38|INFO|MarketDataSync|Running aggregation task: 'aggregate_3d_commodity' for period ending 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Ensured aggregate table 'commodity_3d' exists.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Executing aggregation query for commodity_3d between 2025-04-22 00:44:36.493832+00:00 and 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|ERROR|MarketDataSync|Error during aggregation for commodity_3d: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "commodity_raw", json_array_elements(data -> 'metal_precious') AS tbl(item)
+                                          ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 454, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.CatalogException: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "commodity_raw", json_array_elements(data -> 'metal_precious') AS tbl(item)
+                                          ^
+2025-04-25 04:14:38|INFO|MarketDataSync|Task 'aggregate_weekly_commodity' never run before or error fetching time. Running now.
+2025-04-25 04:14:38|INFO|MarketDataSync|Running aggregation task: 'aggregate_weekly_commodity' for period ending 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Ensured aggregate table 'commodity_weekly' exists.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Executing aggregation query for commodity_weekly between 2025-04-18 00:44:36.493832+00:00 and 2025-04-25 00:44:36.493832+00:00
+2025-04-25 04:14:38|ERROR|MarketDataSync|Error during aggregation for commodity_weekly: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "commodity_raw", json_array_elements(data -> 'metal_precious') AS tbl(item)
+                                          ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 454, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.CatalogException: Catalog Error: Table Function with name json_array_elements does not exist!
+Did you mean "json_execute_serialized_sql"?
+
+LINE 6:             FROM "commodity_raw", json_array_elements(data -> 'metal_precious') AS tbl(item)
+                                          ^
+2025-04-25 04:14:38|INFO|MarketDataSync|Running aggregation task: 'aggregate_daily_tse_ifb_symbols' for period ending 2025-04-24
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Ensured aggregate table 'tse_ifb_symbols_daily' exists.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|Executing aggregation query for tse_ifb_symbols_daily between 2025-04-23 20:30:00+00:00 and 2025-04-24 20:29:59.999999+00:00
+2025-04-25 04:14:38|ERROR|MarketDataSync|Error during aggregation for tse_ifb_symbols_daily: Catalog Error: Table with name tse_ifb_symbols_raw does not exist!
+Did you mean "tse_ifb_symbols_daily"?
+
+LINE 6:             FROM "tse_ifb_symbols_raw", json_array_elements(data) AS tbl...
+                         ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 454, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.CatalogException: Catalog Error: Table with name tse_ifb_symbols_raw does not exist!
+Did you mean "tse_ifb_symbols_daily"?
+
+LINE 6:             FROM "tse_ifb_symbols_raw", json_array_elements(data) AS tbl...
+                         ^
+2025-04-25 04:14:38|DEBUG|MarketDataSync|No aggregation levels configured for 'debt_securities'.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|No aggregation levels configured for 'housing_facilities'.
+2025-04-25 04:14:38|DEBUG|MarketDataSync|No aggregation levels configured for 'futures'.
+2025-04-25 04:14:38|INFO|MarketDataSync|Aggregation checks done. Success: 0, Skipped: 0, Errors: 16
+2025-04-25 04:14:38|INFO|MarketDataSync|Database connection closed.
+2025-04-25 04:14:38|INFO|MarketDataSync|[32m--- Market Data Sync Cycle Finished in 2.44 seconds ---[0m
