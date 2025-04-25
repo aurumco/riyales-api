@@ -1,4 +1,17 @@
 #!/usr/bin/env python3
+"""
+Alert sender for GitHub Actions logs via Telegram.
+
+- Finds the newest .log file in logs/
+- Filters by LOG_LEVELS (e.g. ERROR,WARNING,INFO)
+- Renders colored screenshot via Pygments + ImageFormatter
+- Sends it via Telegram sendPhoto API
+
+Required environment variables (set as GitHub Secrets):
+  TELEGRAM_BOT_TOKEN
+  TELEGRAM_USER_ID
+  LOG_LEVELS          # comma-separated, e.g. "ERROR,WARNING,INFO"
+"""
 
 import os
 import glob
@@ -7,12 +20,11 @@ from pygments import highlight
 from pygments.lexers import PythonLexer
 from pygments.formatters import ImageFormatter
 
-# === CONFIG (via env / GitHub Secrets) ===
+# Configuration via env
 BOT_TOKEN  = os.getenv('TELEGRAM_BOT_TOKEN')
 USER_ID    = os.getenv('TELEGRAM_USER_ID')
 LOG_LEVELS = os.getenv('LOG_LEVELS', 'ERROR')
 LOG_DIR    = os.path.join(os.path.dirname(__file__), '..', 'logs')
-# ==========================================
 
 def find_latest_log_file():
     files = sorted(glob.glob(os.path.join(LOG_DIR, '*.log')), reverse=True)
@@ -20,15 +32,15 @@ def find_latest_log_file():
 
 def load_filtered_lines(path, levels):
     lvls = [l.strip().upper() for l in levels.split(',')]
-    lines = []
+    out = []
     with open(path, 'r', errors='ignore') as f:
-        for ln in f:
-            if any(lvl in ln.upper() for lvl in lvls):
-                lines.append(ln.rstrip())
-    return lines
+        for line in f:
+            if any(lvl in line.upper() for lvl in lvls):
+                out.append(line.rstrip())
+    return out
 
 def render_image(text, out_path='log.png'):
-    formatter = ImageFormatter(style='monokai', font_name='DejaVu Sans Mono', line_numbers=False)
+    formatter = ImageFormatter(style='monokai', line_numbers=False, image_pad=8, line_pad=2)
     img_data = highlight(text, PythonLexer(), formatter)
     with open(out_path, 'wb') as f:
         f.write(img_data)
@@ -36,7 +48,7 @@ def render_image(text, out_path='log.png'):
 
 def send_photo(image_path):
     if not BOT_TOKEN or not USER_ID:
-        print('ERROR: BOT_TOKEN or USER_ID not set')
+        print('ERROR: TELEGRAM_BOT_TOKEN or TELEGRAM_USER_ID not set')
         return
     url = f'https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto'
     with open(image_path, 'rb') as img:
@@ -47,11 +59,11 @@ def send_photo(image_path):
 def main():
     log_file = find_latest_log_file()
     if not log_file:
-        print('No log files found.')
+        print('No log files found in logs/')
         return
     lines = load_filtered_lines(log_file, LOG_LEVELS)
     if not lines:
-        print('No matching log lines for levels:', LOG_LEVELS)
+        print(f'No lines matching levels {LOG_LEVELS}')
         return
     text = '\n'.join(lines)
     img = render_image(text)
