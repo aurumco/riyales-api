@@ -8,126 +8,129 @@ on:
     branches:
       - main
 
-jobs:
-  sync-data:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    env:
-      PYTHON_VERSION: '3.13'
-      BRS_API_KEY: ${{ secrets.BRS_API_KEY }}
-      BRS_BASE_URL: ${{ secrets.BRS_BASE_URL }}
-      LOG_LEVEL: ${{ secrets.LOG_LEVEL || 'INFO' }}
-      TZ: 'Asia/Tehran'
-      GIT_USER_NAME: 'Market Data Bot'
-      GIT_USER_EMAIL: 'market-data-bot@users.noreply.github.com'
-      DUCKDB_VERSION: '1.2.2'
-      CACHE_VERSION: '1'
+env:
+  PYTHON_VERSION: '3.13'
+  DUCKDB_VERSION: '1.2.2'
+  CACHE_KEY: ${{ runner.os }}-pip-${{ hashFiles('**/requirements*.txt') }}
 
+jobs:
+
+  setup:
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Set up Python ${{ env.PYTHON_VERSION }}
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: ${{ env.PYTHON_VERSION }}
 
-      - name: Cache pip dependencies
+      - name: Restore pip cache
+        id: cache-pip
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-${{ env.CACHE_VERSION }}-duckdb${{ env.DUCKDB_VERSION }}-${{ hashFiles('requirements.txt') }}
+          key: ${{ env.CACHE_KEY }}
           restore-keys: |
-            ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-${{ env.CACHE_VERSION }}-duckdb${{ env.DUCKDB_VERSION }}-
-            ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-
+            ${{ runner.os }}-pip-
 
-      - name: Install dependencies
+      - name: Install dependencies and record time
         run: |
+          start=$(date +%s)
           python -m pip install --upgrade pip
           pip install duckdb==${{ env.DUCKDB_VERSION }} --force-reinstall
-
           if [ -f requirements.txt ]; then
-            grep -v "duckdb" requirements.txt > requirements_filtered.txt || cp requirements.txt requirements_filtered.txt
+            grep -v 'duckdb' requirements.txt > requirements_filtered.txt || cp requirements.txt requirements_filtered.txt
             pip install -r requirements_filtered.txt
           else
-            pip install aiohttp pytz python-dotenv jdatetime
+            pip install aiohttp pytz python-dotenv jdatetime requests
           fi
+          end=$(date +%s)
+          echo "Dependencies installed in $((end-start))s" >> $GITHUB_STEP_SUMMARY
         shell: bash
 
-      - name: Run data fetching and aggregation script
-        run: python src/main.py
-
-      - name: Check directory contents (for debugging)
+  sync:
+    needs: setup
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run data script and measure duration
         run: |
-          echo "--- Data Directory ---"
-          ls -lah data/ || echo "Warning: data directory not found or cannot be listed."
-          echo "--- Aggregates Directory ---"
-          if [ -d "data/aggregates" ]; then
-            ls -lah data/aggregates/
-          else
-            echo "Info: data/aggregates directory does not exist (likely no aggregates generated yet)."
-          fi
-          echo "--- Logs Directory ---"
-          ls -lah logs/ || echo "Warning: logs directory not found or cannot be listed."
-        if: always()
+          start=$(date +%s)
+          python src/main.py
+          end=$(date +%s)
+          echo "Script ran in $((end-start))s" >> $GITHUB_STEP_SUMMARY
         shell: bash
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "${{ env.GIT_USER_NAME }}"
-          git config --global user.email "${{ env.GIT_USER_EMAIL }}"
+  commit:
+    needs: sync
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      GIT_USER_NAME: 'Market Data Bot'
+      GIT_USER_EMAIL: 'market-data-bot@users.noreply.github.com'
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
+      - name: Commit if changes exist
+        run: |
+          git config --global user.name "${GIT_USER_NAME}"
+          git config --global user.email "${GIT_USER_EMAIL}"
           git add data/ logs/
-          if git diff --staged --quiet; then
-            echo "No changes detected in data/ or logs/ to commit."
-          else
-            COMMIT_MSG=$(python src/get_commit_message.py)
-            echo "Commit Message: $COMMIT_MSG"
-            git commit -m "$COMMIT_MSG" -m "Triggered by: ${{ github.event_name }}"
+          git diff --staged --quiet || (
+            MSG=$(python src/get_commit_message.py)
+            git commit -m "$MSG" -m "Triggered by: ${{ github.event_name }}"
             git push origin main
-          fi
-        if: always()
+          )
+          echo "Commit step done" >> $GITHUB_STEP_SUMMARY
+        shell: bash
+
+  notify:
+    needs: commit
+    if: always()
+    runs-on: ubuntu-latest
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_USER_ID:   ${{ secrets.TELEGRAM_USER_ID }}
+      LOG_LEVELS:         ${{ secrets.LOG_LEVELS || 'ERROR' }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Send Telegram alert
+        run: python src/alert_sender.py
+        shell: bash
 
   cleanup-workflows:
-    name: Delete Old Workflow Runs
     if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
-      - name: Install GitHub CLI
+      - name: Install gh cli
         run: |
           sudo apt-get update
           sudo apt-get install gh -y
         shell: bash
 
-      - name: Authenticate with GitHub CLI
+      - name: Authenticate
         run: echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
         shell: bash
 
-      - name: Delete old workflow runs (keep only last 24)
+      - name: Cleanup old runs (keep 24)
         run: |
-          echo "Getting workflow runs for '${{ github.workflow }}'..."
-          RUNS=$(gh run list --repo "${{ github.repository }}" --workflow "${{ github.workflow }}" --limit 100 --json databaseId,status,createdAt --jq '.[] | select(.status == "completed" or .status == "cancelled" or .status == "failed") | .databaseId')
-
-          TOTAL_RUNS=$(echo "$RUNS" | wc -l)
-          echo "Total runs found: $TOTAL_RUNS"
-
-          if [ "$TOTAL_RUNS" -le 24 ]; then
-            echo "Less than or equal to 24 runs found. No deletion needed."
-            exit 0
-          fi
-
-          RUNS_TO_DELETE=$(echo "$RUNS" | head -n -24)
-
-          echo "Deleting $(echo "$RUNS_TO_DELETE" | wc -l) old runs..."
-          echo "$RUNS_TO_DELETE" | while read run_id; do
-            echo "Deleting run $run_id..."
-            gh run delete "$run_id" --repo "${{ github.repository }}" --yes || echo "Failed to delete run $run_id"
-            sleep 1
+          runs=$(gh run list --repo "${{ github.repository }}" --workflow "${{ github.workflow }}" --limit 100 \
+            --json databaseId,status --jq '.[] | select(.status!="in_progress" and .status!="queued") | .databaseId')
+          total=$(echo "$runs" | wc -l)
+          if [ "$total" -le 24 ]; then exit 0; fi
+          to_delete=$(echo "$runs" | head -n -24)
+          echo "$to_delete" | while read id; do
+            gh run delete "$id" --repo "${{ github.repository }}" --yes
           done
-          echo "Cleanup done. Only last 24 runs kept."
         shell: bash
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
