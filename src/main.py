@@ -22,7 +22,7 @@ from decimal import Decimal, InvalidOperation
 # Secrets & Environment Variables
 BASE_URL_ENV_VAR: str = "BRS_BASE_URL"
 API_KEY_ENV_VAR: str = "BRS_API_KEY"
-LOG_LEVEL_ENV_VAR: str = "LOG_LEVEL" # Env var to control log level (DEBUG, INFO, ERROR, WARNING, etc.)
+LOG_LEVEL_ENV_VAR: str = "LOG_LEVEL" #(DEBUG, INFO, ERROR, WARNING, etc.)
 
 # General Settings
 LOG_FOLDER: str = "logs"
@@ -36,7 +36,7 @@ MAX_CONCURRENT_REQUESTS: int = 8
 TIMEZONE: str = "Asia/Tehran"
 
 # User Agent (Keep updated)
-USER_AGENT: str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+USER_AGENT: str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
 HEADERS: Dict[str, str] = {
     "User-Agent": USER_AGENT, "Accept": "application/json, text/plain, */*",
 }
