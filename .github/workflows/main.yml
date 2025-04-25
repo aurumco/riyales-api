@@ -1,21 +1,15 @@
-# .github/workflows/main.yml
-
 name: Sync Financial Market Data
 
 on:
   schedule:
-    # Attempt to run approximately every 10 minutes.
-    # GitHub Actions scheduling has variability and is not guaranteed to be exact.
-    - cron: '*/10 * * * *'
-  workflow_dispatch: # Allows manual triggering
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
 
 jobs:
   sync-data:
     runs-on: ubuntu-latest
-    # *** Updated Permissions: Added actions:write for deleting runs ***
     permissions:
-      contents: write # To commit back to the repo
-      actions: write  # To delete old workflow runs
+      contents: write
     env:
       PYTHON_VERSION: '3.13'
       BRS_API_KEY: ${{ secrets.BRS_API_KEY }}
@@ -35,7 +29,6 @@ jobs:
           python-version: ${{ env.PYTHON_VERSION }}
 
       - name: Cache pip dependencies
-        id: cache-pip
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
@@ -50,7 +43,6 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run data fetching and aggregation script
-        id: run_script
         run: python src/main.py
 
       - name: Check directory contents (for debugging)
@@ -59,50 +51,35 @@ jobs:
           ls -la data/
           echo "--- Logs Directory ---"
           ls -la logs/
-        # Run even if script failed to see state before commit attempt
         if: always()
 
       - name: Commit and push changes
         run: |
-          echo "Configuring Git user..."
           git config --global user.name "${{ env.GIT_USER_NAME }}"
           git config --global user.email "${{ env.GIT_USER_EMAIL }}"
-          echo "Checking for changes..."
+
           git add data/ logs/
           if git diff --staged --quiet; then
-            echo "No changes detected to commit."
+            echo "No changes to commit."
           else
-            echo "Changes detected, committing..."
             git commit -m "Update market data" -m "Timestamp: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
-            echo "Pushing changes..."
-            # Retry push up to 3 times with delays in case of temporary network issues or conflicts
-            n=0
-            until [ $n -ge 3 ]
-            do
-              git push origin main && break # try
-              n=$[$n+1]
-              echo "Push failed. Retrying ($n/3)..."
-              sleep 5 # wait 5 seconds
-            done
-            if [ $n -ge 3 ]; then
-              echo "Push failed after 3 retries."
-              exit 1 # Fail the step if push ultimately fails
-            else
-              echo "Changes pushed successfully."
-            fi
+            git push origin main
           fi
-        # Attempt commit/push even if script failed, to save logs
         if: always()
 
-      # --- NEW STEP: Delete old workflow runs ---
-      - name: Delete older workflow runs
-        uses: actions/delete-workflow-runs@v1 # Use the official action
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }} # Use the default token
-          repository: ${{ github.repository }} # Specify the repository
-          retain_days: 0 # Keep runs based on count, not days
-          keep_minimum_runs: 24 # Keep the last 24 runs
-          delete_run_by_conclusion_pattern: '' # Delete all conclusions (success, failure, etc.)
-          delete_workflow_pattern: '' # Delete runs for this workflow only (blank means current workflow)
-        # Run this step even if previous steps fail (e.g., commit fails)
-        if: always()
+  cleanup-workflows:
+    name: Delete Old Workflow Runs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install GitHub CLI
+        run: sudo apt-get install gh -y
+
+      - name: Authenticate with GitHub CLI
+        run: echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
+
+      - name: Delete old workflow runs
+        run: |
+          gh run list --limit 100 | grep -v '*' | awk '{print $1}' | while read run_id; do
+            echo "Deleting run $run_id"
+            gh run delete $run_id --yes
+          done
