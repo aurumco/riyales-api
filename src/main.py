@@ -440,45 +440,43 @@ def calculate_and_store_aggregates(
     for base_path in array_base_paths:
         logger.debug(f"Aggregating from base path: '{base_path}' for table '{agg_table}'")
         try:
-            # --- Modified query with simpler approach for older DuckDB versions ---
+            # *** Modified query with improved unnesting approach ---
             query = f"""
-            WITH RawData AS (
+            WITH RawJsonArrays AS (
                 SELECT 
                     timestamp,
                     data
                 FROM "{raw_table}"
                 WHERE timestamp >= ? AND timestamp < ?
             ),
-            JsonExtract AS (
-                SELECT 
-                    json_extract(data, '{base_path}') as items_array
-                FROM RawData
-                WHERE json_type(json_extract(data, '{base_path}')) = 'ARRAY'
+            ExtractedData AS (
+                SELECT
+                    json_extract_string(json_extract(r.value, '{symbol_path}')) AS symbol,
+                    json_extract_string(json_extract(r.value, '{price_path}')) AS price_str
+                FROM RawJsonArrays,
+                LATERAL (
+                    SELECT UNNEST(
+                        CASE 
+                            WHEN json_type(json_extract(data, '{base_path}')) = 'ARRAY' 
+                            THEN json_extract(data, '{base_path}')
+                            ELSE '[]'::JSON 
+                        END
+                    ) AS value
+                ) r
+                WHERE json_type(r.value) = 'OBJECT'
             ),
-            Expanded AS (
-                SELECT 
-                    item,
-                    json_extract_string(item, '{symbol_path}') as symbol,
-                    json_extract_string(item, '{price_path}') as price_str
-                FROM (
-                    SELECT unnest(items_array) as item 
-                    FROM JsonExtract
-                )
-                WHERE json_type(item) = 'OBJECT'
-            ),
-            Filtered AS (
+            FilteredData AS (
                 SELECT
                     symbol,
                     try_cast(price_str AS DECIMAL({DECIMAL_PRECISION*2}, {DECIMAL_SCALE*2})) AS price_decimal
-                FROM Expanded
-                WHERE symbol IS NOT NULL AND price_str IS NOT NULL 
-                  AND symbol != '' AND price_str != ''
+                FROM ExtractedData
+                WHERE symbol IS NOT NULL AND price_str IS NOT NULL AND symbol != '' AND price_str != ''
             )
             SELECT
                 symbol,
                 median(price_decimal) AS median_price,
                 count(*) AS source_count
-            FROM Filtered
+            FROM FilteredData
             WHERE price_decimal IS NOT NULL
             GROUP BY symbol;
             """
