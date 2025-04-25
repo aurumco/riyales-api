@@ -20,9 +20,11 @@ jobs:
     
     env:
       PYTHON_VERSION: '3.13'
-      BRSAPI_KEY: ${{ secrets.BRSAPI_KEY }}
+      BRS_API_KEY: ${{ secrets.BRS_API_KEY }}
+      BRS_BASE_URL: ${{ secrets.BRS_BASE_URL }}
       TZ: 'Asia/Tehran'
       LOG_LEVEL: 'INFO'
+      # Explicitly set DuckDB version that's compatible with our SQL queries
       DUCKDB_VERSION: '1.2.2'
 
     steps:
