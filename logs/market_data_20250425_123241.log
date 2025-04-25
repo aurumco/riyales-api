@@ -1,0 +1,244 @@
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Checking for logs older than 12 hours (2025-04-25T00:32:41.310725) in 'logs'...
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Log cleanup finished. Removed 0 old files.
+2025-04-25 12:32:41|INFO   |MarketDataSync|Logging setup complete. Target Console Level: DEBUG, File Level: DEBUG
+2025-04-25 12:32:41|INFO   |MarketDataSync|Current log file: logs/market_data_20250425_123241.log
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|To change console log level, set the 'LOG_LEVEL' environment variable (e.g., 'DEBUG', 'INFO', 'WARNING').
+2025-04-25 12:32:41|INFO   |MarketDataSync|[32m--- Starting Market Data Sync Cycle ---[0m
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Attempting to connect to DB: data/market_data.duckdb
+2025-04-25 12:32:41|INFO   |MarketDataSync|DB connection successful.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Ensured aggregation_tracker table exists.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Cycle time: UTC=2025-04-25T09:02:41.338867+00:00, Local=2025-04-25T12:32:41.338867+03:30
+2025-04-25 12:32:41|INFO   |MarketDataSync|--- Checking API Fetch Tasks ---
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Checking fetch task: 'gold_currency'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Task 'fetch_gold_currency': LastRunUTC=2025-04-25T08:56:02.970570+00:00, TimeSince=0:06:38.368297, Interval=0:10:00, IsDue=False
+2025-04-25 12:32:41|DEBUG  |MarketDataSync| -> Skip 'gold_currency': Interval not met.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Checking fetch task: 'crypto'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Task 'fetch_crypto': LastRunUTC=2025-04-25T08:56:02.970570+00:00, TimeSince=0:06:38.368297, Interval=0:10:00, IsDue=False
+2025-04-25 12:32:41|DEBUG  |MarketDataSync| -> Skip 'crypto': Interval not met.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Checking fetch task: 'commodity'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Task 'fetch_commodity': LastRunUTC=2025-04-25T08:56:02.970570+00:00, TimeSince=0:06:38.368297, Interval=0:10:00, IsDue=False
+2025-04-25 12:32:41|DEBUG  |MarketDataSync| -> Skip 'commodity': Interval not met.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Checking fetch task: 'tse_ifb_symbols'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Market Check: LocalTime=12:32:41 +0330, Weekday=4, CurrentTime=12:32:41.342757, MarketHours=08:45:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Market Status: CLOSED (Outside Market Days)
+2025-04-25 12:32:41|DEBUG  |MarketDataSync| -> Skip 'tse_ifb_symbols': Market is closed.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Checking fetch task: 'tse_options'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync| -> Skip 'tse_options': Disabled in config.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Checking fetch task: 'tse_nav'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync| -> Skip 'tse_nav': Disabled in config.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Checking fetch task: 'tse_index'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync| -> Skip 'tse_index': Disabled in config.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Checking fetch task: 'ifb_index'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync| -> Skip 'ifb_index': Disabled in config.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Checking fetch task: 'selected_indices'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync| -> Skip 'selected_indices': Disabled in config.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Checking fetch task: 'debt_securities'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Market Check: LocalTime=12:32:41 +0330, Weekday=4, CurrentTime=12:32:41.344014, MarketHours=08:45:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Market Status: CLOSED (Outside Market Days)
+2025-04-25 12:32:41|DEBUG  |MarketDataSync| -> Skip 'debt_securities': Market is closed.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Checking fetch task: 'housing_facilities'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Market Check: LocalTime=12:32:41 +0330, Weekday=4, CurrentTime=12:32:41.344403, MarketHours=08:45:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Market Status: CLOSED (Outside Market Days)
+2025-04-25 12:32:41|DEBUG  |MarketDataSync| -> Skip 'housing_facilities': Market is closed.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Checking fetch task: 'futures'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Market Check: LocalTime=12:32:41 +0330, Weekday=4, CurrentTime=12:32:41.344804, MarketHours=08:45:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Market Status: CLOSED (Outside Market Days)
+2025-04-25 12:32:41|DEBUG  |MarketDataSync| -> Skip 'futures': Market is closed.
+2025-04-25 12:32:41|INFO   |MarketDataSync|No API endpoints scheduled for fetching in this cycle.
+2025-04-25 12:32:41|INFO   |MarketDataSync|--- Checking Aggregation Tasks ---
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Checking aggregations for 'gold_currency': Levels=['6h', '12h', 'daily', '3d', 'weekly']
+2025-04-25 12:32:41|INFO   |MarketDataSync|Task 'aggregate_6h_gold_currency' is due: Never run before.
+2025-04-25 12:32:41|INFO   |MarketDataSync|Running Aggregation: 'aggregate_6h_gold_currency' target=2025-04-25T09:02:41.338867+00:00 period=[2025-04-25T03:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|INFO   |MarketDataSync|Starting aggregation for 'gold_currency_6h' (Period: 2025-04-25T03:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Found 17 raw data points for 'gold_currency_raw' in the aggregation period.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Ensured table 'gold_currency_6h' exists or was created.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Aggregating from base path: '$.gold' for table 'gold_currency_6h'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Executing agg query for gold_currency_6h (path: $.gold) period: 2025-04-25T03:02:41.338867+00:00 - 2025-04-25T09:02:41.338867+00:00
+2025-04-25 12:32:41|ERROR  |MarketDataSync|DuckDB Query Error during aggregation for gold_currency_6h (path: $.gold): Binder Error: UNNEST requires a single list as input
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 488, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST requires a single list as input
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Failed Query Context: Table='gold_currency_raw', BasePath='$.gold', PricePath='$.price', SymbolPath='$.symbol'
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Aggregation failed for gold_currency level 6h due to query error(s).
+2025-04-25 12:32:41|INFO   |MarketDataSync|Task 'aggregate_12h_gold_currency' is due: Never run before.
+2025-04-25 12:32:41|INFO   |MarketDataSync|Running Aggregation: 'aggregate_12h_gold_currency' target=2025-04-25T09:02:41.338867+00:00 period=[2025-04-24T21:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|INFO   |MarketDataSync|Starting aggregation for 'gold_currency_12h' (Period: 2025-04-24T21:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Found 21 raw data points for 'gold_currency_raw' in the aggregation period.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Ensured table 'gold_currency_12h' exists or was created.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Aggregating from base path: '$.gold' for table 'gold_currency_12h'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Executing agg query for gold_currency_12h (path: $.gold) period: 2025-04-24T21:02:41.338867+00:00 - 2025-04-25T09:02:41.338867+00:00
+2025-04-25 12:32:41|ERROR  |MarketDataSync|DuckDB Query Error during aggregation for gold_currency_12h (path: $.gold): Binder Error: UNNEST requires a single list as input
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 488, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST requires a single list as input
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Failed Query Context: Table='gold_currency_raw', BasePath='$.gold', PricePath='$.price', SymbolPath='$.symbol'
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Aggregation failed for gold_currency level 12h due to query error(s).
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Skip Daily 'aggregate_daily_gold_currency': Already processed up to or including yesterday (2025-04-25).
+2025-04-25 12:32:41|INFO   |MarketDataSync|Task 'aggregate_3d_gold_currency' is due: Never run before.
+2025-04-25 12:32:41|INFO   |MarketDataSync|Running Aggregation: 'aggregate_3d_gold_currency' target=2025-04-25T09:02:41.338867+00:00 period=[2025-04-22T09:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|INFO   |MarketDataSync|Starting aggregation for 'gold_currency_3d' (Period: 2025-04-22T09:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Found 21 raw data points for 'gold_currency_raw' in the aggregation period.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Ensured table 'gold_currency_3d' exists or was created.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Aggregating from base path: '$.gold' for table 'gold_currency_3d'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Executing agg query for gold_currency_3d (path: $.gold) period: 2025-04-22T09:02:41.338867+00:00 - 2025-04-25T09:02:41.338867+00:00
+2025-04-25 12:32:41|ERROR  |MarketDataSync|DuckDB Query Error during aggregation for gold_currency_3d (path: $.gold): Binder Error: UNNEST requires a single list as input
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 488, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST requires a single list as input
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Failed Query Context: Table='gold_currency_raw', BasePath='$.gold', PricePath='$.price', SymbolPath='$.symbol'
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Aggregation failed for gold_currency level 3d due to query error(s).
+2025-04-25 12:32:41|INFO   |MarketDataSync|Task 'aggregate_weekly_gold_currency' is due: Never run before.
+2025-04-25 12:32:41|INFO   |MarketDataSync|Running Aggregation: 'aggregate_weekly_gold_currency' target=2025-04-25T09:02:41.338867+00:00 period=[2025-04-18T09:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|INFO   |MarketDataSync|Starting aggregation for 'gold_currency_weekly' (Period: 2025-04-18T09:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Found 21 raw data points for 'gold_currency_raw' in the aggregation period.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Ensured table 'gold_currency_weekly' exists or was created.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Aggregating from base path: '$.gold' for table 'gold_currency_weekly'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Executing agg query for gold_currency_weekly (path: $.gold) period: 2025-04-18T09:02:41.338867+00:00 - 2025-04-25T09:02:41.338867+00:00
+2025-04-25 12:32:41|ERROR  |MarketDataSync|DuckDB Query Error during aggregation for gold_currency_weekly (path: $.gold): Binder Error: UNNEST requires a single list as input
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 488, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST requires a single list as input
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Failed Query Context: Table='gold_currency_raw', BasePath='$.gold', PricePath='$.price', SymbolPath='$.symbol'
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Aggregation failed for gold_currency level weekly due to query error(s).
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Checking aggregations for 'crypto': Levels=['6h', '12h', 'daily', '3d', 'weekly']
+2025-04-25 12:32:41|INFO   |MarketDataSync|Task 'aggregate_6h_crypto' is due: Never run before.
+2025-04-25 12:32:41|INFO   |MarketDataSync|Running Aggregation: 'aggregate_6h_crypto' target=2025-04-25T09:02:41.338867+00:00 period=[2025-04-25T03:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|INFO   |MarketDataSync|Starting aggregation for 'crypto_6h' (Period: 2025-04-25T03:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Found 17 raw data points for 'crypto_raw' in the aggregation period.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Ensured table 'crypto_6h' exists or was created.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Aggregating from base path: '$' for table 'crypto_6h'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Executing agg query for crypto_6h (path: $) period: 2025-04-25T03:02:41.338867+00:00 - 2025-04-25T09:02:41.338867+00:00
+2025-04-25 12:32:41|ERROR  |MarketDataSync|DuckDB Query Error during aggregation for crypto_6h (path: $): Binder Error: UNNEST requires a single list as input
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 488, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST requires a single list as input
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Failed Query Context: Table='crypto_raw', BasePath='$', PricePath='$.price_toman', SymbolPath='$.name'
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Aggregation failed for crypto level 6h due to query error(s).
+2025-04-25 12:32:41|INFO   |MarketDataSync|Task 'aggregate_12h_crypto' is due: Never run before.
+2025-04-25 12:32:41|INFO   |MarketDataSync|Running Aggregation: 'aggregate_12h_crypto' target=2025-04-25T09:02:41.338867+00:00 period=[2025-04-24T21:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|INFO   |MarketDataSync|Starting aggregation for 'crypto_12h' (Period: 2025-04-24T21:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Found 21 raw data points for 'crypto_raw' in the aggregation period.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Ensured table 'crypto_12h' exists or was created.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Aggregating from base path: '$' for table 'crypto_12h'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Executing agg query for crypto_12h (path: $) period: 2025-04-24T21:02:41.338867+00:00 - 2025-04-25T09:02:41.338867+00:00
+2025-04-25 12:32:41|ERROR  |MarketDataSync|DuckDB Query Error during aggregation for crypto_12h (path: $): Binder Error: UNNEST requires a single list as input
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 488, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST requires a single list as input
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Failed Query Context: Table='crypto_raw', BasePath='$', PricePath='$.price_toman', SymbolPath='$.name'
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Aggregation failed for crypto level 12h due to query error(s).
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Skip Daily 'aggregate_daily_crypto': Already processed up to or including yesterday (2025-04-25).
+2025-04-25 12:32:41|INFO   |MarketDataSync|Task 'aggregate_3d_crypto' is due: Never run before.
+2025-04-25 12:32:41|INFO   |MarketDataSync|Running Aggregation: 'aggregate_3d_crypto' target=2025-04-25T09:02:41.338867+00:00 period=[2025-04-22T09:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|INFO   |MarketDataSync|Starting aggregation for 'crypto_3d' (Period: 2025-04-22T09:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Found 21 raw data points for 'crypto_raw' in the aggregation period.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Ensured table 'crypto_3d' exists or was created.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Aggregating from base path: '$' for table 'crypto_3d'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Executing agg query for crypto_3d (path: $) period: 2025-04-22T09:02:41.338867+00:00 - 2025-04-25T09:02:41.338867+00:00
+2025-04-25 12:32:41|ERROR  |MarketDataSync|DuckDB Query Error during aggregation for crypto_3d (path: $): Binder Error: UNNEST requires a single list as input
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 488, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST requires a single list as input
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Failed Query Context: Table='crypto_raw', BasePath='$', PricePath='$.price_toman', SymbolPath='$.name'
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Aggregation failed for crypto level 3d due to query error(s).
+2025-04-25 12:32:41|INFO   |MarketDataSync|Task 'aggregate_weekly_crypto' is due: Never run before.
+2025-04-25 12:32:41|INFO   |MarketDataSync|Running Aggregation: 'aggregate_weekly_crypto' target=2025-04-25T09:02:41.338867+00:00 period=[2025-04-18T09:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|INFO   |MarketDataSync|Starting aggregation for 'crypto_weekly' (Period: 2025-04-18T09:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Found 21 raw data points for 'crypto_raw' in the aggregation period.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Ensured table 'crypto_weekly' exists or was created.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Aggregating from base path: '$' for table 'crypto_weekly'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Executing agg query for crypto_weekly (path: $) period: 2025-04-18T09:02:41.338867+00:00 - 2025-04-25T09:02:41.338867+00:00
+2025-04-25 12:32:41|ERROR  |MarketDataSync|DuckDB Query Error during aggregation for crypto_weekly (path: $): Binder Error: UNNEST requires a single list as input
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 488, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST requires a single list as input
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Failed Query Context: Table='crypto_raw', BasePath='$', PricePath='$.price_toman', SymbolPath='$.name'
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Aggregation failed for crypto level weekly due to query error(s).
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Checking aggregations for 'commodity': Levels=['6h', '12h', 'daily', '3d', 'weekly']
+2025-04-25 12:32:41|INFO   |MarketDataSync|Task 'aggregate_6h_commodity' is due: Never run before.
+2025-04-25 12:32:41|INFO   |MarketDataSync|Running Aggregation: 'aggregate_6h_commodity' target=2025-04-25T09:02:41.338867+00:00 period=[2025-04-25T03:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|INFO   |MarketDataSync|Starting aggregation for 'commodity_6h' (Period: 2025-04-25T03:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Found 17 raw data points for 'commodity_raw' in the aggregation period.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Ensured table 'commodity_6h' exists or was created.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Aggregating from base path: '$.metal_precious' for table 'commodity_6h'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Executing agg query for commodity_6h (path: $.metal_precious) period: 2025-04-25T03:02:41.338867+00:00 - 2025-04-25T09:02:41.338867+00:00
+2025-04-25 12:32:41|ERROR  |MarketDataSync|DuckDB Query Error during aggregation for commodity_6h (path: $.metal_precious): Binder Error: UNNEST requires a single list as input
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 488, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST requires a single list as input
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Failed Query Context: Table='commodity_raw', BasePath='$.metal_precious', PricePath='$.price', SymbolPath='$.symbol'
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Aggregation failed for commodity level 6h due to query error(s).
+2025-04-25 12:32:41|INFO   |MarketDataSync|Task 'aggregate_12h_commodity' is due: Never run before.
+2025-04-25 12:32:41|INFO   |MarketDataSync|Running Aggregation: 'aggregate_12h_commodity' target=2025-04-25T09:02:41.338867+00:00 period=[2025-04-24T21:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|INFO   |MarketDataSync|Starting aggregation for 'commodity_12h' (Period: 2025-04-24T21:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Found 21 raw data points for 'commodity_raw' in the aggregation period.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Ensured table 'commodity_12h' exists or was created.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Aggregating from base path: '$.metal_precious' for table 'commodity_12h'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Executing agg query for commodity_12h (path: $.metal_precious) period: 2025-04-24T21:02:41.338867+00:00 - 2025-04-25T09:02:41.338867+00:00
+2025-04-25 12:32:41|ERROR  |MarketDataSync|DuckDB Query Error during aggregation for commodity_12h (path: $.metal_precious): Binder Error: UNNEST requires a single list as input
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 488, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST requires a single list as input
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Failed Query Context: Table='commodity_raw', BasePath='$.metal_precious', PricePath='$.price', SymbolPath='$.symbol'
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Aggregation failed for commodity level 12h due to query error(s).
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Skip Daily 'aggregate_daily_commodity': Already processed up to or including yesterday (2025-04-25).
+2025-04-25 12:32:41|INFO   |MarketDataSync|Task 'aggregate_3d_commodity' is due: Never run before.
+2025-04-25 12:32:41|INFO   |MarketDataSync|Running Aggregation: 'aggregate_3d_commodity' target=2025-04-25T09:02:41.338867+00:00 period=[2025-04-22T09:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|INFO   |MarketDataSync|Starting aggregation for 'commodity_3d' (Period: 2025-04-22T09:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Found 21 raw data points for 'commodity_raw' in the aggregation period.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Ensured table 'commodity_3d' exists or was created.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Aggregating from base path: '$.metal_precious' for table 'commodity_3d'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Executing agg query for commodity_3d (path: $.metal_precious) period: 2025-04-22T09:02:41.338867+00:00 - 2025-04-25T09:02:41.338867+00:00
+2025-04-25 12:32:41|ERROR  |MarketDataSync|DuckDB Query Error during aggregation for commodity_3d (path: $.metal_precious): Binder Error: UNNEST requires a single list as input
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 488, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST requires a single list as input
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Failed Query Context: Table='commodity_raw', BasePath='$.metal_precious', PricePath='$.price', SymbolPath='$.symbol'
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Aggregation failed for commodity level 3d due to query error(s).
+2025-04-25 12:32:41|INFO   |MarketDataSync|Task 'aggregate_weekly_commodity' is due: Never run before.
+2025-04-25 12:32:41|INFO   |MarketDataSync|Running Aggregation: 'aggregate_weekly_commodity' target=2025-04-25T09:02:41.338867+00:00 period=[2025-04-18T09:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|INFO   |MarketDataSync|Starting aggregation for 'commodity_weekly' (Period: 2025-04-18T09:02:41.338867+00:00 to 2025-04-25T09:02:41.338867+00:00)
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Found 21 raw data points for 'commodity_raw' in the aggregation period.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Ensured table 'commodity_weekly' exists or was created.
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Aggregating from base path: '$.metal_precious' for table 'commodity_weekly'
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Executing agg query for commodity_weekly (path: $.metal_precious) period: 2025-04-18T09:02:41.338867+00:00 - 2025-04-25T09:02:41.338867+00:00
+2025-04-25 12:32:41|ERROR  |MarketDataSync|DuckDB Query Error during aggregation for commodity_weekly (path: $.metal_precious): Binder Error: UNNEST requires a single list as input
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 488, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST requires a single list as input
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Failed Query Context: Table='commodity_raw', BasePath='$.metal_precious', PricePath='$.price', SymbolPath='$.symbol'
+2025-04-25 12:32:41|ERROR  |MarketDataSync|Aggregation failed for commodity level weekly due to query error(s).
+2025-04-25 12:32:41|DEBUG  |MarketDataSync|Checking aggregations for 'tse_ifb_symbols': Levels=['daily']
+2025-04-25 12:32:41|INFO   |MarketDataSync|Daily task 'aggregate_daily_tse_ifb_symbols' due: Never run before.
+2025-04-25 12:32:41|INFO   |MarketDataSync|Running Aggregation: 'aggregate_daily_tse_ifb_symbols' target=2025-04-24 period=[2025-04-23T20:30:00+00:00 to 2025-04-24T20:30:00+00:00)
+2025-04-25 12:32:41|INFO   |MarketDataSync|Starting aggregation for 'tse_ifb_symbols_daily' (Period: 2025-04-23T20:30:00+00:00 to 2025-04-24T20:30:00+00:00)
+2025-04-25 12:32:41|WARNING|MarketDataSync|Skip Aggregation for tse_ifb_symbols_daily: Raw table 'tse_ifb_symbols_raw' does not exist.
+2025-04-25 12:32:41|INFO   |MarketDataSync|Aggregation Results Summary: Success=1, Skipped=3, Errors=12
+2025-04-25 12:32:41|INFO   |MarketDataSync|DB connection closed.
+2025-04-25 12:32:41|INFO   |MarketDataSync|[32m--- Market Data Sync Cycle Finished in 0.11 seconds ---[0m
+2025-04-25 12:32:41|INFO   |MarketDataSync|Improvement Suggestion 1: Implement more specific error handling for common API issues (e.g., rate limits, maintenance status codes).
+2025-04-25 12:32:41|INFO   |MarketDataSync|Improvement Suggestion 2: Consider adding data quality checks (e.g., price outliers, missing symbols) after fetching or before aggregation.
