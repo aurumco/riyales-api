@@ -1,147 +1,99 @@
-name: Sync Financial Market Data
+name: Market Data Sync
 
 on:
   schedule:
-    # Run every 10 minutes
-    - cron: '*/10 * * * *'
-  workflow_dispatch: # Allow manual trigger
-  push: # Trigger on pushes
+    - cron: '*/10 * * * *'  # Run every 10 minutes
+  workflow_dispatch:  # Manual trigger
+  push:
     branches:
-      - main # Adjust branch name if needed
+      - main
+    paths:
+      - 'src/**'
+      - 'requirements.txt'
+      - '.github/workflows/sync-market-data.yml'
 
 jobs:
   sync-data:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Needed to commit back
+      contents: write
+    
     env:
-      PYTHON_VERSION: '3.13'
-      BRS_API_KEY: ${{ secrets.BRS_API_KEY }}
-      BRS_BASE_URL: ${{ secrets.BRS_BASE_URL }}
-      LOG_LEVEL: ${{ secrets.LOG_LEVEL || 'INFO' }}
+      PYTHON_VERSION: '3.10'
+      BRSAPI_KEY: ${{ secrets.BRSAPI_KEY }}
       TZ: 'Asia/Tehran'
-      GIT_USER_NAME: 'Market Data Bot'
-      GIT_USER_EMAIL: 'market-data-bot@users.noreply.github.com'
-      # Define DuckDB version explicitly
-      DUCKDB_VERSION: '1.2.2'
-      # Use this variable to force cache invalidation when needed
-      CACHE_VERSION: '1'
+      LOG_LEVEL: 'INFO'
+      # Explicitly set DuckDB version that's compatible with our SQL queries
+      DUCKDB_VERSION: '1.3.1'
 
     steps:
-      - name: Checkout code
+      - name: Check out repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetch all history for accurate diff
+          fetch-depth: 0
 
       - name: Set up Python ${{ env.PYTHON_VERSION }}
         uses: actions/setup-python@v5
         with:
           python-version: ${{ env.PYTHON_VERSION }}
+          cache: pip
 
+      # Cache dependencies to speed up workflow
       - name: Cache pip dependencies
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
-          # Include CACHE_VERSION and DUCKDB_VERSION in the cache key to allow forced updates
-          key: ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-${{ env.CACHE_VERSION }}-duckdb${{ env.DUCKDB_VERSION }}-${{ hashFiles('requirements.txt') }}
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}-v2
           restore-keys: |
-            ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-${{ env.CACHE_VERSION }}-duckdb${{ env.DUCKDB_VERSION }}-
-            ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-
+            ${{ runner.os }}-pip-
 
-      - name: Install dependencies
+      - name: Check if DuckDB is already installed
+        id: check-duckdb
+        run: |
+          python -c "import pkg_resources; print('Current DuckDB:', pkg_resources.get_distribution('duckdb').version)" || echo "DuckDB not installed"
+
+      - name: Install dependencies with specific DuckDB version
         run: |
           python -m pip install --upgrade pip
+          pip install -r requirements.txt
           
-          # Install DuckDB with specific version
-          pip install duckdb==${{ env.DUCKDB_VERSION }} --force-reinstall
+          # Force reinstall DuckDB with the specific version
+          pip uninstall -y duckdb
+          pip install duckdb==${{ env.DUCKDB_VERSION }}
           
-          # Report DuckDB version
-          echo "Installed DuckDB version:"
-          python -c "import duckdb; print(duckdb.__version__)"
-          
-          # Install other dependencies
-          if [ -f requirements.txt ]; then
-            # Modify requirements.txt to exclude duckdb (we installed it separately)
-            grep -v "duckdb" requirements.txt > requirements_filtered.txt || cp requirements.txt requirements_filtered.txt
-            pip install -r requirements_filtered.txt
-            echo "Dependencies installed from requirements.txt (excluding DuckDB)"
-          else
-            echo "requirements.txt not found, installing minimal dependencies."
-            pip install aiohttp pytz python-dotenv
-          fi
-        shell: bash
-
-      - name: Run data fetching and aggregation script
-        run: python src/main.py
-
-      - name: Check directory contents (for debugging)
+          # Verify the installed version
+          python -c "import duckdb; print('Installed DuckDB version:', duckdb.__version__)"
+      
+      - name: Run data fetching script
         run: |
-          echo "--- Data Directory ---"
-          ls -lah data/ || echo "Warning: data directory not found or cannot be listed."
-          echo "--- Aggregates Directory ---"
-          if [ -d "data/aggregates" ]; then
-            ls -lah data/aggregates/
-          else
-            echo "Info: data/aggregates directory does not exist (likely no aggregates generated yet)."
-          fi
-          echo "--- Logs Directory ---"
-          ls -lah logs/ || echo "Warning: logs directory not found or cannot be listed."
-        if: always() # Run even if previous steps fail
-        shell: bash
-
-      - name: Commit and push changes
+          mkdir -p data logs json
+          python src/main.py
+      
+      - name: Check directory content
         run: |
-          git config --global user.name "${{ env.GIT_USER_NAME }}"
-          git config --global user.email "${{ env.GIT_USER_EMAIL }}"
-          # Add data, aggregates, and logs. Use --force if needed. Consider excluding logs if repo size is a concern.
-          git add data/ logs/
-          if git diff --staged --quiet; then
-            echo "No changes detected in data/ or logs/ to commit."
-          else
-            echo "Changes detected. Committing and pushing..."
-            git commit -m "Update market data [skip ci]" -m "Timestamp: $(date -u +'%Y-%m-%dT%H:%M:%SZ')" -m "Triggered by: ${{ github.event_name }}"
-            git push origin main
-          fi
-        # Decide if you want to commit even on script failure
-        if: always()
+          echo "=== CHECKING DATA DIRECTORY ==="
+          ls -la data/
+          echo "=== CHECKING JSON DIRECTORY ==="
+          ls -la json/
+          
+      - name: Commit and push if changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add data/ json/ logs/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto: Data update $(date +'%Y-%m-%d %H:%M:%S')" && git push)
 
   cleanup-workflows:
-    name: Delete Old Workflow Runs
-    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    needs: sync-data
     runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    
     steps:
-      - name: Install GitHub CLI
-        run: |
-          type -p curl >/dev/null || sudo apt-get update && sudo apt-get install curl -y
-          curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg \
-          && sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg \
-          && echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null \
-          && sudo apt-get update \
-          && sudo apt-get install gh -y
-        shell: bash
-
-      - name: Authenticate with GitHub CLI
-        run: echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
-        shell: bash
-
-      - name: Delete old workflow runs (keep recent 10)
-        run: |
-          echo "Fetching workflow runs..."
-          # Get IDs of completed/failed/cancelled runs beyond the 10 most recent for this workflow
-          RUNS_TO_DELETE=$(gh run list --workflow "${{ github.workflow }}" --limit 100 --json databaseId,status,createdAt --jq '.[] | select(.status == "completed" or .status == "failed" or .status == "cancelled") | .databaseId' | tail -n +11)
-
-          if [ -z "$RUNS_TO_DELETE" ]; then
-            echo "No old workflow runs found to delete (keeping last 10)."
-          else
-            echo "Deleting old workflow runs..."
-            echo "$RUNS_TO_DELETE" | while read run_id; do
-              echo "Deleting run $run_id"
-              # Use --repo flag explicitly for clarity/safety
-              gh run delete "$run_id" --repo "${{ github.repository }}" || echo "Warning: Failed to delete run $run_id"
-              sleep 1 # Small delay between deletions
-            done
-            echo "Finished deleting old workflow runs."
-          fi
-        shell: bash
-        env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+      - name: Remove old workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 1
+          keep_minimum_runs: 10 
