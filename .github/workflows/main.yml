@@ -54,6 +54,7 @@ jobs:
             pip install -r requirements_filtered.txt
           else
             pip install aiohttp pytz python-dotenv jdatetime
+          fi
         shell: bash
 
       - name: Run data fetching and aggregation script
