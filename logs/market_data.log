@@ -3653,3 +3653,270 @@ LINE 3:                 SELECT unnest(data -> 'metal_precious') AS item
 2025-04-25 10:00:34|INFO   |MarketDataSync|Aggregation Results: Success=1, Skipped=3, Errors=12
 2025-04-25 10:00:34|INFO   |MarketDataSync|DB connection closed.
 2025-04-25 10:00:34|INFO   |MarketDataSync|[32m--- Market Data Sync Cycle Finished in 1.55 seconds ---[0m
+2025-04-25 10:22:13|INFO   |MarketDataSync|Logging setup complete. Console Level: INFO, File Level: DEBUG
+2025-04-25 10:22:13|INFO   |MarketDataSync|[32m--- Starting Market Data Sync Cycle ---[0m
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Connecting to DB: data/market_data.duckdb
+2025-04-25 10:22:13|INFO   |MarketDataSync|DB connection successful.
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Ensured aggregation_tracker table exists.
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Cycle time: UTC=2025-04-25T06:52:13.031105+00:00, Local=2025-04-25T10:22:13.031105+03:30
+2025-04-25 10:22:13|INFO   |MarketDataSync|--- Checking API Fetch Tasks ---
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Checking: 'gold_currency'
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Task 'fetch_gold_currency': Last=2025-04-25T10:00:33.247308+03:30, Since=0:21:39.783797, Interval=0:10:00, Due=True
+2025-04-25 10:22:13|INFO   |MarketDataSync|Scheduling fetch: 'gold_currency'
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Checking: 'crypto'
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Task 'fetch_crypto': Last=2025-04-25T10:00:33.247308+03:30, Since=0:21:39.783797, Interval=0:10:00, Due=True
+2025-04-25 10:22:13|INFO   |MarketDataSync|Scheduling fetch: 'crypto'
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Checking: 'commodity'
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Task 'fetch_commodity': Last=2025-04-25T10:00:33.247308+03:30, Since=0:21:39.783797, Interval=0:10:00, Due=True
+2025-04-25 10:22:13|INFO   |MarketDataSync|Scheduling fetch: 'commodity'
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Checking: 'tse_ifb_symbols'
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Market Check: Local=10:22:13 +0330, WDay=4, Time=10:22:13.034107 vs 08:45:00-12:45:00, Days=[5, 6, 0, 1, 2]
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Market Status: CLOSED (Day)
+2025-04-25 10:22:13|DEBUG  |MarketDataSync| -> Skip: Market Closed
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Checking: 'tse_options'
+2025-04-25 10:22:13|DEBUG  |MarketDataSync| -> Skip: Disabled
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Checking: 'tse_nav'
+2025-04-25 10:22:13|DEBUG  |MarketDataSync| -> Skip: Disabled
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Checking: 'tse_index'
+2025-04-25 10:22:13|DEBUG  |MarketDataSync| -> Skip: Disabled
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Checking: 'ifb_index'
+2025-04-25 10:22:13|DEBUG  |MarketDataSync| -> Skip: Disabled
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Checking: 'selected_indices'
+2025-04-25 10:22:13|DEBUG  |MarketDataSync| -> Skip: Disabled
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Checking: 'debt_securities'
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Market Check: Local=10:22:13 +0330, WDay=4, Time=10:22:13.034407 vs 08:45:00-12:45:00, Days=[5, 6, 0, 1, 2]
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Market Status: CLOSED (Day)
+2025-04-25 10:22:13|DEBUG  |MarketDataSync| -> Skip: Market Closed
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Checking: 'housing_facilities'
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Market Check: Local=10:22:13 +0330, WDay=4, Time=10:22:13.034503 vs 08:45:00-12:45:00, Days=[5, 6, 0, 1, 2]
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Market Status: CLOSED (Day)
+2025-04-25 10:22:13|DEBUG  |MarketDataSync| -> Skip: Market Closed
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Checking: 'futures'
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Market Check: Local=10:22:13 +0330, WDay=4, Time=10:22:13.034645 vs 08:45:00-12:45:00, Days=[5, 6, 0, 1, 2]
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Market Status: CLOSED (Day)
+2025-04-25 10:22:13|DEBUG  |MarketDataSync| -> Skip: Market Closed
+2025-04-25 10:22:13|INFO   |MarketDataSync|Fetching data for 3 endpoints...
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Requesting: gold_currency (https://brsapi.ir/Api/Market/Gold_Currency.php?key=********)
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Requesting: crypto (https://brsapi.ir/Api/Market/Cryptocurrency.php?key=********)
+2025-04-25 10:22:13|DEBUG  |MarketDataSync|Requesting: commodity (https://brsapi.ir/Api/Market/Commodity.php?key=********)
+2025-04-25 10:22:14|DEBUG  |MarketDataSync|Response: commodity (200) in 1.42s
+2025-04-25 10:22:14|INFO   |MarketDataSync|Success: Fetched 'commodity'.
+2025-04-25 10:22:14|DEBUG  |MarketDataSync|Response: gold_currency (200) in 1.43s
+2025-04-25 10:22:14|INFO   |MarketDataSync|Success: Fetched 'gold_currency'.
+2025-04-25 10:22:14|DEBUG  |MarketDataSync|Response: crypto (200) in 1.44s
+2025-04-25 10:22:14|INFO   |MarketDataSync|Success: Fetched 'crypto'.
+2025-04-25 10:22:14|INFO   |MarketDataSync|--- Processing Fetch Results ---
+2025-04-25 10:22:14|DEBUG  |MarketDataSync|Ensured table 'gold_currency_raw' exists.
+2025-04-25 10:22:14|DEBUG  |MarketDataSync|Inserted raw data into 'gold_currency_raw'.
+2025-04-25 10:22:14|DEBUG  |MarketDataSync|Saved JSON: gold_currency.json
+2025-04-25 10:22:14|DEBUG  |MarketDataSync|Updated last run time for 'fetch_gold_currency' to 2025-04-25T06:52:13.031105+00:00
+2025-04-25 10:22:14|DEBUG  |MarketDataSync|Ensured table 'crypto_raw' exists.
+2025-04-25 10:22:14|DEBUG  |MarketDataSync|Inserted raw data into 'crypto_raw'.
+2025-04-25 10:22:14|DEBUG  |MarketDataSync|Saved JSON: cryptocurrency.json
+2025-04-25 10:22:14|DEBUG  |MarketDataSync|Updated last run time for 'fetch_crypto' to 2025-04-25T06:52:13.031105+00:00
+2025-04-25 10:22:14|DEBUG  |MarketDataSync|Ensured table 'commodity_raw' exists.
+2025-04-25 10:22:14|DEBUG  |MarketDataSync|Inserted raw data into 'commodity_raw'.
+2025-04-25 10:22:14|DEBUG  |MarketDataSync|Saved JSON: commodity.json
+2025-04-25 10:22:14|DEBUG  |MarketDataSync|Updated last run time for 'fetch_commodity' to 2025-04-25T06:52:13.031105+00:00
+2025-04-25 10:22:14|INFO   |MarketDataSync|Fetch Results: Processed=3, Inserts=3, Errors=0
+2025-04-25 10:22:14|INFO   |MarketDataSync|--- Checking Aggregation Tasks ---
+2025-04-25 10:22:14|DEBUG  |MarketDataSync|Skip Daily 'aggregate_daily_gold_currency': Ran today.
+2025-04-25 10:22:14|INFO   |MarketDataSync|Task 'aggregate_6h_gold_currency' due: Never run before.
+2025-04-25 10:22:14|INFO   |MarketDataSync|Running Aggregation: 'aggregate_6h_gold_currency' for period ending 2025-04-25 06:52:13.031105+00:00
+2025-04-25 10:22:14|DEBUG  |MarketDataSync|Ensured table 'gold_currency_6h' exists.
+2025-04-25 10:22:14|DEBUG  |MarketDataSync|Executing agg query for gold_currency_6h (path: gold) period: 2025-04-25-2025-04-25
+2025-04-25 10:22:14|ERROR  |MarketDataSync|Error during aggregation for gold_currency_6h (path: gold): Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data -> 'gold') AS item
+                               ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 404, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data -> 'gold') AS item
+                               ^
+2025-04-25 10:22:14|INFO   |MarketDataSync|Task 'aggregate_12h_gold_currency' due: Never run before.
+2025-04-25 10:22:14|INFO   |MarketDataSync|Running Aggregation: 'aggregate_12h_gold_currency' for period ending 2025-04-25 06:52:13.031105+00:00
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Ensured table 'gold_currency_12h' exists.
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Executing agg query for gold_currency_12h (path: gold) period: 2025-04-24-2025-04-25
+2025-04-25 10:22:15|ERROR  |MarketDataSync|Error during aggregation for gold_currency_12h (path: gold): Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data -> 'gold') AS item
+                               ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 404, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data -> 'gold') AS item
+                               ^
+2025-04-25 10:22:15|INFO   |MarketDataSync|Task 'aggregate_3d_gold_currency' due: Never run before.
+2025-04-25 10:22:15|INFO   |MarketDataSync|Running Aggregation: 'aggregate_3d_gold_currency' for period ending 2025-04-25 06:52:13.031105+00:00
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Ensured table 'gold_currency_3d' exists.
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Executing agg query for gold_currency_3d (path: gold) period: 2025-04-22-2025-04-25
+2025-04-25 10:22:15|ERROR  |MarketDataSync|Error during aggregation for gold_currency_3d (path: gold): Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data -> 'gold') AS item
+                               ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 404, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data -> 'gold') AS item
+                               ^
+2025-04-25 10:22:15|INFO   |MarketDataSync|Task 'aggregate_weekly_gold_currency' due: Never run before.
+2025-04-25 10:22:15|INFO   |MarketDataSync|Running Aggregation: 'aggregate_weekly_gold_currency' for period ending 2025-04-25 06:52:13.031105+00:00
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Ensured table 'gold_currency_weekly' exists.
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Executing agg query for gold_currency_weekly (path: gold) period: 2025-04-18-2025-04-25
+2025-04-25 10:22:15|ERROR  |MarketDataSync|Error during aggregation for gold_currency_weekly (path: gold): Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data -> 'gold') AS item
+                               ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 404, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data -> 'gold') AS item
+                               ^
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Skip Daily 'aggregate_daily_crypto': Ran today.
+2025-04-25 10:22:15|INFO   |MarketDataSync|Task 'aggregate_6h_crypto' due: Never run before.
+2025-04-25 10:22:15|INFO   |MarketDataSync|Running Aggregation: 'aggregate_6h_crypto' for period ending 2025-04-25 06:52:13.031105+00:00
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Ensured table 'crypto_6h' exists.
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Executing agg query for crypto_6h (path: $) period: 2025-04-25-2025-04-25
+2025-04-25 10:22:15|ERROR  |MarketDataSync|Error during aggregation for crypto_6h (path: $): Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data) AS item
+                               ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 404, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data) AS item
+                               ^
+2025-04-25 10:22:15|INFO   |MarketDataSync|Task 'aggregate_12h_crypto' due: Never run before.
+2025-04-25 10:22:15|INFO   |MarketDataSync|Running Aggregation: 'aggregate_12h_crypto' for period ending 2025-04-25 06:52:13.031105+00:00
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Ensured table 'crypto_12h' exists.
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Executing agg query for crypto_12h (path: $) period: 2025-04-24-2025-04-25
+2025-04-25 10:22:15|ERROR  |MarketDataSync|Error during aggregation for crypto_12h (path: $): Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data) AS item
+                               ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 404, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data) AS item
+                               ^
+2025-04-25 10:22:15|INFO   |MarketDataSync|Task 'aggregate_3d_crypto' due: Never run before.
+2025-04-25 10:22:15|INFO   |MarketDataSync|Running Aggregation: 'aggregate_3d_crypto' for period ending 2025-04-25 06:52:13.031105+00:00
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Ensured table 'crypto_3d' exists.
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Executing agg query for crypto_3d (path: $) period: 2025-04-22-2025-04-25
+2025-04-25 10:22:15|ERROR  |MarketDataSync|Error during aggregation for crypto_3d (path: $): Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data) AS item
+                               ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 404, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data) AS item
+                               ^
+2025-04-25 10:22:15|INFO   |MarketDataSync|Task 'aggregate_weekly_crypto' due: Never run before.
+2025-04-25 10:22:15|INFO   |MarketDataSync|Running Aggregation: 'aggregate_weekly_crypto' for period ending 2025-04-25 06:52:13.031105+00:00
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Ensured table 'crypto_weekly' exists.
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Executing agg query for crypto_weekly (path: $) period: 2025-04-18-2025-04-25
+2025-04-25 10:22:15|ERROR  |MarketDataSync|Error during aggregation for crypto_weekly (path: $): Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data) AS item
+                               ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 404, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data) AS item
+                               ^
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Skip Daily 'aggregate_daily_commodity': Ran today.
+2025-04-25 10:22:15|INFO   |MarketDataSync|Task 'aggregate_6h_commodity' due: Never run before.
+2025-04-25 10:22:15|INFO   |MarketDataSync|Running Aggregation: 'aggregate_6h_commodity' for period ending 2025-04-25 06:52:13.031105+00:00
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Ensured table 'commodity_6h' exists.
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Executing agg query for commodity_6h (path: metal_precious) period: 2025-04-25-2025-04-25
+2025-04-25 10:22:15|ERROR  |MarketDataSync|Error during aggregation for commodity_6h (path: metal_precious): Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data -> 'metal_precious') AS item
+                               ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 404, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data -> 'metal_precious') AS item
+                               ^
+2025-04-25 10:22:15|INFO   |MarketDataSync|Task 'aggregate_12h_commodity' due: Never run before.
+2025-04-25 10:22:15|INFO   |MarketDataSync|Running Aggregation: 'aggregate_12h_commodity' for period ending 2025-04-25 06:52:13.031105+00:00
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Ensured table 'commodity_12h' exists.
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Executing agg query for commodity_12h (path: metal_precious) period: 2025-04-24-2025-04-25
+2025-04-25 10:22:15|ERROR  |MarketDataSync|Error during aggregation for commodity_12h (path: metal_precious): Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data -> 'metal_precious') AS item
+                               ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 404, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data -> 'metal_precious') AS item
+                               ^
+2025-04-25 10:22:15|INFO   |MarketDataSync|Task 'aggregate_3d_commodity' due: Never run before.
+2025-04-25 10:22:15|INFO   |MarketDataSync|Running Aggregation: 'aggregate_3d_commodity' for period ending 2025-04-25 06:52:13.031105+00:00
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Ensured table 'commodity_3d' exists.
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Executing agg query for commodity_3d (path: metal_precious) period: 2025-04-22-2025-04-25
+2025-04-25 10:22:15|ERROR  |MarketDataSync|Error during aggregation for commodity_3d (path: metal_precious): Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data -> 'metal_precious') AS item
+                               ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 404, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data -> 'metal_precious') AS item
+                               ^
+2025-04-25 10:22:15|INFO   |MarketDataSync|Task 'aggregate_weekly_commodity' due: Never run before.
+2025-04-25 10:22:15|INFO   |MarketDataSync|Running Aggregation: 'aggregate_weekly_commodity' for period ending 2025-04-25 06:52:13.031105+00:00
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Ensured table 'commodity_weekly' exists.
+2025-04-25 10:22:15|DEBUG  |MarketDataSync|Executing agg query for commodity_weekly (path: metal_precious) period: 2025-04-18-2025-04-25
+2025-04-25 10:22:15|ERROR  |MarketDataSync|Error during aggregation for commodity_weekly (path: metal_precious): Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data -> 'metal_precious') AS item
+                               ^
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 404, in calculate_and_store_aggregates
+    aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+                 ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+duckdb.duckdb.BinderException: Binder Error: UNNEST() can only be applied to lists, structs and NULL
+
+LINE 3:                 SELECT unnest(data -> 'metal_precious') AS item
+                               ^
+2025-04-25 10:22:15|INFO   |MarketDataSync|Running Aggregation: 'aggregate_daily_tse_ifb_symbols' for period ending 2025-04-24
+2025-04-25 10:22:15|WARNING|MarketDataSync|Skipping aggregation for tse_ifb_symbols_daily: Raw table 'tse_ifb_symbols_raw' does not exist yet.
+2025-04-25 10:22:15|INFO   |MarketDataSync|Aggregation Results: Success=1, Skipped=3, Errors=12
+2025-04-25 10:22:15|INFO   |MarketDataSync|DB connection closed.
+2025-04-25 10:22:15|INFO   |MarketDataSync|[32m--- Market Data Sync Cycle Finished in 2.07 seconds ---[0m
