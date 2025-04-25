@@ -98,9 +98,7 @@ jobs:
           # delete all older than the 24 newest
           to_delete=$(echo "$runs" | tail -n +25)
           echo "$to_delete" | while read id; do
-            gh api \
-              -X DELETE \
-              /repos/"$REPO"/actions/runs/"$id" \
-              -H "Authorization: token $GH_TOKEN"
+            echo "Deleting run ID: $id"
+            gh run delete "$id" --repo "$REPO"
           done
         shell: bash
