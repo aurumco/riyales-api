@@ -2,3 +2,4 @@ aiohttp>=3.8.5
 duckdb==1.2.2
 pytz>=2024.1
 python-dotenv>=1.0.0
+jdatetime>=5.2.0
