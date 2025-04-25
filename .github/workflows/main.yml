@@ -19,12 +19,11 @@ jobs:
       contents: write
     
     env:
-      PYTHON_VERSION: '3.10'
+      PYTHON_VERSION: '3.13'
       BRSAPI_KEY: ${{ secrets.BRSAPI_KEY }}
       TZ: 'Asia/Tehran'
       LOG_LEVEL: 'INFO'
-      # Explicitly set DuckDB version that's compatible with our SQL queries
-      DUCKDB_VERSION: '1.3.1'
+      DUCKDB_VERSION: '1.2.2'
 
     steps:
       - name: Check out repository
