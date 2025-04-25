@@ -2,33 +2,30 @@ name: Sync Financial Market Data
 
 on:
   schedule:
-    # Run every 10 minutes
-    - cron: '*/10 * * * *'
-  workflow_dispatch: # Allow manual trigger
-  push: # Add this trigger
+    - cron: '*/10 * * * *'  # Run every 10 minutes
+  workflow_dispatch:        # Allow manual trigger
+  push:
     branches:
-      - main # Trigger only on pushes to the main branch (adjust if needed, e.g., ['main', 'develop'] or '*')
+      - main                # Trigger only on pushes to the main branch
 
 jobs:
   sync-data:
     runs-on: ubuntu-latest
     permissions:
-      # Need write permission to commit back to the repo
-      contents: write
+      contents: write       # Need write permission to commit back to the repo
     env:
-      PYTHON_VERSION: '3.12' # Specify desired Python version (adjust if needed)
+      PYTHON_VERSION: '3.12'
       BRS_API_KEY: ${{ secrets.BRS_API_KEY }}
       BRS_BASE_URL: ${{ secrets.BRS_BASE_URL }}
-      LOG_LEVEL: ${{ secrets.LOG_LEVEL || 'INFO' }} # Default to INFO if secret not set
-      TZ: 'Asia/Tehran' # Set timezone for the runner environment
-      GIT_USER_NAME: 'Market Data Bot' # Git commit user name
-      GIT_USER_EMAIL: 'market-data-bot@users.noreply.github.com' # Git commit user email
+      LOG_LEVEL: ${{ secrets.LOG_LEVEL || 'INFO' }}
+      TZ: 'Asia/Tehran'
+      GIT_USER_NAME: 'Market Data Bot'
+      GIT_USER_EMAIL: 'market-data-bot@users.noreply.github.com'
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          # Fetch all history for accurate diff (important if force pushing or complex history)
           fetch-depth: 0
 
       - name: Set up Python ${{ env.PYTHON_VERSION }}
@@ -40,7 +37,6 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
-          # Key includes Python version and hash of requirements.txt
           key: ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-${{ hashFiles('requirements.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-
@@ -53,7 +49,6 @@ jobs:
             pip install -r requirements.txt
           else
             echo "requirements.txt not found, skipping dependency installation."
-          fi
 
       - name: Run data fetching and aggregation script
         run: python src/main.py
@@ -61,46 +56,43 @@ jobs:
       - name: Check directory contents (for debugging)
         run: |
           echo "--- Data Directory ---"
-          ls -lah data/ # Use -h for human-readable sizes
+          ls -lah data/ || echo "Warning: data directory not found or cannot be listed."
+
           echo "--- Aggregates Directory ---"
-          ls -lah data/aggregates/
+          if [ -d "data/aggregates" ]; then
+            ls -lah data/aggregates/
+          else
+            echo "Info: data/aggregates directory does not exist (likely no aggregates generated yet)."
+          fi
+
           echo "--- Logs Directory ---"
-          ls -lah logs/
-        if: always() # Run even if previous steps fail
+          ls -lah logs/ || echo "Warning: logs directory not found or cannot be listed."
+        if: always()
+        shell: bash
 
       - name: Commit and push changes
         run: |
           git config --global user.name "${{ env.GIT_USER_NAME }}"
           git config --global user.email "${{ env.GIT_USER_EMAIL }}"
 
-          # Add data, aggregates, and logs. Use --force if they are in .gitignore
-          # Note: Adding logs might significantly increase repo size over time. Consider excluding logs.
           git add data/ logs/
 
-          # Check if there are changes staged
           if git diff --staged --quiet; then
             echo "No changes detected in data/ or logs/ to commit."
           else
             echo "Changes detected. Committing and pushing..."
             git commit -m "Update market data [skip ci]" -m "Timestamp: $(date -u +'%Y-%m-%dT%H:%M:%SZ')" -m "Triggered by: ${{ github.event_name }}"
-            # Attempt to push. Handle potential conflicts if the base branch changed.
-            # Use a loop or retry mechanism if needed for robustness against temporary push failures.
             git push origin main
           fi
-        # Run this step even if the Python script fails, to commit any partial data/logs if desired
-        # However, you might only want to commit on success: remove 'if: always()'
-        # Consider adding error handling for the git push command itself
         if: always()
 
   cleanup-workflows:
     name: Delete Old Workflow Runs
-    # Run this job only on schedule or manual dispatch, not necessarily on every push
     if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
       - name: Install GitHub CLI
         run: |
-          # Use the recommended installation method
           type -p curl >/dev/null || sudo apt-get update && sudo apt-get install curl -y
           curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg \
           && sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg \
@@ -116,7 +108,6 @@ jobs:
       - name: Delete old workflow runs (keep recent 10)
         run: |
           echo "Fetching workflow runs..."
-          # List runs for the current workflow, excluding the current run itself
           RUNS_TO_DELETE=$(gh run list --workflow "${{ github.workflow }}" --limit 100 --json databaseId,status,createdAt --jq '.[] | select(.status == "completed" or .status == "failed" or .status == "cancelled") | .databaseId' | tail -n +11)
 
           if [ -z "$RUNS_TO_DELETE" ]; then
@@ -126,11 +117,10 @@ jobs:
             echo "$RUNS_TO_DELETE" | while read run_id; do
               echo "Deleting run $run_id"
               gh run delete "$run_id" || echo "Failed to delete run $run_id (might be already deleted or protected)"
-              sleep 1 # Add a small delay to avoid rate limits if deleting many runs
+              sleep 1
             done
             echo "Finished deleting old workflow runs."
           fi
         shell: bash
         env:
-           # Provide GITHUB_TOKEN to gh cli
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
