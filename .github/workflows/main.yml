@@ -13,9 +13,8 @@ env:
   DUCKDB_VERSION: '1.2.2'
 
 jobs:
-
   sync-data:
-    name: Sync → Alert → Commit
+    name: Sync → Commit → Alert
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -51,15 +50,14 @@ jobs:
           pip install -r requirements.txt
         shell: bash
 
-      - name: Run data-fetch script
-        run: python src/main.py
+      - name: Run data-fetch script and capture logs
+        run: |
+          mkdir -p logs
+          ts=$(date +"%Y%m%d_%H%M%S")
+          python src/main.py 2>&1 | tee logs/market_data_${ts}.log
         shell: bash
 
-      - name: Send Telegram error log
-        run: python src/alert_sender.py
-        shell: bash
-
-      - name: Pull, Commit & Push if any
+      - name: Pull latest & Commit any changes
         run: |
           git config --global user.name "Market Data Bot"
           git config --global user.email "market-data-bot@users.noreply.github.com"
@@ -72,15 +70,20 @@ jobs:
           )
         shell: bash
 
+      - name: Send Telegram error log
+        if: always()
+        run: python src/alert_sender.py
+        shell: bash
+
   cleanup:
     name: Cleanup
     needs: sync-data
     if: always()
     runs-on: ubuntu-latest
     env:
-      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      - name: Remove old runs (keep latest 24)
+      - name: Remove old workflow runs (keep latest 24)
         run: |
           runs=$(gh run list \
             --repo "${{ github.repository }}" \
@@ -90,6 +93,7 @@ jobs:
             --jq '.[] | select(.status!="in_progress" and .status!="queued") | .databaseId')
           total=$(echo "$runs" | wc -l)
           if [ "$total" -le 24 ]; then exit 0; fi
+          # keep first 24, delete the rest
           to_delete=$(echo "$runs" | tail -n +25)
           echo "$to_delete" | while read id; do
             gh run delete "$id" --repo "${{ github.repository }}" --yes
