@@ -11,6 +11,7 @@ on:
 env:
   PYTHON_VERSION: '3.13'
   DUCKDB_VERSION: '1.2.2'
+  CACHE_KEY: ${{ runner.os }}-pip-${{ hashFiles('**/requirements*.txt') }}
 
 jobs:
 
@@ -27,15 +28,12 @@ jobs:
         with:
           python-version: ${{ env.PYTHON_VERSION }}
 
-      - name: Get cache key
-        id: get-cache-key
-        run: echo "key=${{ runner.os }}-pip-${{ hashFiles('**/requirements*.txt') }}" >> $GITHUB_OUTPUT
-
       - name: Restore pip cache
+        id: cache-pip
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
-          key: ${{ steps.get-cache-key.outputs.key }}
+          key: ${{ env.CACHE_KEY }}
           restore-keys: |
             ${{ runner.os }}-pip-
 
@@ -58,6 +56,9 @@ jobs:
     needs: setup
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
       - name: Run data script and measure duration
         run: |
           start=$(date +%s)
@@ -73,7 +74,7 @@ jobs:
         shell: bash
 
       - name: Upload filtered logs
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: filtered-logs
           path: filtered.log
@@ -114,6 +115,9 @@ jobs:
       TELEGRAM_USER_ID:   ${{ secrets.TELEGRAM_USER_ID }}
       LOG_LEVELS:         ${{ secrets.LOG_LEVELS || 'ERROR' }}
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
       - name: Send alert
         run: |
           python src/alert_sender.py
