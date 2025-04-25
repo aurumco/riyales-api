@@ -11,7 +11,6 @@ on:
 env:
   PYTHON_VERSION: '3.13'
   DUCKDB_VERSION: '1.2.2'
-  CACHE_KEY: ${{ runner.os }}-pip-${{ hashFiles('**/requirements*.txt') }}
 
 jobs:
 
@@ -28,12 +27,15 @@ jobs:
         with:
           python-version: ${{ env.PYTHON_VERSION }}
 
+      - name: Get cache key
+        id: get-cache-key
+        run: echo "key=${{ runner.os }}-pip-${{ hashFiles('**/requirements*.txt') }}" >> $GITHUB_OUTPUT
+
       - name: Restore pip cache
-        id: cache-pip
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
-          key: ${{ env.CACHE_KEY }}
+          key: ${{ steps.get-cache-key.outputs.key }}
           restore-keys: |
             ${{ runner.os }}-pip-
 
@@ -59,10 +61,22 @@ jobs:
       - name: Run data script and measure duration
         run: |
           start=$(date +%s)
-          python src/main.py
+          python src/main.py 2>&1 | tee full.log
           end=$(date +%s)
           echo "Script ran in $((end-start))s" >> $GITHUB_STEP_SUMMARY
         shell: bash
+
+      - name: Filter log levels
+        run: |
+          grep -E -i 'DEBUG|INFO|WARNING|ERROR|CRITICAL' full.log > filtered.log || true
+          echo "Filtered log lines saved" >> $GITHUB_STEP_SUMMARY
+        shell: bash
+
+      - name: Upload filtered logs
+        uses: actions/upload-artifact@v3
+        with:
+          name: filtered-logs
+          path: filtered.log
 
   commit:
     needs: sync
@@ -100,11 +114,9 @@ jobs:
       TELEGRAM_USER_ID:   ${{ secrets.TELEGRAM_USER_ID }}
       LOG_LEVELS:         ${{ secrets.LOG_LEVELS || 'ERROR' }}
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Send Telegram alert
-        run: python src/alert_sender.py
+      - name: Send alert
+        run: |
+          python src/alert_sender.py
         shell: bash
 
   cleanup-workflows:
