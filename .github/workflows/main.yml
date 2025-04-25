@@ -1,34 +1,31 @@
-name: Market Data Sync
+name: Sync Financial Market Data
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # Run every 10 minutes
-  workflow_dispatch:  # Manual trigger
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
   push:
     branches:
       - main
-    paths:
-      - 'src/**'
-      - 'requirements.txt'
-      - '.github/workflows/sync-market-data.yml'
 
 jobs:
   sync-data:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
     env:
       PYTHON_VERSION: '3.13'
       BRS_API_KEY: ${{ secrets.BRS_API_KEY }}
       BRS_BASE_URL: ${{ secrets.BRS_BASE_URL }}
+      LOG_LEVEL: ${{ secrets.LOG_LEVEL || 'INFO' }}
       TZ: 'Asia/Tehran'
-      LOG_LEVEL: 'INFO'
-      # Explicitly set DuckDB version that's compatible with our SQL queries
+      GIT_USER_NAME: 'Market Data Bot'
+      GIT_USER_EMAIL: 'market-data-bot@users.noreply.github.com'
       DUCKDB_VERSION: '1.2.2'
+      CACHE_VERSION: '1'
 
     steps:
-      - name: Check out repository
+      - name: Checkout code
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -37,64 +34,97 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: ${{ env.PYTHON_VERSION }}
-          cache: pip
 
-      # Cache dependencies to speed up workflow
       - name: Cache pip dependencies
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}-v2
+          key: ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-${{ env.CACHE_VERSION }}-duckdb${{ env.DUCKDB_VERSION }}-${{ hashFiles('requirements.txt') }}
           restore-keys: |
-            ${{ runner.os }}-pip-
+            ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-${{ env.CACHE_VERSION }}-duckdb${{ env.DUCKDB_VERSION }}-
+            ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-
 
-      - name: Check if DuckDB is already installed
-        id: check-duckdb
-        run: |
-          python -c "import pkg_resources; print('Current DuckDB:', pkg_resources.get_distribution('duckdb').version)" || echo "DuckDB not installed"
-
-      - name: Install dependencies with specific DuckDB version
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
-          
-          # Force reinstall DuckDB with the specific version
-          pip uninstall -y duckdb
-          pip install duckdb==${{ env.DUCKDB_VERSION }}
-          
-          # Verify the installed version
-          python -c "import duckdb; print('Installed DuckDB version:', duckdb.__version__)"
-      
-      - name: Run data fetching script
+          pip install duckdb==${{ env.DUCKDB_VERSION }} --force-reinstall
+
+          if [ -f requirements.txt ]; then
+            grep -v "duckdb" requirements.txt > requirements_filtered.txt || cp requirements.txt requirements_filtered.txt
+            pip install -r requirements_filtered.txt
+          else
+            pip install aiohttp pytz python-dotenv jdatetime
+        shell: bash
+
+      - name: Run data fetching and aggregation script
+        run: python src/main.py
+
+      - name: Check directory contents (for debugging)
         run: |
-          mkdir -p data logs json
-          python src/main.py
-      
-      - name: Check directory content
+          echo "--- Data Directory ---"
+          ls -lah data/ || echo "Warning: data directory not found or cannot be listed."
+          echo "--- Aggregates Directory ---"
+          if [ -d "data/aggregates" ]; then
+            ls -lah data/aggregates/
+          else
+            echo "Info: data/aggregates directory does not exist (likely no aggregates generated yet)."
+          fi
+          echo "--- Logs Directory ---"
+          ls -lah logs/ || echo "Warning: logs directory not found or cannot be listed."
+        if: always()
+        shell: bash
+
+      - name: Commit and push changes
         run: |
-          echo "=== CHECKING DATA DIRECTORY ==="
-          ls -la data/
-          echo "=== CHECKING JSON DIRECTORY ==="
-          ls -la json/
-          
-      - name: Commit and push if changes
-        run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
-          git add data/ json/ logs/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto: Data update $(date +'%Y-%m-%d %H:%M:%S')" && git push)
+          git config --global user.name "${{ env.GIT_USER_NAME }}"
+          git config --global user.email "${{ env.GIT_USER_EMAIL }}"
+
+          git add data/ logs/
+          if git diff --staged --quiet; then
+            echo "No changes detected in data/ or logs/ to commit."
+          else
+            COMMIT_MSG=$(python src/get_commit_message.py)
+            echo "Commit Message: $COMMIT_MSG"
+            git commit -m "$COMMIT_MSG" -m "Triggered by: ${{ github.event_name }}"
+            git push origin main
+          fi
+        if: always()
 
   cleanup-workflows:
-    needs: sync-data
+    name: Delete Old Workflow Runs
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
-    permissions:
-      actions: write
-    
     steps:
-      - name: Remove old workflow runs
-        uses: Mattraks/delete-workflow-runs@v2
-        with:
-          token: ${{ github.token }}
-          repository: ${{ github.repository }}
-          retain_days: 1
-          keep_minimum_runs: 10 
+      - name: Install GitHub CLI
+        run: |
+          type -p curl >/dev/null || sudo apt-get update && sudo apt-get install curl -y
+          curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg \
+          && sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg \
+          && echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null \
+          && sudo apt-get update \
+          && sudo apt-get install gh -y
+        shell: bash
+
+      - name: Authenticate with GitHub CLI
+        run: echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
+        shell: bash
+
+      - name: Delete old workflow runs (keep recent 10)
+        run: |
+          echo "Fetching workflow runs..."
+          RUNS_TO_DELETE=$(gh run list --workflow "${{ github.workflow }}" --limit 100 --json databaseId,status,createdAt --jq '.[] | select(.status == "completed" or .status == "failed" or .status == "cancelled") | .databaseId' | tail -n +11)
+
+          if [ -z "$RUNS_TO_DELETE" ]; then
+            echo "No old workflow runs found to delete (keeping last 10)."
+          else
+            echo "Deleting old workflow runs..."
+            echo "$RUNS_TO_DELETE" | while read run_id; do
+              echo "Deleting run $run_id"
+              gh run delete "$run_id" --repo "${{ github.repository }}" || echo "Warning: Failed to delete run $run_id"
+              sleep 1
+            done
+            echo "Finished deleting old workflow runs."
+          fi
+        shell: bash
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
