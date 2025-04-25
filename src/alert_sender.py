@@ -1,72 +1,61 @@
 #!/usr/bin/env python3
-"""
-Alert sender for GitHub Actions logs via Telegram.
-
-Configuration:
-- BOT_TOKEN:      Telegram bot token (secret: TELEGRAM_BOT_TOKEN)
-- USER_ID:        Telegram user ID (secret: TELEGRAM_USER_ID)
-- LOG_LEVELS:     Comma-separated log levels to send (e.g., "ERROR,WARNING")
-
-Example log levels:
-- DEBUG
-- INFO
-- WARNING
-- ERROR
-- CRITICAL
-"""
 
 import os
 import glob
-import argparse
 import requests
+from pygments import highlight
+from pygments.lexers import PythonLexer
+from pygments.formatters import ImageFormatter
 
-# === CONFIG ===
-BOT_TOKEN   = os.getenv('TELEGRAM_BOT_TOKEN')
-USER_ID     = os.getenv('TELEGRAM_USER_ID')
-LOG_LEVELS  = os.getenv('LOG_LEVELS', 'ERROR')
-LOG_DIR     = os.path.join(os.path.dirname(__file__), '..', 'logs')
-# ==============
+# === CONFIG (via env / GitHub Secrets) ===
+BOT_TOKEN  = os.getenv('TELEGRAM_BOT_TOKEN')
+USER_ID    = os.getenv('TELEGRAM_USER_ID')
+LOG_LEVELS = os.getenv('LOG_LEVELS', 'ERROR')
+LOG_DIR    = os.path.join(os.path.dirname(__file__), '..', 'logs')
+# ==========================================
 
 def find_latest_log_file():
-    log_files = sorted(glob.glob(os.path.join(LOG_DIR, '*.log')), reverse=True)
-    return log_files[0] if log_files else None
+    files = sorted(glob.glob(os.path.join(LOG_DIR, '*.log')), reverse=True)
+    return files[0] if files else None
 
-def load_messages(log_file, levels):
-    levels = [lvl.strip().upper() for lvl in levels.split(',')]
-    msgs = []
-    with open(log_file, 'r', errors='ignore') as f:
-        for line in f:
-            for lvl in levels:
-                if lvl in line.upper():
-                    msgs.append(line.rstrip())
-                    break
-    return msgs
+def load_filtered_lines(path, levels):
+    lvls = [l.strip().upper() for l in levels.split(',')]
+    lines = []
+    with open(path, 'r', errors='ignore') as f:
+        for ln in f:
+            if any(lvl in ln.upper() for lvl in lvls):
+                lines.append(ln.rstrip())
+    return lines
 
-def send_telegram(messages):
+def render_image(text, out_path='log.png'):
+    formatter = ImageFormatter(style='monokai', font_name='DejaVu Sans Mono', line_numbers=False)
+    img_data = highlight(text, PythonLexer(), formatter)
+    with open(out_path, 'wb') as f:
+        f.write(img_data)
+    return out_path
+
+def send_photo(image_path):
     if not BOT_TOKEN or not USER_ID:
         print('ERROR: BOT_TOKEN or USER_ID not set')
         return
-    if not messages:
-        print('No log messages to send')
-        return
-    text = '\n'.join(messages)
-    url = f'https://api.telegram.org/bot{BOT_TOKEN}/sendMessage'
-    payload = {
-        'chat_id': USER_ID,
-        'text': text,
-        'disable_web_page_preview': True
-    }
-    resp = requests.post(url, data=payload, timeout=10)
+    url = f'https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto'
+    with open(image_path, 'rb') as img:
+        resp = requests.post(url, data={'chat_id': USER_ID}, files={'photo': img})
     if not resp.ok:
-        print(f'ERROR: Telegram API response: {resp.status_code} {resp.text}')
+        print(f'ERROR sending photo: {resp.status_code} {resp.text}')
 
 def main():
     log_file = find_latest_log_file()
     if not log_file:
         print('No log files found.')
         return
-    msgs = load_messages(log_file, LOG_LEVELS)
-    send_telegram(msgs)
+    lines = load_filtered_lines(log_file, LOG_LEVELS)
+    if not lines:
+        print('No matching log lines for levels:', LOG_LEVELS)
+        return
+    text = '\n'.join(lines)
+    img = render_image(text)
+    send_photo(img)
 
 if __name__ == '__main__':
     main()
