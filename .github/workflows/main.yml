@@ -1,0 +1,78 @@
+name: Sync Financial Market Data
+
+on:
+  schedule:
+    # Attempt to run approx every 10 minutes. GitHub scheduling has variability.
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  sync-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      PYTHON_VERSION: '3.13'
+      BRS_API_KEY: ${{ secrets.BRS_API_KEY }}
+      BRS_BASE_URL: ${{ secrets.BRS_BASE_URL }}
+      # Log level for Python script (DEBUG, INFO, WARNING, ERROR)
+      LOG_LEVEL: INFO # Set default to INFO, can override with repo variable if needed
+      TZ: 'Asia/Tehran'
+      # Git commit info
+      GIT_USER_NAME: 'Market Data Bot'
+      GIT_USER_EMAIL: 'market-data-bot@users.noreply.github.com'
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python ${{ env.PYTHON_VERSION }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Cache pip dependencies
+        id: cache-pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-${{ env.PYTHON_VERSION }}-
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run data sync script (Fetch & Aggregate)
+        id: run_script
+        run: python src/main.py
+
+      - name: Check data directory contents
+        run: ls -lah data/
+        if: always()
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "${{ env.GIT_USER_NAME }}"
+          git config --global user.email "${{ env.GIT_USER_EMAIL }}"
+
+          echo "Checking for file changes..."
+          # Add data dir (including DB), logs dir, and state file
+          git add data/ logs/ src/.sync_state.json
+
+          # Check if there are staged changes
+          if git diff --staged --quiet; then
+            echo "No data, log, or state changes to commit."
+          else
+            echo "Changes detected, committing..."
+            # Commit without [skip ci]
+            git commit -m "Sync market data" -m "Timestamp UTC: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            echo "Pushing changes to 'main' branch..."
+            git push origin main
+            echo "Changes pushed successfully."
+          fi
+        # Run commit check even if script had minor errors, to commit logs/state
+        if: always()
