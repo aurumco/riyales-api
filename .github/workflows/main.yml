@@ -1,27 +1,27 @@
 # .github/workflows/main.yml
 
 name: Sync Financial Market Data
+
 on:
   schedule:
-    # Attempt to run approximately every 8 minutes.
-    - cron: '*/8 * * * *'
+    # Attempt to run approximately every 10 minutes.
+    # GitHub Actions scheduling has variability and is not guaranteed to be exact.
+    - cron: '*/10 * * * *'
   workflow_dispatch: # Allows manual triggering
 
 jobs:
   sync-data:
     runs-on: ubuntu-latest
+    # *** Updated Permissions: Added actions:write for deleting runs ***
     permissions:
-      contents: write
+      contents: write # To commit back to the repo
+      actions: write  # To delete old workflow runs
     env:
       PYTHON_VERSION: '3.13'
-      # Secrets - Ensure BRS_BASE_URL is also set in GitHub Secrets
       BRS_API_KEY: ${{ secrets.BRS_API_KEY }}
       BRS_BASE_URL: ${{ secrets.BRS_BASE_URL }}
-      # --- NEW: Log Level Configuration ---
-      # Set desired log level: DEBUG, INFO, WARNING, ERROR, CRITICAL (Default: INFO)
-      LOG_LEVEL: ${{ secrets.LOG_LEVEL || 'INFO' }} # Use secret or default to INFO
+      LOG_LEVEL: ${{ secrets.LOG_LEVEL || 'INFO' }}
       TZ: 'Asia/Tehran'
-      # Git commit details
       GIT_USER_NAME: 'Market Data Bot'
       GIT_USER_EMAIL: 'market-data-bot@users.noreply.github.com'
 
@@ -59,6 +59,7 @@ jobs:
           ls -la data/
           echo "--- Logs Directory ---"
           ls -la logs/
+        # Run even if script failed to see state before commit attempt
         if: always()
 
       - name: Commit and push changes
@@ -66,20 +67,42 @@ jobs:
           echo "Configuring Git user..."
           git config --global user.name "${{ env.GIT_USER_NAME }}"
           git config --global user.email "${{ env.GIT_USER_EMAIL }}"
-
           echo "Checking for changes..."
-          # Add data and log directories
           git add data/ logs/
-
-          # Check staged changes
           if git diff --staged --quiet; then
-            echo "No changes detected in data/ or logs/ to commit."
+            echo "No changes detected to commit."
           else
             echo "Changes detected, committing..."
-            # 2. Commit message without [skip ci]
             git commit -m "Update market data" -m "Timestamp: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
             echo "Pushing changes..."
-            git push origin main # Ensure 'main' is your default branch
-            echo "Changes pushed successfully."
+            # Retry push up to 3 times with delays in case of temporary network issues or conflicts
+            n=0
+            until [ $n -ge 3 ]
+            do
+              git push origin main && break # try
+              n=$[$n+1]
+              echo "Push failed. Retrying ($n/3)..."
+              sleep 5 # wait 5 seconds
+            done
+            if [ $n -ge 3 ]; then
+              echo "Push failed after 3 retries."
+              exit 1 # Fail the step if push ultimately fails
+            else
+              echo "Changes pushed successfully."
+            fi
           fi
+        # Attempt commit/push even if script failed, to save logs
+        if: always()
+
+      # --- NEW STEP: Delete old workflow runs ---
+      - name: Delete older workflow runs
+        uses: actions/delete-workflow-runs@v1 # Use the official action
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # Use the default token
+          repository: ${{ github.repository }} # Specify the repository
+          retain_days: 0 # Keep runs based on count, not days
+          keep_minimum_runs: 24 # Keep the last 24 runs
+          delete_run_by_conclusion_pattern: '' # Delete all conclusions (success, failure, etc.)
+          delete_workflow_pattern: '' # Delete runs for this workflow only (blank means current workflow)
+        # Run this step even if previous steps fail (e.g., commit fails)
         if: always()
