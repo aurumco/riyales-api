@@ -440,49 +440,84 @@ def calculate_and_store_aggregates(
     for base_path in array_base_paths:
         logger.debug(f"Aggregating from base path: '{base_path}' for table '{agg_table}'")
         try:
-            # *** Modified query with improved unnesting approach ---
-            query = f"""
-            WITH RawJsonArrays AS (
-                SELECT 
-                    timestamp,
-                    data
-                FROM "{raw_table}"
-                WHERE timestamp >= ? AND timestamp < ?
-            ),
-            ExtractedData AS (
-                SELECT
-                    json_extract_string(json_extract(r.value, '{symbol_path}')) AS symbol,
-                    json_extract_string(json_extract(r.value, '{price_path}')) AS price_str
-                FROM RawJsonArrays,
-                LATERAL (
-                    SELECT UNNEST(
-                        CASE 
-                            WHEN json_type(json_extract(data, '{base_path}')) = 'ARRAY' 
-                            THEN json_extract(data, '{base_path}')
-                            ELSE '[]'::JSON 
-                        END
-                    ) AS value
-                ) r
-                WHERE json_type(r.value) = 'OBJECT'
-            ),
-            FilteredData AS (
-                SELECT
-                    symbol,
-                    try_cast(price_str AS DECIMAL({DECIMAL_PRECISION*2}, {DECIMAL_SCALE*2})) AS price_decimal
-                FROM ExtractedData
-                WHERE symbol IS NOT NULL AND price_str IS NOT NULL AND symbol != '' AND price_str != ''
-            )
-            SELECT
-                symbol,
-                median(price_decimal) AS median_price,
-                count(*) AS source_count
-            FROM FilteredData
-            WHERE price_decimal IS NOT NULL
-            GROUP BY symbol;
+            # *** Modified query compatible with older DuckDB versions (pre-1.4) ***
+            # We use json_extract_array to get the array elements first, then process each index
+            # This avoids the UNNEST operator which is not fully supported in older DuckDB versions
+            
+            # First, get the data from the raw table
+            raw_data_query = f"""
+            SELECT 
+                timestamp,
+                data
+            FROM "{raw_table}"
+            WHERE timestamp >= ? AND timestamp < ?
             """
-            logger.debug(f"Executing agg query for {agg_table} (path: {base_path}) period: {start_time_utc.isoformat()} - {end_time_utc.isoformat()}")
-            # print(f"DEBUG QUERY for {agg_table} path {base_path}:\n{query}\nParams: {start_time_utc}, {end_time_utc}") # Uncomment for deep debug
-            aggregates = conn.execute(query, (start_time_utc, end_time_utc)).fetchall()
+            raw_data = conn.execute(raw_data_query, (start_time_utc, end_time_utc)).fetchall()
+            
+            all_records = []
+            
+            # Process each row to extract array elements
+            for _, data_json in raw_data:
+                try:
+                    # Extract the array at the base path
+                    array_data = conn.execute(
+                        f"SELECT json_extract(?, '{base_path}')", (data_json,)
+                    ).fetchone()[0]
+                    
+                    # Skip if not a JSON array
+                    if not array_data or conn.execute("SELECT json_type(?)", (array_data,)).fetchone()[0] != 'ARRAY':
+                        continue
+                    
+                    # Get array length
+                    array_length = conn.execute("SELECT json_array_length(?)", (array_data,)).fetchone()[0]
+                    
+                    # Process each array element
+                    for i in range(array_length):
+                        element = conn.execute(f"SELECT json_extract_string(json_extract(?, '$[{i}]'))", (array_data,)).fetchone()[0]
+                        if not element or conn.execute("SELECT json_type(?)", (element,)).fetchone()[0] != 'OBJECT':
+                            continue
+                            
+                        # Extract symbol and price
+                        symbol = conn.execute(f"SELECT json_extract_string(json_extract(?, '{symbol_path}'))", (element,)).fetchone()[0]
+                        price_str = conn.execute(f"SELECT json_extract_string(json_extract(?, '{price_path}'))", (element,)).fetchone()[0]
+                        
+                        if symbol and price_str and symbol != '' and price_str != '':
+                            try:
+                                # Convert price to Decimal
+                                price_decimal = Decimal(price_str)
+                                all_records.append((symbol, price_decimal))
+                            except:
+                                # Skip invalid prices
+                                continue
+                except Exception as extract_err:
+                    logger.warning(f"Error extracting data from JSON: {extract_err}")
+                    continue
+            
+            # Calculate median and counts using Python
+            symbol_data = {}
+            for symbol, price in all_records:
+                if symbol not in symbol_data:
+                    symbol_data[symbol] = []
+                symbol_data[symbol].append(price)
+            
+            # Calculate aggregates
+            aggregates = []
+            for symbol, prices in symbol_data.items():
+                if not prices:
+                    continue
+                    
+                # Sort prices for median calculation
+                prices.sort()
+                count = len(prices)
+                
+                # Calculate median
+                if count % 2 == 0:
+                    median_price = (prices[count//2-1] + prices[count//2]) / 2
+                else:
+                    median_price = prices[count//2]
+                    
+                aggregates.append((symbol, median_price, count))
+            
             logger.info(f"Aggregated {len(aggregates)} symbols from path '{base_path}' for {agg_table}")
             all_aggregates.extend(aggregates)
 
