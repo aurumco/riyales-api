@@ -1,4 +1,4 @@
-name: Sync Financial Market Data
+name: Market Data Sync
 
 on:
   schedule:
@@ -106,22 +106,28 @@ jobs:
         run: echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
         shell: bash
 
-      - name: Delete old workflow runs (keep recent 10)
+      - name: Delete old workflow runs (keep only last 24)
         run: |
-          echo "Fetching workflow runs for ${{ github.repository }}..."
-          RUNS_TO_DELETE=$(gh run list --repo "${{ github.repository }}" --workflow "${{ github.workflow }}" --limit 100 --json databaseId,status,createdAt --jq '.[] | select(.status == "completed" or .status == "failed" or .status == "cancelled") | .databaseId' | tail -n +11)
+          echo "Getting workflow runs for '${{ github.workflow }}'..."
+          RUNS=$(gh run list --repo "${{ github.repository }}" --workflow "${{ github.workflow }}" --limit 100 --json databaseId,status,createdAt --jq '.[] | select(.status == "completed" or .status == "cancelled" or .status == "failed") | .databaseId')
 
-          if [ -z "$RUNS_TO_DELETE" ]; then
-            echo "No old workflow runs found to delete (we're keeping last 10)."
-          else
-            echo "Deleting old workflow runs..."
-            echo "$RUNS_TO_DELETE" | while read run_id; do
-              echo "Deleting run $run_id..."
-              gh run delete "$run_id" --repo "${{ github.repository }}" --yes || echo "⚠Failed to delete run $run_id"
-              sleep 1
-            done
-            echo "Cleanup complete."
+          TOTAL_RUNS=$(echo "$RUNS" | wc -l)
+          echo "Total runs found: $TOTAL_RUNS"
+
+          if [ "$TOTAL_RUNS" -le 24 ]; then
+            echo "Less than or equal to 24 runs found. No deletion needed."
+            exit 0
           fi
+
+          RUNS_TO_DELETE=$(echo "$RUNS" | head -n -24)
+
+          echo "Deleting $(echo "$RUNS_TO_DELETE" | wc -l) old runs..."
+          echo "$RUNS_TO_DELETE" | while read run_id; do
+            echo "Deleting run $run_id..."
+            gh run delete "$run_id" --repo "${{ github.repository }}" --yes || echo "Failed to delete run $run_id"
+            sleep 1
+          done
+          echo "Cleanup done. Only last 24 runs kept."
         shell: bash
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
