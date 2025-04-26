@@ -1,0 +1,129 @@
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Checking for logs older than 12 hours (2025-04-25T19:48:13.300258) in 'logs'...
+2025-04-26 07:48:13|INFO   |MarketDataSync|Cleaned old log file: market_data_20250425_194122.log
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Log cleanup finished. Removed 1 old files.
+2025-04-26 07:48:13|INFO   |MarketDataSync|Logging setup complete. Target Console Level: INFO, File Level: DEBUG
+2025-04-26 07:48:13|INFO   |MarketDataSync|Current log file: logs/market_data_20250426_074813.log
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|To change console log level, set the 'LOG_LEVEL' environment variable (e.g., 'DEBUG', 'INFO', 'WARNING').
+2025-04-26 07:48:13|INFO   |MarketDataSync|[32m--- Starting Market Data Sync Cycle ---[0m
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Attempting to connect to DB: data/market_data.duckdb
+2025-04-26 07:48:13|INFO   |MarketDataSync|DB connection successful.
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Ensured aggregation_tracker table exists.
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Cycle time: UTC=2025-04-26T07:48:13.318403+00:00, Local=2025-04-26T11:18:13.318403+03:30
+2025-04-26 07:48:13|INFO   |MarketDataSync|--- Checking API Fetch Tasks ---
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Checking fetch task: 'gold_currency'
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Task 'fetch_gold_currency': LastRunUTC=2025-04-26T07:29:51.708495+00:00, TimeSince=0:18:21.609908, Interval=0:10:00, IsDue=True
+2025-04-26 07:48:13|INFO   |MarketDataSync|Scheduling fetch for: 'gold_currency'
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Checking fetch task: 'crypto'
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Task 'fetch_crypto': LastRunUTC=2025-04-26T07:29:51.708495+00:00, TimeSince=0:18:21.609908, Interval=0:10:00, IsDue=True
+2025-04-26 07:48:13|INFO   |MarketDataSync|Scheduling fetch for: 'crypto'
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Checking fetch task: 'commodity'
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Task 'fetch_commodity': LastRunUTC=2025-04-26T07:29:51.708495+00:00, TimeSince=0:18:21.609908, Interval=0:10:00, IsDue=True
+2025-04-26 07:48:13|INFO   |MarketDataSync|Scheduling fetch for: 'commodity'
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Checking fetch task: 'tse_ifb_symbols'
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Market Check: LocalTime=11:18:13 +0330, Weekday=5, CurrentTime=11:18:13.321977, MarketHours=08:45:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Market Status: OPEN (Within Market Hours Check)
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Task 'fetch_tse_ifb_symbols': LastRunUTC=2025-04-26T07:19:48.396216+00:00, TimeSince=0:28:24.922187, Interval=0:20:00, IsDue=True
+2025-04-26 07:48:13|INFO   |MarketDataSync|Scheduling fetch for: 'tse_ifb_symbols'
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Checking fetch task: 'tse_options'
+2025-04-26 07:48:13|DEBUG  |MarketDataSync| -> Skip 'tse_options': Disabled in config.
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Checking fetch task: 'tse_nav'
+2025-04-26 07:48:13|DEBUG  |MarketDataSync| -> Skip 'tse_nav': Disabled in config.
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Checking fetch task: 'tse_index'
+2025-04-26 07:48:13|DEBUG  |MarketDataSync| -> Skip 'tse_index': Disabled in config.
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Checking fetch task: 'ifb_index'
+2025-04-26 07:48:13|DEBUG  |MarketDataSync| -> Skip 'ifb_index': Disabled in config.
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Checking fetch task: 'selected_indices'
+2025-04-26 07:48:13|DEBUG  |MarketDataSync| -> Skip 'selected_indices': Disabled in config.
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Checking fetch task: 'debt_securities'
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Market Check: LocalTime=11:18:13 +0330, Weekday=5, CurrentTime=11:18:13.322966, MarketHours=08:45:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Market Status: OPEN (Within Market Hours Check)
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Task 'fetch_debt_securities': LastRunUTC=2025-04-26T07:19:48.396216+00:00, TimeSince=0:28:24.922187, Interval=0:20:00, IsDue=True
+2025-04-26 07:48:13|INFO   |MarketDataSync|Scheduling fetch for: 'debt_securities'
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Checking fetch task: 'housing_facilities'
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Market Check: LocalTime=11:18:13 +0330, Weekday=5, CurrentTime=11:18:13.323694, MarketHours=08:45:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Market Status: OPEN (Within Market Hours Check)
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Task 'fetch_housing_facilities': LastRunUTC=2025-04-26T07:19:48.396216+00:00, TimeSince=0:28:24.922187, Interval=0:20:00, IsDue=True
+2025-04-26 07:48:13|INFO   |MarketDataSync|Scheduling fetch for: 'housing_facilities'
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Checking fetch task: 'futures'
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Market Check: LocalTime=11:18:13 +0330, Weekday=5, CurrentTime=11:18:13.324428, MarketHours=08:45:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Market Status: OPEN (Within Market Hours Check)
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Task 'fetch_futures': LastRunUTC=2025-04-26T07:19:48.396216+00:00, TimeSince=0:28:24.922187, Interval=0:20:00, IsDue=True
+2025-04-26 07:48:13|INFO   |MarketDataSync|Scheduling fetch for: 'futures'
+2025-04-26 07:48:13|INFO   |MarketDataSync|Attempting to fetch data for 7 endpoints...
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Requesting: gold_currency (https://brsapi.ir/Api/Market/Gold_Currency.php?key=********)
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Requesting: crypto (https://brsapi.ir/Api/Market/Cryptocurrency.php?key=********)
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Requesting: commodity (https://brsapi.ir/Api/Market/Commodity.php?key=********)
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Requesting: tse_ifb_symbols (https://brsapi.ir/Api/Tsetmc/AllSymbols.php?key=********&type=1)
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Requesting: debt_securities (https://brsapi.ir/Api/Tsetmc/AllSymbols.php?key=********&type=4)
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Requesting: housing_facilities (https://brsapi.ir/Api/Tsetmc/AllSymbols.php?key=********&type=5)
+2025-04-26 07:48:13|DEBUG  |MarketDataSync|Requesting: futures (https://brsapi.ir/Api/Tsetmc/AllSymbols.php?key=********&type=3)
+2025-04-26 07:48:14|DEBUG  |MarketDataSync|Response: commodity Status=200 in 1.66s
+2025-04-26 07:48:14|INFO   |MarketDataSync|Success: Fetched 'commodity'.
+2025-04-26 07:48:14|DEBUG  |MarketDataSync|Response: housing_facilities Status=200 in 1.67s
+2025-04-26 07:48:14|INFO   |MarketDataSync|Success: Fetched 'housing_facilities'.
+2025-04-26 07:48:15|DEBUG  |MarketDataSync|Response: debt_securities Status=200 in 1.69s
+2025-04-26 07:48:15|DEBUG  |MarketDataSync|Response: gold_currency Status=200 in 1.70s
+2025-04-26 07:48:15|DEBUG  |MarketDataSync|Response: crypto Status=200 in 1.70s
+2025-04-26 07:48:15|INFO   |MarketDataSync|Success: Fetched 'gold_currency'.
+2025-04-26 07:48:15|DEBUG  |MarketDataSync|Response: tse_ifb_symbols Status=200 in 1.72s
+2025-04-26 07:48:15|DEBUG  |MarketDataSync|Response: futures Status=200 in 1.72s
+2025-04-26 07:48:15|INFO   |MarketDataSync|Success: Fetched 'futures'.
+2025-04-26 07:48:15|INFO   |MarketDataSync|Success: Fetched 'debt_securities'.
+2025-04-26 07:48:15|INFO   |MarketDataSync|Success: Fetched 'crypto'.
+2025-04-26 07:48:16|INFO   |MarketDataSync|Success: Fetched 'tse_ifb_symbols'.
+2025-04-26 07:48:16|INFO   |MarketDataSync|--- Processing Fetch Results ---
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Ensured table 'gold_currency_raw' exists or was created.
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Inserted raw data into 'gold_currency_raw' for 2025-04-26T07:48:16.152068+00:00.
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Saved latest raw JSON: gold_currency.json
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Updated last run time for 'fetch_gold_currency' to 2025-04-26T07:48:13.318403+00:00
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Ensured table 'crypto_raw' exists or was created.
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Inserted raw data into 'crypto_raw' for 2025-04-26T07:48:16.152068+00:00.
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Saved latest raw JSON: cryptocurrency.json
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Updated last run time for 'fetch_crypto' to 2025-04-26T07:48:13.318403+00:00
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Ensured table 'commodity_raw' exists or was created.
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Inserted raw data into 'commodity_raw' for 2025-04-26T07:48:16.152068+00:00.
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Saved latest raw JSON: commodity.json
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Updated last run time for 'fetch_commodity' to 2025-04-26T07:48:13.318403+00:00
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Ensured table 'tse_ifb_symbols_raw' exists or was created.
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Inserted raw data into 'tse_ifb_symbols_raw' for 2025-04-26T07:48:16.152068+00:00.
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Saved latest raw JSON: tse_ifb_symbols.json
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Updated last run time for 'fetch_tse_ifb_symbols' to 2025-04-26T07:48:13.318403+00:00
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Ensured table 'debt_securities_raw' exists or was created.
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Inserted raw data into 'debt_securities_raw' for 2025-04-26T07:48:16.152068+00:00.
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Saved latest raw JSON: debt_securities.json
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Updated last run time for 'fetch_debt_securities' to 2025-04-26T07:48:13.318403+00:00
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Ensured table 'housing_facilities_raw' exists or was created.
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Inserted raw data into 'housing_facilities_raw' for 2025-04-26T07:48:16.152068+00:00.
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Saved latest raw JSON: housing_facilities.json
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Updated last run time for 'fetch_housing_facilities' to 2025-04-26T07:48:13.318403+00:00
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Ensured table 'futures_raw' exists or was created.
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Inserted raw data into 'futures_raw' for 2025-04-26T07:48:16.152068+00:00.
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Saved latest raw JSON: futures.json
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Updated last run time for 'fetch_futures' to 2025-04-26T07:48:13.318403+00:00
+2025-04-26 07:48:16|INFO   |MarketDataSync|Fetch Results Summary: Processed=7, DB Inserts=7, Errors=0
+2025-04-26 07:48:16|INFO   |MarketDataSync|--- Checking Aggregation Tasks ---
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Checking aggregations for 'gold_currency': Levels=['6h', '12h', 'daily', '3d', 'weekly']
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Task 'aggregate_6h_gold_currency': LastRunUTC=2025-04-26T05:05:16.568778+00:00, TimeSince=2:42:56.749625, Interval=6:00:00, IsDue=False
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Task 'aggregate_12h_gold_currency': LastRunUTC=2025-04-26T05:05:16.573692+00:00, TimeSince=2:42:56.744711, Interval=12:00:00, IsDue=False
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Skip Daily 'aggregate_daily_gold_currency': Already processed up to or including yesterday (2025-04-26).
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Task 'aggregate_3d_gold_currency': LastRunUTC=2025-04-26T05:05:16.584527+00:00, TimeSince=2:42:56.733876, Interval=3 days, 0:00:00, IsDue=False
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Task 'aggregate_weekly_gold_currency': LastRunUTC=2025-04-26T05:05:16.589416+00:00, TimeSince=2:42:56.728987, Interval=7 days, 0:00:00, IsDue=False
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Checking aggregations for 'crypto': Levels=['6h', '12h', 'daily', '3d', 'weekly']
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Task 'aggregate_6h_crypto': LastRunUTC=2025-04-26T05:05:16.594193+00:00, TimeSince=2:42:56.724210, Interval=6:00:00, IsDue=False
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Task 'aggregate_12h_crypto': LastRunUTC=2025-04-26T05:05:16.599316+00:00, TimeSince=2:42:56.719087, Interval=12:00:00, IsDue=False
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Skip Daily 'aggregate_daily_crypto': Already processed up to or including yesterday (2025-04-26).
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Task 'aggregate_3d_crypto': LastRunUTC=2025-04-26T05:05:16.609675+00:00, TimeSince=2:42:56.708728, Interval=3 days, 0:00:00, IsDue=False
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Task 'aggregate_weekly_crypto': LastRunUTC=2025-04-26T05:05:16.615389+00:00, TimeSince=2:42:56.703014, Interval=7 days, 0:00:00, IsDue=False
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Checking aggregations for 'commodity': Levels=['6h', '12h', 'daily', '3d', 'weekly']
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Task 'aggregate_6h_commodity': LastRunUTC=2025-04-26T05:05:16.620180+00:00, TimeSince=2:42:56.698223, Interval=6:00:00, IsDue=False
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Task 'aggregate_12h_commodity': LastRunUTC=2025-04-26T05:05:16.625099+00:00, TimeSince=2:42:56.693304, Interval=12:00:00, IsDue=False
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Skip Daily 'aggregate_daily_commodity': Already processed up to or including yesterday (2025-04-26).
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Task 'aggregate_3d_commodity': LastRunUTC=2025-04-26T05:05:16.635096+00:00, TimeSince=2:42:56.683307, Interval=3 days, 0:00:00, IsDue=False
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Task 'aggregate_weekly_commodity': LastRunUTC=2025-04-26T05:05:16.640100+00:00, TimeSince=2:42:56.678303, Interval=7 days, 0:00:00, IsDue=False
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Checking aggregations for 'tse_ifb_symbols': Levels=['daily']
+2025-04-26 07:48:16|DEBUG  |MarketDataSync|Skip Daily 'aggregate_daily_tse_ifb_symbols': Already processed up to or including yesterday (2025-04-26).
+2025-04-26 07:48:16|INFO   |MarketDataSync|Aggregation Results Summary: Success=0, Skipped=16, Errors=0
+2025-04-26 07:48:16|INFO   |MarketDataSync|DB connection closed.
+2025-04-26 07:48:16|INFO   |MarketDataSync|[32m--- Market Data Sync Cycle Finished in 3.10 seconds ---[0m
+2025-04-26 07:48:16|INFO   |MarketDataSync|Improvement Suggestion 1: Implement more specific error handling for common API issues (e.g., rate limits, maintenance status codes).
+2025-04-26 07:48:16|INFO   |MarketDataSync|Improvement Suggestion 2: Consider adding data quality checks (e.g., price outliers, missing symbols) after fetching or before aggregation.
