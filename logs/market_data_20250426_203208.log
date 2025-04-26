@@ -1,0 +1,22 @@
+[32m•[0m 20:32:09|[32mINFO   [0m| [32mCleaned old log file: market_data_20250426_082201.log[0m
+[32m•[0m 20:32:09|[32mINFO   [0m| [32mLogging setup complete. Target Console Level: INFO, File Level: DEBUG[0m
+[32m•[0m 20:32:09|[32mINFO   [0m| [32mCurrent log file: logs/market_data_20250426_203209.log[0m
+[32m•[0m 20:32:09|[32mINFO   [0m| [32m[32m--- Starting Market Data Sync Cycle ---[0m[0m
+[32m•[0m 20:32:09|[32mINFO   [0m| [32mDB connection successful.[0m
+[32m•[0m 20:32:09|[32mINFO   [0m| [32m--- Checking API Fetch Tasks ---[0m
+[32m•[0m 20:32:09|[32mINFO   [0m| [32mScheduling fetch for: 'gold_currency'[0m
+[32m•[0m 20:32:09|[32mINFO   [0m| [32mScheduling fetch for: 'crypto'[0m
+[32m•[0m 20:32:09|[32mINFO   [0m| [32mScheduling fetch for: 'commodity'[0m
+[32m•[0m 20:32:09|[32mINFO   [0m| [32mAttempting to fetch data for 3 endpoints...[0m
+[32m•[0m 20:32:10|[32mINFO   [0m| [32mSuccess: Fetched 'commodity'.[0m
+[32m•[0m 20:32:11|[32mINFO   [0m| [32mSuccess: Fetched 'gold_currency'.[0m
+[32m•[0m 20:32:11|[32mINFO   [0m| [32mSuccess: Fetched 'crypto'.[0m
+[32m•[0m 20:32:11|[32mINFO   [0m| [32m--- Processing Fetch Results ---[0m
+[32m•[0m 20:32:11|[32mINFO   [0m| [32mFetch Results Summary: Processed=3, DB Inserts=3, Errors=0[0m
+[32m•[0m 20:32:11|[32mINFO   [0m| [32m--- Checking Aggregation Tasks ---[0m
+[32m•[0m 20:32:11|[32mINFO   [0m| [32mAggregation Results Summary: Success=0, Skipped=16, Errors=0[0m
+[32m•[0m 20:32:12|[32mINFO   [0m| [32mDB connection closed.[0m
+[32m•[0m 20:32:12|[32mINFO   [0m| [32m[32m--- Market Data Sync Cycle Finished in 2.67 seconds ---[0m[0m
+[32m•[0m 20:32:12|[32mINFO   [0m| [32mImprovement Suggestion 1: Implement more specific error handling for common API issues (e.g., rate limits, maintenance status codes).[0m
+[32m•[0m 20:32:12|[32mINFO   [0m| [32mImprovement Suggestion 2: Consider adding data quality checks (e.g., price outliers, missing symbols) after fetching or before aggregation.[0m
+[34m•[0m No .env file found at: /home/runner/work/riyales-api/riyales-api/src/../.env. Relying on system environment variables.
