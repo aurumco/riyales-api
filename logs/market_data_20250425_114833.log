@@ -1,7 +1,0 @@
-2025-04-25 11:48:33|DEBUG  |MarketDataSync|Checking for logs older than 12 hours (2025-04-24T23:48:33.770279) in 'logs'...
-2025-04-25 11:48:33|DEBUG  |MarketDataSync|Log cleanup finished. Removed 0 old files.
-2025-04-25 11:48:33|INFO   |MarketDataSync|Logging setup complete. Target Console Level: INFO, File Level: DEBUG
-2025-04-25 11:48:33|INFO   |MarketDataSync|Current log file: logs/market_data_20250425_114833.log
-2025-04-25 11:48:33|DEBUG  |MarketDataSync|To change console log level, set the 'LOG_LEVEL' environment variable (e.g., 'DEBUG', 'INFO', 'WARNING').
-2025-04-25 11:48:33|INFO   |MarketDataSync|[32m--- Starting Market Data Sync Cycle ---[0m
-2025-04-25 11:48:33|CRITICAL|MarketDataSync|CRITICAL: Required environment variables 'BRS_API_KEY' or 'BRS_BASE_URL' are not set. Exiting.
