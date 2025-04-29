@@ -454,6 +454,9 @@ async def main():
     """Main asynchronous function orchestrating the fetch and aggregation process."""
     setup_logging()
 
+    # Log a clear start banner
+    logger.info(f"{COLOR_GREEN}• Market Data Sync START {COLOR_RESET}")
+
     # Initialize history manager
     history_folder = os.path.join(DATA_FOLDER, 'history')
     history = HistoryManager(history_folder)
@@ -643,7 +646,8 @@ async def main():
     # --- Finish ---
     script_end_time = time.monotonic()
     total_duration = script_end_time - script_start_time
-    logger.debug(f"• {COLOR_GREEN}• Market Data Sync Cycle Finished in {total_duration:.2f} seconds {COLOR_RESET}")
+    # Log a clear end banner with duration
+    logger.info(f"{COLOR_GREEN}• Market Data Sync END {COLOR_RESET}|{COLOR_GRAY} Duration: {total_duration:.2f}s{COLOR_RESET}")
 
 # --- Script Entry Point ---
 if __name__ == "__main__":
