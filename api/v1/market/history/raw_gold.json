@@ -988,5 +988,50 @@
     "symbol": "IR_COIN_BAHAR",
     "price": 68220000.0,
     "timestamp": "2025-04-29T07:47:00+00:00"
+  },
+  {
+    "symbol": "IR_GOLD_18K",
+    "price": 6480400.0,
+    "timestamp": "2025-04-29T07:56:00+00:00"
+  },
+  {
+    "symbol": "IR_GOLD_24K",
+    "price": 8640500.0,
+    "timestamp": "2025-04-29T07:56:00+00:00"
+  },
+  {
+    "symbol": "IR_GOLD_MELTED",
+    "price": 28025000.0,
+    "timestamp": "2025-04-29T07:56:00+00:00"
+  },
+  {
+    "symbol": "XAUUSD",
+    "price": 3322.0,
+    "timestamp": "2025-04-29T07:55:00+00:00"
+  },
+  {
+    "symbol": "IR_COIN_1G",
+    "price": 13300000.0,
+    "timestamp": "2025-04-29T07:36:00+00:00"
+  },
+  {
+    "symbol": "IR_COIN_QUARTER",
+    "price": 24500000.0,
+    "timestamp": "2025-04-29T07:31:00+00:00"
+  },
+  {
+    "symbol": "IR_COIN_HALF",
+    "price": 42500000.0,
+    "timestamp": "2025-04-29T07:36:00+00:00"
+  },
+  {
+    "symbol": "IR_COIN_EMAMI",
+    "price": 71540000.0,
+    "timestamp": "2025-04-29T07:56:00+00:00"
+  },
+  {
+    "symbol": "IR_COIN_BAHAR",
+    "price": 68185000.0,
+    "timestamp": "2025-04-29T07:56:00+00:00"
   }
 ]
