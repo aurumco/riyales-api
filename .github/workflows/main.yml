@@ -49,11 +49,12 @@ jobs:
           pip install -r requirements.txt
         shell: bash
 
-      - name: Run data-fetch script and capture logs
+      - name: Run data-fetch script
         run: |
+          # Ensure logs directory exists for app.log/error.log
           mkdir -p logs
-          ts=$(date +"%Y%m%d_%H%M%S")
-          python src/main.py 2>&1 | tee logs/market_data_${ts}.log
+          # Execute main script (logging handled internally)
+          python src/main.py
         shell: bash
 
       - name: Pull latest & Commit if any
