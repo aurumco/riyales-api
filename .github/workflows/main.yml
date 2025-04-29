@@ -61,7 +61,7 @@ jobs:
           git config --global user.name "Market Data Bot"
           git config --global user.email "market-data-bot@users.noreply.github.com"
           git pull --rebase origin main || true
-          git add data/ logs/
+          git add api/v1/market/ logs/
           git diff --staged --quiet || (
             MSG=$(python src/commit_message.py)
             git commit -m "$MSG" -m "Triggered by: ${{ github.event_name }}"
