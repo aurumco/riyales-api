@@ -1,5 +1,0 @@
-2025-04-29 01:47:21|[34mINFO[0m|MarketDataSync|[32m• Market Data Sync START [0m
-2025-04-29 01:47:21|[34mINFO[0m|MarketDataSync|• Checking API Fetch Tasks 
-2025-04-29 01:47:23|[34mINFO[0m|MarketDataSync|• Processing Fetch Results 
-2025-04-29 01:47:23|[34mINFO[0m|MarketDataSync|• Computing Historical Aggregations
-2025-04-29 01:47:23|[34mINFO[0m|MarketDataSync|[32m• Market Data Sync END [0m|[90m Duration: 2.03s[0m
