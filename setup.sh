@@ -1,11 +1,12 @@
 #!/bin/bash
 
 # --- Configuration ---
-PYTHON_VERSION="3.13" # Specify desired Python version
-VENV_NAME=".venv"     # Virtual environment directory name
+PYTHON_VERSION="3.13"
+VENV_NAME=".venv"
 REQ_FILE="requirements.txt"
 LOG_DIR="logs"
-DATA_DIR="data"
+DATA_DIR="api/v1/market"
+DICT_DIR="dictionaries"
 
 # --- Helper Functions ---
 print_success() {
@@ -74,7 +75,9 @@ print_info "Verifying installations..."
 print_info "Creating required directories..."
 mkdir -p "${LOG_DIR}"
 mkdir -p "${DATA_DIR}"
-print_success "Directories '${LOG_DIR}' and '${DATA_DIR}' ensured."
+mkdir -p "${DATA_DIR}/history"
+mkdir -p "${DICT_DIR}"
+print_success "Directories '${LOG_DIR}', '${DATA_DIR}', '${DATA_DIR}/history', and '${DICT_DIR}' ensured."
 
 print_success "Project setup completed successfully!"
 print_info "Remember to activate the virtual environment: source ${VENV_NAME}/bin/activate"

@@ -10,7 +10,6 @@ on:
 
 env:
   PYTHON_VERSION: '3.13'
-  DUCKDB_VERSION: '1.2.2'
 
 jobs:
   sync-data:
@@ -64,7 +63,7 @@ jobs:
           git pull --rebase origin main || true
           git add data/ logs/
           git diff --staged --quiet || (
-            MSG=$(python src/get_commit_message.py)
+            MSG=$(python src/commit_message.py)
             git commit -m "$MSG" -m "Triggered by: ${{ github.event_name }}"
             git push origin main
           )

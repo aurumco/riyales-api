@@ -181,4 +181,7 @@ cython_debug/
 *.swp
 *.swo
 
-.env
+# Cursor
+.mdc
+.cursor/
+.cursorignore

@@ -1,7 +1,5 @@
 aiohttp>=3.11.18
-duckdb==1.2.2
 pytz>=2025.2
-python-dotenv>=1.1.0
 jdatetime>=5.2.0
 requests>=2.32.0
 pygments>=2.19.1
