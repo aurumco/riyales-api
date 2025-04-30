@@ -5,7 +5,7 @@ import pytz
 from statistics import median
 
 # Toggle to output compressed (minified) JSON for history files
-COMPRESS_HISTORY_JSON: bool = True
+COMPRESS_HISTORY_JSON: bool = False
 
 # Maximum number of median entries to keep per symbol per timeframe
 MAX_AGG_SERIES_ENTRIES: int = 10
