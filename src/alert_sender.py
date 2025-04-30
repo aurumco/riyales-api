@@ -13,8 +13,7 @@ from pygments.formatters import ImageFormatter
 # Configuration from environment
 BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
 USER_ID = os.getenv('TELEGRAM_USER_ID')
-# Expecting e.g. "ERROR,WARNING,CRITICAL"
-LOG_LEVELS = os.getenv('LOG_LEVELS', 'ERROR,CRITICAL')
+LOG_LEVELS = os.getenv('LOG_LEVELS', 'ERROR,CRITICAL') # Expecting e.g. "ERROR,WARNING,CRITICAL"
 LOG_DIR = os.path.join(os.path.dirname(__file__), '..', 'logs')
 ERROR_LOG_FILENAME = 'error.log'
 
@@ -28,7 +27,6 @@ PROXIES = {
 } if USE_PROXY else None
 
 def find_latest_log_file():
-    # Always use the fixed error.log file for error alerts
     error_path = os.path.join(LOG_DIR, ERROR_LOG_FILENAME)
     return error_path if os.path.exists(error_path) else None
 
@@ -39,7 +37,6 @@ def load_and_clean_lines(path, levels):
         for ln in f:
             upper = ln.upper()
             if any(f'|{lvl}' in upper for lvl in lvls):
-                # collapse spaces around pipes
                 parts = [p.strip() for p in ln.split('|')]
                 out.append('|'.join(parts).rstrip())
     return out
@@ -49,7 +46,6 @@ def determine_highest_severity(lines):
     if not lines:
         return None
         
-    # Order of severity (highest to lowest)
     levels = ["CRITICAL", "ERROR", "WARNING", "INFO"]
     
     for level in levels:
@@ -86,10 +82,8 @@ def render_image(text, out='log.png'):
 
 def create_severity_keyboard(highest_severity=None):
     """Create an inline keyboard with severity levels"""
-    # Define button styles based on which is active
     buttons = []
-    
-    # Define all buttons with their icons and callback data
+
     severity_buttons = [
         {"text": "🔴 Error", "callback_data": "severity_error"},
         {"text": "🟡 Warning", "callback_data": "severity_warning"},
@@ -97,7 +91,6 @@ def create_severity_keyboard(highest_severity=None):
         {"text": "🔵 Info", "callback_data": "severity_info"}
     ]
     
-    # Add all buttons in one row
     buttons.append(severity_buttons)
     
     return {"inline_keyboard": buttons}
@@ -107,19 +100,15 @@ def send_document(path, lines):
         print('\033[31m• ERROR: Missing Telegram credentials\033[0m')
         return False
         
-    # Get Tehran time (Jalali)
     tehran_tz = pytz.timezone('Asia/Tehran')
     now_utc = datetime.now(pytz.UTC)
     now_tehran = now_utc.astimezone(tehran_tz)
     jnow = jdatetime.datetime.fromgregorian(datetime=now_tehran)
     
-    # Formatted caption with English text
     caption = f"Errors - {jnow.strftime('%Y/%m/%d %H:%M')}"
     
-    # Determine highest severity level
     highest_severity = determine_highest_severity(lines)
     
-    # Create inline keyboard
     reply_markup = create_severity_keyboard(highest_severity)
     
     url = f'https://api.telegram.org/bot{BOT_TOKEN}/sendDocument'
@@ -150,7 +139,6 @@ def send_media_group(img_path: str, log_path: str, reply_markup: dict) -> bool:
         print('\033[31m• ERROR: Missing Telegram credentials\033[0m')
         return False
 
-    # Prepare caption with Persian date and time
     tehran_tz = pytz.timezone('Asia/Tehran')
     now_utc = datetime.now(pytz.UTC)
     now_tehran = now_utc.astimezone(tehran_tz)
@@ -175,7 +163,7 @@ def send_media_group(img_path: str, log_path: str, reply_markup: dict) -> bool:
     try:
         resp = requests.post(url, data=data, files=files, timeout=15, proxies=PROXIES)
         for f in files.values():
-            f[1].close()  # close file handles
+            f[1].close()
         if not resp.ok:
             print(f'\033[31m• ERROR sending media group: {resp.status_code} {resp.text}\033[0m')
             return False

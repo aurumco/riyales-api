@@ -15,9 +15,9 @@ import traceback
 from typing import Dict, Any, Optional, List, Tuple, Union
 from urllib.parse import urlparse, urlunparse
 from history_manager import HistoryManager
+import random
 
 # --- Configuration ---
-
 # Secrets & Environment Variables
 BASE_URL_ENV_VAR: str = "BRS_BASE_URL"    # Base URL for the API provider
 API_KEY_ENV_VAR: str = "BRS_API_KEY"      # API Key for authentication
@@ -37,10 +37,17 @@ TIMEZONE: str = "Asia/Tehran"             # Default timezone for operations like
 DEFAULT_TIMEZONE = pytz.timezone(TIMEZONE)# Cached timezone object for performance
 GENERAL_LOG_FILENAME: str = "app.log"     # Base filename for general logs
 ERROR_LOG_FILENAME: str = "error.log"     # Base filename for error logs
+RANDOMIZE_USER_AGENT: bool = False        # Toggle random User-Agent per request
 
-# User Agent (Update periodically to mimic real browsers)
-USER_AGENT: str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-HEADERS: Dict[str, str] = { "User-Agent": USER_AGENT, "Accept": "application/json, text/plain, */*" }
+# User-Agent rotator: list of modern browser signatures
+USER_AGENTS: List[str] = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15",
+    "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1",
+    "Mozilla/5.0 (Linux; Android 12; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36"
+]
+
+BASE_HEADERS: Dict[str, str] = { "Accept": "application/json, text/plain, */*" }
 
 # --- API Endpoint Configuration ---
 # Defines the endpoints to fetch and how to process them.
@@ -48,7 +55,7 @@ API_ENDPOINTS: Dict[str, Dict[str, Any]] = {
     "gold": {
         "relative_url": "/Api/Market/Gold_Currency.php?key={api_key}", "output_filename": "gold.json",
         "fetch_interval_minutes": 10, "market_hours_apply": False, "enabled": True,
-        "aggregation_levels": ["6h", "12h", "daily", "3d", "weekly"],
+        "aggregation_levels": ["4h", "12h", "24h", "3d", "7d"],
         "price_json_path": "$.price", "symbol_json_path": "$.symbol",
         "array_base_paths": ["$.gold"],
         "transform_function": lambda data, mapping: {"gold": data.get("gold", [])} if data else {"gold": []}
@@ -56,7 +63,7 @@ API_ENDPOINTS: Dict[str, Dict[str, Any]] = {
     "currency": {
         "relative_url": "/Api/Market/Gold_Currency.php?key={api_key}", "output_filename": "currency.json",
         "fetch_interval_minutes": 10, "market_hours_apply": False, "enabled": True,
-        "aggregation_levels": ["6h", "12h", "daily", "3d", "weekly"],
+        "aggregation_levels": ["4h", "12h", "24h", "3d", "7d"],
         "price_json_path": "$.price", "symbol_json_path": "$.symbol",
         "array_base_paths": ["$.currency"],
         "transform_function": lambda data, mapping: {"currency": data.get("currency", [])} if data else {"currency": []}
@@ -64,7 +71,7 @@ API_ENDPOINTS: Dict[str, Dict[str, Any]] = {
     "crypto": {
         "relative_url": "/Api/Market/Cryptocurrency.php?key={api_key}", "output_filename": "cryptocurrency.json",
         "fetch_interval_minutes": 10, "market_hours_apply": False, "enabled": True,
-        "aggregation_levels": ["6h", "12h", "daily", "3d", "weekly"],
+        "aggregation_levels": ["4h", "12h", "24h", "3d", "7d"],
         "price_json_path": "$.price_toman", "symbol_json_path": "$.name",
         "array_base_paths": ["$"],
         "transform_function": lambda data, mapping: add_persian_names_to_crypto(data, mapping)
@@ -72,15 +79,15 @@ API_ENDPOINTS: Dict[str, Dict[str, Any]] = {
     "commodity": {
         "relative_url": "/Api/Market/Commodity.php?key={api_key}", "output_filename": "commodity.json",
         "fetch_interval_minutes": 10, "market_hours_apply": False, "enabled": True,
-        "aggregation_levels": ["6h", "12h", "daily", "3d", "weekly"],
+        "aggregation_levels": ["4h", "12h", "24h", "3d", "7d"],
         "price_json_path": "$.price", "symbol_json_path": "$.symbol",
         "array_base_paths": ["$.metal_precious"],
         "transform_function": lambda data, mapping: data # No transformation needed
     },
     "tse_ifb_symbols": {
         "relative_url": "/Api/Tsetmc/AllSymbols.php?key={api_key}&type=1", "output_filename": "tse_ifb_symbols.json",
-        "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": True,
-        "aggregation_levels": ["daily"],
+        "fetch_interval_minutes": 10, "market_hours_apply": True, "enabled": True,
+        "aggregation_levels": ["24h", "7d"],
         "price_json_path": "$.pc", "symbol_json_path": "$.l18",
         "array_base_paths": ["$"],
         "transform_function": lambda data, mapping: data # No transformation needed
@@ -91,9 +98,9 @@ API_ENDPOINTS: Dict[str, Dict[str, Any]] = {
      "tse_index": { "relative_url": "/Api/Tsetmc/Index.php?key={api_key}&type=1", "output_filename": "tse_index.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": False, "transform_function": lambda data, mapping: data },
      "ifb_index": { "relative_url": "/Api/Tsetmc/Index.php?key={api_key}&type=2", "output_filename": "ifb_index.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": False, "transform_function": lambda data, mapping: data },
      "selected_indices": { "relative_url": "/Api/Tsetmc/Index.php?key={api_key}&type=3", "output_filename": "selected_indices.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": False, "transform_function": lambda data, mapping: data },
-     "debt_securities": { "relative_url": "/Api/Tsetmc/AllSymbols.php?key={api_key}&type=4", "output_filename": "debt_securities.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": True, "transform_function": lambda data, mapping: data },
-     "housing_facilities": { "relative_url": "/Api/Tsetmc/AllSymbols.php?key={api_key}&type=5", "output_filename": "housing_facilities.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": True, "transform_function": lambda data, mapping: data },
-     "futures": { "relative_url": "/Api/Tsetmc/AllSymbols.php?key={api_key}&type=3", "output_filename": "futures.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": True, "transform_function": lambda data, mapping: data },
+     "debt_securities": { "relative_url": "/Api/Tsetmc/AllSymbols.php?key={api_key}&type=4", "output_filename": "debt_securities.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": True, "aggregation_levels": ["4h","12h","24h","3d","7d"], "transform_function": lambda data, mapping: data },
+     "housing_facilities": { "relative_url": "/Api/Tsetmc/AllSymbols.php?key={api_key}&type=5", "output_filename": "housing_facilities.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": True, "aggregation_levels": ["4h","12h","24h","3d","7d"], "transform_function": lambda data, mapping: data },
+     "futures": { "relative_url": "/Api/Tsetmc/AllSymbols.php?key={api_key}&type=3", "output_filename": "futures.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": True, "aggregation_levels": ["4h","12h","24h","3d","7d"], "transform_function": lambda data, mapping: data },
 }
 
 # Market Hours (Tehran Stock Exchange - Adjust if necessary)
@@ -103,8 +110,8 @@ TSE_MARKET_DAYS: List[int] = [5, 6, 0, 1, 2]     # Weekdays for TSE (0=Monday, 5
 
 # Aggregation Intervals & Trigger Time
 AGGREGATION_INTERVALS: Dict[str, timedelta] = {
-    "6h": timedelta(hours=6), "12h": timedelta(hours=12), "daily": timedelta(days=1),
-    "3d": timedelta(days=3), "weekly": timedelta(weeks=1),
+    "4h": timedelta(hours=4), "12h": timedelta(hours=12), "24h": timedelta(days=1),
+    "3d": timedelta(days=3), "7d": timedelta(weeks=1),
 }
 DAILY_AGGREGATION_TIME_LOCAL: dt_time = dt_time(0, 5) # Time (local) to run daily aggregation for the previous day
 
@@ -121,6 +128,13 @@ logger = logging.getLogger("MarketDataSync")
 
 # --- Global Crypto Name Mapping ---
 CRYPTO_NAME_MAP: Dict[str, str] = {}
+
+# Directory for stock-related market data JSON files
+STOCK_FOLDER_NAME: str = "stock"
+STOCK_DATA_FOLDER: str = os.path.join(DATA_FOLDER, STOCK_FOLDER_NAME)
+
+# Blacklist configuration
+BLACKLIST_FILE: str = os.path.join(DICTIONARY_FOLDER, "blacklist.json")
 
 def load_crypto_name_map(filepath: str) -> Dict[str, str]:
     """Loads the crypto name mapping from a JSON file."""
@@ -157,8 +171,7 @@ def add_persian_names_to_crypto(data: Any, mapping: Dict[str, str]) -> Any:
                     item['nameFa'] = persian_name
                 else:
                     missing_names_count += 1
-                    # Optionally log missing names, but could be verbose
-                    # logger.debug(f"• No Persian name found for: {english_name}")
+                    logger.debug(f"• No Persian name found for: {english_name}")
             else:
                  logger.debug("Skipping item: Missing 'name' key.")
         else:
@@ -167,6 +180,47 @@ def add_persian_names_to_crypto(data: Any, mapping: Dict[str, str]) -> Any:
     if missing_names_count > 0:
         logger.debug(f"• Persian name mapping: {missing_names_count} crypto names were not found in the map.")
 
+    return data
+
+def load_blacklist(filepath: str) -> List[str]:
+    """Loads blacklist entries (names or symbols) from a JSON file."""
+    try:
+        if os.path.exists(filepath):
+            with open(filepath, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                if isinstance(data, list):
+                    logger.debug(f"• Loaded {len(data)} blacklist entries from {filepath}")
+                    return [str(item) for item in data]
+                else:
+                    logger.debug(f"• Blacklist file {filepath} content is not a list.")
+        else:
+            logger.debug(f"• Blacklist file not found: {filepath}. No entries will be filtered.")
+    except Exception as e:
+        logger.debug(f"• Error loading blacklist from {filepath}: {e}", exc_info=True)
+    return []
+
+def filter_blacklist(data: Any, blacklist: List[str]) -> Any:
+    """Recursively filters out items whose name/symbol/l18/l30 matches any blacklist entry."""
+    if not blacklist:
+        return data
+    def is_allowed(item: Any) -> bool:
+        if not isinstance(item, dict):
+            return True
+        for key in ('name', 'symbol', 'l18', 'l30', 'cs', 'nameFa', 'symbolFa', 'nameEn', 'symbolEn', 'name_en'):
+            val = item.get(key)
+            if isinstance(val, str) and val in blacklist:
+                return False
+        return True
+    if isinstance(data, list):
+        return [itm for itm in data if is_allowed(itm)]
+    if isinstance(data, dict):
+        filtered = {}
+        for k, v in data.items():
+            if isinstance(v, list):
+                filtered[k] = [itm for itm in v if is_allowed(itm)]
+            else:
+                filtered[k] = v
+        return filtered
     return data
 
 # --- Consolidated JSON Output ---
@@ -229,7 +283,7 @@ def create_consolidated_json() -> bool:
 def mask_string(s: Optional[str]) -> str:
     """Masks potentially sensitive strings like API keys and base URLs in logs."""
     if s is None: return "None"
-    s = str(s) # Ensure it's a string
+    s = str(s)
 
     # Mask common key/token patterns using regex (case-insensitive)
     s = re.sub(r"key=([^&?\s]+)", "key=********", s, flags=re.IGNORECASE)
@@ -284,11 +338,11 @@ def setup_logging() -> None:
     class SecureColorFormatter(logging.Formatter):
         # Define colors for different log levels
         level_colors = {
-            logging.DEBUG: COLOR_GRAY,    # DEBUG in gray
-            logging.INFO: COLOR_BLUE,     # INFO in blue
+            logging.DEBUG: COLOR_GRAY,     # DEBUG in gray
+            logging.INFO: COLOR_BLUE,      # INFO in blue
             logging.WARNING: COLOR_YELLOW, # WARNING in yellow
-            logging.ERROR: COLOR_RED,     # ERROR in red
-            logging.CRITICAL: COLOR_RED,  # CRITICAL in red
+            logging.ERROR: COLOR_RED,      # ERROR in red
+            logging.CRITICAL: COLOR_RED,   # CRITICAL in red
         }
         reset_color = COLOR_RESET
 
@@ -331,6 +385,12 @@ def setup_logging() -> None:
     # Create separate formatters
     color_formatter = SecureColorFormatter(fmt=format_str, datefmt=datefmt)
     plain_formatter = logging.Formatter(fmt=format_str, datefmt=datefmt)
+
+    # Convert logging timestamps to Asia/Tehran timezone
+    def tehran_time_converter(ts):
+        return datetime.fromtimestamp(ts, DEFAULT_TIMEZONE).timetuple()
+    color_formatter.converter = tehran_time_converter
+    plain_formatter.converter = tehran_time_converter
 
     # --- Console Handler ---
     console_handler = logging.StreamHandler()
@@ -405,7 +465,11 @@ async def fetch_api_data(
     logger.debug(f"• Requesting: {endpoint_name}")
 
     try:
-        async with session.get(full_url, headers=HEADERS, timeout=REQUEST_TIMEOUT_SECONDS) as response:
+        # Build headers with dynamic User-Agent
+        ua = random.choice(USER_AGENTS) if RANDOMIZE_USER_AGENT else USER_AGENTS[0]
+        req_headers = BASE_HEADERS.copy()
+        req_headers["User-Agent"] = ua
+        async with session.get(full_url, headers=req_headers, timeout=REQUEST_TIMEOUT_SECONDS) as response:
             elapsed_time = time.monotonic() - request_start_time
             log_url_for_status = mask_string(str(response.url)) # Mask URL from response object too
             logger.debug(f"• Response: {endpoint_name} Status={response.status} in {elapsed_time:.2f}s")
@@ -472,6 +536,8 @@ async def main():
 
     # Load the crypto name mapping early
     CRYPTO_NAME_MAP = load_crypto_name_map(CRYPTO_NAME_MAPPING_FILE)
+    # Load blacklist entries early
+    blacklist = load_blacklist(BLACKLIST_FILE)
 
     # Get current time in UTC and local timezone
     now_utc = datetime.now(pytz.utc)
@@ -542,11 +608,18 @@ async def main():
                     # Pass the globally loaded map
                     data = config["transform_function"](data, CRYPTO_NAME_MAP)
                     logger.debug(f"• Applied transformation function for {endpoint_name}")
+                    # Filter out any blacklisted items
+                    data = filter_blacklist(data, blacklist)
+                    logger.debug(f"• Applied blacklist filter for {endpoint_name}")
 
-                # Save the latest fetched data to a JSON file (always attempt even if DB fails)
-                output_filename = os.path.join(DATA_FOLDER, config['output_filename'])
+                # Determine destination folder: stock endpoints go to STOCK_DATA_FOLDER, others to DATA_FOLDER
+                if config['relative_url'].startswith("/Api/Tsetmc"):
+                    dest_folder = STOCK_DATA_FOLDER
+                else:
+                    dest_folder = DATA_FOLDER
+                output_filename = os.path.join(dest_folder, config['output_filename'])
                 try:
-                    os.makedirs(DATA_FOLDER, exist_ok=True)
+                    os.makedirs(dest_folder, exist_ok=True)
                     with open(output_filename, 'w', encoding='utf-8') as f:
                         json.dump(data, f, ensure_ascii=False,
                                   indent=4 if PRETTY_PRINT_JSON else None,
@@ -632,6 +705,7 @@ async def main():
     logger.info("• Computing Historical Aggregations")
     # Define aggregation intervals
     intervals = {
+        '4h': timedelta(hours=4),
         '12h': timedelta(hours=12),
         '24h': timedelta(hours=24),
         '3d': timedelta(days=3),
