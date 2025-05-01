@@ -10,6 +10,9 @@ COMPRESS_HISTORY_JSON: bool = False
 # Maximum number of median entries to keep per symbol per timeframe
 MAX_AGG_SERIES_ENTRIES: int = 10
 
+# Use Tehran local timezone for timestamps
+LOCAL_TZ = pytz.timezone("Asia/Tehran")
+
 def ensure_dir(path: str) -> None:
     os.makedirs(path, exist_ok=True)
 
@@ -77,7 +80,9 @@ class HistoryManager:
                 parsed.append({'symbol': rec['symbol'], 'price': price_val, 'timestamp': ts})
             except Exception:
                 continue
-        now = datetime.now(pytz.utc)
+        # Current time in Asia/Tehran (no microseconds)
+        now = datetime.now(LOCAL_TZ)
+        now_str = now.strftime('%Y-%m-%dT%H:%M:%S')
         max_interval = max(intervals.values())
         # Compute and persist per-interval, per-symbol time series
         for name, delta in intervals.items():
@@ -94,7 +99,7 @@ class HistoryManager:
                 except Exception:
                     continue
                 # Use short keys: 's' for symbol, 'm' for median, 't' for timestamp
-                current_medians.append({'s': sym, 'm': m, 't': now.isoformat()})
+                current_medians.append({'s': sym, 'm': m, 't': now_str})
             # Load existing series from file
             agg_path = self._agg_file(endpoint, name)
             series = {}
@@ -109,15 +114,8 @@ class HistoryManager:
                 # Unpack using short keys
                 sym = rec['s']
                 entry = {'t': rec['t'], 'm': rec['m']}
+                # Always append new entry and trim to max entries
                 lst = series.get(sym, [])
-                # Only append if no previous entry or last entry is older than the interval
-                if lst:
-                    last_ts = datetime.fromisoformat(lst[-1]['t'])
-                    if last_ts.tzinfo is None:
-                        last_ts = last_ts.replace(tzinfo=pytz.utc)
-                    if (now - last_ts) < delta:
-                        continue
-                # Append and trim to max entries
                 lst.append(entry)
                 if len(lst) > MAX_AGG_SERIES_ENTRIES:
                     lst = lst[-MAX_AGG_SERIES_ENTRIES:]
