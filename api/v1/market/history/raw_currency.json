@@ -41443,5 +41443,140 @@
     "symbol": "GEL",
     "price": 31480.0,
     "timestamp": "2025-05-04T09:53:00+00:00"
+  },
+  {
+    "symbol": "USD",
+    "price": 85950.0,
+    "timestamp": "2025-05-04T10:09:00+00:00"
+  },
+  {
+    "symbol": "EUR",
+    "price": 97100.0,
+    "timestamp": "2025-05-04T10:10:00+00:00"
+  },
+  {
+    "symbol": "AED",
+    "price": 23486.0,
+    "timestamp": "2025-05-04T10:10:00+00:00"
+  },
+  {
+    "symbol": "GBP",
+    "price": 113960.0,
+    "timestamp": "2025-05-04T10:10:00+00:00"
+  },
+  {
+    "symbol": "JPY",
+    "price": 59476.0,
+    "timestamp": "2025-05-04T10:10:00+00:00"
+  },
+  {
+    "symbol": "KWD",
+    "price": 280610.0,
+    "timestamp": "2025-05-04T10:10:00+00:00"
+  },
+  {
+    "symbol": "AUD",
+    "price": 55330.0,
+    "timestamp": "2025-05-04T10:10:00+00:00"
+  },
+  {
+    "symbol": "CAD",
+    "price": 62180.0,
+    "timestamp": "2025-05-04T10:10:00+00:00"
+  },
+  {
+    "symbol": "CNY",
+    "price": 11810.0,
+    "timestamp": "2025-05-04T10:09:00+00:00"
+  },
+  {
+    "symbol": "TRY",
+    "price": 2220.0,
+    "timestamp": "2025-05-04T10:09:00+00:00"
+  },
+  {
+    "symbol": "SAR",
+    "price": 22931.0,
+    "timestamp": "2025-05-04T10:10:00+00:00"
+  },
+  {
+    "symbol": "CHF",
+    "price": 103850.0,
+    "timestamp": "2025-05-04T10:10:00+00:00"
+  },
+  {
+    "symbol": "INR",
+    "price": 1017.0,
+    "timestamp": "2025-05-04T10:09:00+00:00"
+  },
+  {
+    "symbol": "PKR",
+    "price": 307.0,
+    "timestamp": "2025-05-04T10:09:00+00:00"
+  },
+  {
+    "symbol": "IQD",
+    "price": 59.0,
+    "timestamp": "2025-05-04T10:10:00+00:00"
+  },
+  {
+    "symbol": "SYP",
+    "price": 6.0,
+    "timestamp": "2025-05-04T07:36:00+00:00"
+  },
+  {
+    "symbol": "SEK",
+    "price": 8900.0,
+    "timestamp": "2025-05-04T10:09:00+00:00"
+  },
+  {
+    "symbol": "QAR",
+    "price": 24440.0,
+    "timestamp": "2025-05-04T10:08:00+00:00"
+  },
+  {
+    "symbol": "OMR",
+    "price": 223160.0,
+    "timestamp": "2025-05-04T10:10:00+00:00"
+  },
+  {
+    "symbol": "BHD",
+    "price": 227840.0,
+    "timestamp": "2025-05-04T10:10:00+00:00"
+  },
+  {
+    "symbol": "AFN",
+    "price": 1239.0,
+    "timestamp": "2025-05-04T10:09:00+00:00"
+  },
+  {
+    "symbol": "MYR",
+    "price": 20170.0,
+    "timestamp": "2025-05-04T10:09:00+00:00"
+  },
+  {
+    "symbol": "THB",
+    "price": 2587.0,
+    "timestamp": "2025-05-04T10:08:00+00:00"
+  },
+  {
+    "symbol": "RUB",
+    "price": 1038.0,
+    "timestamp": "2025-05-04T10:09:00+00:00"
+  },
+  {
+    "symbol": "AZN",
+    "price": 50680.0,
+    "timestamp": "2025-05-04T10:10:00+00:00"
+  },
+  {
+    "symbol": "AMD",
+    "price": 221.0,
+    "timestamp": "2025-05-04T10:08:00+00:00"
+  },
+  {
+    "symbol": "GEL",
+    "price": 31440.0,
+    "timestamp": "2025-05-04T10:10:00+00:00"
   }
 ]
