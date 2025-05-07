@@ -1,11 +1,6 @@
 [
   {
     "symbol": "XAUUSD",
-    "price": 3272.0,
-    "timestamp": "2025-04-30T22:38:00+00:00"
-  },
-  {
-    "symbol": "XAUUSD",
     "price": 3278.0,
     "timestamp": "2025-04-30T22:47:00+00:00"
   },
@@ -19543,6 +19538,51 @@
     "symbol": "XAUUSD",
     "price": 3368.0,
     "timestamp": "2025-05-07T22:24:00+00:00"
+  },
+  {
+    "symbol": "IR_COIN_1G",
+    "price": 13700000.0,
+    "timestamp": "2025-05-07T14:21:00+00:00"
+  },
+  {
+    "symbol": "IR_COIN_QUARTER",
+    "price": 26100000.0,
+    "timestamp": "2025-05-07T14:50:00+00:00"
+  },
+  {
+    "symbol": "IR_COIN_HALF",
+    "price": 45600000.0,
+    "timestamp": "2025-05-07T14:20:00+00:00"
+  },
+  {
+    "symbol": "IR_COIN_EMAMI",
+    "price": 74160000.0,
+    "timestamp": "2025-05-07T16:29:00+00:00"
+  },
+  {
+    "symbol": "IR_COIN_BAHAR",
+    "price": 70185000.0,
+    "timestamp": "2025-05-07T16:29:00+00:00"
+  },
+  {
+    "symbol": "IR_GOLD_18K",
+    "price": 6668300.0,
+    "timestamp": "2025-05-07T16:29:00+00:00"
+  },
+  {
+    "symbol": "IR_GOLD_24K",
+    "price": 8891000.0,
+    "timestamp": "2025-05-07T16:29:00+00:00"
+  },
+  {
+    "symbol": "IR_GOLD_MELTED",
+    "price": 28862000.0,
+    "timestamp": "2025-05-07T16:29:00+00:00"
+  },
+  {
+    "symbol": "XAUUSD",
+    "price": 3371.0,
+    "timestamp": "2025-05-07T22:40:00+00:00"
   },
   {
     "symbol": "IR_COIN_1G",
