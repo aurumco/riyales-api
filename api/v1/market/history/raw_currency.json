@@ -2,136 +2,6 @@
   {
     "symbol": "USD",
     "price": 81950.0,
-    "timestamp": "2025-05-01T12:46:00+00:00"
-  },
-  {
-    "symbol": "EUR",
-    "price": 92790.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
-    "symbol": "AED",
-    "price": 22432.0,
-    "timestamp": "2025-05-01T12:45:00+00:00"
-  },
-  {
-    "symbol": "GBP",
-    "price": 109270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
-    "symbol": "JPY",
-    "price": 56933.0,
-    "timestamp": "2025-05-01T12:45:00+00:00"
-  },
-  {
-    "symbol": "KWD",
-    "price": 267780.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
-    "symbol": "AUD",
-    "price": 52350.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
-    "symbol": "CAD",
-    "price": 59360.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
-    "symbol": "SAR",
-    "price": 21874.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
-    "symbol": "CHF",
-    "price": 98990.0,
-    "timestamp": "2025-05-01T12:45:00+00:00"
-  },
-  {
-    "symbol": "INR",
-    "price": 968.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
-    "symbol": "PKR",
-    "price": 292.0,
-    "timestamp": "2025-05-01T12:46:00+00:00"
-  },
-  {
-    "symbol": "IQD",
-    "price": 56.0,
-    "timestamp": "2025-05-01T12:45:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
-  },
-  {
-    "symbol": "SEK",
-    "price": 8440.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
-    "symbol": "QAR",
-    "price": 23260.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
-    "symbol": "OMR",
-    "price": 213040.0,
-    "timestamp": "2025-05-01T12:46:00+00:00"
-  },
-  {
-    "symbol": "BHD",
-    "price": 217560.0,
-    "timestamp": "2025-05-01T12:45:00+00:00"
-  },
-  {
-    "symbol": "AFN",
-    "price": 1173.0,
-    "timestamp": "2025-05-01T12:46:00+00:00"
-  },
-  {
-    "symbol": "MYR",
-    "price": 19000.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
-    "symbol": "THB",
-    "price": 2446.0,
-    "timestamp": "2025-05-01T12:46:00+00:00"
-  },
-  {
-    "symbol": "RUB",
-    "price": 1008.0,
-    "timestamp": "2025-05-01T12:45:00+00:00"
-  },
-  {
-    "symbol": "AZN",
-    "price": 48340.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
-  },
-  {
-    "symbol": "GEL",
-    "price": 30000.0,
-    "timestamp": "2025-05-01T12:45:00+00:00"
-  },
-  {
-    "symbol": "USD",
-    "price": 81950.0,
     "timestamp": "2025-05-01T13:09:00+00:00"
   },
   {
@@ -170,11 +40,6 @@
     "timestamp": "2025-05-01T13:15:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21873.0,
     "timestamp": "2025-05-01T13:15:00+00:00"
@@ -198,11 +63,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:12:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -250,11 +110,6 @@
     "timestamp": "2025-05-01T13:14:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:15:00+00:00"
@@ -300,11 +155,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -328,11 +178,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:27:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -378,11 +223,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:22:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -430,11 +270,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -458,11 +293,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:27:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -508,11 +338,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:22:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -560,11 +385,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -588,11 +408,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:27:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -638,11 +453,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:22:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -690,11 +500,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -718,11 +523,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:27:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -768,11 +568,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:22:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -820,11 +615,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -848,11 +638,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:27:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -898,11 +683,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:22:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -950,11 +730,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -978,11 +753,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:27:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -1028,11 +798,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:22:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -1080,11 +845,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -1108,11 +868,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:27:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -1158,11 +913,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:22:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -1210,11 +960,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -1238,11 +983,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:27:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -1288,11 +1028,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:22:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -1340,11 +1075,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -1368,11 +1098,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:27:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -1418,11 +1143,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:22:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -1470,11 +1190,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -1498,11 +1213,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:27:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -1548,11 +1258,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:22:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -1600,11 +1305,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -1628,11 +1328,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:27:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -1678,11 +1373,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:22:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -1730,11 +1420,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -1758,11 +1443,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:27:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -1808,11 +1488,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:22:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -1860,11 +1535,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -1888,11 +1558,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:27:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -1938,11 +1603,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:22:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -1990,11 +1650,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -2018,11 +1673,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:27:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -2068,11 +1718,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:22:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -2120,11 +1765,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -2148,11 +1788,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:27:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -2198,11 +1833,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:22:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -2250,11 +1880,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -2278,11 +1903,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:27:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -2328,11 +1948,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:22:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -2380,11 +1995,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -2408,11 +2018,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:27:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -2458,11 +2063,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:22:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -2510,11 +2110,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -2538,11 +2133,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:27:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -2588,11 +2178,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:22:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -2640,11 +2225,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -2668,11 +2248,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:27:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -2718,11 +2293,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:22:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -2770,11 +2340,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -2798,11 +2363,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:27:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -2848,11 +2408,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:22:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -2900,11 +2455,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -2928,11 +2478,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:27:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -2978,11 +2523,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:22:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -3030,11 +2570,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -3058,11 +2593,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:27:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -3108,11 +2638,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:22:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -3160,11 +2685,6 @@
     "timestamp": "2025-05-01T13:29:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:44:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:30:00+00:00"
@@ -3190,11 +2710,6 @@
     "timestamp": "2025-05-01T13:27:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:29:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -3240,11 +2755,6 @@
     "timestamp": "2025-05-01T13:22:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:34:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -3288,11 +2798,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -3318,11 +2823,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -3370,11 +2870,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -3418,11 +2913,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -3448,11 +2938,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -3498,11 +2983,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -3548,11 +3028,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -3580,11 +3055,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -3628,11 +3098,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -3678,11 +3143,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -3710,11 +3170,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -3758,11 +3213,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -3810,11 +3260,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -3838,11 +3283,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -3888,11 +3328,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -3940,11 +3375,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -3968,11 +3398,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -4018,11 +3443,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -4068,11 +3488,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -4098,11 +3513,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -4150,11 +3560,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -4198,11 +3603,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -4228,11 +3628,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -4280,11 +3675,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -4328,11 +3718,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -4360,11 +3745,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -4408,11 +3788,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -4458,11 +3833,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -4490,11 +3860,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -4538,11 +3903,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -4588,11 +3948,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -4618,11 +3973,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -4668,11 +4018,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -4720,11 +4065,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -4748,11 +4088,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -4798,11 +4133,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -4850,11 +4180,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -4878,11 +4203,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -4930,11 +4250,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -4978,11 +4293,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -5008,11 +4318,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -5060,11 +4365,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -5108,11 +4408,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -5138,11 +4433,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -5188,11 +4478,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -5238,11 +4523,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -5270,11 +4550,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -5318,11 +4593,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -5368,11 +4638,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -5400,11 +4665,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -5448,11 +4708,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -5500,11 +4755,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -5528,11 +4778,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -5578,11 +4823,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -5630,11 +4870,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -5658,11 +4893,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -5708,11 +4938,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -5758,11 +4983,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -5788,11 +5008,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -5840,11 +5055,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -5888,11 +5098,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -5918,11 +5123,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -5970,11 +5170,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -6018,11 +5213,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -6050,11 +5240,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -6098,11 +5283,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -6148,11 +5328,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -6180,11 +5355,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -6228,11 +5398,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -6278,11 +5443,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -6308,11 +5468,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -6358,11 +5513,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -6410,11 +5560,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -6438,11 +5583,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -6488,11 +5628,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -6540,11 +5675,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -6568,11 +5698,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -6620,11 +5745,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -6668,11 +5788,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -6698,11 +5813,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -6750,11 +5860,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -6798,11 +5903,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -6828,11 +5928,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -6878,11 +5973,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -6928,11 +6018,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -6960,11 +6045,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -7008,11 +6088,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -7058,11 +6133,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -7090,11 +6160,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -7138,11 +6203,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -7190,11 +6250,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -7218,11 +6273,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -7268,11 +6318,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -7320,11 +6365,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -7348,11 +6388,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -7398,11 +6433,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -7448,11 +6478,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -7478,11 +6503,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -7530,11 +6550,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -7578,11 +6593,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -7608,11 +6618,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -7660,11 +6665,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -7708,11 +6708,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -7740,11 +6735,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -7788,11 +6778,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -7838,11 +6823,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -7870,11 +6850,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -7918,11 +6893,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -7968,11 +6938,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -7998,11 +6963,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -8048,11 +7008,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -8100,11 +7055,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -8128,11 +7078,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -8178,11 +7123,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -8230,11 +7170,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -8258,11 +7193,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -8310,11 +7240,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -8358,11 +7283,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -8388,11 +7308,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -8440,11 +7355,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -8488,11 +7398,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -8518,11 +7423,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -8568,11 +7468,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -8618,11 +7513,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -8650,11 +7540,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -8698,11 +7583,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -8748,11 +7628,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -8780,11 +7655,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -8828,11 +7698,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -8880,11 +7745,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -8908,11 +7768,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -8958,11 +7813,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -9010,11 +7860,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -9038,11 +7883,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -9088,11 +7928,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -9138,11 +7973,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -9168,11 +7998,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -9220,11 +8045,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -9268,11 +8088,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -9298,11 +8113,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -9350,11 +8160,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -9398,11 +8203,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -9430,11 +8230,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -9478,11 +8273,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -9528,11 +8318,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -9560,11 +8345,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -9608,11 +8388,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -9658,11 +8433,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -9688,11 +8458,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -9738,11 +8503,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -9790,11 +8550,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -9818,11 +8573,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -9868,11 +8618,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -9920,11 +8665,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -9948,11 +8688,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -10000,11 +8735,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -10048,11 +8778,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -10078,11 +8803,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -10130,11 +8850,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -10178,11 +8893,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -10208,11 +8918,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -10258,11 +8963,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -10308,11 +9008,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -10340,11 +9035,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -10388,11 +9078,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -10438,11 +9123,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -10470,11 +9150,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -10518,11 +9193,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -10570,11 +9240,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -10598,11 +9263,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -10648,11 +9308,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -10700,11 +9355,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -10728,11 +9378,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -10778,11 +9423,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -10828,11 +9468,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -10858,11 +9493,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -10910,11 +9540,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -10958,11 +9583,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -10988,11 +9608,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -11040,11 +9655,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -11088,11 +9698,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -11120,11 +9725,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -11168,11 +9768,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -11218,11 +9813,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -11250,11 +9840,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -11298,11 +9883,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -11348,11 +9928,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -11378,11 +9953,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -11428,11 +9998,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -11480,11 +10045,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -11508,11 +10068,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -11558,11 +10113,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -11610,11 +10160,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -11638,11 +10183,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -11690,11 +10230,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -11738,11 +10273,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -11768,11 +10298,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -11820,11 +10345,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -11868,11 +10388,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -11898,11 +10413,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -11948,11 +10458,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -11998,11 +10503,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -12030,11 +10530,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -12078,11 +10573,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -12128,11 +10618,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -12160,11 +10645,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -12208,11 +10688,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -12260,11 +10735,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -12288,11 +10758,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -12338,11 +10803,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -12390,11 +10850,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -12418,11 +10873,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -12468,11 +10918,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -12520,11 +10965,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -12548,11 +10988,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -12598,11 +11033,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -12650,11 +11080,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -12678,11 +11103,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -12728,11 +11148,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -12780,11 +11195,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -12808,11 +11218,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -12858,11 +11263,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -12910,11 +11310,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -12938,11 +11333,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -12988,11 +11378,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -13040,11 +11425,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -13068,11 +11448,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -13118,11 +11493,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -13170,11 +11540,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -13198,11 +11563,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -13248,11 +11608,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -13300,11 +11655,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -13328,11 +11678,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -13378,11 +11723,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -13430,11 +11770,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -13458,11 +11793,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -13508,11 +11838,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -13560,11 +11885,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
     "symbol": "SAR",
     "price": 21879.0,
     "timestamp": "2025-05-01T13:29:00+00:00"
@@ -13588,11 +11908,6 @@
     "symbol": "IQD",
     "price": 56.0,
     "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
   },
   {
     "symbol": "SEK",
@@ -13638,11 +11953,6 @@
     "symbol": "AZN",
     "price": 48340.0,
     "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -13690,9 +12000,119 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
+    "symbol": "SAR",
+    "price": 21879.0,
+    "timestamp": "2025-05-01T13:29:00+00:00"
+  },
+  {
+    "symbol": "CHF",
+    "price": 98930.0,
+    "timestamp": "2025-05-01T13:29:00+00:00"
+  },
+  {
+    "symbol": "INR",
+    "price": 969.0,
+    "timestamp": "2025-05-01T13:28:00+00:00"
+  },
+  {
+    "symbol": "PKR",
+    "price": 292.0,
+    "timestamp": "2025-05-01T13:28:00+00:00"
+  },
+  {
+    "symbol": "IQD",
+    "price": 56.0,
+    "timestamp": "2025-05-01T13:26:00+00:00"
+  },
+  {
+    "symbol": "SEK",
+    "price": 8430.0,
+    "timestamp": "2025-05-01T13:28:00+00:00"
+  },
+  {
+    "symbol": "QAR",
+    "price": 23260.0,
+    "timestamp": "2025-05-01T13:28:00+00:00"
+  },
+  {
+    "symbol": "OMR",
+    "price": 212830.0,
+    "timestamp": "2025-05-01T13:28:00+00:00"
+  },
+  {
+    "symbol": "BHD",
+    "price": 217400.0,
+    "timestamp": "2025-05-01T13:29:00+00:00"
+  },
+  {
+    "symbol": "AFN",
+    "price": 1163.0,
+    "timestamp": "2025-05-01T13:28:00+00:00"
+  },
+  {
+    "symbol": "MYR",
+    "price": 19000.0,
+    "timestamp": "2025-05-01T13:21:00+00:00"
+  },
+  {
+    "symbol": "THB",
+    "price": 2447.0,
+    "timestamp": "2025-05-01T13:29:00+00:00"
+  },
+  {
+    "symbol": "RUB",
+    "price": 1001.0,
+    "timestamp": "2025-05-01T13:28:00+00:00"
+  },
+  {
+    "symbol": "AZN",
+    "price": 48340.0,
+    "timestamp": "2025-05-01T13:21:00+00:00"
+  },
+  {
+    "symbol": "GEL",
+    "price": 29970.0,
+    "timestamp": "2025-05-01T13:28:00+00:00"
+  },
+  {
+    "symbol": "USD",
+    "price": 85050.0,
+    "timestamp": "2025-05-02T17:27:00+00:00"
+  },
+  {
+    "symbol": "EUR",
+    "price": 92770.0,
+    "timestamp": "2025-05-01T13:28:00+00:00"
+  },
+  {
+    "symbol": "AED",
+    "price": 22415.0,
+    "timestamp": "2025-05-01T13:29:00+00:00"
+  },
+  {
+    "symbol": "GBP",
+    "price": 109170.0,
+    "timestamp": "2025-05-01T13:28:00+00:00"
+  },
+  {
+    "symbol": "JPY",
+    "price": 56900.0,
+    "timestamp": "2025-05-01T13:29:00+00:00"
+  },
+  {
+    "symbol": "KWD",
+    "price": 267840.0,
+    "timestamp": "2025-05-01T13:29:00+00:00"
+  },
+  {
+    "symbol": "AUD",
+    "price": 52350.0,
+    "timestamp": "2025-05-01T13:28:00+00:00"
+  },
+  {
+    "symbol": "CAD",
+    "price": 59320.0,
+    "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -13720,11 +12140,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -13770,11 +12185,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -13818,11 +12228,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -13850,11 +12255,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -13900,11 +12300,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -13948,11 +12343,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -13980,11 +12370,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -14030,11 +12415,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -14078,11 +12458,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -14110,11 +12485,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -14160,11 +12530,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -14208,11 +12573,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -14240,11 +12600,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -14290,11 +12645,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -14338,11 +12688,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -14370,11 +12715,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -14420,11 +12760,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -14468,11 +12803,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -14500,11 +12830,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -14550,11 +12875,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -14598,11 +12918,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -14630,11 +12945,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -14680,11 +12990,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -14728,11 +13033,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -14760,11 +13060,6 @@
     "timestamp": "2025-05-01T13:26:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -14810,11 +13105,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -14858,11 +13148,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -14885,16 +13170,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "IQD",
-    "price": 56.0,
-    "timestamp": "2025-05-01T13:26:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -14940,11 +13215,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -14988,11 +13258,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -15015,11 +13280,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -15065,11 +13325,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -15113,11 +13368,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -15140,11 +13390,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -15190,11 +13435,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -15238,11 +13478,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -15265,11 +13500,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -15315,11 +13545,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -15363,11 +13588,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -15390,11 +13610,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -15440,11 +13655,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -15488,11 +13698,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -15515,11 +13720,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -15565,11 +13765,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -15613,11 +13808,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -15640,11 +13830,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -15690,11 +13875,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -15738,11 +13918,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -15765,11 +13940,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -15815,11 +13985,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -15863,11 +14028,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -15890,11 +14050,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -15940,11 +14095,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -15988,11 +14138,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -16015,11 +14160,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -16065,11 +14205,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -16113,11 +14248,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -16140,11 +14270,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -16190,11 +14315,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -16238,11 +14358,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -16265,11 +14380,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -16315,11 +14425,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -16363,11 +14468,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -16390,11 +14490,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -16440,11 +14535,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -16488,11 +14578,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -16515,11 +14600,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -16565,11 +14645,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -16613,11 +14688,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -16640,11 +14710,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -16690,11 +14755,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -16738,11 +14798,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -16765,11 +14820,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -16815,11 +14865,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -16863,11 +14908,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -16890,11 +14930,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -16940,11 +14975,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -16988,11 +15018,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -17015,11 +15040,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -17065,11 +15085,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -17113,11 +15128,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -17140,11 +15150,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -17190,11 +15195,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -17238,11 +15238,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -17265,11 +15260,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -17315,11 +15305,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -17363,11 +15348,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -17390,11 +15370,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -17440,11 +15415,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -17488,11 +15458,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -17515,11 +15480,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -17565,11 +15525,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -17613,11 +15568,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -17640,11 +15590,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -17690,11 +15635,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -17738,11 +15678,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -17765,11 +15700,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -17815,11 +15745,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -17863,11 +15788,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -17890,11 +15810,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -17940,11 +15855,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -17988,11 +15898,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -18015,11 +15920,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -18065,11 +15965,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -18113,11 +16008,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -18140,11 +16030,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -18190,11 +16075,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -18238,11 +16118,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -18265,11 +16140,6 @@
     "timestamp": "2025-05-01T13:28:00+00:00"
   },
   {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
     "symbol": "SEK",
     "price": 8430.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -18315,11 +16185,6 @@
     "timestamp": "2025-05-01T13:21:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 29970.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
@@ -18363,136 +16228,6 @@
     "symbol": "CAD",
     "price": 59320.0,
     "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
-  },
-  {
-    "symbol": "SAR",
-    "price": 21879.0,
-    "timestamp": "2025-05-01T13:29:00+00:00"
-  },
-  {
-    "symbol": "CHF",
-    "price": 98930.0,
-    "timestamp": "2025-05-01T13:29:00+00:00"
-  },
-  {
-    "symbol": "INR",
-    "price": 969.0,
-    "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "PKR",
-    "price": 292.0,
-    "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "SYP",
-    "price": 6.0,
-    "timestamp": "2025-05-01T12:28:00+00:00"
-  },
-  {
-    "symbol": "SEK",
-    "price": 8430.0,
-    "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "QAR",
-    "price": 23260.0,
-    "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "OMR",
-    "price": 212830.0,
-    "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "BHD",
-    "price": 217400.0,
-    "timestamp": "2025-05-01T13:29:00+00:00"
-  },
-  {
-    "symbol": "AFN",
-    "price": 1163.0,
-    "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "MYR",
-    "price": 19000.0,
-    "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "THB",
-    "price": 2447.0,
-    "timestamp": "2025-05-01T13:29:00+00:00"
-  },
-  {
-    "symbol": "RUB",
-    "price": 1001.0,
-    "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "AZN",
-    "price": 48340.0,
-    "timestamp": "2025-05-01T13:21:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
-  },
-  {
-    "symbol": "GEL",
-    "price": 29970.0,
-    "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "USD",
-    "price": 85050.0,
-    "timestamp": "2025-05-02T17:27:00+00:00"
-  },
-  {
-    "symbol": "EUR",
-    "price": 92770.0,
-    "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "AED",
-    "price": 22415.0,
-    "timestamp": "2025-05-01T13:29:00+00:00"
-  },
-  {
-    "symbol": "GBP",
-    "price": 109170.0,
-    "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "JPY",
-    "price": 56900.0,
-    "timestamp": "2025-05-01T13:29:00+00:00"
-  },
-  {
-    "symbol": "KWD",
-    "price": 267840.0,
-    "timestamp": "2025-05-01T13:29:00+00:00"
-  },
-  {
-    "symbol": "AUD",
-    "price": 52350.0,
-    "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CAD",
-    "price": 59320.0,
-    "timestamp": "2025-05-01T13:28:00+00:00"
-  },
-  {
-    "symbol": "CNY",
-    "price": 11270.0,
-    "timestamp": "2025-05-01T12:43:00+00:00"
   },
   {
     "symbol": "TRY",
@@ -18568,11 +16303,6 @@
     "symbol": "AZN",
     "price": 50180.0,
     "timestamp": "2025-05-03T07:31:00+00:00"
-  },
-  {
-    "symbol": "AMD",
-    "price": 211.0,
-    "timestamp": "2025-05-01T12:33:00+00:00"
   },
   {
     "symbol": "GEL",
@@ -60293,5 +58023,140 @@
     "symbol": "GEL",
     "price": 30440.0,
     "timestamp": "2025-05-08T12:14:00+00:00"
+  },
+  {
+    "symbol": "USD",
+    "price": 83100.0,
+    "timestamp": "2025-05-08T12:57:00+00:00"
+  },
+  {
+    "symbol": "EUR",
+    "price": 93960.0,
+    "timestamp": "2025-05-08T12:58:00+00:00"
+  },
+  {
+    "symbol": "AED",
+    "price": 22709.0,
+    "timestamp": "2025-05-08T12:58:00+00:00"
+  },
+  {
+    "symbol": "GBP",
+    "price": 110740.0,
+    "timestamp": "2025-05-08T12:58:00+00:00"
+  },
+  {
+    "symbol": "JPY",
+    "price": 57611.0,
+    "timestamp": "2025-05-08T12:58:00+00:00"
+  },
+  {
+    "symbol": "KWD",
+    "price": 271270.0,
+    "timestamp": "2025-05-08T12:58:00+00:00"
+  },
+  {
+    "symbol": "AUD",
+    "price": 53310.0,
+    "timestamp": "2025-05-08T12:58:00+00:00"
+  },
+  {
+    "symbol": "CAD",
+    "price": 59820.0,
+    "timestamp": "2025-05-08T12:58:00+00:00"
+  },
+  {
+    "symbol": "CNY",
+    "price": 11470.0,
+    "timestamp": "2025-05-08T12:58:00+00:00"
+  },
+  {
+    "symbol": "TRY",
+    "price": 2150.0,
+    "timestamp": "2025-05-08T12:09:00+00:00"
+  },
+  {
+    "symbol": "SAR",
+    "price": 22162.0,
+    "timestamp": "2025-05-08T12:58:00+00:00"
+  },
+  {
+    "symbol": "CHF",
+    "price": 100600.0,
+    "timestamp": "2025-05-08T12:58:00+00:00"
+  },
+  {
+    "symbol": "INR",
+    "price": 973.0,
+    "timestamp": "2025-05-08T12:58:00+00:00"
+  },
+  {
+    "symbol": "PKR",
+    "price": 296.0,
+    "timestamp": "2025-05-08T12:59:00+00:00"
+  },
+  {
+    "symbol": "IQD",
+    "price": 56.0,
+    "timestamp": "2025-05-08T12:55:00+00:00"
+  },
+  {
+    "symbol": "SYP",
+    "price": 6.0,
+    "timestamp": "2025-05-08T12:16:00+00:00"
+  },
+  {
+    "symbol": "SEK",
+    "price": 8620.0,
+    "timestamp": "2025-05-08T12:57:00+00:00"
+  },
+  {
+    "symbol": "QAR",
+    "price": 23660.0,
+    "timestamp": "2025-05-08T12:58:00+00:00"
+  },
+  {
+    "symbol": "OMR",
+    "price": 215660.0,
+    "timestamp": "2025-05-08T12:59:00+00:00"
+  },
+  {
+    "symbol": "BHD",
+    "price": 220250.0,
+    "timestamp": "2025-05-08T12:58:00+00:00"
+  },
+  {
+    "symbol": "AFN",
+    "price": 1203.0,
+    "timestamp": "2025-05-08T12:59:00+00:00"
+  },
+  {
+    "symbol": "MYR",
+    "price": 19410.0,
+    "timestamp": "2025-05-08T12:58:00+00:00"
+  },
+  {
+    "symbol": "THB",
+    "price": 2531.0,
+    "timestamp": "2025-05-08T12:59:00+00:00"
+  },
+  {
+    "symbol": "RUB",
+    "price": 1006.0,
+    "timestamp": "2025-05-08T12:59:00+00:00"
+  },
+  {
+    "symbol": "AZN",
+    "price": 48990.0,
+    "timestamp": "2025-05-08T12:55:00+00:00"
+  },
+  {
+    "symbol": "AMD",
+    "price": 214.0,
+    "timestamp": "2025-05-08T12:58:00+00:00"
+  },
+  {
+    "symbol": "GEL",
+    "price": 30420.0,
+    "timestamp": "2025-05-08T12:58:00+00:00"
   }
 ]
