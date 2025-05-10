@@ -1,56 +1,6 @@
 [
   {
     "symbol": "IR_GOLD_18K",
-    "price": 6772200.0,
-    "timestamp": "2025-05-03T15:11:00+00:00"
-  },
-  {
-    "symbol": "IR_GOLD_24K",
-    "price": 9029500.0,
-    "timestamp": "2025-05-03T15:11:00+00:00"
-  },
-  {
-    "symbol": "IR_GOLD_MELTED",
-    "price": 29335000.0,
-    "timestamp": "2025-05-03T15:11:00+00:00"
-  },
-  {
-    "symbol": "IR_COIN_EMAMI",
-    "price": 75605000.0,
-    "timestamp": "2025-05-03T15:11:00+00:00"
-  },
-  {
-    "symbol": "IR_COIN_BAHAR",
-    "price": 70995000.0,
-    "timestamp": "2025-05-03T15:11:00+00:00"
-  },
-  {
-    "symbol": "IR_GOLD_18K",
-    "price": 6778000.0,
-    "timestamp": "2025-05-03T15:28:00+00:00"
-  },
-  {
-    "symbol": "IR_GOLD_24K",
-    "price": 9037200.0,
-    "timestamp": "2025-05-03T15:28:00+00:00"
-  },
-  {
-    "symbol": "IR_GOLD_MELTED",
-    "price": 29331000.0,
-    "timestamp": "2025-05-03T15:28:00+00:00"
-  },
-  {
-    "symbol": "IR_COIN_EMAMI",
-    "price": 75605000.0,
-    "timestamp": "2025-05-03T15:28:00+00:00"
-  },
-  {
-    "symbol": "IR_COIN_BAHAR",
-    "price": 70990000.0,
-    "timestamp": "2025-05-03T15:28:00+00:00"
-  },
-  {
-    "symbol": "IR_GOLD_18K",
     "price": 6774800.0,
     "timestamp": "2025-05-03T15:40:00+00:00"
   },
@@ -18798,5 +18748,50 @@
     "symbol": "IR_COIN_BAHAR",
     "price": 70490000.0,
     "timestamp": "2025-05-10T15:07:00+00:00"
+  },
+  {
+    "symbol": "IR_GOLD_18K",
+    "price": 6736400.0,
+    "timestamp": "2025-05-10T15:27:00+00:00"
+  },
+  {
+    "symbol": "IR_GOLD_24K",
+    "price": 8981800.0,
+    "timestamp": "2025-05-10T15:27:00+00:00"
+  },
+  {
+    "symbol": "IR_GOLD_MELTED",
+    "price": 29133000.0,
+    "timestamp": "2025-05-10T15:27:00+00:00"
+  },
+  {
+    "symbol": "XAUUSD",
+    "price": 3326.0,
+    "timestamp": "2025-05-09T15:25:00+00:00"
+  },
+  {
+    "symbol": "IR_COIN_1G",
+    "price": 13800000.0,
+    "timestamp": "2025-05-10T10:24:00+00:00"
+  },
+  {
+    "symbol": "IR_COIN_QUARTER",
+    "price": 25800000.0,
+    "timestamp": "2025-05-10T14:39:00+00:00"
+  },
+  {
+    "symbol": "IR_COIN_HALF",
+    "price": 45800000.0,
+    "timestamp": "2025-05-10T14:10:00+00:00"
+  },
+  {
+    "symbol": "IR_COIN_EMAMI",
+    "price": 75310000.0,
+    "timestamp": "2025-05-10T15:27:00+00:00"
+  },
+  {
+    "symbol": "IR_COIN_BAHAR",
+    "price": 70515000.0,
+    "timestamp": "2025-05-10T15:27:00+00:00"
   }
 ]
