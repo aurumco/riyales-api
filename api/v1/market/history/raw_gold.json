@@ -1,31 +1,6 @@
 [
   {
     "symbol": "IR_GOLD_18K",
-    "price": 6777800.0,
-    "timestamp": "2025-05-03T12:58:00+00:00"
-  },
-  {
-    "symbol": "IR_GOLD_24K",
-    "price": 9036900.0,
-    "timestamp": "2025-05-03T12:58:00+00:00"
-  },
-  {
-    "symbol": "IR_GOLD_MELTED",
-    "price": 29357000.0,
-    "timestamp": "2025-05-03T12:58:00+00:00"
-  },
-  {
-    "symbol": "IR_COIN_EMAMI",
-    "price": 75805000.0,
-    "timestamp": "2025-05-03T12:58:00+00:00"
-  },
-  {
-    "symbol": "IR_COIN_BAHAR",
-    "price": 70715000.0,
-    "timestamp": "2025-05-03T12:58:00+00:00"
-  },
-  {
-    "symbol": "IR_GOLD_18K",
     "price": 6776600.0,
     "timestamp": "2025-05-03T13:26:00+00:00"
   },
@@ -38,11 +13,6 @@
     "symbol": "IR_GOLD_MELTED",
     "price": 29374000.0,
     "timestamp": "2025-05-03T13:27:00+00:00"
-  },
-  {
-    "symbol": "IR_COIN_HALF",
-    "price": 44800000.0,
-    "timestamp": "2025-05-03T13:05:00+00:00"
   },
   {
     "symbol": "IR_COIN_EMAMI",
@@ -18948,5 +18918,50 @@
     "symbol": "IR_COIN_BAHAR",
     "price": 70480000.0,
     "timestamp": "2025-05-10T12:56:00+00:00"
+  },
+  {
+    "symbol": "IR_GOLD_18K",
+    "price": 6661600.0,
+    "timestamp": "2025-05-10T13:23:00+00:00"
+  },
+  {
+    "symbol": "IR_GOLD_24K",
+    "price": 8882100.0,
+    "timestamp": "2025-05-10T13:23:00+00:00"
+  },
+  {
+    "symbol": "IR_GOLD_MELTED",
+    "price": 28889000.0,
+    "timestamp": "2025-05-10T13:23:00+00:00"
+  },
+  {
+    "symbol": "XAUUSD",
+    "price": 3326.0,
+    "timestamp": "2025-05-09T13:21:00+00:00"
+  },
+  {
+    "symbol": "IR_COIN_1G",
+    "price": 13800000.0,
+    "timestamp": "2025-05-10T10:24:00+00:00"
+  },
+  {
+    "symbol": "IR_COIN_QUARTER",
+    "price": 25600000.0,
+    "timestamp": "2025-05-10T11:55:00+00:00"
+  },
+  {
+    "symbol": "IR_COIN_HALF",
+    "price": 45700000.0,
+    "timestamp": "2025-05-10T11:55:00+00:00"
+  },
+  {
+    "symbol": "IR_COIN_EMAMI",
+    "price": 74960000.0,
+    "timestamp": "2025-05-10T13:23:00+00:00"
+  },
+  {
+    "symbol": "IR_COIN_BAHAR",
+    "price": 70480000.0,
+    "timestamp": "2025-05-10T13:23:00+00:00"
   }
 ]
