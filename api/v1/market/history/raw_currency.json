@@ -1,25 +1,5 @@
 [
   {
-    "symbol": "USD",
-    "price": 86650.0,
-    "timestamp": "2025-05-03T07:50:00+00:00"
-  },
-  {
-    "symbol": "AED",
-    "price": 23763.0,
-    "timestamp": "2025-05-03T07:49:00+00:00"
-  },
-  {
-    "symbol": "KWD",
-    "price": 283930.0,
-    "timestamp": "2025-05-03T07:49:00+00:00"
-  },
-  {
-    "symbol": "USD",
-    "price": 86550.0,
-    "timestamp": "2025-05-03T07:56:00+00:00"
-  },
-  {
     "symbol": "EUR",
     "price": 97850.0,
     "timestamp": "2025-05-03T07:59:00+00:00"
@@ -58,11 +38,6 @@
     "symbol": "CNY",
     "price": 11910.0,
     "timestamp": "2025-05-03T07:59:00+00:00"
-  },
-  {
-    "symbol": "TRY",
-    "price": 2240.0,
-    "timestamp": "2025-05-03T07:52:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -135,11 +110,6 @@
     "timestamp": "2025-05-03T07:59:00+00:00"
   },
   {
-    "symbol": "AMD",
-    "price": 223.0,
-    "timestamp": "2025-05-03T07:51:00+00:00"
-  },
-  {
     "symbol": "GEL",
     "price": 31680.0,
     "timestamp": "2025-05-03T07:59:00+00:00"
@@ -188,11 +158,6 @@
     "symbol": "CNY",
     "price": 11880.0,
     "timestamp": "2025-05-03T08:22:00+00:00"
-  },
-  {
-    "symbol": "TRY",
-    "price": 2240.0,
-    "timestamp": "2025-05-03T07:52:00+00:00"
   },
   {
     "symbol": "SAR",
@@ -60338,5 +60303,140 @@
     "symbol": "GEL",
     "price": 30420.0,
     "timestamp": "2025-05-10T07:48:00+00:00"
+  },
+  {
+    "symbol": "USD",
+    "price": 83100.0,
+    "timestamp": "2025-05-10T07:56:00+00:00"
+  },
+  {
+    "symbol": "EUR",
+    "price": 93490.0,
+    "timestamp": "2025-05-10T07:57:00+00:00"
+  },
+  {
+    "symbol": "AED",
+    "price": 22727.0,
+    "timestamp": "2025-05-10T07:57:00+00:00"
+  },
+  {
+    "symbol": "GBP",
+    "price": 110580.0,
+    "timestamp": "2025-05-10T07:57:00+00:00"
+  },
+  {
+    "symbol": "JPY",
+    "price": 57368.0,
+    "timestamp": "2025-05-10T07:57:00+00:00"
+  },
+  {
+    "symbol": "KWD",
+    "price": 271410.0,
+    "timestamp": "2025-05-10T07:57:00+00:00"
+  },
+  {
+    "symbol": "AUD",
+    "price": 53280.0,
+    "timestamp": "2025-05-10T07:57:00+00:00"
+  },
+  {
+    "symbol": "CAD",
+    "price": 59620.0,
+    "timestamp": "2025-05-10T07:57:00+00:00"
+  },
+  {
+    "symbol": "CNY",
+    "price": 11480.0,
+    "timestamp": "2025-05-10T07:56:00+00:00"
+  },
+  {
+    "symbol": "TRY",
+    "price": 2140.0,
+    "timestamp": "2025-05-10T07:42:00+00:00"
+  },
+  {
+    "symbol": "SAR",
+    "price": 22183.0,
+    "timestamp": "2025-05-10T07:57:00+00:00"
+  },
+  {
+    "symbol": "CHF",
+    "price": 99960.0,
+    "timestamp": "2025-05-10T07:57:00+00:00"
+  },
+  {
+    "symbol": "INR",
+    "price": 973.0,
+    "timestamp": "2025-05-10T07:52:00+00:00"
+  },
+  {
+    "symbol": "PKR",
+    "price": 295.0,
+    "timestamp": "2025-05-10T07:57:00+00:00"
+  },
+  {
+    "symbol": "IQD",
+    "price": 56.0,
+    "timestamp": "2025-05-10T07:42:00+00:00"
+  },
+  {
+    "symbol": "SYP",
+    "price": 6.0,
+    "timestamp": "2025-05-08T12:15:00+00:00"
+  },
+  {
+    "symbol": "SEK",
+    "price": 8560.0,
+    "timestamp": "2025-05-10T07:52:00+00:00"
+  },
+  {
+    "symbol": "QAR",
+    "price": 22840.0,
+    "timestamp": "2025-05-10T07:54:00+00:00"
+  },
+  {
+    "symbol": "OMR",
+    "price": 215910.0,
+    "timestamp": "2025-05-10T07:57:00+00:00"
+  },
+  {
+    "symbol": "BHD",
+    "price": 220440.0,
+    "timestamp": "2025-05-10T07:57:00+00:00"
+  },
+  {
+    "symbol": "AFN",
+    "price": 1199.0,
+    "timestamp": "2025-05-10T07:57:00+00:00"
+  },
+  {
+    "symbol": "MYR",
+    "price": 19350.0,
+    "timestamp": "2025-05-10T07:54:00+00:00"
+  },
+  {
+    "symbol": "THB",
+    "price": 2518.0,
+    "timestamp": "2025-05-10T07:57:00+00:00"
+  },
+  {
+    "symbol": "RUB",
+    "price": 1007.0,
+    "timestamp": "2025-05-10T07:56:00+00:00"
+  },
+  {
+    "symbol": "AZN",
+    "price": 49030.0,
+    "timestamp": "2025-05-10T07:57:00+00:00"
+  },
+  {
+    "symbol": "AMD",
+    "price": 214.0,
+    "timestamp": "2025-05-10T07:42:00+00:00"
+  },
+  {
+    "symbol": "GEL",
+    "price": 30430.0,
+    "timestamp": "2025-05-10T07:56:00+00:00"
   }
 ]
