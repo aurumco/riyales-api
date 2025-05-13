@@ -103,12 +103,13 @@ jobs:
             --repo "$REPO" \
             --workflow "$WF" \
             --limit 100 \
-            --json id,status \
-            --jq '.[] | select(.status!="in_progress" and .status!="queued") | .id')
+            --json databaseId,status,createdAt \
+            --jq '.[] | select(.status!="in_progress" and .status!="queued") | {id: .databaseId, date: .createdAt}' | \
+            jq -s 'sort_by(.date) | reverse | .[].id')
           total=$(echo "$runs" | wc -l)
           if [ "$total" -le 9 ]; then exit 0; fi
           # delete all older than the 9 newest
-          to_delete=$(echo "$runs" | tail -n +11)
+          to_delete=$(echo "$runs" | tail -n +10)
           echo "$to_delete" | while read id; do
             echo "Deleting run ID: $id"
             gh run delete "$id" --repo "$REPO"
