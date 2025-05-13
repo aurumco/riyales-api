@@ -28962,81 +28962,145 @@
   {
     "symbol": "XAUUSD",
     "price": 3250.29,
+<<<<<<< Updated upstream
     "timestamp": "2025-05-13T22:07:52.828421+00:00"
+=======
+    "timestamp": "2025-05-13T22:08:38.025384+00:00"
+>>>>>>> Stashed changes
   },
   {
     "symbol": "XAGUSD",
     "price": 32.91,
+<<<<<<< Updated upstream
     "timestamp": "2025-05-13T22:07:52.828421+00:00"
+=======
+    "timestamp": "2025-05-13T22:08:38.025384+00:00"
+>>>>>>> Stashed changes
   },
   {
     "symbol": "XPTUSD",
     "price": 990.8,
+<<<<<<< Updated upstream
     "timestamp": "2025-05-13T22:07:52.828421+00:00"
+=======
+    "timestamp": "2025-05-13T22:08:38.025384+00:00"
+>>>>>>> Stashed changes
   },
   {
     "symbol": "XPDUSD",
     "price": 956.5,
+<<<<<<< Updated upstream
     "timestamp": "2025-05-13T22:07:52.828421+00:00"
+=======
+    "timestamp": "2025-05-13T22:08:38.025384+00:00"
+>>>>>>> Stashed changes
   },
   {
     "symbol": "Cu",
     "price": 9608.95,
+<<<<<<< Updated upstream
     "timestamp": "2025-05-13T22:07:52.828421+00:00"
+=======
+    "timestamp": "2025-05-13T22:08:38.025384+00:00"
+>>>>>>> Stashed changes
   },
   {
     "symbol": "Al",
     "price": 2490.95,
+<<<<<<< Updated upstream
     "timestamp": "2025-05-13T22:07:52.828421+00:00"
+=======
+    "timestamp": "2025-05-13T22:08:38.025384+00:00"
+>>>>>>> Stashed changes
   },
   {
     "symbol": "Zn",
     "price": 2716.45,
+<<<<<<< Updated upstream
     "timestamp": "2025-05-13T22:07:52.828421+00:00"
+=======
+    "timestamp": "2025-05-13T22:08:38.025384+00:00"
+>>>>>>> Stashed changes
   },
   {
     "symbol": "Pb",
     "price": 1990.13,
+<<<<<<< Updated upstream
     "timestamp": "2025-05-13T22:07:52.828421+00:00"
+=======
+    "timestamp": "2025-05-13T22:08:38.025384+00:00"
+>>>>>>> Stashed changes
   },
   {
     "symbol": "Sn",
     "price": 32564.0,
+<<<<<<< Updated upstream
     "timestamp": "2025-05-13T22:07:52.828421+00:00"
+=======
+    "timestamp": "2025-05-13T22:08:38.025384+00:00"
+>>>>>>> Stashed changes
   },
   {
     "symbol": "Ni",
     "price": 15682.63,
+<<<<<<< Updated upstream
     "timestamp": "2025-05-13T22:07:52.828421+00:00"
+=======
+    "timestamp": "2025-05-13T22:08:38.025384+00:00"
+>>>>>>> Stashed changes
   },
   {
     "symbol": "BRENT",
     "price": 66.52,
+<<<<<<< Updated upstream
     "timestamp": "2025-05-13T22:07:52.828421+00:00"
+=======
+    "timestamp": "2025-05-13T22:08:38.025384+00:00"
+>>>>>>> Stashed changes
   },
   {
     "symbol": "OPEC",
     "price": 64.31,
+<<<<<<< Updated upstream
     "timestamp": "2025-05-13T22:07:52.828421+00:00"
+=======
+    "timestamp": "2025-05-13T22:08:38.025384+00:00"
+>>>>>>> Stashed changes
   },
   {
     "symbol": "WTI",
     "price": 63.64,
+<<<<<<< Updated upstream
     "timestamp": "2025-05-13T22:07:52.828421+00:00"
+=======
+    "timestamp": "2025-05-13T22:08:38.025384+00:00"
+>>>>>>> Stashed changes
   },
   {
     "symbol": "GAS",
     "price": 3.623,
+<<<<<<< Updated upstream
     "timestamp": "2025-05-13T22:07:52.828421+00:00"
+=======
+    "timestamp": "2025-05-13T22:08:38.025384+00:00"
+>>>>>>> Stashed changes
   },
   {
     "symbol": "RBOB",
     "price": 2.1671,
+<<<<<<< Updated upstream
     "timestamp": "2025-05-13T22:07:52.828421+00:00"
+=======
+    "timestamp": "2025-05-13T22:08:38.025384+00:00"
+>>>>>>> Stashed changes
   },
   {
     "symbol": "GASOIL",
     "price": 630.75,
+<<<<<<< Updated upstream
     "timestamp": "2025-05-13T22:07:52.828421+00:00"
+=======
+    "timestamp": "2025-05-13T22:08:38.025384+00:00"
+>>>>>>> Stashed changes
   }
 ]

@@ -3,8 +3,13 @@ From https://github.com/aurumco/riyales-api
 Already up to date.
 From https://github.com/aurumco/riyales-api
  * branch            main       -> FETCH_HEAD
+<<<<<<< Updated upstream
    45d033f..de96764  main       -> origin/main
 Updating 45d033f..de96764
 From https://github.com/aurumco/riyales-api
  * branch            main       -> FETCH_HEAD
 Already up to date.
+=======
+   de96764..747aa2e  main       -> origin/main
+Updating de96764..747aa2e
+>>>>>>> Stashed changes
