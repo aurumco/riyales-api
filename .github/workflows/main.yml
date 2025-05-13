@@ -59,15 +59,25 @@ jobs:
 
       - name: Pull latest & Commit if any
         run: |
-          git config --global user.name "Market Data Bot"
-          git config --global user.email "market-data-bot@users.noreply.github.com"
-          git pull --rebase --autostash origin main
-          git add api/v1/market/ logs/
-          git diff --staged --quiet || (
-            MSG=$(python src/commit_message.py)
-            git commit -m "$MSG" -m "Triggered by: ${{ github.event_name }}"
-            git push origin main
-          )
+          # Capture all commit/pull output to error.log
+          {
+            git config --global user.name "Market Data Bot"
+            git config --global user.email "market-data-bot@users.noreply.github.com"
+            git pull --rebase --autostash origin main
+            # Stage all changes
+            git add api/v1/market/ logs/
+            # Unstage any files larger than 100MB to avoid commit failures
+            find api/v1/market/ logs/ -type f -size +100M | while read file; do
+              echo "• Skipping large file from commit: $file"
+              git restore --staged "$file"
+            done
+            # Commit remaining staged changes if any
+            git diff --staged --quiet || (
+              MSG=$(python src/commit_message.py)
+              git commit -m "$MSG" -m "Triggered by: ${{ github.event_name }}"
+              git push origin main
+            )
+          } 2>&1 | tee -a logs/error.log
         shell: bash
 
       - name: Send Telegram error log
@@ -96,8 +106,8 @@ jobs:
             --json databaseId,status \
             --jq '.[] | select(.status!="in_progress" and .status!="queued") | .databaseId')
           total=$(echo "$runs" | wc -l)
-          if [ "$total" -le 10 ]; then exit 0; fi
-          # delete all older than the 10 newest
+          if [ "$total" -le 9 ]; then exit 0; fi
+          # delete all older than the 9 newest
           to_delete=$(echo "$runs" | tail -n +11)
           echo "$to_delete" | while read id; do
             echo "Deleting run ID: $id"
