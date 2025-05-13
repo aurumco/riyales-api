@@ -103,8 +103,8 @@ jobs:
             --repo "$REPO" \
             --workflow "$WF" \
             --limit 100 \
-            --json databaseId,status \
-            --jq '.[] | select(.status!="in_progress" and .status!="queued") | .databaseId')
+            --json id,status \
+            --jq '.[] | select(.status!="in_progress" and .status!="queued") | .id')
           total=$(echo "$runs" | wc -l)
           if [ "$total" -le 9 ]; then exit 0; fi
           # delete all older than the 9 newest
