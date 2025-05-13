@@ -24,5 +24,10 @@ Updating 347b30f..56c4924
 >>>>>>> Stashed changes
 From https://github.com/aurumco/riyales-api
  * branch            main       -> FETCH_HEAD
+<<<<<<< Updated upstream
    4d4d997..539826b  main       -> origin/main
 Updating 4d4d997..539826b
+=======
+   539826b..4da2315  main       -> origin/main
+Updating 539826b..4da2315
+>>>>>>> Stashed changes
