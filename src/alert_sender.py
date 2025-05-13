@@ -5,7 +5,8 @@ import jdatetime
 import pytz
 import requests
 import json
-from datetime import datetime
+import time
+from datetime import datetime, timedelta
 from pygments import highlight
 from pygments.lexers import TextLexer
 from pygments.formatters import ImageFormatter
@@ -31,7 +32,7 @@ def find_latest_log_file():
     error_path = os.path.join(LOG_DIR, ERROR_LOG_FILENAME)
     return error_path if os.path.exists(error_path) else None
 
-def load_and_clean_lines(path, levels):
+def load_and_clean_lines(path, levels, max_age_minutes=10):
     lvls = [lvl.strip().upper() for lvl in levels.split(',')]
     out = []
     
@@ -57,8 +58,31 @@ def load_and_clean_lines(path, levels):
     # Create a combined pattern to match any git error
     git_pattern = re.compile('|'.join(git_error_patterns), re.IGNORECASE)
     
+    # Calculate the cutoff time for recent errors (local timezone)
+    tehran_tz = pytz.timezone('Asia/Tehran')
+    now_local = datetime.now(tehran_tz)
+    cutoff_time = now_local - timedelta(minutes=max_age_minutes)
+    
+    print(f'\033[34m• Only including errors after {cutoff_time.strftime("%Y-%m-%d %H:%M:%S")}\033[0m')
+    
     with open(path, 'r', errors='ignore') as f:
         for ln in f:
+            # Try to extract timestamp from log line (expected format: 2023-11-20 14:30:45|...)
+            timestamp = None
+            if '|' in ln:
+                ts_str = ln.split('|', 1)[0].strip()
+                try:
+                    # Parse the timestamp and localize it to Tehran timezone
+                    timestamp = datetime.strptime(ts_str, '%Y-%m-%d %H:%M:%S')
+                    timestamp = tehran_tz.localize(timestamp)
+                except ValueError:
+                    # If timestamp parsing fails, consider the line for inclusion
+                    pass
+            
+            # Skip old log lines if we could extract a timestamp
+            if timestamp and timestamp < cutoff_time:
+                continue
+                
             upper = ln.upper()
             
             # Match standard log levels
@@ -93,7 +117,7 @@ def determine_highest_severity(lines):
 
 def render_image(text, out='log.png'):
     overrides = {
-        'Background': '#1a1a1a',
+        'Background': '#090909',
         'Text': '#f8f8f8',
         'Error': '#ff5555',
         'Name': '#50fa7b',
@@ -219,6 +243,53 @@ def send_media_group(img_path: str, log_path: str, reply_markup: dict) -> bool:
     success = send_document(img_path, []) and send_document(log_path, [])
     return success
 
+def clean_error_log(path, keep_days=2):
+    """
+    Clean up error.log after successful sending by:
+    1. Keep content from the last keep_days days
+    2. Remove all other content
+    """
+    try:
+        if not os.path.exists(path):
+            return
+            
+        tehran_tz = pytz.timezone('Asia/Tehran')
+        now_local = datetime.now(tehran_tz)
+        cutoff_time = now_local - timedelta(days=keep_days)
+        formatted_cutoff = cutoff_time.strftime('%Y-%m-%d %H:%M:%S')
+        
+        print(f'\033[34m• Cleaning error log, keeping entries newer than {formatted_cutoff}\033[0m')
+        
+        # Read and filter lines from the error log
+        keep_lines = []
+        with open(path, 'r', encoding='utf-8', errors='ignore') as f:
+            for line in f:
+                # Try to extract timestamp 
+                timestamp = None
+                if '|' in line:
+                    ts_str = line.split('|', 1)[0].strip()
+                    try:
+                        timestamp = datetime.strptime(ts_str, '%Y-%m-%d %H:%M:%S')
+                        timestamp = tehran_tz.localize(timestamp)
+                        
+                        # Keep lines with timestamps newer than the cutoff
+                        if timestamp >= cutoff_time:
+                            keep_lines.append(line)
+                    except ValueError:
+                        # Can't parse timestamp, keep the line to be safe
+                        keep_lines.append(line)
+                else:
+                    # Line doesn't have a timestamp format we recognize, keep it
+                    keep_lines.append(line)
+        
+        # Write back only the lines we want to keep
+        with open(path, 'w', encoding='utf-8') as f:
+            f.writelines(keep_lines)
+            
+        print(f'\033[32m• Error log cleaned, kept {len(keep_lines)} recent entries\033[0m')
+    except Exception as e:
+        print(f'\033[31m• Error cleaning log file: {str(e)}\033[0m')
+
 def main():
     # Use the fixed error log
     logfile = find_latest_log_file()
@@ -226,15 +297,15 @@ def main():
         print('\033[33m• No error.log file found\033[0m')
         return
 
-    # Load error lines according to configured levels
-    lines = load_and_clean_lines(logfile, LOG_LEVELS)
+    # Load error lines according to configured levels and only from recent runs (last 10 minutes)
+    lines = load_and_clean_lines(logfile, LOG_LEVELS, max_age_minutes=10)
     
     # If no errors found in log levels, do a second pass for git errors only
     if not lines:
         print('\033[34m• No standard error log entries found, checking for git errors\033[0m')
         # Force include WARNING level to catch more potential issues
         extended_levels = f"{LOG_LEVELS},WARNING"
-        lines = load_and_clean_lines(logfile, extended_levels)
+        lines = load_and_clean_lines(logfile, extended_levels, max_age_minutes=10)
         
     if not lines:
         print('\033[34m• No matching log entries found\033[0m')
@@ -248,10 +319,24 @@ def main():
 
     # Send both image and log file as a media group
     reply_markup = create_severity_keyboard(determine_highest_severity(lines))
+    sent_success = False
+    
     if send_media_group(img_path, logfile, reply_markup):
         print('\033[32m• Successfully sent error alert (image + log) to Telegram\033[0m')
+        sent_success = True
     else:
         print('\033[31m• Failed to send error alert to Telegram\033[0m')
+    
+    # Clean up error log if alert was sent successfully
+    if sent_success:
+        clean_error_log(logfile)
+    
+    # Clean up the image file
+    try:
+        if os.path.exists(img_path):
+            os.unlink(img_path)
+    except Exception as e:
+        print(f'\033[33m• Could not remove temporary image: {str(e)}\033[0m')
 
 if __name__ == '__main__':
     main()
