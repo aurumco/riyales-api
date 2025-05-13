@@ -39,5 +39,10 @@ From https://github.com/aurumco/riyales-api
 Already up to date.
 From https://github.com/aurumco/riyales-api
  * branch            main       -> FETCH_HEAD
+<<<<<<< Updated upstream
    be2df21..78f6a6f  main       -> origin/main
 Updating be2df21..78f6a6f
+=======
+   78f6a6f..211ffee  main       -> origin/main
+Updating 78f6a6f..211ffee
+>>>>>>> Stashed changes
