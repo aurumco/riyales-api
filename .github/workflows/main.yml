@@ -63,7 +63,14 @@ jobs:
           {
             git config --global user.name "Market Data Bot"
             git config --global user.email "market-data-bot@users.noreply.github.com"
-            git pull --rebase --autostash origin main
+            # Try to pull and handle any errors
+            echo "• Pulling latest changes from origin/main"
+            if ! git pull --rebase --autostash origin main; then
+                echo "ERROR: Git pull failed with conflicts or errors"
+                git rebase --abort 2>/dev/null || true
+                git pull origin main || echo "ERROR: Fallback git pull also failed"
+            fi
+            
             # Stage all changes
             git add api/v1/market/ logs/
             # Unstage any files larger than 100MB to avoid commit failures
@@ -74,15 +81,33 @@ jobs:
             # Commit remaining staged changes if any
             git diff --staged --quiet || (
               MSG=$(python src/commit_message.py)
-              git commit -m "$MSG" -m "Triggered by: ${{ github.event_name }}"
-              git push origin main
+              echo "• Committing changes with message: $MSG"
+              if ! git commit -m "$MSG" -m "Triggered by: ${{ github.event_name }}"; then
+                echo "ERROR: Git commit failed"
+              else
+                echo "• Pushing changes to origin/main"
+                if ! git push origin main; then
+                  echo "ERROR: Git push failed"
+                fi
+              fi
             )
           } 2>&1 | tee -a logs/error.log
         shell: bash
 
       - name: Send Telegram error log
         if: always()
-        run: python src/alert_sender.py
+        run: |
+          # Check if error.log contains merge conflicts or git errors
+          mkdir -p logs
+          if [ -f "logs/error.log" ]; then
+            grep -E "(<<<<<<|>>>>>>|=======|CONFLICT|ERROR:|ERROR:)" logs/error.log || true
+            # Explicitly add a marker if we found git conflicts
+            if grep -q -E "(<<<<<<|>>>>>>|=======|CONFLICT)" logs/error.log; then
+              echo "ERROR: Git merge conflicts detected, see above" >> logs/error.log
+            fi
+          fi
+          # Now run the alert sender
+          python src/alert_sender.py
         shell: bash
 
   cleanup:
