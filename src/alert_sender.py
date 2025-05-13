@@ -36,9 +36,18 @@ def load_and_clean_lines(path, levels):
     with open(path, 'r', errors='ignore') as f:
         for ln in f:
             upper = ln.upper()
-            if any(f'|{lvl}' in upper for lvl in lvls):
-                parts = [p.strip() for p in ln.split('|')]
-                out.append('|'.join(parts).rstrip())
+            # Match standard log levels or standalone git errors
+            if (any(f'|{lvl}' in upper for lvl in lvls)
+                or upper.strip().startswith('ERROR:')
+                or upper.strip().startswith('FATAL:')
+                or 'ERROR:' in upper
+                or 'FATAL:' in upper):
+                # Normalize pipe-delimited logs or raw lines
+                if '|' in ln:
+                    parts = [p.strip() for p in ln.split('|')]
+                    out.append('|'.join(parts).rstrip())
+                else:
+                    out.append(ln.strip())
     return out
 
 def determine_highest_severity(lines):

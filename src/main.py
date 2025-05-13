@@ -14,7 +14,6 @@ from datetime import datetime, time as dt_time, timedelta, date
 import traceback
 from typing import Dict, Any, Optional, List, Tuple, Union
 from urllib.parse import urlparse, urlunparse
-from history_manager import HistoryManager
 import random
 
 # --- Configuration ---
@@ -521,9 +520,6 @@ async def main():
     # Log a clear start banner
     logger.info(f"{COLOR_GREEN}• Market Data Sync START {COLOR_RESET}")
 
-    # Initialize history manager
-    history_folder = os.path.join(DATA_FOLDER, 'history')
-    history = HistoryManager(history_folder)
     script_start_time = time.monotonic()
     logger.debug(f"{COLOR_GREEN}• Starting Market Data Sync Cycle {COLOR_RESET}")
 
@@ -677,10 +673,8 @@ async def main():
                             recs.append({'symbol': symbol, 'price': price, 'timestamp': ts})
                         return recs
                     records = extract_records(endpoint_name, data)
-                    if records:
-                        history.append_raw(endpoint_name, records)
                 except Exception as hist_err:
-                    logger.debug(f"• Error appending history for {endpoint_name}: {hist_err}", exc_info=True)
+                    logger.debug(f"• Error extracting records for {endpoint_name}: {hist_err}", exc_info=True)
             else:
                 # Fetch failed (non-200, timeout, decode error, etc.) - Error logged in fetch_api_data
                 fetch_errors += 1
@@ -700,22 +694,6 @@ async def main():
             logger.info("Skipping consolidated JSON creation due to fetch errors and no successful DB inserts.")
     else:
         logger.info("Skipping consolidated JSON creation as no fetches were scheduled.")
-
-    # --- Compute Historical Aggregations ---
-    logger.info("• Computing Historical Aggregations")
-    # Define aggregation intervals
-    intervals = {
-        '4h': timedelta(hours=4),
-        '12h': timedelta(hours=12),
-        '24h': timedelta(hours=24),
-        '3d': timedelta(days=3),
-        '7d': timedelta(days=7),
-    }
-    for endpoint_name in API_ENDPOINTS.keys():
-        try:
-            history.compute_aggregates(endpoint_name, intervals)
-        except Exception as agg_err:
-            logger.debug(f"• Error computing history for {endpoint_name}: {agg_err}", exc_info=True)
 
     # --- Finish ---
     script_end_time = time.monotonic()
