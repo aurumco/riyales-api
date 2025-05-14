@@ -66,9 +66,9 @@ jobs:
           # Try to pull latest changes safely
           echo "• Pulling latest changes from origin/main"
           if ! git pull --rebase --autostash origin main; then
-            echo "ERROR: Git pull failed with conflicts or errors" | tee -a "${GITHUB_WORKSPACE}/logs/error.log"
+            echo "• ERROR: Git pull failed with conflicts or errors"
             git rebase --abort 2>/dev/null || true
-            git pull origin main || echo "ERROR: Fallback git pull also failed" | tee -a "${GITHUB_WORKSPACE}/logs/error.log"
+            git pull origin main || echo "• ERROR: Fallback git pull also failed"
           fi
           
           # Only commit market data changes, not log files
@@ -89,13 +89,13 @@ jobs:
             
             echo "• Pushing changes to origin/main"
             if ! git push origin main; then
-              echo "ERROR: Git push failed" | tee -a "${GITHUB_WORKSPACE}/logs/error.log"
+              echo "• ERROR: Git push failed"
             fi
           else
             echo "• No changes to market data files. Skipping commit."
           fi
         shell: bash
-        
+
       - name: Check and send error logs (final step)
         if: always()
         run: |
