@@ -62,6 +62,10 @@ def load_and_clean_lines(path, levels):
     
     with open(path, 'r', errors='ignore') as f:
         for ln in f:
+            # Skip empty lines or lines that are just headers from previous clears
+            if not ln.strip() or ln.strip().startswith("# Log cleared on") or ln.strip().startswith("# Log forcibly cleared on"):
+                continue
+                
             upper = ln.upper()
             
             # Match standard log levels or git errors
@@ -155,7 +159,7 @@ def send_telegram_alert(img_path, log_path):
             )
             
         if not resp.ok:
-            print(f'\033[31m• Failed to send image: {resp.status_code}\033[0m')
+            print(f'\033[31m• Failed to send image: {resp.status_code} {resp.text}\033[0m')
             return False
             
         # Send log file separately
@@ -172,22 +176,22 @@ def send_telegram_alert(img_path, log_path):
             print('\033[32m• Successfully sent alerts to Telegram\033[0m')
             return True
         else:
-            print(f'\033[31m• Failed to send log: {resp.status_code}\033[0m')
+            print(f'\033[31m• Failed to send log: {resp.status_code} {resp.text}\033[0m')
             return False
     except Exception as e:
         print(f'\033[31m• Error sending to Telegram: {str(e)}\033[0m')
         return False
 
 def clear_log_file(file_path):
-    """Clear the contents of the log file."""
+    """Clear the contents of the log file by truncating it."""
     try:
-        print(f"• Attempting to clear log file: {file_path}")
+        print(f"• Attempting to clear log file by truncating: {file_path}")
         with open(file_path, 'w') as f:
-            f.write(f"# Log cleared on {datetime.now().isoformat()}\n")
-        print(f'\033[32m• Log file cleared: {file_path}\033[0m')
+            pass  # Opening in 'w' mode truncates the file
+        print(f'\033[32m• Log file truncated: {file_path}\033[0m')
         return True
     except Exception as e:
-        print(f'\033[31m• Failed to clear log file: {str(e)}\033[0m')
+        print(f'\033[31m• Failed to truncate log file: {str(e)}\033[0m')
         return False
 
 def main():
@@ -198,22 +202,23 @@ def main():
         print('\033[33m• No error.log file found\033[0m')
         return
 
-    # Check if the log file is empty (less than 50 bytes)
-    if os.path.getsize(logfile) < 50:
-        print('\033[34m• Log file is empty or contains only header. Nothing to send.\033[0m')
-        return
-
-    # Load error lines according to configured levels
+    # Load error lines. If load_and_clean_lines filters out everything (e.g., only headers left),
+    # 'lines' will be empty.
     lines = load_and_clean_lines(logfile, LOG_LEVELS)
     
     # If no errors found, check for git errors with extended levels
     if not lines:
-        print('\033[34m• No standard error entries found, checking for git errors\033[0m')
-        extended_levels = f"{LOG_LEVELS},WARNING"
+        print('\033[34m• No standard error entries found, checking for git errors with extended levels\033[0m')
+        # Consider if LOG_LEVELS already includes WARNING or if this is truly extending it.
+        extended_levels = LOG_LEVELS # Default to current levels
+        if "WARNING" not in LOG_LEVELS.upper():
+             extended_levels = f"{LOG_LEVELS},WARNING"
         lines = load_and_clean_lines(logfile, extended_levels)
         
     if not lines:
-        print('\033[34m• No error entries found to report\033[0m')
+        print('\033[34m• No actionable error entries found to report\033[0m')
+        # Even if no lines to send, we might want to clear the log if it only contained filtered-out content.
+        # However, the current problem is re-sending, so only clearing on successful send is key.
         return
 
     print(f'\033[34m• Found {len(lines)} error lines to report\033[0m')
