@@ -28,10 +28,12 @@ PROXIES = {
 } if USE_PROXY else None
 
 def find_latest_log_file():
+    """Find the error log file path."""
     error_path = os.path.join(LOG_DIR, ERROR_LOG_FILENAME)
     return error_path if os.path.exists(error_path) else None
 
 def load_and_clean_lines(path, levels):
+    """Extract error lines from the log file based on severity levels and git error patterns."""
     lvls = [lvl.strip().upper() for lvl in levels.split(',')]
     out = []
     
@@ -46,7 +48,6 @@ def load_and_clean_lines(path, levels):
         r"fatal:",         # Git fatal error lowercase
         r"FATAL:",         # Git fatal error uppercase
         r"Failed to",      # Common error message
-        r"cannot|can't",   # Common error terms
         r"Permission denied",  # Access issues
         r"could not",      # Common error phrase
         r"rejected",       # Git push/pull rejection
@@ -61,10 +62,8 @@ def load_and_clean_lines(path, levels):
         for ln in f:
             upper = ln.upper()
             
-            # Match standard log levels
+            # Match standard log levels or git errors
             is_log_level_match = any(f'|{lvl}' in upper for lvl in lvls)
-            
-            # Match git errors using regex
             is_git_error = git_pattern.search(ln) is not None
             
             if is_log_level_match or is_git_error:
@@ -92,6 +91,7 @@ def determine_highest_severity(lines):
     return None
 
 def render_image(text, out='log.png'):
+    """Render log text as a nicely formatted image"""
     overrides = {
         'Background': '#1a1a1a',
         'Text': '#f8f8f8',
@@ -119,125 +119,98 @@ def render_image(text, out='log.png'):
 def create_severity_keyboard(highest_severity=None):
     """Create an inline keyboard with severity levels"""
     buttons = []
-
     severity_buttons = [
         {"text": "🔴 Error", "callback_data": "severity_error"},
         {"text": "🟡 Warning", "callback_data": "severity_warning"},
         {"text": "🟠 Critical", "callback_data": "severity_critical"},
         {"text": "🔵 Info", "callback_data": "severity_info"}
     ]
-    
     buttons.append(severity_buttons)
-    
     return {"inline_keyboard": buttons}
 
-def send_document(path, lines):
+def send_telegram_alert(img_path, log_path):
+    """Send alert to Telegram with image and log file"""
     if not BOT_TOKEN or not USER_ID:
         print('\033[31m• ERROR: Missing Telegram credentials\033[0m')
         return False
-        
+
     tehran_tz = pytz.timezone('Asia/Tehran')
     now_utc = datetime.now(pytz.UTC)
     now_tehran = now_utc.astimezone(tehran_tz)
     jnow = jdatetime.datetime.fromgregorian(datetime=now_tehran)
-    
     caption = f"Errors - {jnow.strftime('%Y/%m/%d %H:%M')}"
-    
-    highest_severity = determine_highest_severity(lines)
-    
-    reply_markup = create_severity_keyboard(highest_severity)
-    
-    url = f'https://api.telegram.org/bot{BOT_TOKEN}/sendDocument'
+
+    # Try sending as media group first
     try:
-        with open(path, 'rb') as doc:
+        url = f'https://api.telegram.org/bot{BOT_TOKEN}/sendDocument'
+        with open(img_path, 'rb') as img_file:
             resp = requests.post(
                 url,
-                data={
-                    'chat_id': USER_ID, 
-                    'caption': caption,
-                    'reply_markup': json.dumps(reply_markup)
-                },
-                files={'document': (os.path.basename(path), doc)},
+                data={'chat_id': USER_ID, 'caption': caption},
+                files={'document': (os.path.basename(img_path), img_file)},
                 timeout=15,
                 proxies=PROXIES
             )
+            
         if not resp.ok:
-            print(f'\033[31m• ERROR sending document: {resp.status_code} {resp.text}\033[0m')
+            print(f'\033[31m• Failed to send image: {resp.status_code}\033[0m')
             return False
-        return True
-    except Exception as e:
-        print(f'\033[31m• ERROR sending document: {str(e)}\033[0m')
-        return False
-
-def send_media_group(img_path: str, log_path: str, reply_markup: dict) -> bool:
-    """Sends image and log file together as a Telegram media group."""
-    if not BOT_TOKEN or not USER_ID:
-        print('\033[31m• ERROR: Missing Telegram credentials\033[0m')
-        return False
-
-    tehran_tz = pytz.timezone('Asia/Tehran')
-    now_utc = datetime.now(pytz.UTC)
-    now_tehran = now_utc.astimezone(tehran_tz)
-    jnow = jdatetime.datetime.fromgregorian(datetime=now_tehran)
-    caption = f"Errors - {jnow.strftime('%Y/%m/%d %H:%M')}"
-
-    # First try sending as media group
-    try:
-        url = f'https://api.telegram.org/bot{BOT_TOKEN}/sendMediaGroup'
-        media = [
-            {'type': 'document', 'media': 'attach://img', 'caption': caption},
-            {'type': 'document', 'media': 'attach://log'}
-        ]
-        data = {
-            'chat_id': USER_ID,
-            'media': json.dumps(media)
-            # Reply markup not supported in media groups by Telegram API
-        }
-        files = {
-            'img': (os.path.basename(img_path), open(img_path, 'rb')),
-            'log': (os.path.basename(log_path), open(log_path, 'rb'))
-        }
-
-        resp = requests.post(url, data=data, files=files, timeout=15, proxies=PROXIES)
-        
-        # Make sure to close the file handles
-        for f in files.values():
-            f[1].close()
+            
+        # Send log file separately
+        with open(log_path, 'rb') as log_file:
+            resp = requests.post(
+                url,
+                data={'chat_id': USER_ID},
+                files={'document': (os.path.basename(log_path), log_file)},
+                timeout=15,
+                proxies=PROXIES
+            )
             
         if resp.ok:
-            print('\033[32m• Successfully sent media group to Telegram\033[0m')
+            print('\033[32m• Successfully sent alerts to Telegram\033[0m')
             return True
         else:
-            print(f'\033[31m• Failed to send media group: {resp.status_code} {resp.text}\033[0m')
-            # Fall through to send individual documents
+            print(f'\033[31m• Failed to send log: {resp.status_code}\033[0m')
+            return False
     except Exception as e:
-        print(f'\033[31m• Error sending media group: {str(e)}\033[0m')
-        # Fall through to send individual documents
-    
-    # If sending media group failed, try sending documents individually
-    print('\033[33m• Falling back to individual document sending\033[0m')
-    success = send_document(img_path, []) and send_document(log_path, [])
-    return success
+        print(f'\033[31m• Error sending to Telegram: {str(e)}\033[0m')
+        return False
+
+def clear_log_file(file_path):
+    """Clear the contents of the log file."""
+    try:
+        with open(file_path, 'w') as f:
+            f.write(f"# Log cleared on {datetime.now().isoformat()}\n")
+        print(f'\033[32m• Log file cleared: {file_path}\033[0m')
+        return True
+    except Exception as e:
+        print(f'\033[31m• Failed to clear log file: {str(e)}\033[0m')
+        return False
 
 def main():
-    # Use the fixed error log
+    """Main function to check logs, send alerts if needed, and clear logs."""
+    # Find the log file
     logfile = find_latest_log_file()
     if not logfile:
         print('\033[33m• No error.log file found\033[0m')
         return
 
+    # Check if the log file is empty (less than 50 bytes)
+    if os.path.getsize(logfile) < 50:
+        print('\033[34m• Log file is empty or contains only header. Nothing to send.\033[0m')
+        return
+
     # Load error lines according to configured levels
     lines = load_and_clean_lines(logfile, LOG_LEVELS)
     
-    # If no errors found in log levels, do a second pass for git errors only
+    # If no errors found, check for git errors with extended levels
     if not lines:
-        print('\033[34m• No standard error log entries found, checking for git errors\033[0m')
-        # Force include WARNING level to catch more potential issues
+        print('\033[34m• No standard error entries found, checking for git errors\033[0m')
         extended_levels = f"{LOG_LEVELS},WARNING"
         lines = load_and_clean_lines(logfile, extended_levels)
         
     if not lines:
-        print('\033[34m• No matching log entries found\033[0m')
+        print('\033[34m• No error entries found to report\033[0m')
         return
 
     print(f'\033[34m• Found {len(lines)} error lines to report\033[0m')
@@ -246,18 +219,12 @@ def main():
     text = '\n'.join(lines)
     img_path = render_image(text)
 
-    # Send both image and log file as a media group
-    reply_markup = create_severity_keyboard(determine_highest_severity(lines))
-    if send_media_group(img_path, logfile, reply_markup):
-        print('\033[32m✓ Successfully sent error alert (image + log) to Telegram\033[0m')
-        # Clear the sent logs to avoid duplicate alerts
-        try:
-            open(logfile, 'w').close()
-            print('\033[34m• Cleared error.log after sending alert\033[0m')
-        except Exception as e:
-            print(f'\033[31m• ERROR clearing log file: {e}\033[0m')
+    # Send alert to Telegram
+    if send_telegram_alert(img_path, logfile):
+        # Clear log file after successful sending
+        clear_log_file(logfile)
     else:
-        print('\033[31m• Failed to send error alert to Telegram\033[0m')
+        print('\033[31m• Failed to send alert to Telegram, log not cleared\033[0m')
 
 if __name__ == '__main__':
     main()
