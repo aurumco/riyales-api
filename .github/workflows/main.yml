@@ -56,32 +56,6 @@ jobs:
           # Execute main script (logging handled internally)
           python src/main.py
         shell: bash
-        
-      - name: Check and send error logs
-        if: always()
-        run: |
-          # Check if error.log exists and has content
-          ERROR_LOG="${GITHUB_WORKSPACE}/logs/error.log"
-          echo "• Checking for error log at: ${ERROR_LOG}"
-          
-          if [ -f "${ERROR_LOG}" ] && [ -s "${ERROR_LOG}" ]; then
-            # Run error detection and alert sending
-            echo "• Checking error log for issues..."
-            grep -E "(<<<<<<|>>>>>>|=====|CONFLICT|ERROR:|ERROR:)" "${ERROR_LOG}" || true
-            # Send alerts via Telegram
-            cd "${GITHUB_WORKSPACE}"
-            python src/alert_sender.py
-            
-            # Verify log was cleared and force clear if needed
-            if [ -s "${ERROR_LOG}" ]; then
-              echo "• Log file wasn't cleared by alert_sender.py, forcing clear..."
-              echo "# Log forcibly cleared on $(date -u '+%Y-%m-%dT%H:%M:%SZ')" > "${ERROR_LOG}"
-              echo "• Log file cleared by workflow"
-            fi
-          else
-            echo "• No error log found or file is empty. Skipping alert."
-          fi
-        shell: bash
 
       - name: Pull latest & Commit if any
         run: |
@@ -92,9 +66,9 @@ jobs:
           # Try to pull latest changes safely
           echo "• Pulling latest changes from origin/main"
           if ! git pull --rebase --autostash origin main; then
-            echo "ERROR: Git pull failed with conflicts or errors" | tee -a logs/error.log
+            echo "ERROR: Git pull failed with conflicts or errors" | tee -a "${GITHUB_WORKSPACE}/logs/error.log"
             git rebase --abort 2>/dev/null || true
-            git pull origin main || echo "ERROR: Fallback git pull also failed" | tee -a logs/error.log
+            git pull origin main || echo "ERROR: Fallback git pull also failed" | tee -a "${GITHUB_WORKSPACE}/logs/error.log"
           fi
           
           # Only commit market data changes, not log files
@@ -115,10 +89,42 @@ jobs:
             
             echo "• Pushing changes to origin/main"
             if ! git push origin main; then
-              echo "ERROR: Git push failed" | tee -a logs/error.log
+              echo "ERROR: Git push failed" | tee -a "${GITHUB_WORKSPACE}/logs/error.log"
             fi
           else
             echo "• No changes to market data files. Skipping commit."
+          fi
+        shell: bash
+        
+      - name: Check and send error logs (final step)
+        if: always()
+        run: |
+          ERROR_LOG="${GITHUB_WORKSPACE}/logs/error.log"
+          echo "• Final check for error log at: ${ERROR_LOG}"
+          
+          if [ -f "${ERROR_LOG}" ]; then
+            # Check if the file has actual content beyond a possible clear message or just whitespace
+            # Count lines that are not empty and not a clear message
+            RELEVANT_LINES=$(grep -cvE '(^\s*$)|(^# Log cleared on)|(^# Log forcibly cleared on)' "${ERROR_LOG}" || true)
+            
+            if [ "${RELEVANT_LINES}" -gt 0 ]; then
+              echo "• Error log has relevant content (${RELEVANT_LINES} lines). Running alert_sender.py..."
+              cd "${GITHUB_WORKSPACE}" # Ensure script runs from project root
+              python src/alert_sender.py # This should truncate ERROR_LOG if successful
+              
+              # After alert_sender.py, verify it was truncated (empty)
+              if [ -s "${ERROR_LOG}" ]; then # -s checks if file has size > 0
+                echo "• WARNING: error.log was NOT truncated to zero by alert_sender.py. Forcing truncation." | tee -a "${ERROR_LOG}"
+                # Forcibly truncate the file by overwriting it with an empty string or a clear marker
+                echo "# Log forcibly cleared by workflow at $(date -u '+%Y-%m-%dT%H:%M:%SZ')" > "${ERROR_LOG}"
+              else
+                echo "• error.log successfully truncated to zero by alert_sender.py."
+              fi
+            else
+              echo "• Error log is empty or contains only clear messages. Skipping alert_sender.py."
+            fi
+          else
+            echo "• No error.log file found. Skipping alerts."
           fi
         shell: bash
 
