@@ -15,7 +15,8 @@ import re
 BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
 USER_ID = os.getenv('TELEGRAM_USER_ID')
 LOG_LEVELS = os.getenv('LOG_LEVELS', 'ERROR,CRITICAL') # Expecting e.g. "ERROR,WARNING,CRITICAL"
-LOG_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'logs'))
+# Use current working directory to find logs folder - works in any environment
+LOG_DIR = os.path.join(os.getcwd(), 'logs')
 ERROR_LOG_FILENAME = 'error.log'
 
 # Proxy configuration
@@ -30,6 +31,7 @@ PROXIES = {
 def find_latest_log_file():
     """Find the error log file path."""
     error_path = os.path.join(LOG_DIR, ERROR_LOG_FILENAME)
+    print(f"• Looking for log file at: {error_path}")
     return error_path if os.path.exists(error_path) else None
 
 def load_and_clean_lines(path, levels):
@@ -179,6 +181,7 @@ def send_telegram_alert(img_path, log_path):
 def clear_log_file(file_path):
     """Clear the contents of the log file."""
     try:
+        print(f"• Attempting to clear log file: {file_path}")
         with open(file_path, 'w') as f:
             f.write(f"# Log cleared on {datetime.now().isoformat()}\n")
         print(f'\033[32m• Log file cleared: {file_path}\033[0m')
