@@ -61,12 +61,23 @@ jobs:
         if: always()
         run: |
           # Check if error.log exists and has content
-          if [ -f "logs/error.log" ] && [ -s "logs/error.log" ]; then
+          ERROR_LOG="${GITHUB_WORKSPACE}/logs/error.log"
+          echo "• Checking for error log at: ${ERROR_LOG}"
+          
+          if [ -f "${ERROR_LOG}" ] && [ -s "${ERROR_LOG}" ]; then
             # Run error detection and alert sending
             echo "• Checking error log for issues..."
-            grep -E "(<<<<<<|>>>>>>|=====|CONFLICT|ERROR:|ERROR:)" logs/error.log || true
+            grep -E "(<<<<<<|>>>>>>|=====|CONFLICT|ERROR:|ERROR:)" "${ERROR_LOG}" || true
             # Send alerts via Telegram
+            cd "${GITHUB_WORKSPACE}"
             python src/alert_sender.py
+            
+            # Verify log was cleared and force clear if needed
+            if [ -s "${ERROR_LOG}" ]; then
+              echo "• Log file wasn't cleared by alert_sender.py, forcing clear..."
+              echo "# Log forcibly cleared on $(date -u '+%Y-%m-%dT%H:%M:%SZ')" > "${ERROR_LOG}"
+              echo "• Log file cleared by workflow"
+            fi
           else
             echo "• No error log found or file is empty. Skipping alert."
           fi
