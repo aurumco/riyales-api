@@ -56,58 +56,59 @@ jobs:
           # Execute main script (logging handled internally)
           python src/main.py
         shell: bash
+        
+      - name: Check and send error logs
+        if: always()
+        run: |
+          # Check if error.log exists and has content
+          if [ -f "logs/error.log" ] && [ -s "logs/error.log" ]; then
+            # Run error detection and alert sending
+            echo "• Checking error log for issues..."
+            grep -E "(<<<<<<|>>>>>>|=====|CONFLICT|ERROR:|ERROR:)" logs/error.log || true
+            # Send alerts via Telegram
+            python src/alert_sender.py
+          else
+            echo "• No error log found or file is empty. Skipping alert."
+          fi
+        shell: bash
 
       - name: Pull latest & Commit if any
         run: |
-          # Capture all commit/pull output to error.log
-          {
-            git config --global user.name "Market Data Bot"
-            git config --global user.email "market-data-bot@users.noreply.github.com"
-            # Try to pull and handle any errors
-            echo "• Pulling latest changes from origin/main"
-            if ! git pull --rebase --autostash origin main; then
-                echo "ERROR: Git pull failed with conflicts or errors"
-                git rebase --abort 2>/dev/null || true
-                git pull origin main || echo "ERROR: Fallback git pull also failed"
-            fi
-            
-            # Stage all changes
-            git add api/v1/market/ logs/
-            # Unstage any files larger than 100MB to avoid commit failures
-            find api/v1/market/ logs/ -type f -size +100M | while read file; do
-              echo "• Skipping large file from commit: $file"
-              git restore --staged "$file"
-            done
-            # Commit remaining staged changes if any
-            git diff --staged --quiet || (
-              MSG=$(python src/commit_message.py)
-              echo "• Committing changes with message: $MSG"
-              if ! git commit -m "$MSG" -m "Triggered by: ${{ github.event_name }}"; then
-                echo "ERROR: Git commit failed"
-              else
-                echo "• Pushing changes to origin/main"
-                if ! git push origin main; then
-                  echo "ERROR: Git push failed"
-                fi
-              fi
-            )
-          } 2>&1 | tee -a logs/error.log
-        shell: bash
-
-      - name: Send Telegram error log
-        if: always()
-        run: |
-          # Check if error.log contains merge conflicts or git errors
-          mkdir -p logs
-          if [ -f "logs/error.log" ]; then
-            grep -E "(<<<<<<|>>>>>>|=======|CONFLICT|ERROR:|ERROR:)" logs/error.log || true
-            # Explicitly add a marker if we found git conflicts
-            if grep -q -E "(<<<<<<|>>>>>>|=======|CONFLICT)" logs/error.log; then
-              echo "ERROR: Git merge conflicts detected, see above" >> logs/error.log
-            fi
+          # Setup git
+          git config --global user.name "Market Data Bot"
+          git config --global user.email "market-data-bot@users.noreply.github.com"
+          
+          # Try to pull latest changes safely
+          echo "• Pulling latest changes from origin/main"
+          if ! git pull --rebase --autostash origin main; then
+            echo "ERROR: Git pull failed with conflicts or errors" | tee -a logs/error.log
+            git rebase --abort 2>/dev/null || true
+            git pull origin main || echo "ERROR: Fallback git pull also failed" | tee -a logs/error.log
           fi
-          # Now run the alert sender
-          python src/alert_sender.py
+          
+          # Only commit market data changes, not log files
+          echo "• Checking for changes in market data files..."
+          git add api/v1/market/
+          
+          # Unstage any files larger than 100MB to avoid commit failures
+          find api/v1/market/ -type f -size +100M | while read file; do
+            echo "• Skipping large file from commit: $file"
+            git restore --staged "$file"
+          done
+          
+          # Commit only if there are actual changes to market data files
+          if ! git diff --staged --quiet; then
+            echo "• Changes detected in market data files. Committing..."
+            MSG=$(python src/commit_message.py)
+            git commit -m "$MSG" -m "Triggered by: ${{ github.event_name }}"
+            
+            echo "• Pushing changes to origin/main"
+            if ! git push origin main; then
+              echo "ERROR: Git push failed" | tee -a logs/error.log
+            fi
+          else
+            echo "• No changes to market data files. Skipping commit."
+          fi
         shell: bash
 
   cleanup:
