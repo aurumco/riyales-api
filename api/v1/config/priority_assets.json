@@ -1,0 +1,10 @@
+{
+  "currency": ["USD", "EUR", "AED", "TRY", "GBP", "CAD", "CHF", "AUD", "JPY", "CNY"],
+  "crypto": ["BTC", "ETH", "SOL", "BNB", "XRP", "DOGE", "ADA", "AVAX", "SHIB", "DOT", "TRX", "LINK", "MATIC"],
+  "gold": ["IR_GOLD_18K", "IR_SEKE_EMAMI", "IR_SEKE_BAHAR", "IR_SEKE_NIM", "IR_SEKE_ROB"],
+  "commodity": ["XAUUSD", "XAGUSD", "CrudeOil_Brent", "CrudeOil_WTI"],
+  "stock_tse_ifb_symbols": ["خودرو", "فملي", "فولاد", "شستا", "وبملت", "وتجارت", "خصدرا", "وپارس", "خساپا"],
+  "stock_debt_securities": [],
+  "stock_futures": [],
+  "stock_housing_facilities": []
+}
