@@ -1,0 +1,66 @@
+[
+  {
+    "id": "btc",
+    "name": "Bitcoin",
+    "name_fa": "بیت کوین",
+    "symbol": "BTC",
+    "icon_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+    "asset_type": "crypto"
+  },
+  {
+    "id": "usd",
+    "name": "US Dollar",
+    "name_fa": "دلار آمریکا",
+    "symbol": "USD",
+    "icon_url": null,
+    "asset_type": "currency"
+  },
+  {
+    "id": "gold",
+    "name": "Gold",
+    "name_fa": "طلا",
+    "symbol": "XAU",
+    "icon_url": null,
+    "asset_type": "gold"
+  },
+  {
+    "id": "eth",
+    "name": "Ethereum",
+    "name_fa": "اتریوم",
+    "symbol": "ETH",
+    "icon_url": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
+    "asset_type": "crypto"
+  },
+  {
+    "id": "eur",
+    "name": "Euro",
+    "name_fa": "یورو",
+    "symbol": "EUR",
+    "icon_url": null,
+    "asset_type": "currency"
+  },
+  {
+    "id": "sol",
+    "name": "Solana",
+    "name_fa": "سولانا",
+    "symbol": "SOL",
+    "icon_url": "https://cryptologos.cc/logos/solana-sol-logo.png",
+    "asset_type": "crypto"
+  },
+  {
+    "id": "gbp",
+    "name": "British Pound",
+    "name_fa": "پوند انگلیس",
+    "symbol": "GBP",
+    "icon_url": null,
+    "asset_type": "currency"
+  },
+  {
+    "id": "xag",
+    "name": "Silver",
+    "name_fa": "نقره",
+    "symbol": "XAG",
+    "icon_url": null,
+    "asset_type": "gold"
+  }
+] 
