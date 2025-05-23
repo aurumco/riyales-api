@@ -71,9 +71,10 @@ jobs:
             git pull origin main || echo "• ERROR: Fallback git pull also failed"
           fi
           
-          # Only commit market data changes, not log files
-          echo "• Checking for changes in market data files..."
+          # Commit market data changes and log files
+          echo "• Checking for changes in market data files and logs..."
           git add api/v1/market/
+          git add logs/
           
           # Unstage any files larger than 100MB to avoid commit failures
           find api/v1/market/ -type f -size +100M | while read file; do
@@ -96,7 +97,7 @@ jobs:
           fi
         shell: bash
 
-      - name: Check and send error logs (final step)
+      - name: Check and send error logs
         if: always()
         run: |
           ERROR_LOG="${GITHUB_WORKSPACE}/logs/error.log"
