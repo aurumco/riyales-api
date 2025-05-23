@@ -185,3 +185,7 @@ cython_debug/
 .mdc
 .cursor/
 .cursorignore
+
+# Local development files
+-*.log
+-/logs
