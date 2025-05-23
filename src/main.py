@@ -48,6 +48,41 @@ USER_AGENTS: List[str] = [
 
 BASE_HEADERS: Dict[str, str] = { "Accept": "application/json, text/plain, */*" }
 
+# Helper to simplify gold symbols
+def simplify_gold_symbols(data: Any, mapping: Any) -> Any:
+    """Replaces gold API symbols with simplified short codes."""
+    simplified = []
+    mapping_dict = {
+        'IR_GOLD_18K': '18K',
+        'IR_GOLD_24K': '24K',
+        'IR_GOLD_MELTED': 'MELTED',
+        'XAUUSD': 'XAUUSD',
+        'IR_COIN_1G': '1G',
+        'IR_COIN_QUARTER': 'QUARTER',
+        'IR_COIN_HALF': 'HALF',
+        'IR_COIN_EMAMI': 'EMAMI',
+        'IR_COIN_BAHAR': 'BAHAR'
+    }
+    items = data.get('gold', []) if data else []
+    for item in items:
+        sym = item.get('symbol')
+        item['symbol'] = mapping_dict.get(sym, sym)
+        simplified.append(item)
+    return {'gold': simplified}
+
+# Helper to convert digits in stock names to Persian digits
+def convert_stock_names_to_fa_digits(data: Any, mapping: Any) -> Any:
+    """Converts ASCII digits in stock name fields ('l18','l30','cs') to Persian digits."""
+    if not isinstance(data, list):
+        return data
+    digit_map = str.maketrans({'0':'۰','1':'۱','2':'۲','3':'۳','4':'۴','5':'۵','6':'۶','7':'۷','8':'۸','9':'۹'})
+    for item in data:
+        for key in ('l18','l30','cs'):
+            val = item.get(key)
+            if isinstance(val, str):
+                item[key] = val.translate(digit_map)
+    return data
+
 # --- API Endpoint Configuration ---
 # Defines the endpoints to fetch and how to process them.
 API_ENDPOINTS: Dict[str, Dict[str, Any]] = {
@@ -57,7 +92,7 @@ API_ENDPOINTS: Dict[str, Dict[str, Any]] = {
         "aggregation_levels": ["4h", "12h", "24h", "3d", "7d"],
         "price_json_path": "$.price", "symbol_json_path": "$.symbol",
         "array_base_paths": ["$.gold"],
-        "transform_function": lambda data, mapping: {"gold": data.get("gold", [])} if data else {"gold": []}
+        "transform_function": simplify_gold_symbols
     },
     "currency": {
         "relative_url": "/Api/Market/Gold_Currency.php?key={api_key}", "output_filename": "currency.json",
@@ -89,7 +124,7 @@ API_ENDPOINTS: Dict[str, Dict[str, Any]] = {
         "aggregation_levels": ["24h", "7d"],
         "price_json_path": "$.pc", "symbol_json_path": "$.l18",
         "array_base_paths": ["$"],
-        "transform_function": lambda data, mapping: data # No transformation needed
+        "transform_function": convert_stock_names_to_fa_digits
     },
      # Other endpoints remain the same, transformation can be added later if needed
      "tse_options": { "relative_url": "/Api/Tsetmc/Option.php?key={api_key}", "output_filename": "tse_options.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": False, "transform_function": lambda data, mapping: data },
@@ -97,9 +132,9 @@ API_ENDPOINTS: Dict[str, Dict[str, Any]] = {
      "tse_index": { "relative_url": "/Api/Tsetmc/Index.php?key={api_key}&type=1", "output_filename": "tse_index.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": False, "transform_function": lambda data, mapping: data },
      "ifb_index": { "relative_url": "/Api/Tsetmc/Index.php?key={api_key}&type=2", "output_filename": "ifb_index.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": False, "transform_function": lambda data, mapping: data },
      "selected_indices": { "relative_url": "/Api/Tsetmc/Index.php?key={api_key}&type=3", "output_filename": "selected_indices.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": False, "transform_function": lambda data, mapping: data },
-     "debt_securities": { "relative_url": "/Api/Tsetmc/AllSymbols.php?key={api_key}&type=4", "output_filename": "debt_securities.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": True, "aggregation_levels": ["4h","12h","24h","3d","7d"], "transform_function": lambda data, mapping: data },
-     "housing_facilities": { "relative_url": "/Api/Tsetmc/AllSymbols.php?key={api_key}&type=5", "output_filename": "housing_facilities.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": True, "aggregation_levels": ["4h","12h","24h","3d","7d"], "transform_function": lambda data, mapping: data },
-     "futures": { "relative_url": "/Api/Tsetmc/AllSymbols.php?key={api_key}&type=3", "output_filename": "futures.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": True, "aggregation_levels": ["4h","12h","24h","3d","7d"], "transform_function": lambda data, mapping: data },
+     "debt_securities": { "relative_url": "/Api/Tsetmc/AllSymbols.php?key={api_key}&type=4", "output_filename": "debt_securities.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": True, "aggregation_levels": ["4h","12h","24h","3d","7d"], "transform_function": convert_stock_names_to_fa_digits },
+     "housing_facilities": { "relative_url": "/Api/Tsetmc/AllSymbols.php?key={api_key}&type=5", "output_filename": "housing_facilities.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": True, "aggregation_levels": ["4h","12h","24h","3d","7d"], "transform_function": convert_stock_names_to_fa_digits },
+     "futures": { "relative_url": "/Api/Tsetmc/AllSymbols.php?key={api_key}&type=3", "output_filename": "futures.json", "fetch_interval_minutes": 20, "market_hours_apply": True, "enabled": True, "aggregation_levels": ["4h","12h","24h","3d","7d"], "transform_function": convert_stock_names_to_fa_digits },
 }
 
 # Market Hours (Tehran Stock Exchange - Adjust if necessary)
