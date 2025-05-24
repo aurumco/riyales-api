@@ -50,23 +50,23 @@ BASE_HEADERS: Dict[str, str] = { "Accept": "application/json, text/plain, */*" }
 
 # Helper to simplify gold symbols
 def simplify_gold_symbols(data: Any, mapping: Any) -> Any:
-    """Replaces gold API symbols with simplified short codes."""
+    """Replaces gold API symbols with simplified short codes and maps names."""
     simplified = []
-    mapping_dict = {
-        'IR_GOLD_18K': '18K',
-        'IR_GOLD_24K': '24K',
-        'IR_GOLD_MELTED': 'MELTED',
-        'XAUUSD': 'XAUUSD',
-        'IR_COIN_1G': '1G',
-        'IR_COIN_QUARTER': 'QUARTER',
-        'IR_COIN_HALF': 'HALF',
-        'IR_COIN_EMAMI': 'EMAMI',
-        'IR_COIN_BAHAR': 'BAHAR'
-    }
     items = data.get('gold', []) if data else []
     for item in items:
-        sym = item.get('symbol')
-        item['symbol'] = mapping_dict.get(sym, sym)
+        orig_sym = item.get('symbol')
+        new_sym = GOLD_SYMBOL_MAP.get(orig_sym, orig_sym)
+        item['symbol'] = new_sym
+        entry = MARKET_NAME_MAP.get('gold', {}).get(orig_sym)
+        if entry:
+            item['nameFa'] = entry.get('nameFa', item.get('name'))
+            item['nameEn'] = entry.get('nameEn')
+            # Ensure Persian name uses Persian digits
+            item['name'] = item['nameFa']
+        else:
+            # Fallback: use original name as Persian name
+            item['nameFa'] = item.get('name')
+            item['name'] = item['nameFa']
         simplified.append(item)
     return {'gold': simplified}
 
@@ -81,6 +81,30 @@ def convert_stock_names_to_fa_digits(data: Any, mapping: Any) -> Any:
             val = item.get(key)
             if isinstance(val, str):
                 item[key] = val.translate(digit_map)
+    return data
+
+# Helper to apply name mapping for commodity and gold
+def apply_market_name_mapping(data: Any, _: Any) -> Any:
+    """Adds 'nameFa' and 'nameEn' to market data items based on mapping JSON."""
+    if not isinstance(data, dict):
+        return data
+    for section, items in data.items():
+        if isinstance(items, list) and section in MARKET_NAME_MAP:
+            for item in items:
+                orig_sym = item.get('symbol')
+                if not orig_sym:
+                    continue
+                entry = MARKET_NAME_MAP.get(section, {}).get(orig_sym)
+                if entry:
+                    item['nameFa'] = entry.get('nameFa', item.get('name'))
+                    item['nameEn'] = entry.get('nameEn')
+                    # Overwrite name with Persian name including Persian digits
+                    item['name'] = item['nameFa']
+                else:
+                    if 'name' in item:
+                        # Move original name to nameFa and ensure name uses Persian string
+                        item['nameFa'] = item.pop('name')
+                        item['name'] = item['nameFa']
     return data
 
 # --- API Endpoint Configuration ---
@@ -116,7 +140,7 @@ API_ENDPOINTS: Dict[str, Dict[str, Any]] = {
         "aggregation_levels": ["4h", "12h", "24h", "3d", "7d"],
         "price_json_path": "$.price", "symbol_json_path": "$.symbol",
         "array_base_paths": ["$.metal_precious"],
-        "transform_function": lambda data, mapping: data # No transformation needed
+        "transform_function": apply_market_name_mapping
     },
     "tse_ifb_symbols": {
         "relative_url": "/Api/Tsetmc/AllSymbols.php?key={api_key}&type=1", "output_filename": "tse_ifb_symbols.json",
@@ -169,6 +193,13 @@ STOCK_DATA_FOLDER: str = os.path.join(DATA_FOLDER, STOCK_FOLDER_NAME)
 
 # Blacklist configuration
 BLACKLIST_FILE: str = os.path.join(DICTIONARY_FOLDER, "blacklist.json")
+# Additional mapping files
+GOLD_SYMBOL_SIMPLIFY_FILE: str = os.path.join(DICTIONARY_FOLDER, "gold_symbol_simplify.json")
+MARKET_NAME_MAPPING_FILE: str = os.path.join(DICTIONARY_FOLDER, "market_name_mapping.json")
+
+# Mappings to be loaded at runtime
+GOLD_SYMBOL_MAP: Dict[str, str] = {}
+MARKET_NAME_MAP: Dict[str, Dict[str, Dict[str, str]]] = {}
 
 def load_crypto_name_map(filepath: str) -> Dict[str, str]:
     """Loads the crypto name mapping from a JSON file."""
@@ -256,6 +287,19 @@ def filter_blacklist(data: Any, blacklist: List[str]) -> Any:
                 filtered[k] = v
         return filtered
     return data
+
+# Generic JSON mapping loader
+def load_json_map(filepath: str) -> Any:
+    """Loads a JSON mapping file and returns its content."""
+    try:
+        if os.path.exists(filepath):
+            with open(filepath, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        else:
+            logger.debug(f"• JSON map file not found: {filepath}")
+    except Exception as e:
+        logger.debug(f"• Error loading JSON map from {filepath}: {e}", exc_info=True)
+    return {}
 
 # --- Consolidated JSON Output ---
 def create_consolidated_json() -> bool:
@@ -550,6 +594,8 @@ async def fetch_api_data(
 # --- Main Execution ---
 async def main():
     """Main asynchronous function orchestrating the fetch and aggregation process."""
+    # Use global mapping variables for gold and commodity
+    global GOLD_SYMBOL_MAP, MARKET_NAME_MAP
     setup_logging()
 
     # Log a clear start banner
@@ -569,6 +615,9 @@ async def main():
     CRYPTO_NAME_MAP = load_crypto_name_map(CRYPTO_NAME_MAPPING_FILE)
     # Load blacklist entries early
     blacklist = load_blacklist(BLACKLIST_FILE)
+    # Load additional mappings early
+    GOLD_SYMBOL_MAP = load_json_map(GOLD_SYMBOL_SIMPLIFY_FILE)
+    MARKET_NAME_MAP = load_json_map(MARKET_NAME_MAPPING_FILE)
 
     # Get current time in UTC and local timezone
     now_utc = datetime.now(pytz.utc)
