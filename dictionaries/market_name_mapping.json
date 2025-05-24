@@ -1,0 +1,35 @@
+{
+  "gold": {
+    "IR_GOLD_18K": {"nameFa": "طلای ۱۸ عیار", "nameEn": "18K Gold"},
+    "IR_GOLD_24K": {"nameFa": "طلای ۲۴ عیار", "nameEn": "24K Gold"},
+    "IR_GOLD_MELTED": {"nameFa": "طلای آب‌شده نقدی", "nameEn": "Melted Gold"},
+    "XAUUSD": {"nameFa": "انس طلا", "nameEn": "Gold Ounce"},
+    "IR_COIN_1G": {"nameFa": "سکه یک گرمی", "nameEn": "1g Coin"},
+    "IR_COIN_QUARTER": {"nameFa": "ربع سکه", "nameEn": "Quarter Coin"},
+    "IR_COIN_HALF": {"nameFa": "نیم سکه", "nameEn": "Half Coin"},
+    "IR_COIN_EMAMI": {"nameFa": "سکه امامی", "nameEn": "Emami Coin"},
+    "IR_COIN_BAHAR": {"nameFa": "سکه بهار آزادی", "nameEn": "Bahar Azadi Coin"}
+  },
+  "metal_precious": {
+    "XAUUSD": {"nameFa": "انس طلا", "nameEn": "Gold Ounce"},
+    "XAGUSD": {"nameFa": "انس نقره", "nameEn": "Silver Ounce"},
+    "XPTUSD": {"nameFa": "انس پلاتین", "nameEn": "Platinum Ounce"},
+    "XPDUSD": {"nameFa": "انس پالادیوم", "nameEn": "Palladium Ounce"}
+  },
+  "metal_base": {
+    "Cu": {"nameFa": "مس", "nameEn": "Copper"},
+    "Al": {"nameFa": "آلومینیوم", "nameEn": "Aluminum"},
+    "Zn": {"nameFa": "روی", "nameEn": "Zinc"},
+    "Pb": {"nameFa": "سرب", "nameEn": "Lead"},
+    "Ni": {"nameFa": "نیکل", "nameEn": "Nickel"},
+    "Sn": {"nameFa": "قلع", "nameEn": "Tin"}
+  },
+  "energy": {
+    "BRENT": {"nameFa": "نفت برنت", "nameEn": "Brent Oil"},
+    "WTI": {"nameFa": "نفت سبک", "nameEn": "WTI Oil"},
+    "GAS": {"nameFa": "گاز طبیعی", "nameEn": "Natural Gas"},
+    "RBOB": {"nameFa": "بنزین", "nameEn": "Gasoline RBOB"},
+    "GASOIL": {"nameFa": "گازوئیل", "nameEn": "Gasoil"},
+    "OPEC": {"nameFa": "نفت اپک", "nameEn": "OPEC Oil"}
+  }
+} 
