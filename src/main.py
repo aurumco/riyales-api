@@ -403,6 +403,23 @@ def cleanup_log_entries(file_path: str, retention_hours: int) -> None:
     except Exception as e:
         logger.debug(f"• Error cleaning up log entries for {file_path}: {e}", exc_info=True)
 
+# --- Cleanup Git Conflict Markers ---
+def strip_git_conflict_markers(file_path: str) -> None:
+    """Removes Git conflict markers (<<<<<, =======, >>>>>) from the specified file."""
+    try:
+        if not os.path.exists(file_path):
+            return
+        lines_to_keep: List[str] = []
+        with open(file_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                if line.startswith('<<<<<<<') or line.startswith('=======') or line.startswith('>>>>>>>'):
+                    continue
+                lines_to_keep.append(line)
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.writelines(lines_to_keep)
+    except Exception as e:
+        logger.debug(f"• Error stripping conflict markers from {file_path}: {e}", exc_info=True)
+
 # --- Logging Setup ---
 def setup_logging() -> None:
     """Configures logging with daily rotation, console output, and custom cleanup."""
@@ -704,6 +721,8 @@ async def main():
                         json.dump(data, f, ensure_ascii=False,
                                   indent=4 if PRETTY_PRINT_JSON else None,
                                   separators=((',', ':') if not PRETTY_PRINT_JSON else None))
+                    # Remove any leftover Git conflict markers from generated JSON
+                    strip_git_conflict_markers(output_filename)
                     logger.debug(f"• Saved latest raw JSON: {os.path.basename(output_filename)}")
                 except IOError as e:
                     logger.debug(f"• Failed to write latest JSON file {os.path.basename(output_filename)}: {e}", exc_info=False)
