@@ -1,8 +1,8 @@
 {
   "currency": ["USD", "EUR", "AED", "TRY", "GBP", "CAD", "CHF", "AUD", "JPY", "CNY"],
-  "crypto": ["BTC", "ETH", "SOL", "BNB", "XRP", "DOGE", "ADA", "AVAX", "SHIB", "DOT", "TRX", "LINK", "MATIC"],
-  "gold": ["IR_GOLD_18K", "IR_SEKE_EMAMI", "IR_SEKE_BAHAR", "IR_SEKE_NIM", "IR_SEKE_ROB"],
-  "commodity": ["XAUUSD", "XAGUSD", "CrudeOil_Brent", "CrudeOil_WTI"],
+  "crypto": ["Bitcoin", "Ethereum", "Tether", "BNB", "Solana", "XRP", "USDC", "Dogecoin", "Cardano", "TRON", "Shiba Inu", "Avalanche", "Polkadot", "Chainlink", "Wrapped Bitcoin", "Bitcoin Cash", "Litecoin", "UNUS SED LEO", "Stellar", "Dai", "Pepe", "Toncoin", "Sui", "Hedera", "Internet Computer", "NEAR Protocol", "Kaspa", "Monero", "Filecoin", "Ethereum Classic"],
+  "gold": ["EMAMI", "BAHAR", "18K", "24K","HALF", "QUARTER"],
+  "commodity": ["XAUUSD", "XAGUSD", "XPTUSD", "XPDUSD", "BRENT", "OPEC", "WTI"],
   "stock_tse_ifb_symbols": ["خودرو", "فملي", "فولاد", "شستا", "وبملت", "وتجارت", "خصدرا", "وپارس", "خساپا"],
   "stock_debt_securities": [],
   "stock_futures": [],
