@@ -1,7 +1,7 @@
 {
     "show": true,
-    "color": "red",
-    "button_count": 2,
+    "color": "yellow",
+    "button_count": 1,
     "en": {
       "title": "Access with disruption",
       "description": "Due to the restrictions imposed on the Internet, access in some places is confined or even definitive.",
