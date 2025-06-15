@@ -1,0 +1,29 @@
+{
+  "assets": [
+    { "nameFa": "دلار", "symbol": "USD", "category": "currency", "symbol_key": "symbol" },
+    { "nameFa": "یورو", "symbol": "EUR", "category": "currency", "symbol_key": "symbol" },
+    { "nameFa": "تتر", "symbol": "Tether", "category": "cryptocurrency", "symbol_key": "name" },
+    { "nameFa": "بیتکوین", "symbol": "Bitcoin", "category": "cryptocurrency", "symbol_key": "name" },
+    { "nameFa": "اتریوم", "symbol": "Ethereum", "category": "cryptocurrency", "symbol_key": "name" },
+    { "nameFa": "ترون", "symbol": "TRON", "category": "cryptocurrency", "symbol_key": "name" },
+    { "nameFa": "دوج کوین", "symbol": "Dogecoin", "category": "cryptocurrency", "symbol_key": "name" },
+    { "nameFa": "لیر ترکیه", "symbol": "TRY", "category": "currency", "symbol_key": "symbol" },
+    { "nameFa": "روبل روسیه", "symbol": "RUB", "category": "currency", "symbol_key": "symbol" },
+    { "nameFa": "درهم امارات", "symbol": "AED", "category": "currency", "symbol_key": "symbol" },
+    { "nameFa": "یوان چین", "symbol": "CNY", "category": "currency", "symbol_key": "symbol" },
+    { "nameFa": "پوند انگلیس", "symbol": "GBP", "category": "currency", "symbol_key": "symbol" },
+    { "nameFa": "طلا سکه امامی", "symbol": "EMAMI", "category": "gold", "symbol_key": "symbol" },
+    { "nameFa": "طلا سکه بهار آزادی", "symbol": "BAHAR", "category": "gold", "symbol_key": "symbol" },
+    { "nameFa": "طلا یک گرم", "symbol": "1G", "category": "gold", "symbol_key": "symbol" },
+    { "nameFa": "طلا ۱۸ عیار", "symbol": "18K", "category": "gold", "symbol_key": "symbol" },
+    { "nameFa": "طلا ۲۴ عیار", "symbol": "24K", "category": "gold", "symbol_key": "symbol" },
+    { "nameFa": "بایننس کوین", "symbol": "Binance Coin", "category": "cryptocurrency", "symbol_key": "name" },
+    { "nameFa": "دلار کانادا", "symbol": "CAD", "category": "currency", "symbol_key": "symbol" },
+    { "nameFa": "دینار کویت", "symbol": "KWD", "category": "currency", "symbol_key": "symbol" },
+    { "nameFa": "ریال عربستان", "symbol": "SAR", "category": "currency", "symbol_key": "symbol" },
+    { "nameFa": "دینار عراق", "symbol": "IQD", "category": "currency", "symbol_key": "symbol" },
+    { "nameFa": "دینار بحرین", "symbol": "BHD", "category": "currency", "symbol_key": "symbol" },
+    { "nameFa": "بات تایلند", "symbol": "THB", "category": "currency", "symbol_key": "symbol" },
+    { "nameFa": "ریال عمان", "symbol": "OMR", "category": "currency", "symbol_key": "symbol" }
+  ]
+} 

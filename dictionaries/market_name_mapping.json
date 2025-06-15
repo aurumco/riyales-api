@@ -2,7 +2,7 @@
   "gold": {
     "IR_GOLD_18K": {"nameFa": "طلای ۱۸ عیار", "nameEn": "18K Gold"},
     "IR_GOLD_24K": {"nameFa": "طلای ۲۴ عیار", "nameEn": "24K Gold"},
-    "IR_GOLD_MELTED": {"nameFa": "طلای آب‌شده نقدی", "nameEn": "Melted Gold"},
+    "IR_GOLD_MELTED": {"nameFa": "طلای آب‌شده", "nameEn": "Melted Gold"},
     "XAUUSD": {"nameFa": "انس طلا", "nameEn": "Gold Ounce"},
     "IR_COIN_1G": {"nameFa": "سکه یک گرمی", "nameEn": "1g Coin"},
     "IR_COIN_QUARTER": {"nameFa": "ربع سکه", "nameEn": "Quarter Coin"},
