@@ -1,6 +1,6 @@
 {
     "show": true,
-    "color": "blue",
+    "color": "red",
     "button_count": 2,
     "en": {
       "title": "Access with disruption",
@@ -23,7 +23,7 @@
       },
       "button_2": {
         "text": "جزئیات",
-        "action": "open_tab:gold"
+        "action": "open_url:https://google.com/"
       }
     }
   }
