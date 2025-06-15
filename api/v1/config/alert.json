@@ -1,7 +1,7 @@
 {
     "show": true,
-    "color": "yellow",
-    "button_count": 1,
+    "color": "red",
+    "button_count": 2,
     "en": {
       "title": "Access with disruption",
       "description": "Due to the restrictions imposed on the Internet, access in some places is confined or even definitive.",
@@ -16,7 +16,7 @@
     },
     "fa": {
       "title": "دسترسی با اختلال",
-      "description": "به دلیل محدودیت‌های اعمال شده بر روی اینترنت دسترسی در برخی نقاط با محدودیت و یا حتی قطعی مواجه است.",
+      "description": "به دلیل برخی محدودیت‌های اعمال شده بر روی اینترنت دسترسی در برخی نقاط با محدودیت و یا حتی قطعی مواجه است.",
       "button_1": {
         "text": "بستن",
         "action": "close_alert"
