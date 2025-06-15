@@ -1599,3 +1599,182 @@ in the serve...
 2025-06-15 09:54:32|DEBUG|MarketDataSync|• Reading commodity.json for consolidation...
 2025-06-15 09:54:32|DEBUG|MarketDataSync|• [32m✓ Consolidated JSON successfully created at: api/v1/market/all_market_data.json (4 files combined)[0m
 2025-06-15 09:54:32|INFO|MarketDataSync|[32m• Market Data Sync END [0m|[90m Duration: 1.83s[0m
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Logging initialized. Console level: INFO. General logs: 'logs/app.log'. Error logs: 'logs/error.log'.
+2025-06-15 10:16:25|INFO|MarketDataSync|[32m• Market Data Sync START [0m
+2025-06-15 10:16:25|DEBUG|MarketDataSync|[32m• Starting Market Data Sync Cycle [0m
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Successfully loaded 3316 crypto name mappings from dictionaries/crypto_names_fa.json
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Loaded 2 blacklist entries from dictionaries/blacklist.json
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Cycle time: UTC=2025-06-15T06:46:25.902520+00:00, Local=2025-06-15T10:16:25.902520+03:30
+2025-06-15 10:16:25|INFO|MarketDataSync|• Checking API Fetch Tasks 
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Checking fetch task: 'gold'
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Scheduling fetch for: 'gold'
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Checking fetch task: 'currency'
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Scheduling fetch for: 'currency'
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Checking fetch task: 'crypto'
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Scheduling fetch for: 'crypto'
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Checking fetch task: 'commodity'
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Scheduling fetch for: 'commodity'
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Checking fetch task: 'tse_ifb_symbols'
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Market Check: LocalTime=10:16:25 +0330, Weekday=6, CurrentTime=10:16:25.903017, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Market Status: OPEN (Within Market Hours Check)
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Scheduling fetch for: 'tse_ifb_symbols'
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Checking fetch task: 'tse_options'
+2025-06-15 10:16:25|DEBUG|MarketDataSync|•  // Skip 'tse_options': Disabled in config.
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Checking fetch task: 'tse_nav'
+2025-06-15 10:16:25|DEBUG|MarketDataSync|•  // Skip 'tse_nav': Disabled in config.
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Checking fetch task: 'tse_index'
+2025-06-15 10:16:25|DEBUG|MarketDataSync|•  // Skip 'tse_index': Disabled in config.
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Checking fetch task: 'ifb_index'
+2025-06-15 10:16:25|DEBUG|MarketDataSync|•  // Skip 'ifb_index': Disabled in config.
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Checking fetch task: 'selected_indices'
+2025-06-15 10:16:25|DEBUG|MarketDataSync|•  // Skip 'selected_indices': Disabled in config.
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Checking fetch task: 'debt_securities'
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Market Check: LocalTime=10:16:25 +0330, Weekday=6, CurrentTime=10:16:25.903388, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Market Status: OPEN (Within Market Hours Check)
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Scheduling fetch for: 'debt_securities'
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Checking fetch task: 'housing_facilities'
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Market Check: LocalTime=10:16:25 +0330, Weekday=6, CurrentTime=10:16:25.903509, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Market Status: OPEN (Within Market Hours Check)
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Scheduling fetch for: 'housing_facilities'
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Checking fetch task: 'futures'
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Market Check: LocalTime=10:16:25 +0330, Weekday=6, CurrentTime=10:16:25.903625, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Market Status: OPEN (Within Market Hours Check)
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Scheduling fetch for: 'futures'
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Attempting to fetch data for 8 endpoints...
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Requesting: gold
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Requesting: currency
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Requesting: crypto
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Requesting: commodity
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Requesting: tse_ifb_symbols
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Requesting: debt_securities
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Requesting: housing_facilities
+2025-06-15 10:16:25|DEBUG|MarketDataSync|• Requesting: futures
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Response: tse_ifb_symbols Status=500 in 1.81s
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Error: tse_ifb_symbols request failed. Status=500
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Response snippet for tse_ifb_symbols: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>500 Internal Server Error</title>
+</head><body>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error or
+misconfiguration and was unable to complete
+your request.</p>
+<p>Please contact the server administrator at 
+ webmaster@brsapi.ir to inform them of the time this error occurred,
+ and the actions you performed just before this error.</p>
+<p>More information about this error may be available
+in the serve...
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Response: commodity Status=500 in 1.82s
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Error: commodity request failed. Status=500
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Response snippet for commodity: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>500 Internal Server Error</title>
+</head><body>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error or
+misconfiguration and was unable to complete
+your request.</p>
+<p>Please contact the server administrator at 
+ webmaster@brsapi.ir to inform them of the time this error occurred,
+ and the actions you performed just before this error.</p>
+<p>More information about this error may be available
+in the serve...
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Response: crypto Status=500 in 1.82s
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Error: crypto request failed. Status=500
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Response snippet for crypto: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>500 Internal Server Error</title>
+</head><body>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error or
+misconfiguration and was unable to complete
+your request.</p>
+<p>Please contact the server administrator at 
+ webmaster@brsapi.ir to inform them of the time this error occurred,
+ and the actions you performed just before this error.</p>
+<p>More information about this error may be available
+in the serve...
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Response: currency Status=500 in 1.82s
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Error: currency request failed. Status=500
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Response snippet for currency: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>500 Internal Server Error</title>
+</head><body>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error or
+misconfiguration and was unable to complete
+your request.</p>
+<p>Please contact the server administrator at 
+ webmaster@brsapi.ir to inform them of the time this error occurred,
+ and the actions you performed just before this error.</p>
+<p>More information about this error may be available
+in the serve...
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Response: housing_facilities Status=500 in 1.83s
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Error: housing_facilities request failed. Status=500
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Response snippet for housing_facilities: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>500 Internal Server Error</title>
+</head><body>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error or
+misconfiguration and was unable to complete
+your request.</p>
+<p>Please contact the server administrator at 
+ webmaster@brsapi.ir to inform them of the time this error occurred,
+ and the actions you performed just before this error.</p>
+<p>More information about this error may be available
+in the serve...
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Response: debt_securities Status=500 in 1.83s
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Error: debt_securities request failed. Status=500
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Response snippet for debt_securities: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>500 Internal Server Error</title>
+</head><body>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error or
+misconfiguration and was unable to complete
+your request.</p>
+<p>Please contact the server administrator at 
+ webmaster@brsapi.ir to inform them of the time this error occurred,
+ and the actions you performed just before this error.</p>
+<p>More information about this error may be available
+in the serve...
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Response: futures Status=500 in 1.83s
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Error: futures request failed. Status=500
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Response snippet for futures: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>500 Internal Server Error</title>
+</head><body>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error or
+misconfiguration and was unable to complete
+your request.</p>
+<p>Please contact the server administrator at 
+ webmaster@brsapi.ir to inform them of the time this error occurred,
+ and the actions you performed just before this error.</p>
+<p>More information about this error may be available
+in the serve...
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Response: gold Status=500 in 1.85s
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Error: gold request failed. Status=500
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Response snippet for gold: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>500 Internal Server Error</title>
+</head><body>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error or
+misconfiguration and was unable to complete
+your request.</p>
+<p>Please contact the server administrator at 
+ webmaster@brsapi.ir to inform them of the time this error occurred,
+ and the actions you performed just before this error.</p>
+<p>More information about this error may be available
+in the serve...
+2025-06-15 10:16:27|INFO|MarketDataSync|• Processing Fetch Results 
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Fetch Results Summary:  Processed=8,  Errors=8
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• [34m• Creating Consolidated JSON Output[0m
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Reading gold.json for consolidation...
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Reading cryptocurrency.json for consolidation...
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Reading currency.json for consolidation...
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• Reading commodity.json for consolidation...
+2025-06-15 10:16:27|DEBUG|MarketDataSync|• [32m✓ Consolidated JSON successfully created at: api/v1/market/all_market_data.json (4 files combined)[0m
+2025-06-15 10:16:27|INFO|MarketDataSync|[32m• Market Data Sync END [0m|[90m Duration: 1.90s[0m
