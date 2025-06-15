@@ -1,0 +1,30 @@
+{
+    "show": true,
+    "color": "green",
+    "button_count": 2,
+    "en": {
+      "title": "Success ✅",
+      "description": "Your action was completed successfully.",
+      "button_1": {
+        "text": "Close",
+        "action": "close_alert"
+      },
+      "button_2": {
+        "text": "View Details", 
+        "action": "open_details"
+      }
+    },
+    "fa": {
+      "title": "عملیات موفقیت‌آمیز بود ✅",
+      "description": "درخواست شما با موفقیت انجام شد.",
+      "button_1": {
+        "text": "بستن",
+        "action": "close_alert"
+      },
+      "button_2": {
+        "text": "نمایش جزئیات",
+        "action": "open_details"
+      }
+    }
+  }
+  
