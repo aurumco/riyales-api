@@ -1,29 +1,29 @@
 {
     "show": true,
-    "color": "green",
-    "button_count": 2,
+    "color": "yellow",
+    "button_count": 1,
     "en": {
-      "title": "Success ✅",
-      "description": "Your action was completed successfully.",
+      "title": "Access with disruption",
+      "description": "Due to the restrictions imposed on the Internet, access in some places is confined or even definitive.",
       "button_1": {
         "text": "Close",
         "action": "close_alert"
       },
       "button_2": {
-        "text": "View Details", 
-        "action": "open_details"
+        "text": "Details", 
+        "action": "open_terms"
       }
     },
     "fa": {
-      "title": "عملیات موفقیت‌آمیز بود ✅",
-      "description": "درخواست شما با موفقیت انجام شد.",
+      "title": "دسترسی با اختلال",
+      "description": "به دلیل محدودیت‌های اعمال شده بر روی اینترنت دسترسی در برخی نقاط با محدودیت و یا حتی قطعی مواجه است.",
       "button_1": {
         "text": "بستن",
         "action": "close_alert"
       },
       "button_2": {
-        "text": "نمایش جزئیات",
-        "action": "open_details"
+        "text": "جزئیات",
+        "action": "open_settings"
       }
     }
   }
