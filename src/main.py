@@ -27,8 +27,10 @@ LOG_FOLDER: str = "logs"                  # Directory for log files
 DATA_FOLDER: str = "api/v1/market"        # Standardized directory for output JSON and DB
 AGGREGATE_JSON_FOLDER: str = os.path.join(DATA_FOLDER, "aggregates") # Subfolder for aggregate JSONs
 ALL_MARKET_DATA_FILENAME: str = os.path.join(DATA_FOLDER, "all_market_data.json") # Filename for the consolidated JSON output in the new data folder
+ALL_MARKET_DATA_LITE_FILENAME: str = os.path.join(DATA_FOLDER, "lite.json") # Filename for the lite consolidated JSON
 DICTIONARY_FOLDER: str = "dictionaries"   # Directory for mapping files
 CRYPTO_NAME_MAPPING_FILE: str = os.path.join(DICTIONARY_FOLDER, "crypto_names_fa.json")
+LITE_ASSETS_FILE: str = os.path.join(DICTIONARY_FOLDER, "lite_assets.json") # File with assets for the lite version
 REQUEST_TIMEOUT_SECONDS: int = 15         # Timeout for individual API requests
 PRETTY_PRINT_JSON: bool = False           # Save JSON compact (False) or pretty-printed (True) for latest data files
 MAX_CONCURRENT_REQUESTS: int = 10         # Max simultaneous API requests
@@ -355,6 +357,93 @@ def create_consolidated_json() -> bool:
 
     except Exception as e:
         logger.debug(f"• Failed to create consolidated JSON file: {e}", exc_info=True)
+        return False
+
+# --- Lite JSON Output ---
+def create_lite_json() -> bool:
+    """Creates a filtered 'lite' version of the consolidated JSON."""
+    logger.debug(f"• {COLOR_BLUE}• Creating Lite JSON Output{COLOR_RESET}")
+
+    # 1. Load the list of assets for the lite version
+    try:
+        with open(LITE_ASSETS_FILE, 'r', encoding='utf-8') as f:
+            lite_assets_config = json.load(f).get("assets", [])
+    except (IOError, json.JSONDecodeError) as e:
+        logger.debug(f"• Error loading lite assets definition from {LITE_ASSETS_FILE}: {e}", exc_info=True)
+        return False
+
+    if not lite_assets_config:
+        logger.warning("• Lite assets definition is empty. Skipping lite JSON creation.")
+        return True
+
+    # 2. Load the main consolidated data
+    try:
+        with open(ALL_MARKET_DATA_FILENAME, 'r', encoding='utf-8') as f:
+            consolidated_data = json.load(f)
+    except (IOError, json.JSONDecodeError) as e:
+        logger.debug(f"• Error loading consolidated data from {ALL_MARKET_DATA_FILENAME}: {e}", exc_info=True)
+        return False
+
+    lite_data: Dict[str, Any] = {}
+    assets_found = 0
+
+    # 3. Filter the data
+    for asset_info in lite_assets_config:
+        symbol = asset_info.get("symbol")
+        category = asset_info.get("category")
+        symbol_key = asset_info.get("symbol_key")
+
+        if not all([symbol, category, symbol_key]):
+            logger.debug(f"• Skipping invalid entry in lite_assets.json: {asset_info}")
+            continue
+
+        # Get the data for the specific category from the consolidated file
+        category_data = consolidated_data.get(category)
+        if not category_data:
+            logger.debug(f"• Category '{category}' not found in consolidated data. Skipping.")
+            continue
+
+        # Determine the list of items to search within.
+        # It could be a list directly, or nested inside a dict (e.g., {"gold": [...]})
+        items_to_search = []
+        if isinstance(category_data, list):
+            # Handles cases like cryptocurrency.json which is a list at the top level
+            items_to_search = category_data
+        elif isinstance(category_data, dict):
+            # Handles cases like gold.json and currency.json which have a nested list
+            # e.g., data['gold'] = {'gold': [...]}
+            # We look for a list inside this dictionary's values.
+            for value in category_data.values():
+                if isinstance(value, list):
+                    items_to_search.extend(value)
+
+        # Find the matching asset in the list
+        for item in items_to_search:
+            if isinstance(item, dict) and item.get(symbol_key) == symbol:
+                # Initialize the category in lite_data if not present
+                if category not in lite_data:
+                    lite_data[category] = []
+                lite_data[category].append(item)
+                assets_found += 1
+                logger.debug(f"• Found and added asset: {category}/{symbol}")
+                break  # Move to the next asset in the config once found
+    
+    if assets_found != len(lite_assets_config):
+        logger.warning(f"• Mismatch in assets: Found {assets_found} out of {len(lite_assets_config)} defined in lite config.")
+
+    # 4. Write the lite JSON file
+    try:
+        with open(ALL_MARKET_DATA_LITE_FILENAME, 'w', encoding='utf-8') as f:
+            # We want the output to be a single object with keys for each category
+            # e.g. { "currency": [...], "gold": [...] }
+            # The current lite_data structure is already correct.
+            json.dump(lite_data, f, ensure_ascii=False,
+                      indent=4 if PRETTY_PRINT_JSON else None,
+                      separators=(',', ':') if not PRETTY_PRINT_JSON else None)
+        logger.debug(f"• {COLOR_GREEN}✓ Lite JSON successfully created at: {ALL_MARKET_DATA_LITE_FILENAME} ({assets_found} assets included){COLOR_RESET}")
+        return True
+    except IOError as e:
+        logger.debug(f"• Failed to write lite JSON file: {e}", exc_info=True)
         return False
 
 # --- Utility ---
@@ -792,7 +881,9 @@ async def main():
     # Runs after fetches are processed, regardless of fetch errors, but only if fetches were attempted
     if apis_to_fetch_this_run:
         if successful_raw_inserts > 0 or fetch_errors == 0: # Only run if something was likely updated or no errors occurred
-            create_consolidated_json()
+            if create_consolidated_json():
+                # --- 1.6 Create Lite JSON --- #
+                create_lite_json()
         else:
             logger.info("Skipping consolidated JSON creation due to fetch errors and no successful DB inserts.")
     else:
