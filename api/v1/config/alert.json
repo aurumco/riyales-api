@@ -1,7 +1,7 @@
 {
     "show": true,
     "color": "yellow",
-    "button_count": 1,
+    "button_count": 0,
     "en": {
       "title": "Access with disruption",
       "description": "Due to the restrictions imposed on the Internet, access in some places is confined or even definitive.",
@@ -23,7 +23,7 @@
       },
       "button_2": {
         "text": "جزئیات",
-        "action": "open_url:https://google.com/"
+        "action": "open_url:https://ryls.ir/"
       }
     }
   }
