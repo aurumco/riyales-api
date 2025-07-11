@@ -2,44 +2,44 @@
     "metal_precious": [
         {
             "date": "1404/04/21",
-            "time": "01:24",
+            "time": "01:44",
             "symbol": "XAUUSD",
             "name": "انس طلا",
-            "price": 3356.65,
-            "change_percent": 0.01,
+            "price": 3355.86,
+            "change_percent": -0.01,
             "unit": "دلار",
             "nameFa": "انس طلا",
             "nameEn": "Gold Ounce"
         },
         {
             "date": "1404/04/21",
-            "time": "01:24",
+            "time": "01:44",
             "symbol": "XAGUSD",
             "name": "انس نقره",
-            "price": 38.46,
-            "change_percent": 0.03,
+            "price": 38.43,
+            "change_percent": -0.06,
             "unit": "دلار",
             "nameFa": "انس نقره",
             "nameEn": "Silver Ounce"
         },
         {
             "date": "1404/04/21",
-            "time": "01:24",
+            "time": "01:44",
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
-            "price": 1468.35,
-            "change_percent": -0.32,
+            "price": 1472.1,
+            "change_percent": -0.07,
             "unit": "دلار",
             "nameFa": "انس پلاتین",
             "nameEn": "Platinum Ounce"
         },
         {
             "date": "1404/04/21",
-            "time": "01:24",
+            "time": "01:44",
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
-            "price": 1286,
-            "change_percent": 0.04,
+            "price": 1288.5,
+            "change_percent": 0.23,
             "unit": "دلار",
             "nameFa": "انس پالادیوم",
             "nameEn": "Palladium Ounce"
@@ -48,51 +48,51 @@
     "metal_base": [
         {
             "date": "1404/04/21",
-            "time": "01:24",
+            "time": "01:44",
             "symbol": "Cu",
             "name": "مس",
             "price": 9669,
-            "change_percent": -0.33,
+            "change_percent": 0,
             "unit": "دلار",
             "nameFa": "مس",
             "nameEn": "Copper"
         },
         {
             "date": "1404/04/21",
-            "time": "01:24",
+            "time": "01:44",
             "symbol": "Al",
             "name": "آلومینیوم",
             "price": 2603.7,
-            "change_percent": -0.21,
+            "change_percent": 0,
             "unit": "دلار",
             "nameFa": "آلومینیوم",
             "nameEn": "Aluminum"
         },
         {
             "date": "1404/04/21",
-            "time": "01:24",
+            "time": "01:44",
             "symbol": "Zn",
             "name": "روی",
             "price": 2737.5,
-            "change_percent": -1.62,
+            "change_percent": 0,
             "unit": "دلار",
             "nameFa": "روی",
             "nameEn": "Zinc"
         },
         {
             "date": "1404/04/21",
-            "time": "01:24",
+            "time": "01:44",
             "symbol": "Pb",
             "name": "سرب",
             "price": 2028.48,
-            "change_percent": -0.69,
+            "change_percent": 0,
             "unit": "دلار",
             "nameFa": "سرب",
             "nameEn": "Lead"
         },
         {
             "date": "1404/04/21",
-            "time": "01:24",
+            "time": "01:44",
             "symbol": "Sn",
             "name": "قلع",
             "price": 33585.21,
@@ -103,11 +103,11 @@
         },
         {
             "date": "1404/04/21",
-            "time": "01:24",
+            "time": "01:44",
             "symbol": "Ni",
             "name": "نیکل",
             "price": 15139.88,
-            "change_percent": -0.84,
+            "change_percent": 0,
             "unit": "دلار",
             "nameFa": "نیکل",
             "nameEn": "Nickel"
@@ -116,7 +116,7 @@
     "energy": [
         {
             "date": "1404/04/21",
-            "time": "01:24",
+            "time": "01:44",
             "symbol": "BRENT",
             "name": "نفت برنت",
             "price": 70.63,
@@ -127,7 +127,7 @@
         },
         {
             "date": "1404/04/21",
-            "time": "01:24",
+            "time": "01:44",
             "symbol": "OPEC",
             "name": "نفت اپک",
             "price": 71.23,
@@ -138,7 +138,7 @@
         },
         {
             "date": "1404/04/21",
-            "time": "01:24",
+            "time": "01:44",
             "symbol": "WTI",
             "name": "نفت سبک",
             "price": 68.71,
@@ -149,7 +149,7 @@
         },
         {
             "date": "1404/04/21",
-            "time": "01:24",
+            "time": "01:44",
             "symbol": "GAS",
             "name": "گاز طبیعی",
             "price": 3.36,
@@ -160,7 +160,7 @@
         },
         {
             "date": "1404/04/21",
-            "time": "01:24",
+            "time": "01:44",
             "symbol": "RBOB",
             "name": "بنزین",
             "price": 2.1925,
@@ -171,7 +171,7 @@
         },
         {
             "date": "1404/04/21",
-            "time": "01:24",
+            "time": "01:44",
             "symbol": "GASOIL",
             "name": "گازوئیل",
             "price": 703,
