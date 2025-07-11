@@ -1,74 +1,21 @@
 {
   "app_name": "Riyales",
-  "remote_config_url": "https://raw.githubusercontent.com/aurumco/riyales-api/refs/heads/main/api/v1/config/app_config.json",
+  "remote_config_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v1/config/app_config.json",
   "api_endpoints": {
-    "currency_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v1/market/currency.json",
-    "gold_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v1/market/gold.json",
-    "commodity_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v1/market/commodity.json",
-    "crypto_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v1/market/cryptocurrency.json",
-    "stock_debt_securities_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v1/market/stock/debt_securities.json",
-    "stock_futures_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v1/market/stock/futures.json",
-    "stock_housing_facilities_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v1/market/stock/housing_facilities.json",
-    "stock_tse_ifb_symbols_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v1/market/stock/tse_ifb_symbols.json",
-    "priority_assets_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v1/config/priority_assets.json"
+    "currency_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v2/market/currency.pb",
+    "gold_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v2/market/gold.pb",
+    "commodity_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v2/market/commodity.pb",
+    "crypto_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v2/market/cryptocurrency.pb",
+    "stock_debt_securities_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v2/market/stock/debt_securities.pb",
+    "stock_futures_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v2/market/stock/futures.pb",
+    "stock_housing_facilities_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v2/market/stock/housing_facilities.pb",
+    "stock_tse_ifb_symbols_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v2/market/stock/tse_ifb_symbols.pb",
+    "priority_assets_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/priority_assets.json"
   },
-  "priceUpdateIntervalMinutes": 5,
-  "update_interval_ms": 30000,
-  "supported_locales": ["en", "fa"],
-  "default_locale": "en",
-  "theme_options": {
-    "default_theme": "light",
-    "light": {
-      "brightness": "light",
-      "primaryColor": "#FFFFFF",
-      "backgroundColor": "#F2F2F7",
-      "scaffoldBackgroundColor": "#F2F2F7",
-      "appBarColor": "#F2F2F7",
-      "cardColor": "#FFFFFF",
-      "textColor": "#000000",
-      "secondaryTextColor": "#8E8E93",
-      "accentColorGreen": "#00C851",
-      "accentColorRed": "#FF4444",
-      "cardBorderRadius": 21.0,
-      "shadowColor": "#000000",
-      "cardCornerSmoothness": 0.90
-    },
-    "dark": {
-      "brightness": "dark",
-      "primaryColor": "#1C1C1E",
-      "backgroundColor": "#1C1C1E",
-      "scaffoldBackgroundColor": "#1C1C1E",
-      "appBarColor": "#1C1C1E",
-      "cardColor": "#2C2C2E",
-      "textColor": "#E5E5EA",
-      "secondaryTextColor": "#8E8E93",
-      "accentColorGreen": "#00E676",
-      "accentColorRed": "#FF5252",
-      "cardBorderRadius": 21.0,
-      "shadowColor": "#000000",
-      "backgroundGradientColors": ["#1C1C1E", "#2C2C2E"],
-      "cardCornerSmoothness": 0.90
-    }
-  },
-  "fonts": {
-    "persianFontFamily": "Vazirmatn",
-    "englishFontFamily": "SF-Pro"
-  },
-  "splashScreen": {
-      "durationSeconds": 1.5,
-      "iconPath": "assets/images/splash-screen-light.svg",
-      "loadingIndicatorColor": "#FBC02D"
-  },
-  "itemsPerLazyLoad": 20,
-  "initialItemsToLoad": 20,
-  "cryptoIconFilter": {
-    "brightness": 0.0,
-    "contrast": 0.0,
-    "saturation": -0.2
-  },
-  "feature_flags": {
-    "enable_chat": false,
-    "enable_notifications": true
-  },
-  "app_version": "0.140.0"
+  "app_version": "0.142.1",
+  "update_info": {
+    "update_mode": "package",
+    "update_package": "ir.riyales",
+    "update_link": "https://riyales.ir"
+  }
 }
