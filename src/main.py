@@ -32,7 +32,7 @@ DICTIONARY_FOLDER: str = "dictionaries"   # Directory for mapping files
 CRYPTO_NAME_MAPPING_FILE: str = os.path.join(DICTIONARY_FOLDER, "crypto_names_fa.json")
 LITE_ASSETS_FILE: str = os.path.join(DICTIONARY_FOLDER, "lite_assets.json") # File with assets for the lite version
 REQUEST_TIMEOUT_SECONDS: int = 15         # Timeout for individual API requests
-PRETTY_PRINT_JSON: bool = False           # Save JSON compact (False) or pretty-printed (True) for latest data files
+PRETTY_PRINT_JSON: bool = True           # Save JSON compact (False) or pretty-printed (True) for latest data files
 MAX_CONCURRENT_REQUESTS: int = 10         # Max simultaneous API requests
 TIMEZONE: str = "Asia/Tehran"             # Default timezone for operations like market hours
 DEFAULT_TIMEZONE = pytz.timezone(TIMEZONE)# Cached timezone object for performance
@@ -884,6 +884,13 @@ async def main():
             if create_consolidated_json():
                 # --- 1.6 Create Lite JSON --- #
                 create_lite_json()
+                # --- 1.7 Create Protobuf outputs (v2) --- #
+                try:
+                    from protobuf_generator import generate_all_protobuf_files
+                    await generate_all_protobuf_files()
+                    logger.debug("• ✓ Protobuf files generated in api/v2/market")
+                except Exception as pb_err:
+                    logger.debug(f"• Error generating protobuf files: {pb_err}", exc_info=True)
         else:
             logger.info("Skipping consolidated JSON creation due to fetch errors and no successful DB inserts.")
     else:

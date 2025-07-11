@@ -4,3 +4,6 @@ jdatetime>=5.2.0    # Jalali date handling (reserved for future localization fea
 requests>=2.32.0    # Synchronous HTTP client (utility tasks and external integrations)
 pygments>=2.19.1    # Syntax highlighting (used for code snippets in logs)
 pillow>=11.2.1      # Image processing (utility for potential charts or image exports)
+# Protocol Buffers for binary output and code generation
+protobuf>=4.25.3
+grpcio-tools>=1.64.0
