@@ -2,7 +2,11 @@
     "metal_precious": [
         {
             "date": "1404/04/21",
+<<<<<<< Updated upstream
             "time": "00:38",
+=======
+            "time": "00:39",
+>>>>>>> Stashed changes
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 3355.5,
@@ -13,7 +17,11 @@
         },
         {
             "date": "1404/04/21",
+<<<<<<< Updated upstream
             "time": "00:38",
+=======
+            "time": "00:39",
+>>>>>>> Stashed changes
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 38.43,
@@ -24,7 +32,11 @@
         },
         {
             "date": "1404/04/21",
+<<<<<<< Updated upstream
             "time": "00:38",
+=======
+            "time": "00:39",
+>>>>>>> Stashed changes
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
             "price": 1473.05,
@@ -35,7 +47,11 @@
         },
         {
             "date": "1404/04/21",
+<<<<<<< Updated upstream
             "time": "00:38",
+=======
+            "time": "00:39",
+>>>>>>> Stashed changes
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
             "price": 1286.5,
@@ -48,7 +64,11 @@
     "metal_base": [
         {
             "date": "1404/04/21",
+<<<<<<< Updated upstream
             "time": "00:38",
+=======
+            "time": "00:39",
+>>>>>>> Stashed changes
             "symbol": "Cu",
             "name": "مس",
             "price": 9669,
@@ -59,7 +79,11 @@
         },
         {
             "date": "1404/04/21",
+<<<<<<< Updated upstream
             "time": "00:38",
+=======
+            "time": "00:39",
+>>>>>>> Stashed changes
             "symbol": "Al",
             "name": "آلومینیوم",
             "price": 2603.7,
@@ -70,7 +94,11 @@
         },
         {
             "date": "1404/04/21",
+<<<<<<< Updated upstream
             "time": "00:38",
+=======
+            "time": "00:39",
+>>>>>>> Stashed changes
             "symbol": "Zn",
             "name": "روی",
             "price": 2737.5,
@@ -81,7 +109,11 @@
         },
         {
             "date": "1404/04/21",
+<<<<<<< Updated upstream
             "time": "00:38",
+=======
+            "time": "00:39",
+>>>>>>> Stashed changes
             "symbol": "Pb",
             "name": "سرب",
             "price": 2028.48,
@@ -92,7 +124,11 @@
         },
         {
             "date": "1404/04/21",
+<<<<<<< Updated upstream
             "time": "00:38",
+=======
+            "time": "00:39",
+>>>>>>> Stashed changes
             "symbol": "Sn",
             "name": "قلع",
             "price": 33585.21,
@@ -103,7 +139,11 @@
         },
         {
             "date": "1404/04/21",
+<<<<<<< Updated upstream
             "time": "00:38",
+=======
+            "time": "00:39",
+>>>>>>> Stashed changes
             "symbol": "Ni",
             "name": "نیکل",
             "price": 15139.88,
@@ -116,18 +156,30 @@
     "energy": [
         {
             "date": "1404/04/21",
+<<<<<<< Updated upstream
             "time": "00:38",
             "symbol": "BRENT",
             "name": "نفت برنت",
             "price": 70.52,
             "change_percent": -0.11,
+=======
+            "time": "00:39",
+            "symbol": "BRENT",
+            "name": "نفت برنت",
+            "price": 70.67,
+            "change_percent": 0.1,
+>>>>>>> Stashed changes
             "unit": "دلار",
             "nameFa": "نفت برنت",
             "nameEn": "Brent Oil"
         },
         {
             "date": "1404/04/21",
+<<<<<<< Updated upstream
             "time": "00:38",
+=======
+            "time": "00:39",
+>>>>>>> Stashed changes
             "symbol": "OPEC",
             "name": "نفت اپک",
             "price": 71.23,
@@ -138,7 +190,11 @@
         },
         {
             "date": "1404/04/21",
+<<<<<<< Updated upstream
             "time": "00:38",
+=======
+            "time": "00:39",
+>>>>>>> Stashed changes
             "symbol": "WTI",
             "name": "نفت سبک",
             "price": 68.61,
@@ -149,7 +205,11 @@
         },
         {
             "date": "1404/04/21",
+<<<<<<< Updated upstream
             "time": "00:38",
+=======
+            "time": "00:39",
+>>>>>>> Stashed changes
             "symbol": "GAS",
             "name": "گاز طبیعی",
             "price": 3.362,
@@ -160,7 +220,11 @@
         },
         {
             "date": "1404/04/21",
+<<<<<<< Updated upstream
             "time": "00:38",
+=======
+            "time": "00:39",
+>>>>>>> Stashed changes
             "symbol": "RBOB",
             "name": "بنزین",
             "price": 2.1903,
@@ -171,11 +235,15 @@
         },
         {
             "date": "1404/04/21",
+<<<<<<< Updated upstream
             "time": "00:38",
+=======
+            "time": "00:39",
+>>>>>>> Stashed changes
             "symbol": "GASOIL",
             "name": "گازوئیل",
-            "price": 702,
-            "change_percent": -2.44,
+            "price": 703.5,
+            "change_percent": -2.22,
             "unit": "دلار",
             "nameFa": "گازوئیل",
             "nameEn": "Gasoil"
