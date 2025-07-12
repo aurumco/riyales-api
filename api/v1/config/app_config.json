@@ -1,4 +1,4 @@
-adapter_impl.dart:291  GET https://raw.githubusercontent.com/aurumco/riyales-api/main/priority_assets.json 404 (Not Found){
+{
   "app_name": "Riyales",
   "remote_config_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v1/config/app_config.json",
   "api_endpoints": {
