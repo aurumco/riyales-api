@@ -6,7 +6,7 @@
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 3355.86,
-            "change_percent": -0.01,
+            "change_percent": 0,
             "unit": "دلار",
             "nameFa": "انس طلا",
             "nameEn": "Gold Ounce"
@@ -17,7 +17,7 @@
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 38.43,
-            "change_percent": -0.06,
+            "change_percent": 0,
             "unit": "دلار",
             "nameFa": "انس نقره",
             "nameEn": "Silver Ounce"
@@ -28,7 +28,7 @@
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
             "price": 1472.1,
-            "change_percent": -0.07,
+            "change_percent": 0,
             "unit": "دلار",
             "nameFa": "انس پلاتین",
             "nameEn": "Platinum Ounce"
@@ -39,7 +39,7 @@
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
             "price": 1288.5,
-            "change_percent": 0.23,
+            "change_percent": 0,
             "unit": "دلار",
             "nameFa": "انس پالادیوم",
             "nameEn": "Palladium Ounce"
@@ -96,7 +96,7 @@
             "symbol": "Sn",
             "name": "قلع",
             "price": 33585.21,
-            "change_percent": 0.82,
+            "change_percent": 0,
             "unit": "دلار",
             "nameFa": "قلع",
             "nameEn": "Tin"
@@ -120,7 +120,7 @@
             "symbol": "BRENT",
             "name": "نفت برنت",
             "price": 70.63,
-            "change_percent": 0.04,
+            "change_percent": 0,
             "unit": "دلار",
             "nameFa": "نفت برنت",
             "nameEn": "Brent Oil"
@@ -131,7 +131,7 @@
             "symbol": "OPEC",
             "name": "نفت اپک",
             "price": 71.23,
-            "change_percent": 0.93,
+            "change_percent": 0,
             "unit": "دلار",
             "nameFa": "نفت اپک",
             "nameEn": "OPEC Oil"
@@ -142,7 +142,7 @@
             "symbol": "WTI",
             "name": "نفت سبک",
             "price": 68.71,
-            "change_percent": 0.01,
+            "change_percent": 0,
             "unit": "دلار",
             "nameFa": "نفت سبک",
             "nameEn": "WTI Oil"
@@ -153,7 +153,7 @@
             "symbol": "GAS",
             "name": "گاز طبیعی",
             "price": 3.36,
-            "change_percent": -0.12,
+            "change_percent": 0,
             "unit": "دلار",
             "nameFa": "گاز طبیعی",
             "nameEn": "Natural Gas"
@@ -164,7 +164,7 @@
             "symbol": "RBOB",
             "name": "بنزین",
             "price": 2.1925,
-            "change_percent": -0.01,
+            "change_percent": 0,
             "unit": "دلار",
             "nameFa": "بنزین",
             "nameEn": "Gasoline RBOB"
@@ -175,7 +175,7 @@
             "symbol": "GASOIL",
             "name": "گازوئیل",
             "price": 703,
-            "change_percent": -2.29,
+            "change_percent": 0,
             "unit": "دلار",
             "nameFa": "گازوئیل",
             "nameEn": "Gasoil"
