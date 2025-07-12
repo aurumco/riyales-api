@@ -1,4 +1,4 @@
-{
+adapter_impl.dart:291  GET https://raw.githubusercontent.com/aurumco/riyales-api/main/priority_assets.json 404 (Not Found){
   "app_name": "Riyales",
   "remote_config_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v1/config/app_config.json",
   "api_endpoints": {
@@ -10,7 +10,7 @@
     "stock_futures_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v2/market/stock/futures.pb",
     "stock_housing_facilities_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v2/market/stock/housing_facilities.pb",
     "stock_tse_ifb_symbols_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v2/market/stock/tse_ifb_symbols.pb",
-    "priority_assets_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/priority_assets.json"
+    "priority_assets_url": "https://raw.githubusercontent.com/aurumco/riyales-api/refs/heads/main/api/v1/config/priority_assets.json"
   },
   "app_version": "0.142.1",
   "update_info": {
