@@ -103,7 +103,7 @@
         },
         {
             "date": "1404/04/23",
-            "time": "03:07",
+            "time": "03:19",
             "symbol": "Sn",
             "name": "قلع",
             "price": 33666.21,
@@ -139,28 +139,6 @@
         {
             "date": "1404/04/23",
             "time": "03:04",
-            "symbol": "GAS",
-            "name": "گاز طبیعی",
-            "price": 3.419,
-            "change_percent": 3.17,
-            "unit": "دلار",
-            "nameFa": "گاز طبیعی",
-            "nameEn": "Natural Gas"
-        },
-        {
-            "date": "1404/04/23",
-            "time": "03:04",
-            "symbol": "RBOB",
-            "name": "بنزین",
-            "price": 2.1874,
-            "change_percent": 0.02,
-            "unit": "دلار",
-            "nameFa": "بنزین",
-            "nameEn": "Gasoline RBOB"
-        },
-        {
-            "date": "1404/04/23",
-            "time": "03:04",
             "symbol": "GASOIL",
             "name": "گازوئیل",
             "price": 717.5,
@@ -171,7 +149,29 @@
         },
         {
             "date": "1404/04/23",
-            "time": "03:07",
+            "time": "03:15",
+            "symbol": "GAS",
+            "name": "گاز طبیعی",
+            "price": 3.419,
+            "change_percent": 3.17,
+            "unit": "دلار",
+            "nameFa": "گاز طبیعی",
+            "nameEn": "Natural Gas"
+        },
+        {
+            "date": "1404/04/23",
+            "time": "03:15",
+            "symbol": "RBOB",
+            "name": "بنزین",
+            "price": 2.1874,
+            "change_percent": 0.02,
+            "unit": "دلار",
+            "nameFa": "بنزین",
+            "nameEn": "Gasoline RBOB"
+        },
+        {
+            "date": "1404/04/23",
+            "time": "03:19",
             "symbol": "OPEC",
             "name": "نفت اپک",
             "price": 71.23,
