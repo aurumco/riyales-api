@@ -609,992 +609,6 @@ FileNotFoundError: [Errno 2] No such file or directory: 'dictionaries/lite_asset
 <<<<<<< Updated upstream
 =======
 >>>>>>> Stashed changes
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Logging initialized. Console level: INFO. General logs: 'logs/app.log'. Error logs: 'logs/error.log'.
-2025-07-12 22:15:00|INFO|MarketDataSync|[32m• Market Data Sync START [0m
-2025-07-12 22:15:00|DEBUG|MarketDataSync|[32m• Starting Market Data Sync Cycle [0m
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Successfully loaded 3472 crypto name mappings from dictionaries/crypto_names_fa.json
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Loaded 2 blacklist entries from dictionaries/blacklist.json
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Cycle time: UTC=2025-07-12T18:45:00.065062+00:00, Local=2025-07-12T22:15:00.065062+03:30
-2025-07-12 22:15:00|INFO|MarketDataSync|• Checking API Fetch Tasks 
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Checking fetch task: 'gold'
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Scheduling fetch for: 'gold'
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Checking fetch task: 'currency'
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Scheduling fetch for: 'currency'
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Checking fetch task: 'crypto'
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Scheduling fetch for: 'crypto'
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Checking fetch task: 'commodity'
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Scheduling fetch for: 'commodity'
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Checking fetch task: 'tse_ifb_symbols'
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Market Check: LocalTime=22:15:00 +0330, Weekday=5, CurrentTime=22:15:00.065665, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 22:15:00|DEBUG|MarketDataSync|•  // Skip 'tse_ifb_symbols': Market is closed.
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Checking fetch task: 'tse_options'
-2025-07-12 22:15:00|DEBUG|MarketDataSync|•  // Skip 'tse_options': Disabled in config.
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Checking fetch task: 'tse_nav'
-2025-07-12 22:15:00|DEBUG|MarketDataSync|•  // Skip 'tse_nav': Disabled in config.
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Checking fetch task: 'tse_index'
-2025-07-12 22:15:00|DEBUG|MarketDataSync|•  // Skip 'tse_index': Disabled in config.
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Checking fetch task: 'ifb_index'
-2025-07-12 22:15:00|DEBUG|MarketDataSync|•  // Skip 'ifb_index': Disabled in config.
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Checking fetch task: 'selected_indices'
-2025-07-12 22:15:00|DEBUG|MarketDataSync|•  // Skip 'selected_indices': Disabled in config.
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Checking fetch task: 'debt_securities'
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Market Check: LocalTime=22:15:00 +0330, Weekday=5, CurrentTime=22:15:00.066070, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 22:15:00|DEBUG|MarketDataSync|•  // Skip 'debt_securities': Market is closed.
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Checking fetch task: 'housing_facilities'
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Market Check: LocalTime=22:15:00 +0330, Weekday=5, CurrentTime=22:15:00.066197, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 22:15:00|DEBUG|MarketDataSync|•  // Skip 'housing_facilities': Market is closed.
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Checking fetch task: 'futures'
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Market Check: LocalTime=22:15:00 +0330, Weekday=5, CurrentTime=22:15:00.066318, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 22:15:00|DEBUG|MarketDataSync|•  // Skip 'futures': Market is closed.
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Attempting to fetch data for 4 endpoints...
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Requesting: gold
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Requesting: currency
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Requesting: crypto
-2025-07-12 22:15:00|DEBUG|MarketDataSync|• Requesting: commodity
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Response: gold Status=200 in 0.97s
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Response: currency Status=200 in 0.98s
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Response: crypto Status=200 in 0.99s
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Response: commodity Status=200 in 1.51s
-2025-07-12 22:15:01|INFO|MarketDataSync|• Processing Fetch Results 
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Applied transformation function for gold
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Applied blacklist filter for gold
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Saved latest raw JSON: gold.json
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Applied transformation function for currency
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Applied blacklist filter for currency
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Saved latest raw JSON: currency.json
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• No Persian name found for: Altcoin
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• No Persian name found for: PePeonTron
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• No Persian name found for: Children Of The Sky
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• No Persian name found for: Velvet
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• No Persian name found for: Save
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• No Persian name found for: MOOMOO THE BULL
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• No Persian name found for: Tevaera
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• No Persian name found for: spinning cat
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• No Persian name found for: McDonald's tokenized stock (xStock)
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• No Persian name found for: Gamestop tokenized stock (xStock)
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Persian name mapping: 10 crypto names were not found in the map.
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Applied transformation function for crypto
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Applied blacklist filter for crypto
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Saved latest raw JSON: cryptocurrency.json
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Applied transformation function for commodity
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Applied blacklist filter for commodity
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Saved latest raw JSON: commodity.json
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Fetch Results Summary:  Processed=4,  Errors=0
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• [34m• Creating Consolidated JSON Output[0m
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Reading commodity.json for consolidation...
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Reading cryptocurrency.json for consolidation...
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Reading gold.json for consolidation...
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Reading currency.json for consolidation...
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Reading lite.json for consolidation...
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• [32m✓ Consolidated JSON successfully created at: api/v1/market/all_market_data.json (5 files combined)[0m
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• [34m• Creating Lite JSON Output[0m
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: currency/USD
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: currency/EUR
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Tether
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Bitcoin
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Ethereum
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/TRON
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Dogecoin
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: currency/TRY
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: currency/RUB
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: currency/AED
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: currency/CNY
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: currency/GBP
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: gold/EMAMI
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: gold/BAHAR
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: gold/1G
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: gold/18K
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: gold/24K
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Binance Coin
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: currency/CAD
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: currency/KWD
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: currency/SAR
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: currency/IQD
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: currency/BHD
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: currency/THB
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• Found and added asset: currency/OMR
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• [32m✓ Lite JSON successfully created at: api/v1/market/lite.json (25 assets included)[0m
-2025-07-12 22:15:01|DEBUG|MarketDataSync|• ✓ Protobuf files generated in api/v2/market
-2025-07-12 22:15:01|INFO|MarketDataSync|[32m• Market Data Sync END [0m|[90m Duration: 1.79s[0m
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Logging initialized. Console level: INFO. General logs: 'logs/app.log'. Error logs: 'logs/error.log'.
-2025-07-12 22:26:40|INFO|MarketDataSync|[32m• Market Data Sync START [0m
-2025-07-12 22:26:40|DEBUG|MarketDataSync|[32m• Starting Market Data Sync Cycle [0m
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Successfully loaded 3472 crypto name mappings from dictionaries/crypto_names_fa.json
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Loaded 2 blacklist entries from dictionaries/blacklist.json
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Cycle time: UTC=2025-07-12T18:56:40.269526+00:00, Local=2025-07-12T22:26:40.269526+03:30
-2025-07-12 22:26:40|INFO|MarketDataSync|• Checking API Fetch Tasks 
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Checking fetch task: 'gold'
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Scheduling fetch for: 'gold'
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Checking fetch task: 'currency'
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Scheduling fetch for: 'currency'
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Checking fetch task: 'crypto'
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Scheduling fetch for: 'crypto'
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Checking fetch task: 'commodity'
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Scheduling fetch for: 'commodity'
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Checking fetch task: 'tse_ifb_symbols'
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Market Check: LocalTime=22:26:40 +0330, Weekday=5, CurrentTime=22:26:40.270002, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 22:26:40|DEBUG|MarketDataSync|•  // Skip 'tse_ifb_symbols': Market is closed.
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Checking fetch task: 'tse_options'
-2025-07-12 22:26:40|DEBUG|MarketDataSync|•  // Skip 'tse_options': Disabled in config.
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Checking fetch task: 'tse_nav'
-2025-07-12 22:26:40|DEBUG|MarketDataSync|•  // Skip 'tse_nav': Disabled in config.
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Checking fetch task: 'tse_index'
-2025-07-12 22:26:40|DEBUG|MarketDataSync|•  // Skip 'tse_index': Disabled in config.
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Checking fetch task: 'ifb_index'
-2025-07-12 22:26:40|DEBUG|MarketDataSync|•  // Skip 'ifb_index': Disabled in config.
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Checking fetch task: 'selected_indices'
-2025-07-12 22:26:40|DEBUG|MarketDataSync|•  // Skip 'selected_indices': Disabled in config.
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Checking fetch task: 'debt_securities'
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Market Check: LocalTime=22:26:40 +0330, Weekday=5, CurrentTime=22:26:40.270462, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 22:26:40|DEBUG|MarketDataSync|•  // Skip 'debt_securities': Market is closed.
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Checking fetch task: 'housing_facilities'
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Market Check: LocalTime=22:26:40 +0330, Weekday=5, CurrentTime=22:26:40.270593, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 22:26:40|DEBUG|MarketDataSync|•  // Skip 'housing_facilities': Market is closed.
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Checking fetch task: 'futures'
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Market Check: LocalTime=22:26:40 +0330, Weekday=5, CurrentTime=22:26:40.270723, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 22:26:40|DEBUG|MarketDataSync|•  // Skip 'futures': Market is closed.
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Attempting to fetch data for 4 endpoints...
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Requesting: gold
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Requesting: currency
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Requesting: crypto
-2025-07-12 22:26:40|DEBUG|MarketDataSync|• Requesting: commodity
-2025-07-12 22:26:41|DEBUG|MarketDataSync|• Response: crypto Status=200 in 1.39s
-2025-07-12 22:26:41|DEBUG|MarketDataSync|• Response: commodity Status=200 in 1.40s
-2025-07-12 22:26:41|DEBUG|MarketDataSync|• Response: gold Status=200 in 1.41s
-2025-07-12 22:26:41|DEBUG|MarketDataSync|• Response: currency Status=200 in 1.41s
-2025-07-12 22:26:42|INFO|MarketDataSync|• Processing Fetch Results 
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Applied transformation function for gold
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Applied blacklist filter for gold
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Saved latest raw JSON: gold.json
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Applied transformation function for currency
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Applied blacklist filter for currency
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Saved latest raw JSON: currency.json
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• No Persian name found for: Altcoin
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• No Persian name found for: PePeonTron
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• No Persian name found for: Children Of The Sky
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• No Persian name found for: Velvet
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• No Persian name found for: Save
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• No Persian name found for: MOOMOO THE BULL
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• No Persian name found for: Tevaera
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• No Persian name found for: spinning cat
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• No Persian name found for: McDonald's tokenized stock (xStock)
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• No Persian name found for: Gamestop tokenized stock (xStock)
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Persian name mapping: 10 crypto names were not found in the map.
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Applied transformation function for crypto
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Applied blacklist filter for crypto
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Saved latest raw JSON: cryptocurrency.json
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Applied transformation function for commodity
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Applied blacklist filter for commodity
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Saved latest raw JSON: commodity.json
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Fetch Results Summary:  Processed=4,  Errors=0
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• [34m• Creating Consolidated JSON Output[0m
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Reading commodity.json for consolidation...
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Reading cryptocurrency.json for consolidation...
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Reading gold.json for consolidation...
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Reading currency.json for consolidation...
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Reading lite.json for consolidation...
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• [32m✓ Consolidated JSON successfully created at: api/v1/market/all_market_data.json (5 files combined)[0m
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• [34m• Creating Lite JSON Output[0m
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: currency/USD
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: currency/EUR
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Tether
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Bitcoin
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Ethereum
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/TRON
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Dogecoin
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: currency/TRY
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: currency/RUB
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: currency/AED
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: currency/CNY
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: currency/GBP
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: gold/EMAMI
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: gold/BAHAR
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: gold/1G
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: gold/18K
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: gold/24K
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Binance Coin
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: currency/CAD
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: currency/KWD
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: currency/SAR
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: currency/IQD
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: currency/BHD
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: currency/THB
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• Found and added asset: currency/OMR
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• [32m✓ Lite JSON successfully created at: api/v1/market/lite.json (25 assets included)[0m
-2025-07-12 22:26:42|DEBUG|MarketDataSync|• ✓ Protobuf files generated in api/v2/market
-2025-07-12 22:26:42|INFO|MarketDataSync|[32m• Market Data Sync END [0m|[90m Duration: 2.43s[0m
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Logging initialized. Console level: INFO. General logs: 'logs/app.log'. Error logs: 'logs/error.log'.
-2025-07-12 22:44:49|INFO|MarketDataSync|[32m• Market Data Sync START [0m
-2025-07-12 22:44:49|DEBUG|MarketDataSync|[32m• Starting Market Data Sync Cycle [0m
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Successfully loaded 3472 crypto name mappings from dictionaries/crypto_names_fa.json
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Loaded 2 blacklist entries from dictionaries/blacklist.json
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Cycle time: UTC=2025-07-12T19:14:49.459276+00:00, Local=2025-07-12T22:44:49.459276+03:30
-2025-07-12 22:44:49|INFO|MarketDataSync|• Checking API Fetch Tasks 
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Checking fetch task: 'gold'
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Scheduling fetch for: 'gold'
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Checking fetch task: 'currency'
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Scheduling fetch for: 'currency'
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Checking fetch task: 'crypto'
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Scheduling fetch for: 'crypto'
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Checking fetch task: 'commodity'
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Scheduling fetch for: 'commodity'
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Checking fetch task: 'tse_ifb_symbols'
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Market Check: LocalTime=22:44:49 +0330, Weekday=5, CurrentTime=22:44:49.459842, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 22:44:49|DEBUG|MarketDataSync|•  // Skip 'tse_ifb_symbols': Market is closed.
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Checking fetch task: 'tse_options'
-2025-07-12 22:44:49|DEBUG|MarketDataSync|•  // Skip 'tse_options': Disabled in config.
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Checking fetch task: 'tse_nav'
-2025-07-12 22:44:49|DEBUG|MarketDataSync|•  // Skip 'tse_nav': Disabled in config.
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Checking fetch task: 'tse_index'
-2025-07-12 22:44:49|DEBUG|MarketDataSync|•  // Skip 'tse_index': Disabled in config.
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Checking fetch task: 'ifb_index'
-2025-07-12 22:44:49|DEBUG|MarketDataSync|•  // Skip 'ifb_index': Disabled in config.
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Checking fetch task: 'selected_indices'
-2025-07-12 22:44:49|DEBUG|MarketDataSync|•  // Skip 'selected_indices': Disabled in config.
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Checking fetch task: 'debt_securities'
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Market Check: LocalTime=22:44:49 +0330, Weekday=5, CurrentTime=22:44:49.460254, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 22:44:49|DEBUG|MarketDataSync|•  // Skip 'debt_securities': Market is closed.
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Checking fetch task: 'housing_facilities'
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Market Check: LocalTime=22:44:49 +0330, Weekday=5, CurrentTime=22:44:49.460387, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 22:44:49|DEBUG|MarketDataSync|•  // Skip 'housing_facilities': Market is closed.
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Checking fetch task: 'futures'
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Market Check: LocalTime=22:44:49 +0330, Weekday=5, CurrentTime=22:44:49.460518, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 22:44:49|DEBUG|MarketDataSync|•  // Skip 'futures': Market is closed.
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Attempting to fetch data for 4 endpoints...
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Requesting: gold
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Requesting: currency
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Requesting: crypto
-2025-07-12 22:44:49|DEBUG|MarketDataSync|• Requesting: commodity
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Response: crypto Status=200 in 1.03s
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Response: commodity Status=200 in 1.05s
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Response: gold Status=200 in 1.06s
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Response: currency Status=200 in 1.06s
-2025-07-12 22:44:50|INFO|MarketDataSync|• Processing Fetch Results 
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Applied transformation function for gold
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Applied blacklist filter for gold
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Saved latest raw JSON: gold.json
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Applied transformation function for currency
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Applied blacklist filter for currency
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Saved latest raw JSON: currency.json
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Applied transformation function for crypto
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Applied blacklist filter for crypto
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Saved latest raw JSON: cryptocurrency.json
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Applied transformation function for commodity
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Applied blacklist filter for commodity
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Saved latest raw JSON: commodity.json
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Fetch Results Summary:  Processed=4,  Errors=0
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• [34m• Creating Consolidated JSON Output[0m
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Reading commodity.json for consolidation...
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Reading cryptocurrency.json for consolidation...
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Reading gold.json for consolidation...
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Reading currency.json for consolidation...
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Reading lite.json for consolidation...
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• [32m✓ Consolidated JSON successfully created at: api/v1/market/all_market_data.json (5 files combined)[0m
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• [34m• Creating Lite JSON Output[0m
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: currency/USD
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: currency/EUR
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Tether
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Bitcoin
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Ethereum
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/TRON
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Dogecoin
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: currency/TRY
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: currency/RUB
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: currency/AED
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: currency/CNY
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: currency/GBP
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: gold/EMAMI
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: gold/BAHAR
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: gold/1G
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: gold/18K
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: gold/24K
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Binance Coin
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: currency/CAD
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: currency/KWD
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: currency/SAR
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: currency/IQD
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: currency/BHD
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: currency/THB
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• Found and added asset: currency/OMR
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• [32m✓ Lite JSON successfully created at: api/v1/market/lite.json (25 assets included)[0m
-2025-07-12 22:44:50|DEBUG|MarketDataSync|• ✓ Protobuf files generated in api/v2/market
-2025-07-12 22:44:50|INFO|MarketDataSync|[32m• Market Data Sync END [0m|[90m Duration: 1.18s[0m
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Logging initialized. Console level: INFO. General logs: 'logs/app.log'. Error logs: 'logs/error.log'.
-2025-07-12 22:57:51|INFO|MarketDataSync|[32m• Market Data Sync START [0m
-2025-07-12 22:57:51|DEBUG|MarketDataSync|[32m• Starting Market Data Sync Cycle [0m
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Successfully loaded 3472 crypto name mappings from dictionaries/crypto_names_fa.json
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Loaded 2 blacklist entries from dictionaries/blacklist.json
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Cycle time: UTC=2025-07-12T19:27:51.939317+00:00, Local=2025-07-12T22:57:51.939317+03:30
-2025-07-12 22:57:51|INFO|MarketDataSync|• Checking API Fetch Tasks 
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Checking fetch task: 'gold'
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Scheduling fetch for: 'gold'
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Checking fetch task: 'currency'
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Scheduling fetch for: 'currency'
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Checking fetch task: 'crypto'
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Scheduling fetch for: 'crypto'
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Checking fetch task: 'commodity'
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Scheduling fetch for: 'commodity'
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Checking fetch task: 'tse_ifb_symbols'
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Market Check: LocalTime=22:57:51 +0330, Weekday=5, CurrentTime=22:57:51.939777, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 22:57:51|DEBUG|MarketDataSync|•  // Skip 'tse_ifb_symbols': Market is closed.
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Checking fetch task: 'tse_options'
-2025-07-12 22:57:51|DEBUG|MarketDataSync|•  // Skip 'tse_options': Disabled in config.
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Checking fetch task: 'tse_nav'
-2025-07-12 22:57:51|DEBUG|MarketDataSync|•  // Skip 'tse_nav': Disabled in config.
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Checking fetch task: 'tse_index'
-2025-07-12 22:57:51|DEBUG|MarketDataSync|•  // Skip 'tse_index': Disabled in config.
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Checking fetch task: 'ifb_index'
-2025-07-12 22:57:51|DEBUG|MarketDataSync|•  // Skip 'ifb_index': Disabled in config.
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Checking fetch task: 'selected_indices'
-2025-07-12 22:57:51|DEBUG|MarketDataSync|•  // Skip 'selected_indices': Disabled in config.
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Checking fetch task: 'debt_securities'
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Market Check: LocalTime=22:57:51 +0330, Weekday=5, CurrentTime=22:57:51.940147, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 22:57:51|DEBUG|MarketDataSync|•  // Skip 'debt_securities': Market is closed.
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Checking fetch task: 'housing_facilities'
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Market Check: LocalTime=22:57:51 +0330, Weekday=5, CurrentTime=22:57:51.940262, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 22:57:51|DEBUG|MarketDataSync|•  // Skip 'housing_facilities': Market is closed.
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Checking fetch task: 'futures'
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Market Check: LocalTime=22:57:51 +0330, Weekday=5, CurrentTime=22:57:51.940396, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 22:57:51|DEBUG|MarketDataSync|•  // Skip 'futures': Market is closed.
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Attempting to fetch data for 4 endpoints...
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Requesting: gold
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Requesting: currency
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Requesting: crypto
-2025-07-12 22:57:51|DEBUG|MarketDataSync|• Requesting: commodity
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Response: currency Status=200 in 1.18s
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Response: commodity Status=200 in 1.20s
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Response: crypto Status=200 in 1.21s
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Response: gold Status=200 in 1.22s
-2025-07-12 22:57:53|INFO|MarketDataSync|• Processing Fetch Results 
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Applied transformation function for gold
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Applied blacklist filter for gold
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Saved latest raw JSON: gold.json
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Applied transformation function for currency
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Applied blacklist filter for currency
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Saved latest raw JSON: currency.json
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• No Persian name found for: Altcoin
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• No Persian name found for: PePeonTron
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• No Persian name found for: Children Of The Sky
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• No Persian name found for: Velvet
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• No Persian name found for: Save
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• No Persian name found for: MOOMOO THE BULL
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• No Persian name found for: spinning cat
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• No Persian name found for: Tevaera
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Persian name mapping: 8 crypto names were not found in the map.
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Applied transformation function for crypto
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Applied blacklist filter for crypto
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Saved latest raw JSON: cryptocurrency.json
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Applied transformation function for commodity
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Applied blacklist filter for commodity
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Saved latest raw JSON: commodity.json
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Fetch Results Summary:  Processed=4,  Errors=0
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• [34m• Creating Consolidated JSON Output[0m
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Reading commodity.json for consolidation...
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Reading cryptocurrency.json for consolidation...
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Reading gold.json for consolidation...
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Reading currency.json for consolidation...
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Reading lite.json for consolidation...
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• [32m✓ Consolidated JSON successfully created at: api/v1/market/all_market_data.json (5 files combined)[0m
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• [34m• Creating Lite JSON Output[0m
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: currency/USD
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: currency/EUR
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Tether
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Bitcoin
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Ethereum
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/TRON
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Dogecoin
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: currency/TRY
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: currency/RUB
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: currency/AED
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: currency/CNY
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: currency/GBP
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: gold/EMAMI
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: gold/BAHAR
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: gold/1G
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: gold/18K
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: gold/24K
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Binance Coin
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: currency/CAD
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: currency/KWD
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: currency/SAR
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: currency/IQD
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: currency/BHD
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: currency/THB
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• Found and added asset: currency/OMR
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• [32m✓ Lite JSON successfully created at: api/v1/market/lite.json (25 assets included)[0m
-2025-07-12 22:57:53|DEBUG|MarketDataSync|• ✓ Protobuf files generated in api/v2/market
-2025-07-12 22:57:53|INFO|MarketDataSync|[32m• Market Data Sync END [0m|[90m Duration: 1.83s[0m
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Logging initialized. Console level: INFO. General logs: 'logs/app.log'. Error logs: 'logs/error.log'.
-2025-07-12 23:08:44|INFO|MarketDataSync|[32m• Market Data Sync START [0m
-2025-07-12 23:08:44|DEBUG|MarketDataSync|[32m• Starting Market Data Sync Cycle [0m
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Successfully loaded 3472 crypto name mappings from dictionaries/crypto_names_fa.json
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Loaded 2 blacklist entries from dictionaries/blacklist.json
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Cycle time: UTC=2025-07-12T19:38:44.749117+00:00, Local=2025-07-12T23:08:44.749117+03:30
-2025-07-12 23:08:44|INFO|MarketDataSync|• Checking API Fetch Tasks 
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Checking fetch task: 'gold'
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Scheduling fetch for: 'gold'
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Checking fetch task: 'currency'
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Scheduling fetch for: 'currency'
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Checking fetch task: 'crypto'
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Scheduling fetch for: 'crypto'
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Checking fetch task: 'commodity'
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Scheduling fetch for: 'commodity'
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Checking fetch task: 'tse_ifb_symbols'
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Market Check: LocalTime=23:08:44 +0330, Weekday=5, CurrentTime=23:08:44.749561, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 23:08:44|DEBUG|MarketDataSync|•  // Skip 'tse_ifb_symbols': Market is closed.
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Checking fetch task: 'tse_options'
-2025-07-12 23:08:44|DEBUG|MarketDataSync|•  // Skip 'tse_options': Disabled in config.
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Checking fetch task: 'tse_nav'
-2025-07-12 23:08:44|DEBUG|MarketDataSync|•  // Skip 'tse_nav': Disabled in config.
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Checking fetch task: 'tse_index'
-2025-07-12 23:08:44|DEBUG|MarketDataSync|•  // Skip 'tse_index': Disabled in config.
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Checking fetch task: 'ifb_index'
-2025-07-12 23:08:44|DEBUG|MarketDataSync|•  // Skip 'ifb_index': Disabled in config.
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Checking fetch task: 'selected_indices'
-2025-07-12 23:08:44|DEBUG|MarketDataSync|•  // Skip 'selected_indices': Disabled in config.
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Checking fetch task: 'debt_securities'
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Market Check: LocalTime=23:08:44 +0330, Weekday=5, CurrentTime=23:08:44.749951, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 23:08:44|DEBUG|MarketDataSync|•  // Skip 'debt_securities': Market is closed.
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Checking fetch task: 'housing_facilities'
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Market Check: LocalTime=23:08:44 +0330, Weekday=5, CurrentTime=23:08:44.750070, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 23:08:44|DEBUG|MarketDataSync|•  // Skip 'housing_facilities': Market is closed.
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Checking fetch task: 'futures'
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Market Check: LocalTime=23:08:44 +0330, Weekday=5, CurrentTime=23:08:44.750179, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 23:08:44|DEBUG|MarketDataSync|•  // Skip 'futures': Market is closed.
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Attempting to fetch data for 4 endpoints...
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Requesting: gold
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Requesting: currency
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Requesting: crypto
-2025-07-12 23:08:44|DEBUG|MarketDataSync|• Requesting: commodity
-2025-07-12 23:08:45|DEBUG|MarketDataSync|• Response: crypto Status=200 in 1.06s
-2025-07-12 23:08:45|DEBUG|MarketDataSync|• Response: gold Status=200 in 1.06s
-2025-07-12 23:08:45|DEBUG|MarketDataSync|• Response: currency Status=200 in 1.06s
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Response: commodity Status=200 in 1.68s
-2025-07-12 23:08:46|INFO|MarketDataSync|• Processing Fetch Results 
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Applied transformation function for gold
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Applied blacklist filter for gold
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Saved latest raw JSON: gold.json
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Applied transformation function for currency
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Applied blacklist filter for currency
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Saved latest raw JSON: currency.json
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• No Persian name found for: Altcoin
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• No Persian name found for: PePeonTron
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• No Persian name found for: Children Of The Sky
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• No Persian name found for: Velvet
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• No Persian name found for: Save
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• No Persian name found for: MOOMOO THE BULL
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• No Persian name found for: spinning cat
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• No Persian name found for: Tevaera
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• No Persian name found for: McDonald's tokenized stock (xStock)
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• No Persian name found for: Gamestop tokenized stock (xStock)
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Persian name mapping: 10 crypto names were not found in the map.
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Applied transformation function for crypto
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Applied blacklist filter for crypto
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Saved latest raw JSON: cryptocurrency.json
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Applied transformation function for commodity
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Applied blacklist filter for commodity
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Saved latest raw JSON: commodity.json
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Fetch Results Summary:  Processed=4,  Errors=0
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• [34m• Creating Consolidated JSON Output[0m
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Reading commodity.json for consolidation...
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Reading cryptocurrency.json for consolidation...
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Reading gold.json for consolidation...
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Reading currency.json for consolidation...
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Reading lite.json for consolidation...
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• [32m✓ Consolidated JSON successfully created at: api/v1/market/all_market_data.json (5 files combined)[0m
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• [34m• Creating Lite JSON Output[0m
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: currency/USD
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: currency/EUR
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Tether
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Bitcoin
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Ethereum
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/TRON
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Dogecoin
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: currency/TRY
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: currency/RUB
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: currency/AED
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: currency/CNY
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: currency/GBP
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: gold/EMAMI
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: gold/BAHAR
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: gold/1G
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: gold/18K
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: gold/24K
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Binance Coin
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: currency/CAD
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: currency/KWD
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: currency/SAR
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: currency/IQD
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: currency/BHD
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: currency/THB
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• Found and added asset: currency/OMR
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• [32m✓ Lite JSON successfully created at: api/v1/market/lite.json (25 assets included)[0m
-2025-07-12 23:08:46|DEBUG|MarketDataSync|• ✓ Protobuf files generated in api/v2/market
-2025-07-12 23:08:46|INFO|MarketDataSync|[32m• Market Data Sync END [0m|[90m Duration: 1.97s[0m
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Logging initialized. Console level: INFO. General logs: 'logs/app.log'. Error logs: 'logs/error.log'.
-2025-07-12 23:17:40|INFO|MarketDataSync|[32m• Market Data Sync START [0m
-2025-07-12 23:17:40|DEBUG|MarketDataSync|[32m• Starting Market Data Sync Cycle [0m
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Successfully loaded 3472 crypto name mappings from dictionaries/crypto_names_fa.json
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Loaded 2 blacklist entries from dictionaries/blacklist.json
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Cycle time: UTC=2025-07-12T19:47:40.891502+00:00, Local=2025-07-12T23:17:40.891502+03:30
-2025-07-12 23:17:40|INFO|MarketDataSync|• Checking API Fetch Tasks 
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Checking fetch task: 'gold'
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Scheduling fetch for: 'gold'
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Checking fetch task: 'currency'
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Scheduling fetch for: 'currency'
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Checking fetch task: 'crypto'
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Scheduling fetch for: 'crypto'
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Checking fetch task: 'commodity'
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Scheduling fetch for: 'commodity'
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Checking fetch task: 'tse_ifb_symbols'
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Market Check: LocalTime=23:17:40 +0330, Weekday=5, CurrentTime=23:17:40.891980, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 23:17:40|DEBUG|MarketDataSync|•  // Skip 'tse_ifb_symbols': Market is closed.
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Checking fetch task: 'tse_options'
-2025-07-12 23:17:40|DEBUG|MarketDataSync|•  // Skip 'tse_options': Disabled in config.
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Checking fetch task: 'tse_nav'
-2025-07-12 23:17:40|DEBUG|MarketDataSync|•  // Skip 'tse_nav': Disabled in config.
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Checking fetch task: 'tse_index'
-2025-07-12 23:17:40|DEBUG|MarketDataSync|•  // Skip 'tse_index': Disabled in config.
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Checking fetch task: 'ifb_index'
-2025-07-12 23:17:40|DEBUG|MarketDataSync|•  // Skip 'ifb_index': Disabled in config.
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Checking fetch task: 'selected_indices'
-2025-07-12 23:17:40|DEBUG|MarketDataSync|•  // Skip 'selected_indices': Disabled in config.
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Checking fetch task: 'debt_securities'
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Market Check: LocalTime=23:17:40 +0330, Weekday=5, CurrentTime=23:17:40.892420, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 23:17:40|DEBUG|MarketDataSync|•  // Skip 'debt_securities': Market is closed.
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Checking fetch task: 'housing_facilities'
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Market Check: LocalTime=23:17:40 +0330, Weekday=5, CurrentTime=23:17:40.892556, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 23:17:40|DEBUG|MarketDataSync|•  // Skip 'housing_facilities': Market is closed.
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Checking fetch task: 'futures'
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Market Check: LocalTime=23:17:40 +0330, Weekday=5, CurrentTime=23:17:40.892668, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 23:17:40|DEBUG|MarketDataSync|•  // Skip 'futures': Market is closed.
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Attempting to fetch data for 4 endpoints...
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Requesting: gold
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Requesting: currency
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Requesting: crypto
-2025-07-12 23:17:40|DEBUG|MarketDataSync|• Requesting: commodity
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Response: commodity Status=200 in 1.28s
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Response: currency Status=200 in 1.28s
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Response: gold Status=200 in 1.33s
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Response: crypto Status=200 in 1.32s
-2025-07-12 23:17:42|INFO|MarketDataSync|• Processing Fetch Results 
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Applied transformation function for gold
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Applied blacklist filter for gold
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Saved latest raw JSON: gold.json
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Applied transformation function for currency
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Applied blacklist filter for currency
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Saved latest raw JSON: currency.json
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• No Persian name found for: Altcoin
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• No Persian name found for: PePeonTron
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• No Persian name found for: Children Of The Sky
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• No Persian name found for: Velvet
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• No Persian name found for: Save
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• No Persian name found for: MOOMOO THE BULL
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• No Persian name found for: spinning cat
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• No Persian name found for: Tevaera
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• No Persian name found for: McDonald's tokenized stock (xStock)
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• No Persian name found for: Gamestop tokenized stock (xStock)
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Persian name mapping: 10 crypto names were not found in the map.
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Applied transformation function for crypto
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Applied blacklist filter for crypto
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Saved latest raw JSON: cryptocurrency.json
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Applied transformation function for commodity
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Applied blacklist filter for commodity
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Saved latest raw JSON: commodity.json
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Fetch Results Summary:  Processed=4,  Errors=0
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• [34m• Creating Consolidated JSON Output[0m
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Reading commodity.json for consolidation...
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Reading cryptocurrency.json for consolidation...
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Reading gold.json for consolidation...
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Reading currency.json for consolidation...
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Reading lite.json for consolidation...
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• [32m✓ Consolidated JSON successfully created at: api/v1/market/all_market_data.json (5 files combined)[0m
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• [34m• Creating Lite JSON Output[0m
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: currency/USD
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: currency/EUR
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Tether
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Bitcoin
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Ethereum
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/TRON
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Dogecoin
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: currency/TRY
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: currency/RUB
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: currency/AED
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: currency/CNY
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: currency/GBP
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: gold/EMAMI
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: gold/BAHAR
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: gold/1G
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: gold/18K
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: gold/24K
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Binance Coin
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: currency/CAD
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: currency/KWD
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: currency/SAR
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: currency/IQD
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: currency/BHD
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: currency/THB
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• Found and added asset: currency/OMR
-2025-07-12 23:17:42|DEBUG|MarketDataSync|• [32m✓ Lite JSON successfully created at: api/v1/market/lite.json (25 assets included)[0m
-2025-07-12 23:17:43|DEBUG|MarketDataSync|• ✓ Protobuf files generated in api/v2/market
-2025-07-12 23:17:43|INFO|MarketDataSync|[32m• Market Data Sync END [0m|[90m Duration: 2.27s[0m
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Logging initialized. Console level: INFO. General logs: 'logs/app.log'. Error logs: 'logs/error.log'.
-2025-07-12 23:26:43|INFO|MarketDataSync|[32m• Market Data Sync START [0m
-2025-07-12 23:26:43|DEBUG|MarketDataSync|[32m• Starting Market Data Sync Cycle [0m
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Successfully loaded 3472 crypto name mappings from dictionaries/crypto_names_fa.json
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Loaded 2 blacklist entries from dictionaries/blacklist.json
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Cycle time: UTC=2025-07-12T19:56:43.502035+00:00, Local=2025-07-12T23:26:43.502035+03:30
-2025-07-12 23:26:43|INFO|MarketDataSync|• Checking API Fetch Tasks 
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Checking fetch task: 'gold'
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Scheduling fetch for: 'gold'
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Checking fetch task: 'currency'
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Scheduling fetch for: 'currency'
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Checking fetch task: 'crypto'
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Scheduling fetch for: 'crypto'
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Checking fetch task: 'commodity'
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Scheduling fetch for: 'commodity'
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Checking fetch task: 'tse_ifb_symbols'
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Market Check: LocalTime=23:26:43 +0330, Weekday=5, CurrentTime=23:26:43.502588, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 23:26:43|DEBUG|MarketDataSync|•  // Skip 'tse_ifb_symbols': Market is closed.
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Checking fetch task: 'tse_options'
-2025-07-12 23:26:43|DEBUG|MarketDataSync|•  // Skip 'tse_options': Disabled in config.
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Checking fetch task: 'tse_nav'
-2025-07-12 23:26:43|DEBUG|MarketDataSync|•  // Skip 'tse_nav': Disabled in config.
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Checking fetch task: 'tse_index'
-2025-07-12 23:26:43|DEBUG|MarketDataSync|•  // Skip 'tse_index': Disabled in config.
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Checking fetch task: 'ifb_index'
-2025-07-12 23:26:43|DEBUG|MarketDataSync|•  // Skip 'ifb_index': Disabled in config.
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Checking fetch task: 'selected_indices'
-2025-07-12 23:26:43|DEBUG|MarketDataSync|•  // Skip 'selected_indices': Disabled in config.
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Checking fetch task: 'debt_securities'
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Market Check: LocalTime=23:26:43 +0330, Weekday=5, CurrentTime=23:26:43.502989, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 23:26:43|DEBUG|MarketDataSync|•  // Skip 'debt_securities': Market is closed.
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Checking fetch task: 'housing_facilities'
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Market Check: LocalTime=23:26:43 +0330, Weekday=5, CurrentTime=23:26:43.503120, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 23:26:43|DEBUG|MarketDataSync|•  // Skip 'housing_facilities': Market is closed.
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Checking fetch task: 'futures'
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Market Check: LocalTime=23:26:43 +0330, Weekday=5, CurrentTime=23:26:43.503228, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 23:26:43|DEBUG|MarketDataSync|•  // Skip 'futures': Market is closed.
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Attempting to fetch data for 4 endpoints...
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Requesting: gold
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Requesting: currency
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Requesting: crypto
-2025-07-12 23:26:43|DEBUG|MarketDataSync|• Requesting: commodity
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• Response: currency Status=200 in 1.54s
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• Response: commodity Status=200 in 1.58s
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• Response: crypto Status=200 in 1.58s
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• Response: gold Status=200 in 1.59s
-2025-07-12 23:26:45|INFO|MarketDataSync|• Processing Fetch Results 
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• Applied transformation function for gold
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• Applied blacklist filter for gold
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• Saved latest raw JSON: gold.json
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• Applied transformation function for currency
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• Applied blacklist filter for currency
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• Saved latest raw JSON: currency.json
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• No Persian name found for: Altcoin
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• No Persian name found for: PePeonTron
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• No Persian name found for: Children Of The Sky
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• No Persian name found for: Velvet
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• No Persian name found for: Save
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• No Persian name found for: MOOMOO THE BULL
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• No Persian name found for: spinning cat
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• No Persian name found for: Tevaera
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• No Persian name found for: McDonald's tokenized stock (xStock)
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• No Persian name found for: Gamestop tokenized stock (xStock)
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• Persian name mapping: 10 crypto names were not found in the map.
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• Applied transformation function for crypto
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• Applied blacklist filter for crypto
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• Saved latest raw JSON: cryptocurrency.json
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• Applied transformation function for commodity
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• Applied blacklist filter for commodity
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• Saved latest raw JSON: commodity.json
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• Fetch Results Summary:  Processed=4,  Errors=0
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• [34m• Creating Consolidated JSON Output[0m
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• Reading commodity.json for consolidation...
-2025-07-12 23:26:45|DEBUG|MarketDataSync|• Reading cryptocurrency.json for consolidation...
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Reading gold.json for consolidation...
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Reading currency.json for consolidation...
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Reading lite.json for consolidation...
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• [32m✓ Consolidated JSON successfully created at: api/v1/market/all_market_data.json (5 files combined)[0m
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• [34m• Creating Lite JSON Output[0m
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: currency/USD
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: currency/EUR
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Tether
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Bitcoin
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Ethereum
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/TRON
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Dogecoin
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: currency/TRY
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: currency/RUB
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: currency/AED
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: currency/CNY
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: currency/GBP
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: gold/EMAMI
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: gold/BAHAR
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: gold/1G
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: gold/18K
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: gold/24K
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Binance Coin
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: currency/CAD
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: currency/KWD
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: currency/SAR
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: currency/IQD
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: currency/BHD
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: currency/THB
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• Found and added asset: currency/OMR
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• [32m✓ Lite JSON successfully created at: api/v1/market/lite.json (25 assets included)[0m
-2025-07-12 23:26:46|DEBUG|MarketDataSync|• ✓ Protobuf files generated in api/v2/market
-2025-07-12 23:26:46|INFO|MarketDataSync|[32m• Market Data Sync END [0m|[90m Duration: 2.66s[0m
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Logging initialized. Console level: INFO. General logs: 'logs/app.log'. Error logs: 'logs/error.log'.
-2025-07-12 23:50:24|INFO|MarketDataSync|[32m• Market Data Sync START [0m
-2025-07-12 23:50:24|DEBUG|MarketDataSync|[32m• Starting Market Data Sync Cycle [0m
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Successfully loaded 3472 crypto name mappings from dictionaries/crypto_names_fa.json
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Loaded 2 blacklist entries from dictionaries/blacklist.json
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Cycle time: UTC=2025-07-12T20:20:24.337024+00:00, Local=2025-07-12T23:50:24.337024+03:30
-2025-07-12 23:50:24|INFO|MarketDataSync|• Checking API Fetch Tasks 
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Checking fetch task: 'gold'
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Scheduling fetch for: 'gold'
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Checking fetch task: 'currency'
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Scheduling fetch for: 'currency'
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Checking fetch task: 'crypto'
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Scheduling fetch for: 'crypto'
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Checking fetch task: 'commodity'
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Scheduling fetch for: 'commodity'
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Checking fetch task: 'tse_ifb_symbols'
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Market Check: LocalTime=23:50:24 +0330, Weekday=5, CurrentTime=23:50:24.337518, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 23:50:24|DEBUG|MarketDataSync|•  // Skip 'tse_ifb_symbols': Market is closed.
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Checking fetch task: 'tse_options'
-2025-07-12 23:50:24|DEBUG|MarketDataSync|•  // Skip 'tse_options': Disabled in config.
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Checking fetch task: 'tse_nav'
-2025-07-12 23:50:24|DEBUG|MarketDataSync|•  // Skip 'tse_nav': Disabled in config.
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Checking fetch task: 'tse_index'
-2025-07-12 23:50:24|DEBUG|MarketDataSync|•  // Skip 'tse_index': Disabled in config.
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Checking fetch task: 'ifb_index'
-2025-07-12 23:50:24|DEBUG|MarketDataSync|•  // Skip 'ifb_index': Disabled in config.
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Checking fetch task: 'selected_indices'
-2025-07-12 23:50:24|DEBUG|MarketDataSync|•  // Skip 'selected_indices': Disabled in config.
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Checking fetch task: 'debt_securities'
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Market Check: LocalTime=23:50:24 +0330, Weekday=5, CurrentTime=23:50:24.337886, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 23:50:24|DEBUG|MarketDataSync|•  // Skip 'debt_securities': Market is closed.
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Checking fetch task: 'housing_facilities'
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Market Check: LocalTime=23:50:24 +0330, Weekday=5, CurrentTime=23:50:24.338001, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 23:50:24|DEBUG|MarketDataSync|•  // Skip 'housing_facilities': Market is closed.
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Checking fetch task: 'futures'
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Market Check: LocalTime=23:50:24 +0330, Weekday=5, CurrentTime=23:50:24.338113, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-12 23:50:24|DEBUG|MarketDataSync|•  // Skip 'futures': Market is closed.
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Attempting to fetch data for 4 endpoints...
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Requesting: gold
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Requesting: currency
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Requesting: crypto
-2025-07-12 23:50:24|DEBUG|MarketDataSync|• Requesting: commodity
-2025-07-12 23:50:25|DEBUG|MarketDataSync|• Response: crypto Status=200 in 1.54s
-2025-07-12 23:50:25|DEBUG|MarketDataSync|• Response: commodity Status=200 in 1.57s
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Response: currency Status=200 in 1.66s
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Response: gold Status=200 in 1.68s
-2025-07-12 23:50:26|INFO|MarketDataSync|• Processing Fetch Results 
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Applied transformation function for gold
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Applied blacklist filter for gold
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Saved latest raw JSON: gold.json
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Applied transformation function for currency
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Applied blacklist filter for currency
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Saved latest raw JSON: currency.json
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• No Persian name found for: Altcoin
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• No Persian name found for: PePeonTron
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• No Persian name found for: Children Of The Sky
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• No Persian name found for: Velvet
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• No Persian name found for: Save
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• No Persian name found for: MOOMOO THE BULL
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• No Persian name found for: spinning cat
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• No Persian name found for: Tevaera
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• No Persian name found for: McDonald's tokenized stock (xStock)
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• No Persian name found for: Gamestop tokenized stock (xStock)
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Persian name mapping: 10 crypto names were not found in the map.
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Applied transformation function for crypto
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Applied blacklist filter for crypto
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Saved latest raw JSON: cryptocurrency.json
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Applied transformation function for commodity
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Applied blacklist filter for commodity
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Saved latest raw JSON: commodity.json
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Fetch Results Summary:  Processed=4,  Errors=0
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• [34m• Creating Consolidated JSON Output[0m
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Reading commodity.json for consolidation...
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Reading cryptocurrency.json for consolidation...
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Reading gold.json for consolidation...
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Reading currency.json for consolidation...
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Reading lite.json for consolidation...
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• [32m✓ Consolidated JSON successfully created at: api/v1/market/all_market_data.json (5 files combined)[0m
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• [34m• Creating Lite JSON Output[0m
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: currency/USD
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: currency/EUR
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Tether
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Bitcoin
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Ethereum
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/TRON
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Dogecoin
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: currency/TRY
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: currency/RUB
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: currency/AED
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: currency/CNY
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: currency/GBP
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: gold/EMAMI
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: gold/BAHAR
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: gold/1G
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: gold/18K
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: gold/24K
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Binance Coin
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: currency/CAD
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: currency/KWD
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: currency/SAR
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: currency/IQD
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: currency/BHD
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: currency/THB
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• Found and added asset: currency/OMR
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• [32m✓ Lite JSON successfully created at: api/v1/market/lite.json (25 assets included)[0m
-2025-07-12 23:50:26|DEBUG|MarketDataSync|• ✓ Protobuf files generated in api/v2/market
-2025-07-12 23:50:26|INFO|MarketDataSync|[32m• Market Data Sync END [0m|[90m Duration: 2.61s[0m
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Logging initialized. Console level: INFO. General logs: 'logs/app.log'. Error logs: 'logs/error.log'.
-2025-07-13 00:07:55|INFO|MarketDataSync|[32m• Market Data Sync START [0m
-2025-07-13 00:07:55|DEBUG|MarketDataSync|[32m• Starting Market Data Sync Cycle [0m
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Successfully loaded 3472 crypto name mappings from dictionaries/crypto_names_fa.json
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Loaded 2 blacklist entries from dictionaries/blacklist.json
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Cycle time: UTC=2025-07-12T20:37:55.731453+00:00, Local=2025-07-13T00:07:55.731453+03:30
-2025-07-13 00:07:55|INFO|MarketDataSync|• Checking API Fetch Tasks 
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Checking fetch task: 'gold'
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Scheduling fetch for: 'gold'
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Checking fetch task: 'currency'
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Scheduling fetch for: 'currency'
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Checking fetch task: 'crypto'
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Scheduling fetch for: 'crypto'
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Checking fetch task: 'commodity'
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Scheduling fetch for: 'commodity'
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Checking fetch task: 'tse_ifb_symbols'
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Market Check: LocalTime=00:07:55 +0330, Weekday=6, CurrentTime=00:07:55.731919, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-13 00:07:55|DEBUG|MarketDataSync|•  // Skip 'tse_ifb_symbols': Market is closed.
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Checking fetch task: 'tse_options'
-2025-07-13 00:07:55|DEBUG|MarketDataSync|•  // Skip 'tse_options': Disabled in config.
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Checking fetch task: 'tse_nav'
-2025-07-13 00:07:55|DEBUG|MarketDataSync|•  // Skip 'tse_nav': Disabled in config.
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Checking fetch task: 'tse_index'
-2025-07-13 00:07:55|DEBUG|MarketDataSync|•  // Skip 'tse_index': Disabled in config.
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Checking fetch task: 'ifb_index'
-2025-07-13 00:07:55|DEBUG|MarketDataSync|•  // Skip 'ifb_index': Disabled in config.
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Checking fetch task: 'selected_indices'
-2025-07-13 00:07:55|DEBUG|MarketDataSync|•  // Skip 'selected_indices': Disabled in config.
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Checking fetch task: 'debt_securities'
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Market Check: LocalTime=00:07:55 +0330, Weekday=6, CurrentTime=00:07:55.732284, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-13 00:07:55|DEBUG|MarketDataSync|•  // Skip 'debt_securities': Market is closed.
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Checking fetch task: 'housing_facilities'
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Market Check: LocalTime=00:07:55 +0330, Weekday=6, CurrentTime=00:07:55.732399, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-13 00:07:55|DEBUG|MarketDataSync|•  // Skip 'housing_facilities': Market is closed.
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Checking fetch task: 'futures'
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Market Check: LocalTime=00:07:55 +0330, Weekday=6, CurrentTime=00:07:55.732534, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-13 00:07:55|DEBUG|MarketDataSync|•  // Skip 'futures': Market is closed.
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Attempting to fetch data for 4 endpoints...
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Requesting: gold
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Requesting: currency
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Requesting: crypto
-2025-07-13 00:07:55|DEBUG|MarketDataSync|• Requesting: commodity
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Response: currency Status=200 in 1.30s
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Response: gold Status=200 in 1.36s
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Response: commodity Status=200 in 1.35s
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Response: crypto Status=200 in 1.38s
-2025-07-13 00:07:57|INFO|MarketDataSync|• Processing Fetch Results 
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Applied transformation function for gold
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Applied blacklist filter for gold
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Saved latest raw JSON: gold.json
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Applied transformation function for currency
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Applied blacklist filter for currency
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Saved latest raw JSON: currency.json
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• No Persian name found for: Altcoin
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• No Persian name found for: PePeonTron
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• No Persian name found for: Children Of The Sky
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• No Persian name found for: Velvet
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• No Persian name found for: Save
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• No Persian name found for: MOOMOO THE BULL
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• No Persian name found for: spinning cat
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• No Persian name found for: Tevaera
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• No Persian name found for: McDonald's tokenized stock (xStock)
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• No Persian name found for: Gamestop tokenized stock (xStock)
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Persian name mapping: 10 crypto names were not found in the map.
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Applied transformation function for crypto
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Applied blacklist filter for crypto
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Saved latest raw JSON: cryptocurrency.json
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Applied transformation function for commodity
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Applied blacklist filter for commodity
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Saved latest raw JSON: commodity.json
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Fetch Results Summary:  Processed=4,  Errors=0
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• [34m• Creating Consolidated JSON Output[0m
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Reading commodity.json for consolidation...
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Reading cryptocurrency.json for consolidation...
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Reading gold.json for consolidation...
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Reading currency.json for consolidation...
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Reading lite.json for consolidation...
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• [32m✓ Consolidated JSON successfully created at: api/v1/market/all_market_data.json (5 files combined)[0m
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• [34m• Creating Lite JSON Output[0m
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: currency/USD
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: currency/EUR
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Tether
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Bitcoin
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Ethereum
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/TRON
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Dogecoin
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: currency/TRY
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: currency/RUB
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: currency/AED
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: currency/CNY
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: currency/GBP
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: gold/EMAMI
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: gold/BAHAR
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: gold/1G
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: gold/18K
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: gold/24K
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Binance Coin
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: currency/CAD
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: currency/KWD
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: currency/SAR
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: currency/IQD
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: currency/BHD
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: currency/THB
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• Found and added asset: currency/OMR
-2025-07-13 00:07:57|DEBUG|MarketDataSync|• [32m✓ Lite JSON successfully created at: api/v1/market/lite.json (25 assets included)[0m
-2025-07-13 00:07:58|DEBUG|MarketDataSync|• ✓ Protobuf files generated in api/v2/market
-2025-07-13 00:07:58|INFO|MarketDataSync|[32m• Market Data Sync END [0m|[90m Duration: 2.33s[0m
 2025-07-13 00:19:24|DEBUG|MarketDataSync|• Logging initialized. Console level: INFO. General logs: 'logs/app.log'. Error logs: 'logs/error.log'.
 2025-07-13 00:19:24|INFO|MarketDataSync|[32m• Market Data Sync START [0m
 2025-07-13 00:19:24|DEBUG|MarketDataSync|[32m• Starting Market Data Sync Cycle [0m
@@ -3129,3 +2143,107 @@ FileNotFoundError: [Errno 2] No such file or directory: 'dictionaries/lite_asset
 2025-07-13 03:28:12|DEBUG|MarketDataSync|• [32m✓ Lite JSON successfully created at: api/v1/market/lite.json (25 assets included)[0m
 2025-07-13 03:28:12|DEBUG|MarketDataSync|• ✓ Protobuf files generated in api/v2/market
 2025-07-13 03:28:12|INFO|MarketDataSync|[32m• Market Data Sync END [0m|[90m Duration: 1.78s[0m
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Logging initialized. Console level: INFO. General logs: 'logs/app.log'. Error logs: 'logs/error.log'.
+2025-07-13 05:40:00|INFO|MarketDataSync|[32m• Market Data Sync START [0m
+2025-07-13 05:40:00|DEBUG|MarketDataSync|[32m• Starting Market Data Sync Cycle [0m
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Successfully loaded 3472 crypto name mappings from dictionaries/crypto_names_fa.json
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Loaded 2 blacklist entries from dictionaries/blacklist.json
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Cycle time: UTC=2025-07-13T02:10:00.451630+00:00, Local=2025-07-13T05:40:00.451630+03:30
+2025-07-13 05:40:00|INFO|MarketDataSync|• Checking API Fetch Tasks 
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Checking fetch task: 'gold'
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Scheduling fetch for: 'gold'
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Checking fetch task: 'currency'
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Scheduling fetch for: 'currency'
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Checking fetch task: 'crypto'
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Scheduling fetch for: 'crypto'
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Checking fetch task: 'commodity'
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Scheduling fetch for: 'commodity'
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Checking fetch task: 'tse_ifb_symbols'
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Market Check: LocalTime=05:40:00 +0330, Weekday=6, CurrentTime=05:40:00.452112, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
+2025-07-13 05:40:00|DEBUG|MarketDataSync|•  // Skip 'tse_ifb_symbols': Market is closed.
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Checking fetch task: 'tse_options'
+2025-07-13 05:40:00|DEBUG|MarketDataSync|•  // Skip 'tse_options': Disabled in config.
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Checking fetch task: 'tse_nav'
+2025-07-13 05:40:00|DEBUG|MarketDataSync|•  // Skip 'tse_nav': Disabled in config.
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Checking fetch task: 'tse_index'
+2025-07-13 05:40:00|DEBUG|MarketDataSync|•  // Skip 'tse_index': Disabled in config.
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Checking fetch task: 'ifb_index'
+2025-07-13 05:40:00|DEBUG|MarketDataSync|•  // Skip 'ifb_index': Disabled in config.
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Checking fetch task: 'selected_indices'
+2025-07-13 05:40:00|DEBUG|MarketDataSync|•  // Skip 'selected_indices': Disabled in config.
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Checking fetch task: 'debt_securities'
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Market Check: LocalTime=05:40:00 +0330, Weekday=6, CurrentTime=05:40:00.452514, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
+2025-07-13 05:40:00|DEBUG|MarketDataSync|•  // Skip 'debt_securities': Market is closed.
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Checking fetch task: 'housing_facilities'
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Market Check: LocalTime=05:40:00 +0330, Weekday=6, CurrentTime=05:40:00.452668, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
+2025-07-13 05:40:00|DEBUG|MarketDataSync|•  // Skip 'housing_facilities': Market is closed.
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Checking fetch task: 'futures'
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Market Check: LocalTime=05:40:00 +0330, Weekday=6, CurrentTime=05:40:00.452782, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
+2025-07-13 05:40:00|DEBUG|MarketDataSync|•  // Skip 'futures': Market is closed.
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Attempting to fetch data for 4 endpoints...
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Requesting: gold
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Requesting: currency
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Requesting: crypto
+2025-07-13 05:40:00|DEBUG|MarketDataSync|• Requesting: commodity
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Response: commodity Status=200 in 0.96s
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Response: gold Status=200 in 0.97s
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Response: crypto Status=200 in 0.96s
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Response: currency Status=200 in 0.98s
+2025-07-13 05:40:01|INFO|MarketDataSync|• Processing Fetch Results 
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Applied transformation function for gold
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Applied blacklist filter for gold
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Saved latest raw JSON: gold.json
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Applied transformation function for currency
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Applied blacklist filter for currency
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Saved latest raw JSON: currency.json
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• No Persian name found for: Altcoin
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• No Persian name found for: PePeonTron
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• No Persian name found for: Velvet
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Persian name mapping: 3 crypto names were not found in the map.
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Applied transformation function for crypto
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Applied blacklist filter for crypto
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Saved latest raw JSON: cryptocurrency.json
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Applied transformation function for commodity
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Applied blacklist filter for commodity
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Saved latest raw JSON: commodity.json
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Fetch Results Summary:  Processed=4,  Errors=0
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• [34m• Creating Consolidated JSON Output[0m
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Reading commodity.json for consolidation...
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Reading cryptocurrency.json for consolidation...
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Reading gold.json for consolidation...
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Reading currency.json for consolidation...
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Reading lite.json for consolidation...
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• [32m✓ Consolidated JSON successfully created at: api/v1/market/all_market_data.json (5 files combined)[0m
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• [34m• Creating Lite JSON Output[0m
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: currency/USD
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: currency/EUR
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Tether
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Bitcoin
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Ethereum
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/TRON
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Dogecoin
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: currency/TRY
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: currency/RUB
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: currency/AED
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: currency/CNY
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: currency/GBP
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: gold/EMAMI
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: gold/BAHAR
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: gold/1G
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: gold/18K
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: gold/24K
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: cryptocurrency/Binance Coin
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: currency/CAD
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: currency/KWD
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: currency/SAR
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: currency/IQD
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: currency/BHD
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: currency/THB
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• Found and added asset: currency/OMR
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• [32m✓ Lite JSON successfully created at: api/v1/market/lite.json (25 assets included)[0m
+2025-07-13 05:40:01|DEBUG|MarketDataSync|• ✓ Protobuf files generated in api/v2/market
+2025-07-13 05:40:01|INFO|MarketDataSync|[32m• Market Data Sync END [0m|[90m Duration: 1.46s[0m
