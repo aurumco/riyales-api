@@ -48,18 +48,7 @@
     "metal_base": [
         {
             "date": "1404/04/25",
-            "time": "02:45",
-            "symbol": "Cu",
-            "name": "مس",
-            "price": 9639.95,
-            "change_percent": -0.3,
-            "unit": "دلار",
-            "nameFa": "مس",
-            "nameEn": "Copper"
-        },
-        {
-            "date": "1404/04/25",
-            "time": "02:45",
+            "time": "03:08",
             "symbol": "Al",
             "name": "آلومینیوم",
             "price": 2582.45,
@@ -70,18 +59,7 @@
         },
         {
             "date": "1404/04/25",
-            "time": "02:45",
-            "symbol": "Zn",
-            "name": "روی",
-            "price": 2698.15,
-            "change_percent": -1.46,
-            "unit": "دلار",
-            "nameFa": "روی",
-            "nameEn": "Zinc"
-        },
-        {
-            "date": "1404/04/25",
-            "time": "02:45",
+            "time": "03:08",
             "symbol": "Pb",
             "name": "سرب",
             "price": 1999.7,
@@ -92,7 +70,7 @@
         },
         {
             "date": "1404/04/25",
-            "time": "02:45",
+            "time": "03:08",
             "symbol": "Ni",
             "name": "نیکل",
             "price": 15161.5,
@@ -103,7 +81,29 @@
         },
         {
             "date": "1404/04/25",
-            "time": "02:56",
+            "time": "03:10",
+            "symbol": "Cu",
+            "name": "مس",
+            "price": 9639.95,
+            "change_percent": -0.3,
+            "unit": "دلار",
+            "nameFa": "مس",
+            "nameEn": "Copper"
+        },
+        {
+            "date": "1404/04/25",
+            "time": "03:10",
+            "symbol": "Zn",
+            "name": "روی",
+            "price": 2698.15,
+            "change_percent": -1.46,
+            "unit": "دلار",
+            "nameFa": "روی",
+            "nameEn": "Zinc"
+        },
+        {
+            "date": "1404/04/25",
+            "time": "03:10",
             "symbol": "Sn",
             "name": "قلع",
             "price": 33525,
@@ -117,39 +117,6 @@
         {
             "date": "1404/04/25",
             "time": "02:45",
-            "symbol": "BRENT",
-            "name": "نفت برنت",
-            "price": 68.85,
-            "change_percent": -2.19,
-            "unit": "دلار",
-            "nameFa": "نفت برنت",
-            "nameEn": "Brent Oil"
-        },
-        {
-            "date": "1404/04/25",
-            "time": "02:45",
-            "symbol": "WTI",
-            "name": "نفت سبک",
-            "price": 66.82,
-            "change_percent": -2.44,
-            "unit": "دلار",
-            "nameFa": "نفت سبک",
-            "nameEn": "WTI Oil"
-        },
-        {
-            "date": "1404/04/25",
-            "time": "02:45",
-            "symbol": "GAS",
-            "name": "گاز طبیعی",
-            "price": 3.521,
-            "change_percent": 6.25,
-            "unit": "دلار",
-            "nameFa": "گاز طبیعی",
-            "nameEn": "Natural Gas"
-        },
-        {
-            "date": "1404/04/25",
-            "time": "02:45",
             "symbol": "RBOB",
             "name": "بنزین",
             "price": 2.1757,
@@ -160,7 +127,40 @@
         },
         {
             "date": "1404/04/25",
-            "time": "02:45",
+            "time": "03:00",
+            "symbol": "WTI",
+            "name": "نفت سبک",
+            "price": 66.82,
+            "change_percent": -2.44,
+            "unit": "دلار",
+            "nameFa": "نفت سبک",
+            "nameEn": "WTI Oil"
+        },
+        {
+            "date": "1404/04/25",
+            "time": "03:01",
+            "symbol": "BRENT",
+            "name": "نفت برنت",
+            "price": 68.85,
+            "change_percent": -2.19,
+            "unit": "دلار",
+            "nameFa": "نفت برنت",
+            "nameEn": "Brent Oil"
+        },
+        {
+            "date": "1404/04/25",
+            "time": "03:08",
+            "symbol": "GAS",
+            "name": "گاز طبیعی",
+            "price": 3.521,
+            "change_percent": 6.25,
+            "unit": "دلار",
+            "nameFa": "گاز طبیعی",
+            "nameEn": "Natural Gas"
+        },
+        {
+            "date": "1404/04/25",
+            "time": "03:08",
             "symbol": "GASOIL",
             "name": "گازوئیل",
             "price": 702.75,
@@ -171,7 +171,7 @@
         },
         {
             "date": "1404/04/25",
-            "time": "02:56",
+            "time": "03:10",
             "symbol": "OPEC",
             "name": "نفت اپک",
             "price": 72,
