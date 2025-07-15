@@ -609,305 +609,6 @@ FileNotFoundError: [Errno 2] No such file or directory: 'dictionaries/lite_asset
 <<<<<<< Updated upstream
 =======
 >>>>>>> Stashed changes
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Logging initialized. Console level: INFO. General logs: 'logs/app.log'. Error logs: 'logs/error.log'.
-2025-07-15 07:37:18|INFO|MarketDataSync|[32m• Market Data Sync START [0m
-2025-07-15 07:37:18|DEBUG|MarketDataSync|[32m• Starting Market Data Sync Cycle [0m
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Successfully loaded 3472 crypto name mappings from dictionaries/crypto_names_fa.json
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Loaded 2 blacklist entries from dictionaries/blacklist.json
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Cycle time: UTC=2025-07-15T04:07:18.520211+00:00, Local=2025-07-15T07:37:18.520211+03:30
-2025-07-15 07:37:18|INFO|MarketDataSync|• Checking API Fetch Tasks 
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Checking fetch task: 'gold'
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Scheduling fetch for: 'gold'
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Checking fetch task: 'currency'
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Scheduling fetch for: 'currency'
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Checking fetch task: 'crypto'
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Scheduling fetch for: 'crypto'
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Checking fetch task: 'commodity'
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Scheduling fetch for: 'commodity'
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Checking fetch task: 'tse_ifb_symbols'
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Market Check: LocalTime=07:37:18 +0330, Weekday=1, CurrentTime=07:37:18.520781, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-15 07:37:18|DEBUG|MarketDataSync|•  // Skip 'tse_ifb_symbols': Market is closed.
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Checking fetch task: 'tse_options'
-2025-07-15 07:37:18|DEBUG|MarketDataSync|•  // Skip 'tse_options': Disabled in config.
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Checking fetch task: 'tse_nav'
-2025-07-15 07:37:18|DEBUG|MarketDataSync|•  // Skip 'tse_nav': Disabled in config.
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Checking fetch task: 'tse_index'
-2025-07-15 07:37:18|DEBUG|MarketDataSync|•  // Skip 'tse_index': Disabled in config.
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Checking fetch task: 'ifb_index'
-2025-07-15 07:37:18|DEBUG|MarketDataSync|•  // Skip 'ifb_index': Disabled in config.
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Checking fetch task: 'selected_indices'
-2025-07-15 07:37:18|DEBUG|MarketDataSync|•  // Skip 'selected_indices': Disabled in config.
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Checking fetch task: 'debt_securities'
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Market Check: LocalTime=07:37:18 +0330, Weekday=1, CurrentTime=07:37:18.521154, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-15 07:37:18|DEBUG|MarketDataSync|•  // Skip 'debt_securities': Market is closed.
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Checking fetch task: 'housing_facilities'
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Market Check: LocalTime=07:37:18 +0330, Weekday=1, CurrentTime=07:37:18.521270, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-15 07:37:18|DEBUG|MarketDataSync|•  // Skip 'housing_facilities': Market is closed.
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Checking fetch task: 'futures'
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Market Check: LocalTime=07:37:18 +0330, Weekday=1, CurrentTime=07:37:18.521381, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
-2025-07-15 07:37:18|DEBUG|MarketDataSync|•  // Skip 'futures': Market is closed.
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Attempting to fetch data for 4 endpoints...
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Requesting: gold
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Requesting: currency
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Requesting: crypto
-2025-07-15 07:37:18|DEBUG|MarketDataSync|• Requesting: commodity
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Response: crypto Status=200 in 1.07s
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Response: gold Status=200 in 1.08s
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Response: currency Status=200 in 1.07s
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Response: commodity Status=200 in 1.09s
-2025-07-15 07:37:19|INFO|MarketDataSync|• Processing Fetch Results 
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Applied transformation function for gold
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Applied blacklist filter for gold
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Saved latest raw JSON: gold.json
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Applied transformation function for currency
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Applied blacklist filter for currency
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Saved latest raw JSON: currency.json
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: بیت‌کوین
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: اتریوم
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ریپل
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: تتر
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: بایننس کوین
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: سولانا
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: یو‌اس‌دی کوین
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: دوج‌کوین
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ترون
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: کاردانو
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: هایپرلیکوئید
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: استلار
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: سویی
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: چین‌لینک
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: بیت‌کوین کش
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: هدرا هش‌گراف
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: آوالانچ
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: یونس سد لئو
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: شیبا اینو
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: تون‌کوین
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: لایت‌کوین
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: مونرو
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: پولکادات
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: یونی‌سواپ
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: دای
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: اتنا یو‌اس‌دی‌ای
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: بیت‌گت توکن
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: پپه
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: آوه
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: بیت‌تنسور
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: پای
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: کریپتو دات کام کوین
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: آپتوس
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: نیر پروتکل
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: اوکی‌بی
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: اینترنت کامپیوتر
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: اوندو
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: اتریوم کلاسیک
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: منتل
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: الگوراند
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: پالیگان اکوسیستم توکن
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: بونک
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: دلار مالی جهانی لیبرتی
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: کاسپا
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: اتنا
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: وی‌چین
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: فست‌توکن
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: آربیتروم
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: سِی
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: گیت‌توکن
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: رندر توکن
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: پاجی پنگوئنز
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: آفیشال ترامپ
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ورلدکوین
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: کازموس
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: فایل‌کوین
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: فچ ای‌آی
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: کوکوین شیرز
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: فرست دیجیتال یو‌اس‌دی
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ژوپیتر
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: اس‌پی‌ایکس ۶۹۰۰
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: کوانت
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: سلستیا
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: فارت‌کوین
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: استوری
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: باینری ایکس
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: اینجکتیو
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ایکس‌دی‌سی نتورک
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: فلر
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: استاکس
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: آپتیمیزم
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ویرچوال پروتکل
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: سونیک (FTM سابق)
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: داگ‌ویف‌هت
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ایمیوتبل ایکس
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: کرو دائو توکن
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: گراف
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: پکس گلد
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: کایا
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: فلوکی اینو
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: پی‌پال یو‌اس‌دی
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: والتا
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: آیوتا
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: نکسو
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: تتر گلد
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: پنکیک سواپ
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: اتریوم نیم سرویس
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: تتا
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: سندباکس
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: جاسمی‌کوین
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: گالا
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: لیدو دائو
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ریدیوم
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: زکش
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: بیت‌تورنت-نیو
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ایرودروم فایننس
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: پایت نتورک
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: تزوس
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: چین
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: پندل
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: جیتو
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: دکسی
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: دیپ‌بوک پروتکل
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: فلو
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ماگ کوین
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: نیوتن
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: دیسنترالند
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: والروس
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: مورفو
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: هلیوم
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: یو‌اس‌دی‌دی
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: میپل فایننس
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: کور دائو
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ثورچین
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: بیت‌کوین اس‌وی
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: برت
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: کانفلاکس
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ترو یو‌اس‌دی
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: استارک‌نت
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: وان اینچ
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ایپ‌کوین
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: سوپرفارم
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: کاوا دات آی‌او
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ای‌پی‌ان‌اف‌تی
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ریزرور رایتس
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: کامپوند
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: دی‌وای‌دی‌اکس (نیتیو)
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: آرویو
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ای‌آی‌او‌زد نتورک
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: نئو
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: الروند
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ای‌کش
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: داگ (رونز)
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ایگن‌لیر
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: اکسی اینفینیتی
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: توربو
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: زدکی سینک
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: مومنت
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: چیلیز
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: کانوکس فایننس
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ورم‌هول
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: کایتو
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: جاست
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: سان (جدید)
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: پاپ‌کت
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: اکسلار
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ترا کلاسیک
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: لیر زیرو
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: رونین
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: گنوسیس
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: آکاش نتورک
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: بیم
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: کردیت‌کوین
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: اثیر
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: تراست ولت توکن
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: آمپ
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: سیف
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: اف‌تی‌اکس توکن
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: لایوپیر
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: دیکرد
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: موکاورس
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: کت این ا داگز ورلد
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: گراس
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: دش
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: تتا فیول
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: سیف‌پال
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: گولم
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: چیمز
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: براچین
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: کوساما
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: مینا
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: کیوتوم
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: زیلیکا
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: مانترا دائو
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: بیسیک اتنشن توکن
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: زیرو ایکس
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: بیبی دوج کوین
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: سینتتیکس
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ام‌اکس توکن
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: بلر
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: فرکس شیر
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: گس
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: نات‌کوین
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: اوئیسیس نتورک
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: آستار
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ای‌آی ۱۶ زی
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: زتاچین
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: الکمی پی
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: نرووس نتورک
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: وی‌ثور توکن
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: سلو
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: اسپیس آی‌دی
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: نکس‌پیس
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: اوریجین تریل
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: آنکر
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: کادنا
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: آفیشال ملانیا میم
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: کاسپر
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: سولایر
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: بابیلون
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: پولی‌هدرا نتورک
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: ای‌او‌اس
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• No Persian name found for: میکر
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Persian name mapping: 203 crypto names were not found in the map.
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Applied transformation function for crypto
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Applied blacklist filter for crypto
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Saved latest raw JSON: cryptocurrency.json
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Applied transformation function for commodity
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Applied blacklist filter for commodity
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Saved latest raw JSON: commodity.json
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Fetch Results Summary:  Processed=4,  Errors=0
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• [34m• Creating Consolidated JSON Output[0m
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Reading commodity.json for consolidation...
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Reading cryptocurrency.json for consolidation...
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Reading gold.json for consolidation...
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Reading currency.json for consolidation...
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Reading lite.json for consolidation...
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• [32m✓ Consolidated JSON successfully created at: api/v1/market/all_market_data.json (5 files combined)[0m
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• [34m• Creating Lite JSON Output[0m
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Found and added asset: currency/USD
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Found and added asset: currency/EUR
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Found and added asset: currency/TRY
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Found and added asset: currency/RUB
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Found and added asset: currency/AED
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Found and added asset: currency/CNY
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Found and added asset: currency/GBP
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Found and added asset: gold/EMAMI
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Found and added asset: gold/BAHAR
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Found and added asset: gold/1G
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Found and added asset: gold/18K
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Found and added asset: gold/24K
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Found and added asset: currency/CAD
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Found and added asset: currency/KWD
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Found and added asset: currency/SAR
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Found and added asset: currency/IQD
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Found and added asset: currency/BHD
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Found and added asset: currency/THB
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• Found and added asset: currency/OMR
-2025-07-15 07:37:19|WARNING|MarketDataSync|• Mismatch in assets: Found 19 out of 25 defined in lite config.
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• [32m✓ Lite JSON successfully created at: api/v1/market/lite.json (19 assets included)[0m
-2025-07-15 07:37:19|DEBUG|MarketDataSync|• ✓ Protobuf files generated in api/v2/market
-2025-07-15 07:37:19|INFO|MarketDataSync|[32m• Market Data Sync END [0m|[90m Duration: 1.22s[0m
 2025-07-15 08:19:16|DEBUG|MarketDataSync|• Logging initialized. Console level: INFO. General logs: 'logs/app.log'. Error logs: 'logs/error.log'.
 2025-07-15 08:19:16|INFO|MarketDataSync|[32m• Market Data Sync START [0m
 2025-07-15 08:19:16|DEBUG|MarketDataSync|[32m• Starting Market Data Sync Cycle [0m
@@ -34766,3 +34467,336 @@ FileNotFoundError: [Errno 2] No such file or directory: 'dictionaries/lite_asset
 2025-07-15 13:06:49|DEBUG|MarketDataSync|• [32m✓ Lite JSON successfully created at: api/v1/market/lite.json (19 assets included)[0m
 2025-07-15 13:06:49|DEBUG|MarketDataSync|• ✓ Protobuf files generated in api/v2/market
 2025-07-15 13:06:49|INFO|MarketDataSync|[32m• Market Data Sync END [0m|[90m Duration: 2.36s[0m
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Logging initialized. Console level: INFO. General logs: 'logs/app.log'. Error logs: 'logs/error.log'.
+2025-07-15 13:23:24|INFO|MarketDataSync|[32m• Market Data Sync START [0m
+2025-07-15 13:23:24|DEBUG|MarketDataSync|[32m• Starting Market Data Sync Cycle [0m
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Successfully loaded 3472 crypto name mappings from dictionaries/crypto_names_fa.json
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Loaded 2 blacklist entries from dictionaries/blacklist.json
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Cycle time: UTC=2025-07-15T09:53:24.197242+00:00, Local=2025-07-15T13:23:24.197242+03:30
+2025-07-15 13:23:24|INFO|MarketDataSync|• Checking API Fetch Tasks 
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Checking fetch task: 'gold'
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Scheduling fetch for: 'gold'
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Checking fetch task: 'currency'
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Scheduling fetch for: 'currency'
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Checking fetch task: 'crypto'
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Scheduling fetch for: 'crypto'
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Checking fetch task: 'commodity'
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Scheduling fetch for: 'commodity'
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Checking fetch task: 'tse_ifb_symbols'
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Market Check: LocalTime=13:23:24 +0330, Weekday=1, CurrentTime=13:23:24.197792, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
+2025-07-15 13:23:24|DEBUG|MarketDataSync|•  // Skip 'tse_ifb_symbols': Market is closed.
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Checking fetch task: 'tse_options'
+2025-07-15 13:23:24|DEBUG|MarketDataSync|•  // Skip 'tse_options': Disabled in config.
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Checking fetch task: 'tse_nav'
+2025-07-15 13:23:24|DEBUG|MarketDataSync|•  // Skip 'tse_nav': Disabled in config.
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Checking fetch task: 'tse_index'
+2025-07-15 13:23:24|DEBUG|MarketDataSync|•  // Skip 'tse_index': Disabled in config.
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Checking fetch task: 'ifb_index'
+2025-07-15 13:23:24|DEBUG|MarketDataSync|•  // Skip 'ifb_index': Disabled in config.
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Checking fetch task: 'selected_indices'
+2025-07-15 13:23:24|DEBUG|MarketDataSync|•  // Skip 'selected_indices': Disabled in config.
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Checking fetch task: 'debt_securities'
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Market Check: LocalTime=13:23:24 +0330, Weekday=1, CurrentTime=13:23:24.198158, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
+2025-07-15 13:23:24|DEBUG|MarketDataSync|•  // Skip 'debt_securities': Market is closed.
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Checking fetch task: 'housing_facilities'
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Market Check: LocalTime=13:23:24 +0330, Weekday=1, CurrentTime=13:23:24.198271, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
+2025-07-15 13:23:24|DEBUG|MarketDataSync|•  // Skip 'housing_facilities': Market is closed.
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Checking fetch task: 'futures'
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Market Check: LocalTime=13:23:24 +0330, Weekday=1, CurrentTime=13:23:24.198412, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
+2025-07-15 13:23:24|DEBUG|MarketDataSync|•  // Skip 'futures': Market is closed.
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Attempting to fetch data for 4 endpoints...
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Requesting: gold
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Requesting: currency
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Requesting: crypto
+2025-07-15 13:23:24|DEBUG|MarketDataSync|• Requesting: commodity
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Response: crypto Status=200 in 1.36s
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Response: currency Status=200 in 1.37s
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Response: commodity Status=200 in 1.39s
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Response: gold Status=200 in 1.41s
+2025-07-15 13:23:25|INFO|MarketDataSync|• Processing Fetch Results 
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Applied transformation function for gold
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Applied blacklist filter for gold
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Saved latest raw JSON: gold.json
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Applied transformation function for currency
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Applied blacklist filter for currency
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Saved latest raw JSON: currency.json
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: بیت‌کوین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: اتریوم
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ریپل
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: تتر
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: بایننس کوین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: سولانا
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: یو‌اس‌دی کوین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: دوج‌کوین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ترون
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: کاردانو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: هایپرلیکوئید
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: استلار
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: سویی
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: چین‌لینک
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: هدرا هش‌گراف
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: بیت‌کوین کش
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: آوالانچ
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: یونس سد لئو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: شیبا اینو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: تون‌کوین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: لایت‌کوین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: مونرو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: پولکادات
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: یونی‌سواپ
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: دای
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: اتنا یو‌اس‌دی‌ای
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: بیت‌گت توکن
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: پپه
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: آوه
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: بیت‌تنسور
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: پای
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: کریپتو دات کام کوین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: آپتوس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: نیر پروتکل
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: اوندو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: اوکی‌بی
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: اینترنت کامپیوتر
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: اتریوم کلاسیک
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: منتل
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: الگوراند
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: پالیگان اکوسیستم توکن
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: بونک
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: کاسپا
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: دلار مالی جهانی لیبرتی
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: اتنا
+2025-07-15 13:23:25|DEBUG|MarketDataSync|Skipping item: Missing 'name' key.
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: وی‌چین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: سِی
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: آربیتروم
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: فست‌توکن
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: رندر توکن
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: پاجی پنگوئنز
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: گیت‌توکن
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: آفیشال ترامپ
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ورلدکوین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: کازموس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: فایل‌کوین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: فچ ای‌آی
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ژوپیتر پرپس ال‌پی
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: کوکوین شیرز
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ژوپیتر
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: فرست دیجیتال یو‌اس‌دی
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: اس‌پی‌ایکس ۶۹۰۰
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: کوانت
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: سلستیا
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: استوری
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: فارت‌کوین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: باینری ایکس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: اینجکتیو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: استاکس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ایکس‌دی‌سی نتورک
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: فلر
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: آپتیمیزم
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ویرچوال پروتکل
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: داگ‌ویف‌هت
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: سونیک (FTM سابق)
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ایمیوتبل ایکس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: گراف
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: کرو دائو توکن
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: پکس گلد
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: کایا
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: فلوکی اینو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: والتا
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: پی‌پال یو‌اس‌دی
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: آیوتا
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: نکسو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: تتر گلد
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: پنکیک سواپ
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: اتریوم نیم سرویس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: تتا
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: سندباکس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: جاسمی‌کوین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: گالا
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: لیدو دائو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ریدیوم
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: زیبو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: زکش
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: فلز
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ایرودروم فایننس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: بیت‌تورنت-نیو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: پایت نتورک
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: تزوس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: پندل
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: چین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: جیتو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ماگ کوین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: اوندو یو‌اس‌دی ییلد
+2025-07-15 13:23:25|DEBUG|MarketDataSync|Skipping item: Missing 'name' key.
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: دیپ‌بوک پروتکل
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: یوزوال
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: دکسی
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: فلو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: والروس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: دیسنترالند
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: فالکون فایننس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: نیوتن
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: مورفو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: تل‌کوین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: هلیوم
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: یو‌اس‌دی‌دی
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: کور دائو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ثورچین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: میپل فایننس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: برت
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ریپل یو‌اس‌دی
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: بیت‌کوین اس‌وی
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: کانفلاکس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ترو یو‌اس‌دی
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: بلدکس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: استارک‌نت
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: سوپرفارم
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: وان اینچ
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ایپ‌کوین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: کاوا دات آی‌او
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: آرویو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ریزرور رایتس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: دی‌وای‌دی‌اکس (نیتیو)
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ای‌پی‌ان‌اف‌تی
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: کامپوند
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: نئو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ای‌آی‌او‌زد نتورک
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: الروند
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ای‌کش
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: داگ (رونز)
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ایگن‌لیر
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: اکسی اینفینیتی
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: زدکی سینک
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: توربو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: مومنت
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: چیلیز
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: کانوکس فایننس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: کایتو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ورم‌هول
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: گلوبال دلار
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: جاست
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: پاپ‌کت
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: سان (جدید)
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: اکسلار
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ترا کلاسیک
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: لیر زیرو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: رونین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: بیم
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: آکاش نتورک
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: گنوسیس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: اولیمپوس وی‌۲
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: یوپی‌سی‌اکس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: اثیر
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: کردیت‌کوین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: تراست ولت توکن
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: فرکس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: آمپ
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ساروس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: سیف
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: اف‌تی‌اکس توکن
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: لایوپیر
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: موکاورس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: دیکرد
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: گراس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: کت این ا داگز ورلد
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: دش
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: سیف‌پال
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: گولم
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: تتا فیول
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: وایت‌راک
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: چیمز
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: براچین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: کوساما
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: مینا
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: کیوتوم
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: زیلیکا
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: اولتیما
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: اسنک
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: مانترا دائو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: بیسیک اتنشن توکن
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: چیلی
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: بیبی دوج کوین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: زیرو ایکس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: سینتتیکس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: یورو کوین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ام‌اکس توکن
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: فرکس شیر
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: پلوم
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: بلر
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: گس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: نات‌کوین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: اوئیسیس نتورک
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: آستار
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: سوئیس بورگ
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ای‌آی ۱۶ زی
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: زتاچین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: پروژه آیلی
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: الکمی پی
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: نرووس نتورک
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: وی‌ثور توکن
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: لگسی توکن
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: سلو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: سیاکوین
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: اسپیس آی‌دی
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: نکس‌پیس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: هارمونی
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: اوریجین تریل
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: آنکر
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: کادنا
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: الکسیر دی‌یو‌اس‌دی
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: آفیشال ملانیا میم
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: لانچ کوین آن بیلیو
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: کاسپر
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: سولایر
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: چینتای
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: بابیلون
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: لاگرانژ
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: پولی‌هدرا نتورک
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: جی‌اچ‌او
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: وولد
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: لودد لاینز
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: ای‌او‌اس
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• No Persian name found for: میکر
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Persian name mapping: 235 crypto names were not found in the map.
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Applied transformation function for crypto
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Applied blacklist filter for crypto
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Saved latest raw JSON: cryptocurrency.json
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Applied transformation function for commodity
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Applied blacklist filter for commodity
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Saved latest raw JSON: commodity.json
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Fetch Results Summary:  Processed=4,  Errors=0
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• [34m• Creating Consolidated JSON Output[0m
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Reading commodity.json for consolidation...
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Reading cryptocurrency.json for consolidation...
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Reading gold.json for consolidation...
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Reading currency.json for consolidation...
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Reading lite.json for consolidation...
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• [32m✓ Consolidated JSON successfully created at: api/v1/market/all_market_data.json (5 files combined)[0m
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• [34m• Creating Lite JSON Output[0m
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Found and added asset: currency/USD
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Found and added asset: currency/EUR
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Found and added asset: currency/TRY
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Found and added asset: currency/RUB
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Found and added asset: currency/AED
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Found and added asset: currency/CNY
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Found and added asset: currency/GBP
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Found and added asset: gold/EMAMI
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Found and added asset: gold/BAHAR
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Found and added asset: gold/1G
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Found and added asset: gold/18K
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Found and added asset: gold/24K
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Found and added asset: currency/CAD
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Found and added asset: currency/KWD
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Found and added asset: currency/SAR
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Found and added asset: currency/IQD
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Found and added asset: currency/BHD
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Found and added asset: currency/THB
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• Found and added asset: currency/OMR
+2025-07-15 13:23:25|WARNING|MarketDataSync|• Mismatch in assets: Found 19 out of 25 defined in lite config.
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• [32m✓ Lite JSON successfully created at: api/v1/market/lite.json (19 assets included)[0m
+2025-07-15 13:23:25|DEBUG|MarketDataSync|• ✓ Protobuf files generated in api/v2/market
+2025-07-15 13:23:25|INFO|MarketDataSync|[32m• Market Data Sync END [0m|[90m Duration: 1.55s[0m
