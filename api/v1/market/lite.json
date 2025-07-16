@@ -8,8 +8,8 @@
             "name_en": "US Dollar",
             "name": "دلار",
             "price": 88840,
-            "change_value": -60,
-            "change_percent": -0.07,
+            "change_value": -580,
+            "change_percent": -0.65,
             "unit": "تومان"
         },
         {
@@ -20,8 +20,8 @@
             "name_en": "Euro",
             "name": "یورو",
             "price": 103410,
-            "change_value": -590,
-            "change_percent": -0.57,
+            "change_value": -1080,
+            "change_percent": -1.04,
             "unit": "تومان"
         },
         {
@@ -32,8 +32,8 @@
             "name_en": "Turkish Lira",
             "name": "لیر ترکیه",
             "price": 2200,
-            "change_value": -10,
-            "change_percent": -0.45,
+            "change_value": -30,
+            "change_percent": -1.36,
             "unit": "تومان"
         },
         {
@@ -44,8 +44,8 @@
             "name_en": "Russian Ruble",
             "name": "روبل روسیه",
             "price": 1140,
-            "change_value": -15,
-            "change_percent": -1.32,
+            "change_value": -18,
+            "change_percent": -1.58,
             "unit": "تومان"
         },
         {
@@ -56,8 +56,8 @@
             "name_en": "UAE Dirham",
             "name": "درهم امارات",
             "price": 24288,
-            "change_value": -11,
-            "change_percent": -0.05,
+            "change_value": -196,
+            "change_percent": -0.81,
             "unit": "تومان"
         },
         {
@@ -68,8 +68,8 @@
             "name_en": "Chinese Yuan",
             "name": "یوآن چین",
             "price": 12380,
-            "change_value": -30,
-            "change_percent": -0.24,
+            "change_value": -100,
+            "change_percent": -0.81,
             "unit": "تومان"
         },
         {
@@ -80,8 +80,8 @@
             "name_en": "British Pound",
             "name": "پوند",
             "price": 119270,
-            "change_value": -720,
-            "change_percent": -0.6,
+            "change_value": -1050,
+            "change_percent": -0.88,
             "unit": "تومان"
         },
         {
@@ -92,8 +92,8 @@
             "name_en": "Canadian Dollar",
             "name": "دلار کانادا",
             "price": 64870,
-            "change_value": -120,
-            "change_percent": -0.18,
+            "change_value": -540,
+            "change_percent": -0.83,
             "unit": "تومان"
         },
         {
@@ -104,8 +104,8 @@
             "name_en": "Kuwaiti Dinar",
             "name": "دینار کویت",
             "price": 291180,
-            "change_value": 60,
-            "change_percent": 0.02,
+            "change_value": -2170,
+            "change_percent": -0.75,
             "unit": "تومان"
         },
         {
@@ -116,8 +116,8 @@
             "name_en": "Saudi Riyal",
             "name": "ریال عربستان",
             "price": 23712,
-            "change_value": -25,
-            "change_percent": -0.11,
+            "change_value": -196,
+            "change_percent": -0.83,
             "unit": "تومان"
         },
         {
@@ -128,8 +128,8 @@
             "name_en": "Iraqi Dinar",
             "name": "دینار عراق",
             "price": 62,
-            "change_value": 1,
-            "change_percent": 1.97,
+            "change_value": 0,
+            "change_percent": 1.31,
             "unit": "تومان"
         },
         {
@@ -140,8 +140,8 @@
             "name_en": "Bahraini Dinar",
             "name": "دینار بحرین",
             "price": 235650,
-            "change_value": -110,
-            "change_percent": -0.05,
+            "change_value": -1620,
+            "change_percent": -0.69,
             "unit": "تومان"
         },
         {
@@ -152,8 +152,8 @@
             "name_en": "Thai Baht",
             "name": "بات تایلند",
             "price": 2735,
-            "change_value": -1,
-            "change_percent": -0.04,
+            "change_value": -17,
+            "change_percent": -0.62,
             "unit": "تومان"
         },
         {
@@ -164,8 +164,8 @@
             "name_en": "Omani Rial",
             "name": "ریال عمان",
             "price": 230750,
-            "change_value": -250,
-            "change_percent": -0.11,
+            "change_value": -1590,
+            "change_percent": -0.69,
             "unit": "تومان"
         }
     ],
@@ -178,8 +178,8 @@
             "name_en": "Emami Coin",
             "name": "سکه امامی",
             "price": 79805000,
-            "change_value": -380000,
-            "change_percent": -0.48,
+            "change_value": -1185000,
+            "change_percent": -1.48,
             "unit": "تومان",
             "nameFa": "سکه امامی",
             "nameEn": "Emami Coin"
@@ -192,8 +192,8 @@
             "name_en": "Bahar Azadi Coin",
             "name": "سکه بهار آزادی",
             "price": 72320000,
-            "change_value": 5000,
-            "change_percent": 0.01,
+            "change_value": -380000,
+            "change_percent": -0.53,
             "unit": "تومان",
             "nameFa": "سکه بهار آزادی",
             "nameEn": "Bahar Azadi Coin"
@@ -206,8 +206,8 @@
             "name_en": "1g Coin",
             "name": "سکه یک گرمی",
             "price": 14600000,
-            "change_value": -100000,
-            "change_percent": -0.68,
+            "change_value": -200000,
+            "change_percent": -1.37,
             "unit": "تومان",
             "nameFa": "سکه یک گرمی",
             "nameEn": "1g Coin"
