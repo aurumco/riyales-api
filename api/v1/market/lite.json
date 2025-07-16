@@ -32,8 +32,8 @@
             "name_en": "Turkish Lira",
             "name": "لیر ترکیه",
             "price": 2200,
-            "change_value": -30,
-            "change_percent": -1.36,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان"
         },
         {
@@ -116,8 +116,8 @@
             "name_en": "Saudi Riyal",
             "name": "ریال عربستان",
             "price": 23712,
-            "change_value": -196,
-            "change_percent": -0.83,
+            "change_value": 87,
+            "change_percent": 0.37,
             "unit": "تومان"
         },
         {
@@ -140,8 +140,8 @@
             "name_en": "Bahraini Dinar",
             "name": "دینار بحرین",
             "price": 235650,
-            "change_value": -1620,
-            "change_percent": -0.69,
+            "change_value": 890,
+            "change_percent": 0.38,
             "unit": "تومان"
         },
         {
@@ -152,8 +152,8 @@
             "name_en": "Thai Baht",
             "name": "بات تایلند",
             "price": 2735,
-            "change_value": -17,
-            "change_percent": -0.62,
+            "change_value": 18,
+            "change_percent": 0.66,
             "unit": "تومان"
         },
         {
