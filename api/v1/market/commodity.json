@@ -1,45 +1,45 @@
 {
     "metal_precious": [
         {
-            "date": "1404/04/26",
-            "time": "23:50",
+            "date": "1404/04/27",
+            "time": "00:10",
             "symbol": "XAUUSD",
             "name": "انس طلا",
-            "price": 3338.89,
-            "change_percent": -0.31,
+            "price": 3339.37,
+            "change_percent": -0.01,
             "unit": "دلار",
             "nameFa": "انس طلا",
             "nameEn": "Gold Ounce"
         },
         {
-            "date": "1404/04/26",
-            "time": "23:50",
+            "date": "1404/04/27",
+            "time": "00:10",
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 38.14,
-            "change_percent": 0.6,
+            "change_percent": 0.04,
             "unit": "دلار",
             "nameFa": "انس نقره",
             "nameEn": "Silver Ounce"
         },
         {
-            "date": "1404/04/26",
-            "time": "23:50",
+            "date": "1404/04/27",
+            "time": "00:10",
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
-            "price": 1488.6,
-            "change_percent": 3.66,
+            "price": 1489.9,
+            "change_percent": 0.35,
             "unit": "دلار",
             "nameFa": "انس پلاتین",
             "nameEn": "Platinum Ounce"
         },
         {
-            "date": "1404/04/26",
-            "time": "23:50",
+            "date": "1404/04/27",
+            "time": "00:10",
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
-            "price": 1310.75,
-            "change_percent": 1.73,
+            "price": 1314,
+            "change_percent": -0.04,
             "unit": "دلار",
             "nameFa": "انس پالادیوم",
             "nameEn": "Palladium Ounce"
@@ -47,8 +47,8 @@
     ],
     "metal_base": [
         {
-            "date": "1404/04/26",
-            "time": "23:50",
+            "date": "1404/04/27",
+            "time": "00:10",
             "symbol": "Cu",
             "name": "مس",
             "price": 9674.95,
@@ -58,8 +58,8 @@
             "nameEn": "Copper"
         },
         {
-            "date": "1404/04/26",
-            "time": "23:50",
+            "date": "1404/04/27",
+            "time": "00:10",
             "symbol": "Al",
             "name": "آلومینیوم",
             "price": 2588.25,
@@ -69,8 +69,8 @@
             "nameEn": "Aluminum"
         },
         {
-            "date": "1404/04/26",
-            "time": "23:50",
+            "date": "1404/04/27",
+            "time": "00:10",
             "symbol": "Zn",
             "name": "روی",
             "price": 2740.3,
@@ -80,8 +80,8 @@
             "nameEn": "Zinc"
         },
         {
-            "date": "1404/04/26",
-            "time": "23:50",
+            "date": "1404/04/27",
+            "time": "00:10",
             "symbol": "Pb",
             "name": "سرب",
             "price": 1976.2,
@@ -91,8 +91,8 @@
             "nameEn": "Lead"
         },
         {
-            "date": "1404/04/26",
-            "time": "23:50",
+            "date": "1404/04/27",
+            "time": "00:10",
             "symbol": "Sn",
             "name": "قلع",
             "price": 32752,
@@ -102,8 +102,8 @@
             "nameEn": "Tin"
         },
         {
-            "date": "1404/04/26",
-            "time": "23:50",
+            "date": "1404/04/27",
+            "time": "00:10",
             "symbol": "Ni",
             "name": "نیکل",
             "price": 15080.75,
@@ -115,19 +115,19 @@
     ],
     "energy": [
         {
-            "date": "1404/04/26",
-            "time": "23:50",
+            "date": "1404/04/27",
+            "time": "00:10",
             "symbol": "BRENT",
             "name": "نفت برنت",
-            "price": 69.56,
-            "change_percent": 1.13,
+            "price": 69.58,
+            "change_percent": 0.03,
             "unit": "دلار",
             "nameFa": "نفت برنت",
             "nameEn": "Brent Oil"
         },
         {
-            "date": "1404/04/26",
-            "time": "23:50",
+            "date": "1404/04/27",
+            "time": "00:10",
             "symbol": "OPEC",
             "name": "نفت اپک",
             "price": 69.93,
@@ -137,45 +137,45 @@
             "nameEn": "OPEC Oil"
         },
         {
-            "date": "1404/04/26",
-            "time": "23:50",
+            "date": "1404/04/27",
+            "time": "00:10",
             "symbol": "WTI",
             "name": "نفت سبک",
-            "price": 67.61,
-            "change_percent": 1.33,
+            "price": 67.64,
+            "change_percent": 0.04,
             "unit": "دلار",
             "nameFa": "نفت سبک",
             "nameEn": "WTI Oil"
         },
         {
-            "date": "1404/04/26",
-            "time": "23:50",
+            "date": "1404/04/27",
+            "time": "00:10",
             "symbol": "GAS",
             "name": "گاز طبیعی",
-            "price": 3.532,
-            "change_percent": -1.02,
+            "price": 3.525,
+            "change_percent": -0.14,
             "unit": "دلار",
             "nameFa": "گاز طبیعی",
             "nameEn": "Natural Gas"
         },
         {
-            "date": "1404/04/26",
-            "time": "23:50",
+            "date": "1404/04/27",
+            "time": "00:10",
             "symbol": "RBOB",
             "name": "بنزین",
-            "price": 2.1711,
-            "change_percent": 0.76,
+            "price": 2.1717,
+            "change_percent": 0.01,
             "unit": "دلار",
             "nameFa": "بنزین",
             "nameEn": "Gasoline RBOB"
         },
         {
-            "date": "1404/04/26",
-            "time": "23:50",
+            "date": "1404/04/27",
+            "time": "00:10",
             "symbol": "GASOIL",
             "name": "گازوئیل",
-            "price": 720.88,
-            "change_percent": 3.22,
+            "price": 721.63,
+            "change_percent": 0.1,
             "unit": "دلار",
             "nameFa": "گازوئیل",
             "nameEn": "Gasoil"
