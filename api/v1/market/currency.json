@@ -2,14 +2,14 @@
     "currency": [
         {
             "date": "1404/04/26",
-            "time": "19:27",
-            "time_unix": 1752767820,
+            "time": "20:01",
+            "time_unix": 1752769860,
             "symbol": "USD",
             "name_en": "US Dollar",
             "name": "دلار",
-            "price": 88750,
-            "change_value": -150,
-            "change_percent": -0.17,
+            "price": 88700,
+            "change_value": -200,
+            "change_percent": -0.22,
             "unit": "تومان"
         },
         {
