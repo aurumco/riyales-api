@@ -132,7 +132,6 @@ def _register_handlers(pb_module):  # noqa: N802 – function uses dynamic names
             "date",
             "time",
             "name",
-            "name_fa",
             "price",
             "price_toman",
             "link_icon",
@@ -140,6 +139,11 @@ def _register_handlers(pb_module):  # noqa: N802 – function uses dynamic names
         for attr in simple_copy:
             if attr in json_obj:
                 setattr(pb_obj, attr, str(json_obj[attr]))
+
+        # Localised Persian name (handle both snake_case and camelCase)
+        if "name_fa" in json_obj or "nameFa" in json_obj:
+            pb_obj.name_fa = str(json_obj.get("name_fa") or json_obj.get("nameFa", ""))
+
         pb_obj.time_unix = _safe_int(json_obj.get("time_unix"))
         pb_obj.change_percent = _safe_float(json_obj.get("change_percent"))
         pb_obj.market_cap = _safe_int(json_obj.get("market_cap"))
