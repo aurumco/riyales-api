@@ -169,6 +169,92 @@
             "unit": "تومان"
         }
     ],
+    "cryptocurrency": [
+        {
+            "date": "1404/04/28",
+            "time": "12:42",
+            "time_unix": 1752916320,
+            "name": "Tether",
+            "price": "1.0006",
+            "price_toman": "87460",
+            "change_percent": 0,
+            "market_cap": 160911879492,
+            "link_icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+            "category": "stablecoin",
+            "nameFa": "تتر",
+            "name_fa": "تتر"
+        },
+        {
+            "date": "1404/04/28",
+            "time": "12:42",
+            "time_unix": 1752916320,
+            "name": "Bitcoin",
+            "price": "118220",
+            "price_toman": "10339487329",
+            "change_percent": -0.52,
+            "market_cap": 2351908972710,
+            "link_icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+            "category": null,
+            "nameFa": "بیت‌کوین",
+            "name_fa": "بیت‌کوین"
+        },
+        {
+            "date": "1404/04/28",
+            "time": "12:42",
+            "time_unix": 1752916320,
+            "name": "Ethereum",
+            "price": "3559",
+            "price_toman": "311285637",
+            "change_percent": -1.27,
+            "market_cap": 429635684364,
+            "link_icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+            "category": "smartContracts",
+            "nameFa": "اتریوم",
+            "name_fa": "اتریوم"
+        },
+        {
+            "date": "1404/04/28",
+            "time": "12:42",
+            "time_unix": 1752916320,
+            "name": "TRON",
+            "price": "0.3252",
+            "price_toman": "28445",
+            "change_percent": -0.58,
+            "market_cap": 30814052459,
+            "link_icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png",
+            "category": null,
+            "nameFa": "ترون",
+            "name_fa": "ترون"
+        },
+        {
+            "date": "1404/04/28",
+            "time": "12:42",
+            "time_unix": 1752916320,
+            "name": "Dogecoin",
+            "price": "0.2531",
+            "price_toman": "22136",
+            "change_percent": 6.64,
+            "market_cap": 38005223430,
+            "link_icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
+            "category": "memes",
+            "nameFa": "دوج‌کوین",
+            "name_fa": "دوج‌کوین"
+        },
+        {
+            "date": "1404/04/28",
+            "time": "12:42",
+            "time_unix": 1752916320,
+            "name": "Binance Coin",
+            "price": "733.18",
+            "price_toman": "64124311",
+            "change_percent": -0.31,
+            "market_cap": 102124539008,
+            "link_icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+            "category": "smartContracts",
+            "nameFa": "بایننس کوین",
+            "name_fa": "بایننس کوین"
+        }
+    ],
     "gold": [
         {
             "date": "1404/04/28",
