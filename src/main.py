@@ -223,29 +223,57 @@ def load_crypto_name_map(filepath: str) -> Dict[str, str]:
         return {}
 
 def add_persian_names_to_crypto(data: Any, mapping: Dict[str, str]) -> Any:
-    """Adds 'nameFa' field to crypto data based on the mapping."""
-    if not isinstance(data, list) or not mapping:
-        logger.debug("Skipping Persian name mapping: Invalid data format or empty map.")
-        return data # Return original data if not a list or mapping is empty
+    """Ensures crypto items use 'name' for the English title and 'nameFa' for the Persian title.
+
+    Many upstream APIs provide the Persian title in the «name» field and the English
+    title in «name_en».  Our application, however, expects the opposite – the English
+    title in «name» and the Persian title in «nameFa».  This helper normalises each
+    crypto item accordingly and removes any legacy «name_en/NameEn» keys that might
+    be present.
+    """
+
+    # Safety-check input
+    if not isinstance(data, list):
+        logger.debug("Skipping crypto renaming: input is not a list → %s", type(data))
+        return data
 
     missing_names_count = 0
-    for item in data:
-        if isinstance(item, dict):
-            english_name = item.get('name')
-            if english_name:
-                persian_name = mapping.get(english_name)
-                if persian_name:
-                    item['nameFa'] = persian_name
-                else:
-                    missing_names_count += 1
-                    logger.debug(f"• No Persian name found for: {english_name}")
-            else:
-                 logger.debug("Skipping item: Missing 'name' key.")
-        else:
-             logger.debug(f"• Skipping item: Expected dict, got {type(item)}.")
 
-    if missing_names_count > 0:
-        logger.debug(f"• Persian name mapping: {missing_names_count} crypto names were not found in the map.")
+    for item in data:
+        if not isinstance(item, dict):
+            logger.debug("• Skipping crypto entry – expected dict, got %s", type(item))
+            continue
+
+        # Determine the *English* name provided by the API
+        english_name: Optional[str] = item.get("name_en") or item.get("nameEn") or item.get("name")
+
+        # Determine the *Persian* name either from mapping or already present field
+        persian_name: Optional[str] = None
+
+        if english_name and english_name in mapping:
+            persian_name = mapping[english_name]
+        else:
+            # If the API already sent a Persian name in «name», use it
+            persian_name = item.get("name") if "name_en" in item or "nameEn" in item else None
+
+        # Apply the normalised fields
+        if english_name:
+            item["name"] = english_name  # Always keep English in «name»
+
+        if persian_name:
+            item["nameFa"] = persian_name
+            # Also provide snake_case for protobuf generator compatibility
+            item["name_fa"] = persian_name
+        else:
+            missing_names_count += 1
+            logger.debug("• No Persian name found/mapped for crypto: %s", english_name)
+
+        # Drop obsolete keys
+        item.pop("name_en", None)
+        item.pop("nameEn", None)
+
+    if missing_names_count:
+        logger.debug("• Persian name mapping: %d crypto names were not found in the map.", missing_names_count)
 
     return data
 
@@ -273,7 +301,7 @@ def filter_blacklist(data: Any, blacklist: List[str]) -> Any:
     def is_allowed(item: Any) -> bool:
         if not isinstance(item, dict):
             return True
-        for key in ('name', 'symbol', 'l18', 'l30', 'cs', 'nameFa', 'symbolFa', 'nameEn', 'symbolEn', 'name_en'):
+        for key in ('name', 'symbol', 'l18', 'l30', 'cs', 'nameFa', 'name_fa', 'symbolFa', 'nameEn', 'symbolEn', 'name_en'):
             val = item.get(key)
             if isinstance(val, str) and val in blacklist:
                 return False
