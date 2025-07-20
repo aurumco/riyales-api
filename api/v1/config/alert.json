@@ -10,7 +10,7 @@
         "action": "close_alert"
       },
       "button_2": {
-        "text": "Details", 
+        "text": "Contact", 
         "action": "open_contact"
       }
     },
@@ -22,9 +22,19 @@
         "action": "close_alert"
       },
       "button_2": {
-        "text": "جزئیات",
+        "text": "پشتیبانی",
         "action": "open_url:https://ryls.ir/"
       }
+    },
+    "ad": {
+      "enabled": false,
+      "ad1": "https://raw.githubusercontent.com/aurumco/riyales-api/refs/heads/main/api/v1/config/ad1.png",
+      "linkAd1": "https://ryls.ir",
+      "ad2": "https://raw.githubusercontent.com/aurumco/riyales-api/refs/heads/main/api/v1/config/ad2.png",
+      "linkAd2": "https://ryls.ir",
+      "ad3": "",
+      "linkAd3": "",
+      "time": "5000",
+      "device": "mobile"
     }
-  }
-  
+}
