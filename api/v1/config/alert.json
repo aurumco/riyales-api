@@ -32,7 +32,7 @@
       "linkAd1": "https://app.ryls.ir",
       "ad2": "https://raw.githubusercontent.com/aurumco/riyales-api/refs/heads/main/api/v1/config/ad2.png",
       "linkAd2": "https://app.ryls.ir",
-      "ad3": "",
+      "ad3": "https://raw.githubusercontent.com/aurumco/riyales-api/refs/heads/main/api/v1/config/ad3.mp4",
       "linkAd3": "",
       "time": "5000",
       "device": "mobile"
