@@ -149,13 +149,13 @@
         },
         {
             "date": "1404/04/29",
-            "time": "11:55",
-            "time_unix": 1752999900,
+            "time": "11:59",
+            "time_unix": 1753000140,
             "symbol": "WTI",
             "name": "نفت سبک",
-            "price": 67.34,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 66.05,
+            "change_value": -1.29,
+            "change_percent": -1.95,
             "unit": "دلار",
             "nameFa": "نفت سبک",
             "nameEn": "WTI Oil"
