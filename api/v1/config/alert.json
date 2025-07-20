@@ -1,7 +1,7 @@
 {
-    "show": false,
+    "show": true,
     "color": "blue",
-    "button_count": 0,
+    "button_count": 1,
     "en": {
       "title": "Access with disruption",
       "description": "Due to the restrictions imposed on the Internet, access in some places is confined or even definitive.",
@@ -27,7 +27,7 @@
       }
     },
     "ad": {
-      "enabled": false,
+      "enabled": true,
       "idAd1": "1001",
       "ad1": "https://raw.githubusercontent.com/aurumco/riyales-api/refs/heads/main/api/v1/config/ad1.png",
       "linkAd1": "",
