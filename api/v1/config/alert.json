@@ -25,18 +25,23 @@
         "text": "پشتیبانی",
         "action": "open_url:https://ryls.ir/"
       }
-    },
     "ad": {
       "enabled": true,
+      "idAd1": "1001",
       "ad1": "https://raw.githubusercontent.com/aurumco/riyales-api/refs/heads/main/api/v1/config/ad1.png",
       "linkAd1": "https://app.ryls.ir",
       "deviceAd1": "mobile",
+      "repeatAd1": "",
+      "idAd2": "1002",
       "ad2": "https://raw.githubusercontent.com/aurumco/riyales-api/refs/heads/main/api/v1/config/ad2.png",
       "linkAd2": "https://app.ryls.ir",
       "deviceAd2": "desktop",
+      "repeatAd2": "1",
+      "idAd2": "1003",
       "ad3": "https://raw.githubusercontent.com/aurumco/riyales-api/refs/heads/main/api/v1/config/ad3.mp4",
       "linkAd3": "",
-      "deviceAd3": "all",
+      "deviceAd3": "mobile",
+      "repeatAd3": "",
       "time": "6000",
     }
 }
