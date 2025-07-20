@@ -12,7 +12,7 @@
     "stock_tse_ifb_symbols_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v2/market/stock/tse_ifb_symbols.pb",
     "priority_assets_url": "https://raw.githubusercontent.com/aurumco/riyales-api/refs/heads/main/api/v1/config/priority_assets.json"
   },
-  "app_version": "0.142.1",
+  "app_version": "1.0.0",
   "update_info": {
     "update_mode": "package",
     "update_package": "ir.ryls",
