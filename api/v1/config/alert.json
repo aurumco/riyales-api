@@ -37,11 +37,11 @@
       "ad2": "https://raw.githubusercontent.com/aurumco/riyales-api/refs/heads/main/api/v1/config/ad2.png",
       "linkAd2": "https://app.ryls.ir",
       "deviceAd2": "desktop",
-      "repeatAd2": "1",
+      "repeatAd2": "",
       "idAd3": "1003",
-      "ad3": "https://raw.githubusercontent.com/aurumco/riyales-api/refs/heads/main/api/v1/config/ad3.mp4",
+      "ad3": "",
       "linkAd3": "",
-      "deviceAd3": "mobile",
+      "deviceAd3": "",
       "repeatAd3": "",
       "time": "6000"
     }
