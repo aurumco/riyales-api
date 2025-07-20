@@ -1,6 +1,6 @@
 {
     "show": true,
-    "color": "yellow",
+    "color": "blue",
     "button_count": 0,
     "en": {
       "title": "Access with disruption",
@@ -30,11 +30,13 @@
       "enabled": true,
       "ad1": "https://raw.githubusercontent.com/aurumco/riyales-api/refs/heads/main/api/v1/config/ad1.png",
       "linkAd1": "https://app.ryls.ir",
+      "deviceAd1": "mobile",
       "ad2": "https://raw.githubusercontent.com/aurumco/riyales-api/refs/heads/main/api/v1/config/ad2.png",
       "linkAd2": "https://app.ryls.ir",
+      "deviceAd2": "desktop",
       "ad3": "https://raw.githubusercontent.com/aurumco/riyales-api/refs/heads/main/api/v1/config/ad3.mp4",
       "linkAd3": "",
-      "time": "5000",
-      "device": "mobile"
+      "deviceAd3": "all",
+      "time": "6000",
     }
 }
