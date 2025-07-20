@@ -25,6 +25,7 @@
         "text": "پشتیبانی",
         "action": "open_url:https://ryls.ir/"
       }
+    },
     "ad": {
       "enabled": true,
       "idAd1": "1001",
@@ -37,11 +38,11 @@
       "linkAd2": "https://app.ryls.ir",
       "deviceAd2": "desktop",
       "repeatAd2": "1",
-      "idAd2": "1003",
+      "idAd3": "1003",
       "ad3": "https://raw.githubusercontent.com/aurumco/riyales-api/refs/heads/main/api/v1/config/ad3.mp4",
       "linkAd3": "",
       "deviceAd3": "mobile",
       "repeatAd3": "",
-      "time": "6000",
+      "time": "6000"
     }
 }
