@@ -17,7 +17,7 @@
     "update_mode": "package",
     "update_package": "ir.ryls",
     "update_link": "https://dl.ryls.ir",
-    "update_force": "true",
+    "update_force": "false",
     "update_force_version": "1.0.1"
   }
 }
