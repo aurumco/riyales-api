@@ -2,8 +2,8 @@
     "metal_precious": [
         {
             "date": "1404/05/01",
-            "time": "00:56",
-            "time_unix": 1753219560,
+            "time": "01:09",
+            "time_unix": 1753220340,
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 3431.64,
@@ -15,8 +15,8 @@
         },
         {
             "date": "1404/05/01",
-            "time": "00:56",
-            "time_unix": 1753219560,
+            "time": "01:09",
+            "time_unix": 1753220340,
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 39.29,
@@ -28,8 +28,8 @@
         },
         {
             "date": "1404/05/01",
-            "time": "00:56",
-            "time_unix": 1753219560,
+            "time": "01:09",
+            "time_unix": 1753220340,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
             "price": 1481.75,
@@ -41,13 +41,13 @@
         },
         {
             "date": "1404/05/01",
-            "time": "00:56",
-            "time_unix": 1753219560,
+            "time": "01:15",
+            "time_unix": 1753220700,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
-            "price": 1326.25,
-            "change_value": 0.25,
-            "change_percent": 0.02,
+            "price": 1326,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار",
             "nameFa": "انس پالادیوم",
             "nameEn": "Palladium Ounce"
@@ -136,8 +136,8 @@
     "energy": [
         {
             "date": "1404/05/01",
-            "time": "01:00",
-            "time_unix": 1753219800,
+            "time": "01:14",
+            "time_unix": 1753220640,
             "symbol": "BRENT",
             "name": "نفت برنت",
             "price": 68.79,
