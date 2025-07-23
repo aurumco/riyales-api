@@ -1,9 +1,9 @@
 {
     "currency": [
         {
-            "date": "1404/05/01",
-            "time": "19:59",
-            "time_unix": 1753288140,
+            "date": "1404/05/02",
+            "time": "00:00",
+            "time_unix": 1753302600,
             "symbol": "USD",
             "name_en": "US Dollar",
             "name": "دلار",
@@ -13,9 +13,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/01",
-            "time": "19:59",
-            "time_unix": 1753288140,
+            "date": "1404/05/02",
+            "time": "00:00",
+            "time_unix": 1753302600,
             "symbol": "EUR",
             "name_en": "Euro",
             "name": "یورو",
@@ -25,9 +25,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/01",
-            "time": "18:22",
-            "time_unix": 1753282320,
+            "date": "1404/05/02",
+            "time": "00:00",
+            "time_unix": 1753302600,
             "symbol": "TRY",
             "name_en": "Turkish Lira",
             "name": "لیر ترکیه",
@@ -37,9 +37,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/01",
-            "time": "19:58",
-            "time_unix": 1753288080,
+            "date": "1404/05/02",
+            "time": "00:00",
+            "time_unix": 1753302600,
             "symbol": "RUB",
             "name_en": "Russian Ruble",
             "name": "روبل روسیه",
@@ -49,9 +49,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/01",
-            "time": "19:59",
-            "time_unix": 1753288140,
+            "date": "1404/05/02",
+            "time": "00:00",
+            "time_unix": 1753302600,
             "symbol": "AED",
             "name_en": "UAE Dirham",
             "name": "درهم امارات",
@@ -61,9 +61,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/01",
-            "time": "18:26",
-            "time_unix": 1753282560,
+            "date": "1404/05/02",
+            "time": "00:00",
+            "time_unix": 1753302600,
             "symbol": "CNY",
             "name_en": "Chinese Yuan",
             "name": "یوآن چین",
@@ -73,9 +73,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/01",
-            "time": "19:59",
-            "time_unix": 1753288140,
+            "date": "1404/05/02",
+            "time": "00:00",
+            "time_unix": 1753302600,
             "symbol": "GBP",
             "name_en": "British Pound",
             "name": "پوند",
@@ -85,9 +85,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/01",
-            "time": "19:59",
-            "time_unix": 1753288140,
+            "date": "1404/05/02",
+            "time": "00:00",
+            "time_unix": 1753302600,
             "symbol": "CAD",
             "name_en": "Canadian Dollar",
             "name": "دلار کانادا",
@@ -97,9 +97,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/01",
-            "time": "19:59",
-            "time_unix": 1753288140,
+            "date": "1404/05/02",
+            "time": "00:00",
+            "time_unix": 1753302600,
             "symbol": "KWD",
             "name_en": "Kuwaiti Dinar",
             "name": "دینار کویت",
@@ -109,9 +109,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/01",
-            "time": "19:59",
-            "time_unix": 1753288140,
+            "date": "1404/05/02",
+            "time": "00:00",
+            "time_unix": 1753302600,
             "symbol": "SAR",
             "name_en": "Saudi Riyal",
             "name": "ریال عربستان",
@@ -121,9 +121,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/01",
-            "time": "19:26",
-            "time_unix": 1753286160,
+            "date": "1404/05/02",
+            "time": "00:00",
+            "time_unix": 1753302600,
             "symbol": "IQD",
             "name_en": "Iraqi Dinar",
             "name": "دینار عراق",
@@ -133,9 +133,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/01",
-            "time": "19:59",
-            "time_unix": 1753288140,
+            "date": "1404/05/02",
+            "time": "00:00",
+            "time_unix": 1753302600,
             "symbol": "BHD",
             "name_en": "Bahraini Dinar",
             "name": "دینار بحرین",
@@ -145,9 +145,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/01",
-            "time": "19:59",
-            "time_unix": 1753288140,
+            "date": "1404/05/02",
+            "time": "00:00",
+            "time_unix": 1753302600,
             "symbol": "THB",
             "name_en": "Thai Baht",
             "name": "بات تایلند",
@@ -157,9 +157,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/01",
-            "time": "19:59",
-            "time_unix": 1753288140,
+            "date": "1404/05/02",
+            "time": "00:00",
+            "time_unix": 1753302600,
             "symbol": "OMR",
             "name_en": "Omani Rial",
             "name": "ریال عمان",
@@ -171,83 +171,83 @@
     ],
     "cryptocurrency": [
         {
-            "change_percent": -0.02,
-            "market_cap": 161979042969,
+            "market_cap": 161993508100,
             "link_icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
-            "price": "1.0002",
+            "price": "1.0003",
+            "time_unix": 1753306020,
+            "change_percent": -0.01,
+            "price_toman": "87980",
             "date": "1404/05/02",
-            "time_unix": 1753304340,
-            "price_toman": "87860",
-            "time": "00:29",
+            "time": "00:57",
             "name": "Tether",
             "nameFa": "تتر"
         },
         {
-            "change_percent": -1.51,
-            "market_cap": 2347971101710,
+            "market_cap": 2339064923350,
             "link_icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
-            "price": "118010",
+            "price": "117562",
+            "time_unix": 1753306020,
+            "change_percent": -1.7,
+            "price_toman": "10343101627",
             "date": "1404/05/02",
-            "time_unix": 1753304340,
-            "price_toman": "10368327359",
-            "time": "00:29",
+            "time": "00:57",
             "name": "Bitcoin",
             "nameFa": "بیت‌کوین"
         },
         {
-            "change_percent": -3.61,
-            "market_cap": 431200312643,
+            "market_cap": 427124679875,
             "link_icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
-            "price": "3572",
+            "price": "3538",
+            "time_unix": 1753306020,
+            "change_percent": -4.58,
+            "price_toman": "311308261",
             "date": "1404/05/02",
-            "time_unix": 1753304340,
-            "price_toman": "313850112",
-            "time": "00:29",
+            "time": "00:57",
             "name": "Ethereum",
             "nameFa": "اتریوم"
         },
         {
-            "change_percent": -1.89,
-            "market_cap": 29163982799,
+            "market_cap": 28998595185,
             "link_icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png",
-            "price": "0.3079",
+            "price": "0.3061",
+            "time_unix": 1753306020,
+            "change_percent": -2.49,
+            "price_toman": "26931",
             "date": "1404/05/02",
-            "time_unix": 1753304340,
-            "price_toman": "27048",
-            "time": "00:29",
+            "time": "00:57",
             "name": "TRON",
             "nameFa": "ترون"
         },
         {
-            "change_percent": -9.46,
-            "market_cap": 35818116029,
+            "market_cap": 34877941848,
             "link_icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
-            "price": "0.2384",
+            "price": "0.2322",
+            "time_unix": 1753306020,
+            "change_percent": -11.99,
+            "price_toman": "20367",
             "date": "1404/05/02",
-            "time_unix": 1753304340,
-            "price_toman": "20949",
-            "time": "00:29",
+            "time": "00:57",
             "name": "Dogecoin",
             "nameFa": "دوج‌کوین"
         },
         {
-            "change_percent": -1.88,
-            "market_cap": 106334876298,
+            "market_cap": 105048358467,
             "link_icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
-            "price": "763.41",
+            "price": "754.18",
+            "time_unix": 1753306020,
+            "change_percent": -3.01,
+            "price_toman": "66352475",
             "date": "1404/05/02",
-            "time_unix": 1753304340,
-            "price_toman": "67073478",
-            "time": "00:29",
+            "time": "00:57",
             "name": "Binance Coin",
             "nameFa": "بایننس کوین"
         }
     ],
     "gold": [
         {
-            "date": "1404/05/01",
-            "time": "19:59",
-            "time_unix": 1753288140,
+            "date": "1404/05/02",
+            "time": "00:00",
+            "time_unix": 1753302600,
             "symbol": "EMAMI",
             "name_en": "Emami Coin",
             "name": "سکه امامی",
@@ -259,9 +259,9 @@
             "nameEn": "Emami Coin"
         },
         {
-            "date": "1404/05/01",
-            "time": "19:59",
-            "time_unix": 1753288140,
+            "date": "1404/05/02",
+            "time": "00:00",
+            "time_unix": 1753302600,
             "symbol": "BAHAR",
             "name_en": "Bahar Azadi Coin",
             "name": "سکه بهار آزادی",
@@ -273,9 +273,9 @@
             "nameEn": "Bahar Azadi Coin"
         },
         {
-            "date": "1404/05/01",
-            "time": "11:42",
-            "time_unix": 1753258320,
+            "date": "1404/05/02",
+            "time": "00:00",
+            "time_unix": 1753302600,
             "symbol": "1G",
             "name_en": "1g Coin",
             "name": "سکه یک گرمی",
@@ -287,9 +287,9 @@
             "nameEn": "1g Coin"
         },
         {
-            "date": "1404/05/01",
-            "time": "19:59",
-            "time_unix": 1753288140,
+            "date": "1404/05/02",
+            "time": "00:00",
+            "time_unix": 1753302600,
             "symbol": "18K",
             "name_en": "18K Gold",
             "name": "طلای ۱۸ عیار",
@@ -301,9 +301,9 @@
             "nameEn": "18K Gold"
         },
         {
-            "date": "1404/05/01",
-            "time": "19:59",
-            "time_unix": 1753288140,
+            "date": "1404/05/02",
+            "time": "00:00",
+            "time_unix": 1753302600,
             "symbol": "24K",
             "name_en": "24K Gold",
             "name": "طلای ۲۴ عیار",
