@@ -43,15 +43,15 @@
             "nameEn": "Melted Gold"
         },
         {
-            "date": "1404/05/03",
-            "time": "23:40",
-            "time_unix": 1753474200,
+            "date": "1404/05/04",
+            "time": "00:04",
+            "time_unix": 1753475640,
             "symbol": "XAUUSD",
             "name_en": "Gold Ounce",
             "name": "انس طلا",
-            "price": 3338,
-            "change_value": -31,
-            "change_percent": -0.93,
+            "price": 3337,
+            "change_value": -32,
+            "change_percent": -0.96,
             "unit": "دلار",
             "nameFa": "انس طلا",
             "nameEn": "Gold Ounce"
