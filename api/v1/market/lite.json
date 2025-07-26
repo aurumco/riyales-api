@@ -8,8 +8,8 @@
             "name_en": "US Dollar",
             "name": "دلار",
             "price": 88050,
-            "change_value": -390,
-            "change_percent": -0.44,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان"
         },
         {
@@ -20,8 +20,8 @@
             "name_en": "Euro",
             "name": "یورو",
             "price": 103420,
-            "change_value": -630,
-            "change_percent": -0.61,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان"
         },
         {
@@ -32,8 +32,8 @@
             "name_en": "Turkish Lira",
             "name": "لیر ترکیه",
             "price": 2170,
-            "change_value": -20,
-            "change_percent": -0.92,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان"
         },
         {
@@ -44,8 +44,8 @@
             "name_en": "Russian Ruble",
             "name": "روبل روسیه",
             "price": 1106,
-            "change_value": -26,
-            "change_percent": -2.35,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان"
         },
         {
@@ -56,8 +56,8 @@
             "name_en": "UAE Dirham",
             "name": "درهم امارات",
             "price": 24072,
-            "change_value": -117,
-            "change_percent": -0.49,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان"
         },
         {
@@ -68,8 +68,8 @@
             "name_en": "Chinese Yuan",
             "name": "یوآن چین",
             "price": 12280,
-            "change_value": -80,
-            "change_percent": -0.65,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان"
         },
         {
@@ -80,8 +80,8 @@
             "name_en": "British Pound",
             "name": "پوند",
             "price": 118330,
-            "change_value": -1380,
-            "change_percent": -1.17,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان"
         },
         {
@@ -92,8 +92,8 @@
             "name_en": "Canadian Dollar",
             "name": "دلار کانادا",
             "price": 64260,
-            "change_value": -640,
-            "change_percent": -1,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان"
         },
         {
@@ -104,8 +104,8 @@
             "name_en": "Kuwaiti Dinar",
             "name": "دینار کویت",
             "price": 288850,
-            "change_value": -1690,
-            "change_percent": -0.59,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان"
         },
         {
@@ -116,8 +116,8 @@
             "name_en": "Saudi Riyal",
             "name": "ریال عربستان",
             "price": 23495,
-            "change_value": -117,
-            "change_percent": -0.5,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان"
         },
         {
@@ -129,7 +129,7 @@
             "name": "دینار عراق",
             "price": 61,
             "change_value": 0,
-            "change_percent": -0.65,
+            "change_percent": 0,
             "unit": "تومان"
         },
         {
@@ -140,8 +140,8 @@
             "name_en": "Bahraini Dinar",
             "name": "دینار بحرین",
             "price": 233590,
-            "change_value": -1140,
-            "change_percent": -0.49,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان"
         },
         {
@@ -152,8 +152,8 @@
             "name_en": "Thai Baht",
             "name": "بات تایلند",
             "price": 2714,
-            "change_value": -23,
-            "change_percent": -0.85,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان"
         },
         {
@@ -164,81 +164,81 @@
             "name_en": "Omani Rial",
             "name": "ریال عمان",
             "price": 228730,
-            "change_value": -1050,
-            "change_percent": -0.46,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان"
         }
     ],
     "cryptocurrency": [
         {
-            "change_percent": 0,
-            "market_cap": 163367838016,
-            "date": "1404/05/04",
-            "time_unix": 1753561260,
+            "price": "1.0002",
+            "time_unix": 1753562280,
             "link_icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
-            "price_toman": "87600",
-            "time": "23:51",
-            "price": "1.0004",
+            "price_toman": "88060",
+            "market_cap": 163331581771,
+            "date": "1404/05/05",
+            "time": "00:08",
+            "change_percent": 0,
             "name": "Tether",
             "nameFa": "تتر"
         },
         {
-            "change_percent": 1.17,
-            "market_cap": 2350488796820,
-            "date": "1404/05/04",
-            "time_unix": 1753561260,
+            "price": "118012",
+            "time_unix": 1753562280,
             "link_icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
-            "price_toman": "10347993306",
-            "time": "23:51",
-            "price": "118128",
+            "price_toman": "10392178916",
+            "market_cap": 2348194608630,
+            "date": "1404/05/05",
+            "time": "00:08",
+            "change_percent": 0.84,
             "name": "Bitcoin",
             "nameFa": "بیت‌کوین"
         },
         {
-            "change_percent": 2.37,
-            "market_cap": 451629068519,
-            "date": "1404/05/04",
-            "time_unix": 1753561260,
+            "price": "3747",
+            "time_unix": 1753562280,
             "link_icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
-            "price_toman": "327747368",
-            "time": "23:51",
-            "price": "3741",
+            "price_toman": "329953707",
+            "market_cap": 452294296392,
+            "date": "1404/05/05",
+            "time": "00:08",
+            "change_percent": 1.87,
             "name": "Ethereum",
             "nameFa": "اتریوم"
         },
         {
-            "change_percent": 1.2,
-            "market_cap": 30265047436,
-            "date": "1404/05/04",
-            "time_unix": 1753561260,
+            "price": "0.3196",
+            "time_unix": 1753562280,
             "link_icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png",
-            "price_toman": "27988",
-            "time": "23:51",
-            "price": "0.3195",
+            "price_toman": "28144",
+            "market_cap": 30274965750,
+            "date": "1404/05/05",
+            "time": "00:08",
+            "change_percent": 1.51,
             "name": "TRON",
             "nameFa": "ترون"
         },
         {
-            "change_percent": 4.33,
-            "market_cap": 35749800935,
-            "date": "1404/05/04",
-            "time_unix": 1753561260,
+            "price": "0.2378",
+            "time_unix": 1753562280,
             "link_icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
-            "price_toman": "20842",
-            "time": "23:51",
-            "price": "0.2379",
+            "price_toman": "20943",
+            "market_cap": 35736218209,
+            "date": "1404/05/05",
+            "time": "00:08",
+            "change_percent": 3.29,
             "name": "Dogecoin",
             "nameFa": "دوج‌کوین"
         },
         {
-            "change_percent": 1.08,
-            "market_cap": 109233982243,
-            "date": "1404/05/04",
-            "time_unix": 1753561260,
+            "price": "785.04",
+            "time_unix": 1753562280,
             "link_icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
-            "price_toman": "68698333",
-            "time": "23:51",
-            "price": "784.23",
+            "price_toman": "69130724",
+            "market_cap": 109347308059,
+            "date": "1404/05/05",
+            "time": "00:08",
+            "change_percent": 0.99,
             "name": "Binance Coin",
             "nameFa": "بایننس کوین"
         }
@@ -252,8 +252,8 @@
             "name_en": "Emami Coin",
             "name": "سکه امامی",
             "price": 77890000,
-            "change_value": -1595000,
-            "change_percent": -2.05,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان",
             "nameFa": "سکه امامی",
             "nameEn": "Emami Coin"
@@ -266,8 +266,8 @@
             "name_en": "Bahar Azadi Coin",
             "name": "سکه بهار آزادی",
             "price": 70890000,
-            "change_value": -900000,
-            "change_percent": -1.27,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان",
             "nameFa": "سکه بهار آزادی",
             "nameEn": "Bahar Azadi Coin"
@@ -280,8 +280,8 @@
             "name_en": "1g Coin",
             "name": "سکه یک گرمی",
             "price": 14600000,
-            "change_value": -100000,
-            "change_percent": -0.68,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان",
             "nameFa": "سکه یک گرمی",
             "nameEn": "1g Coin"
@@ -294,8 +294,8 @@
             "name_en": "18K Gold",
             "name": "طلای ۱۸ عیار",
             "price": 7008600,
-            "change_value": -98400,
-            "change_percent": -1.4,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان",
             "nameFa": "طلای ۱۸ عیار",
             "nameEn": "18K Gold"
@@ -308,8 +308,8 @@
             "name_en": "24K Gold",
             "name": "طلای ۲۴ عیار",
             "price": 9344700,
-            "change_value": -131200,
-            "change_percent": -1.4,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان",
             "nameFa": "طلای ۲۴ عیار",
             "nameEn": "24K Gold"
