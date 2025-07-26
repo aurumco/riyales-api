@@ -108,13 +108,13 @@
         },
         {
             "date": "1404/05/04",
-            "time": "00:00",
-            "time_unix": 1753475400,
+            "time": "08:21",
+            "time_unix": 1753505460,
             "symbol": "Sn",
             "name": "قلع",
-            "price": 34741,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 34101,
+            "change_value": -640,
+            "change_percent": -1.88,
             "unit": "دلار",
             "nameFa": "قلع",
             "nameEn": "Tin"
