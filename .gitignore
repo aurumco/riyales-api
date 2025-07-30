@@ -189,5 +189,6 @@ cython_debug/
 # Local development files
 -*.log
 -/logs
--/api
+-/api/v1/market/
+-/api/v2/
 -*.pb

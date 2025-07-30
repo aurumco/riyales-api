@@ -1,0 +1,23 @@
+{
+  "app_name": "Riyales",
+  "remote_config_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v1/config/app_config.json",
+  "api_endpoints": {
+    "currency_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v2/market/currency.pb",
+    "gold_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v2/market/gold.pb",
+    "commodity_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v2/market/commodity.pb",
+    "crypto_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v2/market/cryptocurrency.pb",
+    "stock_debt_securities_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v2/market/stock/debt_securities.pb",
+    "stock_futures_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v2/market/stock/futures.pb",
+    "stock_housing_facilities_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v2/market/stock/housing_facilities.pb",
+    "stock_tse_ifb_symbols_url": "https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v2/market/stock/tse_ifb_symbols.pb",
+    "priority_assets_url": "https://raw.githubusercontent.com/aurumco/riyales-api/refs/heads/main/api/v1/config/priority_assets.json"
+  },
+  "app_version": "1.0.1",
+  "update_info": {
+    "update_mode": "package",
+    "update_package": "ir.ryls",
+    "update_link": "https://dl.ryls.ir",
+    "update_force": "false",
+    "update_force_version": "1.0.1"
+  }
+}
