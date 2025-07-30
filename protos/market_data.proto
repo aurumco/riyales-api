@@ -1,0 +1,129 @@
+syntax = "proto3";
+
+package market;
+
+// Commodity data (e.g., gold, silver, etc.)
+message CommodityItem {
+  string date = 1;          // Shamsi date string e.g. 1404/04/20
+  string time = 2;          // Time string e.g. 23:57
+  string symbol = 3;
+  string name = 4;
+  double price = 5;
+  double change_percent = 6;
+  string unit = 7;
+  string name_fa = 8;
+  string name_en = 9;
+}
+
+message CommodityData {
+  repeated CommodityItem metal_precious = 1;
+}
+
+// Cryptocurrency data
+message CryptoItem {
+  string date = 1;
+  string time = 2;
+  int64 time_unix = 3;
+  string name = 4;
+  string name_fa = 5;
+  string price = 6;
+  string price_toman = 7;
+  double change_percent = 8;
+  int64 market_cap = 9;
+  string link_icon = 10;
+}
+
+message CryptoData {
+  repeated CryptoItem items = 1;
+}
+
+// Fiat currency rates
+message CurrencyItem {
+  string date = 1;
+  string time = 2;
+  int64 time_unix = 3;
+  string symbol = 4;
+  string name_en = 5;
+  string name = 6;
+  double price = 7;
+  double change_value = 8;
+  double change_percent = 9;
+  string unit = 10;
+}
+
+message CurrencyData {
+  repeated CurrencyItem items = 1;
+}
+
+// Gold market data
+message GoldItem {
+  string date = 1;
+  string time = 2;
+  int64 time_unix = 3;
+  string symbol = 4;
+  string name_en = 5;
+  string name = 6;
+  double price = 7;
+  double change_value = 8;
+  double change_percent = 9;
+  string unit = 10;
+  string name_fa = 11;
+}
+
+message GoldData {
+  repeated GoldItem items = 1;
+}
+
+// Generic order book level used by TSE/IFB stock items
+message OrderBookLevel {
+  int32 zd = 1;
+  int64 qd = 2;
+  int64 pd = 3;
+  int64 po = 4;
+  int64 qo = 5;
+  int32 zo = 6;
+}
+
+// Stock‐like instruments (debt securities, futures, housing facilities, symbols, etc.)
+message StockItem {
+  string time = 1;
+  string l18 = 2;
+  string l30 = 3;
+  string isin = 4;
+  int64 id = 5;
+  string cs = 6;
+  int32 cs_id = 7;
+  int64 z = 8;
+  int64 bvol = 9;
+  int64 mv = 10;
+  double eps = 11;
+  double pe = 12;
+  int64 tmin = 13;
+  int64 tmax = 14;
+  int64 pmin = 15;
+  int64 pmax = 16;
+  int64 py = 17;
+  int64 pf = 18;
+  int64 pl = 19;
+  int64 plc = 20;
+  double plp = 21;
+  int64 pc = 22;
+  int64 pcc = 23;
+  double pcp = 24;
+  int32 tno = 25;
+  int64 tvol = 26;
+  int64 tval = 27;
+  int32 Buy_CountI = 28;
+  int32 Buy_CountN = 29;
+  int32 Sell_CountI = 30;
+  int32 Sell_CountN = 31;
+  int64 Buy_I_Volume = 32;
+  int64 Buy_N_Volume = 33;
+  int64 Sell_I_Volume = 34;
+  int64 Sell_N_Volume = 35;
+  repeated OrderBookLevel order_levels = 36;
+}
+
+message StockData {
+  repeated StockItem items = 1;
+} 

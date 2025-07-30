@@ -1,0 +1,162 @@
+name: Market Data Sync
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+env:
+  PYTHON_VERSION: '3.13'
+
+jobs:
+  sync-data:
+    name: Sync
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      BRS_API_KEY:        ${{ secrets.BRS_API_KEY }}
+      BRS_BASE_URL:       ${{ secrets.BRS_BASE_URL }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_USER_ID:   ${{ secrets.TELEGRAM_USER_ID }}
+      LOG_LEVELS:         ${{ secrets.LOG_LEVELS || 'ERROR' }}
+    steps:
+
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Restore pip cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements*.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+        shell: bash
+
+      - name: Run data-fetch script
+        run: |
+          # Ensure logs directory exists for app.log/error.log
+          mkdir -p logs
+          # Execute main script (logging handled internally)
+          python src/main.py
+        shell: bash
+
+      - name: Pull latest & Commit if any
+        run: |
+          # Setup git
+          git config --global user.name "Market Data Bot"
+          git config --global user.email "market-data-bot@users.noreply.github.com"
+          
+          # Try to pull latest changes safely
+          echo "• Pulling latest changes from origin/main"
+          if ! git pull --rebase --autostash origin main; then
+            echo "• ERROR: Git pull failed with conflicts or errors"
+            git rebase --abort 2>/dev/null || true
+            git pull origin main || echo "• ERROR: Fallback git pull also failed"
+          fi
+          
+          # Commit market data changes and log files
+          echo "• Checking for changes in market data files and logs..."
+          git add api/v1/market/
+          git add api/v2/market/
+          git add logs/
+          
+          # Unstage any files larger than 100MB to avoid commit failures
+          find api/v1/market/ api/v2/market/ -type f -size +100M | while read file; do
+            echo "• Skipping large file from commit: $file"
+            git restore --staged "$file"
+          done
+          
+          # Commit only if there are actual changes to market data files
+          if ! git diff --staged --quiet; then
+            echo "• Changes detected in market data files. Committing..."
+            MSG=$(python src/commit_message.py)
+            git commit -m "$MSG" -m "Triggered by: ${{ github.event_name }}"
+            
+            echo "• Pushing changes to origin/main"
+            if ! git push origin main; then
+              echo "• ERROR: Git push failed"
+            fi
+          else
+            echo "• No changes to market data files. Skipping commit."
+          fi
+        shell: bash
+
+      - name: Check and send error logs
+        if: always()
+        run: |
+          ERROR_LOG="${GITHUB_WORKSPACE}/logs/error.log"
+          echo "• Final check for error log at: ${ERROR_LOG}"
+          
+          if [ -f "${ERROR_LOG}" ]; then
+            # Check if the file has actual content beyond a possible clear message or just whitespace
+            # Count lines that are not empty and not a clear message
+            RELEVANT_LINES=$(grep -cvE '(^\s*$)|(^# Log cleared on)|(^# Log forcibly cleared on)' "${ERROR_LOG}" || true)
+            
+            if [ "${RELEVANT_LINES}" -gt 0 ]; then
+              echo "• Error log has relevant content (${RELEVANT_LINES} lines). Running alert_sender.py..."
+              cd "${GITHUB_WORKSPACE}" # Ensure script runs from project root
+              python src/alert_sender.py # This should truncate ERROR_LOG if successful
+              
+              # After alert_sender.py, verify it was truncated (empty)
+              if [ -s "${ERROR_LOG}" ]; then # -s checks if file has size > 0
+                echo "• WARNING: error.log was NOT truncated to zero by alert_sender.py. Forcing truncation." | tee -a "${ERROR_LOG}"
+                # Forcibly truncate the file by overwriting it with an empty string or a clear marker
+                echo "# Log forcibly cleared by workflow at $(date -u '+%Y-%m-%dT%H:%M:%SZ')" > "${ERROR_LOG}"
+              else
+                echo "• error.log successfully truncated to zero by alert_sender.py."
+              fi
+            else
+              echo "• Error log is empty or contains only clear messages. Skipping alert_sender.py."
+            fi
+          else
+            echo "• No error.log file found. Skipping alerts."
+          fi
+        shell: bash
+
+  cleanup:
+    name: Cleanup
+    needs: sync-data
+    if: always()
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      REPO:    ${{ github.repository }}
+      WF:      ${{ github.workflow }}
+    steps:
+      - name: Remove old workflow runs
+        run: |
+          runs=$(gh run list \
+            --repo "$REPO" \
+            --workflow "$WF" \
+            --limit 100 \
+            --json databaseId,status,createdAt \
+            --jq '.[] | select(.status!="in_progress" and .status!="queued") | {id: .databaseId, date: .createdAt}' | \
+            jq -s 'sort_by(.date) | reverse | .[].id')
+          total=$(echo "$runs" | wc -l)
+          if [ "$total" -le 9 ]; then exit 0; fi
+          # delete all older than the 9 newest
+          to_delete=$(echo "$runs" | tail -n +10)
+          echo "$to_delete" | while read id; do
+            echo "Deleting run ID: $id"
+            gh run delete "$id" --repo "$REPO"
+          done
+        shell: bash
