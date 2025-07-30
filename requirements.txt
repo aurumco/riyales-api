@@ -1,9 +1,15 @@
-aiohttp>=3.11.18    # Async HTTP client for performing concurrent API requests
-pytz>=2025.2        # Timezone support for converting between UTC and local Tehran time
-jdatetime>=5.2.0    # Jalali date handling (reserved for future localization features)
-requests>=2.32.0    # Synchronous HTTP client (utility tasks and external integrations)
-pygments>=2.19.1    # Syntax highlighting (used for code snippets in logs)
-pillow>=11.2.1      # Image processing (utility for potential charts or image exports)
-# Protocol Buffers for binary output and code generation
-protobuf>=4.25.3
-grpcio-tools>=1.64.0
+# Core HTTP and networking libraries
+aiohttp>=3.11.18    # Async HTTP client for concurrent API requests
+requests>=2.32.0    # Synchronous HTTP client for utility tasks
+
+# Date and time handling
+pytz>=2025.2        # Timezone support for UTC/Tehran time conversion
+jdatetime>=5.2.0    # Jalali date handling for Persian calendar
+
+# Data serialization and processing
+protobuf>=4.25.3    # Protocol Buffers for binary data format
+grpcio-tools>=1.64.0 # gRPC tools for protobuf compilation
+
+# Utility libraries
+pygments>=2.19.1    # Syntax highlighting for log formatting
+pillow>=11.2.1      # Image processing for potential chart exports
