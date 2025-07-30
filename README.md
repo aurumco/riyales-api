@@ -4,11 +4,11 @@
 
 This repository contains the automated data aggregation service for the **[Riyales](https://ryls.ir/)** mobile app. It fetches real-time financial data from multiple sources and provides comprehensive market information for Iranian and global financial markets.
 
-## 🎯 Project Overview
+## Project Overview
 
 The Riyales API service is designed to collect, process, and distribute real-time financial data with high reliability and efficiency. It serves as the backbone data source for the Riyales mobile application, providing users with up-to-date market information.
 
-### 📊 Data Coverage
+### Data Coverage
 
 **🇮🇷 Iranian Markets:**
 - **Tehran Stock Exchange (TSE)**: Real-time stock prices, trading volumes, market indices
@@ -24,41 +24,34 @@ The Riyales API service is designed to collect, process, and distribute real-tim
 
 ## ⚙️ Core Features
 
-### 🤖 **Automated Data Collection**
+### **Automated Data Collection**
 - **Scheduled Execution**: Runs automatically via GitHub Actions cron jobs
 - **Smart Scheduling**: Respects market hours for TSE/IFB (8:30 AM - 12:45 PM Tehran time)
 - **Adaptive Intervals**: Different update frequencies for different data types
   - Active markets (Crypto, Gold): Every 10 minutes
   - TSE/IFB data: Every 20 minutes (during market hours only)
 
-### ⚡ **High Performance Architecture**
-- **Concurrent Processing**: Up to 10 simultaneous API requests
+### **High Performance Architecture**
 - **Optimized HTTP Client**: Custom timeout and retry mechanisms
 - **Memory Efficient**: Minimal resource usage with smart data handling
 - **Fast Response Times**: Average response time under 2 seconds
 
-### 💾 **Dual Data Format Support**
+### **Dual Data Format Support**
 - **JSON Format (v1)**: Human-readable, easy to parse
   - `api/v1/market/*.json` - Individual market data files
   - `api/v1/market/all_market_data.json` - Consolidated data
-  - `api/v1/market/lite.json` - Filtered essential data
+  - `api/v1/market/lite.json` - Filtered essential data for widgets
 - **Protobuf Format (v2)**: Binary format for high performance
   - `api/v2/market/*.pb` - Optimized for mobile apps
   - Reduced file sizes by 60-80%
   - Faster parsing and transmission
 
-### 🔧 **Advanced Configuration**
+### **Advanced Configuration**
 - **Environment Variables**: Flexible configuration via environment variables
 - **Market Hours Logic**: Automatic detection of trading hours
 - **Blacklist Support**: Filter out unwanted symbols/assets
 - **Name Mapping**: Persian/English name translations
 - **Custom Transformations**: Data cleaning and formatting
-
-### 📈 **Data Quality & Reliability**
-- **Error Handling**: Comprehensive error logging and recovery
-- **Data Validation**: Automatic validation of received data
-- **Fallback Mechanisms**: Graceful handling of API failures
-- **Data Consistency**: Ensures data integrity across updates
 
 ## 🛠️ Technical Stack
 
@@ -75,19 +68,12 @@ The Riyales API service is designed to collect, process, and distribute real-tim
 - **JSON/Protobuf**: Data storage formats
 - **Logging**: Comprehensive logging system
 
-### **Data Processing**
-- **Concurrent API Fetching**: Parallel data collection
-- **Data Transformation**: Custom processing pipelines
-- **Aggregation**: Real-time data consolidation
-- **Filtering**: Smart data filtering and blacklisting
-
 ## 📂 Project Structure
 
 ```
 riyales-api/
 ├── src/                          # Core application code
 │   ├── main.py                   # Main data aggregation script
-│   ├── alert_sender.py           # Telegram alert system
 │   ├── missing_names.py          # Data validation utilities
 │   ├── protobuf_generator.py     # Protobuf file generation
 │   └── pb_generated/             # Generated protobuf files
@@ -100,16 +86,16 @@ riyales-api/
 ├── dictionaries/                 # Data mapping files
 │   ├── crypto_names_fa.json      # Persian crypto names
 │   ├── market_name_mapping.json  # Market name translations
-│   ├── blacklist.json           # Filtered symbols
-│   └── lite_assets.json         # Essential assets list
+│   ├── blacklist.json            # Filtered symbols
+│   └── lite_assets.json          # Essential assets list
 ├── protos/                       # Protocol buffer definitions
-│   └── market_data.proto        # Data structure definitions
+│   └── market_data.proto         # Data structure definitions
 ├── logs/                         # Application logs
-│   ├── app.log                  # General application logs
-│   └── error.log                # Error logs
+│   ├── app.log                   # General application logs
+│   └── error.log                 # Error logs
 └── .github/                      # GitHub Actions workflows
     └── workflows/
-        └── main.yml             # Automated execution workflow
+        └── main.yml              # Automated execution workflow
 ```
 
 ## 🔄 Data Flow
@@ -121,7 +107,6 @@ riyales-api/
 5. **File Storage**: Saving to appropriate directories
 6. **Logging**: Comprehensive logging of all operations
 7. **Git Commit**: Automatic commit and push of updated data
-8. **Alert System**: Telegram notifications for errors or issues
 
 ## 📊 Data Sources & Endpoints
 
@@ -149,8 +134,6 @@ riyales-api/
 ```bash
 BRS_BASE_URL=your_api_base_url
 BRS_API_KEY=your_api_key
-TELEGRAM_BOT_TOKEN=your_bot_token
-TELEGRAM_USER_ID=your_user_id
 LOG_LEVEL=INFO
 ```
 
@@ -167,26 +150,10 @@ pip install -r requirements.txt
 python src/main.py
 ```
 
-## 📈 Performance Metrics
-
-- **Data Sources**: 10+ different market data APIs
-- **Update Frequency**: Every 10-20 minutes
-- **Data Points**: 1000+ financial instruments
-- **File Sizes**: Optimized for mobile consumption
-- **Uptime**: 99.9% availability through GitHub Actions
-
-## 🔒 Security & Reliability
-
-- **API Key Protection**: Secure handling of sensitive credentials
-- **Error Recovery**: Automatic retry mechanisms
-- **Data Validation**: Comprehensive input validation
-- **Logging Security**: Sensitive data masking in logs
-- **Backup Strategy**: Git-based data persistence
-
 ## 📱 Mobile App Integration
 
 The aggregated data is specifically optimized for mobile applications:
-- **Lite Version**: Reduced data size for faster loading
+- **Lite Version**: Reduced data size for faster loading, designed for widgets
 - **Protobuf Format**: Efficient binary format for mobile
 - **Structured Data**: Consistent data structure across all markets
 - **Real-time Updates**: Fresh data every 10-20 minutes
@@ -198,20 +165,12 @@ The aggregated data is specifically optimized for mobile applications:
 ✅ **Scalable Architecture**: Designed for high-volume data processing  
 ✅ **Maintained**: Regular updates and improvements  
 
-## 🤝 Contributing
-
-This project is actively maintained by Aurum Co. For questions, suggestions, or collaboration opportunities, please reach out through the contact information below.
-
 ## 📫 Contact & Support
 
 **Made with ❤️ by Aurum Co.**  
 📍 Tehran, Iran 🇮🇷
 
 **Contact Information:**
-- 📧 **Email**: [mozvfvri@gmail.com](mailto:mozvfvri@gmail.com)
-- 💬 **Telegram**: [@mozvfvri](https://t.me/mozvfvri/)
-- 🌐 **Website**: [Riyales App](https://ryls.ir/)
-
----
-
-*This project powers the real-time financial data for thousands of users through the Riyales mobile application.*
+- **Email**: [Contact via Email](mailto:mozvfvri@gmail.com)
+- **Telegram**: [Contact via Telegram](https://t.me/mozvfvri/)
+- **Website**: [Riyales App](https://ryls.ir/)
