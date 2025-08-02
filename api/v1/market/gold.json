@@ -8,8 +8,8 @@
             "name_en": "18K Gold",
             "name": "طلای 18 عیار",
             "price": 7398100,
-            "change_value": 187200,
-            "change_percent": 2.6,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان",
             "nameFa": "طلای 18 عیار"
         },
@@ -21,8 +21,8 @@
             "name_en": "24K Gold",
             "name": "طلای 24 عیار",
             "price": 9864000,
-            "change_value": 249600,
-            "change_percent": 2.6,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان",
             "nameFa": "طلای 24 عیار"
         },
@@ -34,8 +34,8 @@
             "name_en": "Melted Gold",
             "name": "طلای آب‌شده نقدی",
             "price": 32042000,
-            "change_value": 809000,
-            "change_percent": 2.59,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان",
             "nameFa": "طلای آب‌شده نقدی"
         },
@@ -60,8 +60,8 @@
             "name_en": "1g Coin",
             "name": "سکه یک گرمی",
             "price": 14800000,
-            "change_value": 200000,
-            "change_percent": 1.37,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان",
             "nameFa": "سکه یک گرمی"
         },
@@ -73,8 +73,8 @@
             "name_en": "Quarter Coin",
             "name": "ربع سکه",
             "price": 26300000,
-            "change_value": 1100000,
-            "change_percent": 4.37,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان",
             "nameFa": "ربع سکه"
         },
@@ -86,8 +86,8 @@
             "name_en": "Half Coin",
             "name": "نیم سکه",
             "price": 44600000,
-            "change_value": 1400000,
-            "change_percent": 3.24,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان",
             "nameFa": "نیم سکه"
         },
@@ -99,8 +99,8 @@
             "name_en": "Emami Coin",
             "name": "سکه امامی",
             "price": 83485000,
-            "change_value": 2805000,
-            "change_percent": 3.48,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان",
             "nameFa": "سکه امامی"
         },
@@ -112,8 +112,8 @@
             "name_en": "Bahar Azadi Coin",
             "name": "سکه بهار آزادی",
             "price": 74515000,
-            "change_value": 1435000,
-            "change_percent": 1.96,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان",
             "nameFa": "سکه بهار آزادی"
         }
