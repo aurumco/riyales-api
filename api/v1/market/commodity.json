@@ -24,13 +24,13 @@
         },
         {
             "date": "1404/05/11",
-            "time": "01:32",
-            "time_unix": 1754085720,
+            "time": "05:20",
+            "time_unix": 1754099400,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
-            "price": 1330.5,
-            "change_value": 2,
-            "change_percent": 0.15,
+            "price": 1316.9,
+            "change_value": -11.6,
+            "change_percent": -0.88,
             "unit": "دلار"
         },
         {
@@ -127,13 +127,13 @@
         },
         {
             "date": "1404/05/11",
-            "time": "00:47",
-            "time_unix": 1754083020,
+            "time": "05:20",
+            "time_unix": 1754099400,
             "symbol": "WTI",
             "name": "نفت سبک",
-            "price": 67.27,
-            "change_value": 0.04,
-            "change_percent": 0.06,
+            "price": 67.33,
+            "change_value": 0.1,
+            "change_percent": 0.15,
             "unit": "دلار"
         },
         {
