@@ -2,14 +2,14 @@
     "currency": [
         {
             "date": "1404/05/15",
-            "time": "17:26",
-            "time_unix": 1754488560,
+            "time": "17:49",
+            "time_unix": 1754489940,
             "symbol": "USD",
             "name_en": "US Dollar",
             "name": "دلار",
-            "price": 92650,
-            "change_value": -760,
-            "change_percent": -0.82,
+            "price": 92625,
+            "change_value": -785,
+            "change_percent": -0.85,
             "unit": "تومان"
         },
         {
@@ -302,14 +302,14 @@
         },
         {
             "date": "1404/05/15",
-            "time": "16:50",
-            "time_unix": 1754486400,
+            "time": "17:27",
+            "time_unix": 1754488620,
             "symbol": "AMD",
             "name_en": "Armenian Dram",
             "name": "درام ارمنستان",
-            "price": 18,
-            "change_value": -225,
-            "change_percent": -1250,
+            "price": 19,
+            "change_value": -224,
+            "change_percent": -1178.95,
             "unit": "تومان"
         },
         {
