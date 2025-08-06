@@ -1,9 +1,9 @@
 {
     "currency": [
         {
-            "date": "1404/05/15",
-            "time": "19:57",
-            "time_unix": 1754497620,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "USD",
             "name_en": "US Dollar",
             "name": "دلار",
@@ -13,9 +13,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:59",
-            "time_unix": 1754497740,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "EUR",
             "name_en": "Euro",
             "name": "یورو",
@@ -25,9 +25,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:59",
-            "time_unix": 1754497740,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "AED",
             "name_en": "UAE Dirham",
             "name": "درهم امارات",
@@ -37,9 +37,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:58",
-            "time_unix": 1754497680,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "GBP",
             "name_en": "British Pound",
             "name": "پوند",
@@ -49,9 +49,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:59",
-            "time_unix": 1754497740,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "JPY",
             "name_en": "Japanese Yen",
             "name": "یکصد ین ژاپن",
@@ -61,9 +61,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:59",
-            "time_unix": 1754497740,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "KWD",
             "name_en": "Kuwaiti Dinar",
             "name": "دینار کویت",
@@ -73,9 +73,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:59",
-            "time_unix": 1754497740,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "AUD",
             "name_en": "Australian Dollar",
             "name": "دلار استرالیا",
@@ -85,9 +85,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:58",
-            "time_unix": 1754497680,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "CAD",
             "name_en": "Canadian Dollar",
             "name": "دلار کانادا",
@@ -97,9 +97,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:57",
-            "time_unix": 1754497620,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "CNY",
             "name_en": "Chinese Yuan",
             "name": "یوآن چین",
@@ -109,9 +109,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:54",
-            "time_unix": 1754497440,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "TRY",
             "name_en": "Turkish Lira",
             "name": "لیر ترکیه",
@@ -121,9 +121,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:59",
-            "time_unix": 1754497740,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "SAR",
             "name_en": "Saudi Riyal",
             "name": "ریال عربستان",
@@ -133,9 +133,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:59",
-            "time_unix": 1754497740,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "CHF",
             "name_en": "Swiss Franc",
             "name": "فرانک سوئیس",
@@ -145,21 +145,21 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "18:39",
-            "time_unix": 1754492940,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "INR",
             "name_en": "Indian Rupee",
             "name": "روپیه هند",
-            "price": 1058,
-            "change_value": -6,
-            "change_percent": -0.57,
+            "price": 1060,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:57",
-            "time_unix": 1754497620,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "PKR",
             "name_en": "Pakistani Rupee",
             "name": "روپیه پاکستان",
@@ -169,9 +169,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:44",
-            "time_unix": 1754496840,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "IQD",
             "name_en": "Iraqi Dinar",
             "name": "دینار عراق",
@@ -181,9 +181,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "18:39",
-            "time_unix": 1754492940,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "SYP",
             "name_en": "Syrian Lira",
             "name": "لیر سوریه",
@@ -193,9 +193,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:58",
-            "time_unix": 1754497680,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "SEK",
             "name_en": "Swedish Krona",
             "name": "کرون سوئد",
@@ -205,9 +205,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:56",
-            "time_unix": 1754497560,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "QAR",
             "name_en": "Qatari Riyal",
             "name": "ریال قطر",
@@ -217,9 +217,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:59",
-            "time_unix": 1754497740,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "OMR",
             "name_en": "Omani Rial",
             "name": "ریال عمان",
@@ -229,9 +229,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:59",
-            "time_unix": 1754497740,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "BHD",
             "name_en": "Bahraini Dinar",
             "name": "دینار بحرین",
@@ -241,9 +241,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:59",
-            "time_unix": 1754497740,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "AFN",
             "name_en": "Afghan Afghani",
             "name": "افغانی",
@@ -253,9 +253,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:57",
-            "time_unix": 1754497620,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "MYR",
             "name_en": "Malaysian Ringgit",
             "name": "رینگیت مالزی",
@@ -265,9 +265,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:59",
-            "time_unix": 1754497740,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "THB",
             "name_en": "Thai Baht",
             "name": "بات تایلند",
@@ -277,9 +277,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:59",
-            "time_unix": 1754497740,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "RUB",
             "name_en": "Russian Ruble",
             "name": "روبل روسیه",
@@ -289,9 +289,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:57",
-            "time_unix": 1754497620,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "AZN",
             "name_en": "Azerbaijani Manat",
             "name": "منات آذربایجان",
@@ -301,9 +301,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:44",
-            "time_unix": 1754496840,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "AMD",
             "name_en": "Armenian Dram",
             "name": "درام ارمنستان",
@@ -313,9 +313,9 @@
             "unit": "تومان"
         },
         {
-            "date": "1404/05/15",
-            "time": "19:58",
-            "time_unix": 1754497680,
+            "date": "1404/05/16",
+            "time": "00:00",
+            "time_unix": 1754512200,
             "symbol": "GEL",
             "name_en": "Georgian Lari",
             "name": "لاری گرجستان",
