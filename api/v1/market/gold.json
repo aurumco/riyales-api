@@ -47,8 +47,8 @@
             "name_en": "Gold Ounce",
             "name": "انس طلا",
             "price": 3398,
-            "change_value": 3,
-            "change_percent": 0.09,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار",
             "nameFa": "انس طلا"
         },

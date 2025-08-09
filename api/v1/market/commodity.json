@@ -7,8 +7,8 @@
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 3398.08,
-            "change_value": 3.01,
-            "change_percent": 0.09,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
@@ -18,8 +18,8 @@
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 38.34,
-            "change_value": -0.06,
-            "change_percent": -0.16,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
@@ -29,8 +29,8 @@
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
             "price": 1340.55,
-            "change_value": 0.55,
-            "change_percent": 0.04,
+            "change_value": -0.35,
+            "change_percent": -0.03,
             "unit": "دلار"
         },
         {
@@ -40,8 +40,8 @@
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
             "price": 1137,
-            "change_value": 0.5,
-            "change_percent": 0.04,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         }
     ],
@@ -121,8 +121,8 @@
             "symbol": "BRENT",
             "name": "نفت برنت",
             "price": 66.14,
-            "change_value": -0.08,
-            "change_percent": -0.12,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
@@ -132,8 +132,8 @@
             "symbol": "WTI",
             "name": "نفت سبک",
             "price": 63.39,
-            "change_value": -0.09,
-            "change_percent": -0.14,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
