@@ -143,8 +143,8 @@
             "symbol": "GAS",
             "name": "گاز طبیعی",
             "price": 2.999,
-            "change_value": 0.002,
-            "change_percent": 0.07,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
@@ -154,8 +154,8 @@
             "symbol": "RBOB",
             "name": "بنزین",
             "price": 2.071,
-            "change_value": -0.0037,
-            "change_percent": -0.18,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
@@ -165,8 +165,8 @@
             "symbol": "GASOIL",
             "name": "گازوییل",
             "price": 668,
-            "change_value": -1.5,
-            "change_percent": -0.22,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         }
     ]
