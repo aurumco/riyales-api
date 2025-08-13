@@ -170,14 +170,14 @@
         },
         {
             "date": "1404/05/22",
-            "time": "19:58",
-            "time_unix": 1755102480,
+            "time": "00:00",
+            "time_unix": 1755030600,
             "symbol": "IQD",
             "name_en": "Iraqi Dinar",
             "name": "دینار عراق",
-            "price": 71,
+            "price": 70,
             "change_value": 0,
-            "change_percent": 1.27,
+            "change_percent": 0,
             "unit": "تومان"
         },
         {
