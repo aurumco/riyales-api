@@ -2,12 +2,12 @@
     "metal_precious": [
         {
             "date": "1404/05/24",
-            "time": "00:54",
-            "time_unix": 1755206640,
+            "time": "01:02",
+            "time_unix": 1755207120,
             "symbol": "XAUUSD",
             "name": "انس طلا",
-            "price": 3335.33,
-            "change_value": -0.39,
+            "price": 3335.54,
+            "change_value": -0.18,
             "change_percent": -0.01,
             "unit": "دلار"
         },
@@ -24,24 +24,24 @@
         },
         {
             "date": "1404/05/24",
-            "time": "00:54",
-            "time_unix": 1755206640,
+            "time": "01:02",
+            "time_unix": 1755207120,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
-            "price": 1364.65,
-            "change_value": 1.05,
-            "change_percent": 0.08,
+            "price": 1364.8,
+            "change_value": 1.2,
+            "change_percent": 0.09,
             "unit": "دلار"
         },
         {
             "date": "1404/05/24",
-            "time": "00:54",
-            "time_unix": 1755206640,
+            "time": "01:02",
+            "time_unix": 1755207120,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
-            "price": 1156.5,
-            "change_value": 0.5,
-            "change_percent": 0.04,
+            "price": 1157,
+            "change_value": 1,
+            "change_percent": 0.09,
             "unit": "دلار"
         }
     ],
@@ -116,8 +116,8 @@
     "energy": [
         {
             "date": "1404/05/24",
-            "time": "00:51",
-            "time_unix": 1755206460,
+            "time": "01:08",
+            "time_unix": 1755207480,
             "symbol": "BRENT",
             "name": "نفت برنت",
             "price": 66.84,
@@ -160,13 +160,13 @@
         },
         {
             "date": "1404/05/24",
-            "time": "00:51",
-            "time_unix": 1755206460,
+            "time": "01:07",
+            "time_unix": 1755207420,
             "symbol": "GASOIL",
             "name": "گازوییل",
-            "price": 654.13,
-            "change_value": -0.25,
-            "change_percent": -0.04,
+            "price": 653.25,
+            "change_value": -1.13,
+            "change_percent": -0.17,
             "unit": "دلار"
         }
     ]
