@@ -1,4 +1,4 @@
-![Riyales Banner](https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v1/config/Riyales_Dark.png)
+![Riyales Banner](https://raw.githubusercontent.com/aurumco/riyales-api/main/api/v1/banner/riyales_dark.png)
 
 # [Riyales](https://ryls.ir/) API - Real-Time Financial Data Aggregator
 
