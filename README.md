@@ -135,6 +135,8 @@ riyales-api/
 BRS_BASE_URL=your_api_base_url
 BRS_API_KEY=your_api_key
 LOG_LEVEL=INFO
+FTP_USERNAME
+FTP_PASSWORD
 ```
 
 ### **Local Development**
