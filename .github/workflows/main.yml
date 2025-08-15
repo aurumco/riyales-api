@@ -49,7 +49,7 @@ jobs:
           path: |
             /var/cache/apt/archives
             /var/lib/apt/lists
-          key: ${{ runner.os }}-apt-packages-${{ hashFiles('**/requirements.txt') }} # You can use a more specific key if needed
+          key: ${{ runner.os }}-apt-packages-${{ hashFiles('**/requirements.txt') }}
           restore-keys: |
             ${{ runner.os }}-apt-packages-
 
@@ -113,16 +113,57 @@ jobs:
           # Install lftp client (will use cache if available)
           sudo apt-get update && sudo apt-get -y install lftp
           
-          # Upload the api directories using lftp mirror
+          # --- Part 1: Sync non-media and all v2 data ---
+          echo "Syncing data files (JSON, Protobuf)..."
           lftp -c "
           open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://3117204815.cloudydl.com
           set ssl:verify-certificate no
+          # Create base directories
           mkdir -p public_html/riyales/api/v1/config
           mkdir -p public_html/riyales/api/v2/market
-          mirror -R --verbose --delete --parallel=5 api/v1/config public_html/riyales/api/v1/config
-          mirror -R --verbose --delete --parallel=5 api/v2/market public_html/riyales/api/v2/market
+          # Mirror v1/config, excluding media files
+          mirror -R --verbose --delete --parallel=5 \
+            --exclude-glob=*.png --exclude-glob=*.webp --exclude-glob=*.svg --exclude-glob=*.mp4 \
+            api/v1/config/ public_html/riyales/api/v1/config/
+          # Mirror all of v2/market
+          mirror -R --verbose --delete --parallel=5 api/v2/market/ public_html/riyales/api/v2/market/
           bye
           "
+
+          # --- Part 2: Sync recent media files to the assets directory ---
+          echo "Checking for recent media assets to sync..."
+          RECENT_ASSETS=$(find api/v1/config \( -name "*.png" -o -name "*.webp" -o -name "*.svg" -o -name "*.mp4" \) -mmin -60)
+
+          if [ -n "$RECENT_ASSETS" ]; then
+            echo "Found recent assets to upload:"
+            echo "$RECENT_ASSETS"
+
+            # Start building the lftp script for assets
+            LftpAssetCommands="
+            open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://3117204815.cloudydl.com
+            set ssl:verify-certificate no
+            "
+
+            echo "$RECENT_ASSETS" | while read -r file; do
+              # e.g., file = "api/v1/config/badges/PWA.webp"
+              RelativePath=$(echo "$file" | sed 's|^api/v1/config/||') # -> "badges/PWA.webp"
+              RemoteDir="public_html/riyales/api/v1/assets/$(dirname "$RelativePath")" # -> "public_html/riyales/api/v1/assets/badges"
+              
+              LftpAssetCommands="$LftpAssetCommands
+              mkdir -p '$RemoteDir'
+              put -O '$RemoteDir' '$file'
+              "
+            done
+
+            LftpAssetCommands="$LftpAssetCommands
+            bye
+            "
+            
+            echo "Executing LFTP commands for recent assets..."
+            lftp -c "$LftpAssetCommands"
+          else
+            echo "No recent media assets found to upload."
+          fi
         shell: bash
 
       - name: Check and send error logs
