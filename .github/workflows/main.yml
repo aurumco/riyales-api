@@ -43,15 +43,17 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pip-
 
-      - name: Cache apt packages
+      # --- CHANGED: Optimized apt caching ---
+      # The key is now static for lftp, so it doesn't get invalidated by python dependency changes.
+      - name: Cache apt packages for lftp
         uses: actions/cache@v4
         with:
           path: |
             /var/cache/apt/archives
             /var/lib/apt/lists
-          key: ${{ runner.os }}-apt-packages-${{ hashFiles('**/requirements.txt') }}
+          key: ${{ runner.os }}-apt-lftp-cache
           restore-keys: |
-            ${{ runner.os }}-apt-packages-
+            ${{ runner.os }}-apt-lftp-
 
       - name: Install dependencies
         run: |
@@ -108,36 +110,30 @@ jobs:
           fi
         shell: bash
 
+      # --- CHANGED: Optimized and corrected FTP upload step ---
       - name: Upload API data to Download Server via FTP
         run: |
           # Install lftp client (will use cache if available)
           sudo apt-get update && sudo apt-get -y install lftp
 
-          # --- Part 1: Always sync critical v2 data (Protobuf) ---
-          echo "Syncing critical v2 data (Protobuf)..."
+          # Use a single connection for all transfers for better performance
+          echo "Syncing all API data to download server..."
           lftp -c "
           open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://3117204815.cloudydl.com
           set ssl:verify-certificate no
-          # Create parent directory and cd into it for robustness
+          
+          # --- Part 1: Sync critical v2 data (Protobuf) ---
           mkdir -p public_html/riyales/api/v2
           cd public_html/riyales/api/v2
-          # Mirror the local 'market' sub-directory into the current remote directory ('.../api/v2/')
           mirror -R --verbose --delete --parallel=5 api/v2/market/ market
-          bye
-          "
-
+          
           # --- Part 2: Sync all v1 directories with specific rules ---
-          echo "Syncing v1 directories..."
-          lftp -c "
-          open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://3117204815.cloudydl.com
-          set ssl:verify-certificate no
+          # Navigate to the parent v1 directory
+          cd ../v1
           
-          # Create parent v1 directory and cd into it
-          mkdir -p public_html/riyales/api/v1
-          cd public_html/riyales/api/v1
-          
-          # Mirror config directory, but ONLY include .json files
-          mirror -R --verbose --delete --parallel=5 --include-glob=*.json --exclude-glob=* api/v1/config/ config
+          # ADDED: --ignore-time flag to always sync json files regardless of modification time.
+          # The combination of --include-glob and --exclude-glob ensures ONLY .json files are synced.
+          mirror -R --verbose --delete --parallel=5 --ignore-time --include-glob=*.json --exclude-glob=* api/v1/config/ config
           
           # Mirror other asset directories completely
           mirror -R --verbose --delete --parallel=5 api/v1/banner/ banner
@@ -186,8 +182,8 @@ jobs:
       actions: write
     env:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      REPO:   ${{ github.repository }}
-      WF:     ${{ github.workflow }}
+      REPO:     ${{ github.repository }}
+      WF:       ${{ github.workflow }}
     steps:
       - name: Remove old workflow runs
         run: |
