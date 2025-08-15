@@ -119,8 +119,8 @@ jobs:
           set ssl:verify-certificate no
           mkdir -p public_html/riyales/api/v1/config
           mkdir -p public_html/riyales/api/v2/market
-          mirror -R --verbose --delete --parallel=5 api/v1/config public_html/riyales/v1/config
-          mirror -R --verbose --delete --parallel=5 api/v2/market public_html/riyales/v2/market
+          mirror -R --verbose --delete --parallel=5 api/v1/config public_html/riyales/api/v1/config
+          mirror -R --verbose --delete --parallel=5 api/v2/market public_html/riyales/api/v2/market
           bye
           "
         shell: bash
