@@ -29,7 +29,7 @@
     "ad": {
       "enabled": false,
       "idAd1": "1001",
-      "ad1": "https://raw.githubusercontent.com/aurumco/riyales-api/refs/heads/main/api/v1/config/ad1.png",
+      "ad1": "https://api.ryls.ir/riyales/api/v1/ads/ad1.png",
       "linkAd1": "",
       "deviceAd1": "all",
       "repeatAd1": "1",
