@@ -43,6 +43,16 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pip-
 
+      - name: Cache apt packages
+        uses: actions/cache@v4
+        with:
+          path: |
+            /var/cache/apt/archives
+            /var/lib/apt/lists
+          key: ${{ runner.os }}-apt-packages-${{ hashFiles('**/requirements.txt') }} # You can use a more specific key if needed
+          restore-keys: |
+            ${{ runner.os }}-apt-packages-
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -100,7 +110,7 @@ jobs:
 
       - name: Upload API data to Download Server via FTP
         run: |
-          # Install lftp client
+          # Install lftp client (will use cache if available)
           sudo apt-get update && sudo apt-get -y install lftp
           
           # Upload the api directories using lftp mirror
@@ -109,8 +119,8 @@ jobs:
           set ssl:verify-certificate no
           mkdir -p public_html/riyales/api/v1/config
           mkdir -p public_html/riyales/api/v2/market
-          mirror -R --verbose --delete --parallel=5 api/v1/config public_html/riyales/api/v1/config
-          mirror -R --verbose --delete --parallel=5 api/v2/market public_html/riyales/api/v2/market
+          mirror -R --verbose --delete --parallel=5 api/v1/config public_html/riyales/v1/config
+          mirror -R --verbose --delete --parallel=5 api/v2/market public_html/riyales/v2/market
           bye
           "
         shell: bash
