@@ -127,7 +127,8 @@ jobs:
             # Part 1: Always sync critical v2 data (Protobuf)
             "mkdir -p public_html/riyales/api/v2"
             "cd public_html/riyales/api/v2"
-            "mirror -R --verbose --delete --parallel=5 ../../../../api/v2/market/ market"
+            # CORRECTED PATH: Removed incorrect relative path prefix
+            "mirror -R --verbose --delete --parallel=5 api/v2/market/ market"
             # Part 2: Navigate to v1 for conditional syncs
             "cd ../v1"
           )
@@ -140,8 +141,8 @@ jobs:
               echo "• Actual content changes detected in '$dir_path'. Scheduling for upload."
               HAS_CHANGES=true
               remote_dir_name=$(basename "$dir_path")
-              # Add the mirror command for this directory. Note the path correction.
-              lftp_commands+=("mirror -R --verbose --delete --parallel=5 '../../../../$dir_path' '$remote_dir_name'")
+              # CORRECTED PATH: Removed incorrect relative path prefix
+              lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$dir_path' '$remote_dir_name'")
             else
               echo "• No actual content changes in '$dir_path'. Skipping upload."
             fi
