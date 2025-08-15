@@ -126,14 +126,15 @@ jobs:
           bye
           "
 
-          # --- Part 2: Conditionally sync recent v1 files (JSON & Assets) ---
+          # --- Part 2: Conditionally sync recent v1 files ---
           echo "Checking for recent v1 files to sync..."
           LftpV1Commands=""
+          V1_ASSET_DIRS="banner ads assets terms"
 
-          # Find recent JSON files and build commands
+          # Find recent JSON files in config
           RECENT_JSON=$(find api/v1/config -maxdepth 1 -name "*.json" -mmin -60)
           if [ -n "$RECENT_JSON" ]; then
-              echo "Found recent JSON files to upload:"
+              echo "Found recent JSON files in config:"
               echo "$RECENT_JSON"
               LftpV1Commands="$LftpV1Commands
               mkdir -p public_html/riyales/api/v1/config
@@ -145,22 +146,26 @@ jobs:
               done
           fi
 
-          # Find recent media assets and build commands
-          RECENT_ASSETS=$(find api/v1/config \( -name "*.png" -o -name "*.webp" -o -name "*.svg" -o -name "*.mp4" \) -mmin -60)
-          if [ -n "$RECENT_ASSETS" ]; then
-              echo "Found recent media assets to upload:"
-              echo "$RECENT_ASSETS"
-              echo "$RECENT_ASSETS" | while read -r file; do
-                  # Example file: "api/v1/config/badges/PWA.webp"
-                  RelativePath=$(echo "$file" | sed 's|^api/v1/config/||') # -> "badges/PWA.webp"
-                  RemoteDir="public_html/riyales/api/v1/assets/$(dirname "$RelativePath")" # -> "public_html/riyales/api/v1/assets/badges"
-                  
-                  LftpV1Commands="$LftpV1Commands
-                  mkdir -p '$RemoteDir'
-                  put -O '$RemoteDir' '$file'
-                  "
-              done
-          fi
+          # Find recent files in other v1 asset directories
+          for dir in $V1_ASSET_DIRS; do
+              if [ -d "api/v1/$dir" ]; then
+                  RECENT_FILES=$(find "api/v1/$dir" -type f -mmin -60)
+                  if [ -n "$RECENT_FILES" ]; then
+                      echo "Found recent files in $dir:"
+                      echo "$RECENT_FILES"
+                      echo "$RECENT_FILES" | while read -r file; do
+                          # Example file: "api/v1/assets/badges/PWA.webp"
+                          RelativePath=$(echo "$file" | sed 's|^api/v1/||') # -> "assets/badges/PWA.webp"
+                          RemoteDir="public_html/riyales/api/v1/$(dirname "$RelativePath")" # -> "public_html/riyales/api/v1/assets/badges"
+                          
+                          LftpV1Commands="$LftpV1Commands
+                          mkdir -p '$RemoteDir'
+                          put -O '$RemoteDir' '$file'
+                          "
+                      done
+                  fi
+              fi
+          done
 
           # Execute the combined v1 commands only if there's anything to upload
           if [ -n "$LftpV1Commands" ]; then
@@ -172,7 +177,7 @@ jobs:
               bye
               "
           else
-              echo "No recent v1 files (JSON or Assets) found to upload."
+              echo "No recent v1 files found to upload."
           fi
         shell: bash
 
