@@ -73,12 +73,12 @@ jobs:
           
           # Commit market data changes and log files
           echo "• Checking for changes in market data files and logs..."
-          git add api/v1/market/
+          git add api/v1/config/
           git add api/v2/market/
           git add logs/
           
           # Unstage any files larger than 100MB to avoid commit failures
-          find api/v1/market/ api/v2/market/ -type f -size +100M | while read file; do
+          find api/v1/config/ api/v2/market/ -type f -size +100M | while read file; do
             echo "• Skipping large file from commit: $file"
             git restore --staged "$file"
           done
@@ -96,6 +96,21 @@ jobs:
           else
             echo "• No changes to market data files. Skipping commit."
           fi
+        shell: bash
+
+      - name: Upload API data to Download Server via FTP
+        run: |
+          # Install lftp client
+          sudo apt-get update && sudo apt-get -y install lftp
+          
+          # Upload the api directories using lftp mirror
+          lftp -c "
+          open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://3117204815.cloudydl.com
+          set ssl:verify-certificate no
+          mirror -R --verbose --delete --parallel=5 api/v1/config public_html/riyales/api/v1/config
+          mirror -R --verbose --delete --parallel=5 api/v2/market public_html/riyales/api/v2/market
+          bye
+          "
         shell: bash
 
       - name: Check and send error logs
@@ -139,8 +154,8 @@ jobs:
       actions: write
     env:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      REPO:    ${{ github.repository }}
-      WF:      ${{ github.workflow }}
+      REPO:   ${{ github.repository }}
+      WF:     ${{ github.workflow }}
     steps:
       - name: Remove old workflow runs
         run: |
