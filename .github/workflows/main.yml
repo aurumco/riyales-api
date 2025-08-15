@@ -137,7 +137,7 @@ jobs:
               echo "Found recent JSON files in config:"
               echo "$RECENT_JSON"
               LftpV1Commands="$LftpV1Commands
-              mkdir -p public_html/riyales/api/v1/config
+              -mkdir -p public_html/riyales/api/v1/config
               "
               echo "$RECENT_JSON" | while read -r file; do
                   LftpV1Commands="$LftpV1Commands
@@ -159,7 +159,7 @@ jobs:
                           RemoteDir="public_html/riyales/api/v1/$(dirname "$RelativePath")" # -> "public_html/riyales/api/v1/assets/badges"
                           
                           LftpV1Commands="$LftpV1Commands
-                          mkdir -p '$RemoteDir'
+                          -mkdir -p '$RemoteDir'
                           put -O '$RemoteDir' '$file'
                           "
                       done
