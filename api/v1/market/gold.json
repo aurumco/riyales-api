@@ -43,8 +43,13 @@
             "date": "1404/05/24",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             "time": "17:18",
             "time_unix": 1755265680,
+=======
+            "time": "17:19",
+            "time_unix": 1755265740,
+>>>>>>> Stashed changes
 =======
             "time": "17:19",
             "time_unix": 1755265740,
@@ -55,6 +60,7 @@
             "price": 3336,
             "change_value": 0,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             "change_percent": -0.02,
 =======
             "time": "17:19",
@@ -64,6 +70,9 @@
             "name": "انس طلا",
             "price": 3336,
             "change_value": 0,
+            "change_percent": 0.01,
+>>>>>>> Stashed changes
+=======
             "change_percent": 0.01,
 >>>>>>> Stashed changes
 =======
