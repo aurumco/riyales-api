@@ -112,57 +112,64 @@ jobs:
         run: |
           # Install lftp client (will use cache if available)
           sudo apt-get update && sudo apt-get -y install lftp
-          
-          # --- Part 1: Sync non-media and all v2 data ---
-          echo "Syncing data files (JSON, Protobuf)..."
+
+          # --- Part 1: Always sync critical v2 data (Protobuf) ---
+          echo "Syncing critical v2 data (Protobuf)..."
           lftp -c "
           open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://3117204815.cloudydl.com
           set ssl:verify-certificate no
-          # Create base directories
-          mkdir -p public_html/riyales/api/v1/config
           mkdir -p public_html/riyales/api/v2/market
-          # Mirror v1/config, excluding media files
-          mirror -R --verbose --delete --parallel=5 \
-            --exclude-glob=*.png --exclude-glob=*.webp --exclude-glob=*.svg --exclude-glob=*.mp4 \
-            api/v1/config/ public_html/riyales/api/v1/config/
-          # Mirror all of v2/market
           mirror -R --verbose --delete --parallel=5 api/v2/market/ public_html/riyales/api/v2/market/
           bye
           "
 
-          # --- Part 2: Sync recent media files to the assets directory ---
-          echo "Checking for recent media assets to sync..."
-          RECENT_ASSETS=$(find api/v1/config \( -name "*.png" -o -name "*.webp" -o -name "*.svg" -o -name "*.mp4" \) -mmin -60)
+          # --- Part 2: Conditionally sync recent v1 files (JSON & Assets) ---
+          echo "Checking for recent v1 files to sync..."
+          LftpV1Commands=""
 
-          if [ -n "$RECENT_ASSETS" ]; then
-            echo "Found recent assets to upload:"
-            echo "$RECENT_ASSETS"
-
-            # Start building the lftp script for assets
-            LftpAssetCommands="
-            open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://3117204815.cloudydl.com
-            set ssl:verify-certificate no
-            "
-
-            echo "$RECENT_ASSETS" | while read -r file; do
-              # e.g., file = "api/v1/config/badges/PWA.webp"
-              RelativePath=$(echo "$file" | sed 's|^api/v1/config/||') # -> "badges/PWA.webp"
-              RemoteDir="public_html/riyales/api/v1/assets/$(dirname "$RelativePath")" # -> "public_html/riyales/api/v1/assets/badges"
-              
-              LftpAssetCommands="$LftpAssetCommands
-              mkdir -p '$RemoteDir'
-              put -O '$RemoteDir' '$file'
+          # Find recent JSON files and build commands
+          RECENT_JSON=$(find api/v1/config -maxdepth 1 -name "*.json" -mmin -60)
+          if [ -n "$RECENT_JSON" ]; then
+              echo "Found recent JSON files to upload:"
+              echo "$RECENT_JSON"
+              LftpV1Commands="$LftpV1Commands
+              mkdir -p public_html/riyales/api/v1/config
               "
-            done
+              echo "$RECENT_JSON" | while read -r file; do
+                  LftpV1Commands="$LftpV1Commands
+                  put -O 'public_html/riyales/api/v1/config' '$file'
+                  "
+              done
+          fi
 
-            LftpAssetCommands="$LftpAssetCommands
-            bye
-            "
-            
-            echo "Executing LFTP commands for recent assets..."
-            lftp -c "$LftpAssetCommands"
+          # Find recent media assets and build commands
+          RECENT_ASSETS=$(find api/v1/config \( -name "*.png" -o -name "*.webp" -o -name "*.svg" -o -name "*.mp4" \) -mmin -60)
+          if [ -n "$RECENT_ASSETS" ]; then
+              echo "Found recent media assets to upload:"
+              echo "$RECENT_ASSETS"
+              echo "$RECENT_ASSETS" | while read -r file; do
+                  # Example file: "api/v1/config/badges/PWA.webp"
+                  RelativePath=$(echo "$file" | sed 's|^api/v1/config/||') # -> "badges/PWA.webp"
+                  RemoteDir="public_html/riyales/api/v1/assets/$(dirname "$RelativePath")" # -> "public_html/riyales/api/v1/assets/badges"
+                  
+                  LftpV1Commands="$LftpV1Commands
+                  mkdir -p '$RemoteDir'
+                  put -O '$RemoteDir' '$file'
+                  "
+              done
+          fi
+
+          # Execute the combined v1 commands only if there's anything to upload
+          if [ -n "$LftpV1Commands" ]; then
+              echo "Executing LFTP commands for recent v1 files..."
+              lftp -c "
+              open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://3117204815.cloudydl.com
+              set ssl:verify-certificate no
+              $LftpV1Commands
+              bye
+              "
           else
-            echo "No recent media assets found to upload."
+              echo "No recent v1 files (JSON or Assets) found to upload."
           fi
         shell: bash
 
@@ -173,25 +180,21 @@ jobs:
           echo "• Final check for error log at: ${ERROR_LOG}"
           
           if [ -f "${ERROR_LOG}" ]; then
-            # Check if the file has actual content beyond a possible clear message or just whitespace
-            # Count lines that are not empty and not a clear message
             RELEVANT_LINES=$(grep -cvE '(^\s*$)|(^# Log cleared on)|(^# Log forcibly cleared on)' "${ERROR_LOG}" || true)
             
             if [ "${RELEVANT_LINES}" -gt 0 ]; then
               echo "• Error log has relevant content (${RELEVANT_LINES} lines). Running alert_sender.py..."
-              cd "${GITHUB_WORKSPACE}" # Ensure script runs from project root
-              python src/alert_sender.py # This should truncate ERROR_LOG if successful
+              cd "${GITHUB_WORKSPACE}"
+              python src/alert_sender.py
               
-              # After alert_sender.py, verify it was truncated (empty)
-              if [ -s "${ERROR_LOG}" ]; then # -s checks if file has size > 0
-                echo "• WARNING: error.log was NOT truncated to zero by alert_sender.py. Forcing truncation." | tee -a "${ERROR_LOG}"
-                # Forcibly truncate the file by overwriting it with an empty string or a clear marker
+              if [ -s "${ERROR_LOG}" ]; then
+                echo "• WARNING: error.log was NOT truncated. Forcing truncation." | tee -a "${ERROR_LOG}"
                 echo "# Log forcibly cleared by workflow at $(date -u '+%Y-%m-%dT%H:%M:%SZ')" > "${ERROR_LOG}"
               else
-                echo "• error.log successfully truncated to zero by alert_sender.py."
+                echo "• error.log successfully truncated."
               fi
             else
-              echo "• Error log is empty or contains only clear messages. Skipping alert_sender.py."
+              echo "• Error log is empty or contains only clear messages. Skipping alert."
             fi
           else
             echo "• No error.log file found. Skipping alerts."
@@ -221,7 +224,6 @@ jobs:
             jq -s 'sort_by(.date) | reverse | .[].id')
           total=$(echo "$runs" | wc -l)
           if [ "$total" -le 9 ]; then exit 0; fi
-          # delete all older than the 9 newest
           to_delete=$(echo "$runs" | tail -n +10)
           echo "$to_delete" | while read id; do
             echo "Deleting run ID: $id"
