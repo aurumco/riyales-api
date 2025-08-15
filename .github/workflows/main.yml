@@ -43,8 +43,6 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pip-
 
-      # --- CHANGED: Optimized apt caching ---
-      # The key is now static for lftp, so it doesn't get invalidated by python dependency changes.
       - name: Cache apt packages for lftp
         uses: actions/cache@v4
         with:
@@ -63,19 +61,15 @@ jobs:
 
       - name: Run data-fetch script
         run: |
-          # Ensure logs directory exists for app.log/error.log
           mkdir -p logs
-          # Execute main script (logging handled internally)
           python src/main.py
         shell: bash
 
       - name: Pull latest & Commit if any
         run: |
-          # Setup git
           git config --global user.name "Market Data Bot"
           git config --global user.email "market-data-bot@users.noreply.github.com"
           
-          # Try to pull latest changes safely
           echo "• Pulling latest changes from origin/main"
           if ! git pull --rebase --autostash origin main; then
             echo "• ERROR: Git pull failed with conflicts or errors"
@@ -83,19 +77,16 @@ jobs:
             git pull origin main || echo "• ERROR: Fallback git pull also failed"
           fi
           
-          # Commit market data changes and log files
           echo "• Checking for changes in market data files and logs..."
           git add api/v1/
           git add api/v2/market/
           git add logs/
           
-          # Unstage any files larger than 100MB to avoid commit failures
           find api/v1/ api/v2/market/ -type f -size +100M | while read file; do
             echo "• Skipping large file from commit: $file"
             git restore --staged "$file"
           done
           
-          # Commit only if there are actual changes to market data files
           if ! git diff --staged --quiet; then
             echo "• Changes detected in market data files. Committing..."
             MSG=$(python src/commit_message.py)
@@ -110,8 +101,7 @@ jobs:
           fi
         shell: bash
 
-      # --- CHANGED: Optimized and corrected FTP upload step ---
-      - name: Upload API data to Download Server via FTP
+      - name: Install lftp and Upload API data via FTP
         run: |
           # Install lftp client (will use cache if available)
           sudo apt-get update && sudo apt-get -y install lftp
@@ -127,13 +117,11 @@ jobs:
           cd public_html/riyales/api/v2
           mirror -R --verbose --delete --parallel=5 api/v2/market/ market
           
-          # --- Part 2: Sync all v1 directories with specific rules ---
-          # Navigate to the parent v1 directory
+          # --- Part 2: Sync all v1 directories ---
           cd ../v1
           
-          # ADDED: --ignore-time flag to always sync json files regardless of modification time.
-          # The combination of --include-glob and --exclude-glob ensures ONLY .json files are synced.
-          mirror -R --verbose --delete --parallel=5 --ignore-time --include-glob=*.json --exclude-glob=* api/v1/config/ config
+          # CHANGED: Sync 'config' directory normally, like other directories
+          mirror -R --verbose --delete --parallel=5 api/v1/config/ config
           
           # Mirror other asset directories completely
           mirror -R --verbose --delete --parallel=5 api/v1/banner/ banner
@@ -144,6 +132,13 @@ jobs:
           bye
           "
         shell: bash
+      
+      # --- ADDED: Fix permissions for apt cache to be saved correctly ---
+      # This step ensures the runner user can read the files downloaded by apt.
+      - name: Prepare apt directories for caching
+        if: always()
+        run: |
+          sudo chown -R $(whoami):$(whoami) /var/cache/apt/archives /var/lib/apt/lists
 
       - name: Check and send error logs
         if: always()
