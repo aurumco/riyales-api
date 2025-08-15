@@ -107,6 +107,8 @@ jobs:
           lftp -c "
           open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://3117204815.cloudydl.com
           set ssl:verify-certificate no
+          mkdir -p public_html/riyales/api/v1/config
+          mkdir -p public_html/riyales/api/v2/market
           mirror -R --verbose --delete --parallel=5 api/v1/config public_html/riyales/api/v1/config
           mirror -R --verbose --delete --parallel=5 api/v2/market public_html/riyales/api/v2/market
           bye
