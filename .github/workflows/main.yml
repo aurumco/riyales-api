@@ -101,40 +101,54 @@ jobs:
           fi
         shell: bash
 
-      - name: Install lftp and Upload API data via FTP
+      # --- CHANGED: Implemented conditional FTP upload based on file modification time ---
+      - name: Upload API data to Download Server via FTP
         run: |
           # Install lftp client (will use cache if available)
           sudo apt-get update && sudo apt-get -y install lftp
 
-          # Use a single connection for all transfers for better performance
-          echo "Syncing all API data to download server..."
-          lftp -c "
-          open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://3117204815.cloudydl.com
-          set ssl:verify-certificate no
-          
-          # --- Part 1: Sync critical v2 data (Protobuf) ---
-          mkdir -p public_html/riyales/api/v2
-          cd public_html/riyales/api/v2
-          mirror -R --verbose --delete --parallel=5 api/v2/market/ market
-          
-          # --- Part 2: Sync all v1 directories ---
-          cd ../v1
-          
-          # CHANGED: Sync 'config' directory normally, like other directories
-          mirror -R --verbose --delete --parallel=5 api/v1/config/ config
-          
-          # Mirror other asset directories completely
-          mirror -R --verbose --delete --parallel=5 api/v1/banner/ banner
-          mirror -R --verbose --delete --parallel=5 api/v1/ads/ ads
-          mirror -R --verbose --delete --parallel=5 api/v1/assets/ assets
-          mirror -R --verbose --delete --parallel=5 api/v1/terms/ terms
-          
-          bye
-          "
+          # Define directories to check for recent changes
+          DIRECTORIES_TO_CHECK="api/v1/config api/v1/banner api/v1/ads api/v1/assets api/v1/terms"
+
+          # Start building the lftp command array. This is safer than a single long string.
+          lftp_commands=(
+            "open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://3117204815.cloudydl.com"
+            "set ssl:verify-certificate no"
+            # Part 1: Always sync critical v2 data (Protobuf)
+            "mkdir -p public_html/riyales/api/v2"
+            "cd public_html/riyales/api/v2"
+            "mirror -R --verbose --delete --parallel=5 api/v2/market/ market"
+            # Part 2: Navigate to v1 for conditional syncs
+            "cd ../v1"
+          )
+
+          # Loop through each directory and check for files modified in the last 60 minutes
+          for dir_path in $DIRECTORIES_TO_CHECK; do
+            # The 'find' command searches for any file (-type f) modified within the last 60 minutes (-mmin -60)
+            # If it finds any, the output of the command will not be empty.
+            if [ -n "$(find "$dir_path" -type f -mmin -60)" ]; then
+              echo "• Recent changes detected in '$dir_path'. Scheduling for upload."
+              # Extract the base directory name (e.g., 'config' from 'api/v1/config')
+              remote_dir_name=$(basename "$dir_path")
+              # Add the mirror command for this directory to our command list
+              lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$dir_path' '$remote_dir_name'")
+            else
+              echo "• No recent changes in '$dir_path'. Skipping upload."
+            fi
+          done
+
+          # Add the final 'bye' command to close the connection
+          lftp_commands+=("bye")
+
+          # Join the array of commands into a single script string separated by semicolons
+          lftp_script=$(printf "%s;" "${lftp_commands[@]}")
+
+          # Execute the dynamically generated script
+          echo "--- Executing FTP Sync Script ---"
+          lftp -c "$lftp_script"
+          echo "--- FTP Sync Script Finished ---"
         shell: bash
-      
-      # --- ADDED: Fix permissions for apt cache to be saved correctly ---
-      # This step ensures the runner user can read the files downloaded by apt.
+
       - name: Prepare apt directories for caching
         if: always()
         run: |
