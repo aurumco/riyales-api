@@ -45,14 +45,14 @@ jobs:
             ${{ runner.os }}-pip-
 
       # --- Caching for apt packages like lftp ---
-      # This step caches the downloaded .deb file for lftp.
-      # While `apt-get update` still runs, `apt-get install` will be much faster
-      # as it will use the cached package instead of downloading it again.
+      # Caching both archives and lists for better performance.
       - name: Cache apt packages for lftp
         uses: actions/cache@v4
         with:
-          path: /var/cache/apt/archives
-          key: ${{ runner.os }}-apt-lftp-cache-${{ hashFiles('**/requirements*.txt') }} # Added a file hash to the key
+          path: |
+            /var/cache/apt/archives
+            /var/lib/apt/lists
+          key: ${{ runner.os }}-apt-lftp-cache-${{ hashFiles('**/requirements*.txt') }}
           restore-keys: |
             ${{ runner.os }}-apt-lftp-cache-
 
@@ -104,7 +104,6 @@ jobs:
           fi
         shell: bash
 
-      # --- CORRECTED: Conditional FTP upload based on actual file content changes ---
       - name: Upload API data to Download Server via FTP
         run: |
           # Install lftp client (will use cache if available)
@@ -113,53 +112,33 @@ jobs:
           # Define directories to check for changes
           DIRECTORIES_TO_CHECK="api/v1/config api/v1/banner api/v1/ads api/v1/assets api/v1/terms"
           
-          # Get the commit hash of the parent commit. We need this to compare against.
-          # This is why `fetch-depth: 2` is important in the checkout step.
+          # Get the commit hash of the parent commit.
           PREVIOUS_COMMIT=$(git rev-parse HEAD~1)
           
-          # A flag to track if any directory has changed
-          HAS_CHANGES=false
-
           # Start building the lftp command array
           lftp_commands=(
             "open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://3117204815.cloudydl.com"
             "set ssl:verify-certificate no"
-            # Part 1: Always sync critical v2 data (Protobuf)
             "mkdir -p public_html/riyales/api/v2"
             "cd public_html/riyales/api/v2"
-            # CORRECTED PATH: Removed incorrect relative path prefix
             "mirror -R --verbose --delete --parallel=5 api/v2/market/ market"
-            # Part 2: Navigate to v1 for conditional syncs
             "cd ../v1"
           )
 
           # Loop through each directory and check for actual content changes using git diff
           for dir_path in $DIRECTORIES_TO_CHECK; do
-            # `git diff --quiet` exits with 1 if there are changes, and 0 if not.
-            # We check if the command fails (i.e., there are changes).
             if ! git diff --quiet $PREVIOUS_COMMIT HEAD -- "$dir_path"; then
               echo "• Actual content changes detected in '$dir_path'. Scheduling for upload."
-              HAS_CHANGES=true
               remote_dir_name=$(basename "$dir_path")
-              # CORRECTED PATH: Removed incorrect relative path prefix
               lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$dir_path' '$remote_dir_name'")
             else
               echo "• No actual content changes in '$dir_path'. Skipping upload."
             fi
           done
 
-          # Only execute FTP commands if there were actual changes in the checked directories
-          # or if we are always syncing the v2 data (which we are).
-          # The check `if [ "$HAS_CHANGES" = true ]` can be added if you want to skip FTP entirely
-          # when only v2 changes, but the current logic always syncs v2 and conditionally syncs v1 dirs.
-
-          # Add the final 'bye' command to close the connection
           lftp_commands+=("bye")
-
-          # Join the array of commands into a single script string
           lftp_script=$(printf "%s;" "${lftp_commands[@]}")
 
-          # Execute the dynamically generated script
           echo "--- Executing FTP Sync Script ---"
           lftp -c "$lftp_script"
           echo "--- FTP Sync Script Finished ---"
@@ -192,6 +171,15 @@ jobs:
             echo "• No error.log file found. Skipping alerts."
           fi
         shell: bash
+      
+      # --- NEW STEP: Fix permissions for apt cache ---
+      # This step changes the ownership of the apt cache directories to the runner user.
+      # This is necessary because `sudo apt-get` creates files as root, but the cache action
+      # runs as the `runner` user and needs permission to read those files to save the cache.
+      - name: Prepare apt directories for caching
+        if: always()
+        run: |
+          sudo chown -R $(whoami):$(whoami) /var/cache/apt/archives /var/lib/apt/lists
 
   cleanup:
     name: Cleanup
