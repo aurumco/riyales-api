@@ -18,17 +18,18 @@ jobs:
     permissions:
       contents: write
     env:
-      BRS_API_KEY:        ${{ secrets.BRS_API_KEY }}
-      BRS_BASE_URL:       ${{ secrets.BRS_BASE_URL }}
+      BRS_API_KEY: ${{ secrets.BRS_API_KEY }}
+      BRS_BASE_URL: ${{ secrets.BRS_BASE_URL }}
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-      TELEGRAM_USER_ID:   ${{ secrets.TELEGRAM_USER_ID }}
-      LOG_LEVELS:         ${{ secrets.LOG_LEVELS || 'ERROR' }}
+      TELEGRAM_USER_ID: ${{ secrets.TELEGRAM_USER_ID }}
+      LOG_LEVELS: ${{ secrets.LOG_LEVELS || 'ERROR' }}
     steps:
 
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          # Fetch last 2 commits to be able to compare HEAD with the previous one
+          fetch-depth: 2
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -43,15 +44,17 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pip-
 
+      # --- Caching for apt packages like lftp ---
+      # This step caches the downloaded .deb file for lftp.
+      # While `apt-get update` still runs, `apt-get install` will be much faster
+      # as it will use the cached package instead of downloading it again.
       - name: Cache apt packages for lftp
         uses: actions/cache@v4
         with:
-          path: |
-            /var/cache/apt/archives
-            /var/lib/apt/lists
-          key: ${{ runner.os }}-apt-lftp-cache
+          path: /var/cache/apt/archives
+          key: ${{ runner.os }}-apt-lftp-cache-${{ hashFiles('**/requirements*.txt') }} # Added a file hash to the key
           restore-keys: |
-            ${{ runner.os }}-apt-lftp-
+            ${{ runner.os }}-apt-lftp-cache-
 
       - name: Install dependencies
         run: |
@@ -101,46 +104,58 @@ jobs:
           fi
         shell: bash
 
-      # --- CHANGED: Implemented conditional FTP upload based on file modification time ---
+      # --- CORRECTED: Conditional FTP upload based on actual file content changes ---
       - name: Upload API data to Download Server via FTP
         run: |
           # Install lftp client (will use cache if available)
           sudo apt-get update && sudo apt-get -y install lftp
 
-          # Define directories to check for recent changes
+          # Define directories to check for changes
           DIRECTORIES_TO_CHECK="api/v1/config api/v1/banner api/v1/ads api/v1/assets api/v1/terms"
+          
+          # Get the commit hash of the parent commit. We need this to compare against.
+          # This is why `fetch-depth: 2` is important in the checkout step.
+          PREVIOUS_COMMIT=$(git rev-parse HEAD~1)
+          
+          # A flag to track if any directory has changed
+          HAS_CHANGES=false
 
-          # Start building the lftp command array. This is safer than a single long string.
+          # Start building the lftp command array
           lftp_commands=(
             "open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://3117204815.cloudydl.com"
             "set ssl:verify-certificate no"
             # Part 1: Always sync critical v2 data (Protobuf)
             "mkdir -p public_html/riyales/api/v2"
             "cd public_html/riyales/api/v2"
-            "mirror -R --verbose --delete --parallel=5 api/v2/market/ market"
+            "mirror -R --verbose --delete --parallel=5 ../../../../api/v2/market/ market"
             # Part 2: Navigate to v1 for conditional syncs
             "cd ../v1"
           )
 
-          # Loop through each directory and check for files modified in the last 60 minutes
+          # Loop through each directory and check for actual content changes using git diff
           for dir_path in $DIRECTORIES_TO_CHECK; do
-            # The 'find' command searches for any file (-type f) modified within the last 60 minutes (-mmin -60)
-            # If it finds any, the output of the command will not be empty.
-            if [ -n "$(find "$dir_path" -type f -mmin -60)" ]; then
-              echo "• Recent changes detected in '$dir_path'. Scheduling for upload."
-              # Extract the base directory name (e.g., 'config' from 'api/v1/config')
+            # `git diff --quiet` exits with 1 if there are changes, and 0 if not.
+            # We check if the command fails (i.e., there are changes).
+            if ! git diff --quiet $PREVIOUS_COMMIT HEAD -- "$dir_path"; then
+              echo "• Actual content changes detected in '$dir_path'. Scheduling for upload."
+              HAS_CHANGES=true
               remote_dir_name=$(basename "$dir_path")
-              # Add the mirror command for this directory to our command list
-              lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$dir_path' '$remote_dir_name'")
+              # Add the mirror command for this directory. Note the path correction.
+              lftp_commands+=("mirror -R --verbose --delete --parallel=5 '../../../../$dir_path' '$remote_dir_name'")
             else
-              echo "• No recent changes in '$dir_path'. Skipping upload."
+              echo "• No actual content changes in '$dir_path'. Skipping upload."
             fi
           done
+
+          # Only execute FTP commands if there were actual changes in the checked directories
+          # or if we are always syncing the v2 data (which we are).
+          # The check `if [ "$HAS_CHANGES" = true ]` can be added if you want to skip FTP entirely
+          # when only v2 changes, but the current logic always syncs v2 and conditionally syncs v1 dirs.
 
           # Add the final 'bye' command to close the connection
           lftp_commands+=("bye")
 
-          # Join the array of commands into a single script string separated by semicolons
+          # Join the array of commands into a single script string
           lftp_script=$(printf "%s;" "${lftp_commands[@]}")
 
           # Execute the dynamically generated script
@@ -148,11 +163,6 @@ jobs:
           lftp -c "$lftp_script"
           echo "--- FTP Sync Script Finished ---"
         shell: bash
-
-      - name: Prepare apt directories for caching
-        if: always()
-        run: |
-          sudo chown -R $(whoami):$(whoami) /var/cache/apt/archives /var/lib/apt/lists
 
       - name: Check and send error logs
         if: always()
@@ -191,8 +201,8 @@ jobs:
       actions: write
     env:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      REPO:     ${{ github.repository }}
-      WF:       ${{ github.workflow }}
+      REPO: ${{ github.repository }}
+      WF: ${{ github.workflow }}
     steps:
       - name: Remove old workflow runs
         run: |
