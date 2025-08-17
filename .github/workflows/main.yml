@@ -67,165 +67,129 @@ jobs:
           git config --global user.name "Market Data Bot"
           git config --global user.email "market-data-bot@users.noreply.github.com"
 
-          echo "• Fetching origin/main (shallow) to ensure we can compare"
+          echo "• Fetch origin/main"
           git fetch --no-tags origin main --depth=3 || git fetch origin main
 
-          # Try to rebase with autostash to preserve generated files, fallback safely.
-          echo "• Pulling and rebasing origin/main"
+          echo "• Try rebase"
           if ! git pull --rebase --autostash origin main; then
-            echo "• WARN: git pull --rebase failed, trying plain pull"
             git rebase --abort 2>/dev/null || true
             git pull origin main || true
           fi
 
-          echo "• Staging generated market data files"
+          echo "• Stage generated files"
           git add api/v1/ || true
           git add api/v2/market/ || true
           git add logs/ || true
 
-          # Unstage any huge files (>100MB) to avoid accidental commits
-          echo "• Checking for very large files to avoid staging them"
+          echo "• Unstage huge files (>100MB) to avoid accidental commits"
           find api/v1/ api/v2/market/ -type f -size +100M | while read file; do
-            echo "• Unstaging large file: $file"
             git restore --staged "$file" || true
           done
 
-          # If there are staged changes, commit them
           if ! git diff --staged --quiet; then
-            echo "• Changes detected — creating a commit"
+            echo "• Committing staged changes"
             MSG=$(python src/commit_message.py)
-            git commit -m "$MSG" -m "Triggered by: ${{ github.event_name }}" || {
-              echo "• ERROR: git commit failed"; exit 1;
-            }
-
-            # Capture the list of files changed in the last commit (this is authoritative)
+            git commit -m "$MSG" -m "Triggered by: ${{ github.event_name }}" || { echo "• commit failed"; exit 1; }
             LAST_COMMIT=$(git rev-parse HEAD)
             echo "LAST_COMMIT=$LAST_COMMIT" >> $GITHUB_OUTPUT
-            CHANGED_FILES="$(git show --name-only --pretty=\"\" HEAD | sed '/^\s*$/d' || true)"
-            echo "• Files in last commit:"
-            echo "$CHANGED_FILES" || true
+            # emit changed file list (authoritative)
+            git show --name-only --pretty="" HEAD | sed '/^\s*$/d' > .changed_files || true
 
-            # Determine which v1 subdirectories changed (write one per line to .changed_dirs)
-            TARGET_DIRS="api/v1/config api/v1/banner api/v1/ads api/v1/assets api/v1/terms"
-            : > .changed_dirs.tmp
-            for d in $TARGET_DIRS; do
-              echo "$CHANGED_FILES" | grep -E "^${d}(/|$)" >/dev/null 2>&1 && echo "$d" >> .changed_dirs.tmp
-            done
-
-            # If .changed_dirs.tmp is empty but files in api/v1/ changed deeper (e.g. api/v1/assets/badges),
-            # detect those too by matching prefix api/v1/assets
-            if [ ! -s .changed_dirs.tmp ]; then
-              echo "$CHANGED_FILES" | grep -E "^api/v1/" >/dev/null 2>&1 && echo "api/v1" >> .changed_dirs.tmp
+            # Normalize changed dirs to api/v1/<subdir> (only one level under api/v1)
+            grep -E '^api/v1/' .changed_files | sed -E 's@^(api/v1/[^/]+).*@\1@' | sort -u > .changed_dirs || true
+            # If nothing matched but api/v1 had deeper files, mark api/v1
+            if [ ! -s .changed_dirs ] && grep -q '^api/v1/' .changed_files 2>/dev/null; then
+              echo "api/v1" > .changed_dirs
             fi
 
-            # Normalize to unique lines and save to workspace file
-            sort -u .changed_dirs.tmp > .changed_dirs || true
-            echo "• Changed directories list:"
+            echo "• Changed dirs produced at commit-time:"
             cat .changed_dirs || echo "(none)"
-
-            # Push changes
-            echo "• Pushing commit to origin/main"
-            if ! git push origin main; then
-              echo "• ERROR: push failed — continuing but uploads may be out-of-sync"
-            fi
+            git push origin main || true
           else
-            echo "• No staged changes. Checking for any unstaged differences (edge cases)."
-            # If no commit but there are uncommitted changes (rare), capture them too
-            if ! git diff --quiet || ! git status --porcelain | grep -q '^'; then
-              echo "• There are uncommitted changes. Staging and committing them now."
-              git add api/v1/ api/v2/market/ logs/ || true
-              git commit -m "Auto-commit unstaged generated files (workflow)" || true
-              LAST_COMMIT=$(git rev-parse HEAD)
-              echo "LAST_COMMIT=$LAST_COMMIT" >> $GITHUB_OUTPUT
-              git show --name-only --pretty="" HEAD | sed '/^\s*$/d' > .changed_dirs || true
-              git push origin main || true
-            else
-              echo "• Truly nothing changed. Creating empty .changed_dirs for downstream logic."
-              : > .changed_dirs
-            fi
+            echo "• No staged changes in this run. Attempting to detect recent commits for changes."
+            # Ensure .changed_dirs exists (may be empty)
+            : > .changed_dirs
           fi
-
-          # Ensure .changed_dirs exists (even if empty) so next step can read it
-          [ -f .changed_dirs ] || : > .changed_dirs
         shell: bash
 
-      - name: Upload API data to Download Server via FTP (robust detection, uses commit-time list)
+      - name: Upload API data to Download Server via FTP (detect subfolders)
         run: |
-          # Install lftp
           sudo apt-get update && sudo apt-get -y install lftp
 
-          # Pre-create the main remote directories and prepare lftp commands.
           lftp_commands=(
             "open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://3117204815.cloudydl.com"
             "set ssl:verify-certificate no"
-            # Ensure remote base paths exist
             "mkdir -p public_html/riyales/api/v2"
             "mkdir -p public_html/riyales/api/v1"
           )
 
-          # Always mirror v2 (full sync)
+          # Always mirror v2 market
           lftp_commands+=("mirror -R --verbose --delete --parallel=5 api/v2/market/ public_html/riyales/api/v2/market")
 
-          # Determine which v1 directories should be uploaded.
-          # Prefer authoritative .changed_dirs produced at commit time.
-          CHANGED_FILE=".changed_dirs"
-          DIRECTORIES_TO_CHECK="api/v1/config api/v1/banner api/v1/ads api/v1/assets api/v1/terms"
+          # Targets to consider under api/v1
+          TARGET_DIRS="api/v1/config api/v1/banner api/v1/ads api/v1/assets api/v1/terms"
 
-          if [ -s "$CHANGED_FILE" ]; then
-            echo "• Using commit-time changed_dirs:"
-            cat "$CHANGED_FILE"
+          # If commit-time .changed_dirs exists and non-empty, use it; otherwise compute from git diffs (recursive)
+          if [ -s .changed_dirs ]; then
+            echo "• Using .changed_dirs from commit-step:"
+            cat .changed_dirs
             while IFS= read -r changed_dir; do
-              # If the file contains a general "api/v1" marker, expand to all listed target dirs
               if [ "$changed_dir" = "api/v1" ]; then
-                for d in $DIRECTORIES_TO_CHECK; do
+                # generic change -> schedule all known target dirs (safe option)
+                for d in $TARGET_DIRS; do
                   echo "• Scheduling upload for $d (inferred from generic api/v1 change)"
                   remote_dir_name=$(basename "$d")
                   lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$d' 'public_html/riyales/api/v1/$remote_dir_name'")
                 done
-                # continue to next line
                 continue
               fi
 
-              # Confirm there's actually a file change under that path (safety)
-              if git diff --name-only HEAD~1 HEAD -- "$changed_dir" | grep -q '.' 2>/dev/null || true; then
-                echo "• Actual content changes detected in '$changed_dir'. Scheduling upload."
+              # Schedule the exact subdir (e.g. api/v1/assets)
+              if [ -d "$changed_dir" ] || git ls-tree --name-only -r HEAD | grep -q "^${changed_dir}/" 2>/dev/null; then
                 remote_dir_name=$(basename "$changed_dir")
+                echo "• Scheduling upload for $changed_dir"
                 lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$changed_dir' 'public_html/riyales/api/v1/$remote_dir_name'")
               else
-                # fallback: if last commit can't be compared (e.g., HEAD~1 missing), still schedule based on name
-                echo "• Scheduling upload for '$changed_dir' (could not verify diff but listed in .changed_dirs)."
                 remote_dir_name=$(basename "$changed_dir")
+                echo "• Scheduling upload for $changed_dir (path may not exist locally at runtime)"
                 lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$changed_dir' 'public_html/riyales/api/v1/$remote_dir_name'")
               fi
-            done < "$CHANGED_FILE"
+            done < .changed_dirs
           else
-            # Fallback: if .changed_dirs is empty, perform direct git diff HEAD~1..HEAD checks (best-effort)
-            echo "• No .changed_dirs found (or empty). Falling back to HEAD~1..HEAD diffs."
+            echo "• No .changed_dirs found. Falling back to recursive git diff detection (will detect subfolders)."
+
+            # Determine previous commit to diff against; prefer HEAD~1, fallback to origin/main~1
             PREV_COMMIT=""
             if git rev-parse --verify HEAD~1 >/dev/null 2>&1; then
               PREV_COMMIT=$(git rev-parse HEAD~1)
+            elif git rev-parse --verify origin/main~1 >/dev/null 2>&1; then
+              PREV_COMMIT=$(git rev-parse origin/main~1)
             fi
 
-            for dir_path in $DIRECTORIES_TO_CHECK; do
-              if [ -n "$PREV_COMMIT" ]; then
-                if ! git diff --quiet "$PREV_COMMIT" HEAD -- "$dir_path"; then
-                  echo "• Actual content changes detected in '$dir_path' (fallback). Scheduling for upload."
-                  remote_dir_name=$(basename "$dir_path")
-                  lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$dir_path' 'public_html/riyales/api/v1/$remote_dir_name'")
-                else
-                  echo "• No actual content changes in '$dir_path'. Skipping upload."
-                fi
-              else
-                # If we can't reference PREV_COMMIT, be conservative: check working tree changes
-                if git status --porcelain | grep -E "^\\s*[AMRD].*${dir_path}" >/dev/null 2>&1; then
-                  echo "• Working tree changes detected in '$dir_path'. Scheduling for upload."
-                  remote_dir_name=$(basename "$dir_path")
-                  lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$dir_path' 'public_html/riyales/api/v1/$remote_dir_name'")
-                else
-                  echo "• No detectable changes in '$dir_path'. Skipping upload."
-                fi
-              fi
-            done
+            if [ -n "$PREV_COMMIT" ]; then
+              echo "• Diffing $PREV_COMMIT..HEAD"
+              CHANGED_FILES=$(git diff --name-only "$PREV_COMMIT" HEAD || true)
+            else
+              echo "• No previous commit ref available; using working tree status"
+              CHANGED_FILES=$(git status --porcelain | awk '{print $2}' || true)
+            fi
+
+            # Filter only api/v1 changes and reduce to api/v1/<subdir> (one level)
+            echo "$CHANGED_FILES" | grep -E '^api/v1/' || true
+            echo "$CHANGED_FILES" | grep -E '^api/v1/' | sed -E 's@^(api/v1/[^/]+).*@\1@' | sort -u > .detected_changed_dirs || true
+
+            if [ -s .detected_changed_dirs ]; then
+              echo "• Detected changed subfolders under api/v1:"
+              cat .detected_changed_dirs
+              while IFS= read -r changed_dir; do
+                # schedule each detected subdir
+                remote_dir_name=$(basename "$changed_dir")
+                echo "• Scheduling upload for $changed_dir"
+                lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$changed_dir' 'public_html/riyales/api/v1/$remote_dir_name'")
+              done < .detected_changed_dirs
+            else
+              echo "• No api/v1 subfolder changes detected by git diff. Skipping api/v1 uploads."
+            fi
           fi
 
           # finalize and run lftp script
