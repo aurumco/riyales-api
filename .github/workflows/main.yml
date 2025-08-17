@@ -1,5 +1,4 @@
 name: Market Data Sync
-
 on:
   schedule:
     - cron: '*/5 * * * *'
@@ -7,10 +6,8 @@ on:
   push:
     branches:
       - main
-
 env:
   PYTHON_VERSION: '3.13'
-
 jobs:
   sync-data:
     name: Sync
@@ -24,18 +21,15 @@ jobs:
       TELEGRAM_USER_ID: ${{ secrets.TELEGRAM_USER_ID }}
       LOG_LEVELS: ${{ secrets.LOG_LEVELS || 'ERROR' }}
     steps:
-
       - name: Checkout code
         uses: actions/checkout@v4
         with:
           # Fetch last 2 commits to be able to compare HEAD with the previous one
           fetch-depth: 2
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: ${{ env.PYTHON_VERSION }}
-
       - name: Restore pip cache
         uses: actions/cache@v4
         with:
@@ -43,7 +37,6 @@ jobs:
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements*.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
-
       - name: Cache apt packages for lftp
         uses: actions/cache@v4
         with:
@@ -53,46 +46,43 @@ jobs:
           key: ${{ runner.os }}-apt-lftp-cache-${{ hashFiles('**/requirements*.txt') }}
           restore-keys: |
             ${{ runner.os }}-apt-lftp-cache-
-
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
         shell: bash
-
       - name: Run data-fetch script
         run: |
           mkdir -p logs
           python src/main.py
         shell: bash
-
       - name: Pull latest & Commit if any
         run: |
           git config --global user.name "Market Data Bot"
           git config --global user.email "market-data-bot@users.noreply.github.com"
-          
+         
           echo "• Pulling latest changes from origin/main"
           if ! git pull --rebase --autostash origin main; then
             echo "• ERROR: Git pull failed with conflicts or errors"
             git rebase --abort 2>/dev/null || true
             git pull origin main || echo "• ERROR: Fallback git pull also failed"
           fi
-          
+         
           echo "• Checking for changes in market data files and logs..."
           git add api/v1/
           git add api/v2/market/
           git add logs/
-          
+         
           find api/v1/ api/v2/market/ -type f -size +100M | while read file; do
             echo "• Skipping large file from commit: $file"
             git restore --staged "$file"
           done
-          
+         
           if ! git diff --staged --quiet; then
             echo "• Changes detected in market data files. Committing..."
             MSG=$(python src/commit_message.py)
             git commit -m "$MSG" -m "Triggered by: ${{ github.event_name }}"
-            
+           
             echo "• Pushing changes to origin/main"
             if ! git push origin main; then
               echo "• ERROR: Git push failed"
@@ -101,18 +91,13 @@ jobs:
             echo "• No changes to market data files. Skipping commit."
           fi
         shell: bash
-
       - name: Upload API data to Download Server via FTP
         run: |
           # Install lftp client (will use cache if available)
           sudo apt-get update && sudo apt-get -y install lftp
-
           # Define directories to check for changes
           DIRECTORIES_TO_CHECK="api/v1/config api/v1/banner api/v1/ads api/v1/assets api/v1/terms"
-          
-          # Get the commit hash of the parent commit.
-          PREVIOUS_COMMIT=$(git rev-parse HEAD~1)
-          
+         
           # Start building the lftp command array
           lftp_commands=(
             "open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://3117204815.cloudydl.com"
@@ -121,44 +106,39 @@ jobs:
             "mkdir -p public_html/riyales/api/v2"
             "mkdir -p public_html/riyales/api/v1"
           )
-
           # --- Always sync v2 data using the full remote path ---
           lftp_commands+=("mirror -R --verbose --delete --parallel=5 api/v2/market/ public_html/riyales/api/v2/market")
-
           # --- Conditionally sync v1 directories using full remote paths ---
           for dir_path in $DIRECTORIES_TO_CHECK; do
-            if ! git diff --quiet $PREVIOUS_COMMIT HEAD -- "$dir_path"; then
-              echo "• Actual content changes detected in '$dir_path'. Scheduling for upload."
+            if [ $(find "$dir_path" -type f -mmin -60 | wc -l) -gt 0 ]; then
+              echo "• Actual content changes detected in '$dir_path' within the last hour. Scheduling for upload."
               remote_dir_name=$(basename "$dir_path")
               # Use full remote path, no 'cd' needed. This is much safer.
               lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$dir_path' 'public_html/riyales/api/v1/$remote_dir_name'")
             else
-              echo "• No actual content changes in '$dir_path'. Skipping upload."
+              echo "• No actual content changes in '$dir_path' within the last hour. Skipping upload."
             fi
           done
-
           lftp_commands+=("bye")
           lftp_script=$(printf "%s;" "${lftp_commands[@]}")
-
           echo "--- Executing FTP Sync Script ---"
           lftp -c "$lftp_script"
           echo "--- FTP Sync Script Finished ---"
         shell: bash
-
       - name: Check and send error logs
         if: always()
         run: |
           ERROR_LOG="${GITHUB_WORKSPACE}/logs/error.log"
           echo "• Final check for error log at: ${ERROR_LOG}"
-          
+         
           if [ -f "${ERROR_LOG}" ]; then
             RELEVANT_LINES=$(grep -cvE '(^\s*$)|(^# Log cleared on)|(^# Log forcibly cleared on)' "${ERROR_LOG}" || true)
-            
+           
             if [ "${RELEVANT_LINES}" -gt 0 ]; then
               echo "• Error log has relevant content (${RELEVANT_LINES} lines). Running alert_sender.py..."
               cd "${GITHUB_WORKSPACE}"
               python src/alert_sender.py
-              
+             
               if [ -s "${ERROR_LOG}" ]; then
                 echo "• WARNING: error.log was NOT truncated. Forcing truncation." | tee -a "${ERROR_LOG}"
                 echo "# Log forcibly cleared by workflow at $(date -u '+%Y-%m-%dT%H:%M:%SZ')" > "${ERROR_LOG}"
@@ -172,12 +152,11 @@ jobs:
             echo "• No error.log file found. Skipping alerts."
           fi
         shell: bash
-      
+     
       - name: Prepare apt directories for caching
         if: always()
         run: |
           sudo chown -R $(whoami):$(whoami) /var/cache/apt/archives /var/lib/apt/lists
-
   cleanup:
     name: Cleanup
     needs: sync-data
