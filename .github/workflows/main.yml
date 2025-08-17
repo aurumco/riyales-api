@@ -24,13 +24,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 3
-
+          # Fetch enough history to compare commits. 0 means full history.
+          fetch-depth: 0
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: ${{ env.PYTHON_VERSION }}
-
       - name: Restore pip cache
         uses: actions/cache@v4
         with:
@@ -38,7 +37,6 @@ jobs:
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements*.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
-
       - name: Cache apt packages for lftp
         uses: actions/cache@v4
         with:
@@ -48,172 +46,115 @@ jobs:
           key: ${{ runner.os }}-apt-lftp-cache-${{ hashFiles('**/requirements*.txt') }}
           restore-keys: |
             ${{ runner.os }}-apt-lftp-cache-
-
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
         shell: bash
-
       - name: Run data-fetch script
         run: |
           mkdir -p logs
           python src/main.py
         shell: bash
-
-      - name: Pull latest & Commit if any (robust)
-        id: commit_step
+      - name: Pull latest & Commit if any
         run: |
           git config --global user.name "Market Data Bot"
           git config --global user.email "market-data-bot@users.noreply.github.com"
-
-          echo "• Fetch origin/main"
-          git fetch --no-tags origin main --depth=3 || git fetch origin main
-
-          echo "• Try rebase"
+          
+          echo "• Pulling latest changes from origin/main"
           if ! git pull --rebase --autostash origin main; then
+            echo "• ERROR: Git pull failed with conflicts or errors"
             git rebase --abort 2>/dev/null || true
-            git pull origin main || true
+            git pull origin main || echo "• ERROR: Fallback git pull also failed"
           fi
-
-          echo "• Stage generated files"
-          git add api/v1/ || true
-          git add api/v2/market/ || true
-          git add logs/ || true
-
-          echo "• Unstage huge files (>100MB) to avoid accidental commits"
+          
+          echo "• Checking for changes in market data files and logs..."
+          git add api/v1/
+          git add api/v2/market/
+          git add logs/
+          
           find api/v1/ api/v2/market/ -type f -size +100M | while read file; do
-            git restore --staged "$file" || true
+            echo "• Skipping large file from commit: $file"
+            git restore --staged "$file"
           done
-
+          
           if ! git diff --staged --quiet; then
-            echo "• Committing staged changes"
+            echo "• Changes detected in market data files. Committing..."
             MSG=$(python src/commit_message.py)
-            git commit -m "$MSG" -m "Triggered by: ${{ github.event_name }}" || { echo "• commit failed"; exit 1; }
-            LAST_COMMIT=$(git rev-parse HEAD)
-            echo "LAST_COMMIT=$LAST_COMMIT" >> $GITHUB_OUTPUT
-            # emit changed file list (authoritative)
-            git show --name-only --pretty="" HEAD | sed '/^\s*$/d' > .changed_files || true
-
-            # Normalize changed dirs to api/v1/<subdir> (only one level under api/v1)
-            grep -E '^api/v1/' .changed_files | sed -E 's@^(api/v1/[^/]+).*@\1@' | sort -u > .changed_dirs || true
-            # If nothing matched but api/v1 had deeper files, mark api/v1
-            if [ ! -s .changed_dirs ] && grep -q '^api/v1/' .changed_files 2>/dev/null; then
-              echo "api/v1" > .changed_dirs
+            git commit -m "$MSG" -m "Triggered by: ${{ github.event_name }}"
+            
+            echo "• Pushing changes to origin/main"
+            if ! git push origin main; then
+              echo "• ERROR: Git push failed"
             fi
-
-            echo "• Changed dirs produced at commit-time:"
-            cat .changed_dirs || echo "(none)"
-            git push origin main || true
           else
-            echo "• No staged changes in this run. Attempting to detect recent commits for changes."
-            # Ensure .changed_dirs exists (may be empty)
-            : > .changed_dirs
+            echo "• No changes to market data files. Skipping commit."
           fi
         shell: bash
-
-      - name: Upload API data to Download Server via FTP (detect subfolders)
+      - name: Upload API data to Download Server via FTP
         run: |
+          # Install lftp client (will use cache if available)
           sudo apt-get update && sudo apt-get -y install lftp
-
+          
+          # Define directories to check for changes
+          DIRECTORIES_TO_CHECK="api/v1/config api/v1/banner api/v1/ads api/v1/assets api/v1/terms"
+          
+          # Determine the correct "before" commit SHA to compare against.
+          # For a push, we compare against the state before the push.
+          # For schedule/dispatch, we compare against the previous commit (HEAD~1).
+          if [[ "${{ github.event_name }}" == "push" && "${{ github.event.before }}" != "0000000000000000000000000000000000000000" ]]; then
+            PREVIOUS_COMMIT="${{ github.event.before }}"
+            echo "• Push event detected. Base commit for diff is '${PREVIOUS_COMMIT:0:7}' (before push)."
+          else
+            # For schedule, dispatch, or a push that created a new branch.
+            # We assume the "Commit" step might have just created a new commit.
+            # So, we compare the current HEAD with its parent.
+            PREVIOUS_COMMIT=$(git rev-parse HEAD~1)
+            echo "• No push event or new branch. Base commit for diff is '${PREVIOUS_COMMIT:0:7}' (parent)."
+          fi
+          
+          # Start building the lftp command array
           lftp_commands=(
             "open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://3117204815.cloudydl.com"
             "set ssl:verify-certificate no"
+            # --- Create all necessary remote directories upfront. 'mkdir -p' is safe. ---
             "mkdir -p public_html/riyales/api/v2"
             "mkdir -p public_html/riyales/api/v1"
           )
-
-          # Always mirror v2 market
+          # --- Always sync v2 data using the full remote path ---
           lftp_commands+=("mirror -R --verbose --delete --parallel=5 api/v2/market/ public_html/riyales/api/v2/market")
-
-          # Targets to consider under api/v1
-          TARGET_DIRS="api/v1/config api/v1/banner api/v1/ads api/v1/assets api/v1/terms"
-
-          # If commit-time .changed_dirs exists and non-empty, use it; otherwise compute from git diffs (recursive)
-          if [ -s .changed_dirs ]; then
-            echo "• Using .changed_dirs from commit-step:"
-            cat .changed_dirs
-            while IFS= read -r changed_dir; do
-              if [ "$changed_dir" = "api/v1" ]; then
-                # generic change -> schedule all known target dirs (safe option)
-                for d in $TARGET_DIRS; do
-                  echo "• Scheduling upload for $d (inferred from generic api/v1 change)"
-                  remote_dir_name=$(basename "$d")
-                  lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$d' 'public_html/riyales/api/v1/$remote_dir_name'")
-                done
-                continue
-              fi
-
-              # Schedule the exact subdir (e.g. api/v1/assets)
-              if [ -d "$changed_dir" ] || git ls-tree --name-only -r HEAD | grep -q "^${changed_dir}/" 2>/dev/null; then
-                remote_dir_name=$(basename "$changed_dir")
-                echo "• Scheduling upload for $changed_dir"
-                lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$changed_dir' 'public_html/riyales/api/v1/$remote_dir_name'")
-              else
-                remote_dir_name=$(basename "$changed_dir")
-                echo "• Scheduling upload for $changed_dir (path may not exist locally at runtime)"
-                lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$changed_dir' 'public_html/riyales/api/v1/$remote_dir_name'")
-              fi
-            done < .changed_dirs
-          else
-            echo "• No .changed_dirs found. Falling back to recursive git diff detection (will detect subfolders)."
-
-            # Determine previous commit to diff against; prefer HEAD~1, fallback to origin/main~1
-            PREV_COMMIT=""
-            if git rev-parse --verify HEAD~1 >/dev/null 2>&1; then
-              PREV_COMMIT=$(git rev-parse HEAD~1)
-            elif git rev-parse --verify origin/main~1 >/dev/null 2>&1; then
-              PREV_COMMIT=$(git rev-parse origin/main~1)
-            fi
-
-            if [ -n "$PREV_COMMIT" ]; then
-              echo "• Diffing $PREV_COMMIT..HEAD"
-              CHANGED_FILES=$(git diff --name-only "$PREV_COMMIT" HEAD || true)
+          # --- Conditionally sync v1 directories using full remote paths ---
+          for dir_path in $DIRECTORIES_TO_CHECK; do
+            # Compare the directory against the determined base commit.
+            if ! git diff --quiet "$PREVIOUS_COMMIT" HEAD -- "$dir_path"; then
+              echo "• Actual content changes detected in '$dir_path'. Scheduling for upload."
+              remote_dir_name=$(basename "$dir_path")
+              # Use full remote path, no 'cd' needed. This is much safer.
+              lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$dir_path' 'public_html/riyales/api/v1/$remote_dir_name'")
             else
-              echo "• No previous commit ref available; using working tree status"
-              CHANGED_FILES=$(git status --porcelain | awk '{print $2}' || true)
+              echo "• No actual content changes in '$dir_path'. Skipping upload."
             fi
-
-            # Filter only api/v1 changes and reduce to api/v1/<subdir> (one level)
-            echo "$CHANGED_FILES" | grep -E '^api/v1/' || true
-            echo "$CHANGED_FILES" | grep -E '^api/v1/' | sed -E 's@^(api/v1/[^/]+).*@\1@' | sort -u > .detected_changed_dirs || true
-
-            if [ -s .detected_changed_dirs ]; then
-              echo "• Detected changed subfolders under api/v1:"
-              cat .detected_changed_dirs
-              while IFS= read -r changed_dir; do
-                # schedule each detected subdir
-                remote_dir_name=$(basename "$changed_dir")
-                echo "• Scheduling upload for $changed_dir"
-                lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$changed_dir' 'public_html/riyales/api/v1/$remote_dir_name'")
-              done < .detected_changed_dirs
-            else
-              echo "• No api/v1 subfolder changes detected by git diff. Skipping api/v1 uploads."
-            fi
-          fi
-
-          # finalize and run lftp script
+          done
           lftp_commands+=("bye")
           lftp_script=$(printf "%s;" "${lftp_commands[@]}")
           echo "--- Executing FTP Sync Script ---"
           lftp -c "$lftp_script"
           echo "--- FTP Sync Script Finished ---"
         shell: bash
-
       - name: Check and send error logs
         if: always()
         run: |
           ERROR_LOG="${GITHUB_WORKSPACE}/logs/error.log"
           echo "• Final check for error log at: ${ERROR_LOG}"
-
+          
           if [ -f "${ERROR_LOG}" ]; then
             RELEVANT_LINES=$(grep -cvE '(^\s*$)|(^# Log cleared on)|(^# Log forcibly cleared on)' "${ERROR_LOG}" || true)
-
+            
             if [ "${RELEVANT_LINES}" -gt 0 ]; then
               echo "• Error log has relevant content (${RELEVANT_LINES} lines). Running alert_sender.py..."
               cd "${GITHUB_WORKSPACE}"
               python src/alert_sender.py
-
+              
               if [ -s "${ERROR_LOG}" ]; then
                 echo "• WARNING: error.log was NOT truncated. Forcing truncation." | tee -a "${ERROR_LOG}"
                 echo "# Log forcibly cleared by workflow at $(date -u '+%Y-%m-%dT%H:%M:%SZ')" > "${ERROR_LOG}"
@@ -227,13 +168,10 @@ jobs:
             echo "• No error.log file found. Skipping alerts."
           fi
         shell: bash
-
       - name: Prepare apt directories for caching
         if: always()
         run: |
           sudo chown -R $(whoami):$(whoami) /var/cache/apt/archives /var/lib/apt/lists
-        shell: bash
-
   cleanup:
     name: Cleanup
     needs: sync-data
