@@ -104,6 +104,7 @@ jobs:
           fi
         shell: bash
 
+      # --- REWRITTEN: More robust FTP upload logic without using 'cd' ---
       - name: Upload API data to Download Server via FTP
         run: |
           # Install lftp client (will use cache if available)
@@ -119,18 +120,21 @@ jobs:
           lftp_commands=(
             "open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://3117204815.cloudydl.com"
             "set ssl:verify-certificate no"
+            # --- Create all necessary remote directories upfront. 'mkdir -p' is safe. ---
             "mkdir -p public_html/riyales/api/v2"
-            "cd public_html/riyales/api/v2"
-            "mirror -R --verbose --delete --parallel=5 api/v2/market/ market"
-            "cd ../v1"
+            "mkdir -p public_html/riyales/api/v1"
           )
 
-          # Loop through each directory and check for actual content changes using git diff
+          # --- Always sync v2 data using the full remote path ---
+          lftp_commands+=("mirror -R --verbose --delete --parallel=5 api/v2/market/ public_html/riyales/api/v2/market")
+
+          # --- Conditionally sync v1 directories using full remote paths ---
           for dir_path in $DIRECTORIES_TO_CHECK; do
             if ! git diff --quiet $PREVIOUS_COMMIT HEAD -- "$dir_path"; then
               echo "• Actual content changes detected in '$dir_path'. Scheduling for upload."
               remote_dir_name=$(basename "$dir_path")
-              lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$dir_path' '$remote_dir_name'")
+              # Use full remote path, no 'cd' needed. This is much safer.
+              lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$dir_path' 'public_html/riyales/api/v1/$remote_dir_name'")
             else
               echo "• No actual content changes in '$dir_path'. Skipping upload."
             fi
@@ -172,10 +176,7 @@ jobs:
           fi
         shell: bash
       
-      # --- NEW STEP: Fix permissions for apt cache ---
-      # This step changes the ownership of the apt cache directories to the runner user.
-      # This is necessary because `sudo apt-get` creates files as root, but the cache action
-      # runs as the `runner` user and needs permission to read those files to save the cache.
+      # --- Fix permissions for apt cache ---
       - name: Prepare apt directories for caching
         if: always()
         run: |
