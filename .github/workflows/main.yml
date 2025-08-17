@@ -44,8 +44,6 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pip-
 
-      # --- Caching for apt packages like lftp ---
-      # Caching both archives and lists for better performance.
       - name: Cache apt packages for lftp
         uses: actions/cache@v4
         with:
@@ -104,7 +102,6 @@ jobs:
           fi
         shell: bash
 
-      # --- REWRITTEN: More robust FTP upload logic without using 'cd' ---
       - name: Upload API data to Download Server via FTP
         run: |
           # Install lftp client (will use cache if available)
@@ -176,7 +173,6 @@ jobs:
           fi
         shell: bash
       
-      # --- Fix permissions for apt cache ---
       - name: Prepare apt directories for caching
         if: always()
         run: |
