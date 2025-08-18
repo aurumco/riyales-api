@@ -3,6 +3,12 @@ on:
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
+    inputs:
+      force_full_upload:
+        description: 'Force upload all v1 dirs (true/false)'
+        required: false
+        default: false
+        type: boolean
   push:
     branches:
       - main
@@ -24,7 +30,6 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          # Fetch enough history to compare commits. 0 means full history.
           fetch-depth: 0
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -97,44 +102,53 @@ jobs:
           sudo apt-get update && sudo apt-get -y install lftp
           
           # Define directories to check for changes
-          DIRECTORIES_TO_CHECK="api/v1/config api/v1/banner api/v1/ads api/v1/assets api/v1/terms"
-          
-          # Determine the correct "before" commit SHA to compare against.
-          # For a push, we compare against the state before the push.
-          # For schedule/dispatch, we compare against the previous commit (HEAD~1).
-          if [[ "${{ github.event_name }}" == "push" && "${{ github.event.before }}" != "0000000000000000000000000000000000000000" ]]; then
-            PREVIOUS_COMMIT="${{ github.event.before }}"
-            echo "• Push event detected. Base commit for diff is '${PREVIOUS_COMMIT:0:7}' (before push)."
-          else
-            # For schedule, dispatch, or a push that created a new branch.
-            # We assume the "Commit" step might have just created a new commit.
-            # So, we compare the current HEAD with its parent.
-            PREVIOUS_COMMIT=$(git rev-parse HEAD~1)
-            echo "• No push event or new branch. Base commit for diff is '${PREVIOUS_COMMIT:0:7}' (parent)."
-          fi
+          DIRECTORIES_TO_CHECK="api/v1/config api/v1/banner api/v1/ads api/v1/assets api/v1/assets/badges api/v1/terms"
           
           # Start building the lftp command array
           lftp_commands=(
             "open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://3117204815.cloudydl.com"
             "set ssl:verify-certificate no"
-            # --- Create all necessary remote directories upfront. 'mkdir -p' is safe. ---
             "mkdir -p public_html/riyales/api/v2"
             "mkdir -p public_html/riyales/api/v1"
           )
-          # --- Always sync v2 data using the full remote path ---
+          # Always sync v2 data
           lftp_commands+=("mirror -R --verbose --delete --parallel=5 api/v2/market/ public_html/riyales/api/v2/market")
-          # --- Conditionally sync v1 directories using full remote paths ---
-          for dir_path in $DIRECTORIES_TO_CHECK; do
-            # Compare the directory against the determined base commit.
-            if ! git diff --quiet "$PREVIOUS_COMMIT" HEAD -- "$dir_path"; then
-              echo "• Actual content changes detected in '$dir_path'. Scheduling for upload."
+
+          # Check for manual force upload trigger
+          if [[ "${{ github.event.inputs.force_full_upload }}" == "true" ]]; then
+            echo "Manual override: Forcing upload for all v1 directories."
+            for dir_path in $DIRECTORIES_TO_CHECK; do
               remote_dir_name=$(basename "$dir_path")
-              # Use full remote path, no 'cd' needed. This is much safer.
               lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$dir_path' 'public_html/riyales/api/v1/$remote_dir_name'")
+            done
+          else
+            echo "Automatic change detection enabled."
+            # Determine the correct "before" commit SHA to compare against.
+            if [[ "${{ github.event_name }}" == "push" && "${{ github.event.before }}" != "0000000000000000000000000000000000000000" ]]; then
+              PREVIOUS_COMMIT="${{ github.event.before }}"
+              echo "• Push event detected. Base commit for diff is '${PREVIOUS_COMMIT:0:7}' (before push)."
             else
-              echo "• No actual content changes in '$dir_path'. Skipping upload."
+              PREVIOUS_COMMIT=$(git rev-parse HEAD~1)
+              echo "• No push event or new branch. Base commit for diff is '${PREVIOUS_COMMIT:0:7}' (parent)."
             fi
-          done
+
+            CURRENT_COMMIT=$(git rev-parse HEAD)
+            echo "• Current HEAD commit is '${CURRENT_COMMIT:0:7}'."
+            echo "• Comparing changes between $PREVIOUS_COMMIT and $CURRENT_COMMIT"
+
+            # Conditionally sync v1 directories
+            for dir_path in $DIRECTORIES_TO_CHECK; do
+              echo "• Checking for changes in '$dir_path'..."
+              if ! git diff --quiet "$PREVIOUS_COMMIT" "$CURRENT_COMMIT" -- "$dir_path"; then
+                echo "Actual content changes detected in '$dir_path'. Scheduling for upload."
+                remote_dir_name=$(basename "$dir_path")
+                lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$dir_path' 'public_html/riyales/api/v1/$remote_dir_name'")
+              else
+                echo "• No actual content changes in '$dir_path'. Skipping upload."
+              fi
+            done
+          fi
+
           lftp_commands+=("bye")
           lftp_script=$(printf "%s;" "${lftp_commands[@]}")
           echo "--- Executing FTP Sync Script ---"
