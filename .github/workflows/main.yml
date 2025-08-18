@@ -65,31 +65,21 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pip-
 
-      # Step 4: Cache apt packages to speed up lftp installation
-      - name: Cache apt packages for lftp
-        uses: actions/cache@v4
-        id: apt-cache
-        with:
-          path: |
-            /var/cache/apt/archives
-            /var/lib/apt/lists
-          key: ${{ runner.os }}-apt-lftp-cache
-
-      # Step 5: Install Python dependencies
+      # Step 4: Install Python dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
         shell: bash
 
-      # Step 6: Run the main data fetching script
+      # Step 5: Run the main data fetching script
       - name: Run data-fetch script
         run: |
           mkdir -p logs
           python src/main.py
         shell: bash
 
-      # Step 7: Pull latest changes, commit, and push any new data
+      # Step 6: Pull latest changes, commit, and push any new data
       - name: Pull latest & Commit if any
         run: |
           git config --global user.name "Market Data Bot"
@@ -126,11 +116,19 @@ jobs:
           fi
         shell: bash
 
-      # Step 8: Install lftp and upload data to the FTP server
+      # Step 7: Install lftp using a dedicated caching action
+      # This action correctly handles caching and permissions for apt packages,
+      # resolving the 'tar' exit code 2 error. It's a much more robust solution.
+      - name: Cache and install lftp
+        uses: ericmwalk/apt-cache-action@v3
+        with:
+          packages: lftp
+
+      # Step 8: Upload API data to Download Server via FTP
       - name: Upload API data to Download Server via FTP
         run: |
-          echo "• Installing lftp client (will be fast if cache is hit)..."
-          sudo apt-get update -yq && sudo apt-get install -yq lftp
+          # The 'lftp' client is now installed and cached by the previous step.
+          echo "• Preparing to upload data via FTP..."
           
           V1_DIRECTORIES="api/v1/config api/v1/banner api/v1/ads api/v1/assets api/v1/terms"
           
@@ -161,17 +159,10 @@ jobs:
           echo "--- FTP Sync Script Finished ---"
         shell: bash
 
-      # Step 9: Fix apt cache permissions for saving
-      # This is the crucial step! It runs at the end of the job, just before the cache action
-      # tries to save the directories. It changes the ownership of the root-owned apt directories
-      # to the current user ('runner'), allowing the cache to be saved without permission errors.
-      - name: Fix apt cache permissions for saving
-        if: always()
-        run: |
-          echo "• Changing ownership of apt cache directories to allow caching..."
-          sudo chown -R $(whoami):$(whoami) /var/cache/apt/archives /var/lib/apt/lists
+      # NOTE: The manual 'Fix apt cache permissions' step is no longer needed
+      # as the new dedicated action handles it automatically.
 
-      # Step 10: Check for errors and send alerts if needed
+      # Step 9: Check for errors and send alerts if needed
       - name: Check and send error logs
         if: always()
         run: |
