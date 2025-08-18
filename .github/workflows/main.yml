@@ -72,14 +72,49 @@ jobs:
           pip install -r requirements.txt
         shell: bash
 
-      # Step 5: Run the main data fetching script
+      # --- NEW BULLETPROOF APT CACHING LOGIC ---
+
+      # Step 5: Set a path for our temporary apt cache directory
+      - name: Set apt cache path
+        id: apt-cache-path
+        run: echo "dir=${{ runner.temp }}/apt-cache" >> $GITHUB_OUTPUT
+
+      # Step 6: Use actions/cache to restore files into our SAFE temp directory
+      - name: Restore apt cache to temp dir
+        uses: actions/cache@v4
+        id: cache-apt-restore
+        with:
+          path: ${{ steps.apt-cache-path.outputs.dir }}
+          key: ${{ runner.os }}-apt-packages-lftp-v1 # Added -v1 to key to ensure a fresh cache
+
+      # Step 7: Sync the restored cache from temp dir to the actual system directories
+      - name: Sync restored cache to system dirs
+        run: |
+          # If the cache was successfully restored to our temp dir, copy it to the live system locations.
+          # This requires sudo, but it's safe because we're copying from a known good location.
+          if [ "${{ steps.cache-apt-restore.outputs.cache-hit }}" == "true" ]; then
+            echo "• Cache hit. Syncing restored apt files to system locations..."
+            sudo rsync -a ${{ steps.apt-cache-path.outputs.dir }}/ /
+          else
+            echo "• Cache miss. Apt will download fresh package lists."
+          fi
+        shell: bash
+
+      # Step 8: Install lftp (this will be lightning fast if cache was restored)
+      - name: Install lftp
+        run: |
+          sudo apt-get update -yq
+          sudo apt-get install -yq lftp
+        shell: bash
+
+      # Step 9: Run the main data fetching script
       - name: Run data-fetch script
         run: |
           mkdir -p logs
           python src/main.py
         shell: bash
 
-      # Step 6: Pull latest changes, commit, and push any new data
+      # Step 10: Pull latest changes, commit, and push any new data
       - name: Pull latest & Commit if any
         run: |
           git config --global user.name "Market Data Bot"
@@ -115,33 +150,20 @@ jobs:
             echo "• No changes to market data files. Skipping commit."
           fi
         shell: bash
-
-      # Step 7: Install lftp using a dedicated caching action
-      # This action correctly handles caching and permissions for apt packages,
-      # resolving the 'tar' exit code 2 error. It's a much more robust solution.
-      - name: Cache and install lftp
-        uses: ericmwalk/apt-cache-action@v3
-        with:
-          packages: lftp
-
-      # Step 8: Upload API data to Download Server via FTP
+        
+      # Step 11: Upload API data to Download Server via FTP
       - name: Upload API data to Download Server via FTP
         run: |
-          # The 'lftp' client is now installed and cached by the previous step.
           echo "• Preparing to upload data via FTP..."
-          
           V1_DIRECTORIES="api/v1/config api/v1/banner api/v1/ads api/v1/assets api/v1/terms"
-          
           lftp_commands=(
             "open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://3117204815.cloudydl.com"
             "set ssl:verify-certificate no"
             "mkdir -p public_html/riyales/api/v2"
             "mkdir -p public_html/riyales/api/v1"
           )
-          
           echo "• Scheduling v2 directory for unconditional upload."
           lftp_commands+=("mirror -R --verbose --delete --parallel=5 api/v2/market/ public_html/riyales/api/v2/market")
-
           if [[ "${{ github.event_name }}" == "workflow_dispatch" && "${{ github.event.inputs.upload_v1_data }}" == "true" ]]; then
             echo "• Manual trigger active: Scheduling all v1 directories for upload."
             for dir_path in $V1_DIRECTORIES; do
@@ -150,33 +172,38 @@ jobs:
           else
             echo "• Skipping v1 directories upload. Manual trigger not activated."
           fi
-
           lftp_commands+=("bye")
           lftp_script=$(printf "%s;" "${lftp_commands[@]}")
-          
           echo "--- Executing FTP Sync Script ---"
           lftp -c "$lftp_script"
           echo "--- FTP Sync Script Finished ---"
         shell: bash
 
-      # NOTE: The manual 'Fix apt cache permissions' step is no longer needed
-      # as the new dedicated action handles it automatically.
+      # Step 12: Sync system apt files back to temp dir for the cache to save
+      - name: Sync system apt files to cache dir for saving
+        if: always()
+        run: |
+          echo "• Syncing live apt files to temporary cache directory for saving..."
+          # Create the directory structure inside our temp dir
+          mkdir -p ${{ steps.apt-cache-path.outputs.dir }}/var/cache/apt/archives
+          mkdir -p ${{ steps.apt-cache-path.outputs.dir }}/var/lib/apt/lists
+          # Copy the live system files into our temp dir. The cache action will automatically save this directory.
+          sudo rsync -a --delete /var/cache/apt/archives/ ${{ steps.apt-cache-path.outputs.dir }}/var/cache/apt/archives/
+          sudo rsync -a --delete /var/lib/apt/lists/ ${{ steps.apt-cache-path.outputs.dir }}/var/lib/apt/lists/
+        shell: bash
 
-      # Step 9: Check for errors and send alerts if needed
+      # Step 13: Check for errors and send alerts if needed
       - name: Check and send error logs
         if: always()
         run: |
           ERROR_LOG="${GITHUB_WORKSPACE}/logs/error.log"
           echo "• Final check for error log at: ${ERROR_LOG}"
-          
           if [ -f "${ERROR_LOG}" ]; then
             RELEVANT_LINES=$(grep -cvE '(^\s*$)|(^# Log cleared on)|(^# Log forcibly cleared on)' "${ERROR_LOG}" || true)
-            
             if [ "${RELEVANT_LINES}" -gt 0 ]; then
               echo "• Error log has relevant content (${RELEVANT_LINES} lines). Running alert_sender.py..."
               cd "${GITHUB_WORKSPACE}"
               python src/alert_sender.py
-              
               if [ -s "${ERROR_LOG}" ]; then
                 echo "• WARNING: error.log was NOT truncated by the script. Forcing truncation." | tee -a "${ERROR_LOG}"
                 echo "# Log forcibly cleared by workflow at $(date -u '+Y-%m-%dT%H:%M:%SZ')" > "${ERROR_LOG}"
@@ -213,13 +240,11 @@ jobs:
             --json databaseId,status,createdAt \
             --jq '.[] | select(.status!="in_progress" and .status!="queued") | {id: .databaseId, date: .createdAt}' | \
             jq -s 'sort_by(.date) | reverse | .[].id')
-            
           total=$(echo "$runs" | wc -l)
           if [ "$total" -le 9 ]; then
             echo "• Found $total runs, no cleanup needed (keeps latest 9)."
             exit 0
           fi
-          
           to_delete=$(echo "$runs" | tail -n +10)
           echo "• Deleting oldest workflow runs..."
           echo "$to_delete" | while read id; do
