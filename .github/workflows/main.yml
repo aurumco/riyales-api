@@ -132,6 +132,10 @@ jobs:
           lftp -c "$lftp_script"
           echo "--- FTP Sync Script Finished ---"
         shell: bash
+      - name: Fix apt cache permissions
+        if: always()
+        run: |
+          sudo chown -R $(whoami):$(whoami) /var/cache/apt/archives /var/lib/apt/lists
       - name: Check and send error logs
         if: always()
         run: |
