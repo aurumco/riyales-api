@@ -3,6 +3,12 @@ on:
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
+    inputs:
+      upload_v1_data:
+        description: 'Upload all v1 directories (true/false)'
+        required: true
+        default: false
+        type: boolean
   push:
     branches:
       - main
@@ -24,7 +30,6 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          # Fetch full history to ensure commit diffs are accurate
           fetch-depth: 0
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -97,8 +102,8 @@ jobs:
           # Install lftp client (will be fast if cache is hit)
           sudo apt-get update && sudo apt-get -y install lftp
           
-          # Define all directories to be uploaded
-          DIRECTORIES_TO_UPLOAD="api/v1/config api/v1/banner api/v1/ads api/v1/assets api/v1/terms"
+          # Define v1 directories
+          V1_DIRECTORIES="api/v1/config api/v1/banner api/v1/ads api/v1/assets api/v1/terms"
           
           # Start building the lftp command array
           lftp_commands=(
@@ -108,13 +113,18 @@ jobs:
             "mkdir -p public_html/riyales/api/v1"
           )
           # Always sync v2 data
+          echo "• Scheduling v2 directory for unconditional upload."
           lftp_commands+=("mirror -R --verbose --delete --parallel=5 api/v2/market/ public_html/riyales/api/v2/market")
 
-          # Always sync all v1 directories unconditionally
-          echo "• Unconditionally scheduling all v1 directories for upload."
-          for dir_path in $DIRECTORIES_TO_UPLOAD; do
-            lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$dir_path' 'public_html/riyales/api/v1/'")
-          done
+          # Conditionally sync v1 directories ONLY on manual trigger
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" && "${{ github.event.inputs.upload_v1_data }}" == "true" ]]; then
+            echo "• Manual trigger active: Scheduling all v1 directories for upload."
+            for dir_path in $V1_DIRECTORIES; do
+              lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$dir_path' 'public_html/riyales/api/v1/'")
+            done
+          else
+            echo "• Skipping v1 directories upload. Manual trigger not activated."
+          fi
 
           lftp_commands+=("bye")
           lftp_script=$(printf "%s;" "${lftp_commands[@]}")
@@ -138,7 +148,7 @@ jobs:
               
               if [ -s "${ERROR_LOG}" ]; then
                 echo "• WARNING: error.log was NOT truncated. Forcing truncation." | tee -a "${ERROR_LOG}"
-                echo "# Log forcibly cleared by workflow at $(date -u '+%Y-%m-%dT%H:%M:%SZ')" > "${ERROR_LOG}"
+                echo "# Log forcibly cleared by workflow at $(date -u '+Y-%m-%dT%H:%M:%SZ')" > "${ERROR_LOG}"
               else
                 echo "• error.log successfully truncated."
               fi
