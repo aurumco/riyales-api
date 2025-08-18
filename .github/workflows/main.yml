@@ -3,12 +3,6 @@ on:
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
-    inputs:
-      force_full_upload:
-        description: 'Force upload all v1 dirs (true/false)'
-        required: false
-        default: false
-        type: boolean
   push:
     branches:
       - main
@@ -43,6 +37,14 @@ jobs:
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements*.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
+      - name: Cache apt packages for lftp
+        uses: actions/cache@v4
+        id: apt-cache
+        with:
+          path: |
+            /var/cache/apt/archives
+            /var/lib/apt/lists
+          key: ${{ runner.os }}-apt-lftp-cache
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -90,11 +92,13 @@ jobs:
         shell: bash
       - name: Upload API data to Download Server via FTP
         run: |
-          # Install lftp client
+          # Clean apt lists before update to prevent cache issues
+          sudo rm -rf /var/lib/apt/lists/*
+          # Install lftp client (will be fast if cache is hit)
           sudo apt-get update && sudo apt-get -y install lftp
           
-          # Define directories to check for changes
-          DIRECTORIES_TO_CHECK="api/v1/config api/v1/banner api/v1/ads api/v1/assets api/v1/terms"
+          # Define all directories to be uploaded
+          DIRECTORIES_TO_UPLOAD="api/v1/config api/v1/banner api/v1/ads api/v1/assets api/v1/terms"
           
           # Start building the lftp command array
           lftp_commands=(
@@ -106,38 +110,11 @@ jobs:
           # Always sync v2 data
           lftp_commands+=("mirror -R --verbose --delete --parallel=5 api/v2/market/ public_html/riyales/api/v2/market")
 
-          # Check for manual force upload trigger
-          if [[ "${{ github.event.inputs.force_full_upload }}" == "true" ]]; then
-            echo "• Manual override: Forcing upload for all v1 directories."
-            for dir_path in $DIRECTORIES_TO_CHECK; do
-              lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$dir_path' 'public_html/riyales/api/v1/'")
-            done
-          else
-            echo "• Automatic change detection enabled."
-            # Determine the correct "before" commit SHA to compare against.
-            if [[ "${{ github.event_name }}" == "push" && "${{ github.event.before }}" != "0000000000000000000000000000000000000000" ]]; then
-              PREVIOUS_COMMIT="${{ github.event.before }}"
-              echo "• Push event detected. Base commit for diff is '${PREVIOUS_COMMIT:0:7}' (before push)."
-            else
-              PREVIOUS_COMMIT=$(git rev-parse HEAD~1)
-              echo "• No push event or new branch. Base commit for diff is '${PREVIOUS_COMMIT:0:7}' (parent)."
-            fi
-
-            CURRENT_COMMIT=$(git rev-parse HEAD)
-            echo "• Current HEAD commit is '${CURRENT_COMMIT:0:7}'."
-            echo "• Comparing changes between $PREVIOUS_COMMIT and $CURRENT_COMMIT"
-
-            # Conditionally sync v1 directories
-            for dir_path in $DIRECTORIES_TO_CHECK; do
-              echo "• Checking for changes in '$dir_path'..."
-              if ! git diff --quiet "$PREVIOUS_COMMIT" "$CURRENT_COMMIT" -- "$dir_path"; then
-                echo "• Changes detected in '$dir_path'. Scheduling for upload."
-                lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$dir_path' 'public_html/riyales/api/v1/'")
-              else
-                echo "• No actual content changes in '$dir_path'. Skipping upload."
-              fi
-            done
-          fi
+          # Always sync all v1 directories unconditionally
+          echo "• Unconditionally scheduling all v1 directories for upload."
+          for dir_path in $DIRECTORIES_TO_UPLOAD; do
+            lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$dir_path' 'public_html/riyales/api/v1/'")
+          done
 
           lftp_commands+=("bye")
           lftp_script=$(printf "%s;" "${lftp_commands[@]}")
