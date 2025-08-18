@@ -30,6 +30,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
+          # Fetch full history to ensure commit diffs are accurate
           fetch-depth: 0
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -42,15 +43,6 @@ jobs:
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements*.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
-      - name: Cache apt packages for lftp
-        uses: actions/cache@v4
-        with:
-          path: |
-            /var/cache/apt/archives
-            /var/lib/apt/lists
-          key: ${{ runner.os }}-apt-lftp-cache-${{ hashFiles('**/requirements*.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-apt-lftp-cache-
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -98,11 +90,11 @@ jobs:
         shell: bash
       - name: Upload API data to Download Server via FTP
         run: |
-          # Install lftp client (will use cache if available)
+          # Install lftp client
           sudo apt-get update && sudo apt-get -y install lftp
           
           # Define directories to check for changes
-          DIRECTORIES_TO_CHECK="api/v1/config api/v1/banner api/v1/ads api/v1/assets api/v1/assets/badges api/v1/terms"
+          DIRECTORIES_TO_CHECK="api/v1/config api/v1/banner api/v1/ads api/v1/assets api/v1/terms"
           
           # Start building the lftp command array
           lftp_commands=(
@@ -116,13 +108,12 @@ jobs:
 
           # Check for manual force upload trigger
           if [[ "${{ github.event.inputs.force_full_upload }}" == "true" ]]; then
-            echo "Manual override: Forcing upload for all v1 directories."
+            echo "• Manual override: Forcing upload for all v1 directories."
             for dir_path in $DIRECTORIES_TO_CHECK; do
-              remote_dir_name=$(basename "$dir_path")
-              lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$dir_path' 'public_html/riyales/api/v1/$remote_dir_name'")
+              lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$dir_path' 'public_html/riyales/api/v1/'")
             done
           else
-            echo "Automatic change detection enabled."
+            echo "• Automatic change detection enabled."
             # Determine the correct "before" commit SHA to compare against.
             if [[ "${{ github.event_name }}" == "push" && "${{ github.event.before }}" != "0000000000000000000000000000000000000000" ]]; then
               PREVIOUS_COMMIT="${{ github.event.before }}"
@@ -140,9 +131,8 @@ jobs:
             for dir_path in $DIRECTORIES_TO_CHECK; do
               echo "• Checking for changes in '$dir_path'..."
               if ! git diff --quiet "$PREVIOUS_COMMIT" "$CURRENT_COMMIT" -- "$dir_path"; then
-                echo "Actual content changes detected in '$dir_path'. Scheduling for upload."
-                remote_dir_name=$(basename "$dir_path")
-                lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$dir_path' 'public_html/riyales/api/v1/$remote_dir_name'")
+                echo "• Changes detected in '$dir_path'. Scheduling for upload."
+                lftp_commands+=("mirror -R --verbose --delete --parallel=5 '$dir_path' 'public_html/riyales/api/v1/'")
               else
                 echo "• No actual content changes in '$dir_path'. Skipping upload."
               fi
@@ -182,10 +172,6 @@ jobs:
             echo "• No error.log file found. Skipping alerts."
           fi
         shell: bash
-      - name: Prepare apt directories for caching
-        if: always()
-        run: |
-          sudo chown -R $(whoami):$(whoami) /var/cache/apt/archives /var/lib/apt/lists
   cleanup:
     name: Cleanup
     needs: sync-data
