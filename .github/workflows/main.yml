@@ -60,42 +60,41 @@ jobs:
       - name: Restore pip cache
         uses: actions/cache@v4
         with:
+          # The directory to cache
           path: ~/.cache/pip
+          # A unique key for the cache, based on OS and requirements files
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements*.txt') }}
+          # Fallback keys if the primary key is not found
           restore-keys: |
             ${{ runner.os }}-pip-
 
-      # Step 4: Cache apt packages to speed up lftp installation
-      - name: Cache apt packages for lftp
-        uses: actions/cache@v4
-        id: apt-cache
-        with:
-          path: |
-            /var/cache/apt/archives
-            /var/lib/apt/lists
-          key: ${{ runner.os }}-apt-lftp-cache
+      # NOTE: The problematic 'apt' cache step has been removed.
+      # Caching apt packages for a single small tool like 'lftp' adds complexity
+      # (due to system file permissions) for negligible performance gain on fast GitHub runners.
+      # It's simpler and more reliable to install it directly each time.
 
-      # Step 5: Install Python dependencies
+      # Step 4: Install Python dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
         shell: bash
 
-      # Step 6: Run the main data fetching script
+      # Step 5: Run the main data fetching script
       - name: Run data-fetch script
         run: |
           mkdir -p logs
           python src/main.py
         shell: bash
 
-      # Step 7: Pull latest changes, commit, and push any new data
+      # Step 6: Pull latest changes, commit, and push any new data
       - name: Pull latest & Commit if any
         run: |
           git config --global user.name "Market Data Bot"
           git config --global user.email "market-data-bot@users.noreply.github.com"
           
           echo "• Pulling latest changes from origin/main"
+          # Use rebase with autostash to handle local changes cleanly
           if ! git pull --rebase --autostash origin main; then
             echo "• ERROR: Git pull failed with conflicts or errors. Aborting rebase and trying a standard pull."
             git rebase --abort 2>/dev/null || true
@@ -107,11 +106,13 @@ jobs:
           git add api/v2/market/
           git add logs/
           
+          # Find and unstage files larger than 100MB to avoid Git LFS issues
           find api/v1/ api/v2/market/ -type f -size +100M | while read file; do
             echo "• Skipping large file from commit: $file"
             git restore --staged "$file"
           done
           
+          # Commit only if there are staged changes
           if ! git diff --staged --quiet; then
             echo "• Changes detected in market data files. Committing..."
             MSG=$(python src/commit_message.py)
@@ -126,14 +127,17 @@ jobs:
           fi
         shell: bash
 
-      # Step 8: Install lftp and upload data to the FTP server
+      # Step 7: Install lftp and upload data to the FTP server
       - name: Upload API data to Download Server via FTP
         run: |
-          echo "• Installing lftp client (will be fast if cache is hit)..."
+          echo "• Installing lftp client..."
+          # Update package lists and install lftp. Using -yq for quiet non-interactive install.
           sudo apt-get update -yq && sudo apt-get install -yq lftp
           
+          # Define v1 directories for conditional upload
           V1_DIRECTORIES="api/v1/config api/v1/banner api/v1/ads api/v1/assets api/v1/terms"
           
+          # Start building the lftp command array for better readability
           lftp_commands=(
             "open -u ${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }} ftp://3117204815.cloudydl.com"
             "set ssl:verify-certificate no"
@@ -141,9 +145,11 @@ jobs:
             "mkdir -p public_html/riyales/api/v1"
           )
           
+          # Always sync v2 data
           echo "• Scheduling v2 directory for unconditional upload."
           lftp_commands+=("mirror -R --verbose --delete --parallel=5 api/v2/market/ public_html/riyales/api/v2/market")
 
+          # Conditionally sync v1 directories ONLY on manual 'workflow_dispatch' trigger
           if [[ "${{ github.event_name }}" == "workflow_dispatch" && "${{ github.event.inputs.upload_v1_data }}" == "true" ]]; then
             echo "• Manual trigger active: Scheduling all v1 directories for upload."
             for dir_path in $V1_DIRECTORIES; do
@@ -154,6 +160,8 @@ jobs:
           fi
 
           lftp_commands+=("bye")
+          
+          # Join the array of commands into a single string for lftp
           lftp_script=$(printf "%s;" "${lftp_commands[@]}")
           
           echo "--- Executing FTP Sync Script ---"
@@ -161,29 +169,19 @@ jobs:
           echo "--- FTP Sync Script Finished ---"
         shell: bash
 
-      # Step 9: Fix apt cache permissions for saving
-      # This is the crucial step! It runs at the end of the job, just before the cache action
-      # tries to save the directories. It changes the ownership of the root-owned apt directories
-      # to the current user ('runner'), allowing the cache to be saved without permission errors.
-      - name: Fix apt cache permissions for saving
-        if: always()
-        run: |
-          echo "• Removing problematic partial and lock directories/files to avoid permission issues..."
-          sudo rm -rf /var/cache/apt/archives/partial /var/cache/apt/archives/lock
-          sudo rm -rf /var/lib/apt/lists/partial /var/lib/apt/lists/lock
-          
-          echo "• Changing ownership of apt cache directories to allow caching..."
-          sudo chown -R $(whoami):$(whoami) /var/cache/apt/archives /var/lib/apt/lists
-        shell: bash
+      # NOTE: The 'Fix apt cache permissions' step has been removed as it's no longer necessary
+      # after removing the apt cache step itself.
 
-      # Step 10: Check for errors and send alerts if needed
+      # Step 8: Check for errors and send alerts if needed
       - name: Check and send error logs
+        # This step runs even if previous steps have failed
         if: always()
         run: |
           ERROR_LOG="${GITHUB_WORKSPACE}/logs/error.log"
           echo "• Final check for error log at: ${ERROR_LOG}"
           
           if [ -f "${ERROR_LOG}" ]; then
+            # Count lines that are not empty or just comments
             RELEVANT_LINES=$(grep -cvE '(^\s*$)|(^# Log cleared on)|(^# Log forcibly cleared on)' "${ERROR_LOG}" || true)
             
             if [ "${RELEVANT_LINES}" -gt 0 ]; then
@@ -191,6 +189,7 @@ jobs:
               cd "${GITHUB_WORKSPACE}"
               python src/alert_sender.py
               
+              # As a safeguard, ensure the log is cleared after sending
               if [ -s "${ERROR_LOG}" ]; then
                 echo "• WARNING: error.log was NOT truncated by the script. Forcing truncation." | tee -a "${ERROR_LOG}"
                 echo "# Log forcibly cleared by workflow at $(date -u '+Y-%m-%dT%H:%M:%SZ')" > "${ERROR_LOG}"
@@ -208,10 +207,13 @@ jobs:
   # A separate job for cleaning up old workflow runs
   cleanup:
     name: Cleanup
+    # This job depends on the completion of 'sync-data'
     needs: sync-data
+    # It runs regardless of whether 'sync-data' succeeded or failed
     if: always()
     runs-on: ubuntu-latest
     permissions:
+      # Required to delete workflow runs
       actions: write
     env:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -220,6 +222,7 @@ jobs:
     steps:
       - name: Remove old workflow runs
         run: |
+          # List all runs, filter out in-progress ones, sort by date, and get IDs to delete (keeping the latest 9)
           runs=$(gh run list \
             --repo "$REPO" \
             --workflow "$WF" \
