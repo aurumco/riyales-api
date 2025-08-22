@@ -2,8 +2,8 @@
     "metal_precious": [
         {
             "date": "1404/06/01",
-            "time": "01:58",
-            "time_unix": 1755901680,
+            "time": "02:38",
+            "time_unix": 1755904080,
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 3371.97,
@@ -13,8 +13,8 @@
         },
         {
             "date": "1404/06/01",
-            "time": "01:58",
-            "time_unix": 1755901680,
+            "time": "02:38",
+            "time_unix": 1755904080,
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 38.87,
