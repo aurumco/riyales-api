@@ -2,8 +2,8 @@
     "currency": [
         {
             "date": "1404/06/01",
-            "time": "16:44",
-            "time_unix": 1755954840,
+            "time": "17:54",
+            "time_unix": 1755959040,
             "symbol": "USD",
             "name_en": "US Dollar",
             "name": "دلار",
@@ -50,8 +50,8 @@
         },
         {
             "date": "1404/06/01",
-            "time": "17:50",
-            "time_unix": 1755958800,
+            "time": "18:06",
+            "time_unix": 1755959760,
             "symbol": "JPY",
             "name_en": "Japanese Yen",
             "name": "یکصد ین ژاپن",
@@ -242,8 +242,8 @@
         },
         {
             "date": "1404/06/01",
-            "time": "17:50",
-            "time_unix": 1755958800,
+            "time": "18:06",
+            "time_unix": 1755959760,
             "symbol": "AFN",
             "name_en": "Afghan Afghani",
             "name": "افغانی",
@@ -266,8 +266,8 @@
         },
         {
             "date": "1404/06/01",
-            "time": "17:50",
-            "time_unix": 1755958800,
+            "time": "18:06",
+            "time_unix": 1755959760,
             "symbol": "THB",
             "name_en": "Thai Baht",
             "name": "بات تایلند",
