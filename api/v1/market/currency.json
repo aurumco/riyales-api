@@ -50,8 +50,8 @@
         },
         {
             "date": "1404/06/01",
-            "time": "17:13",
-            "time_unix": 1755956580,
+            "time": "17:25",
+            "time_unix": 1755957300,
             "symbol": "JPY",
             "name_en": "Japanese Yen",
             "name": "یکصد ین ژاپن",
@@ -242,8 +242,8 @@
         },
         {
             "date": "1404/06/01",
-            "time": "17:13",
-            "time_unix": 1755956580,
+            "time": "17:25",
+            "time_unix": 1755957300,
             "symbol": "AFN",
             "name_en": "Afghan Afghani",
             "name": "افغانی",
@@ -266,8 +266,8 @@
         },
         {
             "date": "1404/06/01",
-            "time": "17:13",
-            "time_unix": 1755956580,
+            "time": "17:25",
+            "time_unix": 1755957300,
             "symbol": "THB",
             "name_en": "Thai Baht",
             "name": "بات تایلند",
