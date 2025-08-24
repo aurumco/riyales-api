@@ -35,13 +35,13 @@
         },
         {
             "date": "1404/06/02",
-            "time": "00:00",
-            "time_unix": 1755981000,
+            "time": "16:29",
+            "time_unix": 1756040340,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
-            "price": 1133.7,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 1140.2,
+            "change_value": 6.5,
+            "change_percent": 0.57,
             "unit": "دلار"
         }
     ],
@@ -116,13 +116,13 @@
     "energy": [
         {
             "date": "1404/06/02",
-            "time": "00:00",
-            "time_unix": 1755981000,
+            "time": "16:20",
+            "time_unix": 1756039800,
             "symbol": "BRENT",
             "name": "نفت برنت",
-            "price": 67.73,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 67.22,
+            "change_value": -0.51,
+            "change_percent": -0.76,
             "unit": "دلار"
         },
         {
@@ -138,24 +138,24 @@
         },
         {
             "date": "1404/06/02",
-            "time": "00:00",
-            "time_unix": 1755981000,
+            "time": "16:20",
+            "time_unix": 1756039800,
             "symbol": "GAS",
             "name": "گاز طبیعی",
-            "price": 2.698,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 2.8,
+            "change_value": 0.102,
+            "change_percent": 3.78,
             "unit": "دلار"
         },
         {
             "date": "1404/06/02",
-            "time": "00:00",
-            "time_unix": 1755981000,
+            "time": "16:20",
+            "time_unix": 1756039800,
             "symbol": "RBOB",
             "name": "بنزین",
-            "price": 2.1585,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 1.9938,
+            "change_value": -0.1647,
+            "change_percent": -8.26,
             "unit": "دلار"
         },
         {
