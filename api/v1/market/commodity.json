@@ -2,8 +2,8 @@
     "metal_precious": [
         {
             "date": "1404/06/08",
-            "time": "03:19",
-            "time_unix": 1756511348,
+            "time": "04:52",
+            "time_unix": 1756516937,
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 3448,
@@ -13,8 +13,8 @@
         },
         {
             "date": "1404/06/08",
-            "time": "03:19",
-            "time_unix": 1756511348,
+            "time": "04:52",
+            "time_unix": 1756516937,
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 39.7,
@@ -24,8 +24,8 @@
         },
         {
             "date": "1404/06/08",
-            "time": "03:05",
-            "time_unix": 1756510528,
+            "time": "04:24",
+            "time_unix": 1756515248,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
             "price": 1370.5,
@@ -35,8 +35,8 @@
         },
         {
             "date": "1404/06/08",
-            "time": "03:05",
-            "time_unix": 1756510528,
+            "time": "04:24",
+            "time_unix": 1756515248,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
             "price": 1124,
