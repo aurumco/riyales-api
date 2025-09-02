@@ -2,8 +2,8 @@
     "metal_precious": [
         {
             "date": "1404/06/12",
-            "time": "01:01",
-            "time_unix": 1756848669,
+            "time": "01:15",
+            "time_unix": 1756849502,
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 3533.43,
@@ -13,8 +13,8 @@
         },
         {
             "date": "1404/06/12",
-            "time": "00:56",
-            "time_unix": 1756848362,
+            "time": "01:15",
+            "time_unix": 1756849503,
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 40.89,
@@ -24,8 +24,8 @@
         },
         {
             "date": "1404/06/12",
-            "time": "01:01",
-            "time_unix": 1756848669,
+            "time": "01:15",
+            "time_unix": 1756849503,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
             "price": 1418.7,
@@ -35,8 +35,8 @@
         },
         {
             "date": "1404/06/12",
-            "time": "01:01",
-            "time_unix": 1756848669,
+            "time": "01:19",
+            "time_unix": 1756849797,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
             "price": 1156.5,
@@ -116,13 +116,13 @@
     "energy": [
         {
             "date": "1404/06/12",
-            "time": "01:09",
-            "time_unix": 1756849157,
+            "time": "01:19",
+            "time_unix": 1756849755,
             "symbol": "BRENT",
             "name": "نفت برنت",
-            "price": 69.14,
-            "change_value": 0.06,
-            "change_percent": 0.09,
+            "price": 69.15,
+            "change_value": 0.07,
+            "change_percent": 0.1,
             "unit": "دلار"
         },
         {
@@ -138,13 +138,13 @@
         },
         {
             "date": "1404/06/12",
-            "time": "00:51",
-            "time_unix": 1756848074,
+            "time": "01:19",
+            "time_unix": 1756849755,
             "symbol": "GAS",
             "name": "گاز طبیعی",
-            "price": 2.99,
-            "change_value": -0.01,
-            "change_percent": -0.33,
+            "price": 3.009,
+            "change_value": 0.009,
+            "change_percent": 0.3,
             "unit": "دلار"
         },
         {
