@@ -2,8 +2,8 @@
     "metal_precious": [
         {
             "date": "1404/06/15",
-            "time": "00:51",
-            "time_unix": 1757107262,
+            "time": "00:59",
+            "time_unix": 1757107788,
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 3586.74,
@@ -13,8 +13,8 @@
         },
         {
             "date": "1404/06/15",
-            "time": "00:51",
-            "time_unix": 1757107262,
+            "time": "00:59",
+            "time_unix": 1757107788,
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 41,
@@ -24,8 +24,8 @@
         },
         {
             "date": "1404/06/15",
-            "time": "00:51",
-            "time_unix": 1757107262,
+            "time": "00:59",
+            "time_unix": 1757107788,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
             "price": 1382.6,
@@ -35,8 +35,8 @@
         },
         {
             "date": "1404/06/15",
-            "time": "00:46",
-            "time_unix": 1757106998,
+            "time": "00:59",
+            "time_unix": 1757107788,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
             "price": 1127,
@@ -149,8 +149,8 @@
         },
         {
             "date": "1404/06/15",
-            "time": "00:49",
-            "time_unix": 1757107159,
+            "time": "01:03",
+            "time_unix": 1757107997,
             "symbol": "RBOB",
             "name": "بنزین",
             "price": 1.9677,
