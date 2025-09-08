@@ -92,8 +92,8 @@
         },
         {
             "date": "1404/06/18",
-            "time": "01:05",
-            "time_unix": 1757367341,
+            "time": "01:17",
+            "time_unix": 1757368077,
             "symbol": "Sn",
             "name": "قلع",
             "price": 34237.05,
@@ -116,13 +116,13 @@
     "energy": [
         {
             "date": "1404/06/18",
-            "time": "01:03",
-            "time_unix": 1757367203,
+            "time": "01:16",
+            "time_unix": 1757367975,
             "symbol": "BRENT",
             "name": "نفت برنت",
-            "price": 66.23,
-            "change_value": 0.02,
-            "change_percent": 0.03,
+            "price": 66.22,
+            "change_value": 0.01,
+            "change_percent": 0.02,
             "unit": "دلار"
         },
         {
