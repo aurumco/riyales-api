@@ -59,8 +59,8 @@
         },
         {
             "date": "1404/06/25",
-            "time": "03:04",
-            "time_unix": 1757979260,
+            "time": "03:16",
+            "time_unix": 1757979974,
             "symbol": "Al",
             "name": "آلومینیوم",
             "price": 2690.8,
@@ -70,8 +70,8 @@
         },
         {
             "date": "1404/06/25",
-            "time": "03:04",
-            "time_unix": 1757979266,
+            "time": "03:15",
+            "time_unix": 1757979918,
             "symbol": "Zn",
             "name": "روی",
             "price": 2957.48,
@@ -81,8 +81,8 @@
         },
         {
             "date": "1404/06/25",
-            "time": "03:04",
-            "time_unix": 1757979263,
+            "time": "03:16",
+            "time_unix": 1757979975,
             "symbol": "Pb",
             "name": "سرب",
             "price": 1993.6,
@@ -92,8 +92,8 @@
         },
         {
             "date": "1404/06/25",
-            "time": "03:04",
-            "time_unix": 1757979280,
+            "time": "03:16",
+            "time_unix": 1757980007,
             "symbol": "Sn",
             "name": "قلع",
             "price": 34579,
@@ -103,8 +103,8 @@
         },
         {
             "date": "1404/06/25",
-            "time": "03:04",
-            "time_unix": 1757979264,
+            "time": "03:16",
+            "time_unix": 1757979976,
             "symbol": "Ni",
             "name": "نیکل",
             "price": 15304.02,
@@ -116,13 +116,13 @@
     "energy": [
         {
             "date": "1404/06/25",
-            "time": "01:46",
-            "time_unix": 1757974583,
+            "time": "03:16",
+            "time_unix": 1757979999,
             "symbol": "BRENT",
             "name": "نفت برنت",
-            "price": 67.45,
-            "change_value": -0.04,
-            "change_percent": -0.06,
+            "price": 67.435,
+            "change_value": 0.601,
+            "change_percent": 0.9,
             "unit": "دلار"
         },
         {
@@ -160,8 +160,8 @@
         },
         {
             "date": "1404/06/25",
-            "time": "03:04",
-            "time_unix": 1757979272,
+            "time": "03:17",
+            "time_unix": 1757980052,
             "symbol": "GASOIL",
             "name": "گازوییل",
             "price": 697.25,
