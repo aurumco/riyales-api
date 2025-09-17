@@ -19265,3 +19265,125 @@ Traceback (most recent call last):
 FileNotFoundError: [Errno 2] No such file or directory: 'dictionaries/lite_assets.json'
 2025-09-18 02:11:57|DEBUG|MarketDataSync|• ✓ Protobuf files generated in api/v2/market
 2025-09-18 02:11:57|INFO|MarketDataSync|[32m• Market Data Sync END [0m|[90m Duration: 1.77s[0m
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Logging initialized. Console level: INFO. General logs: 'logs/app.log'. Error logs: 'logs/error.log'.
+2025-09-18 02:23:50|INFO|MarketDataSync|[32m• Market Data Sync START [0m
+2025-09-18 02:23:50|DEBUG|MarketDataSync|[32m• Starting Market Data Sync Cycle [0m
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Successfully loaded 3537 crypto name mappings from dictionaries/crypto_names_fa.json
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Loaded 2 blacklist entries from dictionaries/blacklist.json
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• JSON map file not found: dictionaries/market_name_mapping.json
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Cycle time: UTC=2025-09-17T22:53:50.607920+00:00, Local=2025-09-18T02:23:50.607920+03:30
+2025-09-18 02:23:50|INFO|MarketDataSync|• Checking API Fetch Tasks 
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Checking fetch task: 'gold'
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Scheduling fetch for: 'gold'
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Checking fetch task: 'currency'
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Scheduling fetch for: 'currency'
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Checking fetch task: 'crypto'
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Scheduling fetch for: 'crypto'
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Checking fetch task: 'commodity'
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Scheduling fetch for: 'commodity'
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Checking fetch task: 'tse_ifb_symbols'
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Market Check: LocalTime=02:23:50 +0330, Weekday=3, CurrentTime=02:23:50.608407, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-09-18 02:23:50|DEBUG|MarketDataSync|Market Status: CLOSED (Outside Market Days)
+2025-09-18 02:23:50|DEBUG|MarketDataSync|•  // Skip 'tse_ifb_symbols': Market is closed.
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Checking fetch task: 'tse_options'
+2025-09-18 02:23:50|DEBUG|MarketDataSync|•  // Skip 'tse_options': Disabled in config.
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Checking fetch task: 'tse_nav'
+2025-09-18 02:23:50|DEBUG|MarketDataSync|•  // Skip 'tse_nav': Disabled in config.
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Checking fetch task: 'tse_index'
+2025-09-18 02:23:50|DEBUG|MarketDataSync|•  // Skip 'tse_index': Disabled in config.
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Checking fetch task: 'ifb_index'
+2025-09-18 02:23:50|DEBUG|MarketDataSync|•  // Skip 'ifb_index': Disabled in config.
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Checking fetch task: 'selected_indices'
+2025-09-18 02:23:50|DEBUG|MarketDataSync|•  // Skip 'selected_indices': Disabled in config.
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Checking fetch task: 'debt_securities'
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Market Check: LocalTime=02:23:50 +0330, Weekday=3, CurrentTime=02:23:50.608768, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-09-18 02:23:50|DEBUG|MarketDataSync|Market Status: CLOSED (Outside Market Days)
+2025-09-18 02:23:50|DEBUG|MarketDataSync|•  // Skip 'debt_securities': Market is closed.
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Checking fetch task: 'housing_facilities'
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Market Check: LocalTime=02:23:50 +0330, Weekday=3, CurrentTime=02:23:50.608901, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-09-18 02:23:50|DEBUG|MarketDataSync|Market Status: CLOSED (Outside Market Days)
+2025-09-18 02:23:50|DEBUG|MarketDataSync|•  // Skip 'housing_facilities': Market is closed.
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Checking fetch task: 'futures'
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Market Check: LocalTime=02:23:50 +0330, Weekday=3, CurrentTime=02:23:50.609010, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2025-09-18 02:23:50|DEBUG|MarketDataSync|Market Status: CLOSED (Outside Market Days)
+2025-09-18 02:23:50|DEBUG|MarketDataSync|•  // Skip 'futures': Market is closed.
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Attempting to fetch data for 4 endpoints...
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Requesting: gold
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Requesting: currency
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Requesting: crypto
+2025-09-18 02:23:50|DEBUG|MarketDataSync|• Requesting: commodity
+2025-09-18 02:23:51|DEBUG|MarketDataSync|• Response: gold Status=200 in 1.34s
+2025-09-18 02:23:51|DEBUG|MarketDataSync|• Response: commodity Status=200 in 1.33s
+2025-09-18 02:23:51|DEBUG|MarketDataSync|• Response: currency Status=200 in 1.34s
+2025-09-18 02:23:51|DEBUG|MarketDataSync|• Response: crypto Status=200 in 1.36s
+2025-09-18 02:23:52|INFO|MarketDataSync|• Processing Fetch Results 
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• Applied transformation function for gold
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• Applied blacklist filter for gold
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• Saved latest raw JSON: gold.json
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• Applied transformation function for currency
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• Applied blacklist filter for currency
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• Saved latest raw JSON: currency.json
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Linea
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Avantis
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: OpenLedger
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Boundless
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Holoworld AI
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Collector Crypt
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Unibase
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: STBL
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Liquity BOLD
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: MetaMask USD
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Ai Xovia
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Starpower
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Maiga
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Araracoin
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Young
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: PINGPONG
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Switchboard Protocol
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: OUTLAW Crypto Games
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: ARAI
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Zypher Network
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Solana Name Service
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: OpenxAI Network
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Roaring Kitty
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: XL1
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Valyr
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: ValleyDAO
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Black Mirror Experience
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Worlds First Memecoin
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: OciCat
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Stream SZN
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: VCHAT Token
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: ToCa.Gg
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: StreamerCoin
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: ROVR Network
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Project Merlin
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: enfineo
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Make CRO Great Again
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Unstable Tether
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Heroes of NFT
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Berkshire Hathaway tokenized stock (xStock)
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Clashub
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• Persian name mapping: 41 crypto names were not found in the map.
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• Applied transformation function for crypto
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• Applied blacklist filter for crypto
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• Saved latest raw JSON: cryptocurrency.json
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• Applied transformation function for commodity
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• Applied blacklist filter for commodity
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• Saved latest raw JSON: commodity.json
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• Fetch Results Summary:  Processed=4,  Errors=0
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• [34m• Creating Consolidated JSON Output[0m
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• Reading commodity.json for consolidation...
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• Reading currency.json for consolidation...
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• Reading gold.json for consolidation...
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• Reading cryptocurrency.json for consolidation...
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• [32m✓ Consolidated JSON successfully created at: api/v1/market/all_market_data.json (4 files combined)[0m
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• [34m• Creating Lite JSON Output[0m
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• Error loading lite assets definition from dictionaries/lite_assets.json: [Errno 2] No such file or directory: 'dictionaries/lite_assets.json'
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 368, in create_lite_json
+    with open(LITE_ASSETS_FILE, 'r', encoding='utf-8') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'dictionaries/lite_assets.json'
+2025-09-18 02:23:52|DEBUG|MarketDataSync|• ✓ Protobuf files generated in api/v2/market
+2025-09-18 02:23:52|INFO|MarketDataSync|[32m• Market Data Sync END [0m|[90m Duration: 2.29s[0m
