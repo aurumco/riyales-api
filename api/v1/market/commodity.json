@@ -2,8 +2,8 @@
     "metal_precious": [
         {
             "date": "1404/06/28",
-            "time": "00:52",
-            "time_unix": 1758230547,
+            "time": "01:05",
+            "time_unix": 1758231308,
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 3644.49,
@@ -13,8 +13,8 @@
         },
         {
             "date": "1404/06/28",
-            "time": "00:52",
-            "time_unix": 1758230547,
+            "time": "01:05",
+            "time_unix": 1758231308,
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 41.82,
@@ -24,8 +24,8 @@
         },
         {
             "date": "1404/06/28",
-            "time": "00:52",
-            "time_unix": 1758230547,
+            "time": "01:05",
+            "time_unix": 1758231308,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
             "price": 1397.9,
@@ -35,8 +35,8 @@
         },
         {
             "date": "1404/06/28",
-            "time": "00:52",
-            "time_unix": 1758230547,
+            "time": "01:05",
+            "time_unix": 1758231308,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
             "price": 1182,
@@ -116,13 +116,13 @@
     "energy": [
         {
             "date": "1404/06/28",
-            "time": "00:52",
-            "time_unix": 1758230537,
+            "time": "01:01",
+            "time_unix": 1758231079,
             "symbol": "BRENT",
             "name": "نفت برنت",
-            "price": 67.52,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 67.5,
+            "change_value": -0.02,
+            "change_percent": -0.03,
             "unit": "دلار"
         },
         {
