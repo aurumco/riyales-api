@@ -7,8 +7,8 @@
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 3684.98,
-            "change_value": 2.06,
-            "change_percent": 0.06,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
@@ -18,8 +18,8 @@
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 43.11,
-            "change_value": 0.14,
-            "change_percent": 0.32,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
@@ -29,8 +29,8 @@
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
             "price": 1416.5,
-            "change_value": -3.4,
-            "change_percent": -0.24,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
@@ -40,8 +40,8 @@
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
             "price": 1169.6,
-            "change_value": -2.9,
-            "change_percent": -0.25,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         }
     ],
@@ -97,8 +97,8 @@
             "symbol": "Sn",
             "name": "قلع",
             "price": 34127.59,
-            "change_value": 481.59,
-            "change_percent": 1.43,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
@@ -121,8 +121,8 @@
             "symbol": "BRENT",
             "name": "نفت برنت",
             "price": 66.68,
-            "change_value": 0.02,
-            "change_percent": 0.03,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
@@ -132,8 +132,8 @@
             "symbol": "WTI",
             "name": "نفت سبک",
             "price": 62.68,
-            "change_value": -0.03,
-            "change_percent": -0.05,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
@@ -143,8 +143,8 @@
             "symbol": "GAS",
             "name": "گاز طبیعی",
             "price": 2.888,
-            "change_value": -0.019,
-            "change_percent": -0.66,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
@@ -154,8 +154,8 @@
             "symbol": "RBOB",
             "name": "بنزین",
             "price": 1.9707,
-            "change_value": 0.0007,
-            "change_percent": 0.04,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
@@ -165,8 +165,8 @@
             "symbol": "GASOIL",
             "name": "گازوییل",
             "price": 693.5,
-            "change_value": 3.25,
-            "change_percent": 0.47,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         }
     ]
