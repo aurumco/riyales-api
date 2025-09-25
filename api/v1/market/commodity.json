@@ -2,8 +2,8 @@
     "metal_precious": [
         {
             "date": "1404/07/04",
-            "time": "01:08",
-            "time_unix": 1758836282,
+            "time": "01:20",
+            "time_unix": 1758837038,
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 3749.41,
@@ -13,8 +13,8 @@
         },
         {
             "date": "1404/07/04",
-            "time": "01:08",
-            "time_unix": 1758836282,
+            "time": "01:20",
+            "time_unix": 1758837038,
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 45.19,
@@ -24,19 +24,19 @@
         },
         {
             "date": "1404/07/04",
-            "time": "01:08",
-            "time_unix": 1758836282,
+            "time": "01:21",
+            "time_unix": 1758837117,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
-            "price": 1540.9,
-            "change_value": -0.6,
-            "change_percent": -0.04,
+            "price": 1541,
+            "change_value": -0.5,
+            "change_percent": -0.03,
             "unit": "دلار"
         },
         {
             "date": "1404/07/04",
-            "time": "01:08",
-            "time_unix": 1758836282,
+            "time": "01:20",
+            "time_unix": 1758837038,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
             "price": 1278.5,
@@ -116,8 +116,8 @@
     "energy": [
         {
             "date": "1404/07/04",
-            "time": "01:09",
-            "time_unix": 1758836356,
+            "time": "01:21",
+            "time_unix": 1758837077,
             "symbol": "BRENT",
             "name": "نفت برنت",
             "price": 69.63,
@@ -160,8 +160,8 @@
         },
         {
             "date": "1404/07/04",
-            "time": "01:05",
-            "time_unix": 1758836117,
+            "time": "01:21",
+            "time_unix": 1758837077,
             "symbol": "GASOIL",
             "name": "گازوییل",
             "price": 726.75,
