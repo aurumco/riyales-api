@@ -2,8 +2,8 @@
     "metal_precious": [
         {
             "date": "1404/07/05",
-            "time": "02:55",
-            "time_unix": 1758929117,
+            "time": "03:09",
+            "time_unix": 1758929941,
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 3760.24,
@@ -13,8 +13,8 @@
         },
         {
             "date": "1404/07/05",
-            "time": "02:55",
-            "time_unix": 1758929127,
+            "time": "03:09",
+            "time_unix": 1758929941,
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 46.03,
@@ -116,13 +116,13 @@
     "energy": [
         {
             "date": "1404/07/05",
-            "time": "02:54",
-            "time_unix": 1758929056,
+            "time": "03:08",
+            "time_unix": 1758929896,
             "symbol": "BRENT",
             "name": "نفت برنت",
-            "price": 69.67,
-            "change_value": -0.11,
-            "change_percent": -0.16,
+            "price": 70.13,
+            "change_value": 0.35,
+            "change_percent": 0.5,
             "unit": "دلار"
         },
         {
@@ -149,24 +149,24 @@
         },
         {
             "date": "1404/07/05",
-            "time": "02:54",
-            "time_unix": 1758929056,
+            "time": "03:08",
+            "time_unix": 1758929896,
             "symbol": "RBOB",
             "name": "بنزین",
-            "price": 2.0265,
-            "change_value": -0.0039,
-            "change_percent": -0.19,
+            "price": 2.0376,
+            "change_value": 0.0072,
+            "change_percent": 0.35,
             "unit": "دلار"
         },
         {
             "date": "1404/07/05",
-            "time": "02:54",
-            "time_unix": 1758929056,
+            "time": "03:08",
+            "time_unix": 1758929896,
             "symbol": "GASOIL",
             "name": "گازوییل",
-            "price": 725,
-            "change_value": 0.25,
-            "change_percent": 0.03,
+            "price": 733,
+            "change_value": 8.25,
+            "change_percent": 1.14,
             "unit": "دلار"
         }
     ]
