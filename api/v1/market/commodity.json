@@ -35,13 +35,13 @@
         },
         {
             "date": "1404/07/06",
-            "time": "00:00",
-            "time_unix": 1759005000,
+            "time": "01:51",
+            "time_unix": 1759011708,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
-            "price": 1311.1,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 1303.3,
+            "change_value": -7.8,
+            "change_percent": -0.6,
             "unit": "دلار"
         }
     ],
