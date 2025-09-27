@@ -92,13 +92,13 @@
         },
         {
             "date": "1404/07/05",
-            "time": "10:21",
-            "time_unix": 1758955879,
+            "time": "10:22",
+            "time_unix": 1758955937,
             "symbol": "Sn",
             "name": "قلع",
-            "price": 34420,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 34483,
+            "change_value": 63,
+            "change_percent": 0.18,
             "unit": "دلار"
         },
         {
