@@ -149,13 +149,13 @@
         },
         {
             "date": "1404/07/06",
-            "time": "00:00",
-            "time_unix": 1759005000,
+            "time": "11:41",
+            "time_unix": 1759047079,
             "symbol": "RBOB",
             "name": "بنزین",
-            "price": 2.0376,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 1.9888,
+            "change_value": -0.0488,
+            "change_percent": -2.45,
             "unit": "دلار"
         },
         {
