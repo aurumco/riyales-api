@@ -20,7 +20,7 @@
             "name_en": "Euro",
             "name": "یورو",
             "price": 129550,
-            "change_value": -2344,
+            "change_value": -2340,
             "change_percent": -1.81,
             "unit": "تومان"
         },
@@ -32,7 +32,7 @@
             "name_en": "UAE Dirham",
             "name": "درهم امارات",
             "price": 30257,
-            "change_value": -541,
+            "change_value": -543,
             "change_percent": -1.79,
             "unit": "تومان"
         },
@@ -44,7 +44,7 @@
             "name_en": "British Pound",
             "name": "پوند",
             "price": 148360,
-            "change_value": -2685,
+            "change_value": -2680,
             "change_percent": -1.81,
             "unit": "تومان"
         },
@@ -56,7 +56,7 @@
             "name_en": "Japanese Yen",
             "name": "یکصد ین ژاپن",
             "price": 74061,
-            "change_value": -1333,
+            "change_value": -1334,
             "change_percent": -1.8,
             "unit": "تومان"
         },
@@ -68,7 +68,7 @@
             "name_en": "Kuwaiti Dinar",
             "name": "دینار کویت",
             "price": 362900,
-            "change_value": -6532,
+            "change_value": -6540,
             "change_percent": -1.8,
             "unit": "تومان"
         },
@@ -80,7 +80,7 @@
             "name_en": "Australian Dollar",
             "name": "دلار استرالیا",
             "price": 72460,
-            "change_value": -1297,
+            "change_value": -1300,
             "change_percent": -1.79,
             "unit": "تومان"
         },
@@ -92,7 +92,7 @@
             "name_en": "Canadian Dollar",
             "name": "دلار کانادا",
             "price": 79430,
-            "change_value": -1429,
+            "change_value": -1430,
             "change_percent": -1.8,
             "unit": "تومان"
         },
@@ -104,7 +104,7 @@
             "name_en": "Chinese Yuan",
             "name": "یوآن چین",
             "price": 15520,
-            "change_value": -279,
+            "change_value": -280,
             "change_percent": -1.8,
             "unit": "تومان"
         },
@@ -128,7 +128,7 @@
             "name_en": "Saudi Riyal",
             "name": "ریال عربستان",
             "price": 29555,
-            "change_value": -532,
+            "change_value": -533,
             "change_percent": -1.8,
             "unit": "تومان"
         },
@@ -140,7 +140,7 @@
             "name_en": "Swiss Franc",
             "name": "فرانک سوئیس",
             "price": 138680,
-            "change_value": -2496,
+            "change_value": -2500,
             "change_percent": -1.8,
             "unit": "تومان"
         },
@@ -200,7 +200,7 @@
             "name_en": "Swedish Krona",
             "name": "کرون سوئد",
             "price": 11780,
-            "change_value": -209,
+            "change_value": -210,
             "change_percent": -1.78,
             "unit": "تومان"
         },
@@ -224,7 +224,7 @@
             "name_en": "Omani Rial",
             "name": "ریال عمان",
             "price": 287660,
-            "change_value": -5177,
+            "change_value": -5180,
             "change_percent": -1.8,
             "unit": "تومان"
         },
@@ -236,7 +236,7 @@
             "name_en": "Bahraini Dinar",
             "name": "دینار بحرین",
             "price": 293760,
-            "change_value": -5287,
+            "change_value": -5300,
             "change_percent": -1.8,
             "unit": "تومان"
         },
@@ -296,7 +296,7 @@
             "name_en": "Azerbaijani Manat",
             "name": "منات آذربایجان",
             "price": 65320,
-            "change_value": -1182,
+            "change_value": -1180,
             "change_percent": -1.81,
             "unit": "تومان"
         },
@@ -320,7 +320,7 @@
             "name_en": "Georgian Lari",
             "name": "لاری گرجستان",
             "price": 40960,
-            "change_value": -749,
+            "change_value": -750,
             "change_percent": -1.83,
             "unit": "تومان"
         }
