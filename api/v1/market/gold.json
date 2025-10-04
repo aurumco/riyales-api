@@ -29,13 +29,13 @@
         {
             "date": "1404/07/12",
             "time": "19:59",
-            "time_unix": 1759595396,
+            "time_unix": 1759595398,
             "symbol": "MELTED",
             "name_en": "Melted Gold",
             "name": "طلای آب‌شده نقدی",
-            "price": 47044000,
-            "change_value": -548000,
-            "change_percent": -1.16,
+            "price": 47043000,
+            "change_value": -549000,
+            "change_percent": -1.17,
             "unit": "تومان",
             "nameFa": "طلای آب‌شده نقدی"
         },
@@ -107,13 +107,13 @@
         {
             "date": "1404/07/12",
             "time": "19:59",
-            "time_unix": 1759595396,
+            "time_unix": 1759595398,
             "symbol": "BAHAR",
             "name_en": "Bahar Azadi Coin",
             "name": "سکه بهار آزادی",
-            "price": 109705000,
-            "change_value": -1085000,
-            "change_percent": -0.99,
+            "price": 109680000,
+            "change_value": -1110000,
+            "change_percent": -1.01,
             "unit": "تومان",
             "nameFa": "سکه بهار آزادی"
         }
