@@ -2,8 +2,8 @@
     "metal_precious": [
         {
             "date": "1404/07/12",
-            "time": "06:55",
-            "time_unix": 1759548339,
+            "time": "08:10",
+            "time_unix": 1759552828,
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 3886.83,
@@ -92,13 +92,13 @@
         },
         {
             "date": "1404/07/12",
-            "time": "00:00",
-            "time_unix": 1759523400,
+            "time": "08:10",
+            "time_unix": 1759552823,
             "symbol": "Sn",
             "name": "قلع",
-            "price": 37008,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 37560,
+            "change_value": 552,
+            "change_percent": 1.49,
             "unit": "دلار"
         },
         {
