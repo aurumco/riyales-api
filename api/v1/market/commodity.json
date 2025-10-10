@@ -2,8 +2,8 @@
     "metal_precious": [
         {
             "date": "1404/07/19",
-            "time": "02:50",
-            "time_unix": 1760138438,
+            "time": "03:01",
+            "time_unix": 1760139098,
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 4018.3,
@@ -13,19 +13,19 @@
         },
         {
             "date": "1404/07/19",
-            "time": "02:50",
-            "time_unix": 1760138439,
+            "time": "03:04",
+            "time_unix": 1760139247,
             "symbol": "XAGUSD",
             "name": "انس نقره",
-            "price": 50.3,
-            "change_value": 0.2,
-            "change_percent": 0.39,
+            "price": 50.03,
+            "change_value": -0.07,
+            "change_percent": -0.14,
             "unit": "دلار"
         },
         {
             "date": "1404/07/19",
-            "time": "02:33",
-            "time_unix": 1760137382,
+            "time": "03:00",
+            "time_unix": 1760139030,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
             "price": 1623,
@@ -35,8 +35,8 @@
         },
         {
             "date": "1404/07/19",
-            "time": "02:33",
-            "time_unix": 1760137382,
+            "time": "03:00",
+            "time_unix": 1760139030,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
             "price": 1470.6,
@@ -116,8 +116,8 @@
     "energy": [
         {
             "date": "1404/07/19",
-            "time": "02:49",
-            "time_unix": 1760138360,
+            "time": "02:59",
+            "time_unix": 1760138956,
             "symbol": "BRENT",
             "name": "نفت برنت",
             "price": 62.73,
@@ -149,8 +149,8 @@
         },
         {
             "date": "1404/07/19",
-            "time": "02:49",
-            "time_unix": 1760138360,
+            "time": "02:59",
+            "time_unix": 1760138956,
             "symbol": "RBOB",
             "name": "بنزین",
             "price": 1.8204,
@@ -160,8 +160,8 @@
         },
         {
             "date": "1404/07/19",
-            "time": "02:49",
-            "time_unix": 1760138360,
+            "time": "02:59",
+            "time_unix": 1760138956,
             "symbol": "GASOIL",
             "name": "گازوییل",
             "price": 652.5,
