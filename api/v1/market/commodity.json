@@ -2,8 +2,8 @@
     "metal_precious": [
         {
             "date": "1404/07/19",
-            "time": "01:16",
-            "time_unix": 1760132762,
+            "time": "01:54",
+            "time_unix": 1760135088,
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 4017.46,
@@ -13,8 +13,8 @@
         },
         {
             "date": "1404/07/19",
-            "time": "01:16",
-            "time_unix": 1760132762,
+            "time": "01:54",
+            "time_unix": 1760135088,
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 50.03,
@@ -24,24 +24,24 @@
         },
         {
             "date": "1404/07/19",
-            "time": "01:46",
-            "time_unix": 1760134568,
+            "time": "02:00",
+            "time_unix": 1760135410,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
-            "price": 1621.75,
-            "change_value": -11.25,
-            "change_percent": -0.69,
+            "price": 1623,
+            "change_value": -10,
+            "change_percent": -0.62,
             "unit": "دلار"
         },
         {
             "date": "1404/07/19",
-            "time": "01:46",
-            "time_unix": 1760134568,
+            "time": "02:00",
+            "time_unix": 1760135413,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
-            "price": 1452.5,
-            "change_value": -22.75,
-            "change_percent": -1.57,
+            "price": 1470.6,
+            "change_value": -4.65,
+            "change_percent": -0.32,
             "unit": "دلار"
         }
     ],
@@ -127,8 +127,8 @@
         },
         {
             "date": "1404/07/19",
-            "time": "01:44",
-            "time_unix": 1760134457,
+            "time": "02:02",
+            "time_unix": 1760135538,
             "symbol": "WTI",
             "name": "نفت سبک",
             "price": 58.9,
@@ -138,8 +138,8 @@
         },
         {
             "date": "1404/07/19",
-            "time": "01:44",
-            "time_unix": 1760134457,
+            "time": "02:02",
+            "time_unix": 1760135538,
             "symbol": "GAS",
             "name": "گاز طبیعی",
             "price": 3.106,
