@@ -2,14 +2,14 @@
     "currency": [
         {
             "date": "1404/07/19",
-            "time": "19:59",
-            "time_unix": 1760200197,
+            "time": "20:22",
+            "time_unix": 1760201550,
             "symbol": "USD",
             "name_en": "US Dollar",
             "name": "دلار",
-            "price": 112700,
-            "change_value": -585,
-            "change_percent": -0.52,
+            "price": 112650,
+            "change_value": 200,
+            "change_percent": 0.18,
             "unit": "تومان"
         },
         {
