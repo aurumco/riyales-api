@@ -1,10355 +1,10361 @@
 
 •
 
-1404/07/1914:11õè¨Ç"Bitcoin*Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†2112147:13014685187A=
-×£p=ÀH®ë‘Å‡AR9https://s2.coinmarketcap.com/static/img/coins/64x64/1.png
+1404/07/1914:21Íí¨Ç"Bitcoin*Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†2112249:13004328640AHáz®GÀHÖ¡ˆAR9https://s2.coinmarketcap.com/static/img/coins/64x64/1.png
 
 
-1404/07/1914:11õè¨Ç"Ethereum*Ø§ØªØ±ÛŒÙˆÙ…23836:	445195587A=
-×£p½&ÀH¯àçı¼R<https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png
+1404/07/1914:21Íí¨Ç"Ethereum*Ø§ØªØ±ÛŒÙˆÙ…23839:	444753797A\Âõ(\'ÀH¶ôã™¾R<https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png
 †
 
-1404/07/1914:11õè¨Ç"Tether*ØªØªØ±21.0010:116050AìQ¸…ë±?H®œR;https://s2.coinmarketcap.com/static/img/coins/64x64/825.png
+1404/07/1914:21Íí¨Ç"Tether*ØªØªØ±21.0010:115853A¸…ëQ¸®?H»ÃëŠœR;https://s2.coinmarketcap.com/static/img/coins/64x64/825.png
 
 
-1404/07/1914:11õè¨Ç"Binance Coin*Ø¨Ø§ÛŒÙ†Ù†Ø³ Ú©ÙˆÛŒÙ†21135:	131759757A¤p=
-×#"ÀHÅëÅ×ÌR<https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png
+1404/07/1914:21Íí¨Ç"Binance Coin*Ø¨Ø§ÛŒÙ†Ù†Ø³ Ú©ÙˆÛŒÙ†21134:	131329392A®Gáz®"ÀHêÒ‘áËR<https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png
 ‚
 
-1404/07/1914:11õè¨Ç"XRP*Ø±ÛŒÙ¾Ù„22.47:286572A×£p=
-W(ÀH°›ó–§R:https://s2.coinmarketcap.com/static/img/coins/64x64/52.png
+1404/07/1914:21Íí¨Ç"XRP*Ø±ÛŒÙ¾Ù„22.47:285960AÂõ(\(ÀH¿èó÷¦R:https://s2.coinmarketcap.com/static/img/coins/64x64/52.png
 
 
-1404/07/1914:11õè¨Ç"Solana*Ø³ÙˆÙ„Ø§Ù†Ø§2184.29:21387038A…ëQ¸0ÀHö“İ“÷R<https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png
-•
+1404/07/1914:21Íí¨Ç"Solana*Ø³ÙˆÙ„Ø§Ù†Ø§2183.63:21273766A…ëQ¸…0ÀHõÛÏæõR<https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png
+
 
-1404/07/1914:11õè¨Ç"USD Coin*ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ Ú©ÙˆÛŒÙ†20.9999:116034H¶È—Ú˜R<https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png
+1404/07/1914:21Íí¨Ç"USD Coin*ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ Ú©ÙˆÛŒÙ†21.0003:115892A{®Gáz¤?HÈÊ§ë˜R<https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png
 …
 
-1404/07/1914:11õè¨Ç"TRON*ØªØ±ÙˆÙ†20.3194:37061A)\Âõ(ÀHéáÏpR<https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png
+1404/07/1914:21Íí¨Ç"TRON*ØªØ±ÙˆÙ†20.3192:36978A{®GázÀH¶î÷ÇpR<https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png
 
 
-1404/07/1914:11õè¨Ç"Dogecoin*Ø¯ÙˆØ¬â€ŒÚ©ÙˆÛŒÙ†20.1942:22541AR¸…ëQ6ÀH³œÊ½mR:https://s2.coinmarketcap.com/static/img/coins/64x64/74.png
+1404/07/1914:21Íí¨Ç"Dogecoin*Ø¯ÙˆØ¬â€ŒÚ©ÙˆÛŒÙ†20.1937:22435Aáz®G¡6ÀH¹¯µ“mR:https://s2.coinmarketcap.com/static/img/coins/64x64/74.png
 
 
-1404/07/1914:11õè¨Ç"Cardano*Ú©Ø§Ø±Ø¯Ø§Ù†Ùˆ20.6697:77722Aö(\Âµ1ÀH„ÖÃ±YR<https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png
+1404/07/1914:21Íí¨Ç"Cardano*Ú©Ø§Ø±Ø¯Ø§Ù†Ùˆ20.6678:77363A
+×£p=
+2ÀHí»‹YR<https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png
 
 
-1404/07/1914:11õè¨Ç"Hyperliquid*Ù‡Ø§ÛŒÙ¾Ø±Ù„ÛŒÚ©ÙˆØ¦ÛŒØ¯240.45:4694747AÃõ(\Â!ÀHçÍİŞ2R=https://s2.coinmarketcap.com/static/img/coins/64x64/32196.png
+1404/07/1914:21Íí¨Ç"Hyperliquid*Ù‡Ø§ÛŒÙ¾Ø±Ù„ÛŒÚ©ÙˆØ¦ÛŒØ¯240.38:4677749A=
+×£p="ÀHïœÒ2R=https://s2.coinmarketcap.com/static/img/coins/64x64/32196.png
 ¨
 
-1404/07/1914:11õè¨Ç"Ethena USDe*"Ø§ØªÙ†Ø§ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒâ€ŒØ§ÛŒ20.9998:116025AìQ¸…ë±¿H «€”1R=https://s2.coinmarketcap.com/static/img/coins/64x64/29470.png
+1404/07/1914:21Íí¨Ç"Ethena USDe*"Ø§ØªÙ†Ø§ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒâ€ŒØ§ÛŒ21.0000:115849Aš™™™™™©¿Húş•1R=https://s2.coinmarketcap.com/static/img/coins/64x64/29470.png
 ”
 
-1404/07/1914:11õè¨Ç"	Chainlink*Ú†ÛŒÙ†â€ŒÙ„ÛŒÙ†Ú©218.12:2102854AÍÌÌÌÌŒ3ÀH²‡ã-R<https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png
+1404/07/1914:21Íí¨Ç"	Chainlink*Ú†ÛŒÙ†â€ŒÙ„ÛŒÙ†Ú©218.06:2092723A¸…ëQ¸3ÀHÁÄßĞ-R<https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png
 
 
-1404/07/1914:11õè¨Ç"Bitcoin Cash*Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ú©Ø´2534.98:62084559A…ëQ¸…#ÀHÇ›ƒŞ'R<https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png
+1404/07/1914:21Íí¨Ç"Bitcoin Cash*Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ú©Ø´2533.70:61831306Aq=
+×£ğ#ÀH¨òÑ'R<https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png
 ‹
 
-1404/07/1914:11õè¨Ç"Stellar*Ø§Ø³ØªÙ„Ø§Ø±20.3320:38530Aáz®Gá)ÀH—Ì„Í'R;https://s2.coinmarketcap.com/static/img/coins/64x64/512.png
+1404/07/1914:21Íí¨Ç"Stellar*Ø§Ø³ØªÙ„Ø§Ø±20.3314:38392Aq=
+×£p*ÀH–µÄÃ'R;https://s2.coinmarketcap.com/static/img/coins/64x64/512.png
 „
 
-1404/07/1914:11õè¨Ç"Sui*Ø³ÙˆÛŒÛŒ22.73:316555A¤p=
-×ã4ÀHÅ¿üë$R=https://s2.coinmarketcap.com/static/img/coins/64x64/20947.png
+1404/07/1914:21Íí¨Ç"Sui*Ø³ÙˆÛŒÛŒ22.72:315626Aš™™™™5ÀH³«æ$R=https://s2.coinmarketcap.com/static/img/coins/64x64/20947.png
 ‘
 
-1404/07/1914:11õè¨Ç"	Avalanche*Ø¢ÙˆØ§Ù„Ø§Ù†Ú†222.84:2650818AÃõ(\Â2ÀH‚©²÷#R<https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png
+1404/07/1914:21Íí¨Ç"	Avalanche*Ø¢ÙˆØ§Ù„Ø§Ù†Ú†222.76:2636287A¸…ëQ83ÀH»äúå#R<https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png
 ™
 
-1404/07/1914:11õè¨Ç"UNUS SED LEO*ÛŒÙˆÙ†Ø³ Ø³Ø¯ Ù„Ø¦Ùˆ29.62:1115842A=
-×£p=ê?HıÖ¯…!R<https://s2.coinmarketcap.com/static/img/coins/64x64/3957.png
+1404/07/1914:21Íí¨Ç"UNUS SED LEO*ÛŒÙˆÙ†Ø³ Ø³Ø¯ Ù„Ø¦Ùˆ29.62:1114685A{®Gázì?H¿–ˆ!R<https://s2.coinmarketcap.com/static/img/coins/64x64/3957.png
 “
 
-1404/07/1914:11õè¨Ç"Litecoin*Ù„Ø§ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†298.75:11459407A
-×£p=Š7ÀH°ÌR9https://s2.coinmarketcap.com/static/img/coins/64x64/2.png
+1404/07/1914:21Íí¨Ç"Litecoin*Ù„Ø§ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†298.46:11406322A…ëQ¸Ş7ÀHÚûÃ‚R9https://s2.coinmarketcap.com/static/img/coins/64x64/2.png
 ¡
 
-1404/07/1914:11õè¨Ç"Hedera Hashgraph*Ù‡Ø¯Ø±Ø§ Ù‡Ø´â€ŒÚ¯Ø±Ø§Ù20.1754:20355A3333332ÀH²­¡ÚR<https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png
+1404/07/1914:21Íí¨Ç"Hedera Hashgraph*Ù‡Ø¯Ø±Ø§ Ù‡Ø´â€ŒÚ¯Ø±Ø§Ù20.1749:20260AÂõ(\2ÀHáôãÏR<https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png
 ˜
 
-1404/07/1914:11õè¨Ç"	SHIBA INU*Ø´ÛŒØ¨Ø§ Ø§ÛŒÙ†Ùˆ2
-0.00001051:1.2198A
-×£p=Š(ÀH«¨›‰R<https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png
+1404/07/1914:21Íí¨Ç"	SHIBA INU*Ø´ÛŒØ¨Ø§ Ø§ÛŒÙ†Ùˆ2
+0.00001048:1.2138A¸…ëQ8)ÀH½ìğÿR<https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png
 ‰
 
-1404/07/1914:11õè¨Ç"Mantle*Ù…Ù†ØªÙ„21.8137:210486A
-×£p=Š3ÀHš÷¬ıR=https://s2.coinmarketcap.com/static/img/coins/64x64/27075.png
+1404/07/1914:21Íí¨Ç"Mantle*Ù…Ù†ØªÙ„21.8047:209076A×£p=
+—3ÀHÙ¤¢ïR=https://s2.coinmarketcap.com/static/img/coins/64x64/27075.png
 ‹
 
-1404/07/1914:11õè¨Ç"Monero*
-Ù…ÙˆÙ†Ø±Ùˆ2304.57:35345129A…ëQ¸"ÀHµš÷R;https://s2.coinmarketcap.com/static/img/coins/64x64/328.png
+1404/07/1914:21Íí¨Ç"Monero*
+Ù…ÙˆÙ†Ø±Ùˆ2304.61:35290031AÃõ(\Â"ÀH³ë°÷R;https://s2.coinmarketcap.com/static/img/coins/64x64/328.png
 ‘
 
-1404/07/1914:11õè¨Ç"Toncoin*ØªÙˆÙ†â€ŒÚ©ÙˆÛŒÙ†22.21:256177A=
-×£p}2ÀHºÊ¾ÛR=https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png
+1404/07/1914:21Íí¨Ç"Toncoin*ØªÙˆÙ†â€ŒÚ©ÙˆÛŒÙ†22.21:256336A¤p=
+×c2ÀH‹àÒáR=https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png
 «
 
-1404/07/1914:11õè¨Ç"Crypto.com Coin*#Ú©Ø±ÛŒÙ¾ØªÙˆ Ø¯Ø§Øª Ú©Ø§Ù… Ú©ÙˆÛŒÙ†20.1582:18357Aq=
-×£p1ÀH—€üÅR<https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png
-z
+1404/07/1914:21Íí¨Ç"Crypto.com Coin*#Ú©Ø±ÛŒÙ¾ØªÙˆ Ø¯Ø§Øª Ú©Ø§Ù… Ú©ÙˆÛŒÙ†20.1583:18334AÍÌÌÌÌŒ1ÀHüòÇR<https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png
+ƒ
 
-1404/07/1914:11õè¨Ç"Dai*Ø¯Ø§ÛŒ20.9999:116034HÕÊ‡şR<https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png
+1404/07/1914:21Íí¨Ç"Dai*Ø¯Ø§ÛŒ21.0000:115853A{®Gáz„?H¶şR<https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png
 
 
-1404/07/1914:11áè¨Ç"Polkadot*Ù¾ÙˆÙ„Ú©Ø§Ø¯Ø§Øª23.28:380181Aö(\Âu4ÀHÃ´ÒëR<https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png
+1404/07/1914:21¹í¨Ç"Polkadot*Ù¾ÙˆÙ„Ú©Ø§Ø¯Ø§Øª23.27:378684A
+×£p=Ê4ÀHÅ’ùåR<https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png
 ‡
 
-1404/07/1914:11õè¨Ç"Zcash*Ø²Ú©Ø´2258.82:30035507A¸…ëQ8'@Høÿ©ÖR<https://s2.coinmarketcap.com/static/img/coins/64x64/1437.png
-
-
-1404/07/1914:11õè¨Ç"OKB*Ø§ÙˆÚ©ÛŒâ€ŒØ¨ÛŒ2180.82:20984496A
-×£p=Š(ÀHÛÎ×’R<https://s2.coinmarketcap.com/static/img/coins/64x64/3897.png
+1404/07/1914:21Íí¨Ç"Zcash*Ø²Ú©Ø´2266.04:30821837Aö(\Âu,@Hì³­R<https://s2.coinmarketcap.com/static/img/coins/64x64/1437.png
 ’
 
-1404/07/1914:11õè¨Ç"Uniswap*ÛŒÙˆÙ†ÛŒâ€ŒØ³ÙˆØ§Ù¾26.02:698236Aáz®Ga:ÀHñí³R<https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png
+1404/07/1914:21Íí¨Ç"Uniswap*ÛŒÙˆÙ†ÛŒâ€ŒØ³ÙˆØ§Ù¾26.02:697320A¤p=
+×c:ÀH‚‘R<https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png
+
+
+1404/07/1914:21Íí¨Ç"OKB*Ø§ÙˆÚ©ÛŒâ€ŒØ¨ÛŒ2180.66:20929863AR¸…ëÑ(ÀHä¤…‘R<https://s2.coinmarketcap.com/static/img/coins/64x64/3897.png
 †
 
-1404/07/1914:11õè¨Ç"Aave*Ø¢ÙˆÙ‡2243.03:28203428A\Âõ(\(ÀH¾¡ÚçR<https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png
+1404/07/1914:21Íí¨Ç"Aave*Ø¢ÙˆÙ‡2241.80:28013809Affffff)ÀH‹—çŞR<https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png
 ›
 
-1404/07/1914:11õè¨Ç"Bitget Token*Ø¨ÛŒØªâ€ŒÚ¯Øª ØªÙˆÚ©Ù†24.98:578282A®Gáz”'ÀHÇ†÷R=https://s2.coinmarketcap.com/static/img/coins/64x64/11092.png
+1404/07/1914:21Íí¨Ç"Bitget Token*Ø¨ÛŒØªâ€ŒÚ¯Øª ØªÙˆÚ©Ù†24.98:576676Afffffæ'ÀHôÉªõR=https://s2.coinmarketcap.com/static/img/coins/64x64/11092.png
 ·
 
-1404/07/1914:08”ç¨Ç"World Liberty Financial*&ÙˆØ±Ù„Ø¯ Ù„ÛŒØ¨Ø±ØªÛŒ ÙØ§ÛŒÙ†Ù†Ø´Ø§Ù„20.1328:15405Aq=
-×£°8ÀHÒ­®“R=https://s2.coinmarketcap.com/static/img/coins/64x64/33251.png
+1404/07/1914:19œì¨Ç"World Liberty Financial*&ÙˆØ±Ù„Ø¯ Ù„ÛŒØ¨Ø±ØªÛŒ ÙØ§ÛŒÙ†Ù†Ø´Ø§Ù„20.1322:15320Aáz®G!9ÀHÕÊÃŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/33251.png
 ™
 
-1404/07/1914:11õè¨Ç"	bittensor*Ø¨ÛŒØªâ€ŒØªÙ†Ø³ÙˆØ±2317.80:36880187A)\Âõ¨.ÀHêÌ‡õR=https://s2.coinmarketcap.com/static/img/coins/64x64/22974.png
+1404/07/1914:21Íí¨Ç"	bittensor*Ø¨ÛŒØªâ€ŒØªÙ†Ø³ÙˆØ±2317.72:36808454AÃõ(\Â-ÀHßš×ôR=https://s2.coinmarketcap.com/static/img/coins/64x64/22974.png
 ˜
 
-1404/07/1914:11õè¨Ç"NEAR Protocol*Ù†ÛŒØ± Ù¾Ø±ÙˆØªÚ©Ù„22.50:290399AHáz®Ç2ÀHŒ£ªÓR<https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png
+1404/07/1914:21Íí¨Ç"NEAR Protocol*Ù†ÛŒØ± Ù¾Ø±ÙˆØªÚ©Ù„22.49:289014A®Gázn3ÀHµÄŞÎR<https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png
 ˆ
 
-1404/07/1914:11õè¨Ç"Ethena*Ø§ØªÙ†Ø§20.4247:49287A¸…ëQ¸6ÀH‰¦©R=https://s2.coinmarketcap.com/static/img/coins/64x64/30171.png
+1404/07/1914:21Íí¨Ç"Ethena*Ø§ØªÙ†Ø§20.4239:49107Afffffæ6ÀHêÃ³¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/30171.png
 ‰
 
-1404/07/1914:11õè¨Ç"Pepe*Ù¾Ù¾Ù‡2
-0.00000720:0.8360A=
-×£p=6ÀHĞõÿ¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/24478.png
+1404/07/1914:21Íí¨Ç"Pepe*Ù¾Ù¾Ù‡2
+0.00000720:0.8342A…ëQ¸^6ÀH¬ì»¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/24478.png
 ˆ
 
-1404/07/1914:11õè¨Ç"Aptos*
-Ø¢Ù¾ØªÙˆØ³23.95:458330Aš™™™™4ÀHÁŞÍ¯
+1404/07/1914:21Íí¨Ç"Aptos*
+Ø¢Ù¾ØªÙˆØ³23.91:452641Aáz®G!5ÀHëğ­¡
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/21794.png
 Ì
 
-1404/07/1914:11õè¨Ç"World Liberty Financial USD*6ÙˆØ±Ù„Ø¯ Ù„ÛŒØ¨Ø±ØªÛŒ ÙØ§ÛŒÙ†Ù†Ø´Ø§Ù„ ÛŒÙˆØ§Ø³â€ŒØ¯ÛŒ20.9998:116028A{®Gáz”?Hä¯–Ü	R=https://s2.coinmarketcap.com/static/img/coins/64x64/36148.png
-œ
+1404/07/1914:21Íí¨Ç"World Liberty Financial USD*6ÙˆØ±Ù„Ø¯ Ù„ÛŒØ¨Ø±ØªÛŒ ÙØ§ÛŒÙ†Ù†Ø´Ø§Ù„ ÛŒÙˆØ§Ø³â€ŒØ¯ÛŒ21.0000:115848A{®Gáz¤?H•­Ü	R=https://s2.coinmarketcap.com/static/img/coins/64x64/36148.png
+¥
 
-1404/07/1914:11õè¨Ç"
-PayPal USD* Ù¾ÛŒâ€ŒÙ¾Ø§Ù„ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.9998:116022HÜ‹Ò¾	R=https://s2.coinmarketcap.com/static/img/coins/64x64/27772.png
+1404/07/1914:21Íí¨Ç"
+PayPal USD* Ù¾ÛŒâ€ŒÙ¾Ø§Ù„ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.9996:115803A{®Gáz”¿H©ì´¾	R=https://s2.coinmarketcap.com/static/img/coins/64x64/27772.png
 ˆ
 
-1404/07/1914:09óç¨Ç"Ondo*
-Ø§ÙˆÙ†Ø¯Ùˆ20.7552:87599AÂõ(\-ÀHÒ½ÔñR=https://s2.coinmarketcap.com/static/img/coins/64x64/21159.png
+1404/07/1914:21Íí¨Ç"Ondo*
+Ø§ÙˆÙ†Ø¯Ùˆ20.7556:87543A®Gáz.-ÀH¶‹£òR=https://s2.coinmarketcap.com/static/img/coins/64x64/21159.png
 £
 
-1404/07/1914:11õè¨Ç"Ethereum Classic*Ø§ØªØ±ÛŒÙˆÙ… Ú©Ù„Ø§Ø³ÛŒÚ©215.28:1773667Aš™™™™Y7ÀHÈİ¬áR<https://s2.coinmarketcap.com/static/img/coins/64x64/1321.png
+1404/07/1914:21Íí¨Ç"Ethereum Classic*Ø§ØªØ±ÛŒÙˆÙ… Ú©Ù„Ø§Ø³ÛŒÚ©215.29:1770942AÍÌÌÌÌL7ÀHŞñÃáR<https://s2.coinmarketcap.com/static/img/coins/64x64/1321.png
 
 
-1404/07/1914:11õè¨Ç"MemeCore*Ù…ÛŒÙ…â€ŒÚ©ÙˆØ±22.24:259492Aq=
-×£ğ!@HÖß«ÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/35491.png
+1404/07/1914:21Íí¨Ç"MemeCore*Ù…ÛŒÙ…â€ŒÚ©ÙˆØ±22.25:260280AÃõ(\B"@HÁ¾ÌÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/35491.png
 ˆ
 
-1404/07/1914:11õè¨Ç"Aster*Ø§Ø³ØªØ±21.3599:157812Affffff.ÀH§İëÌR=https://s2.coinmarketcap.com/static/img/coins/64x64/36341.png
+1404/07/1914:21Íí¨Ç"Aster*Ø§Ø³ØªØ±21.3684:158535A{®Gáz,ÀH”ƒâÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/36341.png
 ”
 
-1404/07/1914:11õè¨Ç"	Worldcoin*ÙˆØ±Ù„Ø¯Ú©ÙˆÛŒÙ†20.9744:113083A)\Âõh5ÀHç œıR=https://s2.coinmarketcap.com/static/img/coins/64x64/13502.png
+1404/07/1914:21Íí¨Ç"	Worldcoin*ÙˆØ±Ù„Ø¯Ú©ÙˆÛŒÙ†20.9759:113064Aš™™™™™5ÀH¥‹åşR=https://s2.coinmarketcap.com/static/img/coins/64x64/13502.png
 ª
 
-1404/07/1914:11õè¨Ç"Jupiter Perps LP*!Ú˜ÙˆÙ¾ÛŒØªØ± Ù¾Ø±Ù¾Ø³ Ø§Ù„â€ŒÙ¾ÛŒ25.35:620421A®Gáz®ÀHÙ®•õR=https://s2.coinmarketcap.com/static/img/coins/64x64/28853.png
+1404/07/1914:21Íí¨Ç"Jupiter Perps LP*!Ú˜ÙˆÙ¾ÛŒØªØ± Ù¾Ø±Ù¾Ø³ Ø§Ù„â€ŒÙ¾ÛŒ25.35:619448AÂõ(\ÀHãáôR=https://s2.coinmarketcap.com/static/img/coins/64x64/28853.png
 ¹
 
-1404/07/1914:08”ç¨Ç"Polygon Ecosystem Token*(Ù¾Ø§Ù„ÛŒÚ¯Ø§Ù† Ø§Ú©ÙˆØ³ÛŒØ³ØªÙ… ØªÙˆÚ©Ù†20.1947:22588A33333³1ÀH‚±ŞĞR=https://s2.coinmarketcap.com/static/img/coins/64x64/28321.png
+1404/07/1914:21Íí¨Ç"Polygon Ecosystem Token*(Ù¾Ø§Ù„ÛŒÚ¯Ø§Ù† Ø§Ú©ÙˆØ³ÛŒØ³ØªÙ… ØªÙˆÚ©Ù†20.1941:22492AÍÌÌÌÌ2ÀH¬ıáÍR=https://s2.coinmarketcap.com/static/img/coins/64x64/28321.png
 œ
 
-1404/07/1914:11õè¨Ç"KuCoin Shares*Ú©ÙˆÚ©ÙˆÛŒÙ† Ø´ÛŒØ±Ø²214.40:1671641A×£p=
-×ÀHÓ®°ûR<https://s2.coinmarketcap.com/static/img/coins/64x64/2087.png
-Š
-
-1404/07/1914:11õè¨Ç"Story*Ø§Ø³ØªÙˆØ±ÛŒ25.84:677291A=
-×£p}@ÀHÒ‡êR=https://s2.coinmarketcap.com/static/img/coins/64x64/35626.png
+1404/07/1914:21Íí¨Ç"KuCoin Shares*Ú©ÙˆÚ©ÙˆÛŒÙ† Ø´ÛŒØ±Ø²214.41:1668926AÃõ(\ÂÀH‰ã¸ûR<https://s2.coinmarketcap.com/static/img/coins/64x64/2087.png
 À
 
-1404/07/1914:05Ôå¨Ç"Ethena Labs (USDTb)*2Ø§ØªÙ†Ø§ Ù„Ø¨Ø² (ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒâ€ŒØªÛŒâ€ŒØ¨ÛŒ)21.0003:116085A¸…ëQ¸®?HˆËéR=https://s2.coinmarketcap.com/static/img/coins/64x64/34691.png
+1404/07/1914:19œì¨Ç"Ethena Labs (USDTb)*2Ø§ØªÙ†Ø§ Ù„Ø¨Ø² (ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒâ€ŒØªÛŒâ€ŒØ¨ÛŒ)21.0002:115873Aš™™™™™©?Hƒ¹¼éR=https://s2.coinmarketcap.com/static/img/coins/64x64/34691.png
+Š
+
+1404/07/1914:21Íí¨Ç"Story*Ø§Ø³ØªÙˆØ±ÛŒ25.74:664725A…ëQ¸AÀHÒ¿¦ÛR=https://s2.coinmarketcap.com/static/img/coins/64x64/35626.png
 ¨
 
-1404/07/1914:11õè¨Ç"Internet Computer*Ø§ÛŒÙ†ØªØ±Ù†Øª Ú©Ø§Ù…Ù¾ÛŒÙˆØªØ±23.32:385559Afffff¦8ÀH©Ô ÕR<https://s2.coinmarketcap.com/static/img/coins/64x64/8916.png
+1404/07/1914:21Íí¨Ç"Internet Computer*Ø§ÛŒÙ†ØªØ±Ù†Øª Ú©Ø§Ù…Ù¾ÛŒÙˆØªØ±23.31:383403A…ëQ¸9ÀHî¸öÑR<https://s2.coinmarketcap.com/static/img/coins/64x64/8916.png
 ’
 
-1404/07/1914:11õè¨Ç"Arbitrum*Ø¢Ø±Ø¨ÛŒØªØ±ÙˆÙ…20.3196:37089Aáz®Gá8ÀHó‘¿·R=https://s2.coinmarketcap.com/static/img/coins/64x64/11841.png
+1404/07/1914:21Íí¨Ç"Arbitrum*Ø¢Ø±Ø¨ÛŒØªØ±ÙˆÙ…20.3192:36981A)\Âõ(9ÀHóÆ½¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/11841.png
 ‚
 
-1404/07/1914:11õè¨Ç"Pi*Ù¾Ø§ÛŒ20.2076:24093Aáz®Gá'ÀH¯°R=https://s2.coinmarketcap.com/static/img/coins/64x64/35697.png
+1404/07/1914:21Íí¨Ç"Pi*Ù¾Ø§ÛŒ20.2081:24110A…ëQ¸'ÀHËË«²R=https://s2.coinmarketcap.com/static/img/coins/64x64/35697.png
 ˆ
 
-1404/07/1914:11õè¨Ç"Kaspa*
-Ú©Ø§Ø³Ù¾Ø§20.0631:7317A¤p=
-×£.ÀHò–Ó¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/20396.png
+1404/07/1914:21Íí¨Ç"Kaspa*
+Ú©Ø§Ø³Ù¾Ø§20.0631:7315Aš™™™™™.ÀHÌ‚ê¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/20396.png
 ‘
 
-1404/07/1914:11õè¨Ç"Algorand*Ø§Ù„Ú¯ÙˆØ±Ø§Ù†Ø¯20.1903:22082A\Âõ(Ü+ÀHÂŞ¬ŸR<https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png
+1404/07/1914:21Íí¨Ç"Algorand*Ø§Ù„Ú¯ÙˆØ±Ø§Ù†Ø¯20.1901:22026Affffff,ÀH×›×R<https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png
 Š
 
-1404/07/1914:11õè¨Ç"Cosmos*Ú©Ø§Ø²Ù…ÙˆØ³23.27:379327AÍÌÌÌÌ4ÀH§ô¥àR<https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png
+1404/07/1914:21Íí¨Ç"Cosmos*Ú©Ø§Ø²Ù…ÙˆØ³23.26:377113A¸…ëQx4ÀH€õİR<https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png
 Œ
 
-1404/07/1914:11õè¨Ç"VeChain*ÙˆÛŒâ€ŒÚ†ÛŒÙ†20.0176:2045AR¸…ë‘4ÀHßÕ«ÒR<https://s2.coinmarketcap.com/static/img/coins/64x64/3077.png
+1404/07/1914:21Íí¨Ç"VeChain*ÙˆÛŒâ€ŒÚ†ÛŒÙ†20.0177:2045A®Gáz”4ÀHå¨éÓR<https://s2.coinmarketcap.com/static/img/coins/64x64/3077.png
 
 
-1404/07/1914:11õè¨Ç"Pudgy Penguins*Ù¾Ø§Ø¬ÛŒ Ù¾Ù†Ú¯ÙˆØ¦Ù†Ø²20.0241:2796AR¸…ëÑ5ÀH İ£ÒR=https://s2.coinmarketcap.com/static/img/coins/64x64/34466.png
-”
-
-1404/07/1914:11õè¨Ç"Pump.fun*Ù¾Ø§Ù…Ù¾ ÙØ§Ù†20.004133:479.60AHáz®8ÀHíÌ¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/36507.png
+1404/07/1914:21Íí¨Ç"Pudgy Penguins*Ù¾Ø§Ø¬ÛŒ Ù¾Ù†Ú¯ÙˆØ¦Ù†Ø²20.0240:2780Aq=
+×£p6ÀHÃŸÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/34466.png
 ƒ
 
-1404/07/1914:11õè¨Ç"FLARE*ÙÙ„Ø±20.0191:2216A…ëQ¸-ÀHú™ù´R<https://s2.coinmarketcap.com/static/img/coins/64x64/7950.png
+1404/07/1914:21Íí¨Ç"FLARE*ÙÙ„Ø±20.0191:2212AHáz®G-ÀHÅ¶ì´R<https://s2.coinmarketcap.com/static/img/coins/64x64/7950.png
+”
+
+1404/07/1914:21Íí¨Ç"Pump.fun*Ù¾Ø§Ù…Ù¾ ÙØ§Ù†20.004103:475.37AìQ¸…«8ÀHŠ¤Ï´R=https://s2.coinmarketcap.com/static/img/coins/64x64/36507.png
  
 
-1404/07/1914:05Ôå¨Ç"BFUSD* Ø¨ÛŒâ€ŒØ§Ùâ€ŒÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0005:116112Aš™™™™™©?Hñè¯R=https://s2.coinmarketcap.com/static/img/coins/64x64/37760.png
+1404/07/1914:19œì¨Ç"BFUSD* Ø¨ÛŒâ€ŒØ§Ùâ€ŒÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0003:115891A{®Gáz¤?Húİï®R=https://s2.coinmarketcap.com/static/img/coins/64x64/37760.png
 ¢
 
-1404/07/1914:11õè¨Ç"Falcon Finance*ÙØ§Ù„Ú©ÙˆÙ† ÙØ§ÛŒÙ†Ù†Ø³20.9955:115530A{®Gáz´¿H‡¼ãšR=https://s2.coinmarketcap.com/static/img/coins/64x64/35721.png
+1404/07/1914:21Íí¨Ç"Falcon Finance*ÙØ§Ù„Ú©ÙˆÙ† ÙØ§ÛŒÙ†Ù†Ø³20.9954:115320A
+×£p=
+·¿HÌ‹ÙšR=https://s2.coinmarketcap.com/static/img/coins/64x64/35721.png
 ƒ
 
-1404/07/1914:11áè¨Ç"Sei*Ø³ÙÛŒ20.2231:25886A…ëQ¸E6ÀHğİâ‹R=https://s2.coinmarketcap.com/static/img/coins/64x64/23149.png
+1404/07/1914:21Íí¨Ç"Sei*Ø³ÙÛŒ20.2232:25854A)\Âõh6ÀHÏéˆŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/23149.png
 •
 
-1404/07/1914:11áè¨Ç"Render Token*Ø±Ù†Ø¯Ø± ØªÙˆÚ©Ù†22.59:300719A®Gázn4ÀH¯‹ã€R<https://s2.coinmarketcap.com/static/img/coins/64x64/5690.png
+1404/07/1914:21Íí¨Ç"Render Token*Ø±Ù†Ø¯Ø± ØªÙˆÚ©Ù†22.59:299545AÍÌÌÌÌÌ4ÀH†ô­ÿR<https://s2.coinmarketcap.com/static/img/coins/64x64/5690.png
 ”
 
-1404/07/1914:11õè¨Ç"	GateToken*Ú¯ÛŒØªâ€ŒØªÙˆÚ©Ù†215.89:1844601A…ëQ¸…ÿ¿H¸ÓªğR<https://s2.coinmarketcap.com/static/img/coins/64x64/4269.png
+1404/07/1914:21Íí¨Ç"	GateToken*Ú¯ÛŒØªâ€ŒØªÙˆÚ©Ù†215.87:1838791AHáz®GÀHÄÜµïR<https://s2.coinmarketcap.com/static/img/coins/64x64/4269.png
 
 
-1404/07/1914:11õè¨Ç"PAX Gold*Ù¾AX Ú¯Ù„Ø¯24001:	464367080AÃõ(\ÂÅ¿H‹ø‘ÉR<https://s2.coinmarketcap.com/static/img/coins/64x64/4705.png
+1404/07/1914:21Íí¨Ç"PAX Gold*Ù¾AX Ú¯Ù„Ø¯24001:	463584206A333333Ã¿Hûç’ÉR<https://s2.coinmarketcap.com/static/img/coins/64x64/4705.png
 ‹
 
-1404/07/1914:08”ç¨Ç"Bonk*Ø¨ÙˆÙ†Ú©2
-0.00001481:1.7177Aö(\Âµ6ÀH·¶ş¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/23095.png
+1404/07/1914:21Íí¨Ç"Bonk*Ø¨ÙˆÙ†Ú©2
+0.00001482:1.7175AìQ¸…«6ÀH„üÍÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/23095.png
 „
 
-1404/07/1914:11áè¨Ç"ChainOpera AI26.03:699478A)\Âõ(%ÀH±›Ù´R=https://s2.coinmarketcap.com/static/img/coins/64x64/38489.png
-•
-
-1404/07/1914:11õè¨Ç"Filecoin*ÙØ§ÛŒÙ„â€ŒÚ©ÙˆÛŒÙ†21.6805:195016A)\Âõ(=ÀHï±Ù²R<https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png
+1404/07/1914:21Íí¨Ç"ChainOpera AI26.03:698920AÃõ(\B$ÀHÄºšµR=https://s2.coinmarketcap.com/static/img/coins/64x64/38489.png
 
 
-1404/07/1914:11õè¨Ç"OFFICIAL TRUMP*Ø¢ÙÛŒØ´Ø§Ù„ ØªØ±Ø§Ù…Ù¾25.88:682288A{®Gá:5ÀH›†Ø°R=https://s2.coinmarketcap.com/static/img/coins/64x64/35336.png
+1404/07/1914:21Íí¨Ç"OFFICIAL TRUMP*Ø¢ÙÛŒØ´Ø§Ù„ ØªØ±Ø§Ù…Ù¾25.88:681002AHáz®G5ÀHŒÊÊ°R=https://s2.coinmarketcap.com/static/img/coins/64x64/35336.png
+•
+
+1404/07/1914:21Íí¨Ç"Filecoin*ÙØ§ÛŒÙ„â€ŒÚ©ÙˆÛŒÙ†21.6667:193091A
+×£p=Ê=ÀHçã‹®R<https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png
 ¤
 
-1404/07/1914:11õè¨Ç"XDC Network*!Ø§ÛŒÚ©Ø³â€ŒØ¯ÛŒâ€ŒØ³ÛŒ Ù†ØªÙˆØ±Ú©20.0649:7535A     €%ÀHİ‡Â¥R<https://s2.coinmarketcap.com/static/img/coins/64x64/2634.png
-
-
-1404/07/1914:08”ç¨Ç"Jupiter*Ú˜ÙˆÙ¾ÛŒØªØ±20.3439:39891A¸…ëQø3ÀH±‘‰‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/29210.png
+1404/07/1914:21Íí¨Ç"XDC Network*!Ø§ÛŒÚ©Ø³â€ŒØ¯ÛŒâ€ŒØ³ÛŒ Ù†ØªÙˆØ±Ú©20.0649:7522A…ëQ¸…%ÀH‡£Æ¥R<https://s2.coinmarketcap.com/static/img/coins/64x64/2634.png
 ¡
 
-1404/07/1914:11õè¨Ç"SPX6900*Ø§Ø³â€ŒÙ¾ÛŒâ€ŒØ§ÛŒÚ©Ø³ Û¶Û¹Û°Û°21.1670:135435A
-×£p=
-4ÀHõ¢‹†R=https://s2.coinmarketcap.com/static/img/coins/64x64/28081.png
-¶
-
-1404/07/1914:11õè¨Ç"First Digital USD**ÙØ±Ø³Øª Ø¯ÛŒØ¬ÛŒØªØ§Ù„ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.9986:115884AìQ¸…ë±?H“ñ……R=https://s2.coinmarketcap.com/static/img/coins/64x64/26081.png
-Š
-
-1404/07/1914:11õè¨Ç"Quant*
-Ú©ÙˆØ§Ù†Øª289.44:10379866A×£p=
-×%ÀHµ‘ó‚R<https://s2.coinmarketcap.com/static/img/coins/64x64/3155.png
-
-
-1404/07/1914:11õè¨Ç"Immutable X*Ø§ÛŒÙ…ÛŒÙˆØªØ¨Ù„ Ø§ÛŒÚ©Ø³20.5218:60551Aáz®Ga8ÀH·ÓàèR=https://s2.coinmarketcap.com/static/img/coins/64x64/10603.png
-“
-
-1404/07/1914:11õè¨Ç"Tether Gold*ØªØªØ± Ú¯Ù„Ø¯24013:	465736669AffffffÖ?HËáá×R<https://s2.coinmarketcap.com/static/img/coins/64x64/5176.png
-–
-
-1404/07/1914:11õè¨Ç"PancakeSwap*Ù¾Ù†Ú©ÛŒÚ© Ø³ÙˆØ§Ù¾22.84:330081A
-×£p=Š6ÀH¸ßÒR<https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png
-‘
-
-1404/07/1914:11õè¨Ç"Fetch.ai*ÙÚ† Ø§ÛŒâ€ŒØ¢ÛŒ20.4079:47333Aq=
-×£°0ÀH»˜»ÍR<https://s2.coinmarketcap.com/static/img/coins/64x64/3773.png
-‚
-
-1404/07/1914:11õè¨Ç"
-DoubleZero20.2783:32297A¸…ëQ¸/ÀHÇ×ÌR=https://s2.coinmarketcap.com/static/img/coins/64x64/38515.png
-’
-
-1404/07/1914:11õè¨Ç"	Injective*Ø§ÛŒÙ†Ø¬Ú©ØªÛŒÙˆ29.15:1061612AÍÌÌÌÌ9ÀHƒŠ´R<https://s2.coinmarketcap.com/static/img/coins/64x64/7226.png
-’
-
-1404/07/1914:11õè¨Ç"Optimism*Ø¢Ù¾ØªÛŒÙ…ÛŒØ²Ù…20.4960:57564AÃõ(\B?ÀH«äØ¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/11840.png
-•
-
-1404/07/1914:11õè¨Ç"	Fasttoken*ÙØ³Øªâ€ŒØªÙˆÚ©Ù†21.9916:231122A…ëQ¸…ã¿HØ ¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/22615.png
-—
-
-1404/07/1914:09óç¨Ç"
-Ripple USD*Ø±ÛŒÙ¾Ù„ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.9998:115961Hóª¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/34387.png
-~
-
-1404/07/1914:11õè¨Ç"Plasma20.4657:54044AHáz®§AÀHºôÚR=https://s2.coinmarketcap.com/static/img/coins/64x64/36645.png
-
-
-1404/07/1914:11õè¨Ç"Celestia*Ø³Ù„Ø³ØªÛŒØ§21.0053:116668AHáz®?ÀHá‘ÿ„R=https://s2.coinmarketcap.com/static/img/coins/64x64/22861.png
-‰
-
-1404/07/1914:11õè¨Ç"Stox*Ø§Ø³ØªØ§Ú©Ø³20.4473:51914Afffff&7ÀH„šã€R<https://s2.coinmarketcap.com/static/img/coins/64x64/4847.png
-©
-
-1404/07/1914:11õè¨Ç"Aerodrome Finance*Ø§ÛŒØ±ÙˆØ¯Ø±ÙˆÙ… ÙØ§ÛŒÙ†Ù†Ø³20.8753:101580A)\Âõ¨1ÀH‹„€úR=https://s2.coinmarketcap.com/static/img/coins/64x64/29270.png
-“
-
-1404/07/1914:11õè¨Ç"Lido DAO*Ù„ÛŒØ¯Ùˆ Ø¯Ø§Ø¦Ùˆ20.8725:101258A¤p=
-×c:ÀHõ¼ÚôR<https://s2.coinmarketcap.com/static/img/coins/64x64/8000.png
-†
-
-1404/07/1914:11áè¨Ç"Nexo*Ù†Ú©Ø³Ùˆ21.1814:137104A)\Âõ(ÀHÂÂ€ìR<https://s2.coinmarketcap.com/static/img/coins/64x64/2694.png
-”
-
-1404/07/1914:11õè¨Ç"Global Dollar*Ú¯Ù„ÙˆØ¨Ø§Ù„ Ø¯Ù„Ø§Ø±20.9999:116033H¼šåéR=https://s2.coinmarketcap.com/static/img/coins/64x64/33793.png
- 
-
-1404/07/1914:11õè¨Ç"Curve DAO Token*Ú©Ø±Ùˆ Ø¯Ø§Ø¦Ùˆ ØªÙˆÚ©Ù†20.5378:62412A¸…ëQ8;ÀH°¡óæR<https://s2.coinmarketcap.com/static/img/coins/64x64/6538.png
-ˆ
-
-1404/07/1914:11õè¨Ç"ZEEBU*Ø²ÛŒØ¨Ùˆ21.7167:199225A=
-×£p=ú¿HÉüËÒR=https://s2.coinmarketcap.com/static/img/coins/64x64/27765.png
-‰
-
-1404/07/1914:11õè¨Ç"	The Graph*Ú¯Ø±Ø§Ù20.0665:7717AìQ¸…k2ÀHß€ÖÍR<https://s2.coinmarketcap.com/static/img/coins/64x64/6719.png
-µ
-
-1404/07/1914:11õè¨Ç"Ondo US Dollar Yield*&Ø§ÙˆÙ†Ø¯Ùˆ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ ÛŒÛŒÙ„Ø¯21.0956:127140A)\Âõ(¼¿Hùç¶ÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/29256.png
-‰
-
-1404/07/1914:11õè¨Ç"Saros*
-Ø³Ø§Ø±ÙˆØ³20.2606:30241A)\Âõ(ÀHÆ´–ÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/29082.png
-™
-
-1404/07/1914:11õè¨Ç"	Floki Inu*ÙÙ„ÙˆÚ©ÛŒ Ø§ÛŒÙ†Ùˆ2
-0.00007114:8.26Aš™™™™Ù7ÀHûÌÔÃR=https://s2.coinmarketcap.com/static/img/coins/64x64/10804.png
-†
-
-1404/07/1914:11õè¨Ç"Kaia*Ú©Ø§ÛŒØ§20.1099:12759A®Gázî4ÀHå¹ôÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/32880.png
-•
-
-1404/07/1914:11õè¨Ç"ApolloX*Ø¢Ù¾ÙˆÙ„Ùˆ Ø§ÛŒÚ©Ø³21.2587:146070A{®GázÀHÕ¾Í¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/16334.png
-™
-
-1404/07/1914:11õè¨Ç"Pyth Network*Ù¾Ø§ÛŒØª Ù†ØªÙˆØ±Ú©20.1144:13281A®Gáz”:ÀHİåä¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/28177.png
-§
-
-1404/07/1914:11õè¨Ç"MYX Finance*#Ø§Ù…â€ŒÙˆØ§ÛŒâ€ŒØ§Ú©Ø³ ÙØ§ÛŒÙ†Ù†Ø³23.17:367945A®GáztBÀH›àÌ·R=https://s2.coinmarketcap.com/static/img/coins/64x64/36410.png
-Œ
-
-1404/07/1914:11õè¨Ç"Newton*
-Ù†ÛŒÙˆØªÙ†20.007692:892.69A…ëQ¸…ÀHò¥çªR<https://s2.coinmarketcap.com/static/img/coins/64x64/3871.png
-†
-
-1404/07/1914:11õè¨Ç"Pendle*Ù¾Ù†Ø¯Ù„23.68:426897A
-×£p=
-2ÀHÍõ—ªR<https://s2.coinmarketcap.com/static/img/coins/64x64/9481.png
-
-
-1404/07/1914:11õè¨Ç"ether.fi*Ø§ØªØ±ÙØ§ÛŒ21.2097:140381A      8ÀH¸ë©R=https://s2.coinmarketcap.com/static/img/coins/64x64/29814.png
-†
-
-1404/07/1914:11õè¨Ç"Tezos*ØªØ²ÙˆØ³20.5819:67529AìQ¸…ë,ÀHƒÃ¦R<https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png
-Œ
-
-1404/07/1914:11õè¨Ç"Usual*ÛŒÙˆØ²ÙˆØ§Ù„20.9983:115857A{®Gáz”?H¤Ò¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/32307.png
-¦
-
-1404/07/1914:11õè¨Ç"Trust Wallet Token*ØªØ±Ø§Ø³Øª ÙˆÙ„Øª ØªÙˆÚ©Ù†21.4086:163462AffffffÀHçÌÛ R<https://s2.coinmarketcap.com/static/img/coins/64x64/5964.png
-‡
-
-1404/07/1914:11õè¨Ç"IOTA*
-Ø¢ÛŒÙˆØªØ§20.1468:17032A      2ÀHâ‚·R<https://s2.coinmarketcap.com/static/img/coins/64x64/1720.png
-®
-
-1404/07/1914:11õè¨Ç"Ethereum Name Service*Ø§ØªØ±ÛŒÙˆÙ… Ù†ÛŒÙ… Ø³Ø±ÙˆÛŒØ³215.85:1839570AìQ¸…«8ÀH†€ãšR=https://s2.coinmarketcap.com/static/img/coins/64x64/13855.png
-ˆ
-
-1404/07/1914:11õè¨Ç"Beldex*
-Ø¨Ù„Ø¯Ú©Ø³20.0781:9059AHáz®GÀHÿ¨¥–R<https://s2.coinmarketcap.com/static/img/coins/64x64/3987.png
-‹
-
-1404/07/1914:11õè¨Ç"Morpho*
-Ù…ÙˆØ±ÙÙˆ21.6597:192609A{®Gáz¤?HºàŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/34104.png
-‡
-
-1404/07/1914:11õè¨Ç"Aethir*Ø§Ø«ÛŒØ±20.0458:5313A
-×£p=Š-ÀHé‰ÆŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/30083.png
-“
-
-1404/07/1914:11õè¨Ç"	LayerZero*Ù„ÛŒØ± Ø²ÛŒØ±Ùˆ21.8662:216571AìQ¸…+2ÀH­©¢†R=https://s2.coinmarketcap.com/static/img/coins/64x64/26997.png
-•
-
-1404/07/1914:11õè¨Ç"Starknet*Ø§Ø³ØªØ§Ø±Ú©â€ŒÙ†Øª20.1260:14623AHáz®<ÀHÂÃ¼ƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/22691.png
-’
-
-1404/07/1914:11õè¨Ç"The Sandbox*Ø³Ù†Ø¯Ø¨Ø§Ú©Ø³20.2059:23900A…ëQ¸Å6ÀHé£Ñ€R<https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png
-„
-
-1404/07/1914:11õè¨Ç"Gala*Ú¯Ø§Ù„Ø§20.0115:1338A…ëQ¸…:ÀHá‹æıR<https://s2.coinmarketcap.com/static/img/coins/64x64/7080.png
-
-
-1404/07/1914:11õè¨Ç"Conflux*Ú©Ø§Ù†ÙÙ„Ø§Ú©Ø³20.1030:11953A=
-×£pı:ÀHêĞüR<https://s2.coinmarketcap.com/static/img/coins/64x64/7334.png
-„
-
-1404/07/1914:11õè¨Ç"DeXe*Ø¯Ú©Ø³ÛŒ26.30:731418Aq=
-×£EÀHÛÛÒûR<https://s2.coinmarketcap.com/static/img/coins/64x64/7326.png
+1404/07/1914:21Íí¨Ç"SPX6900*Ø§Ø³â€ŒÙ¾ÛŒâ€ŒØ§ÛŒÚ©Ø³ Û¶Û¹Û°Û°21.1691:135447A\Âõ(\4ÀHòè‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/28081.png
 
 
-1404/07/1914:11õè¨Ç"Raydium*Ø±ÛŒØ¯ÛŒÙˆÙ…21.9659:228143A
-×£p=J:ÀHÎ§¬ûR<https://s2.coinmarketcap.com/static/img/coins/64x64/8526.png
-~
+1404/07/1914:21Íí¨Ç"Jupiter*Ú˜ÙˆÙ¾ÛŒØªØ±20.3431:39752AHáz®‡4ÀH¬¾ï…R=https://s2.coinmarketcap.com/static/img/coins/64x64/29210.png
+¶
 
-1404/07/1914:11õè¨Ç"USDai21.0295:119479A\Âõ(\÷¿HÆŸöR=https://s2.coinmarketcap.com/static/img/coins/64x64/38562.png
-
+1404/07/1914:21Íí¨Ç"First Digital USD**ÙØ±Ø³Øª Ø¯ÛŒØ¬ÛŒØªØ§Ù„ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.9987:115703AìQ¸…ë±?H¿º…R=https://s2.coinmarketcap.com/static/img/coins/64x64/26081.png
+Š
 
-1404/07/1914:11õè¨Ç"Dash*Ø¯Ø´241.13:4773298AHáz®Ç)ÀHÄï‚ôR;https://s2.coinmarketcap.com/static/img/coins/64x64/131.png
+1404/07/1914:21Íí¨Ç"Quant*
+Ú©ÙˆØ§Ù†Øª288.88:10297542AR¸…ëQ'ÀHåÌ×ÿR<https://s2.coinmarketcap.com/static/img/coins/64x64/3155.png
+
+
+1404/07/1914:21Íí¨Ç"Immutable X*Ø§ÛŒÙ…ÛŒÙˆØªØ¨Ù„ Ø§ÛŒÚ©Ø³20.5209:60343AìQ¸…«8ÀHØ½óçR=https://s2.coinmarketcap.com/static/img/coins/64x64/10603.png
+“
+
+1404/07/1914:21Íí¨Ç"Tether Gold*ØªØªØ± Ú¯Ù„Ø¯24013:	464917570AÃõ(\ÂÕ?Hû‡Ş×R<https://s2.coinmarketcap.com/static/img/coins/64x64/5176.png
 –
 
-1404/07/1914:11õè¨Ç"	JasmyCoin*Ø¬Ø§Ø³Ù…ÛŒâ€ŒÚ©ÙˆÛŒÙ†20.0103:1199A…ëQ¸^1ÀHÃæÅóR<https://s2.coinmarketcap.com/static/img/coins/64x64/8425.png
+1404/07/1914:21Íí¨Ç"PancakeSwap*Ù¾Ù†Ú©ÛŒÚ© Ø³ÙˆØ§Ù¾22.84:328869A…ëQ¸Å6ÀH¡±éÑR<https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png
+‘
+
+1404/07/1914:21Íí¨Ç"Fetch.ai*ÙÚ† Ø§ÛŒâ€ŒØ¢ÛŒ20.4104:47541Aáz®Ga0ÀHÿ“£ĞR<https://s2.coinmarketcap.com/static/img/coins/64x64/3773.png
+‚
+
+1404/07/1914:21Íí¨Ç"
+DoubleZero20.2770:32096Afffff¦0ÀHÎÔÊÊR=https://s2.coinmarketcap.com/static/img/coins/64x64/38515.png
+’
+
+1404/07/1914:21Íí¨Ç"	Injective*Ø§ÛŒÙ†Ø¬Ú©ØªÛŒÙˆ29.13:1057188A\Âõ(\9ÀHûùÿ²R<https://s2.coinmarketcap.com/static/img/coins/64x64/7226.png
+’
+
+1404/07/1914:21Íí¨Ç"Optimism*Ø¢Ù¾ØªÛŒÙ…ÛŒØ²Ù…20.4946:57303A®Gáz”?ÀH›á¿£R=https://s2.coinmarketcap.com/static/img/coins/64x64/11840.png
+•
+
+1404/07/1914:21Íí¨Ç"	Fasttoken*ÙØ³Øªâ€ŒØªÙˆÚ©Ù†21.9938:230993A{®GázÔ¿HŠÙâR=https://s2.coinmarketcap.com/static/img/coins/64x64/22615.png
+ 
+
+1404/07/1914:21Íí¨Ç"
+Ripple USD*Ø±ÛŒÙ¾Ù„ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0003:115887A¸…ëQ¸®?HûûÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/34387.png
+~
+
+1404/07/1914:21Íí¨Ç"Plasma20.4634:53688Aáz®GÁAÀHë¦àR=https://s2.coinmarketcap.com/static/img/coins/64x64/36645.png
+
+
+1404/07/1914:21Íí¨Ç"Celestia*Ø³Ù„Ø³ØªÛŒØ§21.0023:116124A®Gázn?ÀHÑ’ëƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/22861.png
+‰
+
+1404/07/1914:21Íí¨Ç"Stox*Ø§Ø³ØªØ§Ú©Ø³20.4467:51754A×£p=
+W7ÀHóŸ€R<https://s2.coinmarketcap.com/static/img/coins/64x64/4847.png
+©
+
+1404/07/1914:21Íí¨Ç"Aerodrome Finance*Ø§ÛŒØ±ÙˆØ¯Ø±ÙˆÙ… ÙØ§ÛŒÙ†Ù†Ø³20.8745:101314AR¸…ëÑ1ÀHÅ÷ÒùR=https://s2.coinmarketcap.com/static/img/coins/64x64/29270.png
+“
+
+1404/07/1914:21Íí¨Ç"Lido DAO*Ù„ÛŒØ¯Ùˆ Ø¯Ø§Ø¦Ùˆ20.8715:100970A
+×£p=Š:ÀHŒÚ£ôR<https://s2.coinmarketcap.com/static/img/coins/64x64/8000.png
+†
+
+1404/07/1914:21Íí¨Ç"Nexo*Ù†Ú©Ø³Ùˆ21.1807:136784Aáz®GáÀH‰ôâëR<https://s2.coinmarketcap.com/static/img/coins/64x64/2694.png
+
+
+1404/07/1914:21Íí¨Ç"Global Dollar*Ú¯Ù„ÙˆØ¨Ø§Ù„ Ø¯Ù„Ø§Ø±21.0003:115889Aš™™™™™©?H»˜úéR=https://s2.coinmarketcap.com/static/img/coins/64x64/33793.png
+ 
+
+1404/07/1914:21Íí¨Ç"Curve DAO Token*Ú©Ø±Ùˆ Ø¯Ø§Ø¦Ùˆ ØªÙˆÚ©Ù†20.5345:61920AR¸…ëÑ;ÀHš®ÖäR<https://s2.coinmarketcap.com/static/img/coins/64x64/6538.png
+ˆ
+
+1404/07/1914:21Íí¨Ç"ZEEBU*Ø²ÛŒØ¨Ùˆ21.7174:198964A®Gáz®÷¿H âÜÒR=https://s2.coinmarketcap.com/static/img/coins/64x64/27765.png
+‰
+
+1404/07/1914:21Íí¨Ç"	The Graph*Ú¯Ø±Ø§Ù20.0665:7707Aš™™™™™2ÀH’åÍR<https://s2.coinmarketcap.com/static/img/coins/64x64/6719.png
+µ
+
+1404/07/1914:21Íí¨Ç"Ondo US Dollar Yield*&Ø§ÙˆÙ†Ø¯Ùˆ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ ÛŒÛŒÙ„Ø¯21.0957:126944A
+×£p=
+·¿H† ½ÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/29256.png
+‰
+
+1404/07/1914:21Íí¨Ç"Saros*
+Ø³Ø§Ø±ÙˆØ³20.2597:30092AÂõ(\ÀH·¿ÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/29082.png
 ™
 
-1404/07/1914:11õè¨Ç"	dogwifhat*Ø¯Ø§Ú¯â€ŒÙˆÛŒÙâ€ŒÙ‡Øª20.5110:59303A)\Âõ(=ÀHõ§±óR=https://s2.coinmarketcap.com/static/img/coins/64x64/28752.png
+1404/07/1914:21Íí¨Ç"	Floki Inu*ÙÙ„ÙˆÚ©ÛŒ Ø§ÛŒÙ†Ùˆ2
+0.00007100:8.23A
+×£p=
+8ÀHù…€ÃR=https://s2.coinmarketcap.com/static/img/coins/64x64/10804.png
+†
+
+1404/07/1914:21Íí¨Ç"Kaia*Ú©Ø§ÛŒØ§20.1094:12679A{®Gá:5ÀH§Ø·ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/32880.png
+•
+
+1404/07/1914:21Íí¨Ç"ApolloX*Ø¢Ù¾ÙˆÙ„Ùˆ Ø§ÛŒÚ©Ø³21.2583:145778AÍÌÌÌÌÌÀHÈ†Á¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/16334.png
+™
+
+1404/07/1914:21Íí¨Ç"Pyth Network*Ù¾Ø§ÛŒØª Ù†ØªÙˆØ±Ú©20.1145:13260Afffff¦:ÀHÑŒç¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/28177.png
+§
+
+1404/07/1914:21Íí¨Ç"MYX Finance*#Ø§Ù…â€ŒÙˆØ§ÛŒâ€ŒØ§Ú©Ø³ ÙØ§ÛŒÙ†Ù†Ø³23.19:369512Aq=
+×£PBÀHÊİº¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/36410.png
+Œ
+
+1404/07/1914:21Íí¨Ç"Newton*
+Ù†ÛŒÙˆØªÙ†20.007698:891.84AÂõ(\ÀHùúƒ«R<https://s2.coinmarketcap.com/static/img/coins/64x64/3871.png
+†
+
+1404/07/1914:21Íí¨Ç"Pendle*Ù¾Ù†Ø¯Ù„23.68:426210Afffff&2ÀHÄŸ›ªR<https://s2.coinmarketcap.com/static/img/coins/64x64/9481.png
+
+
+1404/07/1914:21Íí¨Ç"ether.fi*Ø§ØªØ±ÙØ§ÛŒ21.2033:139405AìQ¸…«8ÀHş¼¢¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/29814.png
+†
+
+1404/07/1914:21Íí¨Ç"Tezos*ØªØ²ÙˆØ³20.5814:67357AÃõ(\B-ÀHğ„£¦R<https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png
+Œ
+
+1404/07/1914:21Íí¨Ç"Usual*ÛŒÙˆØ²ÙˆØ§Ù„20.9982:115649A{®Gáz„?H†›¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/32307.png
+¦
+
+1404/07/1914:21Íí¨Ç"Trust Wallet Token*ØªØ±Ø§Ø³Øª ÙˆÙ„Øª ØªÙˆÚ©Ù†21.4033:162572A®GázÀHÒôĞŸR<https://s2.coinmarketcap.com/static/img/coins/64x64/5964.png
+‡
+
+1404/07/1914:21Íí¨Ç"IOTA*
+Ø¢ÛŒÙˆØªØ§20.1465:16969A     @2ÀH¿ÑíœR<https://s2.coinmarketcap.com/static/img/coins/64x64/1720.png
+®
+
+1404/07/1914:21Íí¨Ç"Ethereum Name Service*Ø§ØªØ±ÛŒÙˆÙ… Ù†ÛŒÙ… Ø³Ø±ÙˆÛŒØ³215.82:1833026AÂõ(\Ï8ÀH¦ÉŸšR=https://s2.coinmarketcap.com/static/img/coins/64x64/13855.png
+ˆ
+
+1404/07/1914:21Íí¨Ç"Beldex*
+Ø¨Ù„Ø¯Ú©Ø³20.0780:9039AffffffÀH»â”–R<https://s2.coinmarketcap.com/static/img/coins/64x64/3987.png
+‹
+
+1404/07/1914:21Íí¨Ç"Morpho*
+Ù…ÙˆØ±ÙÙˆ21.6538:191594Aq=
+×£pİ¿H¹ô•‹R=https://s2.coinmarketcap.com/static/img/coins/64x64/34104.png
+‡
+
+1404/07/1914:21Íí¨Ç"Aethir*Ø§Ø«ÛŒØ±20.0456:5287A×£p=
+×-ÀH­³Û‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/30083.png
+“
+
+1404/07/1914:21Íí¨Ç"	LayerZero*Ù„ÛŒØ± Ø²ÛŒØ±Ùˆ21.8626:215786AR¸…ë‘2ÀH¨Íá…R=https://s2.coinmarketcap.com/static/img/coins/64x64/26997.png
+•
+
+1404/07/1914:21Íí¨Ç"Starknet*Ø§Ø³ØªØ§Ø±Ú©â€ŒÙ†Øª20.1262:14622A\Âõ(Ü<ÀHÄÃòƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/22691.png
+’
+
+1404/07/1914:21Íí¨Ç"The Sandbox*Ø³Ù†Ø¯Ø¨Ø§Ú©Ø³20.2050:23748A     @7ÀHÓÊ·ÿR<https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png
+„
+
+1404/07/1914:21Íí¨Ç"Gala*Ú¯Ø§Ù„Ø§20.0115:1331Aq=
+×£ğ:ÀHµıüR<https://s2.coinmarketcap.com/static/img/coins/64x64/7080.png
+
+
+1404/07/1914:21Íí¨Ç"Conflux*Ú©Ø§Ù†ÙÙ„Ø§Ú©Ø³20.1030:11931Aáz®G!;ÀH°ÊüR<https://s2.coinmarketcap.com/static/img/coins/64x64/7334.png
+
+
+1404/07/1914:21Íí¨Ç"Raydium*Ø±ÛŒØ¯ÛŒÙˆÙ…21.9648:227623A®Gázn:ÀH‡Ê™ûR<https://s2.coinmarketcap.com/static/img/coins/64x64/8526.png
+„
+
+1404/07/1914:21Íí¨Ç"DeXe*Ø¯Ú©Ø³ÛŒ26.25:723744AHáz®çEÀHœú¶ùR<https://s2.coinmarketcap.com/static/img/coins/64x64/7326.png
+~
+
+1404/07/1914:21Íí¨Ç"USDai21.0291:119226A      ø¿H©î‚öR=https://s2.coinmarketcap.com/static/img/coins/64x64/38562.png
+–
+
+1404/07/1914:21Íí¨Ç"	JasmyCoin*Ø¬Ø§Ø³Ù…ÛŒâ€ŒÚ©ÙˆÛŒÙ†20.0103:1192A®GázÔ1ÀH’ÊÊòR<https://s2.coinmarketcap.com/static/img/coins/64x64/8425.png
+™
+
+1404/07/1914:21Íí¨Ç"	dogwifhat*Ø¯Ø§Ú¯â€ŒÙˆÛŒÙâ€ŒÙ‡Øª20.5092:58990AÃõ(\‚=ÀHãÙÁòR=https://s2.coinmarketcap.com/static/img/coins/64x64/28752.png
+
+
+1404/07/1914:21Íí¨Ç"Dash*Ø¯Ø´240.84:4731733A     €*ÀH˜Ä§òR;https://s2.coinmarketcap.com/static/img/coins/64x64/131.png
+µ
+
+1404/07/1914:21Íí¨Ç"BitTorrent-New*Ø¨ÛŒØªâ€ŒØªÙˆØ±Ù†Øª-Ù†ÛŒÙˆ20.0000005150833678608733:0.0597A=
+×£p½(ÀHÎı—òR=https://s2.coinmarketcap.com/static/img/coins/64x64/16086.png
 y
 
-1404/07/1914:08”ç¨Ç"0G22.39:276787A…ëQ¸…&ÀHÓÈÒòR=https://s2.coinmarketcap.com/static/img/coins/64x64/38337.png
-µ
+1404/07/1914:19œì¨Ç"0G22.37:274170A×£p=
+W)ÀHÔ°ÑğR=https://s2.coinmarketcap.com/static/img/coins/64x64/38337.png
+„
 
-1404/07/1914:11õè¨Ç"BitTorrent-New*Ø¨ÛŒØªâ€ŒØªÙˆØ±Ù†Øª-Ù†ÛŒÙˆ20.0000005156576061474064:0.0598AìQ¸…k(ÀH¨ÅºòR=https://s2.coinmarketcap.com/static/img/coins/64x64/16086.png
+1404/07/1914:21Íí¨Ç"THETA*ØªØªØ§20.5033:58307Aq=
+×£°=ÀH’¢şïR<https://s2.coinmarketcap.com/static/img/coins/64x64/2416.png
 ¤
 
-1404/07/1914:11õè¨Ç"Sonic (prev. FTM)*Ø³ÙˆÙ†ÛŒÚ© (FTM Ø³Ø§Ø¨Ù‚)20.1753:20339A=
-×£p]AÀHúïÖğR=https://s2.coinmarketcap.com/static/img/coins/64x64/32684.png
-„
-
-1404/07/1914:11õè¨Ç"THETA*ØªØªØ§20.5043:58525A)\Âõh=ÀH‚Ô¼ğR<https://s2.coinmarketcap.com/static/img/coins/64x64/2416.png
-–
-
-1404/07/1914:11õè¨Ç"
-EigenLayer*Ø§ÛŒÚ¯Ù†â€ŒÙ„ÛŒØ±21.2835:148947A     €;ÀHÊ°ÑëR=https://s2.coinmarketcap.com/static/img/coins/64x64/30494.png
+1404/07/1914:21Íí¨Ç"Sonic (prev. FTM)*Ø³ÙˆÙ†ÛŒÚ© (FTM Ø³Ø§Ø¨Ù‚)20.1744:20206Afffff†AÀHšãÁïR=https://s2.coinmarketcap.com/static/img/coins/64x64/32684.png
 š
 
-1404/07/1914:11áè¨Ç"TrueUSD*ØªØ±Ùˆ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.9985:115880A{®Gáz¤?HÂÄºëR<https://s2.coinmarketcap.com/static/img/coins/64x64/2563.png
+1404/07/1914:21Íí¨Ç"TrueUSD*ØªØ±Ùˆ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.9990:115735AìQ¸…ë±?Hä•ÈëR<https://s2.coinmarketcap.com/static/img/coins/64x64/2563.png
+–
+
+1404/07/1914:21Íí¨Ç"
+EigenLayer*Ø§ÛŒÚ¯Ù†â€ŒÙ„ÛŒØ±21.2783:148095Aö(\Â5<ÀHÅş×êR=https://s2.coinmarketcap.com/static/img/coins/64x64/30494.png
 ¥
 
-1404/07/1914:11õè¨Ç"Virtual Protocol*ÙˆÛŒØ±Ú†ÙˆØ§Ù„ Ù¾Ø±ÙˆØªÚ©Ù„20.7485:86869A®Gázn=ÀH§äƒêR=https://s2.coinmarketcap.com/static/img/coins/64x64/29420.png
+1404/07/1914:21Íí¨Ç"Virtual Protocol*ÙˆÛŒØ±Ú†ÙˆØ§Ù„ Ù¾Ø±ÙˆØªÚ©Ù„20.7491:86780Aq=
+×£p=ÀH˜êR=https://s2.coinmarketcap.com/static/img/coins/64x64/29420.png
 ™
 
-1404/07/1914:11õè¨Ç"Decentraland*Ø¯ÛŒØ³Ù†ØªØ±Ø§Ù„Ù†Ø¯20.2485:28840AìQ¸…«6ÀH£¿µéR<https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png
+1404/07/1914:21Íí¨Ç"Decentraland*Ø¯ÛŒØ³Ù†ØªØ±Ø§Ù„Ù†Ø¯20.2478:28707A®Gáz.7ÀH¯¬İèR<https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png
 •
 
-1404/07/1914:11õè¨Ç"	SwissBorg*Ø³ÙˆØ¦ÛŒØ³ Ø¨ÙˆØ±Ú¯20.4951:57462AR¸…ëÑ-ÀHâõçR<https://s2.coinmarketcap.com/static/img/coins/64x64/2499.png
+1404/07/1914:21Íí¨Ç"	SwissBorg*Ø³ÙˆØ¦ÛŒØ³ Ø¨ÙˆØ±Ú¯20.4948:57324A×£p=
+W.ÀHĞ†àçR<https://s2.coinmarketcap.com/static/img/coins/64x64/2499.png
 “
 
-1404/07/1914:11õè¨Ç"	Sun (New)*Ø³Ø§Ù† (Ø¬Ø¯ÛŒØ¯)20.0243:2820A      ÀHÕÅ‘ŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/10529.png
+1404/07/1914:21Íí¨Ç"	Sun (New)*Ø³Ø§Ù† (Ø¬Ø¯ÛŒØ¯)20.0244:2821A      ÀHá‰ÌŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/10529.png
 ˜
 
-1404/07/1914:11áè¨Ç"USDD*ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒâ€ŒØ¯ÛŒ21.0014:116213A¸…ëQ¸¾?H¤›¤İR=https://s2.coinmarketcap.com/static/img/coins/64x64/19891.png
+1404/07/1914:21¹í¨Ç"USDD*ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒâ€ŒØ¯ÛŒ21.0012:115986A¸…ëQ¸®?H³ıœİR=https://s2.coinmarketcap.com/static/img/coins/64x64/19891.png
 ƒ
 
-1404/07/1914:11õè¨Ç"Flow*ÙÙ„Ùˆ20.2800:32495A®GázT6ÀH„ÏÆ×R<https://s2.coinmarketcap.com/static/img/coins/64x64/4558.png
+1404/07/1914:21Íí¨Ç"Flow*ÙÙ„Ùˆ20.2798:32416Aš™™™™™6ÀHˆ¾²×R<https://s2.coinmarketcap.com/static/img/coins/64x64/4558.png
 Š
 
-1404/07/1914:11õè¨Ç"Vaulta*
-ÙˆØ§Ù„ØªØ§20.2808:32585A®Gázn;ÀHºÙİÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/36462.png
+1404/07/1914:21Íí¨Ç"Vaulta*
+ÙˆØ§Ù„ØªØ§20.2807:32514A…ëQ¸…;ÀH²îĞÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/36462.png
 §
 
-1404/07/1914:11õè¨Ç"DeepBook Protocol*Ø¯ÛŒÙ¾â€ŒØ¨ÙˆÚ© Ù¾Ø±ÙˆØªÚ©Ù„20.1032:11977A®Gázî5ÀHê¡—ĞR=https://s2.coinmarketcap.com/static/img/coins/64x64/33391.png
+1404/07/1914:21Íí¨Ç"DeepBook Protocol*Ø¯ÛŒÙ¾â€ŒØ¨ÙˆÚ© Ù¾Ø±ÙˆØªÚ©Ù„20.1023:11852A\Âõ(œ6ÀHƒÏ¯ÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/33391.png
 ‡
 
-1404/07/1914:11õè¨Ç"JITO*Ø¬ÛŒØªÙˆ21.1092:128727A33333³<ÀHÄ¿€ÍR=https://s2.coinmarketcap.com/static/img/coins/64x64/28541.png
+1404/07/1914:21Íí¨Ç"JITO*Ø¬ÛŒØªÙˆ21.1086:128432Aáz®Gá<ÀH‚ğğÌR=https://s2.coinmarketcap.com/static/img/coins/64x64/28541.png
 ˆ
 
-1404/07/1914:11õè¨Ç"Helium*
-Ù‡Ù„ÛŒÙˆÙ…22.26:261848Aš™™™™™-ÀHÖ³»ÈR<https://s2.coinmarketcap.com/static/img/coins/64x64/5665.png
-²
-
-1404/07/1914:11õè¨Ç"APENFT* Ø§ÛŒâ€ŒÙ¾ÛŒâ€ŒØ§Ù†â€ŒØ§Ùâ€ŒØªÛŒ20.0000004194161382298584:0.0487A…ëQ¸ÀHèïşÇR<https://s2.coinmarketcap.com/static/img/coins/64x64/9816.png
+1404/07/1914:21Íí¨Ç"Helium*
+Ù‡Ù„ÛŒÙˆÙ…22.26:261853A…ëQ¸…-ÀHËÀçÈR<https://s2.coinmarketcap.com/static/img/coins/64x64/5665.png
 ¡
 
-1404/07/1914:11õè¨Ç"
-Bitcoin SV*Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ø§Ø³â€ŒÙˆÛŒ221.04:2441384Aq=
-×£°1ÀH‹ğøÇR<https://s2.coinmarketcap.com/static/img/coins/64x64/3602.png
+1404/07/1914:21Íí¨Ç"
+Bitcoin SV*Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ø§Ø³â€ŒÙˆÛŒ221.08:2442430A®Gáz”1ÀH¾¯¯ÈR<https://s2.coinmarketcap.com/static/img/coins/64x64/3602.png
+³
+
+1404/07/1914:21Íí¨Ç"APENFT* Ø§ÛŒâ€ŒÙ¾ÛŒâ€ŒØ§Ù†â€ŒØ§Ùâ€ŒØªÛŒ20.00000041929856235260306:0.0486A\Âõ(\ÀH¡Ù÷ÇR<https://s2.coinmarketcap.com/static/img/coins/64x64/9816.png
 œ
 
-1404/07/1914:11õè¨Ç"Maple Finance*Ù…ÛŒÙ¾Ù„ ÙØ§ÛŒÙ†Ù†Ø³20.3412:39594A…ëQ¸…+ÀH‘çÑÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/33824.png
+1404/07/1914:21Íí¨Ç"Maple Finance*Ù…ÛŒÙ¾Ù„ ÙØ§ÛŒÙ†Ù†Ø³20.3417:39583A…ëQ¸…+ÀH×ÁõÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/33824.png
 ˆ
 
-1404/07/1914:08”ç¨Ç"Vision*ÙˆÛŒÚ˜Ù†20.1115:12937AR¸…ëQ ÀH¸Îì¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/37322.png
+1404/07/1914:19œì¨Ç"Vision*ÙˆÛŒÚ˜Ù†20.1112:12883A×£p=
+× ÀHŸõ¤¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/37322.png
 
 
-1404/07/1914:11õè¨Ç"Wormhole*ÙˆØ±Ù…â€ŒÙ‡ÙˆÙ„20.0800:9281Aö(\Âu9ÀH“Œ´µR=https://s2.coinmarketcap.com/static/img/coins/64x64/29587.png
+1404/07/1914:21Íí¨Ç"Wormhole*ÙˆØ±Ù…â€ŒÙ‡ÙˆÙ„20.0797:9238A®GázÔ9ÀHÁêî´R=https://s2.coinmarketcap.com/static/img/coins/64x64/29587.png
 š
 
-1404/07/1914:11õè¨Ç"Loaded Lions*Ù„ÙˆØ¯Ø¯ Ù„Ø§ÛŒÙˆÙ†Ø²20.0121:1400A…ëQ¸^0ÀH»é¹±R=https://s2.coinmarketcap.com/static/img/coins/64x64/35954.png
-—
-
-1404/07/1914:11õè¨Ç"Merlin Chain*Ù…Ø±Ù„ÛŒÙ† Ú†ÛŒÙ†20.3748:43499A…ëQ¸…#@HÂ«ü®R=https://s2.coinmarketcap.com/static/img/coins/64x64/30712.png
+1404/07/1914:21Íí¨Ç"Loaded Lions*Ù„ÙˆØ¯Ø¯ Ù„Ø§ÛŒÙˆÙ†Ø²20.0121:1399A     €0ÀHá•Æ±R=https://s2.coinmarketcap.com/static/img/coins/64x64/35954.png
 •
 
-1404/07/1914:11õè¨Ç"Fartcoin*ÙØ§Ø±Øªâ€ŒÚ©ÙˆÛŒÙ†20.3665:42530A¸…ëQXEÀHŞà®R=https://s2.coinmarketcap.com/static/img/coins/64x64/33597.png
-Ÿ
+1404/07/1914:21Íí¨Ç"Fartcoin*ÙØ§Ø±Øªâ€ŒÚ©ÙˆÛŒÙ†20.3700:42870A=
+×£pEÀH¯§¹°R=https://s2.coinmarketcap.com/static/img/coins/64x64/33597.png
+—
 
-1404/07/1914:11õè¨Ç"Zebec Network*Ø²ÙØ¨ÙÚ© Ù†ØªÙˆØ±Ú©20.003929:455.98A{®Gáº6ÀH¸úş¬R=https://s2.coinmarketcap.com/static/img/coins/64x64/30636.png
+1404/07/1914:21Íí¨Ç"Merlin Chain*Ù…Ø±Ù„ÛŒÙ† Ú†ÛŒÙ†20.3738:43311A®Gáz.#@HÕÇÁ®R=https://s2.coinmarketcap.com/static/img/coins/64x64/30712.png
 “
 
-1404/07/1914:11õè¨Ç"	Synthetix*Ø³ÛŒÙ†ØªØªÛŒÚ©Ø³21.0555:122488A¸…ëQ87ÀH±Åî¬R<https://s2.coinmarketcap.com/static/img/coins/64x64/2586.png
-Œ
+1404/07/1914:21Íí¨Ç"	Synthetix*Ø³ÛŒÙ†ØªØªÛŒÚ©Ø³21.0564:122387A®GázÔ6ÀH©ê­R<https://s2.coinmarketcap.com/static/img/coins/64x64/2586.png
+Ÿ
 
-1404/07/1914:11õè¨Ç"Walrus*ÙˆØ§Ù„Ø±ÙˆØ³20.2448:28408AHáz®‡:ÀHõõĞ¬R=https://s2.coinmarketcap.com/static/img/coins/64x64/36119.png
+1404/07/1914:21Íí¨Ç"Zebec Network*Ø²ÙØ¨ÙÚ© Ù†ØªÙˆØ±Ú©20.003920:454.19A¸…ëQx7ÀH•«Í¬R=https://s2.coinmarketcap.com/static/img/coins/64x64/30636.png
 …
 
-1404/07/1914:11õè¨Ç"ZORA*Ø²ÙˆØ±Ø§20.0803:9313Afffffæ)ÀH‰‰‡«R=https://s2.coinmarketcap.com/static/img/coins/64x64/35931.png
+1404/07/1914:21Íí¨Ç"ZORA*Ø²ÙˆØ±Ø§20.0807:9355A®Gáz'ÀH›Ø¬R=https://s2.coinmarketcap.com/static/img/coins/64x64/35931.png
+Œ
+
+1404/07/1914:21Íí¨Ç"Walrus*ÙˆØ§Ù„Ø±ÙˆØ³20.2438:28247A…ëQ¸Å:ÀHÅåø«R=https://s2.coinmarketcap.com/static/img/coins/64x64/36119.png
 
 
-1404/07/1914:11õè¨Ç"GHO*Ø¬ÛŒâ€ŒØ§Ú†â€ŒØ§Ùˆ20.9999:116041A{®Gáz„?H†åœ¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/23508.png
+1404/07/1914:21Íí¨Ç"GHO*Ø¬ÛŒâ€ŒØ§Ú†â€ŒØ§Ùˆ21.0001:115861A{®Gáz”?H­øŸ¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/23508.png
 
 
-1404/07/1914:11õè¨Ç"zkSync*Ø²Ø¯Ú©ÛŒ Ø³ÛŒÙ†Ú©20.0423:4905A×£p=
-:ÀHÛş¶£R=https://s2.coinmarketcap.com/static/img/coins/64x64/24091.png
+1404/07/1914:21Íí¨Ç"zkSync*Ø²Ø¯Ú©ÛŒ Ø³ÛŒÙ†Ú©20.0427:4941Aq=
+×£ğ9ÀH“¿ô¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/24091.png
 §
 
-1404/07/1914:11õè¨Ç"AI Companions* Ø§ÛŒâ€ŒØ¢ÛŒ Ú©Ø§Ù…Ù¾Ø§Ù†ÛŒÙˆÙ†Ø²20.4492:52135Aq=
-×£p$ÀHÛàÔ R=https://s2.coinmarketcap.com/static/img/coins/64x64/32968.png
+1404/07/1914:21Íí¨Ç"AI Companions* Ø§ÛŒâ€ŒØ¢ÛŒ Ú©Ø§Ù…Ù¾Ø§Ù†ÛŒÙˆÙ†Ø²20.4490:52013AR¸…ëQ$ÀH¥ÜÇ R=https://s2.coinmarketcap.com/static/img/coins/64x64/32968.png
 
 
-1404/07/1914:11õè¨Ç"Gnosis*Ú¯Ù†ÙˆØ³ÛŒØ³2127.31:14774632A®Gáz®(ÀH¢“œ R<https://s2.coinmarketcap.com/static/img/coins/64x64/1659.png
-ˆ
-
-1404/07/1914:11õè¨Ç"Chiliz*
-Ú†ÛŒÙ„ÛŒØ²20.0333:3866A33333ó3ÀHŞÌµŸR<https://s2.coinmarketcap.com/static/img/coins/64x64/4066.png
+1404/07/1914:21Íí¨Ç"Gnosis*Ú¯Ù†ÙˆØ³ÛŒØ³2127.44:14764716Aš™™™™™(ÀH›± R<https://s2.coinmarketcap.com/static/img/coins/64x64/1659.png
 ‰
 
-1404/07/1914:11õè¨Ç"Toshi*ØªÙˆØ´ÛŒ20.000793:92.05A=
-×£p=.ÀHÊ½ŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/27750.png
+1404/07/1914:21Íí¨Ç"Toshi*ØªÙˆØ´ÛŒ20.000791:91.68A…ëQ¸/ÀHÅßR=https://s2.coinmarketcap.com/static/img/coins/64x64/27750.png
+ˆ
+
+1404/07/1914:21Íí¨Ç"Chiliz*
+Ú†ÛŒÙ„ÛŒØ²20.0331:3840A¸…ëQ¸4ÀHôÍR<https://s2.coinmarketcap.com/static/img/coins/64x64/4066.png
 
 
-1404/07/1914:11õè¨Ç"Neo*Ù†Ø¦Ùˆ24.69:544520A{®Gá:8ÀHı˜éR<https://s2.coinmarketcap.com/static/img/coins/64x64/1376.png
+1404/07/1914:21Íí¨Ç"Neo*Ù†Ø¦Ùˆ24.67:541100A     À8ÀH«ºŒR<https://s2.coinmarketcap.com/static/img/coins/64x64/1376.png
 ’
 
-1404/07/1914:11õè¨Ç"Telcoin*ØªÙ„â€ŒÚ©ÙˆÛŒÙ†20.003611:419.04Aq=
-×£ğ%ÀHì˜ÙœR<https://s2.coinmarketcap.com/static/img/coins/64x64/2394.png
+1404/07/1914:21Íí¨Ç"Telcoin*ØªÙ„â€ŒÚ©ÙˆÛŒÙ†20.003604:417.58Aö(\Âõ%ÀH¶û´œR<https://s2.coinmarketcap.com/static/img/coins/64x64/2394.png
+†
+
+1404/07/1914:21Íí¨Ç"Chain*Ú†ÛŒÙ†20.009203:1066A)\Âõ(+ÀHÇàïšR=https://s2.coinmarketcap.com/static/img/coins/64x64/18679.png
 ®
 
-1404/07/1914:11õè¨Ç"Astherus USDF*&Ø§Ø³ØªØ±ÙˆØ³ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒâ€ŒØ§Ù20.9987:115895A{®Gáz”?H“—šR=https://s2.coinmarketcap.com/static/img/coins/64x64/35437.png
-†
-
-1404/07/1914:11õè¨Ç"Chain*Ú†ÛŒÙ†20.009148:1062A      ,ÀHŒÖø™R=https://s2.coinmarketcap.com/static/img/coins/64x64/18679.png
+1404/07/1914:21Íí¨Ç"Astherus USDF*&Ø§Ø³ØªØ±ÙˆØ³ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒâ€ŒØ§Ù20.9979:115607AìQ¸…ë±¿HùÆ‡šR=https://s2.coinmarketcap.com/static/img/coins/64x64/35437.png
 ‡
 
-1404/07/1914:11õè¨Ç"Beam*Ø¨ÛŒÙ…20.006453:748.86A
-×£p=Ê8ÀHØ¶š˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/28298.png
+1404/07/1914:21Íí¨Ç"Beam*Ø¨ÛŒÙ…20.006463:748.79AìQ¸…+8ÀHÄá¹˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/28298.png
 
 
-1404/07/1914:11õè¨Ç"	THORChain*Ø«ÙˆØ±Ú†ÛŒÙ†20.9036:104862A      6ÀHöï¬—R<https://s2.coinmarketcap.com/static/img/coins/64x64/4157.png
+1404/07/1914:21Íí¨Ç"	THORChain*Ø«ÙˆØ±Ú†ÛŒÙ†20.9039:104719A\Âõ(6ÀHëŸ³—R<https://s2.coinmarketcap.com/static/img/coins/64x64/4157.png
 „
 
-1404/07/1914:11õè¨Ç"Brett*Ø¨Ø±Øª20.0320:3715A=
-×£pı9ÀH‘Ş¤—R=https://s2.coinmarketcap.com/static/img/coins/64x64/29743.png
+1404/07/1914:21Íí¨Ç"Brett*Ø¨Ø±Øª20.0320:3708A…ëQ¸:ÀHÎˆ¡—R=https://s2.coinmarketcap.com/static/img/coins/64x64/29743.png
 
 
-1404/07/1914:08”ç¨Ç"Compound*Ú©Ø§Ù…Ù¾ÙˆÙ†Ø¯232.58:3778433A=
-×£pı7ÀHäŠÊ–R<https://s2.coinmarketcap.com/static/img/coins/64x64/5692.png
+1404/07/1914:21Íí¨Ç"Compound*Ú©Ø§Ù…Ù¾ÙˆÙ†Ø¯232.51:3766376AÃõ(\B8ÀH‡¦£–R<https://s2.coinmarketcap.com/static/img/coins/64x64/5692.png
 §
 
-1404/07/1914:11õè¨Ç"Cheems (cheems.pet)*Ú†ÛŒÙ…Ø² (cheems.pet)2
-0.00000166:0.1925A¤p=
-×#&ÀHÃºª”R=https://s2.coinmarketcap.com/static/img/coins/64x64/33280.png
-„
-
-1404/07/1914:11õè¨Ç"JUST*Ø¬Ø§Ø³Øª20.0304:3534AìQ¸…ëÀH´½ŞR<https://s2.coinmarketcap.com/static/img/coins/64x64/5488.png
+1404/07/1914:21Íí¨Ç"Cheems (cheems.pet)*Ú†ÛŒÙ…Ø² (cheems.pet)2
+0.00000165:0.1912A×£p=
+×&ÀH©«Â“R=https://s2.coinmarketcap.com/static/img/coins/64x64/33280.png
 –
 
-1404/07/1914:11õè¨Ç"BinaryX*Ø¨Ø§ÛŒÙ†Ø±ÛŒ Ø§ÛŒÚ©Ø³20.7849:91088Aq=
-×£PAÀHÖòõR=https://s2.coinmarketcap.com/static/img/coins/64x64/23635.png
+1404/07/1914:21Íí¨Ç"BinaryX*Ø¨Ø§ÛŒÙ†Ø±ÛŒ Ø§ÛŒÚ©Ø³20.7907:91605AR¸…ëñ@ÀHöŠıR=https://s2.coinmarketcap.com/static/img/coins/64x64/23635.png
+„
+
+1404/07/1914:21Íí¨Ç"JUST*Ø¬Ø§Ø³Øª20.0304:3527A      ÀHö€ÛR<https://s2.coinmarketcap.com/static/img/coins/64x64/5488.png
 
 
-1404/07/1914:11áè¨Ç"eCash*Ø§ÛŒâ€ŒÚ©Ø´2
-0.00001502:1.7433Aö(\Âõ0ÀH¾ãR=https://s2.coinmarketcap.com/static/img/coins/64x64/10791.png
+1404/07/1914:21Íí¨Ç"eCash*Ø§ÛŒâ€ŒÚ©Ø´2
+0.00001500:1.7377A®Gáz.1ÀHÓÇR=https://s2.coinmarketcap.com/static/img/coins/64x64/10791.png
 ‡
 
-1404/07/1914:11õè¨Ç"Kinesis Gold2129.16:14989317Aq=
-×£pÍ?H·ÈR=https://s2.coinmarketcap.com/static/img/coins/64x64/24382.png
+1404/07/1914:21Íí¨Ç"Kinesis Gold2128.96:14940167Aö(\Âõô?H³«R=https://s2.coinmarketcap.com/static/img/coins/64x64/24382.png
 ¡
 
-1404/07/1914:11õè¨Ç"Reserve Rights*Ø±ÛŒØ²Ø±ÙˆØ± Ø±Ø§ÛŒØªØ³20.004898:568.44Aq=
-×£01ÀHë²™R<https://s2.coinmarketcap.com/static/img/coins/64x64/3964.png
+1404/07/1914:21Íí¨Ç"Reserve Rights*Ø±ÛŒØ²Ø±ÙˆØ± Ø±Ø§ÛŒØªØ³20.004895:567.13A)\Âõh1ÀH¹ËR<https://s2.coinmarketcap.com/static/img/coins/64x64/3964.png
 †
 
-1404/07/1914:11õè¨Ç"Frax*ÙØ±Ú©Ø³20.9976:115767A{®Gáz„?H¿²ğŒR<https://s2.coinmarketcap.com/static/img/coins/64x64/6952.png
+1404/07/1914:21Íí¨Ç"Frax*ÙØ±Ú©Ø³20.9976:115571A{®Gáz„¿Hş°ğŒR<https://s2.coinmarketcap.com/static/img/coins/64x64/6952.png
 ±
 
-1404/07/1914:11õè¨Ç"dYdX (Native)**Ø¯ÛŒâ€ŒÙˆØ§ÛŒâ€ŒØ¯ÛŒâ€ŒØ§Ú©Ø³ (Ù†ÛŒØªÛŒÙˆ)20.3704:42988A…ëQ¸AÀHûÌÿŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/28324.png
+1404/07/1914:21Íí¨Ç"dYdX (Native)**Ø¯ÛŒâ€ŒÙˆØ§ÛŒâ€ŒØ¯ÛŒâ€ŒØ§Ú©Ø³ (Ù†ÛŒØªÛŒÙˆ)20.3683:42667A)\ÂõèAÀHûÕ˜ŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/28324.png
 ˆ
 
-1404/07/1914:11õè¨Ç"Linea*
-Ù„ÛŒÙ†ÛŒØ§20.0184:2141Afffff&:ÀHòµ™ˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/27657.png
+1404/07/1914:21Íí¨Ç"Linea*
+Ù„ÛŒÙ†ÛŒØ§20.0184:2133Affffff:ÀHæ…ó‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/27657.png
 ’
 
-1404/07/1914:11õè¨Ç"ApeCoin*Ø§ÛŒÙ¾â€ŒÚ©ÙˆÛŒÙ†20.3790:43981A×£p=
-AÀH»ŞˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/18876.png
+1404/07/1914:21Íí¨Ç"ApeCoin*Ø§ÛŒÙ¾â€ŒÚ©ÙˆÛŒÙ†20.3775:43736A¤p=
+×CAÀH© ¾‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/18876.png
 ‹
 
-1404/07/1914:11õè¨Ç"Elrond*Ø§Ù„Ø±ÙˆÙ†Ø¯29.92:1150975AÍÌÌÌÌÌ9ÀH‚ƒÔ‡R<https://s2.coinmarketcap.com/static/img/coins/64x64/6892.png
+1404/07/1914:21Íí¨Ç"Elrond*Ø§Ù„Ø±ÙˆÙ†Ø¯29.89:1145798Afffff&:ÀH‡¨£‡R<https://s2.coinmarketcap.com/static/img/coins/64x64/6892.png
 ‰
 
-1404/07/1914:08”ç¨Ç"Arweave*
-Ø¢Ø±ÙˆÛŒÙˆ24.24:491843AHáz®G;ÀHòÜß„R<https://s2.coinmarketcap.com/static/img/coins/64x64/5632.png
-‘
-
-1404/07/1914:09óç¨Ç"Core DAO*Ú©ÙˆØ± Ø¯Ø§Ø¦Ùˆ20.2731:31676A\Âõ(\;ÀHš©ˆ„R=https://s2.coinmarketcap.com/static/img/coins/64x64/23254.png
+1404/07/1914:19œì¨Ç"Arweave*
+Ø¢Ø±ÙˆÛŒÙˆ24.23:489867A®Gáz®;ÀH·»¯„R<https://s2.coinmarketcap.com/static/img/coins/64x64/5632.png
 ¡
 
-1404/07/1914:11õè¨Ç"Falcon Finance*ÙØ§Ù„Ú©ÙˆÙ† ÙØ§ÛŒÙ†Ù†Ø³20.1179:13685A®Gáz ÀH¢ÃÉƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/38482.png
-Š
-
-1404/07/1914:11õè¨Ç"KAITO*
-Ú©Ø§ÛŒØªÙˆ21.1424:132575AìQ¸…k*ÀHĞ”¿ƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/35763.png
-Š
-
-1404/07/1914:11õè¨Ç"Decred*
-Ø¯ÛŒÚ©Ø±Ø¯216.03:1860632A¸…ëQ¸8ÀHÄÌ¸‚R<https://s2.coinmarketcap.com/static/img/coins/64x64/1168.png
-¢
-
-1404/07/1914:11õè¨Ç"Axie Infinity*Ø§Ú©Ø³ÛŒ Ø§ÛŒÙ†ÙÛŒÙ†ÛŒØªÛŒ21.6419:190539AÃõ(\‚9ÀHúé¯‚R<https://s2.coinmarketcap.com/static/img/coins/64x64/6783.png
-‡
-
-1404/07/1914:11õè¨Ç"Plume*Ù¾Ù„ÙˆÙ…20.0888:10305Aáz®Gá&ÀH¸±¾€R=https://s2.coinmarketcap.com/static/img/coins/64x64/35364.png
-©
-
-1404/07/1914:11õè¨Ç"AIOZ Network*$Ø§ÛŒâ€ŒØ¢ÛŒâ€ŒØ§Ùˆâ€ŒØ²Ø¯ Ù†ØªÙˆØ±Ú©20.2224:25815A{®Gáz/ÀHôËŸ€R<https://s2.coinmarketcap.com/static/img/coins/64x64/9104.png
-’
-
-1404/07/1914:11õè¨Ç"	SuperFarm*Ø³ÙˆÙ¾Ø±ÙØ§Ø±Ù…20.4277:49639AR¸…ë7ÀHú‡–€R<https://s2.coinmarketcap.com/static/img/coins/64x64/8290.png
-Œ
-
-1404/07/1914:11õè¨Ç"1inch*ÙˆØ§Ù† Ø§ÛŒÙ†Ú†20.1903:22083A\Âõ(\8ÀH´Šğ~R<https://s2.coinmarketcap.com/static/img/coins/64x64/8104.png
-‡
-
-1404/07/1914:11õè¨Ç"WEMIX*
-ÙˆÙ…ÛŒÚ©Ø³20.5813:67464AìQ¸…ë ÀH¥ÖÑ~R<https://s2.coinmarketcap.com/static/img/coins/64x64/7548.png
-ˆ
-
-1404/07/1914:11õè¨Ç"Ronin*
-Ø±ÙˆÙ†ÛŒÙ†20.3768:43731A®Gáz.3ÀHÍÅÅ|R=https://s2.coinmarketcap.com/static/img/coins/64x64/14101.png
-ƒ
-
-1404/07/1914:11õè¨Ç"SOON*Ø³ÙˆÙ†20.8346:96856AÃõ(\Âå?H ‰Ÿ|R=https://s2.coinmarketcap.com/static/img/coins/64x64/36542.png
-”
-
-1404/07/1914:11õè¨Ç"	Euro Coin*ÛŒÙˆØ±Ùˆ Ú©ÙˆÛŒÙ†21.1432:132673A{®Gázô¿HïËİyR=https://s2.coinmarketcap.com/static/img/coins/64x64/20641.png
-ˆ
-
-1404/07/1914:11áè¨Ç"Snek*Ø§Ø³Ù†Ú©20.003305:383.59AHáz®0ÀHÏàÙuR=https://s2.coinmarketcap.com/static/img/coins/64x64/25264.png
-²
-
-1404/07/1914:11õè¨Ç"Ribbita by Virtuals*&Ø±ÛŒØ¨ÛŒØªØ§ Ø¨Ø§ÛŒ ÙˆÛŒØ±Ú†ÛŒÙˆØ§Ù„Ø²20.2391:27744A)\Âõ¨%ÀHÄìÿqR=https://s2.coinmarketcap.com/static/img/coins/64x64/36743.png
-
-
-1404/07/1914:11õè¨Ç"	Berachain*Ø¨Ø±Ø§Ú†ÛŒÙ†21.8509:214802AÃõ(\¢@ÀHš§qR=https://s2.coinmarketcap.com/static/img/coins/64x64/24647.png
-˜
-
-1404/07/1914:11õè¨Ç"Useless Coin*ÛŒÙˆØ²Ù„Ø³ Ú©ÙˆÛŒÙ†20.2369:27498AìQ¸…KAÀHÀñpR=https://s2.coinmarketcap.com/static/img/coins/64x64/36828.png
-
-
-1404/07/1914:11õè¨Ç"Convex Finance*Ú©Ø§Ù†ÙˆÚ©Ø³ ÙØ§ÛŒÙ†Ù†Ø³22.43:282031AHáz®Ç8ÀHğ‹ËpR<https://s2.coinmarketcap.com/static/img/coins/64x64/9903.png
-•
-
-1404/07/1914:11õè¨Ç"MX TOKEN*Ø§Ù…â€ŒØ§Ú©Ø³ ØªÙˆÚ©Ù†22.49:288642AÂõ(\ÀH¢£înR<https://s2.coinmarketcap.com/static/img/coins/64x64/4041.png
-Š
-
-1404/07/1914:11õè¨Ç"Movement*
-Ù…ÙˆÙ…Ù†Øª20.0837:9710A)\Âõ(7ÀH–ÛmR=https://s2.coinmarketcap.com/static/img/coins/64x64/32452.png
-
-
-1404/07/1914:11õè¨Ç"Horizen*Ù‡ÙˆØ±Ø§ÛŒØ²Ù†213.07:1516214A¤p=
-×ã1ÀHÊülR<https://s2.coinmarketcap.com/static/img/coins/64x64/1698.png
-—
-
-1404/07/1914:11õè¨Ç"
-Creditcoin*Ú©Ø±Ø¯ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†20.4549:52797A33333s0ÀHŞ²ØkR<https://s2.coinmarketcap.com/static/img/coins/64x64/5198.png
-š
-
-1404/07/1914:11õè¨Ç"OriginTrail*Ø§ÙˆØ±ÛŒØ¬ÛŒÙ† ØªØ±ÛŒÙ„20.4388:50925Aš™™™™™$ÀHÏÏhR<https://s2.coinmarketcap.com/static/img/coins/64x64/2467.png
-
-
-1404/07/1914:11õè¨Ç"	Mocaverse*Ù…ÙˆÚ©Ø§ÙˆØ±Ø³20.0552:6405A…ëQ¸Ş:ÀHÓ°hR=https://s2.coinmarketcap.com/static/img/coins/64x64/31526.png
-
-
-1404/07/1914:11õè¨Ç"Livepeer*Ù„Ø§ÛŒÙˆÙ¾ÛŒØ±24.81:558575A¸…ëQ¸;ÀHØ…hR<https://s2.coinmarketcap.com/static/img/coins/64x64/3640.png
-«
-
-1404/07/1914:11õè¨Ç"Basic Attention Token*Ø¨ÛŒØ³ÛŒÚ© Ø§ØªÙ†Ø´Ù† ØªÙˆÚ©Ù†20.1457:16913A®Gáz”(ÀHè¯øgR<https://s2.coinmarketcap.com/static/img/coins/64x64/1697.png
-ˆ
-
-1404/07/1914:08”ç¨Ç"Drift*
-Ø¯Ø±ÛŒÙØª20.5676:65832Aš™™™™9ÀHÉÏÿfR=https://s2.coinmarketcap.com/static/img/coins/64x64/31278.png
-˜
-
-1404/07/1914:11õè¨Ç"Akash Network*Ø¢Ú©Ø§Ø´ Ù†ØªÙˆØ±Ú©20.7662:88914A¤p=
-×#7ÀHÏ†ªfR<https://s2.coinmarketcap.com/static/img/coins/64x64/7431.png
-
-
-1404/07/1914:11õè¨Ç"	FTX Token*Ø§Ùâ€ŒØªÛŒâ€ŒØ§Ú©Ø³ ØªÙˆÚ©Ù†20.6511:75560AÂõ(\Ï7ÀHó fR<https://s2.coinmarketcap.com/static/img/coins/64x64/4195.png
-‹
-
-1404/07/1914:11õè¨Ç"Axelar*Ø§Ú©Ø³Ù„Ø§Ø±20.2036:23631A…ëQ¸>ÀHÆ¨†fR=https://s2.coinmarketcap.com/static/img/coins/64x64/17799.png
-š
-
-1404/07/1914:11õè¨Ç"Kava.io*Ú©Ø§ÙˆØ§ Ø¯Ø§Øª Ø¢ÛŒâ€ŒØ§Ùˆ20.1969:22846Afffff¦DÀH‚œÓeR<https://s2.coinmarketcap.com/static/img/coins/64x64/4846.png
-›
-
-1404/07/1914:11õè¨Ç"Terra Classic*ØªØ±Ø§ Ú©Ù„Ø§Ø³ÛŒÚ©2
-0.00003832:4.45AÃõ(\Â;ÀH‡«ÌdR<https://s2.coinmarketcap.com/static/img/coins/64x64/4172.png
-„
-
-1404/07/1914:11õè¨Ç"Amp*Ø¢Ù…Ù¾20.002485:288.34A     @1ÀHëªícR<https://s2.coinmarketcap.com/static/img/coins/64x64/6945.png
-‰
-
-1404/07/1914:11õè¨Ç"Qtum*Ú©ÛŒÙˆØªÙˆÙ…21.9636:227874A
-×£p=Š0ÀHú¢cR<https://s2.coinmarketcap.com/static/img/coins/64x64/1684.png
-
-
-1404/07/1914:11õè¨Ç"SafePal*Ø³ÛŒÙâ€ŒÙ¾Ø§Ù„20.4078:47328Aáz®G!2ÀHĞãaR<https://s2.coinmarketcap.com/static/img/coins/64x64/8119.png
-“
-
-1404/07/1914:11õè¨Ç"	SoSoValue*Ø³ÙˆØ³Ùˆ ÙˆÙ„ÛŒÙˆ20.7420:86112AR¸…ëQè¿H§ŒœaR=https://s2.coinmarketcap.com/static/img/coins/64x64/35818.png
-—
-
-1404/07/1914:11õè¨Ç"Legacy Token*Ù„Ú¯Ø³ÛŒ ØªÙˆÚ©Ù†21.9086:221489A      ğ¿Hô‘Ì`R=https://s2.coinmarketcap.com/static/img/coins/64x64/24257.png
-™
-
-1404/07/1914:11õè¨Ç"Project Ailey*Ù¾Ø±ÙˆÚ˜Ù‡ Ø¢ÛŒÙ„ÛŒ20.5089:59057A×£p=
-×ÀH—¬_R=https://s2.coinmarketcap.com/static/img/coins/64x64/30605.png
-‹
-
-1404/07/1914:11õè¨Ç"Kusama*Ú©ÙˆØ³Ø§Ù…Ø§211.35:1317338A
-×£p=
-8ÀHÊÔè\R<https://s2.coinmarketcap.com/static/img/coins/64x64/5034.png
-²
-
-1404/07/1914:11õè¨Ç"StandX DUSD*-Ø§Ø³ØªÙ†Ø¯ Ø§ÛŒÚ©Ø³ Ø¯ÛŒâ€ŒÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0002:116075A{®Gáz¤?HÖ†™\R=https://s2.coinmarketcap.com/static/img/coins/64x64/36762.png
-
-
-1404/07/1914:08”ç¨Ç"QUBIC*Ú©ÛŒÙˆØ¨ÛŒÚ©2
-0.00000154:0.1781A
-×£p=
-ÀHĞı—\R=https://s2.coinmarketcap.com/static/img/coins/64x64/29169.png
-˜
-
-1404/07/1914:11õè¨Ç"Dog (Runes)*Ø¯Ø§Ú¯ (Ø±ÙˆÙ†Ø²)20.001899:220.34A      'ÀHùËÄZR=https://s2.coinmarketcap.com/static/img/coins/64x64/30933.png
-”
-
-1404/07/1914:11õè¨Ç"UPCX*ÛŒÙˆÙ¾ÛŒâ€ŒØ³ÛŒâ€ŒØ§Ú©Ø³22.01:233516AHáz®Gù¿HÔ‚ÿYR=https://s2.coinmarketcap.com/static/img/coins/64x64/28654.png
-£
-
-1404/07/1914:11õè¨Ç"MOG Coin*Ù…Ø§Ú¯ Ú©ÙˆÛŒÙ†20.0000004825878198166085:0.0560A…ëQ¸%@ÀH»ŒğYR=https://s2.coinmarketcap.com/static/img/coins/64x64/27659.png
-
-
-1404/07/1914:11õè¨Ç"Velo*ÙˆÙ„Ùˆ20.0106:1235A®Gáz®&ÀH§é‘YR<https://s2.coinmarketcap.com/static/img/coins/64x64/7127.png
-
-
-1404/07/1914:11õè¨Ç"	GMT Token*Ø¬ÛŒâ€ŒØ§Ù…â€ŒØªÛŒ ØªÙˆÚ©Ù†20.4571:53043A®Gáz®ÀHå²ÚXR=https://s2.coinmarketcap.com/static/img/coins/64x64/10180.png
-ƒ
-
-1404/07/1914:11õè¨Ç"Safe*Ø³ÛŒÙ20.2872:33335A=
-×£p½2ÀHÜşÑXR=https://s2.coinmarketcap.com/static/img/coins/64x64/21585.png
-…
-
-1404/07/1914:11õè¨Ç"Prom*Ù¾Ø±ÙˆÙ…210.15:1177963AÍÌÌÌÌÌ@HåÃªXR<https://s2.coinmarketcap.com/static/img/coins/64x64/4120.png
-…
-
-1404/07/1914:11õè¨Ç"Golem*Ú¯ÙˆÙ„Ù…20.1822:21141Aš™™™™™0ÀHÎ‚ïVR<https://s2.coinmarketcap.com/static/img/coins/64x64/1455.png
-
-
-1404/07/1914:11õè¨Ç"
-Theta Fuel*ØªØªØ§ ÙÛŒÙˆÙ„20.0256:2976A)\Âõh1ÀHƒšâVR<https://s2.coinmarketcap.com/static/img/coins/64x64/3822.png
-·
-
-1404/07/1914:11õè¨Ç"Baby Doge Coin*Ø¨ÛŒØ¨ÛŒ Ø¯ÙˆØ¬ Ú©ÙˆÛŒÙ†20.0000000010647094521901856:0.000124A\Âõ(œ0ÀHôˆ¥VR=https://s2.coinmarketcap.com/static/img/coins/64x64/10407.png
-Œ
-
-1404/07/1914:11õè¨Ç"BUILDon*Ø¨ÛŒÙ„Ø¯Ø¢Ù†20.1803:20922A)\Âõh3ÀHÑûUR=https://s2.coinmarketcap.com/static/img/coins/64x64/36532.png
-¯
-
-1404/07/1914:11õè¨Ç"cat in a dogs world* Ú©Øª Ø§ÛŒÙ† Ø§ Ø¯Ø§Ú¯Ø² ÙˆØ±Ù„Ø¯20.002027:235.19A
-×£p=
-6ÀH‰…óUR=https://s2.coinmarketcap.com/static/img/coins/64x64/30126.png
-Ÿ
-
-1404/07/1914:11õè¨Ç"Kamino Finance*Ú©Ø§Ù…ÛŒÙ†Ùˆ ÙØ§ÛŒÙ†Ù†Ø³20.0604:7014A\Âõ(0ÀHæÕéUR=https://s2.coinmarketcap.com/static/img/coins/64x64/30986.png
-‹
-
-1404/07/1914:11õè¨Ç"Turbo*
-ØªÙˆØ±Ø¨Ùˆ20.002584:299.91A)\Âõ¨9ÀHùéƒUR=https://s2.coinmarketcap.com/static/img/coins/64x64/24911.png
-—
-
-1404/07/1914:11õè¨Ç"	Sahara AI*ØµØ­Ø±Ø§ Ø§ÙÛŒâ€ŒØ¢ÛŒ20.0760:8823AìQ¸…ëÀHàSR=https://s2.coinmarketcap.com/static/img/coins/64x64/36671.png
-
-
-1404/07/1914:11õè¨Ç"STP*Ø§Ø³â€ŒØªÛŒâ€ŒÙ¾ÛŒ20.0896:10394A=
-×£p=ÀHƒéúRR<https://s2.coinmarketcap.com/static/img/coins/64x64/4006.png
-
-
-1404/07/1914:11õè¨Ç"Ultima*Ø§ÙˆÙ„ØªÛŒÙ…Ø§24625:	536684783A…ëQ¸$ÀH®—¿RR=https://s2.coinmarketcap.com/static/img/coins/64x64/28293.png
-‚
-
-1404/07/1914:11õè¨Ç"Celo*Ø³Ù„Ùˆ20.2949:34222A¸…ëQx2ÀHÿ–‘RR<https://s2.coinmarketcap.com/static/img/coins/64x64/5567.png
-†
-
-1404/07/1914:11õè¨Ç"Keeta*Ú©ÛŒØªØ§20.3987:46269A¸…ëQ¸0ÀHÂ®ªQR=https://s2.coinmarketcap.com/static/img/coins/64x64/36066.png
-‹
-
-1404/07/1914:11õè¨Ç"0x*Ø²ÛŒØ±Ùˆ Ø§ÛŒÚ©Ø³20.2009:23309A{®Gá:4ÀH—Ö QR<https://s2.coinmarketcap.com/static/img/coins/64x64/1896.png
-
-
-1404/07/1914:11õè¨Ç"Avantis*Ø¢ÙˆØ§Ù†ØªÛŒØ³20.6528:75758A33333³7ÀHü¯PR=https://s2.coinmarketcap.com/static/img/coins/64x64/38299.png
-š
-
-1404/07/1914:11õè¨Ç"Euler Finance*Ø§ÙˆÙ„Ø± ÙØ§ÛŒÙ†Ù†Ø³28.50:986135A®Gáz”)ÀH©š¢PR=https://s2.coinmarketcap.com/static/img/coins/64x64/14280.png
-…
-
-1404/07/1914:11õè¨Ç"Aleo*Ø§Ù„Ø¦Ùˆ20.2967:34427A     @0ÀH¢ÎÕOR=https://s2.coinmarketcap.com/static/img/coins/64x64/32193.png
+1404/07/1914:21Íí¨Ç"Falcon Finance*ÙØ§Ù„Ú©ÙˆÙ† ÙØ§ÛŒÙ†Ù†Ø³20.1182:13694A®GázÀH®àñƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/38482.png
 ‘
 
-1404/07/1914:11õè¨Ç"Subsquid*Ø³Ø§Ø¨Ø³Ú©ÙˆÛŒØ¯20.1905:22102A®Gáz.1ÀHÇ¼NR=https://s2.coinmarketcap.com/static/img/coins/64x64/12894.png
+1404/07/1914:21Íí¨Ç"Core DAO*Ú©ÙˆØ± Ø¯Ø§Ø¦Ùˆ20.2719:31501A33333³;ÀH‰î¾ƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/23254.png
+Š
+
+1404/07/1914:21Íí¨Ç"KAITO*
+Ú©Ø§ÛŒØªÙˆ21.1368:131704Aš™™™™+ÀHÖûì‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/35763.png
+Š
+
+1404/07/1914:21Íí¨Ç"Decred*
+Ø¯ÛŒÚ©Ø±Ø¯216.03:1857264A®Gáz”9ÀHÉÛ¶‚R<https://s2.coinmarketcap.com/static/img/coins/64x64/1168.png
+¢
+
+1404/07/1914:21Íí¨Ç"Axie Infinity*Ø§Ú©Ø³ÛŒ Ø§ÛŒÙ†ÙÛŒÙ†ÛŒØªÛŒ21.6362:189553Aq=
+×£ğ9ÀHØÜõR<https://s2.coinmarketcap.com/static/img/coins/64x64/6783.png
+‡
+
+1404/07/1914:21Íí¨Ç"Plume*Ù¾Ù„ÙˆÙ…20.0892:10332A¤p=
+×£&ÀH°Ô†R=https://s2.coinmarketcap.com/static/img/coins/64x64/35364.png
+©
+
+1404/07/1914:21Íí¨Ç"AIOZ Network*$Ø§ÛŒâ€ŒØ¢ÛŒâ€ŒØ§Ùˆâ€ŒØ²Ø¯ Ù†ØªÙˆØ±Ú©20.2226:25791Aö(\Âu/ÀH¿‰¬€R<https://s2.coinmarketcap.com/static/img/coins/64x64/9104.png
+‘
+
+1404/07/1914:21Íí¨Ç"	SuperFarm*Ø³ÙˆÙ¾Ø±ÙØ§Ø±Ù…20.4271:49479A33333ó6ÀHêëüR<https://s2.coinmarketcap.com/static/img/coins/64x64/8290.png
+Œ
+
+1404/07/1914:21Íí¨Ç"1inch*ÙˆØ§Ù† Ø§ÛŒÙ†Ú†20.1899:22005AÂõ(\8ÀH®¸Ò~R<https://s2.coinmarketcap.com/static/img/coins/64x64/8104.png
+‡
+
+1404/07/1914:21Íí¨Ç"WEMIX*
+ÙˆÙ…ÛŒÚ©Ø³20.5798:67172A{®Gáz!ÀHú§~R<https://s2.coinmarketcap.com/static/img/coins/64x64/7548.png
+ˆ
+
+1404/07/1914:21Íí¨Ç"Ronin*
+Ø±ÙˆÙ†ÛŒÙ†20.3760:43566Aö(\Âu3ÀH³¤|R=https://s2.coinmarketcap.com/static/img/coins/64x64/14101.png
+ƒ
+
+1404/07/1914:21Íí¨Ç"SOON*Ø³ÙˆÙ†20.8279:95915A
+×£p=
+û?Hí¡Ÿ{R=https://s2.coinmarketcap.com/static/img/coins/64x64/36542.png
+”
+
+1404/07/1914:21Íí¨Ç"	Euro Coin*ÛŒÙˆØ±Ùˆ Ú©ÙˆÛŒÙ†21.1437:132507Affffffò¿Hë»äyR=https://s2.coinmarketcap.com/static/img/coins/64x64/20641.png
+ˆ
+
+1404/07/1914:21Íí¨Ç"Snek*Ø§Ø³Ù†Ú©20.003299:382.16A¸…ëQ80ÀHÒùºuR=https://s2.coinmarketcap.com/static/img/coins/64x64/25264.png
+²
+
+1404/07/1914:21Íí¨Ç"Ribbita by Virtuals*&Ø±ÛŒØ¨ÛŒØªØ§ Ø¨Ø§ÛŒ ÙˆÛŒØ±Ú†ÛŒÙˆØ§Ù„Ø²20.2391:27703A
+×£p=Š%ÀHèÙ‚rR=https://s2.coinmarketcap.com/static/img/coins/64x64/36743.png
+
+
+1404/07/1914:21Íí¨Ç"Convex Finance*Ú©Ø§Ù†ÙˆÚ©Ø³ ÙØ§ÛŒÙ†Ù†Ø³22.44:282946Aáz®G¡8ÀH§¶’qR<https://s2.coinmarketcap.com/static/img/coins/64x64/9903.png
+
+
+1404/07/1914:21Íí¨Ç"	Berachain*Ø¨Ø±Ø§Ú†ÛŒÙ†21.8411:213294A®Gázô@ÀH²ÚÙpR=https://s2.coinmarketcap.com/static/img/coins/64x64/24647.png
+˜
+
+1404/07/1914:21Íí¨Ç"Useless Coin*ÛŒÙˆØ²Ù„Ø³ Ú©ÙˆÛŒÙ†20.2348:27200A
+×£p=ÊAÀHœ‡íoR=https://s2.coinmarketcap.com/static/img/coins/64x64/36828.png
+•
+
+1404/07/1914:21Íí¨Ç"MX TOKEN*Ø§Ù…â€ŒØ§Ú©Ø³ ØªÙˆÚ©Ù†22.49:288188AffffffÀH—ˆğnR<https://s2.coinmarketcap.com/static/img/coins/64x64/4041.png
+Š
+
+1404/07/1914:21Íí¨Ç"Movement*
+Ù…ÙˆÙ…Ù†Øª20.0834:9665AÃõ(\‚7ÀHÌù±mR=https://s2.coinmarketcap.com/static/img/coins/64x64/32452.png
+
+
+1404/07/1914:21Íí¨Ç"Horizen*Ù‡ÙˆØ±Ø§ÛŒØ²Ù†213.03:1509308AHáz®‡1ÀH©‹ÔlR<https://s2.coinmarketcap.com/static/img/coins/64x64/1698.png
+—
+
+1404/07/1914:21Íí¨Ç"
+Creditcoin*Ú©Ø±Ø¯ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†20.4550:52710AHáz®‡0ÀHŠ£ÙkR<https://s2.coinmarketcap.com/static/img/coins/64x64/5198.png
+š
+
+1404/07/1914:21Íí¨Ç"OriginTrail*Ø§ÙˆØ±ÛŒØ¬ÛŒÙ† ØªØ±ÛŒÙ„20.4394:50903A\Âõ(\$ÀHœÛàhR<https://s2.coinmarketcap.com/static/img/coins/64x64/2467.png
+
+
+1404/07/1914:21Íí¨Ç"Livepeer*Ù„Ø§ÛŒÙˆÙ¾ÛŒØ±24.80:556672A)\Âõh;ÀHµ·îgR<https://s2.coinmarketcap.com/static/img/coins/64x64/3640.png
+
+
+1404/07/1914:21Íí¨Ç"	Mocaverse*Ù…ÙˆÚ©Ø§ÙˆØ±Ø³20.0550:6369A¤p=
+×£;ÀHºõÚgR=https://s2.coinmarketcap.com/static/img/coins/64x64/31526.png
+«
+
+1404/07/1914:21Íí¨Ç"Basic Attention Token*Ø¨ÛŒØ³ÛŒÚ© Ø§ØªÙ†Ø´Ù† ØªÙˆÚ©Ù†20.1448:16770AÍÌÌÌÌL*ÀH£ÂgR<https://s2.coinmarketcap.com/static/img/coins/64x64/1697.png
+‹
+
+1404/07/1914:21Íí¨Ç"Axelar*Ø§Ú©Ø³Ù„Ø§Ø±20.2047:23710A×£p=
+W>ÀHÌ—ÈfR=https://s2.coinmarketcap.com/static/img/coins/64x64/17799.png
+ˆ
+
+1404/07/1914:21Íí¨Ç"Drift*
+Ø¯Ø±ÛŒÙØª20.5638:65313Aš™™™™Ù9ÀHÎ’§fR=https://s2.coinmarketcap.com/static/img/coins/64x64/31278.png
+˜
+
+1404/07/1914:21Íí¨Ç"Akash Network*Ø¢Ú©Ø§Ø´ Ù†ØªÙˆØ±Ú©20.7645:88573Aö(\Âu7ÀH¤fR<https://s2.coinmarketcap.com/static/img/coins/64x64/7431.png
+š
+
+1404/07/1914:21Íí¨Ç"Kava.io*Ú©Ø§ÙˆØ§ Ø¯Ø§Øª Ø¢ÛŒâ€ŒØ§Ùˆ20.1974:22869A{®GáºDÀHÉ­öeR<https://s2.coinmarketcap.com/static/img/coins/64x64/4846.png
+
+
+1404/07/1914:21Íí¨Ç"	FTX Token*Ø§Ùâ€ŒØªÛŒâ€ŒØ§Ú©Ø³ ØªÙˆÚ©Ù†20.6475:75014AÃõ(\B8ÀHÎéÅeR<https://s2.coinmarketcap.com/static/img/coins/64x64/4195.png
+›
+
+1404/07/1914:21Íí¨Ç"Terra Classic*ØªØ±Ø§ Ú©Ù„Ø§Ø³ÛŒÚ©2
+0.00003834:4.44A…ëQ¸Å;ÀHíÓdR<https://s2.coinmarketcap.com/static/img/coins/64x64/4172.png
+„
+
+1404/07/1914:21Íí¨Ç"Amp*Ø¢Ù…Ù¾20.002495:289.06A     À0ÀHƒ…£dR<https://s2.coinmarketcap.com/static/img/coins/64x64/6945.png
+‰
+
+1404/07/1914:21Íí¨Ç"Qtum*Ú©ÛŒÙˆØªÙˆÙ…21.9681:228009A…ëQ¸Ş0ÀH²®ªcR<https://s2.coinmarketcap.com/static/img/coins/64x64/1684.png
+“
+
+1404/07/1914:21Íí¨Ç"	SoSoValue*Ø³ÙˆØ³Ùˆ ÙˆÙ„ÛŒÙˆ20.7413:85882A
+×£p=
+ï¿HİïaR=https://s2.coinmarketcap.com/static/img/coins/64x64/35818.png
+
+
+1404/07/1914:21Íí¨Ç"SafePal*Ø³ÛŒÙâ€ŒÙ¾Ø§Ù„20.4066:47110A×£p=
+—2ÀHÜÂù`R<https://s2.coinmarketcap.com/static/img/coins/64x64/8119.png
+—
+
+1404/07/1914:21Íí¨Ç"Legacy Token*Ù„Ú¯Ø³ÛŒ ØªÙˆÚ©Ù†21.9080:221046A®Gázî¿Hõ³È`R=https://s2.coinmarketcap.com/static/img/coins/64x64/24257.png
+™
+
+1404/07/1914:21Íí¨Ç"Project Ailey*Ù¾Ø±ÙˆÚ˜Ù‡ Ø¢ÛŒÙ„ÛŒ20.5089:58958A×£p=
+×ÀHîµ¬_R=https://s2.coinmarketcap.com/static/img/coins/64x64/30605.png
+‹
+
+1404/07/1914:21Íí¨Ç"Kusama*Ú©ÙˆØ³Ø§Ù…Ø§211.31:1310845AÂõ(\O8ÀHã™Â\R<https://s2.coinmarketcap.com/static/img/coins/64x64/5034.png
+
+
+1404/07/1914:20Øì¨Ç"QUBIC*Ú©ÛŒÙˆØ¨ÛŒÚ©2
+0.00000154:0.1784A…ëQ¸…ÀHÂ‘¹\R=https://s2.coinmarketcap.com/static/img/coins/64x64/29169.png
+²
+
+1404/07/1914:21Íí¨Ç"StandX DUSD*-Ø§Ø³ØªÙ†Ø¯ Ø§ÛŒÚ©Ø³ Ø¯ÛŒâ€ŒÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0003:115889A{®Gáz¤?Hê›š\R=https://s2.coinmarketcap.com/static/img/coins/64x64/36762.png
+£
+
+1404/07/1914:21Íí¨Ç"MOG Coin*Ù…Ø§Ú¯ Ú©ÙˆÛŒÙ†20.0000004873145561957209:0.0565A)\Âõ¨?ÀH˜ãàZR=https://s2.coinmarketcap.com/static/img/coins/64x64/27659.png
+˜
+
+1404/07/1914:21Íí¨Ç"Dog (Runes)*Ø¯Ø§Ú¯ (Ø±ÙˆÙ†Ø²)20.001902:220.40A=
+×£p½&ÀHšÊÛZR=https://s2.coinmarketcap.com/static/img/coins/64x64/30933.png
+”
+
+1404/07/1914:21Íí¨Ç"UPCX*ÛŒÙˆÙ¾ÛŒâ€ŒØ³ÛŒâ€ŒØ§Ú©Ø³22.01:233180AHáz®Gù¿H¼ƒ‚ZR=https://s2.coinmarketcap.com/static/img/coins/64x64/28654.png
+
+
+1404/07/1914:21Íí¨Ç"Velo*ÙˆÙ„Ùˆ20.0106:1231A¸…ëQ8'ÀHÕşXR<https://s2.coinmarketcap.com/static/img/coins/64x64/7127.png
+
+
+1404/07/1914:21Íí¨Ç"	GMT Token*Ø¬ÛŒâ€ŒØ§Ù…â€ŒØªÛŒ ØªÙˆÚ©Ù†20.4579:53044A=
+×£p=ÀHšöíXR=https://s2.coinmarketcap.com/static/img/coins/64x64/10180.png
+ƒ
+
+1404/07/1914:21Íí¨Ç"Safe*Ø³ÛŒÙ20.2866:33203A{®Gáú2ÀHí¯¸XR=https://s2.coinmarketcap.com/static/img/coins/64x64/21585.png
+…
+
+1404/07/1914:21Íí¨Ç"Prom*Ù¾Ø±ÙˆÙ…210.06:1165089A=
+×£p=ú?HñıÁWR<https://s2.coinmarketcap.com/static/img/coins/64x64/4120.png
+
+
+1404/07/1914:21Íí¨Ç"
+Theta Fuel*ØªØªØ§ ÙÛŒÙˆÙ„20.0257:2974A¤p=
+×#1ÀH­ÉïVR<https://s2.coinmarketcap.com/static/img/coins/64x64/3822.png
+…
+
+1404/07/1914:21Íí¨Ç"Golem*Ú¯ÙˆÙ„Ù…20.1821:21092Aáz®Gá0ÀH­ÚçVR<https://s2.coinmarketcap.com/static/img/coins/64x64/1455.png
+Œ
+
+1404/07/1914:21Íí¨Ç"BUILDon*Ø¨ÛŒÙ„Ø¯Ø¢Ù†20.1811:20976A     À2ÀH©…«VR=https://s2.coinmarketcap.com/static/img/coins/64x64/36532.png
+·
+
+1404/07/1914:21Íí¨Ç"Baby Doge Coin*Ø¨ÛŒØ¨ÛŒ Ø¯ÙˆØ¬ Ú©ÙˆÛŒÙ†20.0000000010583862557188186:0.000123Aö(\Â51ÀH×¼ãUR=https://s2.coinmarketcap.com/static/img/coins/64x64/10407.png
+¯
+
+1404/07/1914:21Íí¨Ç"cat in a dogs world* Ú©Øª Ø§ÛŒÙ† Ø§ Ø¯Ø§Ú¯Ø² ÙˆØ±Ù„Ø¯20.002023:234.39A)\Âõ(6ÀHÄÀàUR=https://s2.coinmarketcap.com/static/img/coins/64x64/30126.png
+Ÿ
+
+1404/07/1914:21Íí¨Ç"Kamino Finance*Ú©Ø§Ù…ÛŒÙ†Ùˆ ÙØ§ÛŒÙ†Ù†Ø³20.0603:6987AÂõ(\O0ÀHÅ‚ÒUR=https://s2.coinmarketcap.com/static/img/coins/64x64/30986.png
+‹
+
+1404/07/1914:21Íí¨Ç"Turbo*
+ØªÙˆØ±Ø¨Ùˆ20.002583:299.21A¤p=
+×ã9ÀH¾ÙüTR=https://s2.coinmarketcap.com/static/img/coins/64x64/24911.png
+
+
+1404/07/1914:21Íí¨Ç"STP*Ø§Ø³â€ŒØªÛŒâ€ŒÙ¾ÛŒ20.0895:10372AÍÌÌÌÌÌÀHÓ¢öRR<https://s2.coinmarketcap.com/static/img/coins/64x64/4006.png
+—
+
+1404/07/1914:21Íí¨Ç"	Sahara AI*ØµØ­Ø±Ø§ Ø§ÙÛŒâ€ŒØ¢ÛŒ20.0757:8767Aš™™™™™ÀH¨¯İRR=https://s2.coinmarketcap.com/static/img/coins/64x64/36671.png
+
+
+1404/07/1914:21Íí¨Ç"Ultima*Ø§ÙˆÙ„ØªÛŒÙ…Ø§24630:	536429771Aáz®Gá'ÀH¨ÌRR=https://s2.coinmarketcap.com/static/img/coins/64x64/28293.png
+†
+
+1404/07/1914:21Íí¨Ç"Keeta*Ú©ÛŒØªØ§20.3985:46167A¤p=
+×ã0ÀH‹ı¤QR=https://s2.coinmarketcap.com/static/img/coins/64x64/36066.png
+‹
+
+1404/07/1914:21Íí¨Ç"0x*Ø²ÛŒØ±Ùˆ Ø§ÛŒÚ©Ø³20.2003:23200A\Âõ(œ4ÀHì¶QR<https://s2.coinmarketcap.com/static/img/coins/64x64/1896.png
+‚
+
+1404/07/1914:21Íí¨Ç"Celo*Ø³Ù„Ùˆ20.2895:33536A)\Âõh4ÀHˆÜÏPR<https://s2.coinmarketcap.com/static/img/coins/64x64/5567.png
+
+
+1404/07/1914:21Íí¨Ç"Avantis*Ø¢ÙˆØ§Ù†ØªÛŒØ³20.6528:75629A      8ÀHŒú¯PR=https://s2.coinmarketcap.com/static/img/coins/64x64/38299.png
+š
+
+1404/07/1914:21Íí¨Ç"Euler Finance*Ø§ÙˆÙ„Ø± ÙØ§ÛŒÙ†Ù†Ø³28.49:983360A\Âõ(Ü)ÀHºÛ–PR=https://s2.coinmarketcap.com/static/img/coins/64x64/14280.png
+…
+
+1404/07/1914:21Íí¨Ç"Aleo*Ø§Ù„Ø¦Ùˆ20.2963:34332AÂõ(\0ÀHâÖÊOR=https://s2.coinmarketcap.com/static/img/coins/64x64/32193.png
 ~
 
-1404/07/1914:11õè¨Ç"Gas*Ú¯Ø³22.51:291844AR¸…ë0ÀH™è÷MR<https://s2.coinmarketcap.com/static/img/coins/64x64/1785.png
+1404/07/1914:21Íí¨Ç"Gas*Ú¯Ø³22.51:291300A3333330ÀHÄ’öMR<https://s2.coinmarketcap.com/static/img/coins/64x64/1785.png
+‘
+
+1404/07/1914:21Íí¨Ç"Subsquid*Ø³Ø§Ø¨Ø³Ú©ÙˆÛŒØ¯20.1893:21929AR¸…ëÑ2ÀH±…ÓMR=https://s2.coinmarketcap.com/static/img/coins/64x64/12894.png
 ²
 
-1404/07/1914:11õè¨Ç"BNB48 Club Token*)Ø¨ÛŒâ€ŒØ§Ù†â€ŒØ¨ÛŒ Û´Û¸ Ú©Ù„Ø§Ø¨ ØªÙˆÚ©Ù†248.05:5576533A{®Gáz´?HÁ°ÑMR<https://s2.coinmarketcap.com/static/img/coins/64x64/7184.png
+1404/07/1914:21Íí¨Ç"BNB48 Club Token*)Ø¨ÛŒâ€ŒØ§Ù†â€ŒØ¨ÛŒ Û´Û¸ Ú©Ù„Ø§Ø¨ ØªÙˆÚ©Ù†248.05:5567192A{®Gáz´?H˜ÍÑMR<https://s2.coinmarketcap.com/static/img/coins/64x64/7184.png
 £
 
-1404/07/1914:11õè¨Ç"ApeX Protocol*Ø§ÛŒÙ¾â€ŒØ§Ú©Ø³ Ù¾Ø±ÙˆØªÚ©Ù„21.2027:139570A      :ÀH²”MR=https://s2.coinmarketcap.com/static/img/coins/64x64/19843.png
+1404/07/1914:21Íí¨Ç"ApeX Protocol*Ø§ÛŒÙ¾â€ŒØ§Ú©Ø³ Ù¾Ø±ÙˆØªÚ©Ù„21.1968:138651A®Gáz:ÀH×áãLR=https://s2.coinmarketcap.com/static/img/coins/64x64/19843.png
 š
 
-1404/07/1914:11õè¨Ç"yearn.finance*ÛŒØ±Ù† ÙØ§ÛŒÙ†Ù†Ø³24762:	552600131Afffffæ$ÀH›ÇöLR<https://s2.coinmarketcap.com/static/img/coins/64x64/5864.png
+1404/07/1914:21Íí¨Ç"yearn.finance*ÛŒØ±Ù† ÙØ§ÛŒÙ†Ù†Ø³24753:	550599964A…ëQ¸&ÀHÕÌãLR<https://s2.coinmarketcap.com/static/img/coins/64x64/5864.png
 ‡
 
-1404/07/1914:11õè¨Ç"Astar*
-Ø¢Ø³ØªØ§Ø±20.0197:2285A®Gáz”6ÀHÍ¼ïLR=https://s2.coinmarketcap.com/static/img/coins/64x64/12885.png
+1404/07/1914:21Íí¨Ç"Astar*
+Ø¢Ø³ØªØ§Ø±20.0196:2272A×£p=
+×6ÀH‡¢ÇLR=https://s2.coinmarketcap.com/static/img/coins/64x64/12885.png
 ¦
 
-1404/07/1914:11õè¨Ç"Humanity Protocol*Ù¾Ø±ÙˆØªÚ©Ù„ Ù‡ÛŒÙˆÙ…Ù†ÛŒØªÛŒ20.0758:8802AìQ¸…k!@HàÆÒLR=https://s2.coinmarketcap.com/static/img/coins/64x64/36922.png
+1404/07/1914:21Íí¨Ç"Humanity Protocol*Ù¾Ø±ÙˆØªÚ©Ù„ Ù‡ÛŒÙˆÙ…Ù†ÛŒØªÛŒ20.0749:8673A\Âõ(\@H–ÎÓKR=https://s2.coinmarketcap.com/static/img/coins/64x64/36922.png
 
 
-1404/07/1914:11õè¨Ç"Zilliqa*Ø²ÛŒÙ„ÛŒÚ©Ø§20.008086:938.35A¤p=
-×ã9ÀH×±KR<https://s2.coinmarketcap.com/static/img/coins/64x64/2469.png
+1404/07/1914:21Íí¨Ç"Zilliqa*Ø²ÛŒÙ„ÛŒÚ©Ø§20.008052:932.88A¤p=
+×#:ÀH–¡‰KR<https://s2.coinmarketcap.com/static/img/coins/64x64/2469.png
 
 
-1404/07/1914:11õè¨Ç"Nervos Network*Ù†Ø±ÙˆÙˆØ³ Ù†ØªÙˆØ±Ú©20.003310:384.15Aš™™™™™5ÀH¿‰îJR<https://s2.coinmarketcap.com/static/img/coins/64x64/4948.png
+1404/07/1914:21Íí¨Ç"Nervos Network*Ù†Ø±ÙˆÙˆØ³ Ù†ØªÙˆØ±Ú©20.003306:383.02AHáz®Ç5ÀHè€âJR<https://s2.coinmarketcap.com/static/img/coins/64x64/4948.png
 ƒ
 
-1404/07/1914:11õè¨Ç"Gems*Ø¬Ù…Ø²20.2566:29773A×£p=
-×ÿ?H¿¡IR=https://s2.coinmarketcap.com/static/img/coins/64x64/31750.png
-Œ
-
-1404/07/1914:11õè¨Ç"Popcat*Ù¾Ø§Ù¾â€ŒÚ©Øª20.1560:18099AÃõ(\B?ÀH°ğHR=https://s2.coinmarketcap.com/static/img/coins/64x64/28782.png
-
-
-1404/07/1914:08”ç¨Ç"Lombard*Ù„ÙˆÙ…Ø¨Ø§Ø±Ø¯20.6760:78408A®GázÀH£«ÃHR=https://s2.coinmarketcap.com/static/img/coins/64x64/38408.png
+1404/07/1914:21Íí¨Ç"Gems*Ø¬Ù…Ø²20.2581:29907Affffff@H‡ÌÛIR=https://s2.coinmarketcap.com/static/img/coins/64x64/31750.png
 š
 
-1404/07/1914:11õè¨Ç"Bio Protocol*Ø¨Ø§ÛŒÙˆ Ù¾Ø±ÙˆØªÚ©Ù„20.0863:10016Aq=
-×£08ÀHõî¼HR=https://s2.coinmarketcap.com/static/img/coins/64x64/34812.png
+1404/07/1914:21Íí¨Ç"Bio Protocol*Ø¨Ø§ÛŒÙˆ Ù¾Ø±ÙˆØªÚ©Ù„20.0868:10060A…ëQ¸Ş7ÀHË¦õHR=https://s2.coinmarketcap.com/static/img/coins/64x64/34812.png
+Œ
+
+1404/07/1914:21Íí¨Ç"Popcat*Ù¾Ø§Ù¾â€ŒÚ©Øª20.1560:18071AìQ¸…k?ÀH½ÃñHR=https://s2.coinmarketcap.com/static/img/coins/64x64/28782.png
+
+
+1404/07/1914:21Íí¨Ç"Lombard*Ù„ÙˆÙ…Ø¨Ø§Ø±Ø¯20.6742:78108AR¸…ëQÀHéÔªHR=https://s2.coinmarketcap.com/static/img/coins/64x64/38408.png
+–
+
+1404/07/1914:21Íí¨Ç"
+Concordium*Ú©ÙˆÙ†Ú©ÙˆØ±Ø¯ÛŒÙˆÙ…20.0130:1501AHáz®G=ÀH„‹¡HR=https://s2.coinmarketcap.com/static/img/coins/64x64/18031.png
 ¨
 
-1404/07/1914:11õè¨Ç"VVS Finance*ÙˆÛŒâ€ŒÙˆÛŒâ€ŒØ§Ø³ ÙØ§ÛŒÙ†Ù†Ø³2
-0.00000324:0.3755A33333ó0ÀHÀŞHR=https://s2.coinmarketcap.com/static/img/coins/64x64/14519.png
-–
-
-1404/07/1914:08”ç¨Ç"
-Concordium*Ú©ÙˆÙ†Ú©ÙˆØ±Ø¯ÛŒÙˆÙ…20.0129:1496A¸…ëQx>ÀHëÒõGR=https://s2.coinmarketcap.com/static/img/coins/64x64/18031.png
+1404/07/1914:21Íí¨Ç"VVS Finance*ÙˆÛŒâ€ŒÙˆÛŒâ€ŒØ§Ø³ ÙØ§ÛŒÙ†Ù†Ø³2
+0.00000322:0.3734Affffff1ÀH×‹îGR=https://s2.coinmarketcap.com/static/img/coins/64x64/14519.png
 
 
-1404/07/1914:11õè¨Ç"Oasis Network*Ø§ÙˆØ¦ÛŒØ³ÛŒØ³ Ù†ØªÙˆØ±Ú©20.0202:2348A{®Gáz:ÀHÄÔÀGR<https://s2.coinmarketcap.com/static/img/coins/64x64/7653.png
+1404/07/1914:21Íí¨Ç"Oasis Network*Ø§ÙˆØ¦ÛŒØ³ÛŒØ³ Ù†ØªÙˆØ±Ú©20.0202:2340A33333s;ÀHÆ¨´GR<https://s2.coinmarketcap.com/static/img/coins/64x64/7653.png
 ´
 
-1404/07/1914:09óç¨Ç"Rekt (rektcoin.com)*Ø±Ú©Øª (rektcoin.com)20.0000005365742750953616:0.0622A=
-×£p½.ÀH³²GR=https://s2.coinmarketcap.com/static/img/coins/64x64/34434.png
-ƒ
-
-1404/07/1914:09óç¨Ç"å¸å®‰äººç”Ÿ20.1495:17338A…ëQ¸CÀH¡¡£GR=https://s2.coinmarketcap.com/static/img/coins/64x64/38590.png
-’
-
-1404/07/1914:11õè¨Ç"	SushiSwap*Ø³ÙˆØ´ÛŒ Ø³ÙˆØ§Ù¾20.5220:60578A×£p=
-:ÀH”è„GR<https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png
+1404/07/1914:21Íí¨Ç"Rekt (rektcoin.com)*Ø±Ú©Øª (rektcoin.com)20.0000005357643065166541:0.0621A¤p=
+×#/ÀH´Í¤GR=https://s2.coinmarketcap.com/static/img/coins/64x64/34434.png
 „
 
-1404/07/1914:11õè¨Ç"Mina*Ù…ÛŒÙ†Ø§20.1184:13739A{®Gáz;ÀHª°÷FR<https://s2.coinmarketcap.com/static/img/coins/64x64/8646.png
+1404/07/1914:21Íí¨Ç"Mina*Ù…ÛŒÙ†Ø§20.1182:13690AHáz®Ç;ÀHÏ§æFR<https://s2.coinmarketcap.com/static/img/coins/64x64/8646.png
+’
+
+1404/07/1914:21Íí¨Ç"	SushiSwap*Ø³ÙˆØ´ÛŒ Ø³ÙˆØ§Ù¾20.5190:60123A®Gáz®:ÀHÂùÏFR<https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png
 •
 
-1404/07/1914:08”ç¨Ç"	Ravencoin*Ø±ÛŒÙˆÙ†â€ŒÚ©ÙˆÛŒÙ†20.009475:1099Aáz®Gá7ÀHıœìFR<https://s2.coinmarketcap.com/static/img/coins/64x64/2577.png
+1404/07/1914:21Íí¨Ç"	Ravencoin*Ø±ÛŒÙˆÙ†â€ŒÚ©ÙˆÛŒÙ†20.009443:1094A)\Âõh8ÀHçÇÍFR<https://s2.coinmarketcap.com/static/img/coins/64x64/2577.png
 ¥
 
-1404/07/1914:11õè¨Ç"Peanut the Squirrel*Ù¾ÛŒÙ†Ø§Øª Ø§Ø³Ú©ÙˆØ§ÛŒØ±20.1460:16942Aq=
-×£0<ÀHüÍER=https://s2.coinmarketcap.com/static/img/coins/64x64/33788.png
+1404/07/1914:21Íí¨Ç"Peanut the Squirrel*Ù¾ÛŒÙ†Ø§Øª Ø§Ø³Ú©ÙˆØ§ÛŒØ±20.1459:16899A×£p=
+W<ÀHÀ³ÅER=https://s2.coinmarketcap.com/static/img/coins/64x64/33788.png
+ƒ
+
+1404/07/1914:21Íí¨Ç"å¸å®‰äººç”Ÿ20.1447:16761A
+×£p=êAÀHö„şDR=https://s2.coinmarketcap.com/static/img/coins/64x64/38590.png
 
 
-1404/07/1914:11õè¨Ç"Metaplex*Ù…ØªØ§Ù¾Ù„Ú©Ø³20.2460:28547A®Gáz®"ÀH¶µæDR=https://s2.coinmarketcap.com/static/img/coins/64x64/21870.png
+1404/07/1914:21Íí¨Ç"Metaplex*Ù…ØªØ§Ù¾Ù„Ú©Ø³20.2459:28485A×£p=
+×"ÀHÂâDR=https://s2.coinmarketcap.com/static/img/coins/64x64/21870.png
 •
 
-1404/07/1914:11õè¨Ç"	WhiteRock*ÙˆØ§ÛŒØªâ€ŒØ±Ø§Ú©20.000219:25.42AR¸…ëQ.ÀH—ÃñCR=https://s2.coinmarketcap.com/static/img/coins/64x64/34143.png
+1404/07/1914:21Íí¨Ç"	WhiteRock*ÙˆØ§ÛŒØªâ€ŒØ±Ø§Ú©20.000218:25.31AìQ¸…k.ÀHœÔÚCR=https://s2.coinmarketcap.com/static/img/coins/64x64/34143.png
+›
+
+1404/07/1914:21Íí¨Ç"STASIS EURO*Ø§Ø³ØªØ§Ø²ÛŒØ³ ÛŒÙˆØ±Ùˆ21.1429:132413A…ëQ¸…ó¿H²şÒCR<https://s2.coinmarketcap.com/static/img/coins/64x64/2989.png
 ³
 
-1404/07/1914:11õè¨Ç"Quantum Resistant Ledger*$Ú©ÙˆØ§Ù†ØªÙˆÙ… Ø±Ø²ÛŒØ³ØªÙ†Øª Ù„Ø¬Ø±22.09:243016Aáz®Ga"@H¶‘ëCR<https://s2.coinmarketcap.com/static/img/coins/64x64/1712.png
-›
-
-1404/07/1914:11õè¨Ç"STASIS EURO*Ø§Ø³ØªØ§Ø²ÛŒØ³ ÛŒÙˆØ±Ùˆ21.1429:132639A…ëQ¸…ó¿H²şÒCR<https://s2.coinmarketcap.com/static/img/coins/64x64/2989.png
-š
-
-1404/07/1914:11õè¨Ç"	Nexusmind*Ù†Ú©Ø³ÙˆØ³â€ŒÙ…Ø§ÛŒÙ†Ø¯213.79:1600459AìQ¸…ë>ÀH•—ºCR=https://s2.coinmarketcap.com/static/img/coins/64x64/29585.png
+1404/07/1914:21Íí¨Ç"Quantum Resistant Ledger*$Ú©ÙˆØ§Ù†ØªÙˆÙ… Ø±Ø²ÛŒØ³ØªÙ†Øª Ù„Ø¬Ø±22.09:241876A=
+×£p½#@HÜÑCR<https://s2.coinmarketcap.com/static/img/coins/64x64/1712.png
 …
 
-1404/07/1914:11õè¨Ç"Fellaz*ÙÙ„Ø²20.2950:34235A{®Gázø¿Hø´°BR=https://s2.coinmarketcap.com/static/img/coins/64x64/20787.png
-
-
-1404/07/1914:11õè¨Ç"Proton*Ù¾Ø±ÙˆØªÙˆÙ†20.004941:573.38A®Gáz.+ÀHÕØˆBR<https://s2.coinmarketcap.com/static/img/coins/64x64/5350.png
+1404/07/1914:21Íí¨Ç"Fellaz*ÙÙ„Ø²20.2951:34192A®Gáz®÷¿H‹‚´BR=https://s2.coinmarketcap.com/static/img/coins/64x64/20787.png
 †
 
-1404/07/1914:11õè¨Ç"Grass*Ú¯Ø±Ø§Ø³20.5677:65880A®Gáz®:ÀHÂ‰ƒBR=https://s2.coinmarketcap.com/static/img/coins/64x64/32956.png
+1404/07/1914:21Íí¨Ç"Grass*Ú¯Ø±Ø§Ø³20.5687:65887A…ëQ¸Å:ÀH¼¬’BR=https://s2.coinmarketcap.com/static/img/coins/64x64/32956.png
+
+
+1404/07/1914:21Íí¨Ç"Proton*Ù¾Ø±ÙˆØªÙˆÙ†20.004936:571.81Aáz®Ga+ÀHÅùÿAR<https://s2.coinmarketcap.com/static/img/coins/64x64/5350.png
 …
 
-1404/07/1914:11õè¨Ç"DORA*Ø¯ÙˆØ±Ø§20.1378:15995A…ëQ¸$ÀHôèˆAR=https://s2.coinmarketcap.com/static/img/coins/64x64/37482.png
+1404/07/1914:21Íí¨Ç"DORA*Ø¯ÙˆØ±Ø§20.1380:15991A×£p=
+×#ÀH¤ù”AR=https://s2.coinmarketcap.com/static/img/coins/64x64/37482.png
+š
+
+1404/07/1914:21Íí¨Ç"	Nexusmind*Ù†Ú©Ø³ÙˆØ³â€ŒÙ…Ø§ÛŒÙ†Ø¯213.12:1520366A      @ÀHï„˜@R=https://s2.coinmarketcap.com/static/img/coins/64x64/29585.png
 ‘
 
-1404/07/1914:11õè¨Ç"Succinct*Ø³Ø§Ú©Ø³ÛŒÙ†Ú©Øª20.6903:80110Aš™™™™Ù1ÀHØú—@R=https://s2.coinmarketcap.com/static/img/coins/64x64/37593.png
+1404/07/1914:21Íí¨Ç"Succinct*Ø³Ø§Ú©Ø³ÛŒÙ†Ú©Øª20.6902:79957Aáz®Gá1ÀHí˜–@R=https://s2.coinmarketcap.com/static/img/coins/64x64/37593.png
 
 
-1404/07/1914:11õè¨Ç"Zigcoin*Ø²ÛŒÚ¯â€ŒÚ©ÙˆÛŒÙ†20.0944:10958AHáz®G'ÀH…î·?R<https://s2.coinmarketcap.com/static/img/coins/64x64/9260.png
+1404/07/1914:21Íí¨Ç"Zigcoin*Ø²ÛŒÚ¯â€ŒÚ©ÙˆÛŒÙ†20.0945:10944AHáz®G'ÀH”É»?R<https://s2.coinmarketcap.com/static/img/coins/64x64/9260.png
 ‚
 
-1404/07/1914:11õè¨Ç"Blur*Ø¨Ù„Ø±20.0519:6022Afffff¦<ÀH’ö?R=https://s2.coinmarketcap.com/static/img/coins/64x64/23121.png
+1404/07/1914:21Íí¨Ç"Blur*Ø¨Ù„Ø±20.0518:5997Aq=
+×£ğ<ÀH·øû>R=https://s2.coinmarketcap.com/static/img/coins/64x64/23121.png
 …
 
-1404/07/1914:11õè¨Ç"peaq*Ù¾ÛŒØ§Ú©20.0966:11216A×£p=
-W-ÀHª„ê>R=https://s2.coinmarketcap.com/static/img/coins/64x64/14588.png
+1404/07/1914:21Íí¨Ç"peaq*Ù¾ÛŒØ§Ú©20.0967:11200AHáz®G-ÀHŞ¬ì>R=https://s2.coinmarketcap.com/static/img/coins/64x64/14588.png
 —
 
-1404/07/1914:11õè¨Ç"SPACE ID*Ø§Ø³Ù¾ÛŒØ³ Ø¢ÛŒâ€ŒØ¯ÛŒ20.1108:12862A×£p=
-9ÀH¡ÜÔ>R=https://s2.coinmarketcap.com/static/img/coins/64x64/21846.png
+1404/07/1914:21Íí¨Ç"SPACE ID*Ø§Ø³Ù¾ÛŒØ³ Ø¢ÛŒâ€ŒØ¯ÛŒ20.1106:12812A®GázT9ÀHæŸÃ>R=https://s2.coinmarketcap.com/static/img/coins/64x64/21846.png
 ’
 
-1404/07/1914:11õè¨Ç"
-Frax Share*ÙØ±Ú©Ø³ Ø´ÛŒØ±21.4409:167214A     €?ÀHı‡‹>R<https://s2.coinmarketcap.com/static/img/coins/64x64/6953.png
-˜
-
-1404/07/1914:11õè¨Ç"CoW Protocol*Ú©Ø§Ùˆ Ù¾Ø±ÙˆØªÚ©Ù„20.2468:28636AÍÌÌÌÌL'ÀHóÄÇ=R=https://s2.coinmarketcap.com/static/img/coins/64x64/19269.png
+1404/07/1914:21Íí¨Ç"
+Frax Share*ÙØ±Ú©Ø³ Ø´ÛŒØ±21.4384:166645AHáz®Ç?ÀHë¾ı=R<https://s2.coinmarketcap.com/static/img/coins/64x64/6953.png
 
 
-1404/07/1914:11õè¨Ç"	ZetaChain*Ø²ØªØ§Ú†ÛŒÙ†20.1203:13963AÃõ(\‚=ÀH¹Á=R=https://s2.coinmarketcap.com/static/img/coins/64x64/21259.png
-
+1404/07/1914:21Íí¨Ç"	ZetaChain*Ø²ØªØ§Ú†ÛŒÙ†20.1200:13908AÃõ(\Â=ÀH¶»¯=R=https://s2.coinmarketcap.com/static/img/coins/64x64/21259.png
+˜
 
-1404/07/1914:08”ç¨Ç"
-Centrifuge*Ø³Ù†ØªØ±ÙÙˆØ¬20.2271:26338A{®Gáz1ÀHõ©¥=R<https://s2.coinmarketcap.com/static/img/coins/64x64/6748.png
+1404/07/1914:21Íí¨Ç"CoW Protocol*Ú©Ø§Ùˆ Ù¾Ø±ÙˆØªÚ©Ù„20.2448:28356AÂõ(\)ÀHàÛ‡=R=https://s2.coinmarketcap.com/static/img/coins/64x64/19269.png
 ‹
 
-1404/07/1914:11áè¨Ç"IoTeX*Ø¢ÛŒÙˆâ€ŒØªÚ©Ø³20.0136:1578A×£p=
-×EÀH¥Å=R<https://s2.coinmarketcap.com/static/img/coins/64x64/2777.png
+1404/07/1914:21Íí¨Ç"IoTeX*Ø¢ÛŒÙˆâ€ŒØªÚ©Ø³20.0135:1568A{®GáFÀH¶”÷<R<https://s2.coinmarketcap.com/static/img/coins/64x64/2777.png
+
+
+1404/07/1914:21Íí¨Ç"
+Centrifuge*Ø³Ù†ØªØ±ÙÙˆØ¬20.2237:25915A…ëQ¸Ş2ÀHñÇ°<R<https://s2.coinmarketcap.com/static/img/coins/64x64/6748.png
 ‘
 
-1404/07/1914:11õè¨Ç"Alchemy Pay*Ø§Ù„Ú©Ù…ÛŒ Ù¾ÛŒ20.0132:1536AìQ¸…«<ÀH·ƒÂ<R<https://s2.coinmarketcap.com/static/img/coins/64x64/6958.png
+1404/07/1914:21Íí¨Ç"Alchemy Pay*Ø§Ù„Ú©Ù…ÛŒ Ù¾ÛŒ20.0132:1525A=
+×£p==ÀHƒ–<R<https://s2.coinmarketcap.com/static/img/coins/64x64/6958.png
 œ
 
-1404/07/1914:11õè¨Ç"Rollbit Coin*Ø±ÙˆÙ„â€ŒØ¨ÛŒØª Ú©ÙˆÛŒÙ†20.0656:7617A
-×£p=
-%ÀHšÁ§;R=https://s2.coinmarketcap.com/static/img/coins/64x64/15271.png
+1404/07/1914:21Íí¨Ç"Rollbit Coin*Ø±ÙˆÙ„â€ŒØ¨ÛŒØª Ú©ÙˆÛŒÙ†20.0658:7626A
+×£p=Š$ÀHˆ½;R=https://s2.coinmarketcap.com/static/img/coins/64x64/15271.png
 ©
 
-1404/07/1914:11õè¨Ç"World Mobile Token*ÙˆØ±Ù„Ø¯ Ù…ÙˆØ¨Ø§ÛŒÙ„ ØªÙˆÚ©Ù†20.1765:20489A=
-×£p=ÀH×ğ”;R=https://s2.coinmarketcap.com/static/img/coins/64x64/13769.png
+1404/07/1914:21Íí¨Ç"World Mobile Token*ÙˆØ±Ù„Ø¯ Ù…ÙˆØ¨Ø§ÛŒÙ„ ØªÙˆÚ©Ù†20.1767:20471A®GázÀHá´›;R=https://s2.coinmarketcap.com/static/img/coins/64x64/13769.png
 ’
 
-1404/07/1914:11õè¨Ç"	Threshold*ØªØ±Ø´â€ŒÙ‡ÙˆÙ„Ø¯20.0122:1420Afffff&4ÀHŒã;R=https://s2.coinmarketcap.com/static/img/coins/64x64/17751.png
-•
-
-1404/07/1914:11õè¨Ç"DigiByte*Ø¯ÛŒØ¬ÛŒâ€ŒØ¨Ø§ÛŒØª20.006899:800.61Affffff+ÀHÖ‹„;R;https://s2.coinmarketcap.com/static/img/coins/64x64/109.png
+1404/07/1914:21Íí¨Ç"	Threshold*ØªØ±Ø´â€ŒÙ‡ÙˆÙ„Ø¯20.0122:1417Aš™™™™Y4ÀH®;R=https://s2.coinmarketcap.com/static/img/coins/64x64/17751.png
 †
 
-1404/07/1914:11õè¨Ç"Yala*ÛŒØ§Ù„Ø§20.9998:116026A{®Gáz”¿H¬¡Ü:R=https://s2.coinmarketcap.com/static/img/coins/64x64/37345.png
+1404/07/1914:21Íí¨Ç"Yala*ÛŒØ§Ù„Ø§20.9998:115829A{®Gáz”¿H¬¡Ü:R=https://s2.coinmarketcap.com/static/img/coins/64x64/37345.png
 ‚
 
-1404/07/1914:11õè¨Ç"aelf*Ø§Ù„Ù20.1548:17969A=
-×£p½%ÀH–Ï:R<https://s2.coinmarketcap.com/static/img/coins/64x64/2299.png
+1404/07/1914:21Íí¨Ç"aelf*Ø§Ù„Ù20.1549:17950AR¸…ëÑ%ÀHšíÓ:R<https://s2.coinmarketcap.com/static/img/coins/64x64/2299.png
 —
 
-1404/07/1914:11õè¨Ç"
-MANTRA DAO*Ù…Ø§Ù†ØªØ±Ø§ Ø¯Ø§Ø¦Ùˆ20.1126:13066AR¸…ëQ?ÀH§×¼:R<https://s2.coinmarketcap.com/static/img/coins/64x64/6536.png
+1404/07/1914:21Íí¨Ç"
+MANTRA DAO*Ù…Ø§Ù†ØªØ±Ø§ Ø¯Ø§Ø¦Ùˆ20.1125:13038AÃõ(\‚?ÀH€œ¹:R<https://s2.coinmarketcap.com/static/img/coins/64x64/6536.png
+•
+
+1404/07/1914:21Íí¨Ç"DigiByte*Ø¯ÛŒØ¬ÛŒâ€ŒØ¨Ø§ÛŒØª20.006768:784.14A®Gáz”.ÀH£¢õ9R;https://s2.coinmarketcap.com/static/img/coins/64x64/109.png
 ¡
 
-1404/07/1914:11õè¨Ç"	YZY MONEY*ÙˆØ§ÛŒâ€ŒØ²ÛŒâ€ŒÙˆØ§ÛŒ Ù…Ø§Ù†ÛŒ20.4053:47040A¸…ëQ¸ÀH”‹ş9R=https://s2.coinmarketcap.com/static/img/coins/64x64/38151.png
+1404/07/1914:21Íí¨Ç"	YZY MONEY*ÙˆØ§ÛŒâ€ŒØ²ÛŒâ€ŒÙˆØ§ÛŒ Ù…Ø§Ù†ÛŒ20.4021:46581AÂõ(\ÀHÃ”Â9R=https://s2.coinmarketcap.com/static/img/coins/64x64/38151.png
 
 
-1404/07/1914:11õè¨Ç"Siacoin*Ø³ÛŒØ§Ú©ÙˆÛŒÙ†20.002140:248.37A)\Âõ¨1ÀH¹¹–9R<https://s2.coinmarketcap.com/static/img/coins/64x64/1042.png
+1404/07/1914:21Íí¨Ç"Siacoin*Ø³ÛŒØ§Ú©ÙˆÛŒÙ†20.002139:247.86A33333³1ÀH—Ş“9R<https://s2.coinmarketcap.com/static/img/coins/64x64/1042.png
 
 
-1404/07/1914:11õè¨Ç"SLT*Ø§Ø³â€ŒØ§Ù„â€ŒØªÛŒ214.02:1627538A¸…ëQ¸î¿HÌïë8R=https://s2.coinmarketcap.com/static/img/coins/64x64/36511.png
+1404/07/1914:21Íí¨Ç"SLT*Ø§Ø³â€ŒØ§Ù„â€ŒØªÛŒ214.02:1624763A¸…ëQ¸î¿H·èë8R=https://s2.coinmarketcap.com/static/img/coins/64x64/36511.png
 ˆ
 
-1404/07/1914:11õè¨Ç"Shuffle*Ø´Ø§ÙÙ„20.3490:40498A)\Âõ(ÀHç¶Š8R=https://s2.coinmarketcap.com/static/img/coins/64x64/29960.png
+1404/07/1914:21Íí¨Ç"Shuffle*Ø´Ø§ÙÙ„20.3528:40875A\Âõ(\ÀHêÀÙ8R=https://s2.coinmarketcap.com/static/img/coins/64x64/29960.png
 …
 
-1404/07/1914:09óç¨Ç"Giggle Fund2117.04:13575960A=
-×£pı6@Hƒèç7R=https://s2.coinmarketcap.com/static/img/coins/64x64/38470.png
-‹
-
-1404/07/1914:11õè¨Ç"Casper*
-Ú©Ø§Ø³Ù¾Ø±20.008612:999.46A=
-×£p=ÀH’‹³7R<https://s2.coinmarketcap.com/static/img/coins/64x64/5899.png
+1404/07/1914:21Íí¨Ç"Giggle Fund2117.00:13555114A®Gáz.;@HË£å7R=https://s2.coinmarketcap.com/static/img/coins/64x64/38470.png
 †
 
-1404/07/1914:11õè¨Ç"Venom*ÙˆÙ†ÙˆÙ…20.1169:13571A333333ÀH“¬’7R=https://s2.coinmarketcap.com/static/img/coins/64x64/22059.png
-£
+1404/07/1914:21Íí¨Ç"Venom*ÙˆÙ†ÙˆÙ…20.1169:13547Aáz®GáÀHÆÖ‘7R=https://s2.coinmarketcap.com/static/img/coins/64x64/22059.png
+‹
 
-1404/07/1914:11õè¨Ç"Non-Playable Coin*Ù†Ø§Ù† Ù¾Ù„ÛŒØ¨Ù„ Ú©ÙˆÛŒÙ†20.0153:1777Afffffæ,ÀHòåõ6R=https://s2.coinmarketcap.com/static/img/coins/64x64/27960.png
+1404/07/1914:21Íí¨Ç"Casper*
+Ú©Ø§Ø³Ù¾Ø±20.008543:989.74A      ÀHÛ…ú6R<https://s2.coinmarketcap.com/static/img/coins/64x64/5899.png
 —
 
-1404/07/1914:11õè¨Ç"Noble Dollar*Ù†ÙˆØ¨Ù„ Ø¯Ù„Ø§Ø±21.0015:116229A      à?HşÓñ6R=https://s2.coinmarketcap.com/static/img/coins/64x64/36538.png
+1404/07/1914:21Íí¨Ç"Noble Dollar*Ù†ÙˆØ¨Ù„ Ø¯Ù„Ø§Ø±21.0015:116032A      à?HşÓñ6R=https://s2.coinmarketcap.com/static/img/coins/64x64/36538.png
+£
+
+1404/07/1914:21Íí¨Ç"Non-Playable Coin*Ù†Ø§Ù† Ù¾Ù„ÛŒØ¨Ù„ Ú©ÙˆÛŒÙ†20.0153:1769Afffffæ-ÀH¨Ûä6R=https://s2.coinmarketcap.com/static/img/coins/64x64/27960.png
 
 
-1404/07/1914:11õè¨Ç"VeThor Token*ÙˆÛŒâ€ŒØ«ÙˆØ± ØªÙˆÚ©Ù†20.001212:140.61A33333ó4ÀHõöí6R<https://s2.coinmarketcap.com/static/img/coins/64x64/3012.png
-¬
-
-1404/07/1914:11õè¨Ç"Elixir deUSD*&Ø§Ù„Ú©Ø³ÛŒØ± Ø¯ÛŒâ€ŒÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0002:116074A{®Gáz¤?Hœ™¥6R=https://s2.coinmarketcap.com/static/img/coins/64x64/31024.png
+1404/07/1914:21Íí¨Ç"VeThor Token*ÙˆÛŒâ€ŒØ«ÙˆØ± ØªÙˆÚ©Ù†20.001208:139.91AÃõ(\B5ÀHÇòÖ6R<https://s2.coinmarketcap.com/static/img/coins/64x64/3012.png
 ¡
 
-1404/07/1914:11õè¨Ç"Hydro Protocol*Ù‡Ø§ÛŒØ¯Ø±Ùˆ Ù¾Ø±ÙˆØªÚ©Ù„20.000650:75.48A¤p=
-×£9ÀH’ã¤6R<https://s2.coinmarketcap.com/static/img/coins/64x64/2682.png
-Ÿ
+1404/07/1914:21Íí¨Ç"Hydro Protocol*Ù‡Ø§ÛŒØ¯Ø±Ùˆ Ù¾Ø±ÙˆØªÚ©Ù„20.000651:75.44A\Âõ(Ü9ÀH§ì¬6R<https://s2.coinmarketcap.com/static/img/coins/64x64/2682.png
+¬
 
-1404/07/1914:11õè¨Ç"BitMart Token*Ø¨ÛŒØªâ€ŒÙ…Ø§Ø±Øª ØªÙˆÚ©Ù†20.3497:40582Aq=
-×£pÀH¶‰6R<https://s2.coinmarketcap.com/static/img/coins/64x64/2933.png
+1404/07/1914:21Íí¨Ç"Elixir deUSD*&Ø§Ù„Ú©Ø³ÛŒØ± Ø¯ÛŒâ€ŒÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0002:115877Aš™™™™™©?Hãš¥6R=https://s2.coinmarketcap.com/static/img/coins/64x64/31024.png
 °
 
-1404/07/1914:11õè¨Ç"HashKey Platform Token*!Ù‡Ø´â€ŒÚ©ÛŒ Ù¾Ù„ØªÙØ±Ù… ØªÙˆÚ©Ù†20.3514:40782AÂõ(\*ÀH°®„6R=https://s2.coinmarketcap.com/static/img/coins/64x64/33849.png
+1404/07/1914:21Íí¨Ç"HashKey Platform Token*!Ù‡Ø´â€ŒÚ©ÛŒ Ù¾Ù„ØªÙØ±Ù… ØªÙˆÚ©Ù†20.3524:40824A…ëQ¸)ÀH·®—6R=https://s2.coinmarketcap.com/static/img/coins/64x64/33849.png
+Ÿ
+
+1404/07/1914:21Íí¨Ç"BitMart Token*Ø¨ÛŒØªâ€ŒÙ…Ø§Ø±Øª ØªÙˆÚ©Ù†20.3499:40534Aq=
+×£pÀHçùŒ6R<https://s2.coinmarketcap.com/static/img/coins/64x64/2933.png
 ®
 
-1404/07/1914:11õè¨Ç"Moo Deng (moodengsol.com)*Ù…Ùˆ Ø¯Ù†Ú¯ (moodengsol.com)20.1134:13162A     €9ÀHçˆÅ5R=https://s2.coinmarketcap.com/static/img/coins/64x64/33093.png
+1404/07/1914:21Íí¨Ç"Moo Deng (moodengsol.com)*Ù…Ùˆ Ø¯Ù†Ú¯ (moodengsol.com)20.1134:13133A®Gáz®9ÀHÃÁ5R=https://s2.coinmarketcap.com/static/img/coins/64x64/33093.png
 
 
-1404/07/1914:11õè¨Ç"LCX*Ø§Ù„â€ŒØ³ÛŒâ€ŒØ§Ú©Ø³20.1163:13501A¸…ëQ¸$ÀH×Ö4R<https://s2.coinmarketcap.com/static/img/coins/64x64/4950.png
+1404/07/1914:21Íí¨Ç"LCX*Ø§Ù„â€ŒØ³ÛŒâ€ŒØ§Ú©Ø³20.1164:13487AHáz®Ç$ÀHº’Ú4R<https://s2.coinmarketcap.com/static/img/coins/64x64/4950.png
 
 
-1404/07/1914:11õè¨Ç"Staika*Ø§Ø³ØªØ§ÛŒÚ©Ø§20.8558:99320A®GázÀH¾âÌ4R=https://s2.coinmarketcap.com/static/img/coins/64x64/23951.png
-‘
-
-1404/07/1914:11õè¨Ç"GMX*Ø¬ÛŒâ€ŒØ§Ù…â€ŒØ§Ú©Ø³210.65:1235598A=
-×£p=8ÀHßŞ¹4R=https://s2.coinmarketcap.com/static/img/coins/64x64/11857.png
+1404/07/1914:21Íí¨Ç"Staika*Ø§Ø³ØªØ§ÛŒÚ©Ø§20.8548:99034AÂõ(\ÀH³ßÄ4R=https://s2.coinmarketcap.com/static/img/coins/64x64/23951.png
 ™
 
-1404/07/1914:11õè¨Ç"SKALE Network*Ø§Ø³Ú©ÛŒÙ„ Ù†ØªÙˆØ±Ú©20.0182:2110Afffff¦6ÀHœÇ£4R<https://s2.coinmarketcap.com/static/img/coins/64x64/5691.png
-
-
-1404/07/1914:11áè¨Ç"Ordinals*Ø§Ø±Ø¯ÛŒÙ†Ø§Ù„Ø²25.21:604304A…ëQ¸AÀHƒ®’4R=https://s2.coinmarketcap.com/static/img/coins/64x64/25028.png
+1404/07/1914:21Íí¨Ç"SKALE Network*Ø§Ø³Ú©ÛŒÙ„ Ù†ØªÙˆØ±Ú©20.0182:2107A33333³6ÀH‰Ç¤4R<https://s2.coinmarketcap.com/static/img/coins/64x64/5691.png
 •
 
-1404/07/1914:11õè¨Ç"ViciCoin*ÙˆÛŒØ³ÛŒâ€ŒÚ©ÙˆÛŒÙ†217.96:2084108AHáz®GÀHŠ­’4R=https://s2.coinmarketcap.com/static/img/coins/64x64/28656.png
+1404/07/1914:21Íí¨Ç"ViciCoin*ÙˆÛŒØ³ÛŒâ€ŒÚ©ÙˆÛŒÙ†217.97:2081971A®Gáz®ÀHœì–4R=https://s2.coinmarketcap.com/static/img/coins/64x64/28656.png
+®
+
+1404/07/1914:21Íí¨Ç"ETHPoW (IOU)*(Ø§ØªØ±ÛŒÙˆÙ…â€ŒÙ¾Ø§ (Ø¢ÛŒâ€ŒØ§Ùˆâ€ŒÛŒÙˆ)21.0143:117509AHáz®Ç:ÀHÅå’4R=https://s2.coinmarketcap.com/static/img/coins/64x64/21296.png
+
+
+1404/07/1914:21¹í¨Ç"Ordinals*Ø§Ø±Ø¯ÛŒÙ†Ø§Ù„Ø²25.21:603196A®Gáz®AÀH º‘4R=https://s2.coinmarketcap.com/static/img/coins/64x64/25028.png
+‘
+
+1404/07/1914:21Íí¨Ç"GMX*Ø¬ÛŒâ€ŒØ§Ù…â€ŒØ§Ú©Ø³210.57:1224763A®Gáz9ÀHÍ—Š4R=https://s2.coinmarketcap.com/static/img/coins/64x64/11857.png
 ¦
 
-1404/07/1914:11õè¨Ç"Stargate Finance*Ø§Ø³ØªØ§Ø±Ú¯ÛŒØª ÙØ§ÛŒÙ†Ù†Ø³20.1651:19162Afffffæ0ÀH’‚…4R=https://s2.coinmarketcap.com/static/img/coins/64x64/18934.png
+1404/07/1914:21Íí¨Ç"Stargate Finance*Ø§Ø³ØªØ§Ø±Ú¯ÛŒØª ÙØ§ÛŒÙ†Ù†Ø³20.1646:19072A…ëQ¸…1ÀHüğ3R=https://s2.coinmarketcap.com/static/img/coins/64x64/18934.png
 š
 
-1404/07/1914:11õè¨Ç"Undeads Games*Ø¢Ù†Ø¯ÙØ¯Ø² Ú¯ÛŒÙ…Ø²22.37:275261AÍÌÌÌÌÌ@Hğ˜æ3R=https://s2.coinmarketcap.com/static/img/coins/64x64/29933.png
-®
-
-1404/07/1914:11õè¨Ç"ETHPoW (IOU)*(Ø§ØªØ±ÛŒÙˆÙ…â€ŒÙ¾Ø§ (Ø¢ÛŒâ€ŒØ§Ùˆâ€ŒÛŒÙˆ)20.9993:115969AÍÌÌÌÌÌ;ÀHô’°3R=https://s2.coinmarketcap.com/static/img/coins/64x64/21296.png
-
-
-1404/07/1914:11õè¨Ç"RedStone*Ø±Ø¯ Ø§Ø³ØªÙˆÙ†20.3735:43341AHáz®3ÀH÷—ı2R=https://s2.coinmarketcap.com/static/img/coins/64x64/21707.png
+1404/07/1914:21Íí¨Ç"Undeads Games*Ø¢Ù†Ø¯ÙØ¯Ø² Ú¯ÛŒÙ…Ø²22.37:275070AÂõ(\
+@Hßíì3R=https://s2.coinmarketcap.com/static/img/coins/64x64/29933.png
 
 
-1404/07/1914:11õè¨Ç"Chia*Ú†ÛŒØ§27.31:848704Aáz®G¡0ÀHØó 2R<https://s2.coinmarketcap.com/static/img/coins/64x64/9258.png
-ƒ
+1404/07/1914:21Íí¨Ç"Chia*Ú†ÛŒØ§27.49:867506AHáz®G-ÀH³Ìº3R<https://s2.coinmarketcap.com/static/img/coins/64x64/9258.png
+
 
-1404/07/1914:11õè¨Ç"Ankr*Ø¢Ù†Ú©Ø±20.0105:1223Aq=
-×£ğ7ÀH«‡2R<https://s2.coinmarketcap.com/static/img/coins/64x64/3783.png
+1404/07/1914:21Íí¨Ç"RedStone*Ø±Ø¯ Ø§Ø³ØªÙˆÙ†20.3745:43389A®Gáz®2ÀHÍÄ3R=https://s2.coinmarketcap.com/static/img/coins/64x64/21707.png
 –
 
-1404/07/1914:11õè¨Ç"XYO*Ø§ÛŒÚ©Ø³â€ŒÙˆØ§ÛŒâ€ŒØ§Ùˆ20.007712:894.97Affffff(ÀH±Á›2R<https://s2.coinmarketcap.com/static/img/coins/64x64/2765.png
+1404/07/1914:21Íí¨Ç"XYO*Ø§ÛŒÚ©Ø³â€ŒÙˆØ§ÛŒâ€ŒØ§Ùˆ20.007722:894.67AÃõ(\B*ÀHş¡¤2R<https://s2.coinmarketcap.com/static/img/coins/64x64/2765.png
+ƒ
+
+1404/07/1914:21Íí¨Ç"Ankr*Ø¢Ù†Ú©Ø±20.0105:1220AÍÌÌÌÌ8ÀHÒë˜2R<https://s2.coinmarketcap.com/static/img/coins/64x64/3783.png
 •
 
-1404/07/1914:11õè¨Ç"TROLL (SOL)*ØªØ±ÙˆÙ„ (Ø³ÙˆÙ„)20.1050:12182A®Gáz/ÀHĞ‰€2R=https://s2.coinmarketcap.com/static/img/coins/64x64/36313.png
+1404/07/1914:21Íí¨Ç"TROLL (SOL)*ØªØ±ÙˆÙ„ (Ø³ÙˆÙ„)20.1038:12022A)\Âõ¨0ÀHò÷¶1R=https://s2.coinmarketcap.com/static/img/coins/64x64/36313.png
 
 
-1404/07/1914:11õè¨Ç"Request*Ø±ÛŒÚ©ÙˆØ¦Ø³Øª20.1237:14352A{®GázÀHÙÍ0R<https://s2.coinmarketcap.com/static/img/coins/64x64/2071.png
+1404/07/1914:21Íí¨Ç"Request*Ø±ÛŒÚ©ÙˆØ¦Ø³Øª20.1244:14413A
+×£p=
+ÀHï’ò0R<https://s2.coinmarketcap.com/static/img/coins/64x64/2071.png
 ®
 
-1404/07/1914:11õè¨Ç"Official Melania Meme* Ø¢ÙÛŒØ´Ø§Ù„ Ù…Ù„Ø§Ù†ÛŒØ§ Ù…ÛŒÙ…20.1145:13285A      AÀHœ¹0R=https://s2.coinmarketcap.com/static/img/coins/64x64/35347.png
+1404/07/1914:21Íí¨Ç"Official Melania Meme* Ø¢ÙÛŒØ´Ø§Ù„ Ù…Ù„Ø§Ù†ÛŒØ§ Ù…ÛŒÙ…20.1138:13189AR¸…ëQAÀHı¼–0R=https://s2.coinmarketcap.com/static/img/coins/64x64/35347.png
 ¥
 
-1404/07/1914:11õè¨Ç"MetaMask USD*Ù…ØªØ§Ù…Ø³Ú© ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0001:116058A{®Gáz”?HŸœÎ/R=https://s2.coinmarketcap.com/static/img/coins/64x64/38167.png
+1404/07/1914:21Íí¨Ç"MetaMask USD*Ù…ØªØ§Ù…Ø³Ú© ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0000:115849A{®Gáz„?H‹ÈÍ/R=https://s2.coinmarketcap.com/static/img/coins/64x64/38167.png
 
 
-1404/07/1914:11õè¨Ç"Bitkub Coin*Ø¨ÛŒØªâ€ŒÚ©Ø§Ø¨ Ú©ÙˆÛŒÙ†21.4454:167741A)\Âõ(ÀH’†Å/R=https://s2.coinmarketcap.com/static/img/coins/64x64/16093.png
+1404/07/1914:21Íí¨Ç"Bitkub Coin*Ø¨ÛŒØªâ€ŒÚ©Ø§Ø¨ Ú©ÙˆÛŒÙ†21.4453:167446AÍÌÌÌÌÌÀHåÕÄ/R=https://s2.coinmarketcap.com/static/img/coins/64x64/16093.png
+…
+
+1404/07/1914:21Íí¨Ç"Verge*ÙˆØ±Ø¬20.005954:689.77A{®Gáú=ÀH€ıó.R;https://s2.coinmarketcap.com/static/img/coins/64x64/693.png
 “
 
-1404/07/1914:11õè¨Ç"	BounceBit*Ø¨Ø§Ù†Ø³â€ŒØ¨ÛŒØª20.1235:14330AÍÌÌÌÌL:ÀHÎÆı.R=https://s2.coinmarketcap.com/static/img/coins/64x64/30746.png
-…
-
-1404/07/1914:11õè¨Ç"Verge*ÙˆØ±Ø¬20.005955:691.11AR¸…ë>ÀHÌºõ.R;https://s2.coinmarketcap.com/static/img/coins/64x64/693.png
+1404/07/1914:21Íí¨Ç"	BounceBit*Ø¨Ø§Ù†Ø³â€ŒØ¨ÛŒØª20.1231:14266A)\Âõ¨:ÀHòêì.R=https://s2.coinmarketcap.com/static/img/coins/64x64/30746.png
 ¬
 
-1404/07/1914:11õè¨Ç"Portal To Bitcoin*#Ù¾ÙˆØ±ØªØ§Ù„ ØªÙˆ Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†20.0570:6615AHáz®Ç,@H»¸Ñ.R=https://s2.coinmarketcap.com/static/img/coins/64x64/37372.png
-ˆ
-
-1404/07/1914:11õè¨Ç"Orca*
-Ø§ÙˆØ±Ú©Ø§21.6135:187248A\Âõ(œ3ÀH«¤.R=https://s2.coinmarketcap.com/static/img/coins/64x64/11165.png
-
-
-1404/07/1914:11áè¨Ç"	Numeraire*Ù†ÙˆÙ…Ø±Ø§ÛŒØ±212.69:1472365AÂõ(\4ÀH¡¨.R<https://s2.coinmarketcap.com/static/img/coins/64x64/1732.png
-†
-
-1404/07/1914:11õè¨Ç"ICON*
-Ø¢ÛŒÚ©ÙˆÙ†20.0894:10375AR¸…ëÑ5ÀHáıö-R<https://s2.coinmarketcap.com/static/img/coins/64x64/2099.png
-
-
-1404/07/1914:11õè¨Ç"Babylon*Ø¨Ø§Ø¨ÛŒÙ„ÙˆÙ†20.0341:3960A®GázT;ÀHÌ€Ş-R=https://s2.coinmarketcap.com/static/img/coins/64x64/32198.png
+1404/07/1914:21Íí¨Ç"Portal To Bitcoin*#Ù¾ÙˆØ±ØªØ§Ù„ ØªÙˆ Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†20.0568:6581A…ëQ¸+@H±‡½.R=https://s2.coinmarketcap.com/static/img/coins/64x64/37372.png
 £
 
-1404/07/1914:11õè¨Ç"Victoria VR*ÙˆÛŒÚ©ØªÙˆØ±ÛŒØ§ ÙˆÛŒâ€ŒØ¢Ø±20.005709:662.52A®GázÀHöïİ-R=https://s2.coinmarketcap.com/static/img/coins/64x64/14822.png
-
-
-1404/07/1914:11õè¨Ç"Loopring*Ù„ÙˆÙ¾Ø±ÛŒÙ†Ú¯20.0695:8070A®Gázn5ÀH’¯ª-R<https://s2.coinmarketcap.com/static/img/coins/64x64/1934.png
-…
-
-1404/07/1914:11õè¨Ç"Waves*ÙˆÛŒÙˆØ²20.7982:92633A¤p=
-×c0ÀH¬Ú§-R<https://s2.coinmarketcap.com/static/img/coins/64x64/1274.png
-›
-
-1404/07/1914:11õè¨Ç"Wilder World*ÙˆØ§ÛŒÙ„Ø¯ÙØ± ÙˆØ±Ù„Ø¯20.2236:25948A333333ÀHó‚£-R<https://s2.coinmarketcap.com/static/img/coins/64x64/9674.png
-•
-
-1404/07/1914:08”ç¨Ç"Memecoin*Ù…ÛŒÙ…â€ŒÚ©ÙˆÛŒÙ†20.001659:192.40AÃõ(\"@ÀHÌš-R=https://s2.coinmarketcap.com/static/img/coins/64x64/28301.png
-
-
-1404/07/1914:11õè¨Ç"Harmony*Ù‡Ø§Ø±Ù…ÙˆÙ†ÛŒ20.006374:739.66A)\Âõè?ÀHÇ–ä,R<https://s2.coinmarketcap.com/static/img/coins/64x64/3945.png
-{
-
-1404/07/1914:11õè¨Ç"Anoma20.0375:4354A×£p=
-—CÀH˜İ,R=https://s2.coinmarketcap.com/static/img/coins/64x64/38481.png
-–
-
-1404/07/1914:11õè¨Ç"Mask Network*Ù…Ø³Ú© Ù†ØªÙˆØ±Ú©20.9275:107638A=
-×£p=9ÀHÌ‹,R<https://s2.coinmarketcap.com/static/img/coins/64x64/8536.png
-”
-
-1404/07/1914:11õè¨Ç"Notcoin*Ù†Ø§Øªâ€ŒÚ©ÙˆÛŒÙ†20.000927:107.56A¸…ëQxDÀHí‡ù+R=https://s2.coinmarketcap.com/static/img/coins/64x64/28850.png
-•
-
-1404/07/1914:11õè¨Ç"	Lista DAO*Ù„ÛŒØ³ØªØ§ Ø¯Ø§Ø¦Ùˆ20.3712:43078A×£p=
-W)ÀHÅôä+R=https://s2.coinmarketcap.com/static/img/coins/64x64/21533.png
-‹
-
-1404/07/1914:11õè¨Ç"Somnia*Ø³ÙˆÙ…Ù†ÛŒØ§20.5727:66462A®Gáz4ÀH”âß+R=https://s2.coinmarketcap.com/static/img/coins/64x64/37637.png
-§
-
-1404/07/1914:11õè¨Ç"MultiBank Group*Ù…Ø§Ù„ØªÛŒâ€ŒØ¨Ø§Ù†Ú© Ú¯Ø±ÙˆÙ¾21.0888:126356AÃõ(\Âñ?H¥ßŸ+R=https://s2.coinmarketcap.com/static/img/coins/64x64/36080.png
-‹
-
-1404/07/1914:11õè¨Ç"Status*Ø§Ø³ØªØ§ØªÙˆØ³20.0188:2183Aš™™™™™+ÀH¸íş*R<https://s2.coinmarketcap.com/static/img/coins/64x64/1759.png
-
-
-1404/07/1914:11õè¨Ç"Paycoin*Ù¾ÛŒâ€ŒÚ©ÙˆÛŒÙ†20.0853:9904Aq=
-×£p"ÀH”åø*R<https://s2.coinmarketcap.com/static/img/coins/64x64/5275.png
-
-
-1404/07/1914:11õè¨Ç"Ontology*Ø§Ù†ØªÙˆÙ„ÙˆÚ˜ÛŒ20.0978:11349A…ëQ¸5ÀHŠËì*R<https://s2.coinmarketcap.com/static/img/coins/64x64/2566.png
-®
-
-1404/07/1914:11õè¨Ç"Launch Coin on Believe*Ù„Ø§Ù†Ú† Ú©ÙˆÛŒÙ† Ø¢Ù† Ø¨Ù„ÛŒÙˆ20.0897:10412Aáz®Ga>ÀHñºã*R=https://s2.coinmarketcap.com/static/img/coins/64x64/35487.png
-
-
-1404/07/1914:11õè¨Ç"	Clearpool*Ú©Ù„ÛŒØ±Ù¾ÙˆÙ„20.1085:12596A=
-×£p=&ÀHë¿È*R=https://s2.coinmarketcap.com/static/img/coins/64x64/12573.png
-ƒ
-
-1404/07/1914:11õè¨Ç"COTI*Ú©ÙˆØªÛŒ20.0368:4273A…ëQ¸;ÀHû¦*R<https://s2.coinmarketcap.com/static/img/coins/64x64/3992.png
-
-
-1404/07/1914:11õè¨Ç"GOHOME*Ú¯Ùˆ Ù‡ÙˆÙ…2176.91:20530263A¤p=
-×#'ÀHäØ•*R=https://s2.coinmarketcap.com/static/img/coins/64x64/35701.png
-„
-
-1404/07/1914:11õè¨Ç"Nano*Ù†Ø§Ù†Ùˆ20.6631:76953A      4ÀH¥÷*R<https://s2.coinmarketcap.com/static/img/coins/64x64/1567.png
-
-
-1404/07/1914:11õè¨Ç"Polymesh*Ù¾Ù„ÛŒâ€ŒÙ…Ø´20.0884:10263A…ëQ¸7ÀHâ¦*R=https://s2.coinmarketcap.com/static/img/coins/64x64/20362.png
-
-
-1404/07/1914:11õè¨Ç"Altlayer*Ø¢Ù„Øªâ€ŒÙ„ÛŒØ±20.0197:2287A…ëQ¸^>ÀHÑ‡Š*R=https://s2.coinmarketcap.com/static/img/coins/64x64/29073.png
-
-
-1404/07/1914:11õè¨Ç"Unibase*ÛŒÙˆÙ†ÛŒâ€ŒØ¨ÛŒØ³20.0347:4026Aáz®Gá@HóÄ­)R=https://s2.coinmarketcap.com/static/img/coins/64x64/38339.png
-”
-
-1404/07/1914:11õè¨Ç"
-Enjin Coin*Ø§Ù†Ø¬ÛŒÙ† Ú©ÙˆÛŒÙ†20.0457:5306Aö(\Âõ:ÀH£É)R<https://s2.coinmarketcap.com/static/img/coins/64x64/2130.png
-
-
-1404/07/1914:11õè¨Ç"Osmosis*Ø§Ø³Ù…ÙˆØ³ÛŒØ³20.1157:13422AÂõ(\9ÀHåÃ›)R=https://s2.coinmarketcap.com/static/img/coins/64x64/12220.png
-¬
-
-1404/07/1914:11õè¨Ç"Destablecoin HAY*"Ø¯ÙØ§Ø³ØªÛŒØ¨Ù„â€ŒÚ©ÙˆÛŒÙ† Ù‡Ø§ÛŒ21.0010:116167A      Ğ?HË«)R=https://s2.coinmarketcap.com/static/img/coins/64x64/21330.png
-„
-
-1404/07/1914:11õè¨Ç"Venus*ÙˆÙ†ÙˆØ³25.28:612573Aö(\Â59ÀHŸ ˆ)R<https://s2.coinmarketcap.com/static/img/coins/64x64/7288.png
-‡
-
-1404/07/1914:11õè¨Ç"STEPN*
-Ø§Ø³ØªÙ¾Ù†20.0276:3209AìQ¸…«;ÀH„Õ‚)R=https://s2.coinmarketcap.com/static/img/coins/64x64/18069.png
- 
-
-1404/07/1914:11õè¨Ç"Space and Time*Ø§Ø³Ù¾ÛŒØ³ Ø§Ù†Ø¯ ØªØ§ÛŒÙ…20.0614:7121A\Âõ(\+ÀHˆÎû(R=https://s2.coinmarketcap.com/static/img/coins/64x64/36405.png
-‘
-
-1404/07/1914:11õè¨Ç"WOO Network*ÙˆÙˆ Ù†ØªÙˆØ±Ú©20.0448:5201A\Âõ(\@ÀHÕ©Û(R<https://s2.coinmarketcap.com/static/img/coins/64x64/7501.png
-„
-
-1404/07/1914:11õè¨Ç"Vana*ÙˆØ§Ù†Ø§22.82:326927A
-×£p=Š:ÀHôŞ´(R=https://s2.coinmarketcap.com/static/img/coins/64x64/34619.png
-Œ
-
-1404/07/1914:09óç¨Ç"Solayer*Ø³ÙˆÙ„Ø§ÛŒØ±20.2986:34632A33333³7ÀH‚Æ°(R=https://s2.coinmarketcap.com/static/img/coins/64x64/35429.png
-”
-
-1404/07/1914:11õè¨Ç"
-OpenLedger*Ø§ÙˆÙ¾Ù†â€ŒÙ„Ø¬Ø±20.3894:45195AÂõ(\6ÀHú¸‚(R=https://s2.coinmarketcap.com/static/img/coins/64x64/37456.png
-˜
-
-1404/07/1914:11õè¨Ç"Band Protocol*Ø¨Ù†Ø¯ Ù¾Ø±ÙˆØªÚ©Ù„20.5024:58307A      ;ÀHÃ”ù'R<https://s2.coinmarketcap.com/static/img/coins/64x64/4679.png
+1404/07/1914:21Íí¨Ç"Victoria VR*ÙˆÛŒÚ©ØªÙˆØ±ÛŒØ§ ÙˆÛŒâ€ŒØ¢Ø±20.005776:669.19AffffffÀH²ò¢.R=https://s2.coinmarketcap.com/static/img/coins/64x64/14822.png
 ˆ
 
-1404/07/1914:11õè¨Ç"Kadena*
-Ú©Ø§Ø¯Ù†Ø§20.2492:28925AÍÌÌÌÌl@ÀHÑ‰ä'R<https://s2.coinmarketcap.com/static/img/coins/64x64/5647.png
-‰
+1404/07/1914:21Íí¨Ç"Orca*
+Ø§ÙˆØ±Ú©Ø§21.6120:186757AÂõ(\Ï3ÀHõî.R=https://s2.coinmarketcap.com/static/img/coins/64x64/11165.png
+
 
-1404/07/1914:11õè¨Ç"Arkham*
-Ø¢Ø±Ú©Ø§Ù…20.3677:42677A{®Gá:=ÀH ¶¼'R=https://s2.coinmarketcap.com/static/img/coins/64x64/27565.png
-‡
+1404/07/1914:21Íí¨Ç"	Numeraire*Ù†ÙˆÙ…Ø±Ø§ÛŒØ±212.63:1463358AÃõ(\‚4ÀH§˜ó-R<https://s2.coinmarketcap.com/static/img/coins/64x64/1732.png
+†
 
-1404/07/1914:11õè¨Ç"Swipe*
-Ø³ÙˆØ§ÛŒÙ¾20.1246:14454A…ëQ¸5ÀHÓ¡'R<https://s2.coinmarketcap.com/static/img/coins/64x64/4279.png
-™
+1404/07/1914:21Íí¨Ç"ICON*
+Ø¢ÛŒÚ©ÙˆÙ†20.0893:10346A®Gázî5ÀHÇ¼ğ-R<https://s2.coinmarketcap.com/static/img/coins/64x64/2099.png
+
 
-1404/07/1914:11õè¨Ç"BitDCA*Ø¨ÛŒØª Ø¯ÛŒâ€ŒØ³ÛŒâ€ŒØ§ÛŒ21.0782:125129AÃõ(\ÂÀH‹ªã&R=https://s2.coinmarketcap.com/static/img/coins/64x64/35637.png
-„
+1404/07/1914:21Íí¨Ç"Babylon*Ø¨Ø§Ø¨ÛŒÙ„ÙˆÙ†20.0341:3956A…ëQ¸…;ÀH‰İá-R=https://s2.coinmarketcap.com/static/img/coins/64x64/32198.png
+…
 
-1404/07/1914:11õè¨Ç"UMA*Ø§ÙˆÙ…Ø§20.9115:105779A®Gáz®:ÀHÀ¢š&R<https://s2.coinmarketcap.com/static/img/coins/64x64/5617.png
+1404/07/1914:21Íí¨Ç"Waves*ÙˆÛŒÙˆØ²20.7973:92370AÃõ(\‚0ÀH¥ˆ¡-R<https://s2.coinmarketcap.com/static/img/coins/64x64/1274.png
+
+
+1404/07/1914:21Íí¨Ç"Loopring*Ù„ÙˆÙ¾Ø±ÛŒÙ†Ú¯20.0694:8039A33333³5ÀH£ğ-R<https://s2.coinmarketcap.com/static/img/coins/64x64/1934.png
 ›
 
-1404/07/1914:11õè¨Ç"Destra Network*Ø¯Ø³ØªØ±Ø§ Ù†ØªÙˆØ±Ú©20.0821:9531AÃõ(\Â&ÀH¦¬—&R=https://s2.coinmarketcap.com/static/img/coins/64x64/29884.png
+1404/07/1914:21Íí¨Ç"Wilder World*ÙˆØ§ÛŒÙ„Ø¯ÙØ± ÙˆØ±Ù„Ø¯20.2233:25872Aáz®GáÀHêà›-R<https://s2.coinmarketcap.com/static/img/coins/64x64/9674.png
+•
+
+1404/07/1914:21Íí¨Ç"Memecoin*Ù…ÛŒÙ…â€ŒÚ©ÙˆÛŒÙ†20.001658:192.08A…ëQ¸%@ÀHÿé—-R=https://s2.coinmarketcap.com/static/img/coins/64x64/28301.png
+{
+
+1404/07/1914:21Íí¨Ç"Anoma20.0377:4367A\Âõ(|CÀH‚…ø,R=https://s2.coinmarketcap.com/static/img/coins/64x64/38481.png
+”
+
+1404/07/1914:21Íí¨Ç"Notcoin*Ù†Ø§Øªâ€ŒÚ©ÙˆÛŒÙ†20.000944:109.38A®GázôCÀH´ğá,R=https://s2.coinmarketcap.com/static/img/coins/64x64/28850.png
+
+
+1404/07/1914:21Íí¨Ç"Harmony*Ù‡Ø§Ø±Ù…ÙˆÙ†ÛŒ20.006351:735.84A=
+×£p@ÀHâšĞ,R<https://s2.coinmarketcap.com/static/img/coins/64x64/3945.png
+‹
+
+1404/07/1914:21Íí¨Ç"Somnia*Ø³ÙˆÙ…Ù†ÛŒØ§20.5757:66697AÂõ(\Ï3ÀHÀı+R=https://s2.coinmarketcap.com/static/img/coins/64x64/37637.png
+•
+
+1404/07/1914:21Íí¨Ç"	Lista DAO*Ù„ÛŒØ³ØªØ§ Ø¯Ø§Ø¦Ùˆ20.3720:43101A     €)ÀH°±ñ+R=https://s2.coinmarketcap.com/static/img/coins/64x64/21533.png
+§
+
+1404/07/1914:21Íí¨Ç"MultiBank Group*Ù…Ø§Ù„ØªÛŒâ€ŒØ¨Ø§Ù†Ú© Ú¯Ø±ÙˆÙ¾21.0891:126175AÍÌÌÌÌÌì?Hã¡+R=https://s2.coinmarketcap.com/static/img/coins/64x64/36080.png
+–
+
+1404/07/1914:21Íí¨Ç"Mask Network*Ù…Ø³Ú© Ù†ØªÙˆØ±Ú©20.9070:105073A
+×£p=
+;ÀHÎŸ+R<https://s2.coinmarketcap.com/static/img/coins/64x64/8536.png
+‹
+
+1404/07/1914:21Íí¨Ç"Status*Ø§Ø³ØªØ§ØªÙˆØ³20.0188:2179A
+×£p=Š+ÀHñœ€+R<https://s2.coinmarketcap.com/static/img/coins/64x64/1759.png
+
+
+1404/07/1914:21Íí¨Ç"Paycoin*Ù¾ÛŒâ€ŒÚ©ÙˆÛŒÙ†20.0853:9887Affffff"ÀH°Äø*R<https://s2.coinmarketcap.com/static/img/coins/64x64/5275.png
+
+
+1404/07/1914:21Íí¨Ç"Ontology*Ø§Ù†ØªÙˆÙ„ÙˆÚ˜ÛŒ20.0979:11340AÃõ(\B5ÀH÷±ñ*R<https://s2.coinmarketcap.com/static/img/coins/64x64/2566.png
+®
+
+1404/07/1914:21Íí¨Ç"Launch Coin on Believe*Ù„Ø§Ù†Ú† Ú©ÙˆÛŒÙ† Ø¢Ù† Ø¨Ù„ÛŒÙˆ20.0899:10416Aš™™™™™=ÀH®Ùî*R=https://s2.coinmarketcap.com/static/img/coins/64x64/35487.png
+
+
+1404/07/1914:21Íí¨Ç"	Clearpool*Ú©Ù„ÛŒØ±Ù¾ÙˆÙ„20.1085:12572AÂõ(\&ÀH¿¨Ç*R=https://s2.coinmarketcap.com/static/img/coins/64x64/12573.png
+
+
+1404/07/1914:21Íí¨Ç"Altlayer*Ø¢Ù„Øªâ€ŒÙ„ÛŒØ±20.0198:2294A     @>ÀHÁü¢*R=https://s2.coinmarketcap.com/static/img/coins/64x64/29073.png
+
+
+1404/07/1914:21Íí¨Ç"GOHOME*Ú¯Ùˆ Ù‡ÙˆÙ…2176.67:20467699Aáz®Ga'ÀHÇ²*R=https://s2.coinmarketcap.com/static/img/coins/64x64/35701.png
+ƒ
+
+1404/07/1914:21Íí¨Ç"COTI*Ú©ÙˆØªÛŒ20.0366:4244A®Gáz®;ÀHÈôŠ*R<https://s2.coinmarketcap.com/static/img/coins/64x64/3992.png
+„
+
+1404/07/1914:21Íí¨Ç"Nano*Ù†Ø§Ù†Ùˆ20.6569:76100A     À4ÀHé”Ş)R<https://s2.coinmarketcap.com/static/img/coins/64x64/1567.png
+”
+
+1404/07/1914:21Íí¨Ç"
+Enjin Coin*Ø§Ù†Ø¬ÛŒÙ† Ú©ÙˆÛŒÙ†20.0460:5326A…ëQ¸:ÀHª…»)R<https://s2.coinmarketcap.com/static/img/coins/64x64/2130.png
+
+
+1404/07/1914:21Íí¨Ç"Polymesh*Ù¾Ù„ÛŒâ€ŒÙ…Ø´20.0869:10066Aq=
+×£°8ÀHÌŞ±)R=https://s2.coinmarketcap.com/static/img/coins/64x64/20362.png
+ 
+
+1404/07/1914:21Íí¨Ç"Space and Time*Ø§Ø³Ù¾ÛŒØ³ Ø§Ù†Ø¯ ØªØ§ÛŒÙ…20.0618:7161A…ëQ¸+ÀH¸‚¢)R=https://s2.coinmarketcap.com/static/img/coins/64x64/36405.png
+
+
+1404/07/1914:21Íí¨Ç"Osmosis*Ø§Ø³Ù…ÙˆØ³ÛŒØ³20.1155:13378A)\Âõ¨9ÀHıó’)R=https://s2.coinmarketcap.com/static/img/coins/64x64/12220.png
+¬
+
+1404/07/1914:21Íí¨Ç"Destablecoin HAY*"Ø¯ÙØ§Ø³ØªÛŒØ¨Ù„â€ŒÚ©ÙˆÛŒÙ† Ù‡Ø§ÛŒ21.0010:115970A      Ğ?H†Ë)R=https://s2.coinmarketcap.com/static/img/coins/64x64/21330.png
+
+
+1404/07/1914:21Íí¨Ç"Unibase*ÛŒÙˆÙ†ÛŒâ€ŒØ¨ÛŒØ³20.0344:3985A®Gáz@H½‹€)R=https://s2.coinmarketcap.com/static/img/coins/64x64/38339.png
+‡
+
+1404/07/1914:21Íí¨Ç"STEPN*
+Ø§Ø³ØªÙ¾Ù†20.0276:3197Aš™™™™Ù;ÀHëöø(R=https://s2.coinmarketcap.com/static/img/coins/64x64/18069.png
+„
+
+1404/07/1914:21Íí¨Ç"Venus*ÙˆÙ†ÙˆØ³25.26:609412A¸…ëQx9ÀH ƒö(R<https://s2.coinmarketcap.com/static/img/coins/64x64/7288.png
+‘
+
+1404/07/1914:21Íí¨Ç"WOO Network*ÙˆÙˆ Ù†ØªÙˆØ±Ú©20.0446:5163Aö(\Â•@ÀHê’¾(R<https://s2.coinmarketcap.com/static/img/coins/64x64/7501.png
+„
+
+1404/07/1914:21Íí¨Ç"Vana*ÙˆØ§Ù†Ø§22.82:326163A
+×£p=Š:ÀH†·±(R=https://s2.coinmarketcap.com/static/img/coins/64x64/34619.png
+Œ
+
+1404/07/1914:21Íí¨Ç"Solayer*Ø³ÙˆÙ„Ø§ÛŒØ±20.2981:34535A¤p=
+×ã7ÀHòœ¨(R=https://s2.coinmarketcap.com/static/img/coins/64x64/35429.png
+”
+
+1404/07/1914:21Íí¨Ç"
+OpenLedger*Ø§ÙˆÙ¾Ù†â€ŒÙ„Ø¬Ø±20.3890:45069A×£p=
+W6ÀHüßü'R=https://s2.coinmarketcap.com/static/img/coins/64x64/37456.png
+ˆ
+
+1404/07/1914:21Íí¨Ç"Kadena*
+Ú©Ø§Ø¯Ù†Ø§20.2499:28953A®Gázn@ÀHé×ñ'R<https://s2.coinmarketcap.com/static/img/coins/64x64/5647.png
 ˜
 
-1404/07/1914:11õè¨Ç"Tornado Cash*ØªÙˆØ±Ù†Ø§Ø¯Ùˆ Ú©Ø´215.17:1760927A®GázÔ2ÀH·Ò‡&R<https://s2.coinmarketcap.com/static/img/coins/64x64/8049.png
+1404/07/1914:21Íí¨Ç"Band Protocol*Ø¨Ù†Ø¯ Ù¾Ø±ÙˆØªÚ©Ù„20.5007:58007AHáz®G;ÀHÛÇç'R<https://s2.coinmarketcap.com/static/img/coins/64x64/4679.png
+‰
+
+1404/07/1914:21Íí¨Ç"Arkham*
+Ø¢Ø±Ú©Ø§Ù…20.3670:42519A®Gáz”=ÀHî¨²'R=https://s2.coinmarketcap.com/static/img/coins/64x64/27565.png
+‡
+
+1404/07/1914:21Íí¨Ç"Swipe*
+Ø³ÙˆØ§ÛŒÙ¾20.1243:14397AÍÌÌÌÌL5ÀHÛë‚'R<https://s2.coinmarketcap.com/static/img/coins/64x64/4279.png
+™
+
+1404/07/1914:21Íí¨Ç"BitDCA*Ø¨ÛŒØª Ø¯ÛŒâ€ŒØ³ÛŒâ€ŒØ§ÛŒ21.0734:124359A¤p=
+×£ÀHº•Í&R=https://s2.coinmarketcap.com/static/img/coins/64x64/35637.png
+„
+
+1404/07/1914:21Íí¨Ç"UMA*Ø§ÙˆÙ…Ø§20.9100:105425Afffffæ:ÀHØ•’&R<https://s2.coinmarketcap.com/static/img/coins/64x64/5617.png
+›
+
+1404/07/1914:21Íí¨Ç"Destra Network*Ø¯Ø³ØªØ±Ø§ Ù†ØªÙˆØ±Ú©20.0818:9476A333333(ÀH’ƒ&R=https://s2.coinmarketcap.com/static/img/coins/64x64/29884.png
+˜
+
+1404/07/1914:21Íí¨Ç"Tornado Cash*ØªÙˆØ±Ù†Ø§Ø¯Ùˆ Ú©Ø´215.12:1751914AÍÌÌÌÌ3ÀHÉùö%R<https://s2.coinmarketcap.com/static/img/coins/64x64/8049.png
 ·
 
-1404/07/1914:11õè¨Ç"First Neiro On Ethereum*%ÙØ±Ø³Øª Ù†ÛŒØ±ÙˆÙ† Ø¢Ù† Ø§ØªØ±ÛŒÙˆÙ…20.000188:21.77AÍÌÌÌÌL>ÀHÂßĞ%R=https://s2.coinmarketcap.com/static/img/coins/64x64/32521.png
+1404/07/1914:21Íí¨Ç"First Neiro On Ethereum*%ÙØ±Ø³Øª Ù†ÛŒØ±ÙˆÙ† Ø¢Ù† Ø§ØªØ±ÛŒÙˆÙ…20.000187:21.67A…ëQ¸>ÀH®Â%R=https://s2.coinmarketcap.com/static/img/coins/64x64/32521.png
 Š
 
-1404/07/1914:11áè¨Ç"Freysa*
-ÙØ±ÛŒØ³Ø§20.009556:1109A×£p=
-×ÀHƒ»¨%R=https://s2.coinmarketcap.com/static/img/coins/64x64/34330.png
+1404/07/1914:21Íí¨Ç"Freysa*
+ÙØ±ÛŒØ³Ø§20.009561:1108Aö(\ÂõÀHÁ««%R=https://s2.coinmarketcap.com/static/img/coins/64x64/34330.png
 ‘
 
-1404/07/1914:11õè¨Ç"Rocket Pool*Ø±Ø§Ú©Øª Ù¾ÙˆÙ„23.59:416510AR¸…ëQ=ÀH¬ş¤%R<https://s2.coinmarketcap.com/static/img/coins/64x64/2943.png
+1404/07/1914:21Íí¨Ç"Rocket Pool*Ø±Ø§Ú©Øª Ù¾ÙˆÙ„23.58:415098AÃõ(\‚=ÀHôòœ%R<https://s2.coinmarketcap.com/static/img/coins/64x64/2943.png
 Œ
 
-1404/07/1914:11õè¨Ç"NEXPACE*Ù†Ú©Ø³Ø§Ù¾Ø³20.3671:42602A…ëQ¸9ÀHÆ¸›%R=https://s2.coinmarketcap.com/static/img/coins/64x64/36044.png
+1404/07/1914:21Íí¨Ç"NEXPACE*Ù†Ú©Ø³Ø§Ù¾Ø³20.3663:42436A®Gázn:ÀHÎ‚‘%R=https://s2.coinmarketcap.com/static/img/coins/64x64/36044.png
 ‘
 
-1404/07/1914:11õè¨Ç"Gravity*Ú¯Ø±Ø§ÙˆÛŒØªÛŒ20.007631:885.62AÃõ(\5ÀHÜªƒ%R=https://s2.coinmarketcap.com/static/img/coins/64x64/32120.png
+1404/07/1914:21Íí¨Ç"Gravity*Ú¯Ø±Ø§ÙˆÛŒØªÛŒ20.007638:884.90A      5ÀHÆÃ‡%R=https://s2.coinmarketcap.com/static/img/coins/64x64/32120.png
 ‘
 
-1404/07/1914:11õè¨Ç"Illuvium*Ø§ÛŒÙ„ÙˆÙˆÛŒÙˆÙ…211.73:1361302A¤p=
-×£9ÀH—üŞ$R<https://s2.coinmarketcap.com/static/img/coins/64x64/8719.png
+1404/07/1914:21Íí¨Ç"Illuvium*Ø§ÛŒÙ„ÙˆÙˆÛŒÙˆÙ…211.68:1353149AHáz®Ç9ÀHÇàÊ$R<https://s2.coinmarketcap.com/static/img/coins/64x64/8719.png
 š
 
-1404/07/1914:11õè¨Ç"Frax USD*ÙØ±Ú©Ø³ ÛŒÙˆØ§Ø³â€ŒØ¯ÛŒ20.9994:115983A¤p=
-×£À¿Hö®Å$R=https://s2.coinmarketcap.com/static/img/coins/64x64/36039.png
-Ÿ
-
-1404/07/1914:11õè¨Ç"	DeAgentAI*Ø¯ÛŒâ€ŒØ§ÛŒØ¬Ù†Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.7673:89040A33333ó3ÀHßÅ³$R=https://s2.coinmarketcap.com/static/img/coins/64x64/38430.png
-
-
-1404/07/1914:11õè¨Ç"Defi App*Ø¯ÛŒÙØ§ÛŒ Ø§Ù¾20.0280:3250AR¸…ëQÀH¢ä©$R=https://s2.coinmarketcap.com/static/img/coins/64x64/36133.png
+1404/07/1914:21Íí¨Ç"Frax USD*ÙØ±Ú©Ø³ ÛŒÙˆØ§Ø³â€ŒØ¯ÛŒ20.9994:115788A{®Gáz¤¿HÇ¶Å$R=https://s2.coinmarketcap.com/static/img/coins/64x64/36039.png
 ¡
 
-1404/07/1914:11õè¨Ç"Orderly Network*Ø§ÙˆØ±Ø¯Ø±Ù„ÛŒ Ù†ØªÙˆØ±Ú©20.2408:27948A\Âõ(5ÀHÃğ¤$R=https://s2.coinmarketcap.com/static/img/coins/64x64/32809.png
+1404/07/1914:21Íí¨Ç"Orderly Network*Ø§ÙˆØ±Ø¯Ø±Ù„ÛŒ Ù†ØªÙˆØ±Ú©20.2424:28086A=
+×£p=4ÀHÅåÃ$R=https://s2.coinmarketcap.com/static/img/coins/64x64/32809.png
+
+
+1404/07/1914:21Íí¨Ç"Defi App*Ø¯ÛŒÙØ§ÛŒ Ø§Ù¾20.0279:3236A\Âõ(\ÀH„Ó$R=https://s2.coinmarketcap.com/static/img/coins/64x64/36133.png
+Ÿ
+
+1404/07/1914:21Íí¨Ç"	DeAgentAI*Ø¯ÛŒâ€ŒØ§ÛŒØ¬Ù†Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.7627:88365AÍÌÌÌÌL5ÀHèŒ˜$R=https://s2.coinmarketcap.com/static/img/coins/64x64/38430.png
 ‘
 
-1404/07/1914:11õè¨Ç"	Sologenic*Ø³ÙˆÙ„ÙˆÚ˜Ù†ÛŒÚ©20.1888:21909AÍÌÌÌÌÌ0ÀH‹ó#R<https://s2.coinmarketcap.com/static/img/coins/64x64/5279.png
-‹
-
-1404/07/1914:11õè¨Ç"Blast*
-Ø¨Ù„Ø§Ø³Øª20.001583:183.67AìQ¸…k3ÀHÍığ#R=https://s2.coinmarketcap.com/static/img/coins/64x64/28480.png
+1404/07/1914:21Íí¨Ç"	Sologenic*Ø³ÙˆÙ„ÙˆÚ˜Ù†ÛŒÚ©20.1894:21939Aq=
+×£°0ÀHŒ’$R<https://s2.coinmarketcap.com/static/img/coins/64x64/5279.png
 ´
 
-1404/07/1914:11õè¨Ç"Osaka Protocol*Ø§ÙˆØ²Ø§Ú©Ø§ Ù¾Ø±ÙˆØªÚ©Ù„20.00000009996330027916849:0.0116A®Gáz”!ÀHÙ¡å#R=https://s2.coinmarketcap.com/static/img/coins/64x64/27533.png
+1404/07/1914:21Íí¨Ç"Osaka Protocol*Ø§ÙˆØ²Ø§Ú©Ø§ Ù¾Ø±ÙˆØªÚ©Ù„20.00000009984821374456146:0.0116AÍÌÌÌÌÌ!ÀHÊşß#R=https://s2.coinmarketcap.com/static/img/coins/64x64/27533.png
+‹
+
+1404/07/1914:21Íí¨Ç"Blast*
+Ø¨Ù„Ø§Ø³Øª20.001576:182.63Afffff¦3ÀHÀàŞ#R=https://s2.coinmarketcap.com/static/img/coins/64x64/28480.png
 š
 
-1404/07/1914:11õè¨Ç"BOOK OF MEME*Ø¨ÙˆÚ© Ø¢Ùˆ Ù…ÛŒÙ…20.001079:125.19A…ëQ¸Å@ÀH¸#R=https://s2.coinmarketcap.com/static/img/coins/64x64/29870.png
+1404/07/1914:21Íí¨Ç"BOOK OF MEME*Ø¨ÙˆÚ© Ø¢Ùˆ Ù…ÛŒÙ…20.001078:124.86A…ëQ¸å@ÀH·´#R=https://s2.coinmarketcap.com/static/img/coins/64x64/29870.png
 
 
-1404/07/1914:11õè¨Ç"	iExec RLC*Ø¢ÛŒâ€ŒØ§Ú¯Ø³ Ø¢Ø±Ø§Ù„â€ŒØ³ÛŒ20.8536:99056Aö(\Âu8ÀHã¹´#R<https://s2.coinmarketcap.com/static/img/coins/64x64/1637.png
-–
-
-1404/07/1914:11õè¨Ç"io.net*Ø¢ÛŒâ€ŒØ§Ùˆ Ø¯Ø§Øª Ù†Øª20.3409:39564AÃõ(\‚AÀHğ¶¯#R=https://s2.coinmarketcap.com/static/img/coins/64x64/29835.png
+1404/07/1914:21Íí¨Ç"	iExec RLC*Ø¢ÛŒâ€ŒØ§Ú¯Ø³ Ø¢Ø±Ø§Ù„â€ŒØ³ÛŒ20.8531:98830AÂõ(\Ï8ÀHè±#R<https://s2.coinmarketcap.com/static/img/coins/64x64/1637.png
 Û
 
-1404/07/1914:11õè¨Ç"#HarryPotterObamaSonic10Inu (ERC-20)*@Ù‡Ø±ÛŒâ€ŒÙ¾Ø§ØªØ± Ø§ÙˆØ¨Ø§Ù…Ø§ Ø³ÙˆÙ†ÛŒÚ© Û±Û° Ø§ÛŒÙ†Ùˆ (ERC-20)20.0740:8589A\Âõ(œ2ÀH´¹¤#R=https://s2.coinmarketcap.com/static/img/coins/64x64/25220.png
-”
+1404/07/1914:21Íí¨Ç"#HarryPotterObamaSonic10Inu (ERC-20)*@Ù‡Ø±ÛŒâ€ŒÙ¾Ø§ØªØ± Ø§ÙˆØ¨Ø§Ù…Ø§ Ø³ÙˆÙ†ÛŒÚ© Û±Û° Ø§ÛŒÙ†Ùˆ (ERC-20)20.0741:8580A33333³2ÀH‚”§#R=https://s2.coinmarketcap.com/static/img/coins/64x64/25220.png
+–
 
-1404/07/1914:08”ç¨Ç"
-Magic Eden*Ù…Ø¬ÛŒÚ© Ø§ÛŒØ¯Ù†20.4424:51315A\Âõ(Ü7ÀHûü #R=https://s2.coinmarketcap.com/static/img/coins/64x64/32197.png
- 
-
-1404/07/1914:08”ç¨Ç"ssv.network*Ø§Ø³â€ŒØ§Ø³â€ŒÙˆÛŒ Ù†ØªÙˆØ±Ú©25.23:606319A=
-×£pıAÀHÅÆŒ#R=https://s2.coinmarketcap.com/static/img/coins/64x64/12999.png
+1404/07/1914:21Íí¨Ç"io.net*Ø¢ÛŒâ€ŒØ§Ùˆ Ø¯Ø§Øª Ù†Øª20.3402:39416AHáz®§AÀHÜ—¦#R=https://s2.coinmarketcap.com/static/img/coins/64x64/29835.png
 £
 
-1404/07/1914:11õè¨Ç"Pundi X (New)*Ù¾Ø§Ù†Ø¯ÛŒ Ø§ÛŒÚ©Ø³ (Ø¬Ø¯ÛŒØ¯)20.2848:33055A×£p=
-×ÀHÍ€Œ#R<https://s2.coinmarketcap.com/static/img/coins/64x64/9040.png
-ƒ
-
-1404/07/1914:11õè¨Ç"BORA*Ø¨ÙˆØ±Ø§20.0668:7754A33333³,ÀH¾à„#R<https://s2.coinmarketcap.com/static/img/coins/64x64/3801.png
-’
-
-1404/07/1914:11õè¨Ç"Gigachad*Ú¯ÛŒÚ¯Ø§Ú†Ø§Ø¯20.007895:916.22A
-×£p=Š:ÀHíÊ‚#R=https://s2.coinmarketcap.com/static/img/coins/64x64/30063.png
+1404/07/1914:21Íí¨Ç"Pundi X (New)*Ù¾Ø§Ù†Ø¯ÛŒ Ø§ÛŒÚ©Ø³ (Ø¬Ø¯ÛŒØ¯)20.2865:33188A\Âõ(\ÀHˆç¥#R<https://s2.coinmarketcap.com/static/img/coins/64x64/9040.png
 w
 
-1404/07/1914:09óç¨Ç"420.0730:8468Aö(\ÂõEÀHÔ…è"R=https://s2.coinmarketcap.com/static/img/coins/64x64/38557.png
+1404/07/1914:21Íí¨Ç"420.0738:8549Afffff†EÀH¬€˜#R=https://s2.coinmarketcap.com/static/img/coins/64x64/38557.png
+”
+
+1404/07/1914:20Øì¨Ç"
+Magic Eden*Ù…Ø¬ÛŒÚ© Ø§ÛŒØ¯Ù†20.4412:51118A…ëQ¸^8ÀHè•#R=https://s2.coinmarketcap.com/static/img/coins/64x64/32197.png
+ƒ
+
+1404/07/1914:21Íí¨Ç"BORA*Ø¨ÙˆØ±Ø§20.0667:7727A{®Gáú,ÀH«˜ı"R<https://s2.coinmarketcap.com/static/img/coins/64x64/3801.png
+’
+
+1404/07/1914:21Íí¨Ç"Gigachad*Ú¯ÛŒÚ¯Ø§Ú†Ø§Ø¯20.007881:913.04A=
+×£p½:ÀH±Ğú"R=https://s2.coinmarketcap.com/static/img/coins/64x64/30063.png
+ 
+
+1404/07/1914:21Íí¨Ç"ssv.network*Ø§Ø³â€ŒØ§Ø³â€ŒÙˆÛŒ Ù†ØªÙˆØ±Ú©25.20:602707Aš™™™™9BÀHÔ‰÷"R=https://s2.coinmarketcap.com/static/img/coins/64x64/12999.png
 ©
 
-1404/07/1914:11áè¨Ç"Stronghold Token*"Ø§Ø³ØªØ±Ø§Ù†Ú¯â€ŒÙ‡ÙˆÙ„Ø¯ ØªÙˆÚ©Ù†20.0125:1454AÂõ(\*ÀHÁÛÎ"R<https://s2.coinmarketcap.com/static/img/coins/64x64/3661.png
-¤
-
-1404/07/1914:11õè¨Ç"Yield Guild Games*ÛŒÛŒÙ„Ø¯ Ú¯ÛŒÙ„Ø¯ Ú¯ÛŒÙ…Ø²20.1197:13886AR¸…ëÑ?ÀHâü"R=https://s2.coinmarketcap.com/static/img/coins/64x64/10688.png
+1404/07/1914:21Íí¨Ç"Stronghold Token*"Ø§Ø³ØªØ±Ø§Ù†Ú¯â€ŒÙ‡ÙˆÙ„Ø¯ ØªÙˆÚ©Ù†20.0125:1446A)\Âõ(+ÀH÷İ¼"R<https://s2.coinmarketcap.com/static/img/coins/64x64/3661.png
 
 
-1404/07/1914:11õè¨Ç"Ark*Ø¢Ø±Ú©20.3742:43421A33333³+ÀHøØ"R<https://s2.coinmarketcap.com/static/img/coins/64x64/1586.png
+1404/07/1914:21Íí¨Ç"Ark*Ø¢Ø±Ú©20.3746:43395Aq=
+×£p+ÀHÅÊ¢"R<https://s2.coinmarketcap.com/static/img/coins/64x64/1586.png
 ‚
 
-1404/07/1914:11õè¨Ç"Hemi*Ù‡Ù…ÛŒ20.0734:8521A®Gáz.0ÀH„Øœ"R=https://s2.coinmarketcap.com/static/img/coins/64x64/38159.png
+1404/07/1914:21Íí¨Ç"Hemi*Ù‡Ù…ÛŒ20.0734:8503AÂõ(\Ï0ÀHãš"R=https://s2.coinmarketcap.com/static/img/coins/64x64/38159.png
 
 
-1404/07/1914:11õè¨Ç"BIM*Ø¨ÛŒÙ…22.39:277071A{®Gáú&ÀH‘Õ“"R=https://s2.coinmarketcap.com/static/img/coins/64x64/24877.png
+1404/07/1914:21Íí¨Ç"BIM*Ø¨ÛŒÙ…22.39:276621Aq=
+×£ğ&ÀHßÿ“"R=https://s2.coinmarketcap.com/static/img/coins/64x64/24877.png
+¤
+
+1404/07/1914:21Íí¨Ç"Yield Guild Games*ÛŒÛŒÙ„Ø¯ Ú¯ÛŒÙ„Ø¯ Ú¯ÛŒÙ…Ø²20.1188:13766A×£p=
+7@ÀHÆ€"R=https://s2.coinmarketcap.com/static/img/coins/64x64/10688.png
+†
+
+1404/07/1914:21Íí¨Ç"Ardor*
+Ø¢Ø±Ø¯ÙˆØ±20.0713:8257A)\Âõ('ÀH“©÷!R<https://s2.coinmarketcap.com/static/img/coins/64x64/1320.png
 š
 
-1404/07/1914:11õè¨Ç"SwftCoin*Ø³ÙˆØ¦ÛŒÙØªâ€ŒÚ©ÙˆÛŒÙ†20.007147:829.38A{®Gáú&ÀHç‚Š"R<https://s2.coinmarketcap.com/static/img/coins/64x64/2341.png
+1404/07/1914:21Íí¨Ç"SwftCoin*Ø³ÙˆØ¦ÛŒÙØªâ€ŒÚ©ÙˆÛŒÙ†20.007094:821.80AR¸…ëÑ'ÀHæÄé!R<https://s2.coinmarketcap.com/static/img/coins/64x64/2341.png
 „
 
-1404/07/1914:11õè¨Ç"Hive*Ù‡Ø§ÛŒÙˆ20.1440:16706A)\Âõ(5ÀH›³Ş!R<https://s2.coinmarketcap.com/static/img/coins/64x64/5370.png
-
-
-1404/07/1914:11õè¨Ç"Big Time*Ø¨ÛŒÚ¯ ØªØ§ÛŒÙ…20.0346:4018A
-×£p=
-;ÀHŒÅÍ!R=https://s2.coinmarketcap.com/static/img/coins/64x64/28230.png
-‰
-
-1404/07/1914:11õè¨Ç"Spark*Ø§Ø³Ù¾Ø§Ø±Ú©20.0391:4542A      5ÀHü£Í!R=https://s2.coinmarketcap.com/static/img/coins/64x64/36569.png
+1404/07/1914:21Íí¨Ç"Hive*Ù‡Ø§ÛŒÙˆ20.1441:16699A¸…ëQ85ÀHÂèã!R<https://s2.coinmarketcap.com/static/img/coins/64x64/5370.png
 œ
 
-1404/07/1914:11õè¨Ç"OG Fan Token*Ø§Ùˆ Ø¬ÛŒ ÙÙ† ØªÙˆÚ©Ù†216.27:1887899A
-×£p=
-ó¿HÊÅÈ!R<https://s2.coinmarketcap.com/static/img/coins/64x64/5309.png
-˜
-
-1404/07/1914:11õè¨Ç"IOST*Ø¢ÛŒâ€ŒØ§Ùˆâ€ŒØ§Ø³â€ŒØªÛŒ20.002437:282.79A®Gáz®3ÀHÕÌµ!R<https://s2.coinmarketcap.com/static/img/coins/64x64/2405.png
-‹
-
-1404/07/1914:11õè¨Ç"WeFi*ÙˆÛŒâ€ŒÙØ§ÛŒ21.0162:117931A\Âõ(\ß¿H¦Ä²!R=https://s2.coinmarketcap.com/static/img/coins/64x64/34261.png
-š
-
-1404/07/1914:11õè¨Ç"Jelly-My-Jelly*Ø¬Ù„ÛŒ-Ù…Ø§ÛŒ-Ø¬Ù„ÛŒ20.0700:8125A…ëQ¸…ÀHË•±!R=https://s2.coinmarketcap.com/static/img/coins/64x64/35537.png
-—
-
-1404/07/1914:11õè¨Ç"MNEE*Ø§Ù…â€ŒØ§Ù†â€ŒØ§ÛŒâ€ŒØ§ÛŒ20.9995:115991A¤p=
-×£Ğ?Hˆ…­!R=https://s2.coinmarketcap.com/static/img/coins/64x64/32878.png
+1404/07/1914:21Íí¨Ç"OG Fan Token*Ø§Ùˆ Ø¬ÛŒ ÙÙ† ØªÙˆÚ©Ù†216.25:1882620Aš™™™™™õ¿H˜èÃ!R<https://s2.coinmarketcap.com/static/img/coins/64x64/5309.png
 ‰
 
-1404/07/1914:11õè¨Ç"Storj*Ø§Ø³ØªÙˆØ±Ø¬20.1667:19345Aö(\Âu:ÀHÊß¦!R<https://s2.coinmarketcap.com/static/img/coins/64x64/1772.png
-
-
-1404/07/1914:08”ç¨Ç"Stratis [New]*Ø§Ø³ØªØ±ØªÛŒØ³ [Ø¬Ø¯ÛŒØ¯]20.0345:4003AÍÌÌÌÌL%ÀH¼Ù•!R=https://s2.coinmarketcap.com/static/img/coins/64x64/30168.png
-†
-
-1404/07/1914:11õè¨Ç"Ardor*
-Ø¢Ø±Ø¯ÙˆØ±20.0696:8081Aö(\Âõ*ÀH†µ“!R<https://s2.coinmarketcap.com/static/img/coins/64x64/1320.png
-–
-
-1404/07/1914:11õè¨Ç"Constellation*Ú©Ø§Ù†Ø³ØªÙ„ÛŒØ´Ù†20.0239:2778Aš™™™™$ÀHÃ‚æ R<https://s2.coinmarketcap.com/static/img/coins/64x64/2868.png
-ˆ
-
-1404/07/1914:11õè¨Ç"Bancor*
-Ø¨Ù†Ú©ÙˆØ±20.5928:68790A{®Gáz+ÀHŸ¸Ç R<https://s2.coinmarketcap.com/static/img/coins/64x64/1727.png
-ƒ
-
-1404/07/1914:11õè¨Ç"Mira Network20.3522:40869A®Gáz3ÀH„Ú R=https://s2.coinmarketcap.com/static/img/coins/64x64/38495.png
-“
-
-1404/07/1914:11õè¨Ç"Power Ledger*Ù¾Ø§ÙˆØ± Ù„Ø¬Ø±20.1179:13684A33333ó1ÀHõªøR<https://s2.coinmarketcap.com/static/img/coins/64x64/2132.png
-ª
-
-1404/07/1914:11õè¨Ç"EUR CoinVertible* ÛŒÙˆØ±Ùˆ Ú©ÙˆÛŒÙ†â€ŒÙˆØ±ØªÛŒØ¨Ù„21.1427:132616A¤p=
-×£ô¿HÜ­ñR=https://s2.coinmarketcap.com/static/img/coins/64x64/32796.png
-ƒ
-
-1404/07/1914:11õè¨Ç"Ika*Ø§ÛŒÚ©Ø§20.0223:2584A×£p=
-8ÀHûÔíR=https://s2.coinmarketcap.com/static/img/coins/64x64/37454.png
-‡
-
-1404/07/1914:11õè¨Ç"Propy*
-Ù¾Ø±ÙˆÙ¾ÛŒ20.6658:77271A…ëQ¸%ÀHíüßR<https://s2.coinmarketcap.com/static/img/coins/64x64/1974.png
-…
-
-1404/07/1914:11õè¨Ç"Tellor*ØªÙ„Ø±224.43:2835503A®GázÔ;ÀH›ÌİR<https://s2.coinmarketcap.com/static/img/coins/64x64/4944.png
-ˆ
-
-1404/07/1914:11õè¨Ç"siren*
-Ø³Ø§ÛŒØ±Ù†20.0909:10544Aö(\Âu$ÀHÉõÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/35766.png
-‹
-
-1404/07/1914:11õè¨Ç"Uchain*
-ÛŒÙˆÚ†ÛŒÙ†21324:	153622026A…ëQ¸Õ?HÕäÇR=https://s2.coinmarketcap.com/static/img/coins/64x64/38187.png
+1404/07/1914:21Íí¨Ç"Spark*Ø§Ø³Ù¾Ø§Ø±Ú©20.0391:4525AÃõ(\‚5ÀHÅÙÃ!R=https://s2.coinmarketcap.com/static/img/coins/64x64/36569.png
 
 
-1404/07/1914:11õè¨Ç"Balancer*Ø¨Ø§Ù„Ø§Ù†Ø³Ø±20.9807:113809A×£p=
-×*ÀH¹÷ÆR<https://s2.coinmarketcap.com/static/img/coins/64x64/5728.png
+1404/07/1914:21Íí¨Ç"Big Time*Ø¨ÛŒÚ¯ ØªØ§ÛŒÙ…20.0345:4001A×£p=
+W;ÀHËºÂ!R=https://s2.coinmarketcap.com/static/img/coins/64x64/28230.png
 —
 
-1404/07/1914:08”ç¨Ç"Venice Token*ÙˆÙ†ÛŒØ³ ØªÙˆÚ©Ù†21.6763:194430Afffff¦9ÀHÉ¨¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/35509.png
+1404/07/1914:21Íí¨Ç"MNEE*Ø§Ù…â€ŒØ§Ù†â€ŒØ§ÛŒâ€ŒØ§ÛŒ21.0002:115876A333333Ã?H†°!R=https://s2.coinmarketcap.com/static/img/coins/64x64/32878.png
+š
+
+1404/07/1914:21Íí¨Ç"Jelly-My-Jelly*Ø¬Ù„ÛŒ-Ù…Ø§ÛŒ-Ø¬Ù„ÛŒ20.0699:8104AÃõ(\ÂÀH±›­!R=https://s2.coinmarketcap.com/static/img/coins/64x64/35537.png
+‹
+
+1404/07/1914:21Íí¨Ç"WeFi*ÙˆÛŒâ€ŒÙØ§ÛŒ21.0141:117487AHáz®Gé¿H—×©!R=https://s2.coinmarketcap.com/static/img/coins/64x64/34261.png
+‰
+
+1404/07/1914:21Íí¨Ç"Storj*Ø§Ø³ØªÙˆØ±Ø¬20.1662:19251A=
+×£p½:ÀH–™!R<https://s2.coinmarketcap.com/static/img/coins/64x64/1772.png
+
+
+1404/07/1914:19œì¨Ç"Stratis [New]*Ø§Ø³ØªØ±ØªÛŒØ³ [Ø¬Ø¯ÛŒØ¯]20.0345:3995AR¸…ëÑ%ÀHî´’!R=https://s2.coinmarketcap.com/static/img/coins/64x64/30168.png
+–
+
+1404/07/1914:21Íí¨Ç"Constellation*Ú©Ø§Ù†Ø³ØªÙ„ÛŒØ´Ù†20.0242:2800A¤p=
+×#!ÀH½˜!R<https://s2.coinmarketcap.com/static/img/coins/64x64/2868.png
+˜
+
+1404/07/1914:21Íí¨Ç"IOST*Ø¢ÛŒâ€ŒØ§Ùˆâ€ŒØ§Ø³â€ŒØªÛŒ20.002414:279.71A¸…ëQx4ÀHµ!R<https://s2.coinmarketcap.com/static/img/coins/64x64/2405.png
+ˆ
+
+1404/07/1914:21Íí¨Ç"Bancor*
+Ø¨Ù†Ú©ÙˆØ±20.5920:68587A×£p=
+×+ÀHŠ˜Â R<https://s2.coinmarketcap.com/static/img/coins/64x64/1727.png
+“
+
+1404/07/1914:21Íí¨Ç"Power Ledger*Ù¾Ø§ÙˆØ± Ù„Ø¬Ø±20.1179:13654Aš™™™™2ÀHİ²öR<https://s2.coinmarketcap.com/static/img/coins/64x64/2132.png
+ª
+
+1404/07/1914:21Íí¨Ç"EUR CoinVertible* ÛŒÙˆØ±Ùˆ Ú©ÙˆÛŒÙ†â€ŒÙˆØ±ØªÛŒØ¨Ù„21.1424:132346A¤p=
+×£ô¿H£ûïR=https://s2.coinmarketcap.com/static/img/coins/64x64/32796.png
+ƒ
+
+1404/07/1914:21Íí¨Ç"Mira Network20.3489:40418Aš™™™™Ù3ÀH“£èR=https://s2.coinmarketcap.com/static/img/coins/64x64/38495.png
+‡
+
+1404/07/1914:21Íí¨Ç"Propy*
+Ù¾Ø±ÙˆÙ¾ÛŒ20.6655:77101A=
+×£p½&ÀHë÷İR<https://s2.coinmarketcap.com/static/img/coins/64x64/1974.png
+…
+
+1404/07/1914:21Íí¨Ç"Tellor*ØªÙ„Ø±224.42:2829392Aáz®G!<ÀHüİÛR<https://s2.coinmarketcap.com/static/img/coins/64x64/4944.png
+ˆ
+
+1404/07/1914:21Íí¨Ç"siren*
+Ø³Ø§ÛŒØ±Ù†20.0908:10515A…ëQ¸…$ÀHãĞR=https://s2.coinmarketcap.com/static/img/coins/64x64/35766.png
+‹
+
+1404/07/1914:21Íí¨Ç"Uchain*
+ÛŒÙˆÚ†ÛŒÙ†21324:	153390669A¸…ëQ¸Ş?HïÇÈR=https://s2.coinmarketcap.com/static/img/coins/64x64/38187.png
+ƒ
+
+1404/07/1914:21Íí¨Ç"Ika*Ø§ÛŒÚ©Ø§20.0220:2554A{®Gáú8ÀH¸ÀÄR=https://s2.coinmarketcap.com/static/img/coins/64x64/37454.png
+
+
+1404/07/1914:21Íí¨Ç"Balancer*Ø¨Ø§Ù„Ø§Ù†Ø³Ø±20.9785:113361A×£p=
+×+ÀHÓù½R<https://s2.coinmarketcap.com/static/img/coins/64x64/5728.png
+—
+
+1404/07/1914:21Íí¨Ç"Venice Token*ÙˆÙ†ÛŒØ³ ØªÙˆÚ©Ù†21.6749:194042AÂõ(\O:ÀH¯…»R=https://s2.coinmarketcap.com/static/img/coins/64x64/35509.png
 „
 
-1404/07/1914:11õè¨Ç"Terra*ØªØ±Ø§20.0926:10750AR¸…ëQ?ÀHÁ¨®R=https://s2.coinmarketcap.com/static/img/coins/64x64/20314.png
-¢
-
-1404/07/1914:11õè¨Ç"StorX Network*Ø§Ø³ØªÙˆØ± Ø§Ú©Ø³ Ù†ØªÙˆØ±Ú©20.0897:10413A\Âõ(\%@Hæ“…R=https://s2.coinmarketcap.com/static/img/coins/64x64/10894.png
+1404/07/1914:21Íí¨Ç"Terra*ØªØ±Ø§20.0924:10705AÂõ(\?ÀH² ¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/20314.png
 
 
-1404/07/1914:11õè¨Ç"MVL*Ø§Ù…â€ŒÙˆÛŒâ€ŒØ§Ù„20.002379:276.04A¸…ëQ8#ÀH¼‡ƒR<https://s2.coinmarketcap.com/static/img/coins/64x64/2982.png
-‘
-
-1404/07/1914:11õè¨Ç"Biconomy*Ø¨Ø§ÛŒÚ©ÙˆÙ†ÙˆÙ…ÛŒ20.0655:7606A¤p=
-×ã<ÀHšµîR<https://s2.coinmarketcap.com/static/img/coins/64x64/9543.png
+1404/07/1914:21Íí¨Ç"MVL*Ø§Ù…â€ŒÙˆÛŒâ€ŒØ§Ù„20.002378:275.55A333333#ÀHÉç‚R<https://s2.coinmarketcap.com/static/img/coins/64x64/2982.png
 †
 
-1404/07/1914:11õè¨Ç"Civic*
-Ø³ÛŒÙˆÛŒÚ©20.0647:7510A33333ó3ÀH¢ÅíR<https://s2.coinmarketcap.com/static/img/coins/64x64/1816.png
+1404/07/1914:21Íí¨Ç"Civic*
+Ø³ÛŒÙˆÛŒÚ©20.0647:7498AHáz®4ÀHÜıíR<https://s2.coinmarketcap.com/static/img/coins/64x64/1816.png
 ¢
 
-1404/07/1914:11õè¨Ç"Lorenzo Protocol*Ù„ÙˆØ±Ù†Ø²Ùˆ Ù¾Ø±ÙˆØªÚ©Ù„20.1466:17013A…ëQ¸%@H°ÀÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/36296.png
+1404/07/1914:21Íí¨Ç"StorX Network*Ø§Ø³ØªÙˆØ± Ø§Ú©Ø³ Ù†ØªÙˆØ±Ú©20.0892:10333A…ëQ¸$@HŒ íR=https://s2.coinmarketcap.com/static/img/coins/64x64/10894.png
+‘
+
+1404/07/1914:21Íí¨Ç"Biconomy*Ø¨Ø§ÛŒÚ©ÙˆÙ†ÙˆÙ…ÛŒ20.0655:7587A×£p=
+=ÀH”›ëR<https://s2.coinmarketcap.com/static/img/coins/64x64/9543.png
 Œ
 
-1404/07/1914:11õè¨Ç"Nillion*Ù†ÛŒÙ„ÛŒÙˆÙ†20.2465:28603A=
-×£p½=ÀHÌ¬ËR=https://s2.coinmarketcap.com/static/img/coins/64x64/35702.png
+1404/07/1914:21Íí¨Ç"Nillion*Ù†ÛŒÙ„ÛŒÙˆÙ†20.2464:28551AR¸…ë>ÀHÚòÊR=https://s2.coinmarketcap.com/static/img/coins/64x64/35702.png
+¢
+
+1404/07/1914:21Íí¨Ç"Lorenzo Protocol*Ù„ÙˆØ±Ù†Ø²Ùˆ Ù¾Ø±ÙˆØªÚ©Ù„20.1460:16915AR¸…ëÑ#@Hã¸¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/36296.png
 Š
 
-1404/07/1914:11õè¨Ç"Orbler*Ø§ÙˆØ±Ø¨Ù„Ø±20.0629:7294AHáz®=ÀHÁò·R=https://s2.coinmarketcap.com/static/img/coins/64x64/17520.png
+1404/07/1914:21Íí¨Ç"Orbler*Ø§ÙˆØ±Ø¨Ù„Ø±20.0629:7286A=
+×£pı<ÀHÌÂºR=https://s2.coinmarketcap.com/static/img/coins/64x64/17520.png
 ³
 
-1404/07/1914:11õè¨Ç"Tokenlon Network Token*%ØªÙˆÚ©Ù†â€ŒÙ„Ø§Ù† Ù†ØªÙˆØ±Ú© ØªÙˆÚ©Ù†20.5158:59863A¸…ëQ¸ÀHÃ½¶R<https://s2.coinmarketcap.com/static/img/coins/64x64/8083.png
+1404/07/1914:21Íí¨Ç"Tokenlon Network Token*%ØªÙˆÚ©Ù†â€ŒÙ„Ø§Ù† Ù†ØªÙˆØ±Ú© ØªÙˆÚ©Ù†20.5158:59761A®Gáz®ÀHÑ»¶R<https://s2.coinmarketcap.com/static/img/coins/64x64/8083.png
 –
 
-1404/07/1914:11õè¨Ç"UXLINK*ÛŒÙˆØ§ÛŒÚ©Ø³â€ŒÙ„ÛŒÙ†Ú©20.1325:15375A
-×£p=
-!@HÜ†§R=https://s2.coinmarketcap.com/static/img/coins/64x64/32257.png
-‘
-
-1404/07/1914:08”ç¨Ç"MetisDAO*Ù…ØªÛŒØ³ Ø¯Ø§Ø¦Ùˆ29.61:1114592A33333ó9ÀHÂášR<https://s2.coinmarketcap.com/static/img/coins/64x64/9640.png
+1404/07/1914:21Íí¨Ç"UXLINK*ÛŒÙˆØ§ÛŒÚ©Ø³â€ŒÙ„ÛŒÙ†Ú©20.1330:15405A\Âõ(Ü"@H ¤µR=https://s2.coinmarketcap.com/static/img/coins/64x64/32257.png
 ’
 
-1404/07/1914:11õè¨Ç"
-Pax Dollar*Ù¾Ú©Ø³ Ø¯Ù„Ø§Ø±20.9996:116007AìQ¸…ë±¿Hşö“R<https://s2.coinmarketcap.com/static/img/coins/64x64/3330.png
+1404/07/1914:21Íí¨Ç"
+Pax Dollar*Ù¾Ú©Ø³ Ø¯Ù„Ø§Ø±20.9997:115815A{®Gáz´¿H€Œ”R<https://s2.coinmarketcap.com/static/img/coins/64x64/3330.png
 ‘
 
-1404/07/1914:11õè¨Ç"SpaceN*Ø§Ø³Ù¾ÛŒØ³â€ŒØ§Ù†21.5696:182154AHáz®GÀHËƒùR=https://s2.coinmarketcap.com/static/img/coins/64x64/22052.png
+1404/07/1914:20Øì¨Ç"MetisDAO*Ù…ØªÛŒØ³ Ø¯Ø§Ø¦Ùˆ29.56:1107929A®Gáz”:ÀHŞ˜ˆR<https://s2.coinmarketcap.com/static/img/coins/64x64/9640.png
+‘
+
+1404/07/1914:21Íí¨Ç"SpaceN*Ø§Ø³Ù¾ÛŒØ³â€ŒØ§Ù†21.5721:182136Aö(\ÂõÀH¢”ÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/22052.png
 —
 
-1404/07/1914:11õè¨Ç"Pirate Chain*Ù¾Ø§ÛŒØ±ÛŒØª Ú†ÛŒÙ†20.3173:36825A{®Gázğ¿H¯ØR<https://s2.coinmarketcap.com/static/img/coins/64x64/3951.png
-™
+1404/07/1914:21Íí¨Ç"Pirate Chain*Ù¾Ø§ÛŒØ±ÛŒØª Ú†ÛŒÙ†20.3164:36660A333333ÀH´ÌÍR<https://s2.coinmarketcap.com/static/img/coins/64x64/3951.png
+“
 
-1404/07/1914:11õè¨Ç"Huma Finance*Ù‡ÙˆÙ…Ø§ ÙØ§ÛŒÙ†Ù†Ø³20.0272:3160A…ëQ¸…2ÀHä´»R=https://s2.coinmarketcap.com/static/img/coins/64x64/36576.png
+1404/07/1914:21Íí¨Ç"
+Everipedia*Ø§ÙˆØ±Ù¾Ø¯ÛŒØ§20.002642:306.07A)\Âõ(-ÀHß§ÄR<https://s2.coinmarketcap.com/static/img/coins/64x64/2930.png
 ¤
 
-1404/07/1914:11áè¨Ç"ConstitutionDAO*Ú©ÙˆÙ†Ø³ØªÛŒØªÙˆØ´Ù† Ø¯Ø§Ø¦Ùˆ20.0122:1416A\Âõ(\;ÀHğœ¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/14806.png
+1404/07/1914:21¹í¨Ç"ConstitutionDAO*Ú©ÙˆÙ†Ø³ØªÛŒØªÙˆØ´Ù† Ø¯Ø§Ø¦Ùˆ20.0122:1410AÍÌÌÌÌŒ;ÀH¸ˆ°R=https://s2.coinmarketcap.com/static/img/coins/64x64/14806.png
 
 
-1404/07/1914:11õè¨Ç"Lagrange*Ù„Ø§Ú¯Ø±Ø§Ù†Ú˜20.3195:37079Aq=
-×£ğ-ÀHºÙ³R=https://s2.coinmarketcap.com/static/img/coins/64x64/36510.png
+1404/07/1914:21Íí¨Ç"Lagrange*Ù„Ø§Ú¯Ø±Ø§Ù†Ú˜20.3186:36905Aö(\Âu.ÀH’º¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/36510.png
 Œ
 
-1404/07/1914:11õè¨Ç"Bonfida*Ø¨ÙˆÙ†ÙÛŒØ¯Ø§20.0622:7220AHáz®6ÀHÕÙ²R<https://s2.coinmarketcap.com/static/img/coins/64x64/7978.png
-‚
+1404/07/1914:21Íí¨Ç"Bonfida*Ø¨ÙˆÙ†ÙÛŒØ¯Ø§20.0620:7178A
+×£p=J6ÀHË¤£R<https://s2.coinmarketcap.com/static/img/coins/64x64/7978.png
+™
 
-1404/07/1914:11õè¨Ç"Aevo*Ø§ÙˆÙˆ20.0670:7777AìQ¸…«>ÀH÷ëœR=https://s2.coinmarketcap.com/static/img/coins/64x64/29676.png
-
-
-1404/07/1914:11õè¨Ç"Doodles*
-Ø¯ÙˆØ¯Ù„Ø²20.007853:911.36AHáz®‡8ÀHî×šR=https://s2.coinmarketcap.com/static/img/coins/64x64/35747.png
-|
-
-1404/07/1914:11õè¨Ç"Nomina20.0211:2445AR¸…ë‘=ÀHªÖ‘R=https://s2.coinmarketcap.com/static/img/coins/64x64/38464.png
+1404/07/1914:21Íí¨Ç"Huma Finance*Ù‡ÙˆÙ…Ø§ ÙØ§ÛŒÙ†Ù†Ø³20.0270:3128A3333333ÀH¼œR=https://s2.coinmarketcap.com/static/img/coins/64x64/36576.png
 —
 
-1404/07/1914:11õè¨Ç"Open Campus*Ø§ÙˆÙ¾Ù† Ú©Ù…Ù¾Ø§Ø³20.1030:11948AÍÌÌÌÌŒ;ÀHÖÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/24613.png
+1404/07/1914:21Íí¨Ç"Open Campus*Ø§ÙˆÙ¾Ù† Ú©Ù…Ù¾Ø§Ø³20.1029:11924A¤p=
+×£;ÀH±ÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/24613.png
+–
+
+1404/07/1914:21Íí¨Ç"STBL*Ø§Ø³â€ŒØªÛŒâ€ŒØ¨ÛŒâ€ŒØ§Ù„20.1221:14142A=
+×£p}9ÀH€R=https://s2.coinmarketcap.com/static/img/coins/64x64/38359.png
+‚
+
+1404/07/1914:21Íí¨Ç"Aevo*Ø§ÙˆÙˆ20.0666:7716AHáz®G?ÀHÁî…R=https://s2.coinmarketcap.com/static/img/coins/64x64/29676.png
+‰
+
+1404/07/1914:21Íí¨Ç"Dohrnii*
+Ø¯ÙˆØ±Ù†ÛŒ23.56:412927AìQ¸…ëé¿HÊÈ‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/20279.png
 Å
 
-1404/07/1914:11õè¨Ç"aixbt by Virtuals*<Ø§ÛŒâ€ŒØ¢ÛŒâ€ŒØ§Ú©Ø³â€ŒØ¨ÛŒâ€ŒØªÛŒ ØªÙˆØ³Ø· ÙˆÛŒØ±Ú†ÙˆØ§Ù„Ø²20.0616:7154A×£p=
-@ÀHøğ‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/34103.png
+1404/07/1914:21Íí¨Ç"aixbt by Virtuals*<Ø§ÛŒâ€ŒØ¢ÛŒâ€ŒØ§Ú©Ø³â€ŒØ¨ÛŒâ€ŒØªÛŒ ØªÙˆØ³Ø· ÙˆÛŒØ±Ú†ÙˆØ§Ù„Ø²20.0616:7131A×£p=
+7@ÀHŸš‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/34103.png
 ‰
 
-1404/07/1914:11õè¨Ç"Dohrnii*
-Ø¯ÙˆØ±Ù†ÛŒ23.56:413516Aáz®Gáê¿HĞÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/20279.png
-–
+1404/07/1914:21Íí¨Ç"Cheelee*Ú†ÛŒÙ„ÛŒ21.0702:123986A\Âõ(\ç¿H€R=https://s2.coinmarketcap.com/static/img/coins/64x64/23054.png
+
 
-1404/07/1914:11õè¨Ç"STBL*Ø§Ø³â€ŒØªÛŒâ€ŒØ¨ÛŒâ€ŒØ§Ù„20.1216:14106A\Âõ(\:ÀHùÆıR=https://s2.coinmarketcap.com/static/img/coins/64x64/38359.png
+1404/07/1914:21Íí¨Ç"Doodles*
+Ø¯ÙˆØ¯Ù„Ø²20.007795:903.12A…ëQ¸Ş8ÀH¤—ÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/35747.png
 ‚
 
-1404/07/1914:11õè¨Ç"WAX*ÙˆØ§Ú©Ø³20.0136:1578AÍÌÌÌÌ6ÀHãâüR<https://s2.coinmarketcap.com/static/img/coins/64x64/2300.png
-ª
-
-1404/07/1914:11õè¨Ç"BSquared Network* Ø¨ÛŒâ€ŒØ§Ø³Ú©ÙˆØ¦Ø±Ø¯ Ù†ØªÙˆØ±Ú©21.2944:150213Aáz®Gá@H ¡ùR=https://s2.coinmarketcap.com/static/img/coins/64x64/36352.png
-‰
-
-1404/07/1914:11õè¨Ç"Cheelee*Ú†ÛŒÙ„ÛŒ21.0658:123687A®Gáz®ï¿HãğR=https://s2.coinmarketcap.com/static/img/coins/64x64/23054.png
+1404/07/1914:21Íí¨Ç"WAX*ÙˆØ§Ú©Ø³20.0136:1574A®Gáz.6ÀH¤úR<https://s2.coinmarketcap.com/static/img/coins/64x64/2300.png
 …
 
-1404/07/1914:11õè¨Ç"CARV*Ú©Ø§Ø±Ùˆ20.2047:23755A)\Âõ¨2ÀHêR=https://s2.coinmarketcap.com/static/img/coins/64x64/33372.png
-“
+1404/07/1914:21Íí¨Ç"CARV*Ú©Ø§Ø±Ùˆ20.2053:23782AR¸…ë‘2ÀH©ÌôR=https://s2.coinmarketcap.com/static/img/coins/64x64/33372.png
+|
 
-1404/07/1914:11õè¨Ç"
-Everipedia*Ø§ÙˆØ±Ù¾Ø¯ÛŒØ§20.002576:298.92A…ëQ¸Å0ÀHâÜåR<https://s2.coinmarketcap.com/static/img/coins/64x64/2930.png
+1404/07/1914:21Íí¨Ç"Nomina20.0209:2418A¤p=
+×c>ÀH¦ÈíR=https://s2.coinmarketcap.com/static/img/coins/64x64/38464.png
 ’
 
-1404/07/1914:11õè¨Ç"ai16z*Ø§ÛŒâ€ŒØ¢ÛŒ Û±Û¶ Ø²ÛŒ20.0549:6370A=
-×£p}BÀH¡ åR=https://s2.coinmarketcap.com/static/img/coins/64x64/34026.png
+1404/07/1914:21Íí¨Ç"ai16z*Ø§ÛŒâ€ŒØ¢ÛŒ Û±Û¶ Ø²ÛŒ20.0549:6359A
+×£p=ŠBÀHö‹åR=https://s2.coinmarketcap.com/static/img/coins/64x64/34026.png
+ª
+
+1404/07/1914:21Íí¨Ç"BSquared Network* Ø¨ÛŒâ€ŒØ§Ø³Ú©ÙˆØ¦Ø±Ø¯ Ù†ØªÙˆØ±Ú©21.2862:149008A
+×£p=
+@H•ãáR=https://s2.coinmarketcap.com/static/img/coins/64x64/36352.png
 £
 
-1404/07/1914:11õè¨Ç"
-Venus BUSD*"ÙˆÙ†ÙˆØ³ Ø¨ÛŒâ€ŒÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.0223:2593A…ëQ¸…ó¿H«÷ÚR<https://s2.coinmarketcap.com/static/img/coins/64x64/7959.png
+1404/07/1914:21Íí¨Ç"
+Venus BUSD*"ÙˆÙ†ÙˆØ³ Ø¨ÛŒâ€ŒÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.0223:2589A®Gáz®ó¿H«÷ÚR<https://s2.coinmarketcap.com/static/img/coins/64x64/7959.png
 ­
 
-1404/07/1914:11õè¨Ç"Bertram The Pomeranian*Ø¨Ø±ØªØ±Ø§Ù… Ù¾ÙˆÙ…Ø±Ø§Ù†ÛŒØ§Ù†20.0623:7225A
-×£p=
-0ÀH®°ÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/33854.png
-‘
-
-1404/07/1914:08”ç¨Ç"FunFair*ÙØ§Ù†â€ŒÙÙØ±20.005523:640.65A\Âõ(¼AÀHôöºR<https://s2.coinmarketcap.com/static/img/coins/64x64/1757.png
+1404/07/1914:21Íí¨Ç"Bertram The Pomeranian*Ø¨Ø±ØªØ±Ø§Ù… Ù¾ÙˆÙ…Ø±Ø§Ù†ÛŒØ§Ù†20.0620:7188Affffff0ÀHŸ‡ÍR=https://s2.coinmarketcap.com/static/img/coins/64x64/33854.png
 Š
 
-1404/07/1914:11õè¨Ç"Chintai*Ú†ÛŒÙ†ØªØ§ÛŒ20.0597:6931Aö(\Âu,ÀHİŸ¹R<https://s2.coinmarketcap.com/static/img/coins/64x64/8534.png
+1404/07/1914:21Íí¨Ç"Chintai*Ú†ÛŒÙ†ØªØ§ÛŒ20.0597:6914A×£p=
+×,ÀHŠË¶R<https://s2.coinmarketcap.com/static/img/coins/64x64/8534.png
 
 
-1404/07/1914:11õè¨Ç"
-Hivemapper*Ù‡Ø§ÛŒÙˆÙ…Ù¾Ø±20.0120:1391A¸…ëQ8-ÀH¨¶¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/22850.png
-„
+1404/07/1914:21Íí¨Ç"
+Hivemapper*Ù‡Ø§ÛŒÙˆÙ…Ù¾Ø±20.0120:1390A¸…ëQ8-ÀHæÂ¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/22850.png
+
 
-1404/07/1914:11õè¨Ç"Sign*Ø³Ø§ÛŒÙ†20.0438:5081AHáz®G=ÀHó¢—R=https://s2.coinmarketcap.com/static/img/coins/64x64/35600.png
+1404/07/1914:21Íí¨Ç"ECOMI*Ø§ÛŒâ€ŒÚ©ÙˆÙ…ÛŒ20.000209:24.26AHáz®G4ÀH˜‹R=https://s2.coinmarketcap.com/static/img/coins/64x64/19075.png
 ‰
 
-1404/07/1914:11õè¨Ç"Audius*Ø¢ÙˆØ¯ÛŒÙˆØ³20.0433:5022A¸…ëQø4ÀHÏõR<https://s2.coinmarketcap.com/static/img/coins/64x64/7455.png
-
+1404/07/1914:21Íí¨Ç"Audius*Ø¢ÙˆØ¯ÛŒÙˆØ³20.0432:5004A)\Âõh5ÀHğ‰R<https://s2.coinmarketcap.com/static/img/coins/64x64/7455.png
+„
 
-1404/07/1914:11õè¨Ç"ECOMI*Ø§ÛŒâ€ŒÚ©ÙˆÙ…ÛŒ20.000209:24.26A)\Âõh4ÀH…‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/19075.png
+1404/07/1914:21Íí¨Ç"Sign*Ø³Ø§ÛŒÙ†20.0435:5045A
+×£p=Ê=ÀH±¤„R=https://s2.coinmarketcap.com/static/img/coins/64x64/35600.png
+‘
+
+1404/07/1914:21Íí¨Ç"FunFair*ÙØ§Ù†â€ŒÙÙØ±20.005432:629.35A®GázNBÀHøşR<https://s2.coinmarketcap.com/static/img/coins/64x64/1757.png
 —
 
-1404/07/1914:11õè¨Ç"Phala Network*ÙØ§Ù„Ø§ Ù†ØªÙˆØ±Ú©20.0716:8311A\Âõ(<ÀHªåR<https://s2.coinmarketcap.com/static/img/coins/64x64/6841.png
+1404/07/1914:21Íí¨Ç"Phala Network*ÙØ§Ù„Ø§ Ù†ØªÙˆØ±Ú©20.0717:8305AR¸…ë‘<ÀH™¬èR<https://s2.coinmarketcap.com/static/img/coins/64x64/6841.png
 
 
-1404/07/1914:11õè¨Ç"Alchemist AI*Ø§Ù„Ú©Ù…ÛŒØ³Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.0685:7951A)\Âõ(ä¿HÑ¬âR=https://s2.coinmarketcap.com/static/img/coins/64x64/34880.png
+1404/07/1914:21Íí¨Ç"Alchemist AI*Ø§Ù„Ú©Ù…ÛŒØ³Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.0685:7941A\Âõ(\ï¿H‹ÿãR=https://s2.coinmarketcap.com/static/img/coins/64x64/34880.png
 ”
 
-1404/07/1914:08”ç¨Ç"Keep Network*Ú©ÛŒÙ¾ Ù†ØªÙˆØ±Ú©20.0601:6968Aš™™™™Y2ÀH÷ÃÜR<https://s2.coinmarketcap.com/static/img/coins/64x64/5566.png
-Œ
-
-1404/07/1914:11õè¨Ç"Caldera*Ú©Ø§Ù„Ø¯Ø±Ø§20.3903:45291A)\Âõ(6ÀHÜ§ÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/37374.png
+1404/07/1914:19œì¨Ç"Keep Network*Ú©ÛŒÙ¾ Ù†ØªÙˆØ±Ú©20.0601:6960Aš™™™™Y2ÀH÷ÃÜR<https://s2.coinmarketcap.com/static/img/coins/64x64/5566.png
 ª
 
-1404/07/1914:11áè¨Ç"Goatseus Maximus*"Ú¯ÙˆØªâ€ŒØ³Ø¦ÙˆØ³ Ù…Ø§Ú©Ø³ÛŒÙ…ÙˆØ³20.0579:6719AìQ¸…+>ÀH•úÍR=https://s2.coinmarketcap.com/static/img/coins/64x64/33440.png
+1404/07/1914:21Íí¨Ç"Goatseus Maximus*"Ú¯ÙˆØªâ€ŒØ³Ø¦ÙˆØ³ Ù…Ø§Ú©Ø³ÛŒÙ…ÙˆØ³20.0579:6709Aö(\Â5>ÀHüÂÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/33440.png
+Œ
+
+1404/07/1914:21Íí¨Ç"Caldera*Ú©Ø§Ù„Ø¯Ø±Ø§20.3896:45141Aš™™™™Y6ÀHŒÊËR=https://s2.coinmarketcap.com/static/img/coins/64x64/37374.png
 —
 
-1404/07/1914:11õè¨Ç"Spell Token*Ø§Ø³Ù¾Ù„ ØªÙˆÚ©Ù†20.000340:39.51A3333336ÀHó‡ÄR=https://s2.coinmarketcap.com/static/img/coins/64x64/11289.png
+1404/07/1914:21Íí¨Ç"Spell Token*Ø§Ø³Ù¾Ù„ ØªÙˆÚ©Ù†20.000340:39.34AÍÌÌÌÌŒ6ÀH¨îºR=https://s2.coinmarketcap.com/static/img/coins/64x64/11289.png
 
 
-1404/07/1914:11õè¨Ç"OKZOO*Ø§ÙˆÚ©ÛŒâ€ŒØ²Ùˆ20.6959:80756A     €1ÀH”Û°R=https://s2.coinmarketcap.com/static/img/coins/64x64/36319.png
-†
-
-1404/07/1914:11õè¨Ç"Secret*Ø³Ú©Ø±Øª20.1787:20739A\Âõ(\6ÀHãŸ¯R<https://s2.coinmarketcap.com/static/img/coins/64x64/5604.png
+1404/07/1914:21Íí¨Ç"OKZOO*Ø§ÙˆÚ©ÛŒâ€ŒØ²Ùˆ20.6964:80676A…ëQ¸…1ÀHİ˜³R=https://s2.coinmarketcap.com/static/img/coins/64x64/36319.png
 Š
 
-1404/07/1914:11õè¨Ç"Eurite*
-ÛŒÙˆØ±ÛŒØª21.1513:133613AHáz®Gá¿H‘ìR=https://s2.coinmarketcap.com/static/img/coins/64x64/32644.png
+1404/07/1914:21Íí¨Ç"Eurite*
+ÛŒÙˆØ±ÛŒØª21.1511:133361AHáz®Gá¿Hÿ—R=https://s2.coinmarketcap.com/static/img/coins/64x64/32644.png
 ¯
 
-1404/07/1914:11õè¨Ç"Decentralized Social*#Ø¯ÛŒØ³Ù†ØªØ±Ø§Ù„Ø§ÛŒØ²Ø¯ Ø³ÙˆØ´Ø§Ù„26.42:744700Aš™™™™Y3ÀH”ã—R=https://s2.coinmarketcap.com/static/img/coins/64x64/10442.png
-“
-
-1404/07/1914:11õè¨Ç"
-Definitive*Ø¯ÙÛŒÙ†ÛŒØªÛŒÙˆ20.2795:32436A
-×£p=
-"@HÌ¶‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/36288.png
-Š
-
-1404/07/1914:11õè¨Ç"Comedian*
-Ú©Ù…Ø¯ÛŒÙ†20.0566:6573A     À1ÀHÄè€R=https://s2.coinmarketcap.com/static/img/coins/64x64/33881.png
-‘
-
-1404/07/1914:11õè¨Ç"Xai*Ø§ÛŒÚ©Ø³â€ŒØ§ÛŒâ€ŒØ¢ÛŒ20.0282:3270AÂõ(\Ï>ÀHé‹ıR=https://s2.coinmarketcap.com/static/img/coins/64x64/28933.png
-ˆ
-
-1404/07/1914:11õè¨Ç"Pythia*
-Ù¾ÛŒØªÛŒØ§20.0566:6566A=
-×£p=ÀH¬í÷R=https://s2.coinmarketcap.com/static/img/coins/64x64/35216.png
-ˆ
-
-1404/07/1914:11õè¨Ç"MiL.k*Ù…ÛŒÙ„â€ŒÚ©20.1126:13067AÍÌÌÌÌÌ)ÀHêÎ÷R<https://s2.coinmarketcap.com/static/img/coins/64x64/5266.png
-¸
-
-1404/07/1914:08”ç¨Ç"SATS (Ordinals)*Ø³ØªØ³ (Ø§Ø±Ø¯ÛŒÙ†Ø§Ù„Ø²)20.000000026447891367636424:0.003068A
-×£p=
-<ÀHÛö½R=https://s2.coinmarketcap.com/static/img/coins/64x64/28194.png
-£
-
-1404/07/1914:08”ç¨Ç"Binance USD*Ø¨Ø§ÛŒÙ†Ù†Ø³ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0018:116198A333333ó¿HÂÅ¤R<https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png
-Š
-
-1404/07/1914:11õè¨Ç"Chromia*Ú©Ø±ÙˆÙ…ÛŒØ§20.0646:7502A
-×£p=J=ÀHöñR<https://s2.coinmarketcap.com/static/img/coins/64x64/3978.png
-»
-
-1404/07/1914:11õè¨Ç"BNB Attestation Service*,Ø¨ÛŒâ€ŒØ§Ù†â€ŒØ¨ÛŒ Ø§ØªØ³ØªÛŒØ´Ù† Ø³Ø±ÙˆÛŒØ³20.0219:2542A…ëQ¸ÀH÷öR=https://s2.coinmarketcap.com/static/img/coins/64x64/37387.png
-
-
-1404/07/1914:11õè¨Ç"Zentry*Ø²Ù†â€ŒØªØ±ÛŒ20.007190:834.36A¤p=
-×#0ÀH–£€R=https://s2.coinmarketcap.com/static/img/coins/64x64/30963.png
-›
-
-1404/07/1914:11õè¨Ç"Manta Network*Ù…Ø§Ù†ØªØ§ Ù†ØªÙˆØ±Ú©20.1209:14034A{®GáAÀHÆƒüR=https://s2.coinmarketcap.com/static/img/coins/64x64/13631.png
-‡
-
-1404/07/1914:11õè¨Ç"Cookie*Ú©ÙˆÚ©ÛŒ20.0883:10252Aq=
-×£0:ÀHÍ‘êR=https://s2.coinmarketcap.com/static/img/coins/64x64/31838.png
-Š
-
-1404/07/1914:11õè¨Ç"Pixels*Ù¾ÛŒÚ©Ø³Ù„Ø²20.0180:2086AR¸…ëq@ÀHÂùäR=https://s2.coinmarketcap.com/static/img/coins/64x64/29335.png
-
-
-1404/07/1914:11õè¨Ç"Apertum*Ø§Ù¾Ø±ØªÙˆÙ…20.8903:103321A¸…ëQ¸ÀHêÑ×R=https://s2.coinmarketcap.com/static/img/coins/64x64/36215.png
-™
-
-1404/07/1914:05Ôå¨Ç"Ontology Gas*Ø§Ù†ØªÙˆÙ„ÙˆÚ˜ÛŒ Ú¯Ø³20.1257:14588A®Gáz./ÀHƒÆÒR<https://s2.coinmarketcap.com/static/img/coins/64x64/3217.png
-š
-
-1404/07/1914:11õè¨Ç"CyberConnect*Ø³Ø§ÛŒØ¨Ø±Ú©Ø§Ù†Ú©Øª21.0350:120107A33333s@ÀHàÃÒR=https://s2.coinmarketcap.com/static/img/coins/64x64/24781.png
-‘
-
-1404/07/1914:11õè¨Ç"API3*Ø§ÛŒâ€ŒÙ¾ÛŒâ€ŒØ¢ÛŒ Û³20.6209:72058A{®Gá:7ÀHİ›ËR<https://s2.coinmarketcap.com/static/img/coins/64x64/7737.png
-
-
-1404/07/1914:11õè¨Ç"dKargo*Ø¯ÛŒâ€ŒÚ©Ø§Ø±Ú¯Ùˆ20.0107:1243Aq=
-×£ğ+ÀH°€ÆR<https://s2.coinmarketcap.com/static/img/coins/64x64/5908.png
-ˆ
-
-1404/07/1914:11õè¨Ç"Taiko*
-ØªØ§ÛŒÚ©Ùˆ20.2882:33450AÍÌÌÌÌÌ1ÀHÓùÃR=https://s2.coinmarketcap.com/static/img/coins/64x64/31525.png
-
-
-1404/07/1914:11õè¨Ç"deBridge*Ø¯ÛŒâ€ŒØ¨Ø±ÛŒØ¬20.0278:3227AR¸…ëÑ.ÀH™¿ÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/31528.png
-…
-
-1404/07/1914:11õè¨Ç"Orbs*
-Ø§ÙˆØ±Ø¨Ø²20.0133:1549Afffffæ.ÀHó”²R<https://s2.coinmarketcap.com/static/img/coins/64x64/3835.png
-•
-
-1404/07/1914:07€ç¨Ç"
-Banana Gun*Ø¨Ù†Ø§Ù†Ø§ Ú¯Ø§Ù†213.29:1541963A¤p=
-×c9ÀHˆù±R=https://s2.coinmarketcap.com/static/img/coins/64x64/28066.png
-{
-
-1404/07/1914:06¶æ¨Ç"Bless20.0287:3329A®Gáz´CÀHÿšR=https://s2.coinmarketcap.com/static/img/coins/64x64/38466.png
+1404/07/1914:21Íí¨Ç"Decentralized Social*#Ø¯ÛŒØ³Ù†ØªØ±Ø§Ù„Ø§ÛŒØ²Ø¯ Ø³ÙˆØ´Ø§Ù„26.43:744684Aq=
+×£ğ2ÀHäÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/10442.png
 †
 
-1404/07/1914:06æ¨Ç"Flux*
-ÙÙ„Ø§Ú©Ø³20.1342:15575A®Gáz”;ÀH‰ıR<https://s2.coinmarketcap.com/static/img/coins/64x64/3029.png
-›
-
-1404/07/1914:05Ôå¨Ç"XUSD*Ø§ÛŒÚ©Ø³â€ŒÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0007:116127AìQ¸…ë±?H‘•ıR=https://s2.coinmarketcap.com/static/img/coins/64x64/32372.png
-
-
-1404/07/1914:11õè¨Ç"INFINIT*Ø§ÛŒÙ†ÙÛŒÙ†ÛŒØª20.2017:23412A…ëQ¸-ÀH²üõR=https://s2.coinmarketcap.com/static/img/coins/64x64/37609.png
-˜
-
-1404/07/1914:05Ôå¨Ç"	Animecoin*Ø§Ù†ÛŒÙ…Ù‡â€ŒÚ©ÙˆÛŒÙ†20.009436:1095AÂõ(\Ï?ÀH¢ãõR=https://s2.coinmarketcap.com/static/img/coins/64x64/35319.png
-„
-
-1404/07/1914:05Ôå¨Ç"Ergo*Ø§Ø±Ú¯Ùˆ20.6350:73690A¸…ëQ¸ÀH†­ïR<https://s2.coinmarketcap.com/static/img/coins/64x64/1762.png
-
-
-1404/07/1914:06æ¨Ç"Delysium*Ø¯Ù„ÛŒØ²ÛŒÙˆÙ…20.0338:3920A…ëQ¸4ÀHƒ¡ßR=https://s2.coinmarketcap.com/static/img/coins/64x64/24007.png
-‘
-
-1404/07/1914:05Ôå¨Ç"Arcblock*Ø¢Ø±Ú©â€ŒØ¨Ù„Ø§Ú©20.5222:60596AÂõ(\-ÀHµğÄR<https://s2.coinmarketcap.com/static/img/coins/64x64/2545.png
-
-
-1404/07/1914:06æ¨Ç"Across Protocol*Ø§Ú©Ø±Ø§Ø³ Ù¾Ø±ÙˆØªÚ©Ù„20.0836:9704A     À:ÀHÖë¸R=https://s2.coinmarketcap.com/static/img/coins/64x64/22620.png
-—
-
-1404/07/1914:06æ¨Ç"USDB*ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒâ€ŒØ¨ÛŒ20.9972:115725A¸…ëQ¸®?HÎ›ªR=https://s2.coinmarketcap.com/static/img/coins/64x64/29599.png
-š
-
-1404/07/1914:06æ¨Ç"Kyber Network*Ú©Ø§ÛŒØ¨Ø± Ù†ØªÙˆØ±Ú©20.2672:31009A¤p=
-×ã2ÀHïÇ¢R<https://s2.coinmarketcap.com/static/img/coins/64x64/9444.png
-œ
-
-1404/07/1914:06æ¨Ç"CROSS Protocol*Ù¾Ø±ÙˆØªÚ©Ù„ Ú©Ø±Ø§Ø³20.1511:17538A…ëQ¸Å;ÀHØ†”R=https://s2.coinmarketcap.com/static/img/coins/64x64/37166.png
-
-
-1404/07/1914:06æ¨Ç"Marlin*Ù…Ø§Ø±Ù„ÛŒÙ†20.006161:714.94AR¸…ëQ6ÀHéœŒR<https://s2.coinmarketcap.com/static/img/coins/64x64/7497.png
-ª
-
-1404/07/1914:05Ôå¨Ç"DeFi Pulse Index* Ø¯ÛŒÙØ§ÛŒ Ù¾Ø§Ù„Ø³ Ø§ÛŒÙ†Ø¯Ú©Ø³290.21:10468751AÂõ(\)ÀHåÛ…R<https://s2.coinmarketcap.com/static/img/coins/64x64/7055.png
-™
-
-1404/07/1914:05Ôå¨Ç"ChainGPT*Ú†ÛŒÙ† Ø¬ÛŒâ€ŒÙ¾ÛŒâ€ŒØªÛŒ20.0577:6700A®Gáz®;ÀHÓœëR=https://s2.coinmarketcap.com/static/img/coins/64x64/23756.png
-›
-
-1404/07/1914:06æ¨Ç"Gemini Dollar*Ø¬ÛŒÙ…Ù†Ø§ÛŒ Ø¯Ù„Ø§Ø±20.9995:115998A¸…ëQ¸¿H¡±âR<https://s2.coinmarketcap.com/static/img/coins/64x64/3306.png
-²
-
-1404/07/1914:06æ¨Ç"Anchored Coins AEUR*%Ø¢Ù†Ú©Ø±Ø¯ Ú©ÙˆÛŒÙ†Ø² Ø§ÛŒâ€ŒÛŒÙˆØ±Ùˆ21.0382:120481A®Gáz®ÀHàŒİR=https://s2.coinmarketcap.com/static/img/coins/64x64/28596.png
-‡
-
-1404/07/1914:06æ¨Ç"Steem*
-Ø§Ø³ØªÛŒÙ…20.0939:10898A{®Gáú4ÀH®×R<https://s2.coinmarketcap.com/static/img/coins/64x64/1230.png
-
-
-1404/07/1914:06æ¨Ç"Liquity*Ù„ÛŒÚ©ÙˆØ¦ÛŒØªÛŒ20.5203:60380A…ëQ¸^=ÀH‰¾ÕR<https://s2.coinmarketcap.com/static/img/coins/64x64/7429.png
-¨
-
-1404/07/1914:05Ôå¨Ç"Matrixdock Gold*Ù…Ø§ØªØ±ÛŒÚ©Ø³â€ŒØ¯Ø§Ú© Ú¯Ù„Ø¯24043:	469218007A®Gázæ?HßŸÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/34212.png
+1404/07/1914:21Íí¨Ç"Secret*Ø³Ú©Ø±Øª20.1774:20549A33333³6ÀHÔ•R<https://s2.coinmarketcap.com/static/img/coins/64x64/5604.png
 “
 
-1404/07/1914:05Ôå¨Ç"TokenPocket*ØªÙˆÚ©Ù† Ù¾Ø§Ú©Øª20.0142:1651AÃõ(\ÂÀHñíÂR<https://s2.coinmarketcap.com/static/img/coins/64x64/5947.png
-
+1404/07/1914:21Íí¨Ç"
+Definitive*Ø¯ÙÛŒÙ†ÛŒØªÛŒÙˆ20.2790:32327A¸…ëQ¸!@HŒŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/36288.png
+Š
 
-1404/07/1914:06æ¨Ç"DIA*Ø¯ÛŒØ§20.4092:47482Aáz®Gá6ÀH–Ğ¬R<https://s2.coinmarketcap.com/static/img/coins/64x64/6138.png
-Ÿ
-
-1404/07/1914:05Ôå¨Ç"Collector Crypt*Ú©Ù„Ú©ØªÙˆØ± Ú©Ø±ÛŒÙ¾Øª20.1268:14718A)\Âõ(4ÀH¼³¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/38283.png
-¡
-
-1404/07/1914:05Ôå¨Ç"FLock.io* Ø§Ùâ€ŒÙ„Ø§Ú© Ø¯Ø§Øª Ø¢ÛŒâ€ŒØ§Ùˆ20.2086:24213A{®Gáz4ÀHÅ²–R=https://s2.coinmarketcap.com/static/img/coins/64x64/34987.png
-œ
-
-1404/07/1914:05Ôå¨Ç"OpenVPP*Ø§ÙˆÙ¾Ù†â€ŒÙˆÛŒâ€ŒÙ¾ÛŒâ€ŒÙ¾ÛŒ20.0485:5625Aö(\ÂõÀHú®R=https://s2.coinmarketcap.com/static/img/coins/64x64/38170.png
-¡
-
-1404/07/1914:06æ¨Ç"Holoworld AI*Ù‡ÙˆÙ„ÙˆÙˆØ±Ù„Ø¯ Ø§ÛŒâ€ŒØ¢ÛŒ20.1393:16164A®GázT:ÀH»‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/38309.png
-•
-
-1404/07/1914:06æ¨Ç"Camp Network*Ú©Ù…Ù¾ Ù†ØªÙˆØ±Ú©20.0230:2664AìQ¸…ë=ÀHã¤†R=https://s2.coinmarketcap.com/static/img/coins/64x64/38195.png
-š
-
-1404/07/1914:05Ôå¨Ç"Electroneum*Ø§Ù„Ú©ØªØ±ÙˆÙ†ÛŒÙˆÙ…20.002682:311.26AÍÌÌÌÌL%ÀHí¬ÿR<https://s2.coinmarketcap.com/static/img/coins/64x64/2137.png
-”
-
-1404/07/1914:05Ôå¨Ç"sUSD*Ø§Ø³ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.9954:115516AìQ¸…ëÁ¿HÃüR<https://s2.coinmarketcap.com/static/img/coins/64x64/2927.png
-–
-
-1404/07/1914:05Ôå¨Ç"	GameBuild*Ú¯ÛŒÙ…â€ŒØ¨ÛŒÙ„Ø¯20.002640:306.43A®Gáz.#ÀHÍ•ùR=https://s2.coinmarketcap.com/static/img/coins/64x64/31246.png
-¦
-
-1404/07/1914:05Ôå¨Ç"Solidus Ai Tech*Ø³ÙˆÙ„ÛŒØ¯ÙˆØ³ Ø§ÛŒâ€ŒØ¢ÛŒ ØªÚ©20.0290:3364AìQ¸…k/ÀH®ùöR=https://s2.coinmarketcap.com/static/img/coins/64x64/19055.png
-¤
-
-1404/07/1914:05Ôå¨Ç"ANyONe Protocol*Ø§Ù†ÛŒâ€ŒÙˆØ§Ù† Ù¾Ø±ÙˆØªÚ©Ù„20.4906:56930A¸…ëQx5ÀH“ªçR=https://s2.coinmarketcap.com/static/img/coins/64x64/32037.png
-˜
-
-1404/07/1914:05Ôå¨Ç"Klickl Token*Ú©Ù„ÛŒÚ©Ù„ ØªÙˆÚ©Ù†20.4705:54605A{®Gáz„¿Hİñ·R=https://s2.coinmarketcap.com/static/img/coins/64x64/37016.png
-…
-
-1404/07/1914:05Ôå¨Ç"Renzo*Ø±Ù†Ø²Ùˆ20.0110:1279AìQ¸…@ÀH½¤µR=https://s2.coinmarketcap.com/static/img/coins/64x64/30843.png
-Ÿ
-
-1404/07/1914:05Ôå¨Ç"ChangeNOW Token*Ú†ÛŒÙ†Ø¬ Ù†Ø§Ùˆ ØªÙˆÚ©Ù†20.5529:64163A\Âõ(\#ÀHÑá­R<https://s2.coinmarketcap.com/static/img/coins/64x64/3893.png
-€
-
-1404/07/1914:05Ôå¨Ç"JOE*Ø¬Ùˆ20.1163:13497AÍÌÌÌÌL8ÀHÑÁ¬R=https://s2.coinmarketcap.com/static/img/coins/64x64/11396.png
-Ñ
-
-1404/07/1914:05Ôå¨Ç"RSK Infrastructure Framework*>Ø¢Ø±Ø§Ø³â€ŒÚ©ÛŒ Ø§ÛŒÙ†ÙØ±Ø§Ø§Ø³ØªØ±Ø§Ú©Ú†Ø± ÙØ±ÛŒÙ…â€ŒÙˆØ±Ú©20.0468:5429Aš™™™™™,ÀHµ¦§R<https://s2.coinmarketcap.com/static/img/coins/64x64/3701.png
-Œ
-
-1404/07/1914:06æ¨Ç"Cartesi*Ú©Ø§Ø±ØªÛŒØ³ÛŒ20.0529:6142AÍÌÌÌÌÌ;ÀHÀ¥R<https://s2.coinmarketcap.com/static/img/coins/64x64/5444.png
-«
-
-1404/07/1914:05Ôå¨Ç"AI Analysis Token*!Ø§ÛŒâ€ŒØ¢ÛŒ Ø¢Ù†Ø§Ù„ÛŒØ² ØªÙˆÚ©Ù†20.3190:37018AìQ¸…ë@Hğ¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/28688.png
-„
-
-1404/07/1914:05Ôå¨Ç"Lisk*Ù„ÛŒØ³Ú©20.2295:26630A)\Âõ(3ÀHãÜœR<https://s2.coinmarketcap.com/static/img/coins/64x64/1214.png
-“
-
-1404/07/1914:05Ôå¨Ç"Mey Network*Ù…ÛŒ Ù†ØªÙˆØ±Ú©20.1630:18917A
-×£p=
-$ÀHğÛŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/34269.png
-†
-
-1404/07/1914:05Ôå¨Ç"Shentu*Ø´Ù†ØªÙˆ20.3062:35538Aáz®Ga,ÀHÿ¿ŠR<https://s2.coinmarketcap.com/static/img/coins/64x64/4807.png
-{
-
-1404/07/1914:05Ôå¨Ç"River22.36:273380A…ëQ¸#ÀH‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/38417.png
-§
-
-1404/07/1914:05Ôå¨Ç"Smooth Love Potion*Ø§Ø³Ù…ÙˆØ« Ù„Ø§Ùˆ Ù¾ÙˆØ´Ù†20.001274:147.85A®Gáz”4ÀH¨ÊõR<https://s2.coinmarketcap.com/static/img/coins/64x64/5824.png
-
-
-1404/07/1914:05Ôå¨Ç"Liquity BOLD*Ù„ÛŒÚ©ÙˆÛŒØªÛŒ Ø¨ÙˆÙ„Ø¯21.0013:116197AÂõ(\Ò?H†…éR=https://s2.coinmarketcap.com/static/img/coins/64x64/38407.png
-›
-
-1404/07/1914:05Ôå¨Ç"Nobody Sausage*Ù†ÙˆØ¨Ø§Ø¯ÛŒ Ø³Ø§Ø³Ø¬20.0487:5652A×£p=
-W-ÀH·ÅŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/36377.png
+1404/07/1914:21Íí¨Ç"Comedian*
+Ú©Ù…Ø¯ÛŒÙ†20.0566:6561Afffff¦1ÀHÄÒ€R=https://s2.coinmarketcap.com/static/img/coins/64x64/33881.png
 ˆ
 
-1404/07/1914:05Ôå¨Ç"Sophon*
-Ø³ÙˆÙÙˆÙ†20.0227:2631A33333ó7ÀH¡´ÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/32087.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"Tharwa*
-Ø«Ø§Ø±ÙˆØ§20.006471:750.95Aš™™™™(ÀH‰ÖÍR=https://s2.coinmarketcap.com/static/img/coins/64x64/37245.png
+1404/07/1914:21Íí¨Ç"MiL.k*Ù…ÛŒÙ„â€ŒÚ©20.1124:13024A33333³*ÀHÿ—òR<https://s2.coinmarketcap.com/static/img/coins/64x64/5266.png
 ‘
 
-1404/07/1914:06æ¨Ç"PAAL AI*Ù¾Ø§Ù„ Ø§ÛŒâ€ŒØ¢ÛŒ20.0451:5230AìQ¸…k2ÀHôø¯R=https://s2.coinmarketcap.com/static/img/coins/64x64/27178.png
-™
+1404/07/1914:21Íí¨Ç"Xai*Ø§ÛŒÚ©Ø³â€ŒØ§ÛŒâ€ŒØ¢ÛŒ20.0281:3250A{®Gá:?ÀHÀºîR=https://s2.coinmarketcap.com/static/img/coins/64x64/28933.png
+ˆ
 
-1404/07/1914:05Ôå¨Ç"EscoinToken*Ø§Ø³Ú©ÙˆÛŒÙ† ØªÙˆÚ©Ù†20.2846:33031A®Gáz!@H˜é©R=https://s2.coinmarketcap.com/static/img/coins/64x64/10312.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Degen*
-Ø¯ÙØ¬ÙÙ†20.002051:238.00Aáz®Gá8ÀH›’ñR=https://s2.coinmarketcap.com/static/img/coins/64x64/30096.png
-°
-
-1404/07/1914:05Ôå¨Ç"TerraClassicUSD*&ØªØ±Ø§ Ú©Ù„Ø§Ø³ÛŒÚ© ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.007832:908.90AìQ¸…ë<ÀH‹­ïR<https://s2.coinmarketcap.com/static/img/coins/64x64/7129.png
-›
-
-1404/07/1914:05Ôå¨Ç"Hippo Protocol*Ù¾Ø±ÙˆØªÚ©Ù„ Ù‡ÛŒÙ¾Ùˆ20.0362:4200A=
-×£p=ÀH åãR=https://s2.coinmarketcap.com/static/img/coins/64x64/36556.png
-™
-
-1404/07/1914:05Ôå¨Ç"Pocket Network*Ù¾Ø§Ú©Øª Ù†ØªÙˆØ±Ú©20.0192:2230A     À1ÀHÊØáR=https://s2.coinmarketcap.com/static/img/coins/64x64/11823.png
-
-
-1404/07/1914:05Ôå¨Ç"	Dymension*Ø¯Ø§ÛŒÙ…Ù†Ø´Ù†20.1138:13202A{®GáAÀHˆÚÛR=https://s2.coinmarketcap.com/static/img/coins/64x64/28932.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"Bifrost*Ø¨ÛŒÙØ±Ø§Ø³Øª20.0313:3636A\Âõ(Ü+ÀHû¬ÛR<https://s2.coinmarketcap.com/static/img/coins/64x64/7817.png
-„
-
-1404/07/1914:05Ôå¨Ç"Dent*Ø¯Ù†Øª20.000434:50.35A…ëQ¸?ÀH‘ ØR<https://s2.coinmarketcap.com/static/img/coins/64x64/1886.png
-œ
-
-1404/07/1914:05Ôå¨Ç"Simon's Cat*Ø³Ø§ÛŒÙ…ÙˆÙ†Ø² Ú©Øª2
-0.00000575:0.6676Aö(\Âµ>ÀH–ñÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/32724.png
-‘
-
-1404/07/1914:05Ôå¨Ç"	Moonriver*Ù…ÙˆÙ†â€ŒØ±ÛŒÙˆØ±24.30:498519A…ëQ¸…5ÀH¼»ÉR<https://s2.coinmarketcap.com/static/img/coins/64x64/9285.png
-…
-
-1404/07/1914:05Ôå¨Ç"Metal*Ù…ØªØ§Ù„20.4913:57020A)\Âõè5ÀHìÄR<https://s2.coinmarketcap.com/static/img/coins/64x64/1788.png
-œ
-
-1404/07/1914:05Ôå¨Ç"Echelon Prime*Ø§Ø´Ù„ÙˆÙ† Ù¾Ø±Ø§ÛŒÙ…21.2012:139404Aö(\ÂõÀH‹ï¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/23711.png
-„
-
-1404/07/1914:06æ¨Ç"Corn*Ú©ÙˆØ±Ù†20.0816:9469AÃõ(\Â.ÀHˆÆ¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/36164.png
-
-
-1404/07/1914:05Ôå¨Ç"CoinEx Token*Ú©ÙˆÛŒÙ†â€ŒØ§Ú©Ø³ ØªÙˆÚ©Ù†20.0601:6974AÍÌÌÌÌÌÀHİ–§R<https://s2.coinmarketcap.com/static/img/coins/64x64/2941.png
-Ÿ
-
-1404/07/1914:06æ¨Ç"Tokamak Network*ØªÙˆÚ©Ø§Ù…Ú© Ù†ØªÙˆØ±Ú©20.9700:112573A¸…ëQ8(ÀHÜÚ£R<https://s2.coinmarketcap.com/static/img/coins/64x64/6731.png
-”
-
-1404/07/1914:06æ¨Ç"MediBloc*Ù…Ø¯ÛŒâ€ŒØ¨Ù„Ø§Ú©20.004214:489.03A\Âõ(\$ÀHÏ R<https://s2.coinmarketcap.com/static/img/coins/64x64/2303.png
+1404/07/1914:21Íí¨Ç"Pythia*
+Ù¾ÛŒØªÛŒØ§20.0562:6516A×£p=
+×ÀHªãR=https://s2.coinmarketcap.com/static/img/coins/64x64/35216.png
 ¶
 
-1404/07/1914:05Ôå¨Ç"Dogelon Mars*Ø¯ÙˆØ¬â€ŒØ§ÛŒÙ„Ø§Ù† Ù…Ø§Ø±Ø³20.00000007723906292282014:0.008964A
-×£p=
--ÀHˆŸR<https://s2.coinmarketcap.com/static/img/coins/64x64/9436.png
-™
+1404/07/1914:21Íí¨Ç"SATS (Ordinals)*Ø³ØªØ³ (Ø§Ø±Ø¯ÛŒÙ†Ø§Ù„Ø²)20.0000000263477004231346:0.003052A)\Âõh<ÀHúŠ±R=https://s2.coinmarketcap.com/static/img/coins/64x64/28194.png
+£
 
-1404/07/1914:05Ôå¨Ç"Celer Network*Ø³Ù„Ø± Ù†ØªÙˆØ±Ú©20.005428:629.93A×£p=
-·@ÀHÓ§™R<https://s2.coinmarketcap.com/static/img/coins/64x64/3814.png
-–
+1404/07/1914:21Íí¨Ç"Binance USD*Ø¨Ø§ÛŒÙ†Ù†Ø³ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0017:116049A×£p=
+×ó¿Hó›¤R<https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png
+
 
-1404/07/1914:06æ¨Ç"Tether EURt*ØªØªØ± ÛŒÙˆØ±ÙˆØª21.1628:134941A¸…ëQ¸Ş?HÍ¸–R=https://s2.coinmarketcap.com/static/img/coins/64x64/10789.png
-
+1404/07/1914:21Íí¨Ç"INFINIT*Ø§ÛŒÙ†ÙÛŒÙ†ÛŒØª20.2116:24519A¸…ëQ8,ÀHÉ¼’R=https://s2.coinmarketcap.com/static/img/coins/64x64/37609.png
+»
 
-1404/07/1914:05Ôå¨Ç"Cetus Protocol*Ø³ÛŒØªÙˆØ³ Ù¾Ø±ÙˆØªÚ©Ù„20.0489:5673A      @ÀH´„ƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/25114.png
+1404/07/1914:21Íí¨Ç"BNB Attestation Service*,Ø¨ÛŒâ€ŒØ§Ù†â€ŒØ¨ÛŒ Ø§ØªØ³ØªÛŒØ´Ù† Ø³Ø±ÙˆÛŒØ³20.0219:2539A)\Âõ(ÀH¸½R=https://s2.coinmarketcap.com/static/img/coins/64x64/37387.png
+Š
+
+1404/07/1914:21Íí¨Ç"Chromia*Ú©Ø±ÙˆÙ…ÛŒØ§20.0646:7489AÍÌÌÌÌŒ=ÀH±ëR<https://s2.coinmarketcap.com/static/img/coins/64x64/3978.png
+
+
+1404/07/1914:21Íí¨Ç"Zentry*Ø²Ù†â€ŒØªØ±ÛŒ20.007167:830.34A×£p=
+W0ÀHıòõR=https://s2.coinmarketcap.com/static/img/coins/64x64/30963.png
 ›
 
-1404/07/1914:05Ôå¨Ç"Islamic Coin*Ø§Ø³Ù„Ø§Ù…ÛŒÚ© Ú©ÙˆÛŒÙ†20.0194:2255AR¸…ëQà¿Hª•R=https://s2.coinmarketcap.com/static/img/coins/64x64/26220.png
+1404/07/1914:21Íí¨Ç"Manta Network*Ù…Ø§Ù†ØªØ§ Ù†ØªÙˆØ±Ú©20.1205:13963A®GázTAÀHÁşğR=https://s2.coinmarketcap.com/static/img/coins/64x64/13631.png
 ‡
 
-1404/07/1914:05Ôå¨Ç"MetYa*	Ù…Øª ÛŒØ§20.2343:27191A¤p=
-×£@H·¶ÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/35269.png
+1404/07/1914:21Íí¨Ç"Cookie*Ú©ÙˆÚ©ÛŒ20.0884:10243AìQ¸…+;ÀHé÷ìR=https://s2.coinmarketcap.com/static/img/coins/64x64/31838.png
+Š
+
+1404/07/1914:21Íí¨Ç"Pixels*Ù¾ÛŒÚ©Ø³Ù„Ø²20.0180:2085A×£p=
+w@ÀH“–èR=https://s2.coinmarketcap.com/static/img/coins/64x64/29335.png
+
+
+1404/07/1914:21Íí¨Ç"Apertum*Ø§Ù¾Ø±ØªÙˆÙ…20.8896:103062A\Âõ(\ÀHŠûÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/36215.png
 
 
-1404/07/1914:05Ôå¨Ç"Moonbeam*Ù…ÙˆÙ†â€ŒØ¨ÛŒÙ…20.0408:4737AÂõ(\Ï:ÀHÌìR<https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png
-
+1404/07/1914:21Íí¨Ç"dKargo*Ø¯ÛŒâ€ŒÚ©Ø§Ø±Ú¯Ùˆ20.0107:1242Afffffæ+ÀHıÈR<https://s2.coinmarketcap.com/static/img/coins/64x64/5908.png
+
 
-1404/07/1914:06æ¨Ç"	c8ntinuum20.0468:5432AffffffÀH—ÔëR=https://s2.coinmarketcap.com/static/img/coins/64x64/37745.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"BENQI*Ø¨Ù†Ú©ÛŒ20.005768:669.42AÂõ(\9ÀH±ùæR<https://s2.coinmarketcap.com/static/img/coins/64x64/9288.png
+1404/07/1914:21Íí¨Ç"deBridge*Ø¯ÛŒâ€ŒØ¨Ø±ÛŒØ¬20.0278:3226Aš™™™™™.ÀH£ÇR=https://s2.coinmarketcap.com/static/img/coins/64x64/31528.png
 š
 
-1404/07/1914:05Ôå¨Ç"TARS Protocol*ØªØ§Ø±Ø³ Ù¾Ø±ÙˆØªÚ©Ù„20.0463:5370AÃõ(\Â3ÀHÈ××R=https://s2.coinmarketcap.com/static/img/coins/64x64/20605.png
+1404/07/1914:21Íí¨Ç"CyberConnect*Ø³Ø§ÛŒØ¨Ø±Ú©Ø§Ù†Ú©Øª21.0311:119462A{®Gáš@ÀHŒ¸ÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/24781.png
+‘
+
+1404/07/1914:21Íí¨Ç"API3*Ø§ÛŒâ€ŒÙ¾ÛŒâ€ŒØ¢ÛŒ Û³20.6190:71709AÃõ(\Â7ÀH°õÀR<https://s2.coinmarketcap.com/static/img/coins/64x64/7737.png
+ˆ
+
+1404/07/1914:21Íí¨Ç"Taiko*
+ØªØ§ÛŒÚ©Ùˆ20.2874:33299A…ëQ¸2ÀHÏáºR=https://s2.coinmarketcap.com/static/img/coins/64x64/31525.png
+…
+
+1404/07/1914:21Íí¨Ç"Orbs*
+Ø§ÙˆØ±Ø¨Ø²20.0133:1546A)\Âõ(/ÀH’Ã±R<https://s2.coinmarketcap.com/static/img/coins/64x64/3835.png
+•
+
+1404/07/1914:19œì¨Ç"
+Banana Gun*Ø¨Ù†Ø§Ù†Ø§ Ú¯Ø§Ù†213.22:1531737A¸…ëQø9ÀHáš R=https://s2.coinmarketcap.com/static/img/coins/64x64/28066.png
+™
+
+1404/07/1914:19œì¨Ç"Ontology Gas*Ø§Ù†ØªÙˆÙ„ÙˆÚ˜ÛŒ Ú¯Ø³20.1235:14311A…ëQ¸1ÀHßá™R<https://s2.coinmarketcap.com/static/img/coins/64x64/3217.png
+{
+
+1404/07/1914:20Øì¨Ç"Bless20.0286:3312A…ëQ¸ÅCÀHúëR=https://s2.coinmarketcap.com/static/img/coins/64x64/38466.png
+›
+
+1404/07/1914:19œì¨Ç"XUSD*Ø§ÛŒÚ©Ø³â€ŒÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0002:115879A¸…ëQ¸?HŒãûR=https://s2.coinmarketcap.com/static/img/coins/64x64/32372.png
+„
+
+1404/07/1914:19œì¨Ç"Ergo*Ø§Ø±Ú¯Ùˆ20.6345:73508AÍÌÌÌÌÌÀHÊñìR<https://s2.coinmarketcap.com/static/img/coins/64x64/1762.png
+†
+
+1404/07/1914:19œì¨Ç"Flux*
+ÙÙ„Ø§Ú©Ø³20.1327:15374A®Gázn<ÀH…ßêR<https://s2.coinmarketcap.com/static/img/coins/64x64/3029.png
+˜
+
+1404/07/1914:19œì¨Ç"	Animecoin*Ø§Ù†ÛŒÙ…Ù‡â€ŒÚ©ÙˆÛŒÙ†20.009397:1089A33333@ÀHàâèR=https://s2.coinmarketcap.com/static/img/coins/64x64/35319.png
+‘
+
+1404/07/1914:19œì¨Ç"Arcblock*Ø¢Ø±Ú©â€ŒØ¨Ù„Ø§Ú©20.5255:60875AHáz®G,ÀHØßØR<https://s2.coinmarketcap.com/static/img/coins/64x64/2545.png
+
+
+1404/07/1914:19œì¨Ç"Delysium*Ø¯Ù„ÛŒØ²ÛŒÙˆÙ…20.0336:3892A     @4ÀHÜ§ÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/24007.png
+
+
+1404/07/1914:20Øì¨Ç"Across Protocol*Ø§Ú©Ø±Ø§Ø³ Ù¾Ø±ÙˆØªÚ©Ù„20.0835:9670AÍÌÌÌÌ;ÀHÜ³R=https://s2.coinmarketcap.com/static/img/coins/64x64/22620.png
+œ
+
+1404/07/1914:19œì¨Ç"CROSS Protocol*Ù¾Ø±ÙˆØªÚ©Ù„ Ú©Ø±Ø§Ø³20.1525:17669Aö(\Âõ:ÀHê³°R=https://s2.coinmarketcap.com/static/img/coins/64x64/37166.png
+—
+
+1404/07/1914:19œì¨Ç"USDB*ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒâ€ŒØ¨ÛŒ20.9972:115524A)\Âõ(¼?HıªR=https://s2.coinmarketcap.com/static/img/coins/64x64/29599.png
+š
+
+1404/07/1914:19œì¨Ç"Kyber Network*Ú©Ø§ÛŒØ¨Ø± Ù†ØªÙˆØ±Ú©20.2657:30788AHáz®‡3ÀHªÕ‘R<https://s2.coinmarketcap.com/static/img/coins/64x64/9444.png
+ª
+
+1404/07/1914:19œì¨Ç"DeFi Pulse Index* Ø¯ÛŒÙØ§ÛŒ Ù¾Ø§Ù„Ø³ Ø§ÛŒÙ†Ø¯Ú©Ø³290.14:10442935A33333³)ÀHÆ¬ƒR<https://s2.coinmarketcap.com/static/img/coins/64x64/7055.png
+
+
+1404/07/1914:20Øì¨Ç"Marlin*Ù…Ø§Ø±Ù„ÛŒÙ†20.006123:709.41Aö(\Âõ6ÀHäÅùR<https://s2.coinmarketcap.com/static/img/coins/64x64/7497.png
+™
+
+1404/07/1914:19œì¨Ç"ChainGPT*Ú†ÛŒÙ† Ø¬ÛŒâ€ŒÙ¾ÛŒâ€ŒØªÛŒ20.0577:6685AHáz®<ÀHÑÄéR=https://s2.coinmarketcap.com/static/img/coins/64x64/23756.png
+›
+
+1404/07/1914:19œì¨Ç"Gemini Dollar*Ø¬ÛŒÙ…Ù†Ø§ÛŒ Ø¯Ù„Ø§Ø±21.0001:115863A{®Gáz¤?H»äR<https://s2.coinmarketcap.com/static/img/coins/64x64/3306.png
+²
+
+1404/07/1914:19œì¨Ç"Anchored Coins AEUR*%Ø¢Ù†Ú©Ø±Ø¯ Ú©ÙˆÛŒÙ†Ø² Ø§ÛŒâ€ŒÛŒÙˆØ±Ùˆ21.0388:120346Aq=
+×£pÀHÍëŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/28596.png
+‡
+
+1404/07/1914:20Øì¨Ç"Steem*
+Ø§Ø³ØªÛŒÙ…20.0937:10861Aö(\Â55ÀH‹ÒR<https://s2.coinmarketcap.com/static/img/coins/64x64/1230.png
+¨
+
+1404/07/1914:19œì¨Ç"Matrixdock Gold*Ù…Ø§ØªØ±ÛŒÚ©Ø³â€ŒØ¯Ø§Ú© Ú¯Ù„Ø¯24043:	468336276Aq=
+×£på?H¦ÙĞR=https://s2.coinmarketcap.com/static/img/coins/64x64/34212.png
+
+
+1404/07/1914:19œì¨Ç"Liquity*Ù„ÛŒÚ©ÙˆØ¦ÛŒØªÛŒ20.5173:59933AÂõ(\>ÀHŒ—ÄR<https://s2.coinmarketcap.com/static/img/coins/64x64/7429.png
+“
+
+1404/07/1914:20Øì¨Ç"TokenPocket*ØªÙˆÚ©Ù† Ù¾Ø§Ú©Øª20.0142:1648A®Gáz®ÀHƒäÁR<https://s2.coinmarketcap.com/static/img/coins/64x64/5947.png
+
+
+1404/07/1914:20Øì¨Ç"DIA*Ø¯ÛŒØ§20.4076:47227A
+×£p=J7ÀHÎÑ¡R<https://s2.coinmarketcap.com/static/img/coins/64x64/6138.png
+¡
+
+1404/07/1914:19œì¨Ç"FLock.io* Ø§Ùâ€ŒÙ„Ø§Ú© Ø¯Ø§Øª Ø¢ÛŒâ€ŒØ§Ùˆ20.2083:24134Aq=
+×£°4ÀHœß‘R=https://s2.coinmarketcap.com/static/img/coins/64x64/34987.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"Collector Crypt*Ú©Ù„Ú©ØªÙˆØ± Ú©Ø±ÛŒÙ¾Øª20.1259:14590A      5ÀHó²R=https://s2.coinmarketcap.com/static/img/coins/64x64/38283.png
+¤
+
+1404/07/1914:20Øì¨Ç"ANyONe Protocol*Ø§Ù†ÛŒâ€ŒÙˆØ§Ù† Ù¾Ø±ÙˆØªÚ©Ù„20.4962:57486A\Âõ(œ3ÀHæìˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/32037.png
 –
 
-1404/07/1914:05Ôå¨Ç"Lift Dollar*Ù„ÛŒÙØª Ø¯Ù„Ø§Ø±20.9995:115996A
+1404/07/1914:19œì¨Ç"	GameBuild*Ú¯ÛŒÙ…â€ŒØ¨ÛŒÙ„Ø¯20.002653:307.37A×£p=
+W"ÀH†–‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/31246.png
+¡
+
+1404/07/1914:19œì¨Ç"Holoworld AI*Ù‡ÙˆÙ„ÙˆÙˆØ±Ù„Ø¯ Ø§ÛŒâ€ŒØ¢ÛŒ20.1389:16094A×£p=
+×:ÀHã©R=https://s2.coinmarketcap.com/static/img/coins/64x64/38309.png
+•
+
+1404/07/1914:19œì¨Ç"Camp Network*Ú©Ù…Ù¾ Ù†ØªÙˆØ±Ú©20.0229:2654A=
+×£p½=ÀH·áÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/38195.png
+¦
+
+1404/07/1914:19œì¨Ç"Solidus Ai Tech*Ø³ÙˆÙ„ÛŒØ¯ÙˆØ³ Ø§ÛŒâ€ŒØ¢ÛŒ ØªÚ©20.0291:3367Aö(\Âu+ÀHößşR=https://s2.coinmarketcap.com/static/img/coins/64x64/19055.png
+”
+
+1404/07/1914:19œì¨Ç"sUSD*Ø§Ø³ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.9954:115321A¸…ëQ¸¾¿H½ÈüR<https://s2.coinmarketcap.com/static/img/coins/64x64/2927.png
+š
+
+1404/07/1914:19œì¨Ç"Electroneum*Ø§Ù„Ú©ØªØ±ÙˆÙ†ÛŒÙˆÙ…20.002677:310.16AÍÌÌÌÌÌ%ÀHÆúùR<https://s2.coinmarketcap.com/static/img/coins/64x64/2137.png
+œ
+
+1404/07/1914:19œì¨Ç"OpenVPP*Ø§ÙˆÙ¾Ù†â€ŒÙˆÛŒâ€ŒÙ¾ÛŒâ€ŒÙ¾ÛŒ20.0477:5524A333333#ÀHœ­ŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/38170.png
+{
+
+1404/07/1914:19œì¨Ç"River22.40:278534A®GázÀHŞ¼R=https://s2.coinmarketcap.com/static/img/coins/64x64/38417.png
+˜
+
+1404/07/1914:20Øì¨Ç"Klickl Token*Ú©Ù„ÛŒÚ©Ù„ ØªÙˆÚ©Ù†20.4712:54592Aq=
+×£pí?Hò‹¼R=https://s2.coinmarketcap.com/static/img/coins/64x64/37016.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"ChangeNOW Token*Ú†ÛŒÙ†Ø¬ Ù†Ø§Ùˆ ØªÙˆÚ©Ù†20.5527:64029AìQ¸…k#ÀHÕ¬R<https://s2.coinmarketcap.com/static/img/coins/64x64/3893.png
+«
+
+1404/07/1914:19œì¨Ç"AI Analysis Token*!Ø§ÛŒâ€ŒØ¢ÛŒ Ø¢Ù†Ø§Ù„ÛŒØ² ØªÙˆÚ©Ù†20.3197:37034A…ëQ¸@Hï™¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/28688.png
+Œ
+
+1404/07/1914:19œì¨Ç"Cartesi*Ú©Ø§Ø±ØªÛŒØ³ÛŒ20.0527:6110A33333s<ÀH‘Ğ›R<https://s2.coinmarketcap.com/static/img/coins/64x64/5444.png
+„
+
+1404/07/1914:19œì¨Ç"Lisk*Ù„ÛŒØ³Ú©20.2293:26559AÃõ(\B3ÀH–…šR<https://s2.coinmarketcap.com/static/img/coins/64x64/1214.png
+…
+
+1404/07/1914:19œì¨Ç"Renzo*Ø±Ù†Ø²Ùˆ20.0109:1265AR¸…ë‘@ÀH¶­™R=https://s2.coinmarketcap.com/static/img/coins/64x64/30843.png
+€
+
+1404/07/1914:19œì¨Ç"JOE*Ø¬Ùˆ20.1155:13383A…ëQ¸9ÀH•¨™R=https://s2.coinmarketcap.com/static/img/coins/64x64/11396.png
+Ñ
+
+1404/07/1914:19œì¨Ç"RSK Infrastructure Framework*>Ø¢Ø±Ø§Ø³â€ŒÚ©ÛŒ Ø§ÛŒÙ†ÙØ±Ø§Ø§Ø³ØªØ±Ø§Ú©Ú†Ø± ÙØ±ÛŒÙ…â€ŒÙˆØ±Ú©20.0464:5381Aö(\Âõ-ÀHíä’R<https://s2.coinmarketcap.com/static/img/coins/64x64/3701.png
+“
+
+1404/07/1914:19œì¨Ç"Mey Network*Ù…ÛŒ Ù†ØªÙˆØ±Ú©20.1632:18904A=
+×£p½#ÀH±¼R=https://s2.coinmarketcap.com/static/img/coins/64x64/34269.png
+†
+
+1404/07/1914:19œì¨Ç"Shentu*Ø´Ù†ØªÙˆ20.3044:35267A¸…ëQ¸-ÀH×ùR<https://s2.coinmarketcap.com/static/img/coins/64x64/4807.png
+
+
+1404/07/1914:19œì¨Ç"Liquity BOLD*Ù„ÛŒÚ©ÙˆÛŒØªÛŒ Ø¨ÙˆÙ„Ø¯21.0011:115981AHáz®GÑ?H¿´èR=https://s2.coinmarketcap.com/static/img/coins/64x64/38407.png
+§
+
+1404/07/1914:20Øì¨Ç"Smooth Love Potion*Ø§Ø³Ù…ÙˆØ« Ù„Ø§Ùˆ Ù¾ÙˆØ´Ù†20.001265:146.57Aö(\Â55ÀHşáR<https://s2.coinmarketcap.com/static/img/coins/64x64/5824.png
+›
+
+1404/07/1914:19œì¨Ç"Nobody Sausage*Ù†ÙˆØ¨Ø§Ø¯ÛŒ Ø³Ø§Ø³Ø¬20.0481:5578AHáz®G,ÀHšâ¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/36377.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Sophon*
+Ø³ÙˆÙÙˆÙ†20.0225:2605Aq=
+×£08ÀHŠª¸R=https://s2.coinmarketcap.com/static/img/coins/64x64/32087.png
+Œ
+
+1404/07/1914:19œì¨Ç"Tharwa*
+Ø«Ø§Ø±ÙˆØ§20.006386:739.84A…ëQ¸*ÀHš°©R=https://s2.coinmarketcap.com/static/img/coins/64x64/37245.png
+‘
+
+1404/07/1914:20Øì¨Ç"PAAL AI*Ù¾Ø§Ù„ Ø§ÛŒâ€ŒØ¢ÛŒ20.0449:5207A)\Âõè2ÀHôÍ¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/27178.png
+™
+
+1404/07/1914:20Øì¨Ç"EscoinToken*Ø§Ø³Ú©ÙˆÛŒÙ† ØªÙˆÚ©Ù†20.2843:32940A…ëQ¸!@Hš÷¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/10312.png
+°
+
+1404/07/1914:19œì¨Ç"TerraClassicUSD*&ØªØ±Ø§ Ú©Ù„Ø§Ø³ÛŒÚ© ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.007803:904.05A\Âõ(\=ÀHÎåR<https://s2.coinmarketcap.com/static/img/coins/64x64/7129.png
+›
+
+1404/07/1914:19œì¨Ç"Hippo Protocol*Ù¾Ø±ÙˆØªÚ©Ù„ Ù‡ÛŒÙ¾Ùˆ20.0361:4186A¤p=
+×£ÀH˜¥ßR=https://s2.coinmarketcap.com/static/img/coins/64x64/36556.png
+Œ
+
+1404/07/1914:19œì¨Ç"Bifrost*Ø¨ÛŒÙØ±Ø§Ø³Øª20.0312:3614A¤p=
+×£,ÀH’ˆĞR<https://s2.coinmarketcap.com/static/img/coins/64x64/7817.png
+„
+
+1404/07/1914:19œì¨Ç"Dent*Ø¯Ù†Øª20.000431:49.98AÂõ(\@ÀHÂ„ÉR<https://s2.coinmarketcap.com/static/img/coins/64x64/1886.png
+
+
+1404/07/1914:19œì¨Ç"	Dymension*Ø¯Ø§ÛŒÙ…Ù†Ø´Ù†20.1129:13081A…ëQ¸eAÀHŒ€ÈR=https://s2.coinmarketcap.com/static/img/coins/64x64/28932.png
+œ
+
+1404/07/1914:19œì¨Ç"Echelon Prime*Ø§Ø´Ù„ÙˆÙ† Ù¾Ø±Ø§ÛŒÙ…21.2035:139427AÃõ(\ÂÀHçàÃR=https://s2.coinmarketcap.com/static/img/coins/64x64/23711.png
+œ
+
+1404/07/1914:20Øì¨Ç"Simon's Cat*Ø³Ø§ÛŒÙ…ÙˆÙ†Ø² Ú©Øª2
+0.00000570:0.6609AÍÌÌÌÌŒ?ÀHØ»R=https://s2.coinmarketcap.com/static/img/coins/64x64/32724.png
+‘
+
+1404/07/1914:19œì¨Ç"	Moonriver*Ù…ÙˆÙ†â€ŒØ±ÛŒÙˆØ±24.27:494962A33333ó5ÀH´»R<https://s2.coinmarketcap.com/static/img/coins/64x64/9285.png
+‹
+
+1404/07/1914:20Øì¨Ç"Degen*
+Ø¯ÙØ¬ÙÙ†20.002009:232.71A)\Âõh:ÀHá“ºR=https://s2.coinmarketcap.com/static/img/coins/64x64/30096.png
+„
+
+1404/07/1914:19œì¨Ç"Corn*Ú©ÙˆØ±Ù†20.0816:9458A×£p=
+×-ÀH´†¸R=https://s2.coinmarketcap.com/static/img/coins/64x64/36164.png
+…
+
+1404/07/1914:20Øì¨Ç"Metal*Ù…ØªØ§Ù„20.4880:56535A¸…ëQx6ÀH½õ²R<https://s2.coinmarketcap.com/static/img/coins/64x64/1788.png
+
+
+1404/07/1914:20Øì¨Ç"CoinEx Token*Ú©ÙˆÛŒÙ†â€ŒØ§Ú©Ø³ ØªÙˆÚ©Ù†20.0601:6958A®GázÀH®å¥R<https://s2.coinmarketcap.com/static/img/coins/64x64/2941.png
+Ÿ
+
+1404/07/1914:20Øì¨Ç"Tokamak Network*ØªÙˆÚ©Ø§Ù…Ú© Ù†ØªÙˆØ±Ú©20.9705:112432AìQ¸…ë'ÀH‡í¤R<https://s2.coinmarketcap.com/static/img/coins/64x64/6731.png
+”
+
+1404/07/1914:20Øì¨Ç"MediBloc*Ù…Ø¯ÛŒâ€ŒØ¨Ù„Ø§Ú©20.004207:487.41AÂõ(\$ÀH¡¶œR<https://s2.coinmarketcap.com/static/img/coins/64x64/2303.png
+™
+
+1404/07/1914:19œì¨Ç"Pocket Network*Ù¾Ø§Ú©Øª Ù†ØªÙˆØ±Ú©20.0187:2167Aö(\Âõ3ÀHœÏšR=https://s2.coinmarketcap.com/static/img/coins/64x64/11823.png
+¶
+
+1404/07/1914:19œì¨Ç"Dogelon Mars*Ø¯ÙˆØ¬â€ŒØ§ÛŒÙ„Ø§Ù† Ù…Ø§Ø±Ø³20.00000007699382842827258:0.008920Aö(\Âu-ÀHÿÿ–R<https://s2.coinmarketcap.com/static/img/coins/64x64/9436.png
+™
+
+1404/07/1914:20Øì¨Ç"Celer Network*Ø³Ù„Ø± Ù†ØªÙˆØ±Ú©20.005395:625.07A×£p=
+7AÀH‹Û‰R<https://s2.coinmarketcap.com/static/img/coins/64x64/3814.png
+›
+
+1404/07/1914:19œì¨Ç"Islamic Coin*Ø§Ø³Ù„Ø§Ù…ÛŒÚ© Ú©ÙˆÛŒÙ†20.0195:2255A{®GázÔ¿HµÔ…R=https://s2.coinmarketcap.com/static/img/coins/64x64/26220.png
+‡
+
+1404/07/1914:20Øì¨Ç"MetYa*	Ù…Øª ÛŒØ§20.2343:27150A×£p=
+×@H¨ìÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/35269.png
+
+
+1404/07/1914:19œì¨Ç"Cetus Protocol*Ø³ÛŒØªÙˆØ³ Ù¾Ø±ÙˆØªÚ©Ù„20.0486:5630AfffffF@ÀH“ôR=https://s2.coinmarketcap.com/static/img/coins/64x64/25114.png
+–
+
+1404/07/1914:20Øì¨Ç"Tether EURt*ØªØªØ± ÛŒÙˆØ±ÙˆØª21.1409:132172A)\Âõ(ø¿HîŞåR=https://s2.coinmarketcap.com/static/img/coins/64x64/10789.png
+ˆ
+
+1404/07/1914:19œì¨Ç"BENQI*Ø¨Ù†Ú©ÛŒ20.005749:665.99Aš™™™™Y9ÀHÙŞR<https://s2.coinmarketcap.com/static/img/coins/64x64/9288.png
+
+
+1404/07/1914:19œì¨Ç"	c8ntinuum20.0466:5394AR¸…ëQÀHŠœŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/37745.png
+
+
+1404/07/1914:19œì¨Ç"Moonbeam*Ù…ÙˆÙ†â€ŒØ¨ÛŒÙ…20.0405:4686A\Âõ(œ;ÀHëˆÕR<https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png
+š
+
+1404/07/1914:20Øì¨Ç"TARS Protocol*ØªØ§Ø±Ø³ Ù¾Ø±ÙˆØªÚ©Ù„20.0462:5355Aö(\Â53ÀHØïÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/20605.png
+–
+
+1404/07/1914:19œì¨Ç"Lift Dollar*Ù„ÛŒÙØª Ø¯Ù„Ø§Ø±20.9995:115799A
 ×£p=
 ·?H»€ÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/32454.png
 –
 
-1404/07/1914:05Ôå¨Ç"WINkLink*ÙˆÛŒÙ†Ú©â€ŒÙ„ÛŒÙ†Ú©2
-0.00004127:4.79A\Âõ(3ÀH¡¡ÇR<https://s2.coinmarketcap.com/static/img/coins/64x64/4206.png
+1404/07/1914:19œì¨Ç"WINkLink*ÙˆÛŒÙ†Ú©â€ŒÙ„ÛŒÙ†Ú©2
+0.00004121:4.77A
+×£p=J3ÀH£ÌÃR<https://s2.coinmarketcap.com/static/img/coins/64x64/4206.png
 …
 
-1404/07/1914:05Ôå¨Ç"Saga*Ø³Ø§Ú¯Ø§20.1325:15381Aq=
-×£ğ@ÀHšë°R=https://s2.coinmarketcap.com/static/img/coins/64x64/30372.png
+1404/07/1914:19œì¨Ç"Saga*Ø³Ø§Ú¯Ø§20.1320:15298A¸…ëQ8AÀH½Ñ§R=https://s2.coinmarketcap.com/static/img/coins/64x64/30372.png
 ‰
 
-1404/07/1914:05Ôå¨Ç"Orchid*Ø§ÙˆØ±Ú©ÛŒØ¯20.0407:4727A
-×£p=
-2ÀH©¢¯R<https://s2.coinmarketcap.com/static/img/coins/64x64/5026.png
+1404/07/1914:19œì¨Ç"Orchid*Ø§ÙˆØ±Ú©ÛŒØ¯20.0406:4703A{®Gáz2ÀH–Æ¦R<https://s2.coinmarketcap.com/static/img/coins/64x64/5026.png
 –
 
-1404/07/1914:05Ôå¨Ç"Cobak Token*Ú©ÙˆØ¨Ø§Ú© ØªÙˆÚ©Ù†20.4154:48206AÍÌÌÌÌL)ÀHÊÇ©R<https://s2.coinmarketcap.com/static/img/coins/64x64/8107.png
-Š
+1404/07/1914:19œì¨Ç"Cobak Token*Ú©ÙˆØ¨Ø§Ú© ØªÙˆÚ©Ù†20.4120:47728A®Gáz*ÀHôœ•R<https://s2.coinmarketcap.com/static/img/coins/64x64/8107.png
+’
 
-1404/07/1914:05Ôå¨Ç"IAGON*Ø¢ÛŒØ§Ú¯ÙˆÙ†20.1064:12343A×£p=
-W/ÀH³…‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/11078.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Usual*ÛŒÙˆØ²ÙˆØ§Ù„20.0317:3684AÍÌÌÌÌì@ÀHîı€R=https://s2.coinmarketcap.com/static/img/coins/64x64/33979.png
-˜
-
-1404/07/1914:05Ôå¨Ç"
-StakeStone*Ø§Ø³ØªÛŒÚ© Ø§Ø³ØªÙˆÙ†20.1769:20524Affffff.ÀH†®€R=https://s2.coinmarketcap.com/static/img/coins/64x64/32194.png
+1404/07/1914:19œì¨Ç"	Hyperlane*Ù‡Ø§ÛŒÙ¾Ø±Ù„ÛŒÙ†20.2008:23267Aš™™™™8ÀHä¡‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/36281.png
 
 
-1404/07/1914:05Ôå¨Ç"NYM*Ù†ÛŒÙ…20.0485:5634A=
-×£p=ÀHÑšûR=https://s2.coinmarketcap.com/static/img/coins/64x64/17591.png
-’
+1404/07/1914:19œì¨Ç"NYM*Ù†ÛŒÙ…20.0487:5636AÂõ(\ÀH¬€R=https://s2.coinmarketcap.com/static/img/coins/64x64/17591.png
+Š
 
-1404/07/1914:06æ¨Ç"	Hyperlane*Ù‡Ø§ÛŒÙ¾Ø±Ù„ÛŒÙ†20.2000:23215Aq=
-×£p8ÀH¢ÖøR=https://s2.coinmarketcap.com/static/img/coins/64x64/36281.png
-‰
-
-1404/07/1914:05Ôå¨Ç"MEET48*Ù…ÛŒØª Û´Û¸20.0380:4405A\Âõ(\ç?H¸£øR=https://s2.coinmarketcap.com/static/img/coins/64x64/36775.png
-•
-
-1404/07/1914:06æ¨Ç"EGL1*Ø§ÛŒâ€ŒØ¬ÛŒâ€ŒØ§Ù„ ÙˆØ§Ù†20.0392:4555A…ëQ¸^3ÀHíÊÛR=https://s2.coinmarketcap.com/static/img/coins/64x64/36761.png
-•
-
-1404/07/1914:06æ¨Ç"StrikeX*Ø§Ø³ØªØ±Ø§ÛŒÚ© Ø§ÛŒÚ©Ø³20.0450:5218AÃõ(\Â$ÀH÷êÚR<https://s2.coinmarketcap.com/static/img/coins/64x64/9220.png
-”
-
-1404/07/1914:06æ¨Ç"	B3 (Base)*Ø¨ÛŒÛ³ (Ø¨ÛŒØ³)20.001842:213.74Aš™™™™™<ÀHñÎÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/35690.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Aurora*
-Ø¢Ø±ÙˆØ±Ø§20.0607:7044A3333336ÀHÎğÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/14803.png
-
-
-1404/07/1914:05Ôå¨Ç"Manyu*
-Ù…Ø§Ù†ÛŒÙˆ20.00000003912757054981634:0.004541Afffff&3@H’”ÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/37114.png
-‚
-
-1404/07/1914:05Ôå¨Ç"Devve*Ø¯Ùˆ20.4138:48023A\Âõ(\ÀHüúËR=https://s2.coinmarketcap.com/static/img/coins/64x64/29461.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"GeorgePlaysClashRoyale20.0389:4516A33333³ ÀHâ„ÇR=https://s2.coinmarketcap.com/static/img/coins/64x64/38585.png
-‹
-
-1404/07/1914:05Ôå¨Ç"SUPRA*
-Ø³ÙˆÙ¾Ø±Ø§20.002058:238.86A…ëQ¸ÀH‚ÂÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/34240.png
-”
-
-1404/07/1914:05Ôå¨Ç"DEAPcoin*Ø¯ÛŒÙ¾â€ŒÚ©ÙˆÛŒÙ†20.001294:150.20AìQ¸…k-ÀH®¹R<https://s2.coinmarketcap.com/static/img/coins/64x64/5429.png
-z
-
-1404/07/1914:05Ôå¨Ç"LOOK20.0419:4865A…ëQ¸Å5ÀH²î·R=https://s2.coinmarketcap.com/static/img/coins/64x64/38308.png
-’
-
-1404/07/1914:05Ôå¨Ç"	Vine Coin*ÙˆØ§ÛŒÙ† Ú©ÙˆÛŒÙ†20.0386:4479Aö(\ÂBÀHçÙ³R=https://s2.coinmarketcap.com/static/img/coins/64x64/35421.png
-§
-
-1404/07/1914:05Ôå¨Ç"Liquity USD*#Ù„ÛŒÚ©ÙˆØ¦ÛŒØªÛŒ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.9977:115785A¸…ëQ¸¿HûÃ³R<https://s2.coinmarketcap.com/static/img/coins/64x64/9566.png
-£
-
-1404/07/1914:06æ¨Ç"My Lovely Planet*Ù…Ø§ÛŒ Ù„Ø§ÙˆÙ„ÛŒ Ù¾Ù„Ù†Øª20.4664:54128Affffff@H˜™°R=https://s2.coinmarketcap.com/static/img/coins/64x64/32035.png
-†
-
-1404/07/1914:05Ôå¨Ç"MAGIC*Ù…Ø¬ÛŒÚ©20.1217:14123A¸…ëQ8=ÀHÏÜ¬R=https://s2.coinmarketcap.com/static/img/coins/64x64/14783.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"DOGS*Ø¯Ø§Ú¯Ø²2
-0.00007435:8.63A×£p=
-—BÀH±„©R=https://s2.coinmarketcap.com/static/img/coins/64x64/32698.png
-“
-
-1404/07/1914:05Ôå¨Ç"	KernelDAO*Ú©Ø±Ù†Ù„ Ø¯Ø§Ø¦Ùˆ20.1622:18827A)\Âõ¨<ÀH£¬¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/36180.png
-
-
-1404/07/1914:05Ôå¨Ç"Elastos*Ø§Ù„Ø§Ø³ØªÙˆØ³21.6744:194309A¸…ëQ¸ÀH´Ò§R<https://s2.coinmarketcap.com/static/img/coins/64x64/2492.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Virtua*ÙˆÛŒØ±ØªÙˆØ§20.0189:2196A     @<ÀHß§¤R<https://s2.coinmarketcap.com/static/img/coins/64x64/8037.png
-š
-
-1404/07/1914:05Ôå¨Ç"Mango Network*Ù…Ø§Ù†Ú¯Ùˆ Ù†ØªÙˆØ±Ú©20.0239:2775A     €&ÀHÄ¦£R=https://s2.coinmarketcap.com/static/img/coins/64x64/36935.png
-
-
-1404/07/1914:05Ôå¨Ç"	Boundless*Ø¨Ø§Ù†Ø¯Ù„Ø³20.1905:22110Aq=
-×£@ÀHÇË R=https://s2.coinmarketcap.com/static/img/coins/64x64/38371.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"ANDY*Ø§Ù†Ø¯ÛŒ2
-0.00003817:4.43A=
-×£p½,ÀH»Î™R=https://s2.coinmarketcap.com/static/img/coins/64x64/29879.png
-š
-
-1404/07/1914:05Ôå¨Ç"Gains Network*Ú¯ÛŒÙ†Ø² Ù†ØªÙˆØ±Ú©21.3709:159093Aq=
-×£ğ0ÀHÍÚ“R=https://s2.coinmarketcap.com/static/img/coins/64x64/13663.png
-š
-
-1404/07/1914:06æ¨Ç"ResearchCoin*Ø±ÛŒØ³Ø±Ú†â€ŒÚ©ÙˆÛŒÙ†20.3041:35287AìQ¸…k>ÀHôÕ’R=https://s2.coinmarketcap.com/static/img/coins/64x64/27054.png
+1404/07/1914:19œì¨Ç"IAGON*Ø¢ÛŒØ§Ú¯ÙˆÙ†20.1057:12242AÃõ(\B0ÀHÖˆùR=https://s2.coinmarketcap.com/static/img/coins/64x64/11078.png
 ˜
 
-1404/07/1914:06æ¨Ç"
-QuarkChain*Ú©ÙˆØ§Ø±Ú©â€ŒÚ†ÛŒÙ†20.005303:615.41Aš™™™™™,ÀH•¹R<https://s2.coinmarketcap.com/static/img/coins/64x64/2840.png
+1404/07/1914:19œì¨Ç"
+StakeStone*Ø§Ø³ØªÛŒÚ© Ø§Ø³ØªÙˆÙ†20.1757:20360AìQ¸…+2ÀHÁƒñR=https://s2.coinmarketcap.com/static/img/coins/64x64/32194.png
 ‰
 
-1404/07/1914:05Ôå¨Ç"Coreum*
-Ú©ÙˆØ±ÙˆÙ…20.0986:11448A\Âõ(\ÀHƒèŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/16399.png
+1404/07/1914:19œì¨Ç"MEET48*Ù…ÛŒØª Û´Û¸20.0378:4377Aš™™™™™¹¿H‰æìR=https://s2.coinmarketcap.com/static/img/coins/64x64/36775.png
+•
+
+1404/07/1914:19œì¨Ç"StrikeX*Ø§Ø³ØªØ±Ø§ÛŒÚ© Ø§ÛŒÚ©Ø³20.0453:5246A{®Gáz#ÀH·şëR<https://s2.coinmarketcap.com/static/img/coins/64x64/9220.png
+•
+
+1404/07/1914:19œì¨Ç"EGL1*Ø§ÛŒâ€ŒØ¬ÛŒâ€ŒØ§Ù„ ÙˆØ§Ù†20.0395:4572AR¸…ëÑ2ÀHÜõèR=https://s2.coinmarketcap.com/static/img/coins/64x64/36761.png
+‰
+
+1404/07/1914:19œì¨Ç"Usual*ÛŒÙˆØ²ÙˆØ§Ù„20.0314:3635AìQ¸…kAÀHŸßäR=https://s2.coinmarketcap.com/static/img/coins/64x64/33979.png
+‚
+
+1404/07/1914:19œì¨Ç"Devve*Ø¯Ùˆ20.4151:48091AR¸…ëQÀHŠ±ÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/29461.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Aurora*
+Ø¢Ø±ÙˆØ±Ø§20.0606:7018A®Gáz.6ÀHµ–ÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/14803.png
+Œ
+
+1404/07/1914:19œì¨Ç"GeorgePlaysClashRoyale20.0389:4507Affffff$ÀHİ¼ÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/38585.png
+‹
+
+1404/07/1914:19œì¨Ç"SUPRA*
+Ø³ÙˆÙ¾Ø±Ø§20.002057:238.26Aö(\ÂõÀHşÃÄR=https://s2.coinmarketcap.com/static/img/coins/64x64/34240.png
+”
+
+1404/07/1914:19œì¨Ç"	B3 (Base)*Ø¨ÛŒÛ³ (Ø¨ÛŒØ³)20.001823:211.19AÂõ(\O=ÀH€‡ÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/35690.png
+”
+
+1404/07/1914:19œì¨Ç"DEAPcoin*Ø¯ÛŒÙ¾â€ŒÚ©ÙˆÛŒÙ†20.001298:150.37A…ëQ¸-ÀHî‡ÀR<https://s2.coinmarketcap.com/static/img/coins/64x64/5429.png
+š
+
+1404/07/1914:19œì¨Ç"Mango Network*Ù…Ø§Ù†Ú¯Ùˆ Ù†ØªÙˆØ±Ú©20.0241:2791A…ëQ¸%ÀHğá´R=https://s2.coinmarketcap.com/static/img/coins/64x64/36935.png
 
 
-1404/07/1914:06æ¨Ç"Apu Apustaja*Ø¢Ù¾Ùˆ Ø¢Ù¾ÙˆØ³ØªØ§Ø¬Ø§20.000112:12.97A\Âõ(\)ÀH¯ü€R=https://s2.coinmarketcap.com/static/img/coins/64x64/30008.png
-¤
+1404/07/1914:19œì¨Ç"Manyu*
+Ù…Ø§Ù†ÛŒÙˆ20.00000003858689168171805:0.004470A¸…ëQx1@H‹”³R=https://s2.coinmarketcap.com/static/img/coins/64x64/37114.png
+’
 
-1404/07/1914:05Ôå¨Ç"	Humans.ai*Ù‡ÛŒÙˆÙ…Ù†Ø² Ø¯Ø§Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.004831:560.66A\Âõ(\,ÀHÛşûR=https://s2.coinmarketcap.com/static/img/coins/64x64/15584.png
+1404/07/1914:19œì¨Ç"	Vine Coin*ÙˆØ§ÛŒÙ† Ú©ÙˆÛŒÙ†20.0385:4461A      BÀH ö­R=https://s2.coinmarketcap.com/static/img/coins/64x64/35421.png
+z
+
+1404/07/1914:19œì¨Ç"LOOK20.0417:4833A     €5ÀHßĞ¬R=https://s2.coinmarketcap.com/static/img/coins/64x64/38308.png
+§
+
+1404/07/1914:19œì¨Ç"Liquity USD*#Ù„ÛŒÚ©ÙˆØ¦ÛŒØªÛŒ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.9940:115162A=
+×£p=Ú¿H©êªR<https://s2.coinmarketcap.com/static/img/coins/64x64/9566.png
+£
+
+1404/07/1914:20Øì¨Ç"My Lovely Planet*Ù…Ø§ÛŒ Ù„Ø§ÙˆÙ„ÛŒ Ù¾Ù„Ù†Øª20.4651:53887Aáz®Gá@HÁ ªR=https://s2.coinmarketcap.com/static/img/coins/64x64/32035.png
+
+
+1404/07/1914:19œì¨Ç"Elastos*Ø§Ù„Ø§Ø³ØªÙˆØ³21.6759:194162A=
+×£p=ÀHŒî©R<https://s2.coinmarketcap.com/static/img/coins/64x64/2492.png
+˜
+
+1404/07/1914:20Øì¨Ç"
+QuarkChain*Ú©ÙˆØ§Ø±Ú©â€ŒÚ†ÛŒÙ†20.005347:619.51A¸…ëQ¸+ÀHœñ£R<https://s2.coinmarketcap.com/static/img/coins/64x64/2840.png
+‰
+
+1404/07/1914:19œì¨Ç"Virtua*ÙˆÛŒØ±ØªÙˆØ§20.0189:2187A®Gáz®<ÀH‡²ŸR<https://s2.coinmarketcap.com/static/img/coins/64x64/8037.png
 †
 
-1404/07/1914:05Ôå¨Ç"Gifto*
-Ú¯ÛŒÙØªÙˆ20.0168:1953AÃõ(\Â2ÀH‰”ûR<https://s2.coinmarketcap.com/static/img/coins/64x64/2289.png
+1404/07/1914:19œì¨Ç"MAGIC*Ù…Ø¬ÛŒÚ©20.1209:14003AR¸…ëÑ=ÀHÊÌœR=https://s2.coinmarketcap.com/static/img/coins/64x64/14783.png
+
+
+1404/07/1914:19œì¨Ç"	Boundless*Ø¨Ø§Ù†Ø¯Ù„Ø³20.1896:21962A=
+×£p=@ÀH¢ğ”R=https://s2.coinmarketcap.com/static/img/coins/64x64/38371.png
+ˆ
+
+1404/07/1914:19œì¨Ç"ANDY*Ø§Ù†Ø¯ÛŒ2
+0.00003805:4.41AìQ¸…k-ÀH°Ñ’R=https://s2.coinmarketcap.com/static/img/coins/64x64/29879.png
+‰
+
+1404/07/1914:19œì¨Ç"Coreum*
+Ú©ÙˆØ±ÙˆÙ…20.0985:11417A=
+×£p=ÀHŒ³ŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/16399.png
+š
+
+1404/07/1914:19œì¨Ç"Gains Network*Ú¯ÛŒÙ†Ø² Ù†ØªÙˆØ±Ú©21.3638:157996A®Gáz.1ÀH–Í‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/13663.png
+
+
+1404/07/1914:19œì¨Ç"Apu Apustaja*Ø¢Ù¾Ùˆ Ø¢Ù¾ÙˆØ³ØªØ§Ø¬Ø§20.000112:12.96Aáz®Ga)ÀHú¶ƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/30008.png
+¤
+
+1404/07/1914:20Øì¨Ç"	Humans.ai*Ù‡ÛŒÙˆÙ…Ù†Ø² Ø¯Ø§Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.004833:559.88Aáz®Ga,ÀHâÜüR=https://s2.coinmarketcap.com/static/img/coins/64x64/15584.png
+“
+
+1404/07/1914:19œì¨Ç"	KernelDAO*Ú©Ø±Ù†Ù„ Ø¯Ø§Ø¦Ùˆ20.1591:18437A¤p=
+×£=ÀHşÛûR=https://s2.coinmarketcap.com/static/img/coins/64x64/36180.png
+†
+
+1404/07/1914:19œì¨Ç"Gifto*
+Ú¯ÛŒÙØªÙˆ20.0168:1950AÃõ(\Â2ÀH‰”ûR<https://s2.coinmarketcap.com/static/img/coins/64x64/2289.png
 ›
 
-1404/07/1914:06æ¨Ç"Realio Network*Ø±ÛŒÙ„ÛŒÙˆ Ù†ØªÙˆØ±Ú©20.2247:26079A     €"ÀH¶ÌîR<https://s2.coinmarketcap.com/static/img/coins/64x64/4166.png
-‹
+1404/07/1914:20Øì¨Ç"Realio Network*Ø±ÛŒÙ„ÛŒÙˆ Ù†ØªÙˆØ±Ú©20.2254:26114Aö(\Âu"ÀHºÍõR<https://s2.coinmarketcap.com/static/img/coins/64x64/4166.png
+ˆ
 
-1404/07/1914:05Ôå¨Ç"Coin98*Ú©ÙˆÛŒÙ† Û¹Û¸20.0374:4346A)\ÂõHAÀH¢ÇíR=https://s2.coinmarketcap.com/static/img/coins/64x64/10903.png
+1404/07/1914:19œì¨Ç"DOGS*Ø¯Ø§Ú¯Ø²2
+0.00007238:8.39A\Âõ(|CÀH‚úêR=https://s2.coinmarketcap.com/static/img/coins/64x64/32698.png
 ‘
 
-1404/07/1914:05Ôå¨Ç"GEODNET*Ø¬ÛŒâ€ŒØ§ÙˆØ¯Ù†Øª20.1179:13683A33333ó8ÀHè¹êR=https://s2.coinmarketcap.com/static/img/coins/64x64/20969.png
-ò
+1404/07/1914:19œì¨Ç"GEODNET*Ø¬ÛŒâ€ŒØ§ÙˆØ¯Ù†Øª20.1176:13623A®Gáz.9ÀH¯äR=https://s2.coinmarketcap.com/static/img/coins/64x64/20969.png
+‹
 
-1404/07/1914:05Ôå¨Ç",Alethea Artificial Liquid Intelligence Token*JØ§Ù„ÛŒØªÛŒØ§ Ø¢Ø±ØªÛŒÙÛŒØ´Ø§Ù„ Ù„ÛŒÚ©ÙˆØ¦ÛŒØ¯ Ø§ÛŒÙ†ØªÙ„ÛŒØ¬Ù†Ø³ ØªÙˆÚ©Ù†20.004065:471.72AR¸…ëÑ<ÀHû‘ÖR=https://s2.coinmarketcap.com/static/img/coins/64x64/16876.png
-{
-
-1404/07/1914:05Ôå¨Ç"KGeN20.1863:21624A{®Gázü¿H‚ËÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/38554.png
-|
-
-1404/07/1914:05Ôå¨Ç"READY!20.0369:4287AÍÌÌÌÌŒ9ÀHİÇÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/34456.png
+1404/07/1914:19œì¨Ç"Coin98*Ú©ÙˆÛŒÙ† Û¹Û¸20.0371:4298AÂõ(\¯AÀHö—ØR=https://s2.coinmarketcap.com/static/img/coins/64x64/10903.png
 †
 
-1404/07/1914:05Ôå¨Ç"Aergo*
-Ø§ÛŒØ±Ú¯Ùˆ20.0761:8834AÍÌÌÌÌÌ5ÀHºÍR<https://s2.coinmarketcap.com/static/img/coins/64x64/3637.png
-
+1404/07/1914:19œì¨Ç"Aergo*
+Ø§ÛŒØ±Ú¯Ùˆ20.0757:8771AìQ¸…+6ÀHÌ’ÁR<https://s2.coinmarketcap.com/static/img/coins/64x64/3637.png
+{
 
-1404/07/1914:05Ôå¨Ç"Bitlight20.8561:99352A{®GázÀHäîÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/38506.png
+1404/07/1914:19œì¨Ç"KGeN20.1843:21354AÂõ(\ÀHÆ‘»R=https://s2.coinmarketcap.com/static/img/coins/64x64/38554.png
 •
 
-1404/07/1914:06æ¨Ç"
-SaucerSwap*Ø³Ø§ÙˆØ³Ø± Ø³ÙˆØ§Ù¾20.0427:4950A     À6ÀHšÄ»R=https://s2.coinmarketcap.com/static/img/coins/64x64/21914.png
-¢
+1404/07/1914:20Øì¨Ç"
+SaucerSwap*Ø³Ø§ÙˆØ³Ø± Ø³ÙˆØ§Ù¾20.0426:4930A{®Gáú6ÀHÇ˜¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/21914.png
+
 
-1404/07/1914:05Ôå¨Ç"Particle Network*Ù¾Ø§Ø±ØªÛŒÚ©Ù„ Ù†ØªÙˆØ±Ú©20.0876:10161A®GázBÀHĞø­R=https://s2.coinmarketcap.com/static/img/coins/64x64/36102.png
+1404/07/1914:19œì¨Ç"Bitlight20.8479:98238A…ëQ¸…ÀHÌ³´R=https://s2.coinmarketcap.com/static/img/coins/64x64/38506.png
 š
 
-1404/07/1914:06æ¨Ç"Adventure Gold*Ø§Ø¯ÙˆÙ†Ú†Ø± Ú¯Ù„Ø¯20.4198:48722A…ëQ¸8ÀHÇ¬«R=https://s2.coinmarketcap.com/static/img/coins/64x64/11568.png
-
+1404/07/1914:20Øì¨Ç"ResearchCoin*Ø±ÛŒØ³Ø±Ú†â€ŒÚ©ÙˆÛŒÙ†20.2911:33727AÍÌÌÌÌ¬@ÀH½à¯R=https://s2.coinmarketcap.com/static/img/coins/64x64/27054.png
+¢
 
-1404/07/1914:06æ¨Ç"	Goldfinch*Ú¯Ù„Ø¯ÙÛŒÙ†Ú†20.4321:50147Aáz®Ga#ÀH¯Ğ R=https://s2.coinmarketcap.com/static/img/coins/64x64/13967.png
+1404/07/1914:19œì¨Ç"Particle Network*Ù¾Ø§Ø±ØªÛŒÚ©Ù„ Ù†ØªÙˆØ±Ú©20.0874:10122AHáz®çAÀH¹©R=https://s2.coinmarketcap.com/static/img/coins/64x64/36102.png
+|
+
+1404/07/1914:19œì¨Ç"READY!20.0363:4205A×£p=
+×:ÀH‘¨§R=https://s2.coinmarketcap.com/static/img/coins/64x64/34456.png
+ò
+
+1404/07/1914:19œì¨Ç",Alethea Artificial Liquid Intelligence Token*JØ§Ù„ÛŒØªÛŒØ§ Ø¢Ø±ØªÛŒÙÛŒØ´Ø§Ù„ Ù„ÛŒÚ©ÙˆØ¦ÛŒØ¯ Ø§ÛŒÙ†ØªÙ„ÛŒØ¬Ù†Ø³ ØªÙˆÚ©Ù†20.003980:461.07A     @>ÀHİë¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/16876.png
+š
+
+1404/07/1914:20Øì¨Ç"Adventure Gold*Ø§Ø¯ÙˆÙ†Ú†Ø± Ú¯Ù„Ø¯20.4187:48502AìQ¸…k8ÀH­¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/11568.png
 ¸
 
-1404/07/1914:05Ôå¨Ç"Global Commercial Business*&Ú¯Ù„ÙˆØ¨Ø§Ù„ Ú©Ø§Ù…Ø±Ø´Ø§Ù„ Ø¨ÛŒØ²Ù†Ø³20.0301:3491AÃõ(\ÂÅ¿H°ßR=https://s2.coinmarketcap.com/static/img/coins/64x64/32068.png
-•
-
-1404/07/1914:05Ôå¨Ç"
-PePeonTron*Ù¾Ù¾Ø¦ÙˆÙ† ØªØ±ÙˆÙ†20.0361:4191AffffffÀHÀµœR=https://s2.coinmarketcap.com/static/img/coins/64x64/36990.png
+1404/07/1914:19œì¨Ç"Global Commercial Business*&Ú¯Ù„ÙˆØ¨Ø§Ù„ Ú©Ø§Ù…Ø±Ø´Ø§Ù„ Ø¨ÛŒØ²Ù†Ø³20.0301:3485A{®Gáz´¿H¼¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/32068.png
 ¦
 
-1404/07/1914:05Ôå¨Ç"Fractal Bitcoin*ÙØ±Ú©ØªØ§Ù„ Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†20.4176:48465A
-×£p=
-ÀH”Û™R=https://s2.coinmarketcap.com/static/img/coins/64x64/32941.png
+1404/07/1914:19œì¨Ç"Fractal Bitcoin*ÙØ±Ú©ØªØ§Ù„ Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†20.4183:48461AÂõ(\ÀHÛ­R=https://s2.coinmarketcap.com/static/img/coins/64x64/32941.png
+
+
+1404/07/1914:20Øì¨Ç"	Goldfinch*Ú¯Ù„Ø¯ÙÛŒÙ†Ú†20.4305:49874A¤p=
+×#$ÀHŒª˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/13967.png
 Ã
 
-1404/07/1914:05Ôå¨Ç"Bounce Finance Governance Token*-Ø¨Ø§Ù†Ø³ ÙØ§ÛŒÙ†Ù†Ø³ Ú¯Ø§ÙˆØ±Ù†Ù†Ø³ ØªÙˆÚ©Ù†25.92:686852AÂõ(\O<ÀH£‡˜R<https://s2.coinmarketcap.com/static/img/coins/64x64/8602.png
-¢
-
-1404/07/1914:05Ôå¨Ç"Gods Unchained*Ú¯Ø§Ø¯Ø² Ø¢Ù†â€ŒÚ†ÛŒÙ†â€ŒØ¯20.0897:10406AÍÌÌÌÌÌ1ÀH»¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/10631.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Tradoor*
-ØªØ±Ø¯ÙˆØ±22.49:288769Aš™™™™™GÀH€ ƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/36737.png
-“
-
-1404/07/1914:06æ¨Ç"Celo Dollar*Ø³Ù„Ùˆ Ø¯Ù„Ø§Ø±21.0005:116113AìQ¸…ë±?H§ûR<https://s2.coinmarketcap.com/static/img/coins/64x64/7236.png
-™
-
-1404/07/1914:05Ôå¨Ç"
-MobileCoin*Ù…ÙˆØ¨Ø§ÛŒÙ„â€ŒÚ©ÙˆÛŒÙ†20.1785:20717A®Gáz®ÀH»ÜñR<https://s2.coinmarketcap.com/static/img/coins/64x64/7878.png
-
-
-1404/07/1914:05Ôå¨Ç"ArchLoot*Ø¢Ø±Ú©â€ŒÙ„ÙˆØª20.0438:5089AÃõ(\5ÀH……îR=https://s2.coinmarketcap.com/static/img/coins/64x64/22765.png
-
-
-1404/07/1914:05Ôå¨Ç"OVERTAKE*Ø§ÙˆÙˆØ±ØªÛŒÚ©20.2411:27976A®Gáz®ÀHÒìíR=https://s2.coinmarketcap.com/static/img/coins/64x64/38175.png
-ª
-
-1404/07/1914:06æ¨Ç"
-Aegis YUSD*&Ø§ÛŒØ¬ÛŒØ³ ÙˆØ§ÛŒâ€ŒÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0019:116269Aš™™™™™¹?H¼ÉßR=https://s2.coinmarketcap.com/static/img/coins/64x64/35976.png
-
-
-1404/07/1914:06æ¨Ç"
-Everlyn AI20.1371:15910Affffff;ÀHŒÛR=https://s2.coinmarketcap.com/static/img/coins/64x64/38561.png
- 
-
-1404/07/1914:06æ¨Ç"	DRX Token*Ø¯ÛŒâ€ŒØ¢Ø±â€ŒØ§ÛŒÚ©Ø³ ØªÙˆÚ©Ù†20.0527:6121Aš™™™™™@H¨ÒÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/35795.png
-§
-
-1404/07/1914:05Ôå¨Ç"Gearbox Protocol*Ú¯ÛŒØ±Ø¨Ø§Ú©Ø³ Ù¾Ø±ÙˆØªÚ©Ù„20.003500:406.21A=
-×£p½$ÀHÊ·ØR=https://s2.coinmarketcap.com/static/img/coins/64x64/16360.png
-º
-
-1404/07/1914:05Ôå¨Ç"PepeCoin Cryptocurrency**Ù¾Ù¾Ù‡â€ŒÚ©ÙˆÛŒÙ† Ú©Ø±ÛŒÙ¾ØªÙˆÚ©Ø§Ø±Ù†Ø³ÛŒ20.3268:37921Aáz®Gáş¿HÖ‘×R=https://s2.coinmarketcap.com/static/img/coins/64x64/24835.png
-¡
-
-1404/07/1914:06æ¨Ç"Sleepless AI*Ø§Ø³Ù„ÛŒÙ¾â€ŒÙ„Ø³ Ø§ÛŒâ€ŒØ¢ÛŒ20.0837:9708A®GázT?ÀH’ñÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/28846.png
-
-
-1404/07/1914:05Ôå¨Ç"	Everscale*Ø§ÙˆØ±Ø³Ú©ÛŒÙ„20.0176:2037A{®Gáz!ÀHÕ©ÏR<https://s2.coinmarketcap.com/static/img/coins/64x64/7505.png
-˜
-
-1404/07/1914:06æ¨Ç"
-Uquid Coin*ÛŒÙˆÚ©ÙˆÛŒÛŒØ¯ Ú©ÙˆÛŒÙ†23.48:403973AÃõ(\ÂÀHãÒÌR<https://s2.coinmarketcap.com/static/img/coins/64x64/2273.png
-
-
-1404/07/1914:05Ôå¨Ç"Burnedfi*Ø¨Ø±Ù†Ø¯ÙØ§ÛŒ22.80:324360A)\Âõ(ÀHåÏÊR=https://s2.coinmarketcap.com/static/img/coins/64x64/30460.png
-
-
-1404/07/1914:06æ¨Ç"Dolomite*Ø¯ÙˆÙ„ÙˆÙ…ÛŒØª20.0779:9044A¸…ëQ¸:ÀH®Æ´R=https://s2.coinmarketcap.com/static/img/coins/64x64/35929.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Ponke*
-Ù¾ÙˆÙ†Ú©Ù‡20.0619:7185Affffff:ÀHİ»³R=https://s2.coinmarketcap.com/static/img/coins/64x64/29150.png
-–
-
-1404/07/1914:06æ¨Ç"Lumera Health*Ù„ÙˆÙ…Ø±Ø§ Ù‡Ù„Ø«23.01:349263A      ğ?H‘¯R=https://s2.coinmarketcap.com/static/img/coins/64x64/36804.png
-‹
-
-1404/07/1914:05Ôå¨Ç"AKEDO*
-Ø¢Ú©ÛŒØ¯Ùˆ20.001496:173.55A)\Âõ¨&ÀH‘æ R=https://s2.coinmarketcap.com/static/img/coins/64x64/38127.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Scroll*Ø§Ø³Ú©Ø±ÙˆÙ„20.1788:20745AìQ¸…‹@ÀH¡ş˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/26998.png
-‹
-
-1404/07/1914:06æ¨Ç"Symbol*
-Ø³ÛŒÙ…Ø¨Ù„20.005437:630.96A¤p=
-×£ÀH¬úR<https://s2.coinmarketcap.com/static/img/coins/64x64/8677.png
-”
-
-1404/07/1914:06æ¨Ç"Quack AI*Ú©ÙˆÙÚ© Ø§ÛŒâ€ŒØ¢ÛŒ20.0209:2426A…ëQ¸…4ÀH³¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/38236.png
-¬
-
-1404/07/1914:06æ¨Ç"Vulcan Forged PYR*#ÙˆÙ„Ú©Ø§Ù† ÙÙˆØ±Ø¬Ø¯ Ù¾Ø§ÛŒâ€ŒØ¢Ø±20.7595:88141A…ëQ¸3ÀH¯ıŠR<https://s2.coinmarketcap.com/static/img/coins/64x64/9308.png
-¢
-
-1404/07/1914:05Ôå¨Ç"Naoris Protocol*Ù†Ø§Ø¦ÙˆØ±ÛŒØ³ Ù¾Ø±ÙˆØªÚ©Ù„20.0563:6533A¤p=
-×Ã@ÀH—öŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/35114.png
-‹
-
-1404/07/1914:06æ¨Ç"Radix*
-Ø±Ø¯ÛŒÚ©Ø³20.002828:328.24A
-×£p=Š7ÀHÓáÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/11948.png
-·
-
-1404/07/1914:05Ôå¨Ç"Impossible Cloud Network*&Ù†ØªÙˆØ±Ú© Ú©Ù„ÙˆØ¯ Ø§ÛŒÙ…Ù¾Ø§Ø³ÛŒØ¨Ù„20.2005:23272A{®Gáz2ÀH¼æşR=https://s2.coinmarketcap.com/static/img/coins/64x64/37070.png
-
-
-1404/07/1914:05Ôå¨Ç"Solv Protocol*Ø³ÙˆÙ„â€ŒÙˆ Ù¾Ø±ÙˆØªÚ©Ù„20.0226:2623A{®GášFÀHˆıR=https://s2.coinmarketcap.com/static/img/coins/64x64/12165.png
-“
-
-1404/07/1914:05Ôå¨Ç"
-Ampleforth*Ø§Ù…Ù¾Ù„ÙÙˆØ±Ø«21.1809:137049AÃõ(\Âñ?H‹€öR<https://s2.coinmarketcap.com/static/img/coins/64x64/4056.png
- 
-
-1404/07/1914:05Ôå¨Ç"inSure DeFi*Ø§ÛŒÙ†â€ŒØ´ÙˆØ± Ø¯ÛŒÙØ§ÛŒ20.001243:144.25Afffffæ?@H”ÂğR<https://s2.coinmarketcap.com/static/img/coins/64x64/5113.png
-–
-
-1404/07/1914:06æ¨Ç"DarkStar*Ø¯Ø§Ø±Ú©â€ŒØ§Ø³ØªØ§Ø±20.1134:13160A®Gáz.%ÀH¬¡îR=https://s2.coinmarketcap.com/static/img/coins/64x64/37566.png
-„
-
-1404/07/1914:05Ôå¨Ç"Thena*Ø«Ù†Ø§20.2931:34019A¸…ëQ¸=ÀH«†èR=https://s2.coinmarketcap.com/static/img/coins/64x64/23335.png
+1404/07/1914:20Øì¨Ç"Bounce Finance Governance Token*-Ø¨Ø§Ù†Ø³ ÙØ§ÛŒÙ†Ù†Ø³ Ú¯Ø§ÙˆØ±Ù†Ù†Ø³ ØªÙˆÚ©Ù†25.90:683057A…ëQ¸Å<ÀHâÏR<https://s2.coinmarketcap.com/static/img/coins/64x64/8602.png
 •
 
-1404/07/1914:05Ôå¨Ç"Quai Network*Ú©ÙˆÛŒ Ù†ØªÙˆØ±Ú©20.0424:4916A…ëQ¸%ÀH»—çR=https://s2.coinmarketcap.com/static/img/coins/64x64/22354.png
-¾
+1404/07/1914:19œì¨Ç"
+PePeonTron*Ù¾Ù¾Ø¦ÙˆÙ† ØªØ±ÙˆÙ†20.0358:4148A333333ÀH¦ ‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/36990.png
+ 
 
-1404/07/1914:05Ôå¨Ç"Tesla tokenized stock (xStock)*$ØªØ³Ù„Ø§ ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2408.56:47413099AHáz®GÀHÏæãR=https://s2.coinmarketcap.com/static/img/coins/64x64/37004.png
-‡
+1404/07/1914:19œì¨Ç"	DRX Token*Ø¯ÛŒâ€ŒØ¢Ø±â€ŒØ§ÛŒÚ©Ø³ ØªÙˆÚ©Ù†20.0539:6239AHáz®G @HÇ¿†R=https://s2.coinmarketcap.com/static/img/coins/64x64/35795.png
+¢
 
-1404/07/1914:05Ôå¨Ç"SLERF*
-Ø§Ø³Ù„Ø±Ù20.0660:7663AR¸…ëÑ0ÀHÃ‘ßR=https://s2.coinmarketcap.com/static/img/coins/64x64/29920.png
-
-
-1404/07/1914:06æ¨Ç"Initia*Ø§ÛŒÙ†ÛŒØ´ÛŒØ§20.1971:22879AìQ¸…CÀH–²ÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/33120.png
+1404/07/1914:19œì¨Ç"Gods Unchained*Ú¯Ø§Ø¯Ø² Ø¢Ù†â€ŒÚ†ÛŒÙ†â€ŒØ¯20.0888:10290A)\Âõ¨2ÀHÍßúR=https://s2.coinmarketcap.com/static/img/coins/64x64/10631.png
 “
 
-1404/07/1914:05Ôå¨Ç"SmarDex*Ø§Ø³Ù…Ø§Ø±Ø¯Ú©Ø³20.003524:408.97A®Gáz.ÀH¥˜ÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/24203.png
-“
+1404/07/1914:20Øì¨Ç"Celo Dollar*Ø³Ù„Ùˆ Ø¯Ù„Ø§Ø±21.0001:115864A{®Gáz„¿HÅ úR<https://s2.coinmarketcap.com/static/img/coins/64x64/7236.png
+‰
 
-1404/07/1914:05Ôå¨Ç"	Wayfinder*ÙˆÛŒ ÙØ§ÛŒÙ†Ø¯Ø±20.0903:10480AfffffF@ÀHöíÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/36223.png
-
-
-1404/07/1914:05Ôå¨Ç"Hashflow*Ù‡Ø´â€ŒÙÙ„Ùˆ20.0535:6208A{®Gáº;ÀH‘ˆÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/22461.png
-‡
-
-1404/07/1914:06æ¨Ç"Avail*Ø§ÙˆÛŒÙ„20.009206:1068A{®Gáº8ÀHğ°¸R=https://s2.coinmarketcap.com/static/img/coins/64x64/32376.png
-¬
-
-1404/07/1914:06æ¨Ç"Baby Shark Universe* Ø¨ÛŒØ¨ÛŒ Ø´Ø§Ø±Ú© ÛŒÙˆÙ†ÛŒÙˆØ±Ø³20.1924:22326AÂõ(\,ÀHôÙ´R=https://s2.coinmarketcap.com/static/img/coins/64x64/37672.png
+1404/07/1914:19œì¨Ç"Tradoor*
+ØªØ±Ø¯ÙˆØ±22.47:286011AìQ¸…«GÀH¨òR=https://s2.coinmarketcap.com/static/img/coins/64x64/36737.png
 ™
 
-1404/07/1914:05Ôå¨Ç"
-Braintrust*Ø¨Ø±ÛŒÙ†â€ŒØªØ± Ø§Ø³Øª20.1335:15492AÍÌÌÌÌŒ1ÀH–·®R=https://s2.coinmarketcap.com/static/img/coins/64x64/11584.png
-˜
-
-1404/07/1914:05Ôå¨Ç"Ice Network*Ø¢ÛŒØ³ Ù†ØªÙˆØ±Ú©20.004851:562.92Aáz®GáÚ?H‰À¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/27650.png
-¤
-
-1404/07/1914:05Ôå¨Ç"Velodrome Finance*ÙˆÙ„ÙˆØ¯Ø±ÙˆÙ… ÙØ§ÛŒÙ†Ù†Ø³20.0350:4065AìQ¸…k6ÀH•Ò¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/20435.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Neutron*Ù†ÙˆØªØ±ÙˆÙ†20.0524:6078A¸…ëQ˜@ÀHÁ£R=https://s2.coinmarketcap.com/static/img/coins/64x64/26680.png
-’
-
-1404/07/1914:05Ôå¨Ç"
-Law Blocks*Ù„Ø§ Ø¨Ù„Ø§Ú©Ø³20.1302:15105A¤p=
-×£Ğ¿H÷ªšR=https://s2.coinmarketcap.com/static/img/coins/64x64/20964.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Zircuit*Ø²ÛŒØ±Ú©ÛŒØª20.0145:1684Aq=
-×£°<ÀH™Å˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/29711.png
-Ÿ
-
-1404/07/1914:06æ¨Ç"MyNeighborAlice*Ù…Ø§ÛŒ Ù†ÛŒØ¨Ø± Ø¢Ù„ÛŒØ³20.3146:36511A…ëQ¸;ÀH´©üR<https://s2.coinmarketcap.com/static/img/coins/64x64/8766.png
-‘
-
-1404/07/1914:06æ¨Ç"UNIPOLY*ÛŒÙˆÙ†ÛŒâ€ŒÙ¾Ù„ÛŒ20.1423:16517A×£p=
-×2ÀH˜»ğR=https://s2.coinmarketcap.com/static/img/coins/64x64/28735.png
+1404/07/1914:20Øì¨Ç"
+MobileCoin*Ù…ÙˆØ¨Ø§ÛŒÙ„â€ŒÚ©ÙˆÛŒÙ†20.1784:20672A¸…ëQ¸ÀHşàğR<https://s2.coinmarketcap.com/static/img/coins/64x64/7878.png
 
 
-1404/07/1914:06æ¨Ç"Oasys*Ø§ÙˆØ¦ÛŒØ³ÛŒØ³20.006197:719.21AÃõ(\B5ÀHúåR=https://s2.coinmarketcap.com/static/img/coins/64x64/22265.png
-Ÿ
+1404/07/1914:19œì¨Ç"OVERTAKE*Ø§ÙˆÙˆØ±ØªÛŒÚ©20.2396:27759AÍÌÌÌÌÌÀH„ÜàR=https://s2.coinmarketcap.com/static/img/coins/64x64/38175.png
+ª
 
-1404/07/1914:05Ôå¨Ç"Newton Protocol*Ù¾Ø±ÙˆØªÚ©Ù„ Ù†ÛŒÙˆØªÙ†20.1441:16718A
-×£p=Š9ÀH¶»âR=https://s2.coinmarketcap.com/static/img/coins/64x64/36861.png
-“
+1404/07/1914:19œì¨Ç"
+Aegis YUSD*&Ø§ÛŒØ¬ÛŒØ³ ÙˆØ§ÛŒâ€ŒÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0019:116071A
+×£p=
+·?H»ÉßR=https://s2.coinmarketcap.com/static/img/coins/64x64/35976.png
+
 
-1404/07/1914:06æ¨Ç"	PolySwarm*Ù¾Ù„ÛŒâ€ŒØ³ÙˆØ§Ø±Ù…20.0163:1893AR¸…ë‘2ÀHİÜÔR<https://s2.coinmarketcap.com/static/img/coins/64x64/2630.png
-ˆ
+1404/07/1914:19œì¨Ç"ArchLoot*Ø¢Ø±Ú©â€ŒÙ„ÙˆØª20.0435:5044AR¸…ë‘5ÀHíğŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/22765.png
+
 
-1404/07/1914:05Ôå¨Ç"USD CoinVertible21.0003:116088A¸…ëQ¸?H¶¯ÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/37180.png
-—
-
-1404/07/1914:06æ¨Ç"	MovieBloc*Ù…ÙˆÙˆÛŒâ€ŒØ¨Ù„Ø§Ú©20.001631:189.30A¸…ëQ83ÀH¯ÀÎR<https://s2.coinmarketcap.com/static/img/coins/64x64/4038.png
-¨
-
-1404/07/1914:05Ôå¨Ç"Banana For Scale*Ø¨Ù†Ø§Ù†Ø§ ÙÙˆØ± Ø§Ø³Ú©ÛŒÙ„20.003062:355.36AÍÌÌÌÌLEÀHóıÌR=https://s2.coinmarketcap.com/static/img/coins/64x64/34118.png
-‘
-
-1404/07/1914:05Ôå¨Ç"PinLink*Ù¾ÛŒÙ†â€ŒÙ„ÛŒÙ†Ú©20.3441:39931Afffffæ.ÀHÄ¹¼R=https://s2.coinmarketcap.com/static/img/coins/64x64/34017.png
-Œ
-
-1404/07/1914:06æ¨Ç"Tutorial*Ø¢Ù…ÙˆØ²Ø´ÛŒ20.0362:4205AR¸…ëQMÀH­¼R=https://s2.coinmarketcap.com/static/img/coins/64x64/35892.png
-¡
-
-1404/07/1914:06æ¨Ç"Origin Protocol*Ø§ÙˆØ±ÛŒØ¬ÛŒÙ† Ù¾Ø±ÙˆØªÚ©Ù„20.0461:5348Aq=
-×£06ÀH’´R<https://s2.coinmarketcap.com/static/img/coins/64x64/5117.png
-‰
-
-1404/07/1914:06æ¨Ç"Solend*
-Ø³ÙˆÙ„Ù†Ø¯20.3023:35085Aq=
-×£pù?H¾‰¯R=https://s2.coinmarketcap.com/static/img/coins/64x64/13524.png
-”
-
-1404/07/1914:05Ôå¨Ç"	Autonolas*Ø§ÙˆØªÙˆÙ†ÙˆÙ„Ø§Ø³20.1670:19376Aq=
-×£p!ÀH¹×¬R=https://s2.coinmarketcap.com/static/img/coins/64x64/28458.png
-§
-
-1404/07/1914:06æ¨Ç"Polyhedra Network*Ù¾ÙˆÙ„ÛŒâ€ŒÙ‡Ø¯Ø±Ø§ Ù†ØªÙˆØ±Ú©20.0843:9785A×£p=
-7AÀH„ü›R=https://s2.coinmarketcap.com/static/img/coins/64x64/29779.png
-
-
-1404/07/1914:05Ôå¨Ç"OHO*Ø§Ùˆ Ø§Ú† Ø§Ùˆ20.001234:143.20A=
-×£p=ÀHéë˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/22264.png
+1404/07/1914:19œì¨Ç"
+Everlyn AI20.1371:15886A¸…ëQx9ÀHÀÛR=https://s2.coinmarketcap.com/static/img/coins/64x64/38561.png
 º
 
-1404/07/1914:05Ôå¨Ç"Ampleforth Governance Token*(Ø§Ù…Ù¾Ù„ÙÙˆØ±Ø« Ú¯Ø§ÙˆØ±Ù†Ù†Ø³ ØªÙˆÚ©Ù†22.07:240607AÍÌÌÌÌ7ÀHèŒ—R<https://s2.coinmarketcap.com/static/img/coins/64x64/9421.png
-’
-
-1404/07/1914:05Ôå¨Ç"	Ethernity*Ø§ØªÛŒØ±Ù†ÛŒØªÛŒ20.9888:114752Aq=
-×£@ÀH°É’R<https://s2.coinmarketcap.com/static/img/coins/64x64/8615.png
-¨
-
-1404/07/1914:06æ¨Ç"WalletConnect Token*ÙˆÙ„Øªâ€ŒÚ©Ø§Ù†Ú©Øª ØªÙˆÚ©Ù†20.1590:18457A×£p=
-×AÀHĞ¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/33152.png
-¥
-
-1404/07/1914:06æ¨Ç"Infinity Ground*Ø§ÛŒÙ†ÙÛŒÙ†ÛŒØªÛŒ Ú¯Ø±Ø§Ù†Ø¯20.1337:15518Aáz®Ga(ÀHŞéR=https://s2.coinmarketcap.com/static/img/coins/64x64/36770.png
-¢
-
-1404/07/1914:05Ôå¨Ç"Torch of Liberty*ØªÙˆØ±Ú† Ø¢Ùˆ Ù„ÛŒØ¨Ø±ØªÛŒ20.0292:3391AÃõ(\Â)ÀHı²÷R=https://s2.coinmarketcap.com/static/img/coins/64x64/36803.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"Adshares*Ø§Ø¯Ø´ÛŒØ±Ø²20.7539:87488A=
-×£p=ÀHïĞöR<https://s2.coinmarketcap.com/static/img/coins/64x64/1883.png
-
-
-1404/07/1914:05Ôå¨Ç"	SuperRare*Ø³ÙˆÙ¾Ø± Ø±ÙØ±20.0354:4104Aö(\Âu<ÀH”ĞóR=https://s2.coinmarketcap.com/static/img/coins/64x64/11294.png
-
-
-1404/07/1914:06æ¨Ç"Xphere*Ø§ÛŒÚ©Ø³â€ŒÙÛŒØ±20.0134:1559A{®GázÀHÙ¼çR=https://s2.coinmarketcap.com/static/img/coins/64x64/36056.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Tensor*
-ØªÙ†Ø³ÙˆØ±20.0705:8177A
-×£p=
-=ÀH•ŸåR=https://s2.coinmarketcap.com/static/img/coins/64x64/30449.png
-‘
-
-1404/07/1914:05Ôå¨Ç"MOMOFUN*Ù…ÙˆÙ…ÙˆÙØ§Ù†20.003702:429.56A®Gáz” ÀHÅ˜âR=https://s2.coinmarketcap.com/static/img/coins/64x64/37572.png
-š
-
-1404/07/1914:05Ôå¨Ç"
-NAVX Token*Ù†Ø§Ùˆâ€ŒØ§Ú©Ø³ ØªÙˆÚ©Ù†20.0399:4629A¤p=
-×ã7ÀHøØR=https://s2.coinmarketcap.com/static/img/coins/64x64/29296.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Mythos*
-Ù…ÛŒØªÙˆØ³20.0333:3859A¸…ëQø5ÀHŞşÈR=https://s2.coinmarketcap.com/static/img/coins/64x64/22125.png
-
-
-1404/07/1914:05Ôå¨Ç"Minswap*Ù…ÛŒÙ†â€ŒØ³ÙˆØ§Ù¾20.0161:1866A…ëQ¸Ş0ÀHÊÈ½R=https://s2.coinmarketcap.com/static/img/coins/64x64/12787.png
-š
-
-1404/07/1914:05Ôå¨Ç"Ski Mask Dog*Ø§Ø³Ú©ÛŒ Ù…Ø³Ú© Ø¯Ø§Ú¯20.0285:3309A¤p=
-×£ÀH¤ä¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/31173.png
-ˆ
-
-1404/07/1914:06æ¨Ç"Derive*
-Ø¯Ø±Ø§ÛŒÙˆ20.0382:4434A\Âõ(\ó¿HÎè·R=https://s2.coinmarketcap.com/static/img/coins/64x64/35014.png
-
-
-1404/07/1914:05Ôå¨Ç"Bitcoin Gold*Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ú¯Ù„Ø¯21.6048:186239A…ëQ¸	ÀH¾¿³R<https://s2.coinmarketcap.com/static/img/coins/64x64/2083.png
-ƒ
-
-1404/07/1914:05Ôå¨Ç"Firo*ÙÛŒØ±21.5653:181654AR¸…ëQ(@HË‚¥R<https://s2.coinmarketcap.com/static/img/coins/64x64/1414.png
-œ
-
-1404/07/1914:05Ôå¨Ç"Hamster Kombat*Ù‡Ù…Ø³ØªØ± Ú©Ù…Ø¨Øª20.000433:50.23A\Âõ(œ>ÀH€Í¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/32195.png
-¢
-
-1404/07/1914:05Ôå¨Ç"Maverick Protocol*Ù…Ø§ÙˆØ±ÛŒÚ© Ù¾Ø±ÙˆØªÚ©Ù„20.0367:4262AHáz®‡:ÀH‚¡šR=https://s2.coinmarketcap.com/static/img/coins/64x64/18037.png
-
-
-1404/07/1914:05Ôå¨Ç"MARBLEX*Ù…Ø§Ø±Ø¨Ù„Ú©Ø³20.1070:12414A…ëQ¸Å0ÀH÷µ™R=https://s2.coinmarketcap.com/static/img/coins/64x64/18895.png
-
-
-1404/07/1914:06æ¨Ç"Fartboy*ÙØ§Ø±Øªâ€ŒØ¨ÙˆÛŒ20.0276:3199Aš™™™™Y5ÀH¡Ü‘R=https://s2.coinmarketcap.com/static/img/coins/64x64/35426.png
-
-
-1404/07/1914:06æ¨Ç"OLAXBT*Ø§ÙˆÙ„â€ŒØ§ÛŒÚ©Ø³â€ŒØ¨ÛŒâ€ŒØªÛŒ20.1195:13871Aáz®Gá$ÀH’àR=https://s2.coinmarketcap.com/static/img/coins/64x64/37562.png
-­
-
-1404/07/1914:05Ôå¨Ç"Electronic USD*%Ø§Ù„Ú©ØªØ±ÙˆÙ†ÛŒÚ© ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0003:116080A{®Gáz”¿HÏÊR=https://s2.coinmarketcap.com/static/img/coins/64x64/22933.png
-”
-
-1404/07/1914:05Ôå¨Ç"Pepecoin*Ù¾Ù¾Ù‡â€ŒÚ©ÙˆÛŒÙ†20.000274:31.84AÃõ(\ÂÀHèÁˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/31806.png
-‘
-
-1404/07/1914:06æ¨Ç"	Treehouse*ØªØ±ÛŒ Ù‡Ø§ÙˆØ³20.1750:20308Afffff¦9ÀHãÁƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/37495.png
-Ÿ
-
-1404/07/1914:06æ¨Ç"Access Protocol*Ø§Ú©Ø³Ø³ Ù¾Ø±ÙˆØªÚ©Ù„20.000623:72.28Aš™™™™Y2ÀH€üR=https://s2.coinmarketcap.com/static/img/coins/64x64/23195.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Young*ÛŒØ§Ù†Ú¯21.0081:116988AR¸…ëQà?HÆ¢ıR=https://s2.coinmarketcap.com/static/img/coins/64x64/37393.png
-‘
-
-1404/07/1914:06æ¨Ç"Landwolf*Ù„Ù†Ø¯ ÙˆÙ„Ù2
-0.00003015:3.50AHáz®G+ÀHÚ˜üR=https://s2.coinmarketcap.com/static/img/coins/64x64/30902.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Sapien*
-Ø³Ø§Ù¾ÛŒÙ†20.1081:12546Aö(\Âõ5ÀHªÏñR=https://s2.coinmarketcap.com/static/img/coins/64x64/38117.png
-£
-
-1404/07/1914:06æ¨Ç"Automata Network*Ø§ÙˆØªÙˆÙ…Ø§ØªØ§ Ù†ØªÙˆØ±Ú©20.0301:3493A
-×£p=Ê:ÀHõ„ğR=https://s2.coinmarketcap.com/static/img/coins/64x64/10188.png
-Ÿ
-
-1404/07/1914:05Ôå¨Ç"Bone ShibaSwap*Ø¨ÙˆÙ† Ø´ÛŒØ¨Ø§ Ø³ÙˆØ§Ù¾20.1172:13596AÂõ(\*ÀHÂìR=https://s2.coinmarketcap.com/static/img/coins/64x64/11865.png
-
-
-1404/07/1914:05Ôå¨Ç"OpenEden20.1464:16991A
-×£p=ÊBÀH¯ëR=https://s2.coinmarketcap.com/static/img/coins/64x64/38513.png
-Ÿ
-
-1404/07/1914:05Ôå¨Ç"Helium Mobile*Ù‡Ù„ÛŒÙˆÙ… Ù…ÙˆØ¨Ø§ÛŒÙ„20.000300:34.85A…ëQ¸-ÀHŠ¨äR=https://s2.coinmarketcap.com/static/img/coins/64x64/24600.png
-“
-
-1404/07/1914:05Ôå¨Ç"tokenbot*ØªÙˆÚ©Ù†â€ŒØ¨Ø§Øª226.80:3109737Affffff"ÀHíÃãR=https://s2.coinmarketcap.com/static/img/coins/64x64/34285.png
-£
-
-1404/07/1914:06æ¨Ç"CZ'S Dog (broccoli.gg)*Ø³ÛŒâ€ŒØ²Ø¯'Ø² Ø¯Ø§Ú¯20.0275:3193A     €8ÀHœòßR=https://s2.coinmarketcap.com/static/img/coins/64x64/35749.png
-
-
-1404/07/1914:05Ôå¨Ç"Wirex Token*ÙˆØ§ÛŒØ±ÛŒÚ©Ø³ ØªÙˆÚ©Ù†20.002665:309.30Aö(\ÂõÀHÏÜÚR<https://s2.coinmarketcap.com/static/img/coins/64x64/4090.png
-”
-
-1404/07/1914:05Ôå¨Ç"BugsCoin*Ø¨Ø§Ú¯Ø²Ú©ÙˆÛŒÙ†20.002296:266.50A¤p=
-×#@ÀHùåÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/34830.png
-“
-
-1404/07/1914:06æ¨Ç"AriaAI*Ø¢Ø±ÛŒØ§ Ø§ÛŒâ€ŒØ¢ÛŒ20.1209:14030A®Gáz.,ÀH¾ÍR=https://s2.coinmarketcap.com/static/img/coins/64x64/38102.png
-
-
-1404/07/1914:05Ôå¨Ç"Namecoin*Ù†ÛŒÙ…â€ŒÚ©ÙˆÛŒÙ†21.7878:207479A¤p=
-×£ÀH˜‡ÈR9https://s2.coinmarketcap.com/static/img/coins/64x64/3.png
-¡
-
-1404/07/1914:05Ôå¨Ç"Energy Web Token*Ø§Ù†Ø±Ú˜ÛŒ ÙˆØ¨ ØªÙˆÚ©Ù†20.8743:101461A=
-×£p="ÀH–˜ÄR<https://s2.coinmarketcap.com/static/img/coins/64x64/5268.png
-ƒ
-
-1404/07/1914:06æ¨Ç"Swarm Network20.0126:1462AÍÌÌÌÌÌ#ÀH æÃR=https://s2.coinmarketcap.com/static/img/coins/64x64/38178.png
-z
-
-1404/07/1914:05Ôå¨Ç"Palu20.0262:3040A×£p=
-×AÀH½€¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/38594.png
-
-
-1404/07/1914:05Ôå¨Ç"DEXTools*Ø¯Ú©Ø³ ØªÙˆÙ„Ø²20.3717:43137AÃõ(\2ÀHõ»´R<https://s2.coinmarketcap.com/static/img/coins/64x64/5866.png
-¡
-
-1404/07/1914:06æ¨Ç"Just a chill guy*Ø¬Ø§Ø³Øª Ø§ Ú†ÛŒÙ„ Ú¯Ø§ÛŒ20.0260:3015A33333“BÀHƒÇ±R=https://s2.coinmarketcap.com/static/img/coins/64x64/34125.png
-
-
-1404/07/1914:06æ¨Ç"Metadium*Ù…ØªØ§Ø¯ÛŒÙˆÙ…20.0150:1745A     €!ÀHò™«R<https://s2.coinmarketcap.com/static/img/coins/64x64/3418.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Kleros*
-Ú©Ù„Ø±ÙˆØ³20.0320:3716AHáz®GÀH×Ø¥R<https://s2.coinmarketcap.com/static/img/coins/64x64/3581.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Radicle*
-Ø±Ø¯ÛŒÚ©Ù„20.4999:58008A…ëQ¸^4ÀHòÂ¥R<https://s2.coinmarketcap.com/static/img/coins/64x64/6843.png
-Œ
-
-1404/07/1914:06æ¨Ç"MyShell*Ù…Ø§ÛŒâ€ŒØ´Ù„20.0846:9818Aš™™™™Ù?ÀHññ R=https://s2.coinmarketcap.com/static/img/coins/64x64/35710.png
-„
-
-1404/07/1914:05Ôå¨Ç"OORT*Ø§ÙˆØ±Øª20.0418:4845Aš™™™™$ÀH¬—šR=https://s2.coinmarketcap.com/static/img/coins/64x64/29331.png
-
-
-1404/07/1914:05Ôå¨Ç"Arena-Z*Ø¢Ø±Ù†Ø§ Ø²Ø¯20.003539:410.65A      DÀHòï’R=https://s2.coinmarketcap.com/static/img/coins/64x64/37357.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Bluefin*Ø¨Ù„ÙˆÙÛŒÙ†20.0766:8891AÍÌÌÌÌÌ*ÀH¡Ù‡R<https://s2.coinmarketcap.com/static/img/coins/64x64/8724.png
-…
-
-1404/07/1914:06æ¨Ç"XION*Ø²ÛŒÙˆÙ†20.5956:69118A=
-×£p½9ÀH†¢…R=https://s2.coinmarketcap.com/static/img/coins/64x64/32089.png
-
-
-1404/07/1914:05Ôå¨Ç"Isiklar Coin*Ø§ÛŒØ³ÛŒÚ©Ù„Ø§Ø± Ú©ÙˆÛŒÙ†20.2521:29252AìQ¸…ë±?H‰¾‚R<https://s2.coinmarketcap.com/static/img/coins/64x64/5468.png
-˜
-
-1404/07/1914:05Ôå¨Ç"
-Highstreet*Ù‡Ø§ÛŒâ€ŒØ§Ø³ØªØ±ÛŒØª20.3230:37483A=
-×£p=>ÀHéÍùR=https://s2.coinmarketcap.com/static/img/coins/64x64/11232.png
-Š
-
-1404/07/1914:05Ôå¨Ç"TrueFi*ØªØ±Ùˆ ÙØ§ÛŒ20.0188:2183A…ëQ¸@ÀHûŠöR<https://s2.coinmarketcap.com/static/img/coins/64x64/7725.png
-~
-
-1404/07/1914:05Ôå¨Ç"zkVerify20.0811:9410A{®GáúAÀH´ÉóR=https://s2.coinmarketcap.com/static/img/coins/64x64/38436.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Mubarak*
-Ù…Ø¨Ø§Ø±Ú©20.0249:2888A®Gáz<ÀHñâîR=https://s2.coinmarketcap.com/static/img/coins/64x64/36041.png
-’
-
-1404/07/1914:05Ôå¨Ç"	MORI COIN*Ù…ÙˆØ±ÛŒ Ú©ÙˆÛŒÙ†20.0310:3601A®Gáz.#ÀH®üêR=https://s2.coinmarketcap.com/static/img/coins/64x64/36959.png
-“
-
-1404/07/1914:05Ôå¨Ç"
-Toko Token*ØªÙˆÚ©Ùˆ ØªÙˆÚ©Ù†20.1464:16993AÍÌÌÌÌÌ6ÀHÔ™èR<https://s2.coinmarketcap.com/static/img/coins/64x64/9020.png
-„
-
-1404/07/1914:06æ¨Ç"HUNT*Ù‡Ø§Ù†Øª20.1963:22786A)\Âõ¨#ÀHàüçR<https://s2.coinmarketcap.com/static/img/coins/64x64/5380.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Oobit*
-Ø§ÙˆØ¨ÛŒØª20.0246:2853AÍÌÌÌÌÌ@HÉÀÜR=https://s2.coinmarketcap.com/static/img/coins/64x64/13914.png
-’
-
-1404/07/1914:05Ôå¨Ç"	Fusionist*ÙÛŒÙˆÚ˜Ù†ÛŒØ³Øª20.3138:36419A
-×£p=ª@ÀH©ˆ×R=https://s2.coinmarketcap.com/static/img/coins/64x64/28674.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Catizen*
-Ú©ØªÛŒØ²Ù†20.0697:8083A¸…ëQx0ÀH¤ıÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/32966.png
-š
-
-1404/07/1914:05Ôå¨Ç"Ark of Panda*Ø¢Ø±Ú© Ø¢Ùˆ Ù¾Ø§Ù†Ø¯Ø§20.0814:9447A
-×£p=
-×¿H‹ÉÒR=https://s2.coinmarketcap.com/static/img/coins/64x64/38433.png
-
-
-1404/07/1914:06æ¨Ç"Travala.com*ØªØ±Ø§ÙˆÙ„Ø§ Ø¯Ø§Øª Ú©Ø§Ù…20.3488:40475A\Âõ(\>ÀHÓ…ÑR<https://s2.coinmarketcap.com/static/img/coins/64x64/2776.png
-‚
-
-1404/07/1914:06æ¨Ç"Acet*Ø§Ø³Øª20.0194:2249A¤p=
-×£à¿HşóÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/11706.png
-‹
-
-1404/07/1914:05Ôå¨Ç"MESSIER*Ù…Ø³ÛŒÙ‡2
-0.00002750:3.19A®Gáz1ÀHø£ÍR=https://s2.coinmarketcap.com/static/img/coins/64x64/20561.png
-
-
-1404/07/1914:06æ¨Ç"NATIX Network*Ù†ØªÛŒÚ©Ø³ Ù†ØªÙˆØ±Ú©20.000599:69.53A)\Âõ($ÀHğëÌR=https://s2.coinmarketcap.com/static/img/coins/64x64/31342.png
-–
-
-1404/07/1914:05Ôå¨Ç"IX Swap*Ø¢ÛŒâ€ŒØ§Ú©Ø³ Ø³ÙˆØ§Ù¾20.1343:15591A333333ÀH¸ûÃR=https://s2.coinmarketcap.com/static/img/coins/64x64/11620.png
-
-
-1404/07/1914:05Ôå¨Ç"RSS3*Ø¢Ø±Ø§Ø³â€ŒØ§Ø³ Û³20.0281:3258Affffff:ÀHšœÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/17917.png
-“
-
-1404/07/1914:06æ¨Ç"LimeWire*Ù„Ø§ÛŒÙ…â€ŒÙˆØ§ÛŒØ±20.0626:7264A…ëQ¸'ÀHæ ¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/24476.png
-ƒ
-
-1404/07/1914:05Ôå¨Ç"DODO*Ø¯ÙˆØ¯Ùˆ20.0331:3846A®Gázî=ÀHŒŞ»R<https://s2.coinmarketcap.com/static/img/coins/64x64/7224.png
-¦
-
-1404/07/1914:05Ôå¨Ç"Haedal Protocol*Ù‡Ø§Ø¦Ù‡â€ŒØ¯Ø§Ù„ Ù¾Ø±ÙˆØªÚ©Ù„20.1007:11682A×£p=
-8ÀH§íºR=https://s2.coinmarketcap.com/static/img/coins/64x64/36369.png
-ˆ
-
-1404/07/1914:06æ¨Ç"MOBOX*Ù…ÙˆØ¨Ø§Ú©Ø³20.0480:5569A{®Gáz;ÀH¾½¹R<https://s2.coinmarketcap.com/static/img/coins/64x64/9175.png
-¡
-
-1404/07/1914:05Ôå¨Ç"Coq Inu*Ú©Ø§Ú© Ø§ÛŒÙ†Ùˆ20.000000345456257955092:0.0401Affffff7ÀH…Ü·R=https://s2.coinmarketcap.com/static/img/coins/64x64/28675.png
-„
-
-1404/07/1914:05Ôå¨Ç"Hegic*Ù‡Ø¬ÛŒÚ©20.0341:3952A333333(ÀHãÎ¶R<https://s2.coinmarketcap.com/static/img/coins/64x64/6929.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Towns*
-ØªØ§ÙˆÙ†Ø²20.0114:1318A33333³AÀH¸ŞµR=https://s2.coinmarketcap.com/static/img/coins/64x64/37571.png
-
-
-1404/07/1914:06æ¨Ç"
-ARPA Chain*Ø¢Ø±Ù¾Ø§ Ú†ÛŒÙ†20.0157:1822A¤p=
-×#:ÀHàí¯R<https://s2.coinmarketcap.com/static/img/coins/64x64/4039.png
-„
-
-1404/07/1914:06æ¨Ç"GUNZ*Ú¯Ø§Ù†Ø²20.0198:2298A¤p=
-×#;ÀHÃÒ¯R=https://s2.coinmarketcap.com/static/img/coins/64x64/36156.png
-–
-
-1404/07/1914:05Ôå¨Ç"tao.bot*ØªØ§Ø¦Ùˆ Ø¯Ø§Øª Ø¨Ø§Øª20.3109:36079AHáz®G#@Hùà®R=https://s2.coinmarketcap.com/static/img/coins/64x64/34835.png
-Ú
-
-1404/07/1914:06æ¨Ç"!SPDR S&P 500 Tokenized ETF (Ondo)*=ETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø§Ø³â€ŒÙ¾ÛŒâ€ŒØ¯ÛŒâ€ŒØ¢Ø± S&P 5002651.36:75590818AÂõ(\ÀHœî­R=https://s2.coinmarketcap.com/static/img/coins/64x64/38067.png
-˜
-
-1404/07/1914:06æ¨Ç"MAP Protocol*Ù…Ù¾ Ù¾Ø±ÙˆØªÚ©Ù„20.003908:453.51A)\Âõ¨&ÀH”‹§R<https://s2.coinmarketcap.com/static/img/coins/64x64/4956.png
-„
-
-1404/07/1914:05Ôå¨Ç"Fwog*ÙÙˆØ§Ú¯20.0243:2820Affffff6ÀH‡§R=https://s2.coinmarketcap.com/static/img/coins/64x64/33291.png
-¢
-
-1404/07/1914:05Ôå¨Ç"Radiant Capital*Ø±Ø§Ø¯ÛŒØ§Ù†Øª Ú©Ù¾ÛŒØªØ§Ù„20.0183:2128A      2ÀHåá¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/21106.png
-¡
-
-1404/07/1914:05Ôå¨Ç"Inverse Finance*Ø§ÛŒÙ†ÙˆØ±Ø³ ÙØ§ÛŒÙ†Ù†Ø³233.40:3875998Aq=
-×£p!ÀHÎµ£R<https://s2.coinmarketcap.com/static/img/coins/64x64/8720.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Nosana*Ù†ÙˆØ³Ø§Ù†Ø§20.4899:56854A®Gáz.,ÀHÙ—¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/16612.png
-‘
-
-1404/07/1914:06æ¨Ç"McDull*Ù…Ú©â€ŒØ¯Ø§Ù„2
-0.00000312:0.3619A     @0ÀH¿“R=https://s2.coinmarketcap.com/static/img/coins/64x64/32866.png
-
-
-1404/07/1914:06æ¨Ç"Mansory*Ù…Ø§Ù†Ø³ÙˆØ±ÛŒ20.0262:3037A¤p=
-×##ÀHÎ¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/36078.png
-¦
-
-1404/07/1914:06æ¨Ç"GoPlus Security*Ú¯ÙˆÙ¾Ù„Ø§Ø³ Ø³Ú©ÛŒÙˆØ±ÛŒØªÛŒ20.008881:1031Aq=
-×£@ÀH–Ò™R=https://s2.coinmarketcap.com/static/img/coins/64x64/35268.png
-
-
-1404/07/1914:05Ôå¨Ç"XPLA*Ø§ÛŒÚ©Ø³â€ŒÙ¾Ù„Ø§20.0280:3251A{®Gáú$ÀH‹R=https://s2.coinmarketcap.com/static/img/coins/64x64/22359.png
-‘
-
-1404/07/1914:06æ¨Ç"Suilend*Ø³ÙˆÛŒÛŒâ€ŒÙ„Ù†Ø¯20.4096:47529Aš™™™™Y6ÀHÿœR=https://s2.coinmarketcap.com/static/img/coins/64x64/34611.png
-–
-
-1404/07/1914:06æ¨Ç"ThunderCore*ØªØ§Ù†Ø¯Ø±Ú©ÙˆØ±20.001824:211.62A…ëQ¸+ÀHšˆŠR<https://s2.coinmarketcap.com/static/img/coins/64x64/3930.png
-–
-
-1404/07/1914:06æ¨Ç"Dusk Network*Ø¯Ø§Ø³Ú© Ù†ØªÙˆØ±Ú©20.0478:5549A…ëQ¸>@ÀHÆº‰R<https://s2.coinmarketcap.com/static/img/coins/64x64/4092.png
-£
-
-1404/07/1914:05Ôå¨Ç"
-district0x*"Ø¯ÛŒØ³ØªØ±ÛŒÚ©Øª Ø²ÛŒØ±Ùˆ Ø§ÛŒÚ©Ø³20.0231:2686A333333ÀH¼Ê„R<https://s2.coinmarketcap.com/static/img/coins/64x64/1856.png
-
-
-1404/07/1914:05Ôå¨Ç"Ancient8*Ø§Ù†Ø´Ù†Øª Û¸20.0621:7203Aö(\Âõ8ÀHĞÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/18734.png
-…
-
-1404/07/1914:05Ôå¨Ç"Yala*ÛŒØ§Ù„Ø§20.0937:10876A     €1ÀHÜ–R=https://s2.coinmarketcap.com/static/img/coins/64x64/35877.png
-±
-
-1404/07/1914:06æ¨Ç"Phoenix Global (new)*$ÙÙˆÙ†ÛŒÚ©Ø³ Ú¯Ù„ÙˆØ¨Ø§Ù„ (Ø¬Ø¯ÛŒØ¯)20.3884:45072A®GázÎ@ÀH¦«û
-R=https://s2.coinmarketcap.com/static/img/coins/64x64/13969.png
-¤
-
-1404/07/1914:05Ôå¨Ç"!Superp (Formerly Vanilla Finance)*
-Ø³ÙˆÙ¾Ø±Ù¾20.1108:12862Aáz®Ga!ÀHòİê
-R=https://s2.coinmarketcap.com/static/img/coins/64x64/36275.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Lumia*
-Ù„ÙˆÙ…ÛŒØ§20.1701:19736A®Gáz®AÀH’İ
-R=https://s2.coinmarketcap.com/static/img/coins/64x64/33439.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Tagger*ØªÚ¯Ø±20.000207:24.02Aáz®GEÀH÷¢Ù
-R=https://s2.coinmarketcap.com/static/img/coins/64x64/34958.png
+1404/07/1914:20Øì¨Ç"PepeCoin Cryptocurrency**Ù¾Ù¾Ù‡â€ŒÚ©ÙˆÛŒÙ† Ú©Ø±ÛŒÙ¾ØªÙˆÚ©Ø§Ø±Ù†Ø³ÛŒ20.3264:37813AÃõ(\ÂÀHÎÚÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/24835.png
 §
 
-1404/07/1914:05Ôå¨Ç"Bitcoin Diamond* Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ø¯Ø§ÛŒÙ…ÙˆÙ†Ø¯20.1202:13954Aš™™™™™ ÀHİÏØ
+1404/07/1914:20Øì¨Ç"Gearbox Protocol*Ú¯ÛŒØ±Ø¨Ø§Ú©Ø³ Ù¾Ø±ÙˆØªÚ©Ù„20.003493:404.71A)\Âõ(%ÀHˆ”ÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/16360.png
+
+
+1404/07/1914:19œì¨Ç"Burnedfi*Ø¨Ø±Ù†Ø¯ÙØ§ÛŒ22.81:325056A      ÀH¯åÒR=https://s2.coinmarketcap.com/static/img/coins/64x64/30460.png
+˜
+
+1404/07/1914:20Øì¨Ç"
+Uquid Coin*ÛŒÙˆÚ©ÙˆÛŒÛŒØ¯ Ú©ÙˆÛŒÙ†23.48:403201AÍÌÌÌÌÌÀHã˜ÌR<https://s2.coinmarketcap.com/static/img/coins/64x64/2273.png
+
+
+1404/07/1914:20Øì¨Ç"	Everscale*Ø§ÙˆØ±Ø³Ú©ÛŒÙ„20.0175:2025A×£p=
+×"ÀHäÑÆR<https://s2.coinmarketcap.com/static/img/coins/64x64/7505.png
+¡
+
+1404/07/1914:20Øì¨Ç"Sleepless AI*Ø§Ø³Ù„ÛŒÙ¾â€ŒÙ„Ø³ Ø§ÛŒâ€ŒØ¢ÛŒ20.0830:9610AHáz®'@ÀHí†ÄR=https://s2.coinmarketcap.com/static/img/coins/64x64/28846.png
+
+
+1404/07/1914:20Øì¨Ç"Dolomite*Ø¯ÙˆÙ„ÙˆÙ…ÛŒØª20.0779:9025A…ëQ¸Å:ÀHúÚ³R=https://s2.coinmarketcap.com/static/img/coins/64x64/35929.png
+–
+
+1404/07/1914:20Øì¨Ç"Lumera Health*Ù„ÙˆÙ…Ø±Ø§ Ù‡Ù„Ø«23.00:347159A×£p=
+×Ó?Hÿ„¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/36804.png
+‹
+
+1404/07/1914:19œì¨Ç"AKEDO*
+Ø¢Ú©ÛŒØ¯Ùˆ20.001497:173.41AÍÌÌÌÌL%ÀH‘Í¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/38127.png
+‡
+
+1404/07/1914:19œì¨Ç"Ponke*
+Ù¾ÙˆÙ†Ú©Ù‡20.0612:7088AÍÌÌÌÌL;ÀHôÇšR=https://s2.coinmarketcap.com/static/img/coins/64x64/29150.png
+‹
+
+1404/07/1914:19œì¨Ç"Scroll*Ø§Ø³Ú©Ø±ÙˆÙ„20.1782:20643Aö(\Âõ@ÀHö¥’R=https://s2.coinmarketcap.com/static/img/coins/64x64/26998.png
+¢
+
+1404/07/1914:19œì¨Ç"Naoris Protocol*Ù†Ø§Ø¦ÙˆØ±ÛŒØ³ Ù¾Ø±ÙˆØªÚ©Ù„20.0563:6522A×£p=
+·@ÀH¨•‹R=https://s2.coinmarketcap.com/static/img/coins/64x64/35114.png
+‹
+
+1404/07/1914:19œì¨Ç"Symbol*
+Ø³ÛŒÙ…Ø¨Ù„20.005419:627.83AR¸…ëQÀHÒ›ˆR<https://s2.coinmarketcap.com/static/img/coins/64x64/8677.png
+”
+
+1404/07/1914:20Øì¨Ç"Quack AI*Ú©ÙˆÙÚ© Ø§ÛŒâ€ŒØ¢ÛŒ20.0208:2413AHáz®5ÀH§©†R=https://s2.coinmarketcap.com/static/img/coins/64x64/38236.png
+‹
+
+1404/07/1914:19œì¨Ç"Radix*
+Ø±Ø¯ÛŒÚ©Ø³20.002832:328.05Affffff7ÀHªŠ‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/11948.png
+¬
+
+1404/07/1914:19œì¨Ç"Vulcan Forged PYR*#ÙˆÙ„Ú©Ø§Ù† ÙÙˆØ±Ø¬Ø¯ Ù¾Ø§ÛŒâ€ŒØ¢Ø±20.7535:87299AHáz®Ç4ÀH‹ãúR<https://s2.coinmarketcap.com/static/img/coins/64x64/9308.png
+“
+
+1404/07/1914:19œì¨Ç"
+Ampleforth*Ø§Ù…Ù¾Ù„ÙÙˆØ±Ø«21.1817:136900Aáz®Gáò?H™ ÷R<https://s2.coinmarketcap.com/static/img/coins/64x64/4056.png
+ 
+
+1404/07/1914:19œì¨Ç"inSure DeFi*Ø§ÛŒÙ†â€ŒØ´ÙˆØ± Ø¯ÛŒÙØ§ÛŒ20.001244:144.07Aö(\Âõ?@Hµ°ñR<https://s2.coinmarketcap.com/static/img/coins/64x64/5113.png
+•
+
+1404/07/1914:19œì¨Ç"Quai Network*Ú©ÙˆÛŒ Ù†ØªÙˆØ±Ú©20.0423:4901A{®Gáú$ÀHĞ–äR=https://s2.coinmarketcap.com/static/img/coins/64x64/22354.png
+
+
+1404/07/1914:19œì¨Ç"Solv Protocol*Ø³ÙˆÙ„â€ŒÙˆ Ù¾Ø±ÙˆØªÚ©Ù„20.0223:2586AR¸…ëñFÀHîãR=https://s2.coinmarketcap.com/static/img/coins/64x64/12165.png
+¾
+
+1404/07/1914:19œì¨Ç"Tesla tokenized stock (xStock)*$ØªØ³Ù„Ø§ ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2408.52:47328349A®Gáz®ÀHªÏãR=https://s2.coinmarketcap.com/static/img/coins/64x64/37004.png
+–
+
+1404/07/1914:19œì¨Ç"DarkStar*Ø¯Ø§Ø±Ú©â€ŒØ§Ø³ØªØ§Ø±20.1128:13065A)\Âõ(&ÀH…ŒãR=https://s2.coinmarketcap.com/static/img/coins/64x64/37566.png
+·
+
+1404/07/1914:19œì¨Ç"Impossible Cloud Network*&Ù†ØªÙˆØ±Ú© Ú©Ù„ÙˆØ¯ Ø§ÛŒÙ…Ù¾Ø§Ø³ÛŒØ¨Ù„20.1975:22881A33333s3ÀHæìßR=https://s2.coinmarketcap.com/static/img/coins/64x64/37070.png
+„
+
+1404/07/1914:19œì¨Ç"Thena*Ø«Ù†Ø§20.2909:33697AR¸…ë‘>ÀHó¢ØR=https://s2.coinmarketcap.com/static/img/coins/64x64/23335.png
+‡
+
+1404/07/1914:19œì¨Ç"SLERF*
+Ø§Ø³Ù„Ø±Ù20.0657:7615A=
+×£p=1ÀH¥úÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/29920.png
+“
+
+1404/07/1914:19œì¨Ç"SmarDex*Ø§Ø³Ù…Ø§Ø±Ø¯Ú©Ø³20.003514:407.12A…ëQ¸….ÀHÄÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/24203.png
+
+
+1404/07/1914:20Øì¨Ç"Initia*Ø§ÛŒÙ†ÛŒØ´ÛŒØ§20.1955:22650AÂõ(\OCÀHŒÕÈR=https://s2.coinmarketcap.com/static/img/coins/64x64/33120.png
+“
+
+1404/07/1914:19œì¨Ç"	Wayfinder*ÙˆÛŒ ÙØ§ÛŒÙ†Ø¯Ø±20.0897:10386A33333“@ÀH¤²ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/36223.png
+
+
+1404/07/1914:19œì¨Ç"Hashflow*Ù‡Ø´â€ŒÙÙ„Ùˆ20.0533:6169A®Gáz<ÀH”ô¼R=https://s2.coinmarketcap.com/static/img/coins/64x64/22461.png
+™
+
+1404/07/1914:19œì¨Ç"
+Braintrust*Ø¨Ø±ÛŒÙ†â€ŒØªØ± Ø§Ø³Øª20.1342:15550AÍÌÌÌÌ1ÀH´™¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/11584.png
+‡
+
+1404/07/1914:20Øì¨Ç"Avail*Ø§ÙˆÛŒÙ„20.009196:1065A=
+×£p½8ÀHÔ¾¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/32376.png
+¬
+
+1404/07/1914:19œì¨Ç"Baby Shark Universe* Ø¨ÛŒØ¨ÛŒ Ø´Ø§Ø±Ú© ÛŒÙˆÙ†ÛŒÙˆØ±Ø³20.1926:22308Aq=
+×£p,ÀH›º¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/37672.png
+’
+
+1404/07/1914:19œì¨Ç"
+Law Blocks*Ù„Ø§ Ø¨Ù„Ø§Ú©Ø³20.1301:15071Aáz®GáÊ¿HÕ ™R=https://s2.coinmarketcap.com/static/img/coins/64x64/20964.png
+¤
+
+1404/07/1914:19œì¨Ç"Velodrome Finance*ÙˆÙ„ÙˆØ¯Ø±ÙˆÙ… ÙØ§ÛŒÙ†Ù†Ø³20.0348:4033A)\Âõè6ÀH»Æ˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/20435.png
+‹
+
+1404/07/1914:19œì¨Ç"Zircuit*Ø²ÛŒØ±Ú©ÛŒØª20.0145:1677AìQ¸…ë<ÀH—§“R=https://s2.coinmarketcap.com/static/img/coins/64x64/29711.png
+˜
+
+1404/07/1914:19œì¨Ç"Ice Network*Ø¢ÛŒØ³ Ù†ØªÙˆØ±Ú©20.004791:555.05A¸…ëQ¸?HŒµR=https://s2.coinmarketcap.com/static/img/coins/64x64/27650.png
+‹
+
+1404/07/1914:19œì¨Ç"Neutron*Ù†ÙˆØªØ±ÙˆÙ†20.0519:6018A®GázAÀHÌ¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/26680.png
+Œ
+
+1404/07/1914:20Øì¨Ç"Tutorial*Ø¢Ù…ÙˆØ²Ø´ÛŒ20.0377:4363A…ëQ¸…LÀHŞø„R=https://s2.coinmarketcap.com/static/img/coins/64x64/35892.png
+‘
+
+1404/07/1914:19œì¨Ç"UNIPOLY*ÛŒÙˆÙ†ÛŒâ€ŒÙ¾Ù„ÛŒ20.1424:16494A
+×£p=Ê2ÀHÖüğR=https://s2.coinmarketcap.com/static/img/coins/64x64/28735.png
+
+
+1404/07/1914:20Øì¨Ç"Oasys*Ø§ÙˆØ¦ÛŒØ³ÛŒØ³20.006198:718.06AÃõ(\B5ÀH£æR=https://s2.coinmarketcap.com/static/img/coins/64x64/22265.png
+Ÿ
+
+1404/07/1914:20Øì¨Ç"MyNeighborAlice*Ù…Ø§ÛŒ Ù†ÛŒØ¨Ø± Ø¢Ù„ÛŒØ³20.3101:35922A…ëQ¸=ÀHĞËàR<https://s2.coinmarketcap.com/static/img/coins/64x64/8766.png
+—
+
+1404/07/1914:20Øì¨Ç"	MovieBloc*Ù…ÙˆÙˆÛŒâ€ŒØ¨Ù„Ø§Ú©20.001636:189.55A×£p=
+×2ÀHŞ–ÔR<https://s2.coinmarketcap.com/static/img/coins/64x64/4038.png
+“
+
+1404/07/1914:19œì¨Ç"	PolySwarm*Ù¾Ù„ÛŒâ€ŒØ³ÙˆØ§Ø±Ù…20.0163:1888A\Âõ(œ2ÀH‘ÏÓR<https://s2.coinmarketcap.com/static/img/coins/64x64/2630.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"Newton Protocol*Ù¾Ø±ÙˆØªÚ©Ù„ Ù†ÛŒÙˆØªÙ†20.1427:16529A…ëQ¸:ÀH“šĞR=https://s2.coinmarketcap.com/static/img/coins/64x64/36861.png
+ˆ
+
+1404/07/1914:19œì¨Ç"USD CoinVertible21.0000:115852A{®Gáz„¿H©ŞÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/37180.png
+‘
+
+1404/07/1914:19œì¨Ç"PinLink*Ù¾ÛŒÙ†â€ŒÙ„ÛŒÙ†Ú©20.3440:39848A
+×£p=
+/ÀH×ß»R=https://s2.coinmarketcap.com/static/img/coins/64x64/34017.png
+¨
+
+1404/07/1914:19œì¨Ç"Banana For Scale*Ø¨Ù†Ø§Ù†Ø§ ÙÙˆØ± Ø§Ø³Ú©ÛŒÙ„20.003015:349.26A®GázÎEÀHáÿ¯R=https://s2.coinmarketcap.com/static/img/coins/64x64/34118.png
+‰
+
+1404/07/1914:20Øì¨Ç"Solend*
+Ø³ÙˆÙ„Ù†Ø¯20.3020:34990A×£p=
+×÷?Hç¡­R=https://s2.coinmarketcap.com/static/img/coins/64x64/13524.png
+”
+
+1404/07/1914:19œì¨Ç"	Autonolas*Ø§ÙˆØªÙˆÙ†ÙˆÙ„Ø§Ø³20.1668:19322A)\Âõ¨!ÀHõĞªR=https://s2.coinmarketcap.com/static/img/coins/64x64/28458.png
+¡
+
+1404/07/1914:20Øì¨Ç"Origin Protocol*Ø§ÙˆØ±ÛŒØ¬ÛŒÙ† Ù¾Ø±ÙˆØªÚ©Ù„20.0458:5301A33333³6ÀH»ş¦R<https://s2.coinmarketcap.com/static/img/coins/64x64/5117.png
+§
+
+1404/07/1914:19œì¨Ç"Polyhedra Network*Ù¾ÙˆÙ„ÛŒâ€ŒÙ‡Ø¯Ø±Ø§ Ù†ØªÙˆØ±Ú©20.0843:9761A\Âõ(<AÀHÖÑšR=https://s2.coinmarketcap.com/static/img/coins/64x64/29779.png
+
+
+1404/07/1914:19œì¨Ç"OHO*Ø§Ùˆ Ø§Ú† Ø§Ùˆ20.001233:142.81AÍÌÌÌÌÌÀHœ‰—R=https://s2.coinmarketcap.com/static/img/coins/64x64/22264.png
+¥
+
+1404/07/1914:20Øì¨Ç"Infinity Ground*Ø§ÛŒÙ†ÙÛŒÙ†ÛŒØªÛŒ Ú¯Ø±Ø§Ù†Ø¯20.1337:15493A…ëQ¸…(ÀH›R=https://s2.coinmarketcap.com/static/img/coins/64x64/36770.png
+º
+
+1404/07/1914:19œì¨Ç"Ampleforth Governance Token*(Ø§Ù…Ù¾Ù„ÙÙˆØ±Ø« Ú¯Ø§ÙˆØ±Ù†Ù†Ø³ ØªÙˆÚ©Ù†22.05:237615A33333ó7ÀHÖÉƒR<https://s2.coinmarketcap.com/static/img/coins/64x64/9421.png
+’
+
+1404/07/1914:19œì¨Ç"	Ethernity*Ø§ØªÛŒØ±Ù†ÛŒØªÛŒ20.9788:113392A)\ÂõhAÀHÔ”€R<https://s2.coinmarketcap.com/static/img/coins/64x64/8615.png
+¨
+
+1404/07/1914:20Øì¨Ç"WalletConnect Token*ÙˆÙ„Øªâ€ŒÚ©Ø§Ù†Ú©Øª ØªÙˆÚ©Ù†20.1576:18263Aö(\Â5BÀHıÉÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/33152.png
+¢
+
+1404/07/1914:19œì¨Ç"Torch of Liberty*ØªÙˆØ±Ú† Ø¢Ùˆ Ù„ÛŒØ¨Ø±ØªÛŒ20.0292:3382A      *ÀH­ëõR=https://s2.coinmarketcap.com/static/img/coins/64x64/36803.png
+Œ
+
+1404/07/1914:19œì¨Ç"Adshares*Ø§Ø¯Ø´ÛŒØ±Ø²20.7532:87262A=
+×£p=ÀHÜ‡õR<https://s2.coinmarketcap.com/static/img/coins/64x64/1883.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Mythos*
+Ù…ÛŒØªÙˆØ³20.0339:3922A\Âõ(Ü4ÀH†±èR=https://s2.coinmarketcap.com/static/img/coins/64x64/22125.png
+
+
+1404/07/1914:20Øì¨Ç"Xphere*Ø§ÛŒÚ©Ø³â€ŒÙÛŒØ±20.0134:1556Aq=
+×£pÀHº©çR=https://s2.coinmarketcap.com/static/img/coins/64x64/36056.png
+
+
+1404/07/1914:19œì¨Ç"	SuperRare*Ø³ÙˆÙ¾Ø± Ø±ÙØ±20.0351:4068A      =ÀH±‚çR=https://s2.coinmarketcap.com/static/img/coins/64x64/11294.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Tensor*
+ØªÙ†Ø³ÙˆØ±20.0702:8136A×£p=
+W=ÀHĞ°ßR=https://s2.coinmarketcap.com/static/img/coins/64x64/30449.png
+‘
+
+1404/07/1914:19œì¨Ç"MOMOFUN*Ù…ÙˆÙ…ÙˆÙØ§Ù†20.003684:426.75A…ëQ¸!ÀHåĞÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/37572.png
+š
+
+1404/07/1914:20Øì¨Ç"
+NAVX Token*Ù†Ø§Ùˆâ€ŒØ§Ú©Ø³ ØªÙˆÚ©Ù†20.0395:4577A¸…ëQ¸8ÀHŒ¶ÇR=https://s2.coinmarketcap.com/static/img/coins/64x64/29296.png
+ˆ
+
+1404/07/1914:20Øì¨Ç"Derive*
+Ø¯Ø±Ø§ÛŒÙˆ20.0384:4445A=
+×£p=ê¿H×¥¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/35014.png
+
+
+1404/07/1914:20Øì¨Ç"Minswap*Ù…ÛŒÙ†â€ŒØ³ÙˆØ§Ù¾20.0160:1858Aš™™™™1ÀHÉ‡¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/12787.png
+š
+
+1404/07/1914:19œì¨Ç"Ski Mask Dog*Ø§Ø³Ú©ÛŒ Ù…Ø³Ú© Ø¯Ø§Ú¯20.0285:3297AffffffÀH˜¾¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/31173.png
+
+
+1404/07/1914:19œì¨Ç"MARBLEX*Ù…Ø§Ø±Ø¨Ù„Ú©Ø³20.1070:12398Aq=
+×£°0ÀH£›šR=https://s2.coinmarketcap.com/static/img/coins/64x64/18895.png
+œ
+
+1404/07/1914:19œì¨Ç"Hamster Kombat*Ù‡Ù…Ø³ØªØ± Ú©Ù…Ø¨Øª20.000430:49.81Aq=
+×£0?ÀHş–™R=https://s2.coinmarketcap.com/static/img/coins/64x64/32195.png
+
+
+1404/07/1914:19œì¨Ç"Fartboy*ÙØ§Ø±Øªâ€ŒØ¨ÙˆÛŒ20.0275:3190Afffff¦5ÀHÕ·R=https://s2.coinmarketcap.com/static/img/coins/64x64/35426.png
+
+
+1404/07/1914:19œì¨Ç"OLAXBT*Ø§ÙˆÙ„â€ŒØ§ÛŒÚ©Ø³â€ŒØ¨ÛŒâ€ŒØªÛŒ20.1194:13838A
+×£p=Š%ÀHûÌR=https://s2.coinmarketcap.com/static/img/coins/64x64/37562.png
+­
+
+1404/07/1914:19œì¨Ç"Electronic USD*%Ø§Ù„Ú©ØªØ±ÙˆÙ†ÛŒÚ© ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.9999:115846A¸…ëQ¸®¿Hó…R=https://s2.coinmarketcap.com/static/img/coins/64x64/22933.png
+”
+
+1404/07/1914:19œì¨Ç"Pepecoin*Ù¾Ù¾Ù‡â€ŒÚ©ÙˆÛŒÙ†20.000275:31.89A=
+×£p=ÀHÇìR=https://s2.coinmarketcap.com/static/img/coins/64x64/31806.png
+¢
+
+1404/07/1914:19œì¨Ç"Maverick Protocol*Ù…Ø§ÙˆØ±ÛŒÚ© Ù¾Ø±ÙˆØªÚ©Ù„20.0364:4222A     @;ÀHšR=https://s2.coinmarketcap.com/static/img/coins/64x64/18037.png
+ƒ
+
+1404/07/1914:19œì¨Ç"Firo*ÙÛŒØ±21.5341:177733Aö(\Âu%@HÕ‘ƒR<https://s2.coinmarketcap.com/static/img/coins/64x64/1414.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"Access Protocol*Ø§Ú©Ø³Ø³ Ù¾Ø±ÙˆØªÚ©Ù„20.000623:72.19Aáz®Ga2ÀHèğ‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/23195.png
+‡
+
+1404/07/1914:19œì¨Ç"Young*ÛŒØ§Ù†Ú¯21.0081:116789AR¸…ëQà?HÆ¢ıR=https://s2.coinmarketcap.com/static/img/coins/64x64/37393.png
+‘
+
+1404/07/1914:20Øì¨Ç"Landwolf*Ù„Ù†Ø¯ ÙˆÙ„Ù2
+0.00003014:3.49Aq=
+×£p+ÀHğ®ûR=https://s2.coinmarketcap.com/static/img/coins/64x64/30902.png
+‘
+
+1404/07/1914:20Øì¨Ç"	Treehouse*ØªØ±ÛŒ Ù‡Ø§ÙˆØ³20.1734:20090Aö(\Âu:ÀH¼¹ôR=https://s2.coinmarketcap.com/static/img/coins/64x64/37495.png
+‰
+
+1404/07/1914:19œì¨Ç"Sapien*
+Ø³Ø§Ù¾ÛŒÙ†20.1081:12523AÂõ(\O6ÀHı°ñR=https://s2.coinmarketcap.com/static/img/coins/64x64/38117.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"Bone ShibaSwap*Ø¨ÙˆÙ† Ø´ÛŒØ¨Ø§ Ø³ÙˆØ§Ù¾20.1172:13581Aáz®Gá*ÀH•ŒíR=https://s2.coinmarketcap.com/static/img/coins/64x64/11865.png
+£
+
+1404/07/1914:20Øì¨Ç"Automata Network*Ø§ÙˆØªÙˆÙ…Ø§ØªØ§ Ù†ØªÙˆØ±Ú©20.0300:3473Aš™™™™Y;ÀHºâéR=https://s2.coinmarketcap.com/static/img/coins/64x64/10188.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"Helium Mobile*Ù‡Ù„ÛŒÙˆÙ… Ù…ÙˆØ¨Ø§ÛŒÙ„20.000301:34.84Afffffæ,ÀHÚæR=https://s2.coinmarketcap.com/static/img/coins/64x64/24600.png
+
+
+1404/07/1914:19œì¨Ç"OpenEden20.1455:16854A¸…ëQ8CÀH—ÕàR=https://s2.coinmarketcap.com/static/img/coins/64x64/38513.png
+
+
+1404/07/1914:19œì¨Ç"Wirex Token*ÙˆØ§ÛŒØ±ÛŒÚ©Ø³ ØªÙˆÚ©Ù†20.002675:309.89Affffffú¿HåÎàR<https://s2.coinmarketcap.com/static/img/coins/64x64/4090.png
+“
+
+1404/07/1914:19œì¨Ç"tokenbot*ØªÙˆÚ©Ù†â€ŒØ¨Ø§Øª226.70:3093785A…ëQ¸#ÀH“ôİR=https://s2.coinmarketcap.com/static/img/coins/64x64/34285.png
+z
+
+1404/07/1914:19œì¨Ç"Palu20.0267:3089Aáz®GA@ÀH°§ÛR=https://s2.coinmarketcap.com/static/img/coins/64x64/38594.png
+”
+
+1404/07/1914:19œì¨Ç"BugsCoin*Ø¨Ø§Ú¯Ø²Ú©ÙˆÛŒÙ†20.002296:266.00Aq=
+×£0@ÀH³¾ÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/34830.png
+ƒ
+
+1404/07/1914:20Øì¨Ç"Swarm Network20.0127:1472A\Âõ(\!ÀHáêĞR=https://s2.coinmarketcap.com/static/img/coins/64x64/38178.png
+
+
+1404/07/1914:19œì¨Ç"Namecoin*Ù†ÛŒÙ…â€ŒÚ©ÙˆÛŒÙ†21.7871:207042A®Gáz®ÀHÛ²ÇR9https://s2.coinmarketcap.com/static/img/coins/64x64/3.png
+
+
+1404/07/1914:19œì¨Ç"Bitcoin Gold*Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ú¯Ù„Ø¯21.5014:173942A\Âõ(Ü!ÀHÜùÄR<https://s2.coinmarketcap.com/static/img/coins/64x64/2083.png
+¡
+
+1404/07/1914:19œì¨Ç"Just a chill guy*Ø¬Ø§Ø³Øª Ø§ Ú†ÛŒÙ„ Ú¯Ø§ÛŒ20.0263:3042A=
+×£p]BÀHğàÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/34125.png
+£
+
+1404/07/1914:20Øì¨Ç"CZ'S Dog (broccoli.gg)*Ø³ÛŒâ€ŒØ²Ø¯'Ø² Ø¯Ø§Ú¯20.0270:3126A
+×£p=Ê9ÀHˆ¹ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/35749.png
+“
+
+1404/07/1914:20Øì¨Ç"AriaAI*Ø¢Ø±ÛŒØ§ Ø§ÛŒâ€ŒØ¢ÛŒ20.1198:13882Aö(\Âu-ÀH²í¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/38102.png
+¡
+
+1404/07/1914:19œì¨Ç"Energy Web Token*Ø§Ù†Ø±Ú˜ÛŒ ÙˆØ¨ ØªÙˆÚ©Ù†20.8680:100561A{®Gáú#ÀH‡Ô¸R<https://s2.coinmarketcap.com/static/img/coins/64x64/5268.png
+
+
+1404/07/1914:19œì¨Ç"DEXTools*Ø¯Ú©Ø³ ØªÙˆÙ„Ø²20.3717:43064A=
+×£pı1ÀH‡º´R<https://s2.coinmarketcap.com/static/img/coins/64x64/5866.png
+‰
+
+1404/07/1914:19œì¨Ç"Radicle*
+Ø±Ø¯ÛŒÚ©Ù„20.5023:58196A®Gáz4ÀH¦­R<https://s2.coinmarketcap.com/static/img/coins/64x64/6843.png
+
+
+1404/07/1914:20Øì¨Ç"Metadium*Ù…ØªØ§Ø¯ÛŒÙˆÙ…20.0150:1742A{®Gáz!ÀHĞ™«R<https://s2.coinmarketcap.com/static/img/coins/64x64/3418.png
+‡
+
+1404/07/1914:19œì¨Ç"Kleros*
+Ú©Ù„Ø±ÙˆØ³20.0320:3709AR¸…ëQÀH¾Á¥R<https://s2.coinmarketcap.com/static/img/coins/64x64/3581.png
+„
+
+1404/07/1914:19œì¨Ç"OORT*Ø§ÙˆØ±Øª20.0419:4857Affffff#ÀHÃØ R=https://s2.coinmarketcap.com/static/img/coins/64x64/29331.png
+Œ
+
+1404/07/1914:19œì¨Ç"MyShell*Ù…Ø§ÛŒâ€ŒØ´Ù„20.0836:9682A     `@ÀHŒŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/35710.png
+
+
+1404/07/1914:19œì¨Ç"Arena-Z*Ø¢Ø±Ù†Ø§ Ø²Ø¯20.003508:406.47Aáz®GaDÀH˜Ó…R=https://s2.coinmarketcap.com/static/img/coins/64x64/37357.png
+
+
+1404/07/1914:19œì¨Ç"Isiklar Coin*Ø§ÛŒØ³ÛŒÚ©Ù„Ø§Ø± Ú©ÙˆÛŒÙ†20.2519:29183A{®Gáz”¿HŒ»R<https://s2.coinmarketcap.com/static/img/coins/64x64/5468.png
+Š
+
+1404/07/1914:20Øì¨Ç"TrueFi*ØªØ±Ùˆ ÙØ§ÛŒ20.0189:2186A{®Gá@ÀHˆßúR<https://s2.coinmarketcap.com/static/img/coins/64x64/7725.png
+…
+
+1404/07/1914:20Øì¨Ç"XION*Ø²ÛŒÙˆÙ†20.5893:68277A…ëQ¸;ÀH«õR=https://s2.coinmarketcap.com/static/img/coins/64x64/32089.png
+‰
+
+1404/07/1914:19œì¨Ç"Mubarak*
+Ù…Ø¨Ø§Ø±Ú©20.0249:2890Affffff<ÀHçÄòR=https://s2.coinmarketcap.com/static/img/coins/64x64/36041.png
+˜
+
+1404/07/1914:19œì¨Ç"
+Highstreet*Ù‡Ø§ÛŒâ€ŒØ§Ø³ØªØ±ÛŒØª20.3207:37157AR¸…ëÑ>ÀH©òîR=https://s2.coinmarketcap.com/static/img/coins/64x64/11232.png
+¢
+
+1404/07/1914:19œì¨Ç"Radiant Capital*Ø±Ø§Ø¯ÛŒØ§Ù†Øª Ú©Ù¾ÛŒØªØ§Ù„20.0192:2223A¸…ëQ8-ÀHŞ„éR=https://s2.coinmarketcap.com/static/img/coins/64x64/21106.png
+’
+
+1404/07/1914:19œì¨Ç"	Fusionist*ÙÛŒÙˆÚ˜Ù†ÛŒØ³Øª20.3172:36750A\Âõ(\@ÀHİšçR=https://s2.coinmarketcap.com/static/img/coins/64x64/28674.png
+„
+
+1404/07/1914:19œì¨Ç"HUNT*Ù‡Ø§Ù†Øª20.1959:22695A{®Gáú#ÀHçÂäR<https://s2.coinmarketcap.com/static/img/coins/64x64/5380.png
+Š
+
+1404/07/1914:19œì¨Ç"Bluefin*Ø¨Ù„ÙˆÙÛŒÙ†20.0748:8665A¸…ëQ¸/ÀH€ƒãR<https://s2.coinmarketcap.com/static/img/coins/64x64/8724.png
+‰
+
+1404/07/1914:19œì¨Ç"Catizen*
+Ú©ØªÛŒØ²Ù†20.0702:8136A®Gáz0ÀH¸¢âR=https://s2.coinmarketcap.com/static/img/coins/64x64/32966.png
+’
+
+1404/07/1914:19œì¨Ç"	MORI COIN*Ù…ÙˆØ±ÛŒ Ú©ÙˆÛŒÙ†20.0308:3571A¤p=
+×£$ÀHÙ†áR=https://s2.coinmarketcap.com/static/img/coins/64x64/36959.png
+“
+
+1404/07/1914:19œì¨Ç"
+Toko Token*ØªÙˆÚ©Ùˆ ØªÙˆÚ©Ù†20.1457:16883AÂõ(\7ÀHÕÿàR<https://s2.coinmarketcap.com/static/img/coins/64x64/9020.png
+~
+
+1404/07/1914:19œì¨Ç"zkVerify20.0797:9237Aáz®G¡BÀHºˆÚR=https://s2.coinmarketcap.com/static/img/coins/64x64/38436.png
+‡
+
+1404/07/1914:19œì¨Ç"Oobit*
+Ø§ÙˆØ¨ÛŒØª20.0244:2827A\Âõ(\@H‚´ÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/13914.png
+‚
+
+1404/07/1914:20Øì¨Ç"Acet*Ø§Ø³Øª20.0194:2245AHáz®Gé¿H©óÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/11706.png
+š
+
+1404/07/1914:19œì¨Ç"Ark of Panda*Ø¢Ø±Ú© Ø¢Ùˆ Ù¾Ø§Ù†Ø¯Ø§20.0812:9404AìQ¸…ëá¿H·¥ÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/38433.png
+
+
+1404/07/1914:19œì¨Ç"NATIX Network*Ù†ØªÛŒÚ©Ø³ Ù†ØªÙˆØ±Ú©20.000599:69.42A¤p=
+×£$ÀH‡öÌR=https://s2.coinmarketcap.com/static/img/coins/64x64/31342.png
+‹
+
+1404/07/1914:19œì¨Ç"MESSIER*Ù…Ø³ÛŒÙ‡2
+0.00002741:3.18Aáz®Ga1ÀHï£ÈR=https://s2.coinmarketcap.com/static/img/coins/64x64/20561.png
+
+
+1404/07/1914:19œì¨Ç"Travala.com*ØªØ±Ø§ÙˆÙ„Ø§ Ø¯Ø§Øª Ú©Ø§Ù…20.3456:40043A)\Âõ(?ÀHŸÑÃR<https://s2.coinmarketcap.com/static/img/coins/64x64/2776.png
+–
+
+1404/07/1914:19œì¨Ç"IX Swap*Ø¢ÛŒâ€ŒØ§Ú©Ø³ Ø³ÙˆØ§Ù¾20.1343:15554A\Âõ(\ÀH«ƒÃR=https://s2.coinmarketcap.com/static/img/coins/64x64/11620.png
+‡
+
+1404/07/1914:19œì¨Ç"Towns*
+ØªØ§ÙˆÙ†Ø²20.0114:1323A{®GášAÀHÓï½R=https://s2.coinmarketcap.com/static/img/coins/64x64/37571.png
+
+
+1404/07/1914:19œì¨Ç"RSS3*Ø¢Ø±Ø§Ø³â€ŒØ§Ø³ Û³20.0280:3245A=
+×£p=:ÀHœè½R=https://s2.coinmarketcap.com/static/img/coins/64x64/17917.png
+„
+
+1404/07/1914:19œì¨Ç"Hegic*Ù‡Ø¬ÛŒÚ©20.0340:3945AìQ¸…k(ÀH¨À¶R<https://s2.coinmarketcap.com/static/img/coins/64x64/6929.png
+¦
+
+1404/07/1914:19œì¨Ç"Haedal Protocol*Ù‡Ø§Ø¦Ù‡â€ŒØ¯Ø§Ù„ Ù¾Ø±ÙˆØªÚ©Ù„20.1002:11610A{®Gáú8ÀHî§´R=https://s2.coinmarketcap.com/static/img/coins/64x64/36369.png
+¢
+
+1404/07/1914:19œì¨Ç"Coq Inu*Ú©Ø§Ú© Ø§ÛŒÙ†Ùˆ20.0000003445934545720687:0.0399A)\Âõh7ÀHˆ´R=https://s2.coinmarketcap.com/static/img/coins/64x64/28675.png
+ˆ
+
+1404/07/1914:20Øì¨Ç"MOBOX*Ù…ÙˆØ¨Ø§Ú©Ø³20.0476:5520A×£p=
+W<ÀH±ò®R<https://s2.coinmarketcap.com/static/img/coins/64x64/9175.png
+–
+
+1404/07/1914:19œì¨Ç"tao.bot*ØªØ§Ø¦Ùˆ Ø¯Ø§Øª Ø¨Ø§Øª20.3109:36017Aq=
+×£p!@Hùà®R=https://s2.coinmarketcap.com/static/img/coins/64x64/34835.png
+Ú
+
+1404/07/1914:20Øì¨Ç"!SPDR S&P 500 Tokenized ETF (Ondo)*=ETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø§Ø³â€ŒÙ¾ÛŒâ€ŒØ¯ÛŒâ€ŒØ¢Ø± S&P 5002651.31:75456790Aáz®GáÀH’à­R=https://s2.coinmarketcap.com/static/img/coins/64x64/38067.png
+ƒ
+
+1404/07/1914:19œì¨Ç"DODO*Ø¯ÙˆØ¯Ùˆ20.0328:3798Aq=
+×£ğ>ÀH…¬R<https://s2.coinmarketcap.com/static/img/coins/64x64/7224.png
+¡
+
+1404/07/1914:19œì¨Ç"Inverse Finance*Ø§ÛŒÙ†ÙˆØ±Ø³ ÙØ§ÛŒÙ†Ù†Ø³233.57:3889560A®Gáz!ÀH¯÷ªR<https://s2.coinmarketcap.com/static/img/coins/64x64/8720.png
+˜
+
+1404/07/1914:19œì¨Ç"MAP Protocol*Ù…Ù¾ Ù¾Ø±ÙˆØªÚ©Ù„20.003915:453.52A¸…ëQ8&ÀHãÉ©R<https://s2.coinmarketcap.com/static/img/coins/64x64/4956.png
+“
+
+1404/07/1914:20Øì¨Ç"LimeWire*Ù„Ø§ÛŒÙ…â€ŒÙˆØ§ÛŒØ±20.0617:7145AÂõ(\*ÀHÈ¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/24476.png
+„
+
+1404/07/1914:19œì¨Ç"GUNZ*Ú¯Ø§Ù†Ø²20.0197:2282AÍÌÌÌÌ;ÀHöœ¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/36156.png
+
+
+1404/07/1914:20Øì¨Ç"
+ARPA Chain*Ø¢Ø±Ù¾Ø§ Ú†ÛŒÙ†20.0156:1808A®Gáz”:ÀHçº§R<https://s2.coinmarketcap.com/static/img/coins/64x64/4039.png
+„
+
+1404/07/1914:19œì¨Ç"Fwog*ÙÙˆØ§Ú¯20.0242:2807A\Âõ(Ü5ÀHÙâ¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/33291.png
+‹
+
+1404/07/1914:19œì¨Ç"Nosana*Ù†ÙˆØ³Ø§Ù†Ø§20.4884:56586A      ,ÀHìœR=https://s2.coinmarketcap.com/static/img/coins/64x64/16612.png
+¦
+
+1404/07/1914:20Øì¨Ç"GoPlus Security*Ú¯ÙˆÙ¾Ù„Ø§Ø³ Ø³Ú©ÛŒÙˆØ±ÛŒØªÛŒ20.008851:1025A
+×£p=J@ÀHåõ”R=https://s2.coinmarketcap.com/static/img/coins/64x64/35268.png
+‘
+
+1404/07/1914:20Øì¨Ç"McDull*Ù…Ú©â€ŒØ¯Ø§Ù„2
+0.00000310:0.3588A®GázÔ0ÀH¶ ”R=https://s2.coinmarketcap.com/static/img/coins/64x64/32866.png
+
+
+1404/07/1914:19œì¨Ç"XPLA*Ø§ÛŒÚ©Ø³â€ŒÙ¾Ù„Ø§20.0280:3247AÃõ(\Â$ÀH¡çR=https://s2.coinmarketcap.com/static/img/coins/64x64/22359.png
+
+
+1404/07/1914:19œì¨Ç"Mansory*Ù…Ø§Ù†Ø³ÙˆØ±ÛŒ20.0259:3004A=
+×£p½$ÀH‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/36078.png
+–
+
+1404/07/1914:20Øì¨Ç"ThunderCore*ØªØ§Ù†Ø¯Ø±Ú©ÙˆØ±20.001817:210.50A¤p=
+×£+ÀHÌõ„R<https://s2.coinmarketcap.com/static/img/coins/64x64/3930.png
+£
+
+1404/07/1914:19œì¨Ç"
+district0x*"Ø¯ÛŒØ³ØªØ±ÛŒÚ©Øª Ø²ÛŒØ±Ùˆ Ø§ÛŒÚ©Ø³20.0231:2681A…ëQ¸ÀHÒÊ„R<https://s2.coinmarketcap.com/static/img/coins/64x64/1856.png
+–
+
+1404/07/1914:20Øì¨Ç"Dusk Network*Ø¯Ø§Ø³Ú© Ù†ØªÙˆØ±Ú©20.0475:5502A…ëQ¸ş@ÀH€ëÿ
+R<https://s2.coinmarketcap.com/static/img/coins/64x64/4092.png
+
+
+1404/07/1914:19œì¨Ç"Ancient8*Ø§Ù†Ø´Ù†Øª Û¸20.0619:7172AÍÌÌÌÌL9ÀH²¢ş
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/18734.png
+‘
+
+1404/07/1914:20Øì¨Ç"Suilend*Ø³ÙˆÛŒÛŒâ€ŒÙ„Ù†Ø¯20.4013:46491AÍÌÌÌÌ8ÀHİÍğ
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/34611.png
+¤
+
+1404/07/1914:20Øì¨Ç"!Superp (Formerly Vanilla Finance)*
+Ø³ÙˆÙ¾Ø±Ù¾20.1108:12835AÃõ(\B!ÀHí‘ê
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/36275.png
+±
+
+1404/07/1914:20Øì¨Ç"Phoenix Global (new)*$ÙÙˆÙ†ÛŒÚ©Ø³ Ú¯Ù„ÙˆØ¨Ø§Ù„ (Ø¬Ø¯ÛŒØ¯)20.3831:44380Aáz®GAÀHÔè
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/13969.png
+…
+
+1404/07/1914:19œì¨Ç"Yala*ÛŒØ§Ù„Ø§20.0916:10613A…ëQ¸…3ÀH‚¿á
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/35877.png
+ˆ
+
+1404/07/1914:20Øì¨Ç"Lumia*
+Ù„ÙˆÙ…ÛŒØ§20.1698:19674AfffffÆAÀHåÛ
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/33439.png
+§
+
+1404/07/1914:19œì¨Ç"Bitcoin Diamond* Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ø¯Ø§ÛŒÙ…ÙˆÙ†Ø¯20.1202:13930Aš™™™™™ ÀHİÏØ
 R<https://s2.coinmarketcap.com/static/img/coins/64x64/2222.png
 ‡
 
-1404/07/1914:05Ôå¨Ç"Forta*
-ÙÙˆØ±ØªØ§20.0358:4156A{®Gá:3ÀH××
+1404/07/1914:19œì¨Ç"Forta*
+ÙÙˆØ±ØªØ§20.0357:4140Aáz®G¡3ÀH÷ŸÔ
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/20622.png
-œ
+‡
 
-1404/07/1914:06æ¨Ç"Neon EVM*Ù†Ø¦ÙˆÙ† Ø§ÛŒâ€ŒÙˆÛŒâ€ŒØ§Ù…20.0934:10838A)\Âõ¨#ÀH’øÔ
-R=https://s2.coinmarketcap.com/static/img/coins/64x64/23015.png
-¾
-
-1404/07/1914:05Ôå¨Ç""MAGICâ€¢INTERNETâ€¢MONEY (Bitcoin)* Ù…Ø¬ÛŒÚ© Ø§ÛŒÙ†ØªØ±Ù†Øª Ù…Ø§Ù†ÛŒ20.001062:123.20Aq=
-×£p1ÀH¿áĞ
-R=https://s2.coinmarketcap.com/static/img/coins/64x64/36621.png
-˜
-
-1404/07/1914:05Ôå¨Ç"MetaMUI*Ù…ØªØ§ Ø§Ù…â€ŒÛŒÙˆâ€ŒØ¢ÛŒ20.0468:5428A33333³%ÀHÊ»Ï
-R=https://s2.coinmarketcap.com/static/img/coins/64x64/11223.png
+1404/07/1914:19œì¨Ç"Tagger*ØªÚ¯Ø±20.000206:23.87A)\Âõ(EÀH·ıÒ
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/34958.png
 ›
 
-1404/07/1914:05Ôå¨Ç"
-SynFutures*Ø³ÛŒÙ†â€ŒÙÛŒÙˆÚ†Ø±Ø²20.008208:952.59AÃõ(\B7ÀHı½Î
+1404/07/1914:19œì¨Ç"
+SynFutures*Ø³ÛŒÙ†â€ŒÙÛŒÙˆÚ†Ø±Ø²20.008221:952.46A=
+×£p=8ÀHëÍĞ
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/34297.png
+˜
+
+1404/07/1914:19œì¨Ç"MetaMUI*Ù…ØªØ§ Ø§Ù…â€ŒÛŒÙˆâ€ŒØ¢ÛŒ20.0468:5422A     €%ÀH™²Ğ
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/11223.png
+œ
+
+1404/07/1914:20Øì¨Ç"Neon EVM*Ù†Ø¦ÙˆÙ† Ø§ÛŒâ€ŒÙˆÛŒâ€ŒØ§Ù…20.0930:10772AÃõ(\B%ÀH‰„Ï
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/23015.png
+ˆ
+
+1404/07/1914:19œì¨Ç"KARRAT*
+Ú©Ø§Ø±Ø§Øª20.0311:3603A®Gáz®+ÀH¯÷Ë
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/30825.png
 ‚
 
-1404/07/1914:05Ôå¨Ç"Test*ØªØ³Øª20.0235:2728Aš™™™™™8ÀHıÌ
+1404/07/1914:20Øì¨Ç"Test*ØªØ³Øª20.0234:2713Aö(\Â59ÀHÇ
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/35647.png
+™
+
+1404/07/1914:19œì¨Ç"Keyboard Cat*Ú©ÛŒØ¨ÙˆØ±Ø¯ Ú©Øª20.002212:256.26A¤p=
+×£(ÀHè‰Æ
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/30637.png
+™
+
+1404/07/1914:19œì¨Ç"X Empire*Ø§ÛŒÚ©Ø³ Ø§Ù…Ù¾Ø§ÛŒØ±2
+0.00003203:3.71A=
+×£pı4ÀHİóÄ
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/33108.png
+¾
+
+1404/07/1914:19œì¨Ç""MAGICâ€¢INTERNETâ€¢MONEY (Bitcoin)* Ù…Ø¬ÛŒÚ© Ø§ÛŒÙ†ØªØ±Ù†Øª Ù…Ø§Ù†ÛŒ20.001052:121.91A×£p=
+1ÀHĞàÄ
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/36621.png
+Œ
+
+1404/07/1914:20Øì¨Ç"Aspecta*Ø§Ø³Ù¾Ú©ØªØ§20.0958:11097A\Âõ(4ÀHùÖÀ
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/37453.png
 z
 
-1404/07/1914:05Ôå¨Ç"Real20.0223:2587A…ëQ¸^;ÀH´îÉ
+1404/07/1914:19œì¨Ç"Real20.0221:2563Aq=
+×£ğ;ÀH¥î¿
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/38492.png
 —
 
-1404/07/1914:06æ¨Ç"PIVX*Ù¾ÛŒâ€ŒØ¢ÛŒâ€ŒÙˆÛŒâ€ŒØ§Ú©Ø³20.2281:26475AHáz®Ç8ÀH¢îÉ
+1404/07/1914:20Øì¨Ç"PIVX*Ù¾ÛŒâ€ŒØ¢ÛŒâ€ŒÙˆÛŒâ€ŒØ§Ú©Ø³20.2253:26098Aö(\Âu7ÀHĞì¸
 R<https://s2.coinmarketcap.com/static/img/coins/64x64/1169.png
-™
-
-1404/07/1914:05Ôå¨Ç"Keyboard Cat*Ú©ÛŒØ¨ÙˆØ±Ø¯ Ú©Øª20.002213:256.86AìQ¸…ë(ÀHÿ÷Æ
-R=https://s2.coinmarketcap.com/static/img/coins/64x64/30637.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"KARRAT*
-Ú©Ø§Ø±Ø§Øª20.0309:3592A333333-ÀH¬¼Å
-R=https://s2.coinmarketcap.com/static/img/coins/64x64/30825.png
-•
-
-1404/07/1914:05Ôå¨Ç"Acala Token*Ø¢Ú©Ø§Ù„Ø§ ØªÙˆÚ©Ù†20.0189:2199A)\Âõ¨7ÀHî›Å
-R<https://s2.coinmarketcap.com/static/img/coins/64x64/6756.png
-™
-
-1404/07/1914:05Ôå¨Ç"X Empire*Ø§ÛŒÚ©Ø³ Ø§Ù…Ù¾Ø§ÛŒØ±2
-0.00003203:3.72AÂõ(\Ï4ÀH®‰Å
-R=https://s2.coinmarketcap.com/static/img/coins/64x64/33108.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"Aspecta*Ø§Ø³Ù¾Ú©ØªØ§20.0961:11151AìQ¸…ë3ÀH¾öÄ
-R=https://s2.coinmarketcap.com/static/img/coins/64x64/37453.png
 
 
-1404/07/1914:06æ¨Ç"SUNDOG*Ø³Ø§Ù†â€ŒØ¯Ø§Ú¯20.0221:2569A¤p=
-×ã=ÀHøÔÃ
+1404/07/1914:20Øì¨Ç"SUNDOG*Ø³Ø§Ù†â€ŒØ¯Ø§Ú¯20.0220:2544A\Âõ(œ>ÀH‚Ñ¸
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/32717.png
 ¡
 
-1404/07/1914:05Ôå¨Ç"SideShift Token*Ø³Ø§ÛŒØ¯Ø´ÛŒÙØª ØªÙˆÚ©Ù†20.1516:17599A333333Ã¿HÆÏ·
+1404/07/1914:19œì¨Ç"SideShift Token*Ø³Ø§ÛŒØ¯Ø´ÛŒÙØª ØªÙˆÚ©Ù†20.1518:17582AìQ¸…ë±¿HæÏ¸
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/11726.png
 •
 
-1404/07/1914:06æ¨Ç"	Oraichain*Ø§ÙˆØ±Ø§ÛŒâ€ŒÚ†ÛŒÙ†21.5771:183024A…ëQ¸&ÀH•Ô²
+1404/07/1914:19œì¨Ç"	Oraichain*Ø§ÙˆØ±Ø§ÛŒâ€ŒÚ†ÛŒÙ†21.5784:182868AÍÌÌÌÌÌ%ÀHàä³
 R<https://s2.coinmarketcap.com/static/img/coins/64x64/7533.png
 ”
 
-1404/07/1914:05Ôå¨Ç"	AGENDA 47*Ø§ÙØ¬ÙÙ†Ø¯Ø§ Û´Û·20.0218:2529A×£p=
-W$ÀH¥ü±
+1404/07/1914:19œì¨Ç"	AGENDA 47*Ø§ÙØ¬ÙÙ†Ø¯Ø§ Û´Û·20.0218:2524A{®Gáz$ÀHéÆ±
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/35757.png
+•
+
+1404/07/1914:19œì¨Ç"Acala Token*Ø¢Ú©Ø§Ù„Ø§ ØªÙˆÚ©Ù†20.0187:2162A3333339ÀHò±
+R<https://s2.coinmarketcap.com/static/img/coins/64x64/6756.png
+‹
+
+1404/07/1914:19œì¨Ç"Stader*Ø§Ø³ØªØ§Ø¯Ø±20.4074:47196AìQ¸…ë1ÀHÁò¬
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/12623.png
 ¥
 
-1404/07/1914:05Ôå¨Ç"Alpha Quark Token*Ø¢Ù„ÙØ§ Ú©ÙˆØ§Ø±Ú© ØªÙˆÚ©Ù†20.8097:93970AHáz®G'ÀH¯é¬
+1404/07/1914:19œì¨Ç"Alpha Quark Token*Ø¢Ù„ÙØ§ Ú©ÙˆØ§Ø±Ú© ØªÙˆÚ©Ù†20.8097:93805A{®Gáú&ÀHùß¬
 R<https://s2.coinmarketcap.com/static/img/coins/64x64/7460.png
 ”
 
-1404/07/1914:05Ôå¨Ç"	Starpower*Ø§Ø³ØªØ§Ø±Ù¾Ø§ÙˆØ±20.1177:13653A=
-×£p=ÀHıä«
+1404/07/1914:19œì¨Ç"	Starpower*Ø§Ø³ØªØ§Ø±Ù¾Ø§ÙˆØ±20.1175:13618AHáz®GÀH¦Ìª
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/37743.png
-
-
-1404/07/1914:05Ôå¨Ç"Syscoin*Ø³ÛŒØ³â€ŒÚ©ÙˆÛŒÙ†20.0258:3000A{®Gáz>ÀH‚È«
-R;https://s2.coinmarketcap.com/static/img/coins/64x64/541.png
 “
 
-1404/07/1914:06æ¨Ç"Locus Chain*Ù„ÙˆÚ©Ø§Ø³ Ú†ÛŒÙ†20.0104:1207A\Âõ(\&ÀH›õ¨
+1404/07/1914:20Øì¨Ç"Locus Chain*Ù„ÙˆÚ©Ø§Ø³ Ú†ÛŒÙ†20.0104:1205A×£p=
+W&ÀHà¨
 R<https://s2.coinmarketcap.com/static/img/coins/64x64/3855.png
 ‰
 
-1404/07/1914:06æ¨Ç"Sharp*Ø´Ø§Ø±Ù¾20.008050:934.24A=
-×£p=
-ÀHœ±¨
+1404/07/1914:20Øì¨Ç"Sharp*Ø´Ø§Ø±Ù¾20.008051:932.70A…ëQ¸ÀHã¸¨
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/32916.png
 ’
 
-1404/07/1914:05Ôå¨Ç"PINGPONG*Ù¾ÛŒÙ†Ú¯â€ŒÙ¾Ù†Ú¯20.0907:10530Aö(\Âu@ÀH´È 
+1404/07/1914:19œì¨Ç"PINGPONG*Ù¾ÛŒÙ†Ú¯â€ŒÙ¾Ù†Ú¯20.0909:10532Aáz®Gá?ÀH¦ÿ¢
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/38342.png
-™
-
-1404/07/1914:05Ôå¨Ç"Groestlcoin*Ú¯Ø±ÙˆØ³ØªÙ„â€ŒÚ©ÙˆÛŒÙ†20.2423:28125A…ëQ¸…!ÀH„£
-R;https://s2.coinmarketcap.com/static/img/coins/64x64/258.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Stader*Ø§Ø³ØªØ§Ø¯Ø±20.4025:46708A®GázÔ2ÀHşûœ
-R=https://s2.coinmarketcap.com/static/img/coins/64x64/12623.png
-
-
-1404/07/1914:05Ôå¨Ç"	Moss Coin*Ù…Ø§Ø³ Ú©ÙˆÛŒÙ†20.0493:5720AÍÌÌÌÌL$ÀHßŒ˜
-R<https://s2.coinmarketcap.com/static/img/coins/64x64/2915.png
-˜
-
-1404/07/1914:05Ôå¨Ç"NFPrompt*Ø§Ù†â€ŒØ§Ù Ù¾Ø±Ø§Ù…Ù¾Øª20.0427:4958A33333ó=ÀH»’
-R=https://s2.coinmarketcap.com/static/img/coins/64x64/28778.png
-£
-
-1404/07/1914:05Ôå¨Ç"Avalon Labs (AVL)*Ø¢ÙˆØ§Ù„ÙˆÙ† Ù„Ø¨Ø² (AVL)20.1314:15253Aáz®Ga?ÀH†‚‘
-R=https://s2.coinmarketcap.com/static/img/coins/64x64/35628.png
 
 
-1404/07/1914:05Ôå¨Ç"Pangolin*Ù¾Ù†Ú¯ÙˆÙ„ÛŒÙ†20.0946:10981A)\Âõ('ÀH“è
-R<https://s2.coinmarketcap.com/static/img/coins/64x64/8422.png
+1404/07/1914:19œì¨Ç"Syscoin*Ø³ÛŒØ³â€ŒÚ©ÙˆÛŒÙ†20.0256:2969AìQ¸…+?ÀHú© 
+R;https://s2.coinmarketcap.com/static/img/coins/64x64/541.png
+™
+
+1404/07/1914:19œì¨Ç"Groestlcoin*Ú¯Ø±ÙˆØ³ØªÙ„â€ŒÚ©ÙˆÛŒÙ†20.2423:28076A¸…ëQ¸!ÀH¸
+R;https://s2.coinmarketcap.com/static/img/coins/64x64/258.png
 ‰
 
-1404/07/1914:06æ¨Ç"Klever*Ú©Ù„ÙˆØ±20.002390:277.41AÃõ(\Â+ÀHæØ
+1404/07/1914:19œì¨Ç"Klever*Ú©Ù„ÙˆØ±20.002413:279.59AÃõ(\Â(ÀHÇŒœ
 R<https://s2.coinmarketcap.com/static/img/coins/64x64/6724.png
-·
+£
 
-1404/07/1914:06æ¨Ç"Act I : The AI Prophecy*(Ø§Ú©Øª Û±: Ø¯ÛŒ Ø§ÛŒâ€ŒØ¢ÛŒ Ù¾Ø±ÙˆÙØ³ÛŒ20.0224:2595Afffffæ>ÀHî°
-R=https://s2.coinmarketcap.com/static/img/coins/64x64/33566.png
-ˆ
-
-1404/07/1914:06æ¨Ç"LUKSO*
-Ù„ÙˆÚ©Ø³Ùˆ20.6943:80569AffffffÀHÓø
-R=https://s2.coinmarketcap.com/static/img/coins/64x64/27622.png
+1404/07/1914:19œì¨Ç"Avalon Labs (AVL)*Ø¢ÙˆØ§Ù„ÙˆÙ† Ù„Ø¨Ø² (AVL)20.1316:15252Aš™™™™™>ÀH„‘“
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/35628.png
 
 
-1404/07/1914:05Ôå¨Ç"Decimal*Ø¯Ø³ÛŒÙ…Ø§Ù„20.001894:219.82Aö(\ÂõÀHôØ…
+1404/07/1914:19œì¨Ç"	Moss Coin*Ù…Ø§Ø³ Ú©ÙˆÛŒÙ†20.0491:5687AìQ¸…k%ÀH¤á’
+R<https://s2.coinmarketcap.com/static/img/coins/64x64/2915.png
+·
+
+1404/07/1914:19œì¨Ç"Act I : The AI Prophecy*(Ø§Ú©Øª Û±: Ø¯ÛŒ Ø§ÛŒâ€ŒØ¢ÛŒ Ù¾Ø±ÙˆÙØ³ÛŒ20.0224:2590AÂõ(\O?ÀHìß
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/33566.png
+
+
+1404/07/1914:19œì¨Ç"Pangolin*Ù¾Ù†Ú¯ÙˆÙ„ÛŒÙ†20.0944:10942Aö(\Âõ'ÀHÒ¹
+R<https://s2.coinmarketcap.com/static/img/coins/64x64/8422.png
+£
+
+1404/07/1914:20Øì¨Ç"Sui Name Service*Ø³ÙˆÛŒÛŒ Ù†ÛŒÙ… Ø³Ø±ÙˆÛŒØ³20.1016:11769Affffff3ÀH¡Ô‹
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/32942.png
+ˆ
+
+1404/07/1914:19œì¨Ç"LUKSO*
+Ù„ÙˆÚ©Ø³Ùˆ20.6924:80221A{®GázÀH—ÄŠ
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/27622.png
+˜
+
+1404/07/1914:19œì¨Ç"NFPrompt*Ø§Ù†â€ŒØ§Ù Ù¾Ø±Ø§Ù…Ù¾Øª20.0424:4910A®Gázî>ÀHş‰ˆ
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/28778.png
+
+
+1404/07/1914:19œì¨Ç"Decimal*Ø¯Ø³ÛŒÙ…Ø§Ù„20.001894:219.45A=
+×£p= ÀHôÜ…
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/12400.png
 
 
-1404/07/1914:05Ôå¨Ç"MindWaveDAO*Ù…ÛŒÙ†Ø¯ÙˆÛŒÙˆÛŒâ€ŒØ¯Ø§Ø¦Ùˆ20.0248:2882Aš™™™™ÙHÀH¢ºı	R=https://s2.coinmarketcap.com/static/img/coins/64x64/36302.png
+1404/07/1914:19œì¨Ç"MindWaveDAO*Ù…ÛŒÙ†Ø¯ÙˆÛŒÙˆÛŒâ€ŒØ¯Ø§Ø¦Ùˆ20.0248:2877Aš™™™™ÙHÀHï·ı	R=https://s2.coinmarketcap.com/static/img/coins/64x64/36302.png
 ‰
 
-1404/07/1914:06æ¨Ç"Ellipsis*
-Ø§Ù„Ù¾Ø³ÛŒ20.0289:3351A®Gáz®$ÀHŒªû	R<https://s2.coinmarketcap.com/static/img/coins/64x64/8938.png
-
+1404/07/1914:19œì¨Ç"Ellipsis*
+Ø§Ù„Ù¾Ø³ÛŒ20.0289:3345A®Gáz®$ÀHŒªû	R<https://s2.coinmarketcap.com/static/img/coins/64x64/8938.png
+•
 
-1404/07/1914:05Ôå¨Ç"XBorg*Ø§Ú©Ø³â€ŒØ¨ÙˆØ±Ú¯20.0875:10152A=
-×£p½2ÀH‡³ú	R=https://s2.coinmarketcap.com/static/img/coins/64x64/33081.png
+1404/07/1914:20Øì¨Ç"Game.com*Ú¯ÛŒÙ… Ø¯Ø§Øª Ú©Ø§Ù…20.2157:24994A×£p=
+W8ÀH®–õ	R=https://s2.coinmarketcap.com/static/img/coins/64x64/10052.png
+‡
+
+1404/07/1914:20Øì¨Ç"Factom*
+ÙÚ©ØªÙˆÙ…20.0196:2267A×£p=
+W$ÀHš‡õ	R<https://s2.coinmarketcap.com/static/img/coins/64x64/4953.png
 
 
-1404/07/1914:05Ôå¨Ç"Mitosis*Ù…ÛŒØªÙˆØ²ÛŒØ³20.1152:13365A33333ó9ÀH³˜ú	R=https://s2.coinmarketcap.com/static/img/coins/64x64/38204.png
-•
+1404/07/1914:19œì¨Ç"Mitosis*Ù…ÛŒØªÙˆØ²ÛŒØ³20.1142:13226AÍÌÌÌÌ;ÀHò‡ï	R=https://s2.coinmarketcap.com/static/img/coins/64x64/38204.png
+
 
-1404/07/1914:05Ôå¨Ç"Game.com*Ú¯ÛŒÙ… Ø¯Ø§Øª Ú©Ø§Ù…20.2164:25115A33333ó7ÀHÃ“ù	R=https://s2.coinmarketcap.com/static/img/coins/64x64/10052.png
-£
-
-1404/07/1914:06æ¨Ç"Sui Name Service*Ø³ÙˆÛŒÛŒ Ù†ÛŒÙ… Ø³Ø±ÙˆÛŒØ³20.0998:11576A{®Gáº4ÀHµ®ô	R=https://s2.coinmarketcap.com/static/img/coins/64x64/32942.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Factom*
-ÙÚ©ØªÙˆÙ…20.0195:2265AÂõ(\$ÀHåÍñ	R<https://s2.coinmarketcap.com/static/img/coins/64x64/4953.png
+1404/07/1914:19œì¨Ç"XBorg*Ø§Ú©Ø³â€ŒØ¨ÙˆØ±Ú¯20.0866:10027A     €3ÀH»ìì	R=https://s2.coinmarketcap.com/static/img/coins/64x64/33081.png
 
 
-1404/07/1914:05Ôå¨Ç"	Morphware*Ù…ÙˆØ±Ùâ€ŒÙˆØ±20.0250:2904AÃõ(\ÂÀHûÿé	R=https://s2.coinmarketcap.com/static/img/coins/64x64/34095.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Resolv*Ø±ÛŒØ²Ø§Ù„Ùˆ20.0669:7766A®Gáz.@ÀHÌèä	R=https://s2.coinmarketcap.com/static/img/coins/64x64/36713.png
-š
-
-1404/07/1914:05Ôå¨Ç"Alien Worlds*Ø§Ù„ÛŒÙ† ÙˆØ±Ù„Ø¯Ø²20.003360:389.94AÃõ(\b@ÀHƒÿâ	R<https://s2.coinmarketcap.com/static/img/coins/64x64/9119.png
+1404/07/1914:19œì¨Ç"	Morphware*Ù…ÙˆØ±Ùâ€ŒÙˆØ±20.0250:2892A¸…ëQ¸ÀHœææ	R=https://s2.coinmarketcap.com/static/img/coins/64x64/34095.png
 ß
 
-1404/07/1914:05Ôå¨Ç")iShares Core S&P 500 Tokenized ETF (Ondo)*:ETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢ÛŒâ€ŒØ´ÛŒØ±Ø² Ú©ÙˆØ± S&P 5002656.74:76214996A¸…ëQ¸ÀH¡à	R=https://s2.coinmarketcap.com/static/img/coins/64x64/38051.png
+1404/07/1914:19œì¨Ç")iShares Core S&P 500 Tokenized ETF (Ondo)*:ETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢ÛŒâ€ŒØ´ÛŒØ±Ø² Ú©ÙˆØ± S&P 5002656.67:76076619AÂõ(\ÀH®ıß	R=https://s2.coinmarketcap.com/static/img/coins/64x64/38051.png
+Š
+
+1404/07/1914:19œì¨Ç"Resolv*Ø±ÛŒØ²Ø§Ù„Ùˆ20.0666:7721A\Âõ(|@ÀH“äß	R=https://s2.coinmarketcap.com/static/img/coins/64x64/36713.png
 ›
 
-1404/07/1914:05Ôå¨Ç"Fuel Network*ÙÛŒÙˆÙ„ Ù†ØªÙˆØ±Ú©20.003334:386.96A×£p=
-—;ÀHŞÉÚ	R=https://s2.coinmarketcap.com/static/img/coins/64x64/24087.png
-„
-
-1404/07/1914:05Ôå¨Ç"Mamo*Ù…Ø§Ù…Ùˆ20.0531:6164A
-×£p=Ê2ÀHúâÖ	R=https://s2.coinmarketcap.com/static/img/coins/64x64/36601.png
-’
-
-1404/07/1914:06æ¨Ç"AhaToken*Ø¢Ù‡Ø§ ØªÙˆÚ©Ù†20.002878:333.95AÂõ(\"ÀHĞéÓ	R<https://s2.coinmarketcap.com/static/img/coins/64x64/6641.png
-‘
-
-1404/07/1914:05Ôå¨Ç"HashAI*Ù‡Ø´ Ø§ÛŒâ€ŒØ¢ÛŒ20.000238:27.65Aö(\ÂõÀHÄÕÍ	R=https://s2.coinmarketcap.com/static/img/coins/64x64/30369.png
-„
-
-1404/07/1914:06æ¨Ç"DIAM*Ø¯ÛŒØ§Ù…20.0140:1620A¸…ëQ¸æ¿H³»Ç	R=https://s2.coinmarketcap.com/static/img/coins/64x64/35728.png
-³
-
-1404/07/1914:06æ¨Ç"Santos FC Fan Token*&Ø³Ø§Ù†ØªÙˆØ³ Ø§Ùâ€ŒØ³ÛŒ ÙÙ† ØªÙˆÚ©Ù†21.4922:173168Aš™™™™6ÀH“ùÃ	R=https://s2.coinmarketcap.com/static/img/coins/64x64/15248.png
-­
-
-1404/07/1914:05Ôå¨Ç"Unstable Coin (usduc.xyz)*Ú©ÙˆÛŒÙ† Ø¢Ù†â€ŒØ§Ø³ØªÛŒØ¨Ù„20.0200:2319AìQ¸…«@ÀHëÈÃ	R=https://s2.coinmarketcap.com/static/img/coins/64x64/36849.png
-
-
-1404/07/1914:05Ôå¨Ç"	Chainbase*Ú†ÛŒÙ† Ø¨ÛŒØ³20.1094:12699AR¸…ëÑ?ÀHÍµÁ	R=https://s2.coinmarketcap.com/static/img/coins/64x64/37340.png
-—
-
-1404/07/1914:05Ôå¨Ç"GameStop*Ú¯ÛŒÙ…â€ŒØ§Ø³ØªØ§Ù¾2
-0.00004837:5.61AìQ¸…k*ÀHØ›¾	R=https://s2.coinmarketcap.com/static/img/coins/64x64/31248.png
-‘
-
-1404/07/1914:05Ôå¨Ç"	SuperWalk*Ø³ÙˆÙ¾Ø±ÙˆØ§Ù„Ú©20.0277:3213AÍÌÌÌÌL/ÀH×Ñ½	R=https://s2.coinmarketcap.com/static/img/coins/64x64/21706.png
-Ê
-
-1404/07/1914:05Ôå¨Ç" Invesco QQQ Tokenized ETF (Ondo)*.ETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø§ÛŒÙ†ÙˆØ³Ú©Ùˆ QQQ2588.05:68243245AffffffÀH×İ°	R=https://s2.coinmarketcap.com/static/img/coins/64x64/38094.png
-•
-
-1404/07/1914:05Ôå¨Ç"
-Bubblemaps*Ø¨Ø§Ø¨ÙÙ„â€ŒÙ…Ù¾Ø²20.0429:4983Aö(\Âu@ÀH·¾°	R=https://s2.coinmarketcap.com/static/img/coins/64x64/35214.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Myria*
-Ù…ÛŒØ±ÛŒØ§20.000552:64.03A®Gáz®*ÀHô›¯	R=https://s2.coinmarketcap.com/static/img/coins/64x64/22289.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"GRIFFAIN*Ú¯Ø±ÛŒÙÛŒÙ†20.0194:2257A=
-×£pİBÀHğù¢	R=https://s2.coinmarketcap.com/static/img/coins/64x64/34792.png
-Š
-
-1404/07/1914:06æ¨Ç"Galeon*Ú¯Ø§Ù„ÛŒÙˆÙ†20.0259:3007Aáz®Gáê¿HŞô	R=https://s2.coinmarketcap.com/static/img/coins/64x64/18662.png
-„
-
-1404/07/1914:06æ¨Ç"RIZE*Ø±Ø§ÛŒØ²20.0199:2309A®Gáz´AÀH“µ›	R=https://s2.coinmarketcap.com/static/img/coins/64x64/36539.png
-—
-
-1404/07/1914:06æ¨Ç"IX Token*Ø¢ÛŒâ€ŒØ§Ú©Ø³ ØªÙˆÚ©Ù†20.1464:16991Aq=
-×£pÀHÏÇ–	R=https://s2.coinmarketcap.com/static/img/coins/64x64/17131.png
-–
-
-1404/07/1914:05Ôå¨Ç"	Araracoin*Ø¢Ø±Ø§Ø±Ø§Ú©ÙˆÛŒÙ†20.000531:61.58A333333ÀHÔˆ–	R=https://s2.coinmarketcap.com/static/img/coins/64x64/38219.png
-„
-
-1404/07/1914:05Ôå¨Ç"DIMO*Ø¯ÛŒÙ…Ùˆ20.0479:5554Aš™™™™(ÀHİë•	R=https://s2.coinmarketcap.com/static/img/coins/64x64/22837.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Parcl*
-Ù¾Ø§Ø±Ú©Ù„20.0466:5413AÍÌÌÌÌL>ÀHªØ•	R=https://s2.coinmarketcap.com/static/img/coins/64x64/30661.png
-…
-
-1404/07/1914:05Ôå¨Ç"AO*Ø§ÛŒâ€ŒØ§Ùˆ25.47:634480AìQ¸…«2ÀHã •	R=https://s2.coinmarketcap.com/static/img/coins/64x64/35386.png
-
-
-1404/07/1914:05Ôå¨Ç"RAMP*Ø±Ù…Ù¾20.0401:4656A      ø¿Hª’	R<https://s2.coinmarketcap.com/static/img/coins/64x64/7463.png
-…
-
-1404/07/1914:05Ôå¨Ç"IDEX*
-Ø¢ÛŒØ¯Ú©Ø³20.0195:2258AHáz®5ÀHÊ¬	R<https://s2.coinmarketcap.com/static/img/coins/64x64/3928.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"Nexa (nexaagent.xyz)21.9094:221580A¸…ëQ¸ÀHı¯	R=https://s2.coinmarketcap.com/static/img/coins/64x64/38169.png
-
-
-1404/07/1914:05Ôå¨Ç"doginme*Ø¯Ø§Ú¯ÛŒÙ†Ù…ÛŒ20.000282:32.72Aö(\Âu2ÀHÒĞ‹	R=https://s2.coinmarketcap.com/static/img/coins/64x64/30759.png
-”
-
-1404/07/1914:06æ¨Ç"ZUSD*Ø²ÛŒ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0026:116346A
-×£p=
-ç?H‚±‹	R<https://s2.coinmarketcap.com/static/img/coins/64x64/8772.png
-…
-
-1404/07/1914:05Ôå¨Ç"Wen*ÙˆÙÙ†2
-0.00002610:3.03Aq=
-×£ğ=ÀH¦‡	R=https://s2.coinmarketcap.com/static/img/coins/64x64/29175.png
-
-
-1404/07/1914:05Ôå¨Ç"Alchemix*Ø§Ù„Ú©Ù…ÛŒÚ©Ø³27.57:878879Affffff-ÀHáœ„	R<https://s2.coinmarketcap.com/static/img/coins/64x64/8613.png
-˜
-
-1404/07/1914:05Ôå¨Ç"	RadioCaca*Ø±Ø§Ø¯ÛŒÙˆ Ú©Ø§Ú©Ø§2
-0.00004585:5.32A…ëQ¸….ÀHûÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/11346.png
-œ
-
-1404/07/1914:05Ôå¨Ç"OMG Network*Ø§Ùˆ Ø§Ù… Ø¬ÛŒ Ù†ØªÙˆØ±Ú©20.1341:15566A
-×£p=
-$ÀHåüR<https://s2.coinmarketcap.com/static/img/coins/64x64/1808.png
-Ÿ
-
-1404/07/1914:05Ôå¨Ç"Assemble Protocol*Ø§Ø³Ù…Ø¨Ù„ Ù¾Ø±ÙˆØªÚ©Ù„20.0125:1451AÍÌÌÌÌL/ÀHÛøøR<https://s2.coinmarketcap.com/static/img/coins/64x64/6069.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Alephium*
-Ø§Ù„ÙÛŒÙ…20.1540:17866A…ëQ¸+ÀHãñøR=https://s2.coinmarketcap.com/static/img/coins/64x64/14878.png
-‘
-
-1404/07/1914:05Ôå¨Ç"OpenServ*Ø§ÙˆÙ¾Ù†â€ŒØ³Ø±Ùˆ20.0279:3235A
-×£p=Š.ÀHÊøR=https://s2.coinmarketcap.com/static/img/coins/64x64/33964.png
-‚
-
-1404/07/1914:05Ôå¨Ç"å®¢æœå°ä½•20.0187:2172Afffff¦6ÀHÓ³öR=https://s2.coinmarketcap.com/static/img/coins/64x64/38614.png
-Œ
-
-1404/07/1914:06æ¨Ç"Metacade*Ù…ØªØ§Ú©ÛŒØ¯20.0116:1341A®Gáz/ÀH¡ñôR=https://s2.coinmarketcap.com/static/img/coins/64x64/24303.png
-º
-
-1404/07/1914:05Ôå¨Ç"Alpine F1 Team Fan Token*(Ø¢Ù„Ù¾Ø§ÛŒÙ† Ø§ÙÛ± ØªÛŒÙ… ÙÙ† ØªÙˆÚ©Ù†20.9967:115673A¸…ëQø9ÀHºêòR=https://s2.coinmarketcap.com/static/img/coins/64x64/18112.png
-ƒ
-
-1404/07/1914:06æ¨Ç"Klink Finance20.0804:9336A
-×£p=Š4ÀHĞÅñR=https://s2.coinmarketcap.com/static/img/coins/64x64/38512.png
-‚
-
-1404/07/1914:05Ôå¨Ç"Hana Network20.0613:7109AÂõ(\ÀHãïïR=https://s2.coinmarketcap.com/static/img/coins/64x64/38468.png
-
-
-1404/07/1914:05Ôå¨Ç"	TomoChain*ØªÙˆÙ…ÙˆÚ†ÛŒÙ†20.1513:17562Aö(\Â5;ÀHÂŞîR<https://s2.coinmarketcap.com/static/img/coins/64x64/2570.png
-
-
-1404/07/1914:05Ôå¨Ç"	The Arena*Ø¢Ø±Ù†Ø§20.005037:584.52A¸…ëQx6ÀHäíR=https://s2.coinmarketcap.com/static/img/coins/64x64/33708.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"dForce*Ø¯ÛŒâ€ŒÙÙˆØ±Ø³20.0185:2148A{®Gáú;ÀH¯×éR<https://s2.coinmarketcap.com/static/img/coins/64x64/4758.png
-‰
-
-1404/07/1914:06æ¨Ç"Yooldo*
-ÛŒÙˆÙ„Ø¯Ùˆ20.1436:16667A\Âõ(0ÀH¥‰åR=https://s2.coinmarketcap.com/static/img/coins/64x64/37414.png
-‚
-
-1404/07/1914:05Ôå¨Ç"å¸å®‰Holder20.0184:2139AfffffFEÀHÏƒåR=https://s2.coinmarketcap.com/static/img/coins/64x64/38637.png
-…
-
-1404/07/1914:05Ôå¨Ç"DOWGE*Ø¯Ø§ÙˆØ¬20.0184:2130AR¸…ëQ,ÀH—¨àR=https://s2.coinmarketcap.com/static/img/coins/64x64/37279.png
-œ
-
-1404/07/1914:06æ¨Ç"Comtech Gold*Ú©Ø§Ù…â€ŒØªÚ© Ú¯Ù„Ø¯2129.06:14977602Aáz®GáÚ?H¹ÙÖR=https://s2.coinmarketcap.com/static/img/coins/64x64/20245.png
-˜
-
-1404/07/1914:06æ¨Ç"BOBO*Ø¨ÙˆØ¨Ùˆ20.0000002750077262323351:0.0319A¤p=
-×c3ÀHÛ‰ÖR=https://s2.coinmarketcap.com/static/img/coins/64x64/25269.png
-­
-
-1404/07/1914:05Ôå¨Ç"FONSmartChain*&Ø§Ùâ€ŒØ§Ùˆâ€ŒØ§Ù† Ø§Ø³Ù…Ø§Ø±Øª Ú†ÛŒÙ†21.0463:121423AffffffÀHÆùÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/22607.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Puffer*Ù¾Ø§ÙØ±20.1032:11974Aáz®G!;ÀH¶…ÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/32325.png
-ó
-
-1404/07/1914:06æ¨Ç"3iShares 20+ Year Treasury Bond Tokenized ETF (Ondo)*EETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢ÛŒâ€ŒØ´ÛŒØ±Ø² Ø®Ø²Ø§Ù†Ù‡ Û²Û°+ Ø³Ø§Ù„Ù‡291.77:10650099Affffffò?H¢ÿÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/38031.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Maiga*
-Ù…Ø§ÛŒÚ¯Ø§20.0647:7505AÍÌÌÌÌL8ÀH“’ÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/38400.png
-‹
-
-1404/07/1914:06æ¨Ç"nubcat*Ù†Ø§Ø¨â€ŒÚ©Øª20.0191:2212A®Gáz®<ÀH–‡ÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/30493.png
+1404/07/1914:19œì¨Ç"Fuel Network*ÙÛŒÙˆÙ„ Ù†ØªÙˆØ±Ú©20.003331:385.90A
+×£p=Š;ÀH®Ù	R=https://s2.coinmarketcap.com/static/img/coins/64x64/24087.png
 š
 
-1404/07/1914:05Ôå¨Ç"Hermez Network*Ù‡Ø±Ù…ÙØ² Ù†ØªÙˆØ±Ú©23.84:445246Aö(\ÂõÀHãÍÌR<https://s2.coinmarketcap.com/static/img/coins/64x64/7424.png
-Ã
+1404/07/1914:19œì¨Ç"Alien Worlds*Ø§Ù„ÛŒÙ† ÙˆØ±Ù„Ø¯Ø²20.003333:386.09AfffffF@ÀHÒáØ	R<https://s2.coinmarketcap.com/static/img/coins/64x64/9119.png
+„
 
-1404/07/1914:05Ôå¨Ç"Impossible Finance Launchpad*/Ø§ÛŒÙ…Ù¾Ø§Ø³ÛŒØ¨Ù„ ÙØ§ÛŒÙ†Ù†Ø³ Ù„Ø§Ù†Ú†â€ŒÙ¾Ø¯20.0264:3069AÂõ(\6ÀHÎ¸ÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/10933.png
+1404/07/1914:19œì¨Ç"Mamo*Ù…Ø§Ù…Ùˆ20.0531:6153Aš™™™™™2ÀH®ßÖ	R=https://s2.coinmarketcap.com/static/img/coins/64x64/36601.png
+’
+
+1404/07/1914:20Øì¨Ç"AhaToken*Ø¢Ù‡Ø§ ØªÙˆÚ©Ù†20.002872:332.67A      #ÀH«›Ñ	R<https://s2.coinmarketcap.com/static/img/coins/64x64/6641.png
+‘
+
+1404/07/1914:19œì¨Ç"HashAI*Ù‡Ø´ Ø§ÛŒâ€ŒØ¢ÛŒ20.000238:27.56AÂõ(\ ÀHœ…Ì	R=https://s2.coinmarketcap.com/static/img/coins/64x64/30369.png
+Š
+
+1404/07/1914:19œì¨Ç"Myria*
+Ù…ÛŒØ±ÛŒØ§20.000564:65.34A      'ÀH÷äÉ	R=https://s2.coinmarketcap.com/static/img/coins/64x64/22289.png
+„
+
+1404/07/1914:19œì¨Ç"DIAM*Ø¯ÛŒØ§Ù…20.0140:1618A¸…ëQ¸æ¿H–ÃÇ	R=https://s2.coinmarketcap.com/static/img/coins/64x64/35728.png
+­
+
+1404/07/1914:19œì¨Ç"Unstable Coin (usduc.xyz)*Ú©ÙˆÛŒÙ† Ø¢Ù†â€ŒØ§Ø³ØªÛŒØ¨Ù„20.0199:2308A×£p=
+·@ÀH¼Î¿	R=https://s2.coinmarketcap.com/static/img/coins/64x64/36849.png
+³
+
+1404/07/1914:20Øì¨Ç"Santos FC Fan Token*&Ø³Ø§Ù†ØªÙˆØ³ Ø§Ùâ€ŒØ³ÛŒ ÙÙ† ØªÙˆÚ©Ù†21.4847:172001AÍÌÌÌÌŒ6ÀHää½	R=https://s2.coinmarketcap.com/static/img/coins/64x64/15248.png
+—
+
+1404/07/1914:19œì¨Ç"GameStop*Ú¯ÛŒÙ…â€ŒØ§Ø³ØªØ§Ù¾2
+0.00004813:5.58AÃõ(\B+ÀH±§¸	R=https://s2.coinmarketcap.com/static/img/coins/64x64/31248.png
+‘
+
+1404/07/1914:19œì¨Ç"	SuperWalk*Ø³ÙˆÙ¾Ø±ÙˆØ§Ù„Ú©20.0274:3177Aq=
+×£p0ÀHŞé±	R=https://s2.coinmarketcap.com/static/img/coins/64x64/21706.png
+Ê
+
+1404/07/1914:19œì¨Ç" Invesco QQQ Tokenized ETF (Ondo)*.ETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø§ÛŒÙ†ÙˆØ³Ú©Ùˆ QQQ2588.46:68174506AìQ¸…ëÀHúÇ±	R=https://s2.coinmarketcap.com/static/img/coins/64x64/38094.png
 •
 
-1404/07/1914:06æ¨Ç"
-Mr Miggles*Ù…Ø³ØªØ± Ù…ÛŒÚ¯Ù„Ø²20.0188:2178A)\Âõ(ÀHëµÈR=https://s2.coinmarketcap.com/static/img/coins/64x64/32289.png
+1404/07/1914:19œì¨Ç"
+Bubblemaps*Ø¨Ø§Ø¨ÙÙ„â€ŒÙ…Ù¾Ø²20.0427:4944A¤p=
+×c@ÀH½’©	R=https://s2.coinmarketcap.com/static/img/coins/64x64/35214.png
+„
+
+1404/07/1914:20Øì¨Ç"RIZE*Ø±Ø§ÛŒØ²20.0200:2316AÂõ(\AÀHØæ 	R=https://s2.coinmarketcap.com/static/img/coins/64x64/36539.png
+Œ
+
+1404/07/1914:19œì¨Ç"GRIFFAIN*Ú¯Ø±ÛŒÙÛŒÙ†20.0194:2247AR¸…ëCÀH®ÂŸ	R=https://s2.coinmarketcap.com/static/img/coins/64x64/34792.png
 …
 
-1404/07/1914:06æ¨Ç"ARAI*Ø¢Ø±Ø§ÛŒ20.1203:13964A      ÀH‰ÈÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/38357.png
+1404/07/1914:20Øì¨Ç"AO*Ø§ÛŒâ€ŒØ§Ùˆ25.51:638434A33333ó1ÀHÂÉ	R=https://s2.coinmarketcap.com/static/img/coins/64x64/35386.png
+
+
+1404/07/1914:20Øì¨Ç"	Chainbase*Ú†ÛŒÙ† Ø¨ÛŒØ³20.1060:12282AÍÌÌÌÌAÀH”Â›	R=https://s2.coinmarketcap.com/static/img/coins/64x64/37340.png
+Š
+
+1404/07/1914:20Øì¨Ç"Galeon*Ú¯Ø§Ù„ÛŒÙˆÙ†20.0257:2982AHáz®Gõ¿Hç°–	R=https://s2.coinmarketcap.com/static/img/coins/64x64/18662.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"Assemble Protocol*Ø§Ø³Ù…Ø¨Ù„ Ù¾Ø±ÙˆØªÚ©Ù„20.0128:1486AìQ¸…k*ÀH¶œ–	R<https://s2.coinmarketcap.com/static/img/coins/64x64/6069.png
+–
+
+1404/07/1914:19œì¨Ç"	Araracoin*Ø¢Ø±Ø§Ø±Ø§Ú©ÙˆÛŒÙ†20.000530:61.45A333333ÀHøÌ•	R=https://s2.coinmarketcap.com/static/img/coins/64x64/38219.png
+œ
+
+1404/07/1914:19œì¨Ç"OMG Network*Ø§Ùˆ Ø§Ù… Ø¬ÛŒ Ù†ØªÙˆØ±Ú©20.1370:15873A…ëQ¸ ÀHëç”	R<https://s2.coinmarketcap.com/static/img/coins/64x64/1808.png
+
+
+1404/07/1914:19œì¨Ç"RAMP*Ø±Ù…Ù¾20.0401:4648A      ø¿Hª’	R<https://s2.coinmarketcap.com/static/img/coins/64x64/7463.png
+‡
+
+1404/07/1914:19œì¨Ç"Parcl*
+Ù¾Ø§Ø±Ú©Ù„20.0464:5374A¸…ëQø>ÀHä˜	R=https://s2.coinmarketcap.com/static/img/coins/64x64/30661.png
+
+
+1404/07/1914:19œì¨Ç"doginme*Ø¯Ø§Ú¯ÛŒÙ†Ù…ÛŒ20.000282:32.68Affffff2ÀHì®Œ	R=https://s2.coinmarketcap.com/static/img/coins/64x64/30759.png
+Œ
+
+1404/07/1914:19œì¨Ç"Nexa (nexaagent.xyz)21.9066:220891A333333ÀHâÜ‹	R=https://s2.coinmarketcap.com/static/img/coins/64x64/38169.png
+„
+
+1404/07/1914:19œì¨Ç"DIMO*Ø¯ÛŒÙ…Ùˆ20.0474:5495AR¸…ëÑ)ÀHŸ ‹	R=https://s2.coinmarketcap.com/static/img/coins/64x64/22837.png
+…
+
+1404/07/1914:19œì¨Ç"IDEX*
+Ø¢ÛŒØ¯Ú©Ø³20.0194:2248A)\Âõ(5ÀH°øŠ	R<https://s2.coinmarketcap.com/static/img/coins/64x64/3928.png
+—
+
+1404/07/1914:20Øì¨Ç"IX Token*Ø¢ÛŒâ€ŒØ§Ú©Ø³ ØªÙˆÚ©Ù†20.1446:16751A¸…ëQ¸ÀHàø‡	R=https://s2.coinmarketcap.com/static/img/coins/64x64/17131.png
+˜
+
+1404/07/1914:19œì¨Ç"	RadioCaca*Ø±Ø§Ø¯ÛŒÙˆ Ú©Ø§Ú©Ø§2
+0.00004603:5.33Aáz®Ga,ÀHİÌ„	R=https://s2.coinmarketcap.com/static/img/coins/64x64/11346.png
+ƒ
+
+1404/07/1914:19œì¨Ç"Klink Finance20.0817:9470A33333³1ÀHÍáƒ	R=https://s2.coinmarketcap.com/static/img/coins/64x64/38512.png
+”
+
+1404/07/1914:19œì¨Ç"ZUSD*Ø²ÛŒ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.9938:115140A
+×£p=
+Ç¿Hò£	R<https://s2.coinmarketcap.com/static/img/coins/64x64/8772.png
+
+
+1404/07/1914:19œì¨Ç"Alchemix*Ø§Ù„Ú©Ù…ÛŒÚ©Ø³27.54:874065AÍÌÌÌÌL.ÀHÄìÿR<https://s2.coinmarketcap.com/static/img/coins/64x64/8613.png
+‚
+
+1404/07/1914:20Øì¨Ç"Hana Network20.0621:7195Aš™™™™™ÀHìÍÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/38468.png
 ‹
 
-1404/07/1914:05Ôå¨Ç"Kujira*Ú©ÙˆØ¬ÛŒØ±Ø§20.1459:16932Aq=
+1404/07/1914:19œì¨Ç"Alephium*
+Ø§Ù„ÙÛŒÙ…20.1543:17882Aáz®Ga+ÀH™êûR=https://s2.coinmarketcap.com/static/img/coins/64x64/14878.png
+Œ
+
+1404/07/1914:19œì¨Ç"Metacade*Ù…ØªØ§Ú©ÛŒØ¯20.0115:1338AÃõ(\B/ÀHÌìóR=https://s2.coinmarketcap.com/static/img/coins/64x64/24303.png
+‘
+
+1404/07/1914:20Øì¨Ç"OpenServ*Ø§ÙˆÙ¾Ù†â€ŒØ³Ø±Ùˆ20.0278:3217AR¸…ëQ,ÀHÁÏóR=https://s2.coinmarketcap.com/static/img/coins/64x64/33964.png
+…
+
+1404/07/1914:19œì¨Ç"Wen*ÙˆÙÙ†2
+0.00002561:2.97AÃõ(\B?ÀHíÀñR=https://s2.coinmarketcap.com/static/img/coins/64x64/29175.png
+º
+
+1404/07/1914:19œì¨Ç"Alpine F1 Team Fan Token*(Ø¢Ù„Ù¾Ø§ÛŒÙ† Ø§ÙÛ± ØªÛŒÙ… ÙÙ† ØªÙˆÚ©Ù†20.9911:114826A)\Âõh:ÀHê´ìR=https://s2.coinmarketcap.com/static/img/coins/64x64/18112.png
+
+
+1404/07/1914:19œì¨Ç"	TomoChain*ØªÙˆÙ…ÙˆÚ†ÛŒÙ†20.1509:17486A=
+×£p};ÀH×İëR<https://s2.coinmarketcap.com/static/img/coins/64x64/2570.png
+Œ
+
+1404/07/1914:19œì¨Ç"dForce*Ø¯ÛŒâ€ŒÙÙˆØ±Ø³20.0185:2141A)\Âõ(<ÀHÊ‰èR<https://s2.coinmarketcap.com/static/img/coins/64x64/4758.png
+
+
+1404/07/1914:19œì¨Ç"	The Arena*Ø¢Ø±Ù†Ø§20.005008:580.15AÃõ(\Â6ÀHüÕæR=https://s2.coinmarketcap.com/static/img/coins/64x64/33708.png
+‰
+
+1404/07/1914:20Øì¨Ç"Yooldo*
+ÛŒÙˆÙ„Ø¯Ùˆ20.1438:16655Aq=
+×£00ÀH¶æR=https://s2.coinmarketcap.com/static/img/coins/64x64/37414.png
+…
+
+1404/07/1914:19œì¨Ç"DOWGE*Ø¯Ø§ÙˆØ¬20.0184:2132AÍÌÌÌÌL*ÀH£«ãR=https://s2.coinmarketcap.com/static/img/coins/64x64/37279.png
+™
+
+1404/07/1914:19œì¨Ç"BOBO*Ø¨ÙˆØ¨Ùˆ20.00000027490964135229624:0.0318A…ëQ¸^3ÀH„×ÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/25269.png
+‡
+
+1404/07/1914:19œì¨Ç"Maiga*
+Ù…Ø§ÛŒÚ¯Ø§20.0649:7517A{®Gáº9ÀHúæÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/38400.png
+œ
+
+1404/07/1914:20Øì¨Ç"Comtech Gold*Ú©Ø§Ù…â€ŒØªÚ© Ú¯Ù„Ø¯2128.75:14916349Aš™™™™™É?Hä„ÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/20245.png
+ó
+
+1404/07/1914:20Øì¨Ç"3iShares 20+ Year Treasury Bond Tokenized ETF (Ondo)*EETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢ÛŒâ€ŒØ´ÛŒØ±Ø² Ø®Ø²Ø§Ù†Ù‡ Û²Û°+ Ø³Ø§Ù„Ù‡291.65:10618070A…ëQ¸ñ?H˜ÅÒR=https://s2.coinmarketcap.com/static/img/coins/64x64/38031.png
+­
+
+1404/07/1914:19œì¨Ç"FONSmartChain*&Ø§Ùâ€ŒØ§Ùˆâ€ŒØ§Ù† Ø§Ø³Ù…Ø§Ø±Øª Ú†ÛŒÙ†21.0437:120918Aáz®GáÀHÎ€ÒR=https://s2.coinmarketcap.com/static/img/coins/64x64/22607.png
+‡
+
+1404/07/1914:19œì¨Ç"Puffer*Ù¾Ø§ÙØ±20.1029:11921Aš™™™™™;ÀHÏƒÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/32325.png
+‹
+
+1404/07/1914:20Øì¨Ç"nubcat*Ù†Ø§Ø¨â€ŒÚ©Øª20.0190:2199AHáz®=ÀHÿæÌR=https://s2.coinmarketcap.com/static/img/coins/64x64/30493.png
+š
+
+1404/07/1914:20Øì¨Ç"Hermez Network*Ù‡Ø±Ù…ÙØ² Ù†ØªÙˆØ±Ú©23.84:444490Aö(\ÂõÀHãÍÌR<https://s2.coinmarketcap.com/static/img/coins/64x64/7424.png
+Ã
+
+1404/07/1914:19œì¨Ç"Impossible Finance Launchpad*/Ø§ÛŒÙ…Ù¾Ø§Ø³ÛŒØ¨Ù„ ÙØ§ÛŒÙ†Ù†Ø³ Ù„Ø§Ù†Ú†â€ŒÙ¾Ø¯20.0264:3063Aö(\Âu5ÀH¢¸ÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/10933.png
+…
+
+1404/07/1914:19œì¨Ç"ARAI*Ø¢Ø±Ø§ÛŒ20.1202:13921A…ëQ¸…ÀHç…ÄR=https://s2.coinmarketcap.com/static/img/coins/64x64/38357.png
+‹
+
+1404/07/1914:19œì¨Ç"Kujira*Ú©ÙˆØ¬ÛŒØ±Ø§20.1459:16903Aq=
 ×£p4ÀH‰ÈÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/15185.png
+
+
+1404/07/1914:19œì¨Ç"WazirX*ÙˆØ²ÛŒØ±Ø§ÛŒÚ©Ø³20.0467:5414A¸…ëQ¸@HÎšÁR<https://s2.coinmarketcap.com/static/img/coins/64x64/5161.png
+•
+
+1404/07/1914:19œì¨Ç"
+Mr Miggles*Ù…Ø³ØªØ± Ù…ÛŒÚ¯Ù„Ø²20.0186:2159A×£p=
+×ÀHêøÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/32289.png
 £
 
-1404/07/1914:06æ¨Ç"Pikachu*Ù¾ÛŒÚ©Ø§Ú†Ùˆ20.000000042393215543903903:0.004920A
+1404/07/1914:19œì¨Ç"Pikachu*Ù¾ÛŒÚ©Ø§Ú†Ùˆ20.000000042393215543903903:0.004911A
 ×£p=Š(ÀH¡ÃÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/26532.png
 ˜
 
-1404/07/1914:06æ¨Ç"NeuralAI*Ù†ÙˆØ±Ø§Ù„ Ø§ÛŒâ€ŒØ¢ÛŒ21.7747:205953AR¸…ëQÀHØ—»R=https://s2.coinmarketcap.com/static/img/coins/64x64/30528.png
+1404/07/1914:20Øì¨Ç"NeuralAI*Ù†ÙˆØ±Ø§Ù„ Ø§ÛŒâ€ŒØ¢ÛŒ21.7751:205650A\Âõ(\ÀHÀ·»R=https://s2.coinmarketcap.com/static/img/coins/64x64/30528.png
+
+
+1404/07/1914:19œì¨Ç"ELYSIA*Ø§Ù„ÛŒØ²ÛŒØ§20.003611:418.32A×£p=
+×#ÀHÆ£¸R<https://s2.coinmarketcap.com/static/img/coins/64x64/5382.png
+¦
+
+1404/07/1914:19œì¨Ç"Bitgert*Ø¨ÛŒØªâ€ŒÚ¯Ø±Øª20.000000044638760067150525:0.005172A®Gáz”#ÀH†‰¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/11079.png
 ’
 
-1404/07/1914:05Ôå¨Ç"	DAO Maker*Ø¯Ø§Ø¦Ùˆ Ù…ÛŒÚ©Ø±20.0881:10228A)\Âõè1ÀHÆÉ¸R<https://s2.coinmarketcap.com/static/img/coins/64x64/8420.png
+1404/07/1914:19œì¨Ç"	DAO Maker*Ø¯Ø§Ø¦Ùˆ Ù…ÛŒÚ©Ø±20.0878:10171A{®Gá:2ÀHƒ®´R<https://s2.coinmarketcap.com/static/img/coins/64x64/8420.png
 š
 
-1404/07/1914:05Ôå¨Ç"Houdini Swap*Ù‡ÙˆØ¯ÛŒÙ†ÛŒ Ø³ÙˆØ§Ù¾20.1947:22594A®Gáz.BÀHàï¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/23396.png
-¦
-
-1404/07/1914:06æ¨Ç"Bitgert*Ø¨ÛŒØªâ€ŒÚ¯Ø±Øª20.000000044654600778729246:0.005182A×£p=
-×"ÀH‚º¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/11079.png
-
-
-1404/07/1914:05Ôå¨Ç"ELYSIA*Ø§Ù„ÛŒØ²ÛŒØ§20.003600:417.80A…ëQ¸$ÀHÃµR<https://s2.coinmarketcap.com/static/img/coins/64x64/5382.png
-
-
-1404/07/1914:05Ôå¨Ç"WazirX*ÙˆØ²ÛŒØ±Ø§ÛŒÚ©Ø³20.0462:5360AìQ¸…ë@H–Ç´R<https://s2.coinmarketcap.com/static/img/coins/64x64/5161.png
+1404/07/1914:19œì¨Ç"Houdini Swap*Ù‡ÙˆØ¯ÛŒÙ†ÛŒ Ø³ÙˆØ§Ù¾20.1941:22492A)\ÂõHBÀHáç³R=https://s2.coinmarketcap.com/static/img/coins/64x64/23396.png
 ‘
 
-1404/07/1914:06æ¨Ç"PlaysOut*Ù¾Ù„ÛŒØ²â€ŒØ§ÙˆØª20.0356:4136Aš™™™™Ù5ÀHÏ·³R=https://s2.coinmarketcap.com/static/img/coins/64x64/37534.png
+1404/07/1914:19œì¨Ç"PlaysOut*Ù¾Ù„ÛŒØ²â€ŒØ§ÙˆØª20.0356:4127A…ëQ¸…6ÀHñõ²R=https://s2.coinmarketcap.com/static/img/coins/64x64/37534.png
  
 
-1404/07/1914:05Ôå¨Ç"Nakamoto Games*Ù†Ø§Ú©Ø§Ù…ÙˆØªÙˆ Ú¯ÛŒÙ…Ø²20.1648:19122A¸…ëQ¸1ÀH·Ô§R=https://s2.coinmarketcap.com/static/img/coins/64x64/12749.png
+1404/07/1914:19œì¨Ç"Nakamoto Games*Ù†Ø§Ú©Ø§Ù…ÙˆØªÙˆ Ú¯ÛŒÙ…Ø²20.1653:19151A…ëQ¸1ÀH«R=https://s2.coinmarketcap.com/static/img/coins/64x64/12749.png
 
 
-1404/07/1914:06æ¨Ç"Tokemak*ØªÙˆÚ©Ù‡â€ŒÙ…Ú©20.2063:23940A¸…ëQ¸'ÀHÓÓ§R=https://s2.coinmarketcap.com/static/img/coins/64x64/11202.png
+1404/07/1914:19œì¨Ç"Tokemak*ØªÙˆÚ©Ù‡â€ŒÙ…Ú©20.2063:23899A33333³'ÀHĞ§R=https://s2.coinmarketcap.com/static/img/coins/64x64/11202.png
 µ
 
-1404/07/1914:06æ¨Ç"Agoras: Currency of Tau*&Ø¢Ú¯ÙˆØ±Ø§Ø³: Ú©Ø§Ø±Ù†Ø³ÛŒ Ø¢Ù ØªØ§Ùˆ20.5828:67635A=
-×£p= ÀH‹¦R<https://s2.coinmarketcap.com/static/img/coins/64x64/1037.png
-¦
-
-1404/07/1914:05Ôå¨Ç"Orbiter Finance*Ø§ÙˆØ±Ø¨ÛŒØªØ± ÙØ§ÛŒÙ†Ù†Ø³20.003533:410.04Aš™™™™Ù2ÀH•Ú R=https://s2.coinmarketcap.com/static/img/coins/64x64/35422.png
-“
-
-1404/07/1914:06æ¨Ç"	Propchain*Ù¾Ø±Ø§Ù¾â€ŒÚ†ÛŒÙ†20.4039:46878A…ëQ¸ ÀHË ˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/24220.png
-–
-
-1404/07/1914:05Ôå¨Ç"Ambire Wallet*Ø§Ù…Ø¨ÛŒØ± ÙˆÙ„Øª20.0237:2751AìQ¸…k#ÀHæĞ•R=https://s2.coinmarketcap.com/static/img/coins/64x64/17722.png
-~
-
-1404/07/1914:05Ôå¨Ç"noice20.000294:34.10AìQ¸…ë0ÀH”ò“R=https://s2.coinmarketcap.com/static/img/coins/64x64/38618.png
-¦
-
-1404/07/1914:05Ôå¨Ç"Covalent X Token*Ú©ÙˆØ§Ù„Ù†Øª Ø§ÛŒÚ©Ø³ ØªÙˆÚ©Ù†20.0173:2009A{®Gáú2ÀH±ÒR=https://s2.coinmarketcap.com/static/img/coins/64x64/32526.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Altura*Ø¢Ù„ØªÙˆØ±Ø§20.0172:1995A×£p=
-—3ÀHôíR<https://s2.coinmarketcap.com/static/img/coins/64x64/9637.png
-
-
-1404/07/1914:05Ôå¨Ç"Sperax*Ø§Ø³Ù¾Ø±Ú©Ø³20.008303:963.62A×£p=
-W)ÀHû„R<https://s2.coinmarketcap.com/static/img/coins/64x64/6715.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"CLV*Ø³ÛŒâ€ŒØ§Ù„â€ŒÙˆÛŒ20.0139:1609AìQ¸…+6ÀHËÓ‹R<https://s2.coinmarketcap.com/static/img/coins/64x64/8384.png
-‡
-
-1404/07/1914:06æ¨Ç"Mango*
-Ù…Ø§Ù†Ú¯Ùˆ20.0152:1761AffffffÀH¦‡‹R=https://s2.coinmarketcap.com/static/img/coins/64x64/11171.png
-œ
-
-1404/07/1914:05Ôå¨Ç"Hooked Protocol*Ù‡ÙˆÚ©Ø¯ Ù¾Ø±ÙˆØªÚ©Ù„20.0642:7452A{®GášAÀHñ¨ŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/22764.png
-
-
-1404/07/1914:05Ôå¨Ç"	Open Loot*Ø§ÙˆÙ¾Ù† Ù„ÙˆØª20.0217:2520A¸…ëQXBÀHö“ŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/34034.png
-„
-
-1404/07/1914:06æ¨Ç"Melon*Ù…Ù„ÙˆÙ†25.66:656628Aš™™™™Y=ÀHÿì‡R<https://s2.coinmarketcap.com/static/img/coins/64x64/1552.png
-Š
-
-1404/07/1914:05Ôå¨Ç"MetFi*Ù…Øªâ€ŒÙØ§ÛŒ20.0636:7385A=
-×£p=
-ÀHê×üR=https://s2.coinmarketcap.com/static/img/coins/64x64/24225.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Velvet*ÙˆÙ„ÙˆØª20.1844:21398A…ëQ¸…@HİüR=https://s2.coinmarketcap.com/static/img/coins/64x64/37298.png
-
-
-1404/07/1914:05Ôå¨Ç"Swell Network*Ø³ÙˆØ§ÙÙ„ Ù†ØªÙˆØ±Ú©20.006313:732.66A)\Âõh7ÀHëÛûR=https://s2.coinmarketcap.com/static/img/coins/64x64/24924.png
-‡
-
-1404/07/1914:05Ôå¨Ç"LOAN Protocol20.000907:105.22A{®Gáz(ÀH³ÍúR=https://s2.coinmarketcap.com/static/img/coins/64x64/22071.png
-¢
-
-1404/07/1914:05Ôå¨Ç"Star Atlas DAO*Ø§Ø³ØªØ§Ø± Ø§Ø·Ù„Ø³ Ø¯Ø§Ø¦Ùˆ20.0538:6245Aš™™™™™%ÀH¥¿úR=https://s2.coinmarketcap.com/static/img/coins/64x64/11213.png
-‘
-
-1404/07/1914:05Ôå¨Ç"
-Badger DAO*Ø¨Ø¬Ø± Ø¯Ø§Ø¦Ùˆ20.8298:96294Aö(\Âu.ÀH™›ùR<https://s2.coinmarketcap.com/static/img/coins/64x64/7859.png
-š
-
-1404/07/1914:05Ôå¨Ç"Cross The Ages*Ú©Ø±Ø§Ø³ Ø¯ Ø§ÛŒØ¬Ø²20.0332:3848A\Âõ(\2ÀH¤üóR=https://s2.coinmarketcap.com/static/img/coins/64x64/31185.png
-„
-
-1404/07/1914:05Ôå¨Ç"Roam*Ø±ÙˆØ§Ù…20.0516:5988Aáz®GADÀHÁ€îR=https://s2.coinmarketcap.com/static/img/coins/64x64/32088.png
-”
-
-1404/07/1914:05Ôå¨Ç"PaLM AI*Ù¾Ø§Ù„Ù… Ø§ÛŒâ€ŒØ¢ÛŒ20.2135:24774A{®Gáz.ÀHÊüìR=https://s2.coinmarketcap.com/static/img/coins/64x64/28567.png
-
-
-1404/07/1914:05Ôå¨Ç"	UNS TOKEN*ÛŒÙˆâ€ŒØ§Ù†â€ŒØ§Ø³ ØªÙˆÚ©Ù†20.1545:17926A¸…ëQ¸®?HÆÍãR=https://s2.coinmarketcap.com/static/img/coins/64x64/23081.png
-—
-
-1404/07/1914:05Ôå¨Ç"XSGD*Ø§Ú©Ø³â€ŒØ§Ø³â€ŒØ¬ÛŒâ€ŒØ¯ÛŒ20.7692:89270Aq=
-×£pÍ¿HÔ½ãR<https://s2.coinmarketcap.com/static/img/coins/64x64/8489.png
-ˆ
-
-1404/07/1914:06æ¨Ç"Coral Protocol20.001905:221.06Afffffæ#ÀHè¼âR=https://s2.coinmarketcap.com/static/img/coins/64x64/36338.png
-•
-
-1404/07/1914:05Ôå¨Ç"	OctaSpace*Ø§Ú©ØªØ§ Ø§Ø³Ù¾ÛŒØ³20.4110:47693Aš™™™™™ÀHÛ™ÚR=https://s2.coinmarketcap.com/static/img/coins/64x64/24261.png
-¡
-
-1404/07/1914:05Ôå¨Ç"Redbelly Network*Ø±Ø¯Ø¨Ù„ÛŒ Ù†ØªÙˆØ±Ú©20.007206:836.30A=
-×£p½%ÀH·÷ÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/34849.png
-‘
-
-1404/07/1914:06æ¨Ç"
-Aavegotchi*Ø¢ÙˆÙ‡ Ú¯Ø§Ú†ÛŒ20.3042:35302A=
-×£p½7ÀHï­ÓR<https://s2.coinmarketcap.com/static/img/coins/64x64/7046.png
-€
-
-1404/07/1914:05Ôå¨Ç"Vow*ÙˆØ§Ùˆ20.0449:5212A¤p=
-×£
-ÀH¼ØĞR<https://s2.coinmarketcap.com/static/img/coins/64x64/8670.png
-
-
-1404/07/1914:05Ôå¨Ç"Joe coin*Ø¬Ùˆ Ú©ÙˆÛŒÙ†20.0160:1851AÍÌÌÌÌL/ÀHÃÍR=https://s2.coinmarketcap.com/static/img/coins/64x64/28504.png
-¡
-
-1404/07/1914:06æ¨Ç"Book of Ethereum*Ø¨ÙˆÚ© Ø¢Ù Ø§ØªØ±ÛŒÙˆÙ…20.1654:19200Aš™™™™™ÀHìªËR=https://s2.coinmarketcap.com/static/img/coins/64x64/31171.png
-—
-
-1404/07/1914:05Ôå¨Ç"ROGin AI*Ø±ÙˆÚ¯ÛŒÙ† Ø§ÛŒâ€ŒØ¢ÛŒ20.2375:27563Affffffò?H‡ËR=https://s2.coinmarketcap.com/static/img/coins/64x64/20490.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"NKN*Ø§Ù†â€ŒÚ©ÛŒâ€ŒØ§Ù†20.0200:2326Aš™™™™Ù4ÀHËÉÊR<https://s2.coinmarketcap.com/static/img/coins/64x64/2780.png
-
-
-1404/07/1914:06æ¨Ç"PlatON*Ù¾Ù„Øªâ€ŒØ¢Ù†20.002358:273.62Aš™™™™5ÀHú±ÇR<https://s2.coinmarketcap.com/static/img/coins/64x64/9720.png
-
-
-1404/07/1914:05Ôå¨Ç"Uranus*ÛŒÙˆØ±Ø§Ù†ÙˆØ³20.1575:18279A33333ó0ÀH´©ÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/37522.png
-¡
-
-1404/07/1914:05Ôå¨Ç"Heroes of Mavia*Ù‡ÛŒØ±ÙˆØ² Ø¢Ù Ù…Ø§ÙˆÛŒØ§20.0835:9695Aáz®Ga@ÀH€ç¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/28829.png
-®
-
-1404/07/1914:05Ôå¨Ç"Shapeshift FOX Token*#Ø´ÛŒÙ¾â€ŒØ´ÛŒÙØª ÙØ§Ú©Ø³ ØªÙˆÚ©Ù†20.0203:2360A¸…ëQ8)ÀHØ¸¾R<https://s2.coinmarketcap.com/static/img/coins/64x64/8200.png
-‘
-
-1404/07/1914:06æ¨Ç"Bitlayer*Ø¨ÛŒØªâ€ŒÙ„ÙÛŒØ±20.0600:6964Aáz®G¡2ÀHš¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/36277.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Portal*Ù¾ÙˆØ±ØªØ§Ù„20.0268:3108A®Gáz.>ÀHÉÔ¸R=https://s2.coinmarketcap.com/static/img/coins/64x64/29555.png
-“
-
-1404/07/1914:05Ôå¨Ç"SKYAI*Ø§Ø³Ú©Ø§ÛŒ Ø§ÛŒâ€ŒØ¢ÛŒ20.0156:1806Aö(\ÂUGÀHş÷µR=https://s2.coinmarketcap.com/static/img/coins/64x64/36300.png
-“
-
-1404/07/1914:05Ôå¨Ç"RICE AI*Ø±Ø§ÛŒØ³ Ø§ÛŒâ€ŒØ¢ÛŒ20.0735:8535A)\Âõ(5ÀHËÈµR=https://s2.coinmarketcap.com/static/img/coins/64x64/37596.png
-š
-
-1404/07/1914:06æ¨Ç"dYdX*Ø¯ÛŒâ€ŒÙˆØ§ÛŒâ€ŒØ¯ÛŒâ€ŒØ§Ú©Ø³20.3727:43255A     `AÀH‰×³R=https://s2.coinmarketcap.com/static/img/coins/64x64/11156.png
-¼
-
-1404/07/1914:05Ôå¨Ç"RichQUACK.com*Ø±ÛŒÚ† Ú©ÙˆØ¢Ú© Ø¯Ø§Øª Ú©Ø§Ù…20.000000000351782388504567:
-0.00004100A=
-×£p½"ÀH¸É²R=https://s2.coinmarketcap.com/static/img/coins/64x64/10641.png
-¡
-
-1404/07/1914:05Ôå¨Ç"Harvest Finance*Ù‡Ø§Ø±ÙˆØ³Øª ÙØ§ÛŒÙ†Ù†Ø³222.84:2650709A×£p=
-×.ÀH½Œ©R<https://s2.coinmarketcap.com/static/img/coins/64x64/6859.png
+1404/07/1914:19œì¨Ç"Agoras: Currency of Tau*&Ø¢Ú¯ÙˆØ±Ø§Ø³: Ú©Ø§Ø±Ù†Ø³ÛŒ Ø¢Ù ØªØ§Ùˆ20.5827:67511A{®Gáz!ÀHˆ¦R<https://s2.coinmarketcap.com/static/img/coins/64x64/1037.png
 ‚
 
-1404/07/1914:05Ôå¨Ç"SIX*Ø³ÛŒÚ©Ø³20.0180:2088A\Âõ(Ü"ÀH¼À¦R<https://s2.coinmarketcap.com/static/img/coins/64x64/3327.png
-œ
-
-1404/07/1914:05Ôå¨Ç"	BFG Token*Ø¨ÛŒâ€ŒØ§Ùâ€ŒØ¬ÛŒ ØªÙˆÚ©Ù†20.0136:1578Aq=
-×£pÀHÚ‰¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/11038.png
-¡
-
-1404/07/1914:05Ôå¨Ç"Sentinel Protocol*Ø³Ù†ØªÛŒÙ†Ù„ Ù¾Ø±ÙˆØªÚ©Ù„20.0304:3533AìQ¸…ë.ÀHµÊR<https://s2.coinmarketcap.com/static/img/coins/64x64/2866.png
-¤
-
-1404/07/1914:05Ôå¨Ç"Indigo Protocol*Ø§ÛŒÙ†Ø¯ÛŒÚ¯Ùˆ Ù¾Ø±ÙˆØªÚ©Ù„20.9394:109015AÃõ(\1ÀHñ±˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/22771.png
-™
-
-1404/07/1914:05Ôå¨Ç"Dego Finance*Ø¯ÛŒÚ¯Ùˆ ÙØ§ÛŒÙ†Ù†Ø³20.7106:82463A®Gáz®CÀH¾ÔR<https://s2.coinmarketcap.com/static/img/coins/64x64/7087.png
-µ
-
-1404/07/1914:05Ôå¨Ç"crow with knife*Ú©Ø±Ùˆ ÙˆÛŒØª Ù†Ø§ÛŒÙ20.000000019259731998775778:0.002235Affffff#ÀH¼şˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/30402.png
-‰
-
-1404/07/1914:06æ¨Ç"Zerebro*
-Ø²Ø±Ø¨Ø±Ùˆ20.0148:1720A…ëQ¸Å0ÀHÍ­ˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/34083.png
-¼
-
-1404/07/1914:05Ôå¨Ç"Green Satoshi Token (SOL)*'Ú¯Ø±ÛŒÙ† Ø³Ø§ØªÙˆØ´ÛŒ ØªÙˆÚ©Ù† (Ø³ÙˆÙ„)20.003664:425.17A¸…ëQ¸)ÀHŒƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/16352.png
-œ
-
-1404/07/1914:05Ôå¨Ç"Broccoli (FirstBroccoli)*Ø¨Ø±ÙˆÚ©Ù„ÛŒ20.0147:1709A®Gáz®.ÀHÓó‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/35753.png
-„
-
-1404/07/1914:06æ¨Ç"Liberals Tears20.0147:1707A)\Âõ(ÀHöíR=https://s2.coinmarketcap.com/static/img/coins/64x64/37102.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Brickken*
-Ø¨Ø±ÛŒÚ©Ù†20.1824:21164A=
-×£p½3ÀH®–€R=https://s2.coinmarketcap.com/static/img/coins/64x64/21822.png
-“
-
-1404/07/1914:05Ôå¨Ç"
-VICE Token*ÙˆØ§ÛŒØ³ ØªÙˆÚ©Ù†20.0147:1708Aáz®G¡HÀH‘ÿûR=https://s2.coinmarketcap.com/static/img/coins/64x64/35575.png
-|
-
-1404/07/1914:05Ôå¨Ç"NetX20.9254:107396AR¸…ëQ0ÀH“¿ûR=https://s2.coinmarketcap.com/static/img/coins/64x64/38435.png
-¥
-
-1404/07/1914:05Ôå¨Ç"Seedify.fund*!Ø³ÛŒØ¯ÛŒâ€ŒÙØ§ÛŒ Ø¯Ø§Øª ÙØ§Ù†Ø¯20.1969:22846A)\Âõ¨/ÀH€£ûR<https://s2.coinmarketcap.com/static/img/coins/64x64/8972.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Synapse*Ø³ÛŒÙ†Ø§Ù¾Ø³20.0788:9150AR¸…ëÑ<ÀHäÑúR=https://s2.coinmarketcap.com/static/img/coins/64x64/12147.png
-‹
-
-1404/07/1914:06æ¨Ç"Cointel*Ú©ÙˆÛŒÙ†ØªÙ„20.0256:2975A®GázÀHÜŒöR=https://s2.coinmarketcap.com/static/img/coins/64x64/36178.png
-‘
-
-1404/07/1914:06æ¨Ç"zKML*Ø²Ø¯Ú©ÛŒ Ø§Ù…â€ŒØ§Ù„20.1504:17452AÍÌÌÌÌÌ,ÀHËâõR=https://s2.coinmarketcap.com/static/img/coins/64x64/29445.png
-¥
-
-1404/07/1914:05Ôå¨Ç"Perpetual Protocol*Ù¾Ø±Ù¾Ú†ÙˆØ§Ù„ Ù¾Ø±ÙˆØªÚ©Ù„20.2197:25495A{®Gáú4ÀHù€õR<https://s2.coinmarketcap.com/static/img/coins/64x64/6950.png
-»
-
-1404/07/1914:05Ôå¨Ç"Build On BNB* Ø¨ÛŒÙ„Ø¯ Ø¢Ù† Ø¨ÛŒâ€ŒØ§Ù†â€ŒØ¨ÛŒ20.00000003444223051514696:0.003997AHáz®‡0ÀH¯ôR=https://s2.coinmarketcap.com/static/img/coins/64x64/34422.png
-©
-
-1404/07/1914:06æ¨Ç"Mines of Dalarnia* Ù…Ø§ÛŒÙ†Ø² Ø¢Ù Ø¯Ø§Ù„Ø§Ø±Ù†ÛŒØ§20.0223:2591AR¸…ë=ÀHˆøòR=https://s2.coinmarketcap.com/static/img/coins/64x64/11374.png
-
-
-1404/07/1914:06æ¨Ç"Wanchain*ÙˆØ§Ù†â€ŒÚ†ÛŒÙ†20.0728:8443AÂõ(\%ÀH§¥òR<https://s2.coinmarketcap.com/static/img/coins/64x64/2606.png
-‡
-
-1404/07/1914:06æ¨Ç"Hathor*
-Ù‡Ø§ØªÙˆØ±20.0288:3345A¸…ëQ¸ÀH¥îR<https://s2.coinmarketcap.com/static/img/coins/64x64/5552.png
-ö
-
-1404/07/1914:05Ôå¨Ç"3iShares Core US Aggregate Bond Tokenized ETF (Ondo)*PETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢ÛŒâ€ŒØ´ÛŒØ±Ø² Ø§ÙˆØ±Ø§Ù‚ ØªØ¬Ù…ÛŒØ¹ÛŒ Ø¢Ù…Ø±ÛŒÚ©Ø§2101.58:11788435HÀ—ëR=https://s2.coinmarketcap.com/static/img/coins/64x64/38072.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"UTRUST*ÛŒÙˆØªØ± Ø§Ø³Øª20.0203:2359A®Gáz®5ÀH·ÒéR<https://s2.coinmarketcap.com/static/img/coins/64x64/2320.png
-ƒ
-
-1404/07/1914:05Ôå¨Ç"HOPR*Ù‡Ø§Ù¾Ø±20.0419:4861Aq=
-×£ğ,ÀHÄèR<https://s2.coinmarketcap.com/static/img/coins/64x64/6520.png
-ƒ
-
-1404/07/1914:06æ¨Ç"EVAA Protocol22.16:250585AÃõ(\‚BÀH¤™èR=https://s2.coinmarketcap.com/static/img/coins/64x64/38376.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Heima*
-Ù‡Ø§ÛŒÙ…Ø§20.1833:21271A¸…ëQxFÀH“çR=https://s2.coinmarketcap.com/static/img/coins/64x64/35724.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Obol*
-Ø§ÙˆØ¨ÙˆÙ„20.1122:13025AR¸…ëQü¿H…ªãR=https://s2.coinmarketcap.com/static/img/coins/64x64/36278.png
-Ú
-
-1404/07/1914:06æ¨Ç"+iShares Core MSCI EAFE Tokenized ETF (Ondo)*5ETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢ÛŒâ€ŒØ´ÛŒØ±Ø² MSCI EAFE286.17:9999744Aáz®Gáö¿HÉşâR=https://s2.coinmarketcap.com/static/img/coins/64x64/38021.png
-†
-
-1404/07/1914:06æ¨Ç"AdEx*
-Ø§Ø¯Ø§Ú©Ø³20.0954:11072Aáz®Ga*ÀHœ İR<https://s2.coinmarketcap.com/static/img/coins/64x64/1768.png
-
-
-1404/07/1914:05Ôå¨Ç"Union*ÛŒÙˆÙ†ÛŒÙˆÙ†20.007352:853.26A×£p=
-W<ÀHİ˜İR=https://s2.coinmarketcap.com/static/img/coins/64x64/38270.png
-ƒ
-
-1404/07/1914:06æ¨Ç"cheqd*Ú†Ù‚Ø¯20.0219:2545AÍÌÌÌÌÌ!ÀH¦ëÛR=https://s2.coinmarketcap.com/static/img/coins/64x64/12256.png
-¢
-
-1404/07/1914:06æ¨Ç"GenesysGo Shadow*Ø¬Ù†Ø³ÛŒØ³â€ŒÚ¯Ùˆ Ø´Ø§Ø¯Ùˆ20.0832:9660A=
-×£p}2ÀHëóÚR=https://s2.coinmarketcap.com/static/img/coins/64x64/16868.png
-¼
-
-1404/07/1914:05Ôå¨Ç"Paris Saint-Germain Fan Token*&Ù¾Ø§Ø±ÛŒØ³ Ø³Ù† Ú˜Ø±Ù…Ù† ÙÙ† ØªÙˆÚ©Ù†21.2228:141909Aáz®Gá2ÀH½ÄÙR<https://s2.coinmarketcap.com/static/img/coins/64x64/5226.png
-µ
-
-1404/07/1914:05Ôå¨Ç"Public Masterpiece Token*$Ù¾Ø§Ø¨Ù„ÛŒÚ© Ù…Ø³ØªØ±Ù¾ÛŒØ³ ØªÙˆÚ©Ù†20.1086:12604A      Ğ?H–›ØR=https://s2.coinmarketcap.com/static/img/coins/64x64/32232.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Wojak*ÙˆÙˆØ¬Ú©20.000202:23.39A     €.ÀH¶òÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/24502.png
-š
-
-1404/07/1914:06æ¨Ç"	TG Casino*ØªÛŒâ€ŒØ¬ÛŒ Ú©Ø§Ø²ÛŒÙ†Ùˆ20.1749:20302A¤p=
-×£ÀHÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/28919.png
-†
-
-1404/07/1914:05Ôå¨Ç"LOFI*
-Ù„ÙˆÙØ§ÛŒ20.0139:1610Affffff)ÀHªÒÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/34187.png
-˜
-
-1404/07/1914:06æ¨Ç"Aleph.im*Ø§Ù„Ù Ø¯Ø§Øª Ø¢ÛŒâ€ŒØ§Ù…20.0561:6505Aq=
-×£p)ÀH‚áÍR<https://s2.coinmarketcap.com/static/img/coins/64x64/5821.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"sudeng*
-Ø³ÙˆØ¯Ù†Ú¯20.001386:160.81AÂõ(\ÏLÀH—àÍR=https://s2.coinmarketcap.com/static/img/coins/64x64/33258.png
-
-
-1404/07/1914:06æ¨Ç"Hey Anon*Ù‡ÛŒ Ø¢Ù†ÙˆÙ†21.0314:119696A¤p=
-×£6ÀHë³ÍR=https://s2.coinmarketcap.com/static/img/coins/64x64/35092.png
-¼
-
-1404/07/1914:05Ôå¨Ç"Milady Meme Coin*Ù…ÛŒÙ„ÛŒØ¯ÛŒ Ù…ÛŒÙ… Ú©ÙˆÛŒÙ†20.000000018822716197342912:0.002184AÍÌÌÌÌÌ#ÀH«ÖËR=https://s2.coinmarketcap.com/static/img/coins/64x64/25023.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"Minutes Network Token20.1778:20632A®Gáz”)ÀHŸëÊR=https://s2.coinmarketcap.com/static/img/coins/64x64/36317.png
-•
-
-1404/07/1914:06æ¨Ç"	QuickSwap*Ú©ÙˆØ¦ÛŒÚ© Ø³ÙˆØ§Ù¾218.74:2174551A
-×£p=Ê6ÀH“óÉR<https://s2.coinmarketcap.com/static/img/coins/64x64/8206.png
-™
-
-1404/07/1914:06æ¨Ç"Bella Protocol*Ø¨Ù„Ø§ Ù¾Ø±ÙˆØªÚ©Ù„20.1724:20006A×£p=
-:ÀHÆáÉR<https://s2.coinmarketcap.com/static/img/coins/64x64/6928.png
-
-
-1404/07/1914:06æ¨Ç"
-Daddy Tate*Ø¯Ø¯ÛŒ ØªÛŒØª20.0230:2666A×£p=
-×*ÀH®óÈR=https://s2.coinmarketcap.com/static/img/coins/64x64/31830.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Rarible*Ø±Ø§Ø±ÛŒØ¨Ù„20.7064:81979AHáz®Ç+ÀH¢¤ÈR<https://s2.coinmarketcap.com/static/img/coins/64x64/5877.png
-—
-
-1404/07/1914:05Ôå¨Ç"Bedrock DAO*Ø¨Ø¯Ø± Ø§Ú© Ø¯Ø§Ø¦Ùˆ20.0595:6910AÃõ(\‚3ÀH‹ğÃR=https://s2.coinmarketcap.com/static/img/coins/64x64/36063.png
-„
-
-1404/07/1914:06æ¨Ç"GAIA*Ú¯Ø§ÛŒØ§20.0801:9292AR¸…ëQÀHÖâ¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/37473.png
-…
-
-1404/07/1914:06æ¨Ç"Boost*Ø¨ÙˆØ³Øª20.0856:9930A)\Âõ(ü¿H•Ó½R=https://s2.coinmarketcap.com/static/img/coins/64x64/36531.png
-
-
-1404/07/1914:06æ¨Ç"ORIGYN*Ø§ÙˆØ±ÛŒØ¬ÛŒÙ†20.001736:201.44A      1ÀH¸¶½R=https://s2.coinmarketcap.com/static/img/coins/64x64/17960.png
-
-
-1404/07/1914:05Ôå¨Ç"
-PoP Planet20.0966:11205A33333ó<ÀHò…¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/38538.png
-¤
-
-1404/07/1914:05Ôå¨Ç"Quickswap[New]*Ú©ÙˆØ¦ÛŒÚ© Ø³ÙˆØ§Ù¾ [Ø¬Ø¯ÛŒØ¯]20.0184:2130Aq=
-×£08ÀH§ß¸R=https://s2.coinmarketcap.com/static/img/coins/64x64/19966.png
-£
-
-1404/07/1914:05Ôå¨Ç"AS Roma Fan Token*Ø¢Ø§Ø³ Ø±Ù… ÙÙ† ØªÙˆÚ©Ù†21.7001:197291A     €9ÀHó˜µR<https://s2.coinmarketcap.com/static/img/coins/64x64/5229.png
-„
-
-1404/07/1914:05Ôå¨Ç"Telos*ØªÙ„ÙˆØ³20.0303:3521Aq=
-×£p'ÀH¹ŒµR<https://s2.coinmarketcap.com/static/img/coins/64x64/4660.png
-š
-
-1404/07/1914:06æ¨Ç"SyncGPT*Ø³ÛŒÙ†Ú© Ø¬ÛŒâ€ŒÙ¾ÛŒâ€ŒØªÛŒ20.0672:7801AìQ¸…ë±?HŠÏ´R=https://s2.coinmarketcap.com/static/img/coins/64x64/33104.png
-›
-
-1404/07/1914:06æ¨Ç"Port3 Network*Ù¾ÙˆØ±Øª Û³ Ù†ØªÙˆØ±Ú©20.0268:3113AÂõ(\ïLÀH”«²R=https://s2.coinmarketcap.com/static/img/coins/64x64/29030.png
-—
-
-1404/07/1914:06æ¨Ç"
-CreatorBid*Ú©Ø±ÛŒÛŒØªÙˆØ± Ø¨ÛŒØ¯20.0506:5874Aö(\Âu4ÀH§‘°R=https://s2.coinmarketcap.com/static/img/coins/64x64/35430.png
-
-
-1404/07/1914:05Ôå¨Ç"Vertical AI*ÙˆØ±ØªÛŒÚ©Ø§Ù„ Ø§ÛŒâ€ŒØ¢ÛŒ20.1334:15477A¤p=
-×£ÀHÏ®R=https://s2.coinmarketcap.com/static/img/coins/64x64/34158.png
-§
-
-1404/07/1914:05Ôå¨Ç"PepeFork*Ù¾Ù¾Ù‡ ÙÙˆØ±Ú©20.000000032647776914479915:0.003789A)\Âõ¨*ÀH©¡¬R=https://s2.coinmarketcap.com/static/img/coins/64x64/29220.png
-œ
-
-1404/07/1914:05Ôå¨Ç"StablR Euro*Ø§Ø³ØªØ§Ø¨Ù„Ø± ÛŒÙˆØ±Ùˆ21.1583:134422AR¸…ëQÈ?H“ï«R=https://s2.coinmarketcap.com/static/img/coins/64x64/29042.png
-®
-
-1404/07/1914:06æ¨Ç"Switchboard Protocol*"Ø³ÙˆÛŒÛŒÚ†â€ŒØ¨ÙˆØ±Ø¯ Ù¾Ø±ÙˆØªÚ©Ù„20.0774:8977Aáz®Ga/ÀH¬—ªR=https://s2.coinmarketcap.com/static/img/coins/64x64/38318.png
-µ
-
-1404/07/1914:05Ôå¨Ç""Kekius Maximus (kekiusmaximus.vip)*Ú©Ú©ÛŒÙˆØ³ Ù…Ø§Ú©Ø³ÛŒÙ…ÙˆØ³20.0132:1534A     À3ÀHõÓ¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/35011.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"Abelian*Ø§Ø¨Ù„ÛŒØ§Ù†20.1230:14272A)\Âõ¨0ÀHıƒ¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/25232.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"mCoin*Ø§Ù…â€ŒÚ©ÙˆÛŒÙ†20.0744:8628A×£p=
-W(ÀHœ£R=https://s2.coinmarketcap.com/static/img/coins/64x64/23046.png
-«
-
-1404/07/1914:05Ôå¨Ç"Unicorn Fart Dust*"ÛŒÙˆÙ†ÛŒÚ©ÙˆØ±Ù† ÙØ§Ø±Øª Ø¯Ø§Ø³Øª20.0131:1524A{®Gáº9ÀH‡£¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/34853.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"ASD*Ø§ÛŒâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.0199:2306Aö(\Âu6ÀHÈ ¡R<https://s2.coinmarketcap.com/static/img/coins/64x64/3673.png
-™
-
-1404/07/1914:06æ¨Ç"Fair and Free*ÙÛŒØ± Ø§Ù†Ø¯ ÙØ±ÛŒ20.0140:1623Aq=
-×£p5ÀH«òR=https://s2.coinmarketcap.com/static/img/coins/64x64/36234.png
-š
-
-1404/07/1914:06æ¨Ç"Polkastarter*Ù¾ÙˆÙ„Ú©Ø§Ø³ØªØ§Ø±ØªØ±20.1317:15282Affffff3ÀHÌ¯R<https://s2.coinmarketcap.com/static/img/coins/64x64/7208.png
-§
-
-1404/07/1914:06æ¨Ç"Pitbull*Ù¾ÛŒØªâ€ŒØ¨ÙˆÙ„20.000000000324708428229217:
-0.00003800A
-×£p=Š(ÀHìÆœR<https://s2.coinmarketcap.com/static/img/coins/64x64/9177.png
-¸
-
-1404/07/1914:05Ôå¨Ç"FC Barcelona Fan Token**Ø§Ùâ€ŒØ³ÛŒ Ø¨Ø§Ø±Ø³Ù„ÙˆÙ†Ø§ ÙÙ† ØªÙˆÚ©Ù†20.8458:98156Aö(\Âõ0ÀHëÁ›R<https://s2.coinmarketcap.com/static/img/coins/64x64/5225.png
-
-
-1404/07/1914:05Ôå¨Ç"Mineplex 2.0*Ù…Ø§ÛŒÙ†â€ŒÙ¾Ù„Ú©Ø³ Û².Û°20.2040:23672A\Âõ(Ü/ÀH›¾šR=https://s2.coinmarketcap.com/static/img/coins/64x64/26202.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Openverse Network26.83:792186A¸…ëQ¸@H‘Ï—R=https://s2.coinmarketcap.com/static/img/coins/64x64/38530.png
-~
-
-1404/07/1914:06æ¨Ç"BORGY20.000167:19.34Affffff4ÀHŠ•R=https://s2.coinmarketcap.com/static/img/coins/64x64/35693.png
-‘
-
-1404/07/1914:05Ôå¨Ç"	GamerCoin*Ú¯ÛŒÙ…Ø± Ú©ÙˆÛŒÙ†20.0198:2302AìQ¸…k*ÀHñë’R<https://s2.coinmarketcap.com/static/img/coins/64x64/6554.png
-ª
-
-1404/07/1914:05Ôå¨Ç"AMATERASU OMIKAMI*!Ø§Ù…Ø§ØªØ±Ø§Ø³Ùˆ Ø§ÙˆÙ…ÛŒÚ©Ø§Ù…ÛŒ20.0136:1578AÍÌÌÌÌL$ÀHô’R=https://s2.coinmarketcap.com/static/img/coins/64x64/28147.png
-™
-
-1404/07/1914:05Ôå¨Ç"Cornucopias*Ú©ÙˆØ±Ù†ÙˆÚ©ÙˆÙ¾ÛŒØ§Ø³20.0124:1444AÂõ(\-ÀH¨±R=https://s2.coinmarketcap.com/static/img/coins/64x64/15563.png
-—
-
-1404/07/1914:05Ôå¨Ç"Cult DAO*Ú©Ø§Ù„Øª Ø¯Ø§Ø¦Ùˆ2
-0.00000297:0.3444Aáz®Ga+ÀH±§R=https://s2.coinmarketcap.com/static/img/coins/64x64/17742.png
-œ
-
-1404/07/1914:05Ôå¨Ç"
-SPECTRE AI*Ø§Ø³Ù¾Ú©ØªØ± Ø§ÛŒâ€ŒØ¢ÛŒ21.2804:148595Aq=
-×£p&ÀHöıŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/28446.png
-ˆ
-
-1404/07/1914:06æ¨Ç"Ultra*Ø§ÙˆÙ„ØªØ±Ø§20.0270:3137A)\Âõ(ÀH÷ù‹R<https://s2.coinmarketcap.com/static/img/coins/64x64/4189.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Swarms*Ø³ÙˆØ§Ø±Ù…Ø²20.0128:1481Aáz®Ga;ÀHúåŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/34993.png
-¡
-
-1404/07/1914:06æ¨Ç"XPIN Network*Ø§Ú©Ø³â€ŒÙ¾ÛŒÙ† Ù†ØªÙˆØ±Ú©20.000793:92.01A
-×£p=êBÀHîÍ„R=https://s2.coinmarketcap.com/static/img/coins/64x64/36238.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Bluzelle*
-Ø¨Ù„ÙˆØ²Ù„20.0268:3115Afffffæ*ÀH£—ƒR<https://s2.coinmarketcap.com/static/img/coins/64x64/2505.png
-‹
-
-1404/07/1914:06æ¨Ç"Eclipse*Ø§Ú©Ù„ÛŒÙ¾Ø³20.0840:9748A=
-×£p½:ÀHÜÿ€R=https://s2.coinmarketcap.com/static/img/coins/64x64/36174.png
-–
-
-1404/07/1914:05Ôå¨Ç"Purple Pepe*Ù¾Ø±Ù¾Ù„ Ù¾Ù¾Ù‡2
-0.00003009:3.49A¤p=
-×£ÀH˜—şR=https://s2.coinmarketcap.com/static/img/coins/64x64/32171.png
-˜
-
-1404/07/1914:05Ôå¨Ç"
-ColossusXT*Ú©ÙˆÙ„ÙˆØ³ÙˆØ³ Ø§Ú©Ø³â€ŒØªÛŒ20.000985:114.26HÖ“ıR<https://s2.coinmarketcap.com/static/img/coins/64x64/2001.png
-’
-
-1404/07/1914:05Ôå¨Ç"Node AI*Ù†ÙˆØ¯ Ø§ÛŒâ€ŒØ¢ÛŒ20.1278:14829A¤p=
-×£ÀHƒíüR=https://s2.coinmarketcap.com/static/img/coins/64x64/29513.png
-±
-
-1404/07/1914:05Ôå¨Ç"Equilibria Finance*&Ø§Ú©ÙˆÛŒÛŒâ€ŒÙ„ÛŒØ¨Ø±ÛŒØ§ ÙØ§ÛŒÙ†Ù†Ø³20.3700:42939A×£p=
-W!ÀHĞÀüR=https://s2.coinmarketcap.com/static/img/coins/64x64/26556.png
-
-
-1404/07/1914:05Ôå¨Ç"Codatta*Ú©ÙˆØ¯Ø§ØªØ§20.005006:580.98AHáz®'AÀHòòûR=https://s2.coinmarketcap.com/static/img/coins/64x64/36933.png
-–
-
-1404/07/1914:06æ¨Ç"AMO Coin*Ø§Ù…â€ŒØ§Ùˆ Ú©ÙˆÛŒÙ†20.000590:68.48A…ëQ¸…ÀH“ÌûR<https://s2.coinmarketcap.com/static/img/coins/64x64/3260.png
-”
-
-1404/07/1914:05Ôå¨Ç"	Doodipals*Ø¯ÙˆØ¯ÛŒâ€ŒÙ¾Ø§Ù„Ø²20.0135:1566A
-×£p=
-*ÀH½ÅúR=https://s2.coinmarketcap.com/static/img/coins/64x64/36064.png
-Š
-
-1404/07/1914:05Ôå¨Ç"DeBox*Ø¯ÛŒ Ø¨Ø§Ú©Ø³20.0308:3578Aö(\Âu2ÀHŸçùR=https://s2.coinmarketcap.com/static/img/coins/64x64/33116.png
-˜
-
-1404/07/1914:05Ôå¨Ç"
-Star Atlas*Ø§Ø³ØªØ§Ø± Ø§Ø·Ù„Ø³20.000584:67.72Aö(\Âõ5ÀH’çùR=https://s2.coinmarketcap.com/static/img/coins/64x64/11212.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Cortex*Ú©ÙˆØ±ØªÚ©Ø³20.0528:6128Aö(\Âõ.ÀHİ¤ïR<https://s2.coinmarketcap.com/static/img/coins/64x64/2638.png
-…
-
-1404/07/1914:05Ôå¨Ç"Bulla*Ø¨ÙˆÙ„Ø§20.0439:5098AÃõ(\8ÀH¤ÖîR=https://s2.coinmarketcap.com/static/img/coins/64x64/36769.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"Streamr*Ø§Ø³ØªØ±ÛŒÙ…Ø±20.0103:1194A3333337ÀHÁÿìR<https://s2.coinmarketcap.com/static/img/coins/64x64/2143.png
-„
-
-1404/07/1914:05Ôå¨Ç"Moby*Ù…ÙˆØ¨ÛŒ20.0122:1419A…ëQ¸Å2ÀHÄ±êR=https://s2.coinmarketcap.com/static/img/coins/64x64/37177.png
-°
-
-1404/07/1914:05Ôå¨Ç"FC Porto Fan Token*$Ø§Ùâ€ŒØ³ÛŒ Ù¾ÙˆØ±ØªÙˆ ÙÙ† ØªÙˆÚ©Ù†21.0776:125050AR¸…ëÑ#ÀHŸ…éR=https://s2.coinmarketcap.com/static/img/coins/64x64/14052.png
-
-
-1404/07/1914:06æ¨Ç"Dimitra*Ø¯ÛŒÙ…ÛŒØªØ±Ø§20.0251:2909A…ëQ¸2ÀH·èR=https://s2.coinmarketcap.com/static/img/coins/64x64/12041.png
-½
-
-1404/07/1914:06æ¨Ç"Crown by Third Time Games*,Ú©Ø±Ø§ÙˆÙ† ØªÙˆØ³Ø· Ø«Ø±Ø¯ ØªØ§ÛŒÙ… Ú¯ÛŒÙ…Ø²20.0557:6466A      !ÀHû²èR=https://s2.coinmarketcap.com/static/img/coins/64x64/25714.png
-—
-
-1404/07/1914:05Ôå¨Ç"Boba Network*Ø¨ÙˆØ¨Ø§ Ù†ØªÙˆØ±Ú©20.0710:8240Afffffæ/ÀHåäçR=https://s2.coinmarketcap.com/static/img/coins/64x64/14556.png
-
-
-1404/07/1914:06æ¨Ç"TAC Protocol*ØªØ§ Ø³ÛŒ Ù¾Ø±ÙˆØªÚ©Ù„20.004755:551.80Afffff&5ÀHÚ˜çR=https://s2.coinmarketcap.com/static/img/coins/64x64/37338.png
-“
-
-1404/07/1914:05Ôå¨Ç"Verse World*ÙˆØ±Ø³ ÙˆØ±Ù„Ø¯20.1216:14108A®Gáz®*ÀHÆşåR=https://s2.coinmarketcap.com/static/img/coins/64x64/36774.png
-¬
-
-1404/07/1914:06æ¨Ç"Measurable Data Token* Ù…ÛŒÚ˜Ø±Ø§Ø¨Ù„ Ø¯ÛŒØªØ§ ØªÙˆÚ©Ù†20.0180:2086AìQ¸…k'ÀHƒİåR<https://s2.coinmarketcap.com/static/img/coins/64x64/2348.png
-…
-
-1404/07/1914:05Ôå¨Ç"Gelato*Ø¬Ù„Ø§Øª20.0467:5414Affffff,ÀHøÁãR<https://s2.coinmarketcap.com/static/img/coins/64x64/7229.png
+1404/07/1914:19œì¨Ç"å®¢æœå°ä½•20.0173:2005A®Gázî9ÀHò R=https://s2.coinmarketcap.com/static/img/coins/64x64/38614.png
 ¦
 
-1404/07/1914:05Ôå¨Ç"Fulcrom Finance*ÙÙˆÙ„Ú©Ø±ÙˆÙ… ÙØ§ÛŒÙ†Ù†Ø³20.005662:657.10A¤p=
-×£0ÀHÜ¤àR=https://s2.coinmarketcap.com/static/img/coins/64x64/24190.png
+1404/07/1914:19œì¨Ç"Orbiter Finance*Ø§ÙˆØ±Ø¨ÛŒØªØ± ÙØ§ÛŒÙ†Ù†Ø³20.003528:408.70A\Âõ(Ü2ÀH¿‡ŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/35422.png
+Œ
+
+1404/07/1914:19œì¨Ç"CLV*Ø³ÛŒâ€ŒØ§Ù„â€ŒÙˆÛŒ20.0140:1624A×£p=
+W5ÀH´Í—R<https://s2.coinmarketcap.com/static/img/coins/64x64/8384.png
+‚
+
+1404/07/1914:19œì¨Ç"å¸å®‰Holder20.0172:1988A…ëQ¸¾FÀHè¡—R=https://s2.coinmarketcap.com/static/img/coins/64x64/38637.png
+‰
+
+1404/07/1914:19œì¨Ç"Altura*Ø¢Ù„ØªÙˆØ±Ø§20.0173:2002Aq=
+×£°2ÀH¡”R<https://s2.coinmarketcap.com/static/img/coins/64x64/9637.png
+
+
+1404/07/1914:19œì¨Ç"Sperax*Ø§Ø³Ù¾Ø±Ú©Ø³20.008334:965.54Aš™™™™™(ÀHÚğ‘R<https://s2.coinmarketcap.com/static/img/coins/64x64/6715.png
+¦
+
+1404/07/1914:19œì¨Ç"Covalent X Token*Ú©ÙˆØ§Ù„Ù†Øª Ø§ÛŒÚ©Ø³ ØªÙˆÚ©Ù†20.0173:2006A      3ÀH áR=https://s2.coinmarketcap.com/static/img/coins/64x64/32526.png
 “
 
-1404/07/1914:05Ôå¨Ç"AIHub*Ø§ÛŒâ€ŒØ¢ÛŒâ€ŒÙ‡Ø§Ø¨210.75:1247220A®GázÔ4ÀHÆÖŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/37448.png
-•
-
-1404/07/1914:05Ôå¨Ç"Defigram*Ø¯ÛŒÙÛŒâ€ŒÚ¯Ø±Ø§Ù…21.2027:139569AìQ¸…ë±?H¥†ŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/19590.png
-
-
-1404/07/1914:06æ¨Ç"Beefy Finance*Ø¨ÛŒÙÛŒ ÙØ§ÛŒÙ†Ù†Ø³2149.35:17331672Aáz®Ga*ÀHÏÙR<https://s2.coinmarketcap.com/static/img/coins/64x64/7311.png
-Š
-
-1404/07/1914:05Ôå¨Ç"GYEN*Ø¬ÛŒâ€ŒÛŒÙ†20.005690:660.28AìQ¸…k&ÀHÅëØR<https://s2.coinmarketcap.com/static/img/coins/64x64/8771.png
-˜
-
-1404/07/1914:05Ôå¨Ç"	Kendu Inu*Ú©Ù†Ø¯Ùˆ Ø§ÛŒÙ†Ùˆ2
-0.00001255:1.4568A{®Gáú%ÀH’ÔÖR=https://s2.coinmarketcap.com/static/img/coins/64x64/31152.png
-Á
-
-1404/07/1914:05Ôå¨Ç"Donkey (DONKEY_BSC_MEME)*1Ø¯Ø§Ù†Ú©ÛŒ (Ø¯Ø§Ù†Ú©ÛŒ Ø¨ÛŒâ€ŒØ§Ø³â€ŒØ³ÛŒ Ù…ÛŒÙ…)20.0118:1375A)\Âõh8ÀH±™ÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/36417.png
-ˆ
-
-1404/07/1914:06æ¨Ç"pippin*
-Ù¾ÛŒÙ¾ÛŒÙ†20.0118:1373A®GázÔCÀHŒ‘ÒR=https://s2.coinmarketcap.com/static/img/coins/64x64/35053.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Magpie*Ù…Ú¯â€ŒÙ¾Ø§ÛŒ20.0245:2844Affffffş?HõÿÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/22391.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Diamond*Ø¯Ø§ÛŒÙ…ÙˆÙ†Ø¯23.03:351156A333333	ÀHŸõÌR:https://s2.coinmarketcap.com/static/img/coins/64x64/77.png
-©
-
-1404/07/1914:05Ôå¨Ç"Vita Inu*ÙˆÛŒØªØ§ Ø§ÛŒÙ†Ùˆ20.000000013050147220790697:0.001514AR¸…ëQ+ÀHåÅÌR=https://s2.coinmarketcap.com/static/img/coins/64x64/15270.png
-†
-
-1404/07/1914:05Ôå¨Ç"Myro*
-Ù…Ø§ÛŒØ±Ùˆ20.0124:1442A\Âõ(?ÀHşîËR=https://s2.coinmarketcap.com/static/img/coins/64x64/28382.png
-š
-
-1404/07/1914:05Ôå¨Ç"PumpBTC*Ù¾Ø§Ù…Ù¾ Ø¨ÛŒâ€ŒØªÛŒâ€ŒØ³ÛŒ20.0410:4763AR¸…ëÑ7ÀHåğÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/36166.png
-†
-
-1404/07/1914:05Ôå¨Ç"Seraph*Ø³Ø±Ø§Ù20.0401:4649AÍÌÌÌÌÌ@ÀHà¾ÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/34377.png
-µ
-
-1404/07/1914:05Ôå¨Ç"
-ArbDoge AI*Ø¢Ø±Ø¨ Ø¯ÙˆØ¬ Ø§ÛŒâ€ŒØ¢ÛŒ20.000000000066964859950306:
-0.00000800A      5ÀHî„ÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/24477.png
-‘
-
-1404/07/1914:06æ¨Ç"CUDIS*Ø³ÛŒâ€ŒÙˆÛŒâ€ŒØ¯ÛŒØ³20.0470:5449AÂõ(\9ÀHÇ©ÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/36396.png
-—
-
-1404/07/1914:05Ôå¨Ç"CESS Network*Ø³Ø³ Ù†ØªÙˆØ±Ú©20.004385:508.85A®Gáz
-@HçšÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/36957.png
-
-
-1404/07/1914:05Ôå¨Ç"NEM*Ù†Ù…20.001280:148.55A®Gázö¿H¸“¿R;https://s2.coinmarketcap.com/static/img/coins/64x64/873.png
-²
-
-1404/07/1914:06æ¨Ç"Galatasaray Fan Token*$Ú¯Ø§Ù„Ø§ØªØ§Ø³Ø§Ø±Ø§ÛŒ ÙÙ† ØªÙˆÚ©Ù†21.2250:142166A)\Âõ(ÀHşæ¾R<https://s2.coinmarketcap.com/static/img/coins/64x64/5228.png
+1404/07/1914:20Øì¨Ç"	Propchain*Ù¾Ø±Ø§Ù¾â€ŒÚ†ÛŒÙ†20.4006:46406A®Gáz."ÀHú¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/24220.png
 ‡
 
-1404/07/1914:05Ôå¨Ç"Jambo*
-Ø¬Ø§Ù…Ø¨Ùˆ20.0714:8282Aq=
-×£09ÀHß«½R=https://s2.coinmarketcap.com/static/img/coins/64x64/35167.png
-
-
-1404/07/1914:05Ôå¨Ç"AVA*Ø¢ÙˆØ§20.0115:1332Aáz®GBÀH…Ì¼R=https://s2.coinmarketcap.com/static/img/coins/64x64/34116.png
-§
-
-1404/07/1914:06æ¨Ç"AI Rig Complex*!Ø§ÛŒâ€ŒØ¢ÛŒ Ø±ÛŒÚ¯ Ú©Ø§Ù…Ù¾Ù„Ú©Ø³20.0115:1332A×£p=
-÷FÀH‡Ã¼R=https://s2.coinmarketcap.com/static/img/coins/64x64/34926.png
-„
-
-1404/07/1914:05Ôå¨Ç"Augur*Ø¢Ú¯Ø±21.0426:120993AÍÌÌÌÌL$ÀH–ş»R<https://s2.coinmarketcap.com/static/img/coins/64x64/1104.png
+1404/07/1914:19œì¨Ç"Mango*
+Ù…Ø§Ù†Ú¯Ùˆ20.0152:1758AffffffÀH‘…‹R=https://s2.coinmarketcap.com/static/img/coins/64x64/11171.png
 –
 
-1404/07/1914:05Ôå¨Ç"USDJ*ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒâ€ŒØ¬ÛŒ21.2267:142359AHáz®Gõ?H•ç»R<https://s2.coinmarketcap.com/static/img/coins/64x64/5446.png
-¢
-
-1404/07/1914:06æ¨Ç"World of Dypians*ÙˆØ±Ù„Ø¯ Ø¢Ù Ø¯ÛŒÙ¾ÛŒÙ†Ø²20.0377:4373Affffff*ÀHø»¸R=https://s2.coinmarketcap.com/static/img/coins/64x64/33746.png
-ˆ
-
-1404/07/1914:06æ¨Ç"World3*
-ÙˆØ±Ù„Ø¯Û³20.0522:6059AR¸…ëQü¿HÉÇ·R=https://s2.coinmarketcap.com/static/img/coins/64x64/37678.png
-
-
-1404/07/1914:05Ôå¨Ç"
-Altcoinist*Ø¢Ù„Øªâ€ŒÚ©ÙˆÛŒÙ†â€ŒØ§ÛŒØ³Øª20.0464:5389A¤p=
-×£1ÀH›¬¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/34469.png
-˜
-
-1404/07/1914:06æ¨Ç"Bitrue Coin*Ø¨ÛŒØªâ€ŒØ±Ùˆ Ú©ÙˆÛŒÙ†20.0330:3833A
-×£p=
-ÀHßô´R<https://s2.coinmarketcap.com/static/img/coins/64x64/4167.png
-
-
-1404/07/1914:05Ôå¨Ç"	Alltoscan*Ø¢Ù„ØªÙˆØ³Ú©Ù†20.1130:13111A×£p=
-×-ÀHÙÇ±R=https://s2.coinmarketcap.com/static/img/coins/64x64/30723.png
-Ô
-
-1404/07/1914:05Ôå¨Ç"&iShares TIPS Bond Tokenized ETF (Ondo)*;ETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢ÛŒâ€ŒØ´ÛŒØ±Ø² Ø§ÙˆØ±Ø§Ù‚ TIPS2111.86:12980939HöØ«R=https://s2.coinmarketcap.com/static/img/coins/64x64/38068.png
-Å
-
-1404/07/1914:06æ¨Ç"NVIDIA tokenized stock (xStock)**Ø§Ù†ÙˆÛŒØ¯ÛŒØ§ ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2184.76:21441178A¸…ëQ¸ÀH¿Ü©R=https://s2.coinmarketcap.com/static/img/coins/64x64/36992.png
-—
-
-1404/07/1914:05Ôå¨Ç"MON Protocol*Ù…Ø§Ù† Ù¾Ø±ÙˆØªÚ©Ù„20.0191:2214AÃõ(\ÂÀHØÀ¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/30950.png
-
-
-1404/07/1914:05Ôå¨Ç"Suku*Ø³ÙˆÚ©20.0215:2493A×£p=
-W/ÀHã±¤R<https://s2.coinmarketcap.com/static/img/coins/64x64/6180.png
-”
-
-1404/07/1914:05Ôå¨Ç"	Contentos*Ú©Ø§Ù†ØªÙ†ØªÙˆØ³20.002140:248.40A)\Âõ(=ÀHø ¤R<https://s2.coinmarketcap.com/static/img/coins/64x64/4036.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Rezor*Ø±Ø²ÙˆØ±20.000272:31.60A\Âõ(Ü)ÀH§¹£R=https://s2.coinmarketcap.com/static/img/coins/64x64/36489.png
-´
-
-1404/07/1914:05Ôå¨Ç"S.S. Lazio Fan Token*&Ø§Ø³â€ŒØ§Ø³ Ù„Ø§ØªØ²ÛŒÙˆ ÙÙ† ØªÙˆÚ©Ù†20.9079:105361A¸…ëQ80ÀHÁâŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/12687.png
-Š
-
-1404/07/1914:06æ¨Ç"WeBuy*ÙˆÛŒâ€ŒØ¨Ø§ÛŒ20.0303:3519AÃõ(\ÂÀHËR=https://s2.coinmarketcap.com/static/img/coins/64x64/20456.png
-§
-
-1404/07/1914:06æ¨Ç"Juventus Fan Token*ÛŒÙˆÙˆÙ†ØªÙˆØ³ ÙÙ† ØªÙˆÚ©Ù†20.9245:107283Aq=
-×£ğ-ÀHŞ‹šR<https://s2.coinmarketcap.com/static/img/coins/64x64/5224.png
- 
-
-1404/07/1914:05Ôå¨Ç"REI Network*Ø¢Ø±â€ŒØ§ÛŒâ€ŒØ¢ÛŒ Ù†ØªÙˆØ±Ú©20.0115:1333A®Gázî8ÀH‹ƒšR=https://s2.coinmarketcap.com/static/img/coins/64x64/19819.png
-
-
-1404/07/1914:06æ¨Ç"Balance*Ø¨Ø§Ù„Ø§Ù†Ø³20.003680:427.02A\Âõ(Ü<ÀHä”˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/35671.png
-”
-
-1404/07/1914:05Ôå¨Ç"BasedAI*Ø¨ÛŒØ³Ø¯ Ø§ÛŒâ€ŒØ¢ÛŒ20.3142:36464A…ëQ¸…ÀH£Ä—R=https://s2.coinmarketcap.com/static/img/coins/64x64/30584.png
-€
-
-1404/07/1914:06æ¨Ç"SLIMEX20.006248:725.14AHáz®2ÀHĞö”R=https://s2.coinmarketcap.com/static/img/coins/64x64/38542.png
- 
-
-1404/07/1914:05Ôå¨Ç"Sweat Economy*Ø³ÙˆØ¦Øª Ø§Ú©ÙˆÙ†ÙˆÙ…ÛŒ20.001497:173.70AÂõ(\=ÀHÍR=https://s2.coinmarketcap.com/static/img/coins/64x64/21351.png
-
-
-1404/07/1914:05Ôå¨Ç"Flamingo*ÙÙ„Ø§Ù…ÛŒÙ†Ú¯Ùˆ20.0191:2219A…ëQ¸…7ÀH ç‹R<https://s2.coinmarketcap.com/static/img/coins/64x64/7150.png
-¡
-
-1404/07/1914:05Ôå¨Ç"InfinitiCoin*Ø§ÛŒÙ†ÙÛŒÙ†ÛŒØªÛŒâ€ŒÚ©ÙˆÛŒÙ†20.0107:1239A¸…ëQ¸Î¿HĞ‹R=https://s2.coinmarketcap.com/static/img/coins/64x64/34260.png
-š
-
-1404/07/1914:05Ôå¨Ç"Rupiah Token*Ø±ÙˆÙ¾ÛŒÙ‡ ØªÙˆÚ©Ù†2
-0.00006112:7.09AìQ¸…ëÁ¿H¡ÏˆR<https://s2.coinmarketcap.com/static/img/coins/64x64/4702.png
-Æ
-
-1404/07/1914:05Ôå¨Ç"Best Fintech Investment Coin*0Ø¨Ø³Øª ÙÛŒÙ†â€ŒØªÚ© Ø§ÛŒÙ†ÙˆØ³ØªÙ…Ù†Øª Ú©ÙˆÛŒÙ†21.0001:116057A×£p=
-W+ÀHĞØ…R=https://s2.coinmarketcap.com/static/img/coins/64x64/18736.png
-™
-
-1404/07/1914:05Ôå¨Ç"WHY*ÙˆØ§ÛŒ20.000000025155932406239885:0.002919Aq=
-×£p4ÀHóî„R=https://s2.coinmarketcap.com/static/img/coins/64x64/30867.png
-‘
-
-1404/07/1914:05Ôå¨Ç"MilkyWay*Ù…ÛŒÙ„Ú©ÛŒâ€ŒÙˆÛŒ20.0338:3921A=
-×£pı2ÀH°Õ„R=https://s2.coinmarketcap.com/static/img/coins/64x64/20874.png
-È
-
-1404/07/1914:05Ôå¨Ç"SP500 tokenized stock (xStock)*.Ø§Ø³â€ŒÙ¾ÛŒ ÛµÛ°Û° ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2659.92:76583321A       ÀH¤µ„R=https://s2.coinmarketcap.com/static/img/coins/64x64/37006.png
-‘
-
-1404/07/1914:05Ôå¨Ç"	Fireverse*ÙØ§ÛŒØ±ÙˆÙØ±Ø³20.0769:8923AÃõ(\ÂÀHœÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/37600.png
- 
-
-1404/07/1914:06æ¨Ç"PeiPei*Ù¾ÛŒâ€ŒÙ¾ÛŒ20.00000002495671336313936:0.002896A\Âõ(Ü6ÀHÒæ€R=https://s2.coinmarketcap.com/static/img/coins/64x64/31632.png
-‘
-
-1404/07/1914:05Ôå¨Ç"Koma Inu*Ú©ÙˆÙ…Ø§ Ø§ÛŒÙ†Ùˆ20.0179:2083Aq=
-×£ğ<ÀH€ÄÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/33405.png
-•
-
-1404/07/1914:06æ¨Ç"
-SuperTrust*Ø³ÙˆÙ¾Ø± ØªØ±Ø§Ø³Øª25.15:597783AffffffÀH¥¿üR=https://s2.coinmarketcap.com/static/img/coins/64x64/33983.png
-ª
-
-1404/07/1914:05Ôå¨Ç"Retard Finder Coin* Ø±ÛŒØªØ±Ø¯ ÙØ§ÛŒÙ†Ø¯Ø± Ú©ÙˆÛŒÙ†20.0108:1252Aáz®GÁ@@Hï—ùR=https://s2.coinmarketcap.com/static/img/coins/64x64/36171.png
-¢
-
-1404/07/1914:05Ôå¨Ç"Alpha Venture DAO*Ø¢Ù„ÙØ§ ÙˆÙ†Ú†Ø± Ø¯Ø§Ø¦Ùˆ20.0109:1265A®Gáz.6ÀHøáöR<https://s2.coinmarketcap.com/static/img/coins/64x64/7232.png
-
-
-1404/07/1914:05Ôå¨Ç"Inspect*Ø§ÛŒÙ†Ø³Ù¾Ú©Øª20.0129:1501A…ëQ¸ÀH»’öR=https://s2.coinmarketcap.com/static/img/coins/64x64/28610.png
-±
-
-1404/07/1914:06æ¨Ç"Jager Hunter*Ø¬ÛŒÚ¯Ø± Ù‡Ø§Ù†ØªØ±20.000000000758943592715878:
-0.00008800A
-×£p=
-+ÀH¡–óR=https://s2.coinmarketcap.com/static/img/coins/64x64/36418.png
-¬
-
-1404/07/1914:05Ôå¨Ç"FreeStyle Classic*"ÙØ±ÛŒâ€ŒØ§Ø³ØªØ§ÛŒÙ„ Ú©Ù„Ø§Ø³ÛŒÚ©20.1254:14557AÃõ(\B(ÀHÕÖòR=https://s2.coinmarketcap.com/static/img/coins/64x64/38163.png
-
-
-1404/07/1914:05Ôå¨Ç"GameFi*Ú¯ÛŒÙ…â€ŒÙØ§ÛŒ20.9357:108583Aš™™™™™/ÀHÔ†ñR=https://s2.coinmarketcap.com/static/img/coins/64x64/11783.png
-ƒ
-
-1404/07/1914:05Ôå¨Ç"Save*Ø³ÛŒÙˆ20.2221:25780AÃõ(\Âå?H²ëR=https://s2.coinmarketcap.com/static/img/coins/64x64/34828.png
-­
-
-1404/07/1914:05Ôå¨Ç"Games for a living*Ú¯ÛŒÙ…Ø² ÙÙˆØ± Ø§ Ù„ÛŒÙˆÛŒÙ†Ú¯20.002930:340.08A®Gáz*ÀHş‡çR=https://s2.coinmarketcap.com/static/img/coins/64x64/23397.png
-†
-
-1404/07/1914:05Ôå¨Ç"ZEON*Ø²ÛŒÙˆÙ†20.000330:38.27A      ÀHñ´æR<https://s2.coinmarketcap.com/static/img/coins/64x64/3795.png
-
-
-1404/07/1914:05Ôå¨Ç"Opulous*Ø§ÙˆÙ¾ÙˆÙ„Ø§Ø³20.0238:2766A®Gáz®0ÀHŸÍåR=https://s2.coinmarketcap.com/static/img/coins/64x64/10409.png
-“
-
-1404/07/1914:06æ¨Ç"	Unibright*ÛŒÙˆÙ†ÛŒ Ø¨Ø±Ø§ÛŒØª20.0668:7755A{®Gáú%ÀHÈâãR<https://s2.coinmarketcap.com/static/img/coins/64x64/2758.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"Xterio*Ø§Ú©Ø³ØªØ±ÛŒÙˆ20.0702:8144AìQ¸…«8ÀHŞÑŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/27582.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"Pkoin*Ù¾ÛŒâ€ŒÚ©ÙˆÛŒÙ†20.7107:82472A¸…ëQ¸ÀHûÛR<https://s2.coinmarketcap.com/static/img/coins/64x64/5925.png
-Ú
-
-1404/07/1914:05Ôå¨Ç"&MicroStrategy tokenized stock (xStock)*8Ù…Ø§ÛŒÚ©Ø±ÙˆØ§Ø³ØªØ±Ø§ØªÚ˜ÛŒ ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2302.38:35091646A=
-×£p=ÀHÔÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/37003.png
-’
-
-1404/07/1914:06æ¨Ç"	EarthMeta*Ø§Ø±Ø« Ù…ØªØ§20.006849:794.84A×£p=
-×!ÀHêøØR=https://s2.coinmarketcap.com/static/img/coins/64x64/34348.png
-˜
-
-1404/07/1914:05Ôå¨Ç"Step Finance*Ø§Ø³ØªÙ¾ ÙØ§ÛŒÙ†Ù†Ø³20.0444:5156A…ëQ¸,ÀHÇ­ØR<https://s2.coinmarketcap.com/static/img/coins/64x64/9443.png
-Ö
-
-1404/07/1914:05Ôå¨Ç"&iShares MSCI EAFE Tokenized ETF (Ondo)*5ETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢ÛŒâ€ŒØ´ÛŒØ±Ø² MSCI EAFE294.49:10966059AÍÌÌÌÌÌä?HáØR=https://s2.coinmarketcap.com/static/img/coins/64x64/38007.png
-‘
-
-1404/07/1914:05Ôå¨Ç"MemeFi*Ù…ÛŒÙ…â€ŒÙØ§ÛŒ20.000982:113.91A®Gáz.4ÀHşŠ×R=https://s2.coinmarketcap.com/static/img/coins/64x64/33464.png
-Š
-
-1404/07/1914:05Ôå¨Ç";iShares Core S&P Total US Stock Market Tokenized ETF (Ondo)*SETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢ÛŒâ€ŒØ´ÛŒØ±Ø² Ú©ÙˆØ± S&P Ú©Ù„ Ø¨Ø§Ø²Ø§Ø± Ø¢Ù…Ø±ÛŒÚ©Ø§2142.05:16484665A
-×£p=
-ÀHåŠÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/38003.png
-¡
-
-1404/07/1914:05Ôå¨Ç"Numbers Protocol*Ù†Ø§Ù…Ø¨Ø±Ø² Ù¾Ø±ÙˆØªÚ©Ù„20.0117:1360Aö(\Âõ@Hµ‹ÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/13521.png
-œ
-
-1404/07/1914:05Ôå¨Ç"Boson Protocol*Ø¨ÙˆØ²ÙˆÙ† Ù¾Ø±ÙˆØªÚ©Ù„20.0656:7610AÃõ(\Â+ÀHİ®ÓR<https://s2.coinmarketcap.com/static/img/coins/64x64/8827.png
-—
-
-1404/07/1914:05Ôå¨Ç"Nibiru Chain*Ù†ÛŒØ¨ÛŒØ±Ùˆ Ú†ÛŒÙ†20.0120:1391AÂõ(\@HãÜÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/28508.png
-
-
-1404/07/1914:05Ôå¨Ç"Ai Xovia*Ø§ÛŒÚ©Ø³ÙˆÙˆÛŒØ§22.67:309677A)\Âõh4ÀHù•ÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/37257.png
-’
-
-1404/07/1914:05Ôå¨Ç"	LooksRare*Ù„ÙˆÚ©Ø³ Ø±ÙØ±20.009659:1121A…ëQ¸=ÀHúÂÍR=https://s2.coinmarketcap.com/static/img/coins/64x64/17081.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Peercoin*Ù¾ÛŒØ±Ú©ÙˆÛŒÙ†20.3227:37449Affffff ÀH¨ÀËR9https://s2.coinmarketcap.com/static/img/coins/64x64/5.png
-
-
-1404/07/1914:05Ôå¨Ç"Scallop*Ø§Ø³Ú©Ø§Ù„ÙˆÙ¾20.0755:8757A®Gázî4ÀH ÊR=https://s2.coinmarketcap.com/static/img/coins/64x64/29679.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"NUMINE*
-Ù†ÙˆÙ…ÛŒÙ†20.0669:7765A=
-×£p=ÀHÌÊR=https://s2.coinmarketcap.com/static/img/coins/64x64/36227.png
-œ
-
-1404/07/1914:05Ôå¨Ç"Ribbon Finance*Ø±ÛŒØ¨Ù† ÙØ§ÛŒÙ†Ù†Ø³20.1133:13143A
-×£p=
-ÀHÂÊR=https://s2.coinmarketcap.com/static/img/coins/64x64/12387.png
-—
-
-1404/07/1914:06æ¨Ç"AstraAI*Ø¢Ø³ØªØ±Ø§ Ø§ÛŒâ€ŒØ¢ÛŒ20.9536:110661A333333ÀHå€ÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/29593.png
-
-
-1404/07/1914:06æ¨Ç"Origin Dollar*Ø§ÙˆØ±ÛŒØ¬ÛŒÙ† Ø¯Ù„Ø§Ø±20.9984:115863A{®Gáz¤?HÂüÅR<https://s2.coinmarketcap.com/static/img/coins/64x64/7189.png
-®
-
-1404/07/1914:05Ôå¨Ç"AllianceBlock Nexera* Ø§Ù„Ø§ÛŒÙ†Ø³ Ø¨Ù„Ø§Ú© Ù†Ú©Ø³Ø±Ø§20.009078:1053Aö(\Âõ@Hë¾ÄR=https://s2.coinmarketcap.com/static/img/coins/64x64/23825.png
-¥
-
-1404/07/1914:06æ¨Ç"Splintershards*Ø§Ø³Ù¾Ù„ÛŒÙ†ØªØ± Ø´Ø§Ø±Ø¯Ø²20.007162:831.10A)\Âõ(ÀH§ºÄR=https://s2.coinmarketcap.com/static/img/coins/64x64/11035.png
-œ
-
-1404/07/1914:05Ôå¨Ç"U2U Network*ÛŒÙˆÛ²ÛŒÙˆ Ù†ØªÙˆØ±Ú©20.006207:720.35Aö(\Âõà?Hæ’ÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/27369.png
-—
-
-1404/07/1914:05Ôå¨Ç"AIVille*Ø§ÛŒâ€ŒØ¢ÛŒâ€ŒÙˆÛŒÙ„20.003409:395.66Aq=
-×£ğ"ÀH°óÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/36939.png
-œ
-
-1404/07/1914:05Ôå¨Ç"Book.io*Ø¨ÙˆÚ© Ø¯Ø§Øª Ø¢ÛŒâ€ŒØ§Ùˆ20.003478:403.67Aáz®Ga,ÀH÷óÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/27463.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Lingo*
-Ù„ÛŒÙ†Ú¯Ùˆ20.0194:2255A…ëQ¸…%ÀHˆÂÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/34717.png
-…
-
-1404/07/1914:05Ôå¨Ç"Kryll*Ú©Ø±ÛŒÙ„20.2363:27417A
-×£p=Ê2ÀH—±¿R<https://s2.coinmarketcap.com/static/img/coins/64x64/2949.png
-µ
-
-1404/07/1914:06æ¨Ç"Manchester City Fan Token*#Ù…Ù†Ú†Ø³ØªØ± Ø³ÛŒØªÛŒ ÙÙ† ØªÙˆÚ©Ù†20.8054:93462A…ëQ¸…1ÀH¸¼R=https://s2.coinmarketcap.com/static/img/coins/64x64/10049.png
-˜
-
-1404/07/1914:05Ôå¨Ç"Rezerve Money*Ø±Ø²Ø±Ùˆ Ù…Ø§Ù†ÛŒ210.99:1275003A…ëQ¸…*ÀHŸ†»R=https://s2.coinmarketcap.com/static/img/coins/64x64/37291.png
+1404/07/1914:19œì¨Ç"Ambire Wallet*Ø§Ù…Ø¨ÛŒØ± ÙˆÙ„Øª20.0234:2716A¸…ëQ8%ÀH’ ŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/17722.png
 „
 
-1404/07/1914:05Ôå¨Ç"Blum*Ø¨Ù„ÙˆÙ…20.0543:6298A
-×£p=Š!ÀHû¸ºR=https://s2.coinmarketcap.com/static/img/coins/64x64/33154.png
-
-
-1404/07/1914:06æ¨Ç"Hyperbot*Ù‡Ø§ÛŒÙ¾Ø±Ø¨Ø§Øª20.0562:6521AHáz®ÇBÀH³¬¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/38257.png
+1404/07/1914:20Øì¨Ç"Melon*Ù…Ù„ÙˆÙ†25.65:654367AÃõ(\Â=ÀHø…†R<https://s2.coinmarketcap.com/static/img/coins/64x64/1552.png
 œ
 
-1404/07/1914:05Ôå¨Ç"Quidax Token*Ú©ÙˆÛŒØ¯Ø§Ú©Ø³ ØªÙˆÚ©Ù†20.1211:14057AÍÌÌÌÌÌø?Hñ ¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/10079.png
+1404/07/1914:19œì¨Ç"Hooked Protocol*Ù‡ÙˆÚ©Ø¯ Ù¾Ø±ÙˆØªÚ©Ù„20.0639:7408AHáz®çAÀHÓ÷…R=https://s2.coinmarketcap.com/static/img/coins/64x64/22764.png
+~
+
+1404/07/1914:20Øì¨Ç"noice20.000290:33.58A=
+×£pı1ÀHø¸…R=https://s2.coinmarketcap.com/static/img/coins/64x64/38618.png
+
+
+1404/07/1914:19œì¨Ç"	Open Loot*Ø§ÙˆÙ¾Ù† Ù„ÙˆØª20.0216:2503Aq=
+×£BÀH™ş„R=https://s2.coinmarketcap.com/static/img/coins/64x64/34034.png
+
+
+1404/07/1914:19œì¨Ç"Swell Network*Ø³ÙˆØ§ÙÙ„ Ù†ØªÙˆØ±Ú©20.006325:732.72A¸…ëQø6ÀHıÃıR=https://s2.coinmarketcap.com/static/img/coins/64x64/24924.png
 Š
 
-1404/07/1914:06æ¨Ç"Neopin*Ù†Ø¦ÙˆÙ¾ÛŒÙ†20.0297:3441AÍÌÌÌÌ4ÀHÈ„¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/18966.png
+1404/07/1914:20Øì¨Ç"MetFi*Ù…Øªâ€ŒÙØ§ÛŒ20.0637:7377Aáz®GáÀH¥¨ıR=https://s2.coinmarketcap.com/static/img/coins/64x64/24225.png
 ¢
 
-1404/07/1914:05Ôå¨Ç"FIO Protocol*Ø§Ùâ€ŒØ¢ÛŒâ€ŒØ§Ùˆ Ù¾Ø±ÙˆØªÚ©Ù„20.0113:1308Affffff>ÀH‹¢µR<https://s2.coinmarketcap.com/static/img/coins/64x64/5865.png
-ƒ
+1404/07/1914:19œì¨Ç"Star Atlas DAO*Ø§Ø³ØªØ§Ø± Ø§Ø·Ù„Ø³ Ø¯Ø§Ø¦Ùˆ20.0538:6232A¤p=
+×£%ÀH¹”úR=https://s2.coinmarketcap.com/static/img/coins/64x64/11213.png
+‡
 
-1404/07/1914:06æ¨Ç"Pipe Network20.0926:10745A¸…ëQ¸CÀH¥µR=https://s2.coinmarketcap.com/static/img/coins/64x64/38550.png
-‰
-
-1404/07/1914:06æ¨Ç"Unizen*ÛŒÙˆÙ†ÛŒØ²Ù†20.0142:1647A…ëQ¸/ÀH§à³R<https://s2.coinmarketcap.com/static/img/coins/64x64/9263.png
-œ
-
-1404/07/1914:05Ôå¨Ç"ATMChain*Ø§ÛŒâ€ŒØªÛŒâ€ŒØ§Ù…â€ŒÚ†ÛŒÙ†21.2653:146832A®Gáz®*ÀHÛ³R<https://s2.coinmarketcap.com/static/img/coins/64x64/5227.png
-¬
-
-1404/07/1914:05Ôå¨Ç"New XAI gork*&Ù†ÛŒÙˆ Ø§ÛŒÚ©Ø³â€ŒØ§ÛŒâ€ŒØ¢ÛŒ Ú¯ÙˆØ±Ú©20.009232:1071A¤p=
-×c8ÀHé¿³R=https://s2.coinmarketcap.com/static/img/coins/64x64/36390.png
-‰
-
-1404/07/1914:05Ôå¨Ç"PUP (pupxbnb.com)20.009225:1071Aš™™™™9DÀHºƒ³R=https://s2.coinmarketcap.com/static/img/coins/64x64/38639.png
-
-
-1404/07/1914:05Ôå¨Ç"Basenji*Ø¨Ø§Ø³Ù†Ø¬ÛŒ20.009174:1065A{®Gáú5ÀHÒö¯R=https://s2.coinmarketcap.com/static/img/coins/64x64/30193.png
-
-
-1404/07/1914:05Ôå¨Ç"Gold DAO*Ú¯Ù„Ø¯ Ø¯Ø§Ø¦Ùˆ20.0121:1408A×£p=
-—7ÀHå¼®R=https://s2.coinmarketcap.com/static/img/coins/64x64/31296.png
-Ÿ
-
-1404/07/1914:06æ¨Ç"MCDEX Token*Ø§Ù…â€ŒØ³ÛŒâ€ŒØ¯Ú©Ø³ ØªÙˆÚ©Ù†22.39:277855AìQ¸…ë"ÀHÅº®R<https://s2.coinmarketcap.com/static/img/coins/64x64/5956.png
-™
-
-1404/07/1914:05Ôå¨Ç"
-Squid Grow*Ø§Ø³Ú©ÙˆØ¦ÛŒØ¯ Ú¯Ø±Ùˆ20.009144:1061A333333ÀHò‰®R=https://s2.coinmarketcap.com/static/img/coins/64x64/21134.png
-”
-
-1404/07/1914:05Ôå¨Ç"Artrade*Ø¢Ø±Øªâ€ŒØªØ±ÛŒØ¯20.007209:836.64Aáz®Ga'ÀHÆ¼ªR=https://s2.coinmarketcap.com/static/img/coins/64x64/19131.png
-ˆ
-
-1404/07/1914:06æ¨Ç"Masa*Ù…Ø§Ø³Ø§20.007713:895.07A…ëQ¸AÀH¦¦©R=https://s2.coinmarketcap.com/static/img/coins/64x64/29547.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Voxies*ÙˆØ§Ú©Ø³ÛŒØ²20.0357:4142A
-×£p=Ê;ÀH•«¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/15678.png
-…
-
-1404/07/1914:05Ôå¨Ç"KONET*Ú©ÙˆÙ†Øª20.0308:3579A®Gáz®@HŠ—§R=https://s2.coinmarketcap.com/static/img/coins/64x64/29724.png
-ç
-
-1404/07/1914:05Ôå¨Ç"0x0.ai: AI Smart Contract*VØ²ÛŒØ±Ùˆ Ø§ÛŒÚ©Ø³ Ø²ÛŒØ±Ùˆ Ø¯Ø§Øª Ø§ÛŒâ€ŒØ¢ÛŒ: Ø§ÛŒâ€ŒØ¢ÛŒ Ø§Ø³Ù…Ø§Ø±Øª Ú©Ø§Ù†ØªØ±Ú©Øª20.0104:1206A®Gáz”)ÀHé¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/23355.png
-ë
-
-1404/07/1914:05Ôå¨Ç"0iShares Russell 1000 Growth Tokenized ETF (Ondo)*HETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢ÛŒâ€ŒØ´ÛŒØ±Ø² Ø±Ø§Ø³Ù„ Û±Û°Û°Û° Ú¯Ø±Ø§ÙˆØ«2474.92:55114925H÷Ü¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/38022.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Mochimo*Ù…ÙˆÚ†ÛŒÙ…Ùˆ20.3210:37247AÂõ(\9@H‰Ä¤R<https://s2.coinmarketcap.com/static/img/coins/64x64/5125.png
-
-
-1404/07/1914:05Ôå¨Ç"Izumi Finance*Ø§ÛŒØ²ÙˆÙ…ÛŒ ÙØ§ÛŒÙ†Ù†Ø³20.0114:1321A®Gáz.$ÀH©¡£R=https://s2.coinmarketcap.com/static/img/coins/64x64/16305.png
-‹
-
-1404/07/1914:05Ôå¨Ç"REDX*Ø±Ø¯ Ø§Ú©Ø³20.002256:261.80A
-×£p=
-ÀHÔô¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/36226.png
-Ó
-
-1404/07/1914:05Ôå¨Ç"'iShares Gold Trust Tokenized ETF (Ondo)*2ETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢ÛŒâ€ŒØ´ÛŒØ±Ø² Ø·Ù„Ø§274.82:8683194A\Âõ(\ç¿H®¼¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/38041.png
-’
-
-1404/07/1914:06æ¨Ç"Coinweb*Ú©ÙˆÛŒÙ†â€ŒÙˆØ¨20.003720:431.71AìQ¸…ëù?Hßœ¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/12089.png
-»
-
-1404/07/1914:06æ¨Ç"VaderAI by Virtuals*.ÙˆÛŒØ¯Ø± Ø§ÛŒâ€ŒØ¢ÛŒ ØªÙˆØ³Ø· ÙˆÛŒØ±Ú†ÙˆØ§Ù„Ø²20.008949:1039Afffffæ'ÀHÒ´ R=https://s2.coinmarketcap.com/static/img/coins/64x64/34648.png
-®
-
-1404/07/1914:05Ôå¨Ç"Hosky Token*Ù‡ÙˆØ³Ú©ÛŒ ØªÙˆÚ©Ù†20.000000039049718071375025:0.004532A®Gáz®5ÀH§µŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/16755.png
-­
-
-1404/07/1914:06æ¨Ç"Solana Name Service*Ø³ÙˆÙ„Ø§Ù†Ø§ Ù†ÛŒÙ… Ø³Ø±ÙˆÛŒØ³20.001978:229.53AìQ¸…ë/ÀHÈŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/36468.png
-•
-
-1404/07/1914:06æ¨Ç"Bitboard*Ø¨ÛŒØªâ€ŒØ¨ÙˆØ±Ø¯20.002011:233.43A333333÷¿HîëœR=https://s2.coinmarketcap.com/static/img/coins/64x64/33102.png
-
-
-1404/07/1914:05Ôå¨Ç"TokenFi*ØªÙˆÚ©Ù† ÙØ§ÛŒ20.008858:1028AR¸…ë<ÀH‡ÔœR=https://s2.coinmarketcap.com/static/img/coins/64x64/28299.png
-
-
-1404/07/1914:05Ôå¨Ç"Observer*Ø§Ø¨Ø²Ø±ÙˆØ±20.001401:162.53A{®Gáz@Hı‘›R<https://s2.coinmarketcap.com/static/img/coins/64x64/3698.png
-
-
-1404/07/1914:05Ôå¨Ç"DeLorean*Ø¯Ù„ÙˆØ±ÛŒÙ†20.002320:269.26A×£p=
-W<ÀH§¯šR=https://s2.coinmarketcap.com/static/img/coins/64x64/36920.png
-›
-
-1404/07/1914:05Ôå¨Ç"Vara Network*ÙˆØ§Ø±Ø§ Ù†ØªÙˆØ±Ú©20.001978:229.56Aö(\Âu6ÀHş—šR=https://s2.coinmarketcap.com/static/img/coins/64x64/28067.png
-š
-
-1404/07/1914:05Ôå¨Ç"Aura Finance*Ø§ÙˆØ±Ø§ ÙØ§ÛŒÙ†Ù†Ø³20.1263:14652Afffff¦1ÀHÇƒ˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/21532.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"MANEKI*
-Ù…Ø§Ù†Ú©ÛŒ20.000991:115.00AÍÌÌÌÌŒ1ÀH¿ä—R=https://s2.coinmarketcap.com/static/img/coins/64x64/30912.png
-›
-
-1404/07/1914:05Ôå¨Ç"Miracle Play*Ù…ÛŒØ±Ø§Ú©Ù„ Ù¾Ù„ÛŒ20.008184:949.78A      ğ¿Hœ•–R=https://s2.coinmarketcap.com/static/img/coins/64x64/28348.png
-•
-
-1404/07/1914:06æ¨Ç"	MileVerse*Ù…Ø§ÛŒÙ„â€ŒÙˆØ±Ø³20.003160:366.68AHáz®G%ÀH«¼”R<https://s2.coinmarketcap.com/static/img/coins/64x64/7703.png
-
-
-1404/07/1914:05Ôå¨Ç"Giant Mammoth*Ø¬Ø§ÛŒÙ†Øª Ù…Ø§Ù…ÙˆØª20.005086:590.23AÍÌÌÌÌL"ÀH×ş“R=https://s2.coinmarketcap.com/static/img/coins/64x64/23326.png
-€
-
-1404/07/1914:05Ôå¨Ç"Nash*Ù†Ø´20.1966:22818A×£p=
-×&ÀHûş’R<https://s2.coinmarketcap.com/static/img/coins/64x64/3829.png
-˜
-
-1404/07/1914:05Ôå¨Ç"	Ultiverse*Ø§ÙˆÙ„ØªÛŒâ€ŒÙˆØ±Ø³20.001226:142.25A…ëQ¸E1ÀHæù‘R=https://s2.coinmarketcap.com/static/img/coins/64x64/31504.png
-Š
-
-1404/07/1914:06æ¨Ç"Alkimi*Ø§Ù„Ú©ÛŒÙ…ÛŒ20.0366:4249A…ëQ¸Å4ÀHÁÎ‘R=https://s2.coinmarketcap.com/static/img/coins/64x64/11036.png
+1404/07/1914:19œì¨Ç"LOAN Protocol20.000904:104.72A{®Gáz)ÀHÏ¾÷R=https://s2.coinmarketcap.com/static/img/coins/64x64/22071.png
 ‘
 
-1404/07/1914:05Ôå¨Ç"SatLayer*Ø³Øªâ€ŒÙ„ÙÛŒÙØ±20.0187:2167A33333s3ÀHğÍR=https://s2.coinmarketcap.com/static/img/coins/64x64/36020.png
-¥
+1404/07/1914:19œì¨Ç"
+Badger DAO*Ø¨Ø¬Ø± Ø¯Ø§Ø¦Ùˆ20.8276:95875A×£p=
+W/ÀHŞÀöR<https://s2.coinmarketcap.com/static/img/coins/64x64/7859.png
+š
 
-1404/07/1914:05Ôå¨Ç"CateCoin*Ú©ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†20.00000014997890143066695:0.0174Afffffæ)ÀH»£ŒR<https://s2.coinmarketcap.com/static/img/coins/64x64/9656.png
+1404/07/1914:19œì¨Ç"Cross The Ages*Ú©Ø±Ø§Ø³ Ø¯ Ø§ÛŒØ¬Ø²20.0331:3831Aš™™™™Y2ÀH©‚ñR=https://s2.coinmarketcap.com/static/img/coins/64x64/31185.png
 ”
 
-1404/07/1914:05Ôå¨Ç"PAID Network*Ù¾ÛŒØ¯ Ù†ØªÙˆØ±Ú©20.0161:1869A¸…ëQ8$ÀHœ¢ŒR<https://s2.coinmarketcap.com/static/img/coins/64x64/8329.png
+1404/07/1914:19œì¨Ç"PaLM AI*Ù¾Ø§Ù„Ù… Ø§ÛŒâ€ŒØ¢ÛŒ20.2135:24730A…ëQ¸….ÀH¤ğìR=https://s2.coinmarketcap.com/static/img/coins/64x64/28567.png
+‡
+
+1404/07/1914:19œì¨Ç"Velvet*ÙˆÙ„ÙˆØª20.1811:20986A¸…ëQ¸@H¡—êR=https://s2.coinmarketcap.com/static/img/coins/64x64/37298.png
+„
+
+1404/07/1914:19œì¨Ç"Roam*Ø±ÙˆØ§Ù…20.0513:5948A)\ÂõhDÀHéöèR=https://s2.coinmarketcap.com/static/img/coins/64x64/32088.png
+
+
+1404/07/1914:19œì¨Ç"Uranus*ÛŒÙˆØ±Ø§Ù†ÙˆØ³20.1632:18909AÃõ(\Â+ÀH£“äR=https://s2.coinmarketcap.com/static/img/coins/64x64/37522.png
+—
+
+1404/07/1914:19œì¨Ç"XSGD*Ø§Ú©Ø³â€ŒØ§Ø³â€ŒØ¬ÛŒâ€ŒØ¯ÛŒ20.7692:89113A¤p=
+×£Ğ¿H•µãR<https://s2.coinmarketcap.com/static/img/coins/64x64/8489.png
+
+
+1404/07/1914:19œì¨Ç"	UNS TOKEN*ÛŒÙˆâ€ŒØ§Ù†â€ŒØ§Ø³ ØªÙˆÚ©Ù†20.1544:17890A¸…ëQ¸®?Hî«ãR=https://s2.coinmarketcap.com/static/img/coins/64x64/23081.png
+ˆ
+
+1404/07/1914:20Øì¨Ç"Coral Protocol20.001880:217.79AÃõ(\B&ÀHş·ÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/36338.png
+¡
+
+1404/07/1914:19œì¨Ç"Redbelly Network*Ø±Ø¯Ø¨Ù„ÛŒ Ù†ØªÙˆØ±Ú©20.007210:835.30A¤p=
+×£ÀH·ÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/34849.png
+•
+
+1404/07/1914:19œì¨Ç"	OctaSpace*Ø§Ú©ØªØ§ Ø§Ø³Ù¾ÛŒØ³20.4080:47269AÍÌÌÌÌÌÀH‚ÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/24261.png
+‘
+
+1404/07/1914:19œì¨Ç"
+Aavegotchi*Ø¢ÙˆÙ‡ Ú¯Ø§Ú†ÛŒ20.3032:35124A)\Âõ(8ÀH³‡ĞR<https://s2.coinmarketcap.com/static/img/coins/64x64/7046.png
+€
+
+1404/07/1914:20Øì¨Ç"Vow*ÙˆØ§Ùˆ20.0448:5190AÃõ(\ÂÀH­œÎR<https://s2.coinmarketcap.com/static/img/coins/64x64/8670.png
+—
+
+1404/07/1914:19œì¨Ç"ROGin AI*Ø±ÙˆÚ¯ÛŒÙ† Ø§ÛŒâ€ŒØ¢ÛŒ20.2378:27553AìQ¸…ëõ?Hâ²ÌR=https://s2.coinmarketcap.com/static/img/coins/64x64/20490.png
+
+
+1404/07/1914:19œì¨Ç"Joe coin*Ø¬Ùˆ Ú©ÙˆÛŒÙ†20.0159:1845A×£p=
+×/ÀH³àËR=https://s2.coinmarketcap.com/static/img/coins/64x64/28504.png
+¡
+
+1404/07/1914:19œì¨Ç"Book of Ethereum*Ø¨ÙˆÚ© Ø¢Ù Ø§ØªØ±ÛŒÙˆÙ…20.1652:19138AHáz®GÀH’ïÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/31171.png
+®
+
+1404/07/1914:20Øì¨Ç"Shapeshift FOX Token*#Ø´ÛŒÙ¾â€ŒØ´ÛŒÙØª ÙØ§Ú©Ø³ ØªÙˆÚ©Ù†20.0205:2380A)\Âõ((ÀH³¸ÈR<https://s2.coinmarketcap.com/static/img/coins/64x64/8200.png
+Œ
+
+1404/07/1914:19œì¨Ç"NKN*Ø§Ù†â€ŒÚ©ÛŒâ€ŒØ§Ù†20.0199:2310Aáz®Ga5ÀHñ–ÅR<https://s2.coinmarketcap.com/static/img/coins/64x64/2780.png
+
+
+1404/07/1914:19œì¨Ç"PlatON*Ù¾Ù„Øªâ€ŒØ¢Ù†20.002352:272.47A=
+×£pı4ÀH¢øÄR<https://s2.coinmarketcap.com/static/img/coins/64x64/9720.png
+“
+
+1404/07/1914:19œì¨Ç"SKYAI*Ø§Ø³Ú©Ø§ÛŒ Ø§ÛŒâ€ŒØ¢ÛŒ20.0158:1830A)\ÂõèFÀHÀöÃR=https://s2.coinmarketcap.com/static/img/coins/64x64/36300.png
+¡
+
+1404/07/1914:19œì¨Ç"Heroes of Mavia*Ù‡ÛŒØ±ÙˆØ² Ø¢Ù Ù…Ø§ÙˆÛŒØ§20.0834:9667A×£p=
+w@ÀHÖ¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/28829.png
+‘
+
+1404/07/1914:19œì¨Ç"Bitlayer*Ø¨ÛŒØªâ€ŒÙ„ÙÛŒØ±20.0598:6929Aq=
+×£03ÀHûºR=https://s2.coinmarketcap.com/static/img/coins/64x64/36277.png
+“
+
+1404/07/1914:19œì¨Ç"RICE AI*Ø±Ø§ÛŒØ³ Ø§ÛŒâ€ŒØ¢ÛŒ20.0735:8516A…ëQ¸E3ÀH¬†µR=https://s2.coinmarketcap.com/static/img/coins/64x64/37596.png
+Š
+
+1404/07/1914:19œì¨Ç"Portal*Ù¾ÙˆØ±ØªØ§Ù„20.0266:3082A=
+×£p½>ÀHë²R=https://s2.coinmarketcap.com/static/img/coins/64x64/29555.png
+¼
+
+1404/07/1914:19œì¨Ç"RichQUACK.com*Ø±ÛŒÚ† Ú©ÙˆØ¢Ú© Ø¯Ø§Øª Ú©Ø§Ù…20.000000000351628509353308:
+0.00004100A×£p=
+W#ÀH¸”²R=https://s2.coinmarketcap.com/static/img/coins/64x64/10641.png
+š
+
+1404/07/1914:20Øì¨Ç"dYdX*Ø¯ÛŒâ€ŒÙˆØ§ÛŒâ€ŒØ¯ÛŒâ€ŒØ§Ú©Ø³20.3680:42637AHáz®çAÀH—Ü§R=https://s2.coinmarketcap.com/static/img/coins/64x64/11156.png
+¡
+
+1404/07/1914:19œì¨Ç"Harvest Finance*Ù‡Ø§Ø±ÙˆØ³Øª ÙØ§ÛŒÙ†Ù†Ø³222.77:2638258AìQ¸…k/ÀH…¤¦R<https://s2.coinmarketcap.com/static/img/coins/64x64/6859.png
+‚
+
+1404/07/1914:19œì¨Ç"SIX*Ø³ÛŒÚ©Ø³20.0180:2083AìQ¸…ë"ÀHÊ€¦R<https://s2.coinmarketcap.com/static/img/coins/64x64/3327.png
+œ
+
+1404/07/1914:20Øì¨Ç"	BFG Token*Ø¨ÛŒâ€ŒØ§Ùâ€ŒØ¬ÛŒ ØªÙˆÚ©Ù†20.0136:1576A\Âõ(\ÀHÚ‰¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/11038.png
+¡
+
+1404/07/1914:19œì¨Ç"Sentinel Protocol*Ø³Ù†ØªÛŒÙ†Ù„ Ù¾Ø±ÙˆØªÚ©Ù„20.0303:3511A¸…ëQ¸.ÀH¸ªšR<https://s2.coinmarketcap.com/static/img/coins/64x64/2866.png
+‡
+
+1404/07/1914:19œì¨Ç"Hathor*
+Ù‡Ø§ØªÙˆØ±20.0303:3506A\Âõ(\ÀHã£šR<https://s2.coinmarketcap.com/static/img/coins/64x64/5552.png
+¤
+
+1404/07/1914:20Øì¨Ç"Indigo Protocol*Ø§ÛŒÙ†Ø¯ÛŒÚ¯Ùˆ Ù¾Ø±ÙˆØªÚ©Ù„20.9392:108805A…ëQ¸1ÀHÅ—˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/22771.png
+‰
+
+1404/07/1914:19œì¨Ç"Zerebro*
+Ø²Ø±Ø¨Ø±Ùˆ20.0151:1744A{®Gáú.ÀH‡É–R=https://s2.coinmarketcap.com/static/img/coins/64x64/34083.png
+µ
+
+1404/07/1914:19œì¨Ç"crow with knife*Ú©Ø±Ùˆ ÙˆÛŒØª Ù†Ø§ÛŒÙ20.000000019295974212217145:0.002235A{®Gáz"ÀH¹ØŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/30402.png
+™
+
+1404/07/1914:20Øì¨Ç"Dego Finance*Ø¯ÛŒÚ¯Ùˆ ÙØ§ÛŒÙ†Ù†Ø³20.7043:81596A…ëQ¸şCÀHĞÎ†R<https://s2.coinmarketcap.com/static/img/coins/64x64/7087.png
+„
+
+1404/07/1914:20Øì¨Ç"Liberals Tears20.0147:1704A)\Âõ(ÀHöíR=https://s2.coinmarketcap.com/static/img/coins/64x64/37102.png
+¼
+
+1404/07/1914:19œì¨Ç"Green Satoshi Token (SOL)*'Ú¯Ø±ÛŒÙ† Ø³Ø§ØªÙˆØ´ÛŒ ØªÙˆÚ©Ù† (Ø³ÙˆÙ„)20.003657:423.68Aq=
+×£ğ)ÀHÛ½R=https://s2.coinmarketcap.com/static/img/coins/64x64/16352.png
+‘
+
+1404/07/1914:19œì¨Ç"zKML*Ø²Ø¯Ú©ÛŒ Ø§Ù…â€ŒØ§Ù„20.1517:17577AHáz®G+ÀH¸ÎıR=https://s2.coinmarketcap.com/static/img/coins/64x64/29445.png
+|
+
+1404/07/1914:19œì¨Ç"NetX20.9256:107233AÂõ(\O0ÀH†ÔûR=https://s2.coinmarketcap.com/static/img/coins/64x64/38435.png
+¥
+
+1404/07/1914:19œì¨Ç"Seedify.fund*!Ø³ÛŒØ¯ÛŒâ€ŒÙØ§ÛŒ Ø¯Ø§Øª ÙØ§Ù†Ø¯20.1969:22810A¤p=
+×£/ÀH¶¯ûR<https://s2.coinmarketcap.com/static/img/coins/64x64/8972.png
+œ
+
+1404/07/1914:20Øì¨Ç"Broccoli (FirstBroccoli)*Ø¨Ø±ÙˆÚ©Ù„ÛŒ20.0146:1689AìQ¸…k1ÀHˆïùR=https://s2.coinmarketcap.com/static/img/coins/64x64/35753.png
+‹
+
+1404/07/1914:19œì¨Ç"Brickken*
+Ø¨Ø±ÛŒÚ©Ù†20.1809:20961A×£p=
+4ÀH™ŠùR=https://s2.coinmarketcap.com/static/img/coins/64x64/21822.png
+‹
+
+1404/07/1914:19œì¨Ç"Synapse*Ø³ÛŒÙ†Ø§Ù¾Ø³20.0785:9097A=
+×£p==ÀHÓ÷öR=https://s2.coinmarketcap.com/static/img/coins/64x64/12147.png
+‹
+
+1404/07/1914:19œì¨Ç"Cointel*Ú©ÙˆÛŒÙ†ØªÙ„20.0256:2970Aq=
+×£pÀHŠ¥öR=https://s2.coinmarketcap.com/static/img/coins/64x64/36178.png
+»
+
+1404/07/1914:19œì¨Ç"Build On BNB* Ø¨ÛŒÙ„Ø¯ Ø¢Ù† Ø¨ÛŒâ€ŒØ§Ù†â€ŒØ¨ÛŒ20.00000003448636131834148:0.003995Aš™™™™™+ÀH£ÀõR=https://s2.coinmarketcap.com/static/img/coins/64x64/34422.png
+¥
+
+1404/07/1914:19œì¨Ç"Perpetual Protocol*Ù¾Ø±Ù¾Ú†ÙˆØ§Ù„ Ù¾Ø±ÙˆØªÚ©Ù„20.2191:25387A…ëQ¸E5ÀH âòR<https://s2.coinmarketcap.com/static/img/coins/64x64/6950.png
+©
+
+1404/07/1914:20Øì¨Ç"Mines of Dalarnia* Ù…Ø§ÛŒÙ†Ø² Ø¢Ù Ø¯Ø§Ù„Ø§Ø±Ù†ÛŒØ§20.0223:2581A®Gáz®=ÀH’ûğR=https://s2.coinmarketcap.com/static/img/coins/64x64/11374.png
+Œ
+
+1404/07/1914:19œì¨Ç"Minutes Network Token20.1852:21455A{®Gáú"ÀHÆ÷íR=https://s2.coinmarketcap.com/static/img/coins/64x64/36317.png
+ö
+
+1404/07/1914:19œì¨Ç"3iShares Core US Aggregate Bond Tokenized ETF (Ondo)*PETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢ÛŒâ€ŒØ´ÛŒØ±Ø² Ø§ÙˆØ±Ø§Ù‚ ØªØ¬Ù…ÛŒØ¹ÛŒ Ø¢Ù…Ø±ÛŒÚ©Ø§2101.58:11768423HÀ—ëR=https://s2.coinmarketcap.com/static/img/coins/64x64/38072.png
+
+
+1404/07/1914:19œì¨Ç"
+PoP Planet20.1021:11830A×£p=
+:ÀHêÅèR=https://s2.coinmarketcap.com/static/img/coins/64x64/38538.png
+Œ
+
+1404/07/1914:19œì¨Ç"UTRUST*ÛŒÙˆØªØ± Ø§Ø³Øª20.0203:2347A\Âõ(\7ÀHıÛæR<https://s2.coinmarketcap.com/static/img/coins/64x64/2320.png
+ƒ
+
+1404/07/1914:19œì¨Ç"HOPR*Ù‡Ø§Ù¾Ø±20.0418:4841A\Âõ(\,ÀH½‰æR<https://s2.coinmarketcap.com/static/img/coins/64x64/6520.png
+
+
+1404/07/1914:19œì¨Ç"Wanchain*ÙˆØ§Ù†â€ŒÚ†ÛŒÙ†20.0717:8311A)\Âõ¨(ÀH÷üåR<https://s2.coinmarketcap.com/static/img/coins/64x64/2606.png
+“
+
+1404/07/1914:19œì¨Ç"
+VICE Token*ÙˆØ§ÛŒØ³ ØªÙˆÚ©Ù†20.0143:1661Aš™™™™9IÀHúÏäR=https://s2.coinmarketcap.com/static/img/coins/64x64/35575.png
+ƒ
+
+1404/07/1914:19œì¨Ç"cheqd*Ú†Ù‚Ø¯20.0221:2565A333333 ÀHáäR=https://s2.coinmarketcap.com/static/img/coins/64x64/12256.png
+Ú
+
+1404/07/1914:19œì¨Ç"+iShares Core MSCI EAFE Tokenized ETF (Ondo)*5ETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢ÛŒâ€ŒØ´ÛŒØ±Ø² MSCI EAFE286.17:9982769AÂõ(\ö¿HÉşâR=https://s2.coinmarketcap.com/static/img/coins/64x64/38021.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Heima*
+Ù‡Ø§ÛŒÙ…Ø§20.1822:21109AìQ¸…«FÀH˜õáR=https://s2.coinmarketcap.com/static/img/coins/64x64/35724.png
+ƒ
+
+1404/07/1914:20Øì¨Ç"EVAA Protocol22.14:247734AÍÌÌÌÌŒBÀHóŞßR=https://s2.coinmarketcap.com/static/img/coins/64x64/38376.png
+†
+
+1404/07/1914:19œì¨Ç"AdEx*
+Ø§Ø¯Ø§Ú©Ø³20.0956:11079Aáz®Ga*ÀHß¥ßR<https://s2.coinmarketcap.com/static/img/coins/64x64/1768.png
+‡
+
+1404/07/1914:19œì¨Ç"Obol*
+Ø§ÙˆØ¨ÙˆÙ„20.1117:12937Aö(\ÂõÀHˆóŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/36278.png
+Œ
+
+1404/07/1914:19œì¨Ç"sudeng*
+Ø³ÙˆØ¯Ù†Ú¯20.001413:163.67A     €LÀH£ŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/33258.png
+
+
+1404/07/1914:19œì¨Ç"Union*ÛŒÙˆÙ†ÛŒÙˆÙ†20.007354:851.98A®GázT<ÀHˆ¯İR=https://s2.coinmarketcap.com/static/img/coins/64x64/38270.png
+¢
+
+1404/07/1914:19œì¨Ç"GenesysGo Shadow*Ø¬Ù†Ø³ÛŒØ³â€ŒÚ¯Ùˆ Ø´Ø§Ø¯Ùˆ20.0832:9636AÍÌÌÌÌŒ2ÀHõ—ÚR=https://s2.coinmarketcap.com/static/img/coins/64x64/16868.png
+µ
+
+1404/07/1914:19œì¨Ç"Public Masterpiece Token*$Ù¾Ø§Ø¨Ù„ÛŒÚ© Ù…Ø³ØªØ±Ù¾ÛŒØ³ ØªÙˆÚ©Ù†20.1086:12578A¤p=
+×£À?Hò×R=https://s2.coinmarketcap.com/static/img/coins/64x64/32232.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Wojak*ÙˆÙˆØ¬Ú©20.000202:23.37A)\Âõ(.ÀHôÌÖR=https://s2.coinmarketcap.com/static/img/coins/64x64/24502.png
+¼
+
+1404/07/1914:19œì¨Ç"Paris Saint-Germain Fan Token*&Ù¾Ø§Ø±ÛŒØ³ Ø³Ù† Ú˜Ø±Ù…Ù† ÙÙ† ØªÙˆÚ©Ù†21.2115:140360Afffff¦3ÀHäÎÑR<https://s2.coinmarketcap.com/static/img/coins/64x64/5226.png
+š
+
+1404/07/1914:20Øì¨Ç"	TG Casino*ØªÛŒâ€ŒØ¬ÛŒ Ú©Ø§Ø²ÛŒÙ†Ùˆ20.1749:20267AÃõ(\ÂÀH®ÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/28919.png
+™
+
+1404/07/1914:19œì¨Ç"Bella Protocol*Ø¨Ù„Ø§ Ù¾Ø±ÙˆØªÚ©Ù„20.1726:19992A×£p=
+W:ÀHÆËÊR<https://s2.coinmarketcap.com/static/img/coins/64x64/6928.png
+˜
+
+1404/07/1914:20Øì¨Ç"Aleph.im*Ø§Ù„Ù Ø¯Ø§Øª Ø¢ÛŒâ€ŒØ§Ù…20.0558:6463A\Âõ(Ü)ÀH¸İÉR<https://s2.coinmarketcap.com/static/img/coins/64x64/5821.png
+
+
+1404/07/1914:19œì¨Ç"Hey Anon*Ù‡ÛŒ Ø¢Ù†ÙˆÙ†21.0264:118915Aö(\Âõ6ÀHš¨ÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/35092.png
+•
+
+1404/07/1914:19œì¨Ç"	QuickSwap*Ú©ÙˆØ¦ÛŒÚ© Ø³ÙˆØ§Ù¾218.72:2168716Afffffæ6ÀHáˆÉR<https://s2.coinmarketcap.com/static/img/coins/64x64/8206.png
+‹
+
+1404/07/1914:19œì¨Ç"Rarible*Ø±Ø§Ø±ÛŒØ¨Ù„20.7061:81808AÍÌÌÌÌÌ+ÀH®úÇR<https://s2.coinmarketcap.com/static/img/coins/64x64/5877.png
+¼
+
+1404/07/1914:19œì¨Ç"Milady Meme Coin*Ù…ÛŒÙ„ÛŒØ¯ÛŒ Ù…ÛŒÙ… Ú©ÙˆÛŒÙ†20.000000018713657905387612:0.002168Aö(\Âõ$ÀHÒäÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/25023.png
+
+
+1404/07/1914:19œì¨Ç"
+Daddy Tate*Ø¯Ø¯ÛŒ ØªÛŒØª20.0229:2652AR¸…ëQ+ÀH¯øÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/31830.png
+†
+
+1404/07/1914:19œì¨Ç"LOFI*
+Ù„ÙˆÙØ§ÛŒ20.0137:1589A=
+×£p=+ÀH®™ÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/34187.png
+—
+
+1404/07/1914:19œì¨Ç"Bedrock DAO*Ø¨Ø¯Ø± Ø§Ú© Ø¯Ø§Ø¦Ùˆ20.0594:6884Afffff¦3ÀH§—ÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/36063.png
+›
+
+1404/07/1914:20Øì¨Ç"Port3 Network*Ù¾ÙˆØ±Øª Û³ Ù†ØªÙˆØ±Ú©20.0272:3152AR¸…ë‘LÀHƒ¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/29030.png
+„
+
+1404/07/1914:19œì¨Ç"GAIA*Ú¯Ø§ÛŒØ§20.0800:9266Aö(\ÂõÀH¸ò½R=https://s2.coinmarketcap.com/static/img/coins/64x64/37473.png
+…
+
+1404/07/1914:19œì¨Ç"Boost*Ø¨ÙˆØ³Øª20.0856:9914AÂõ(\ú¿HÜÜ½R=https://s2.coinmarketcap.com/static/img/coins/64x64/36531.png
 
 
-1404/07/1914:05Ôå¨Ç"	Bellscoin*Ø¨Ù„Ø²Ú©ÙˆÛŒÙ†20.1405:16303AHáz®G.ÀHìõ‹R=https://s2.coinmarketcap.com/static/img/coins/64x64/32892.png
+1404/07/1914:20Øì¨Ç"ORIGYN*Ø§ÙˆØ±ÛŒØ¬ÛŒÙ†20.001724:199.68A¤p=
+×ã1ÀH¾Ç·R=https://s2.coinmarketcap.com/static/img/coins/64x64/17960.png
+š
+
+1404/07/1914:19œì¨Ç"SyncGPT*Ø³ÛŒÙ†Ú© Ø¬ÛŒâ€ŒÙ¾ÛŒâ€ŒØªÛŒ20.0672:7786Aš™™™™™©?H­´R=https://s2.coinmarketcap.com/static/img/coins/64x64/33104.png
+„
+
+1404/07/1914:19œì¨Ç"Telos*ØªÙ„ÙˆØ³20.0303:3508AÃõ(\Â'ÀHˆ²³R<https://s2.coinmarketcap.com/static/img/coins/64x64/4660.png
+£
+
+1404/07/1914:19œì¨Ç"AS Roma Fan Token*Ø¢Ø§Ø³ Ø±Ù… ÙÙ† ØªÙˆÚ©Ù†21.6944:196298A…ëQ¸Ş9ÀHÈ¹²R<https://s2.coinmarketcap.com/static/img/coins/64x64/5229.png
+¤
+
+1404/07/1914:19œì¨Ç"Quickswap[New]*Ú©ÙˆØ¦ÛŒÚ© Ø³ÙˆØ§Ù¾ [Ø¬Ø¯ÛŒØ¯]20.0182:2110A      9ÀH–’²R=https://s2.coinmarketcap.com/static/img/coins/64x64/19966.png
+—
+
+1404/07/1914:19œì¨Ç"
+CreatorBid*Ú©Ø±ÛŒÛŒØªÙˆØ± Ø¨ÛŒØ¯20.0505:5848AÃõ(\‚4ÀHç­R=https://s2.coinmarketcap.com/static/img/coins/64x64/35430.png
+œ
+
+1404/07/1914:19œì¨Ç"StablR Euro*Ø§Ø³ØªØ§Ø¨Ù„Ø± ÛŒÙˆØ±Ùˆ21.1579:134150AìQ¸…ë±?HöÌ«R=https://s2.coinmarketcap.com/static/img/coins/64x64/29042.png
+¦
+
+1404/07/1914:19œì¨Ç"PepeFork*Ù¾Ù¾Ù‡ ÙÙˆØ±Ú©20.00000003249684650698413:0.003765A{®Gáz+ÀHÖÀ¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/29220.png
+
+
+1404/07/1914:19œì¨Ç"Vertical AI*ÙˆØ±ØªÛŒÚ©Ø§Ù„ Ø§ÛŒâ€ŒØ¢ÛŒ20.1321:15308A
+×£p=Š"ÀHò¿¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/34158.png
+®
+
+1404/07/1914:19œì¨Ç"Switchboard Protocol*"Ø³ÙˆÛŒÛŒÚ†â€ŒØ¨ÙˆØ±Ø¯ Ù¾Ø±ÙˆØªÚ©Ù„20.0770:8917A33333³0ÀHò”¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/38318.png
+µ
+
+1404/07/1914:19œì¨Ç""Kekius Maximus (kekiusmaximus.vip)*Ú©Ú©ÛŒÙˆØ³ Ù…Ø§Ú©Ø³ÛŒÙ…ÙˆØ³20.0132:1530Aš™™™™Ù2ÀH†ö¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/35011.png
+«
+
+1404/07/1914:19œì¨Ç"Unicorn Fart Dust*"ÛŒÙˆÙ†ÛŒÚ©ÙˆØ±Ù† ÙØ§Ø±Øª Ø¯Ø§Ø³Øª20.0132:1529A     €9ÀH¥Ö¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/34853.png
+Œ
+
+1404/07/1914:19œì¨Ç"ASD*Ø§ÛŒâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.0199:2311A)\Âõ(6ÀHÕœ¤R<https://s2.coinmarketcap.com/static/img/coins/64x64/3673.png
+Œ
+
+1404/07/1914:19œì¨Ç"mCoin*Ø§Ù…â€ŒÚ©ÙˆÛŒÙ†20.0743:8606A×£p=
+W(ÀHº¾¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/23046.png
+Œ
+
+1404/07/1914:19œì¨Ç"Abelian*Ø§Ø¨Ù„ÛŒØ§Ù†20.1225:14193A
+×£p=J2ÀH‹ø R=https://s2.coinmarketcap.com/static/img/coins/64x64/25232.png
+§
+
+1404/07/1914:19œì¨Ç"Pitbull*Ù¾ÛŒØªâ€ŒØ¨ÙˆÙ„20.000000000325623962451618:
+0.00003800A×£p=
+W&ÀH©æR<https://s2.coinmarketcap.com/static/img/coins/64x64/9177.png
+™
+
+1404/07/1914:19œì¨Ç"Fair and Free*ÙÛŒØ± Ø§Ù†Ø¯ ÙØ±ÛŒ20.0140:1619AÃõ(\‚5ÀH€¬R=https://s2.coinmarketcap.com/static/img/coins/64x64/36234.png
+
+
+1404/07/1914:20Øì¨Ç"Mineplex 2.0*Ù…Ø§ÛŒÙ†â€ŒÙ¾Ù„Ú©Ø³ Û².Û°20.2049:23736A=
+×£p=0ÀH—ƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/26202.png
+¸
+
+1404/07/1914:19œì¨Ç"FC Barcelona Fan Token**Ø§Ùâ€ŒØ³ÛŒ Ø¨Ø§Ø±Ø³Ù„ÙˆÙ†Ø§ ÙÙ† ØªÙˆÚ©Ù†20.8432:97683Afffff&1ÀHÛƒ™R<https://s2.coinmarketcap.com/static/img/coins/64x64/5225.png
+—
+
+1404/07/1914:19œì¨Ç"Cult DAO*Ú©Ø§Ù„Øª Ø¯Ø§Ø¦Ùˆ2
+0.00000298:0.3456AHáz®Ç)ÀH‘¬’R=https://s2.coinmarketcap.com/static/img/coins/64x64/17742.png
+ª
+
+1404/07/1914:19œì¨Ç"AMATERASU OMIKAMI*!Ø§Ù…Ø§ØªØ±Ø§Ø³Ùˆ Ø§ÙˆÙ…ÛŒÚ©Ø§Ù…ÛŒ20.0136:1576A×£p=
+W$ÀH–…’R=https://s2.coinmarketcap.com/static/img/coins/64x64/28147.png
+™
+
+1404/07/1914:19œì¨Ç"Cornucopias*Ú©ÙˆØ±Ù†ÙˆÚ©ÙˆÙ¾ÛŒØ§Ø³20.0125:1445Aš™™™™™,ÀHúş‘R=https://s2.coinmarketcap.com/static/img/coins/64x64/15563.png
+~
+
+1404/07/1914:19œì¨Ç"BORGY20.000166:19.22A
+×£p=Ê4ÀHù×‘R=https://s2.coinmarketcap.com/static/img/coins/64x64/35693.png
+¡
+
+1404/07/1914:19œì¨Ç"XPIN Network*Ø§Ú©Ø³â€ŒÙ¾ÛŒÙ† Ù†ØªÙˆØ±Ú©20.000802:92.91AÃõ(\âBÀH‚¼R=https://s2.coinmarketcap.com/static/img/coins/64x64/36238.png
+Š
+
+1404/07/1914:19œì¨Ç"Swarms*Ø³ÙˆØ§Ø±Ù…Ø²20.0128:1483A×£p=
+W;ÀH¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/34993.png
+œ
+
+1404/07/1914:19œì¨Ç"
+SPECTRE AI*Ø§Ø³Ù¾Ú©ØªØ± Ø§ÛŒâ€ŒØ¢ÛŒ21.2803:148322Aö(\Âu&ÀH«ğŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/28446.png
+‡
+
+1404/07/1914:19œì¨Ç"Openverse Network26.71:777319Affffff@HÃŠŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/38530.png
+‰
+
+1404/07/1914:19œì¨Ç"Bluzelle*
+Ø¨Ù„ÙˆØ²Ù„20.0270:3130A\Âõ(\*ÀH¡ˆR<https://s2.coinmarketcap.com/static/img/coins/64x64/2505.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Ultra*Ø§ÙˆÙ„ØªØ±Ø§20.0268:3111Aö(\Âõ!ÀHÀÙ†R<https://s2.coinmarketcap.com/static/img/coins/64x64/4189.png
+š
+
+1404/07/1914:20Øì¨Ç"Polkastarter*Ù¾ÙˆÙ„Ú©Ø§Ø³ØªØ§Ø±ØªØ±20.1270:14712Aš™™™™Y6ÀHŞö€R<https://s2.coinmarketcap.com/static/img/coins/64x64/7208.png
+–
+
+1404/07/1914:20Øì¨Ç"AMO Coin*Ø§Ù…â€ŒØ§Ùˆ Ú©ÙˆÛŒÙ†20.000593:68.74A
+×£p=
+ÀHèÜÿR<https://s2.coinmarketcap.com/static/img/coins/64x64/3260.png
 ’
 
-1404/07/1914:06æ¨Ç"
-SpaceChain*Ø§Ø³Ù¾ÛŒØ³ Ú†ÛŒÙ†20.0279:3237A¤p=
+1404/07/1914:19œì¨Ç"Node AI*Ù†ÙˆØ¯ Ø§ÛŒâ€ŒØ¢ÛŒ20.1280:14826A×£p=
+×ÀHùşıR=https://s2.coinmarketcap.com/static/img/coins/64x64/29513.png
+˜
+
+1404/07/1914:19œì¨Ç"
+ColossusXT*Ú©ÙˆÙ„ÙˆØ³ÙˆØ³ Ø§Ú©Ø³â€ŒØªÛŒ20.000985:114.07HÖ“ıR<https://s2.coinmarketcap.com/static/img/coins/64x64/2001.png
+‹
+
+1404/07/1914:20Øì¨Ç"Eclipse*Ø§Ú©Ù„ÛŒÙ¾Ø³20.0834:9666A     @;ÀHÒêûR=https://s2.coinmarketcap.com/static/img/coins/64x64/36174.png
+±
+
+1404/07/1914:19œì¨Ç"Equilibria Finance*&Ø§Ú©ÙˆÛŒÛŒâ€ŒÙ„ÛŒØ¨Ø±ÛŒØ§ ÙØ§ÛŒÙ†Ù†Ø³20.3696:42821A
+×£p=Š!ÀH†ÚûR=https://s2.coinmarketcap.com/static/img/coins/64x64/26556.png
+˜
+
+1404/07/1914:19œì¨Ç"
+Star Atlas*Ø§Ø³ØªØ§Ø± Ø§Ø·Ù„Ø³20.000585:67.75A     À5ÀHÌ°ûR=https://s2.coinmarketcap.com/static/img/coins/64x64/11212.png
+Š
+
+1404/07/1914:19œì¨Ç"DeBox*Ø¯ÛŒ Ø¨Ø§Ú©Ø³20.0308:3572Aö(\Âu2ÀH˜ãùR=https://s2.coinmarketcap.com/static/img/coins/64x64/33116.png
+
+
+1404/07/1914:19œì¨Ç"Codatta*Ú©ÙˆØ¯Ø§ØªØ§20.004990:578.11A®GáznAÀHşµùR=https://s2.coinmarketcap.com/static/img/coins/64x64/36933.png
+–
+
+1404/07/1914:19œì¨Ç"Purple Pepe*Ù¾Ø±Ù¾Ù„ Ù¾Ù¾Ù‡2
+0.00002982:3.45Aq=
+×£pÀH¢­÷R=https://s2.coinmarketcap.com/static/img/coins/64x64/32171.png
+“
+
+1404/07/1914:19œì¨Ç"AIHub*Ø§ÛŒâ€ŒØ¢ÛŒâ€ŒÙ‡Ø§Ø¨211.10:1286547A\Âõ(\.ÀHÚ÷R=https://s2.coinmarketcap.com/static/img/coins/64x64/37448.png
+‘
+
+1404/07/1914:19œì¨Ç"	GamerCoin*Ú¯ÛŒÙ…Ø± Ú©ÙˆÛŒÙ†20.0191:2212A®Gázn0ÀHºÇõR<https://s2.coinmarketcap.com/static/img/coins/64x64/6554.png
+”
+
+1404/07/1914:19œì¨Ç"	Doodipals*Ø¯ÙˆØ¯ÛŒâ€ŒÙ¾Ø§Ù„Ø²20.0134:1549AÂõ(\+ÀHññóR=https://s2.coinmarketcap.com/static/img/coins/64x64/36064.png
+
+
+1404/07/1914:20Øì¨Ç"Dimitra*Ø¯ÛŒÙ…ÛŒØªØ±Ø§20.0254:2944Aq=
+×£01ÀH¤¿òR=https://s2.coinmarketcap.com/static/img/coins/64x64/12041.png
+ˆ
+
+1404/07/1914:19œì¨Ç"pippin*
+Ù¾ÛŒÙ¾ÛŒÙ†20.0123:1429AÍÌÌÌÌ¬BÀH«ŠñR=https://s2.coinmarketcap.com/static/img/coins/64x64/35053.png
+†
+
+1404/07/1914:19œì¨Ç"Seraph*Ø³Ø±Ø§Ù20.0420:4861Aš™™™™?ÀHö¨ëR=https://s2.coinmarketcap.com/static/img/coins/64x64/34377.png
+…
+
+1404/07/1914:19œì¨Ç"Bulla*Ø¨ÙˆÙ„Ø§20.0437:5061A®Gázn8ÀH“ÉêR=https://s2.coinmarketcap.com/static/img/coins/64x64/36769.png
+‰
+
+1404/07/1914:19œì¨Ç"Cortex*Ú©ÙˆØ±ØªÚ©Ø³20.0524:6070A…ëQ¸…0ÀHŠ¼éR<https://s2.coinmarketcap.com/static/img/coins/64x64/2638.png
+¬
+
+1404/07/1914:20Øì¨Ç"Measurable Data Token* Ù…ÛŒÚ˜Ø±Ø§Ø¨Ù„ Ø¯ÛŒØªØ§ ØªÙˆÚ©Ù†20.0180:2088A333333*ÀHÓ÷çR<https://s2.coinmarketcap.com/static/img/coins/64x64/2348.png
+°
+
+1404/07/1914:19œì¨Ç"FC Porto Fan Token*$Ø§Ùâ€ŒØ³ÛŒ Ù¾ÙˆØ±ØªÙˆ ÙÙ† ØªÙˆÚ©Ù†21.0754:124592AR¸…ëÑ#ÀH¹ÉçR=https://s2.coinmarketcap.com/static/img/coins/64x64/14052.png
+Œ
+
+1404/07/1914:19œì¨Ç"Streamr*Ø§Ø³ØªØ±ÛŒÙ…Ø±20.0102:1182A\Âõ(8ÀHŞéæR<https://s2.coinmarketcap.com/static/img/coins/64x64/2143.png
+—
+
+1404/07/1914:19œì¨Ç"Boba Network*Ø¨ÙˆØ¨Ø§ Ù†ØªÙˆØ±Ú©20.0707:8188A…ëQ¸^0ÀH‘¦äR=https://s2.coinmarketcap.com/static/img/coins/64x64/14556.png
+
+
+1404/07/1914:20Øì¨Ç"TAC Protocol*ØªØ§ Ø³ÛŒ Ù¾Ø±ÙˆØªÚ©Ù„20.004725:547.45AÍÌÌÌÌÌ5ÀH“ËâR=https://s2.coinmarketcap.com/static/img/coins/64x64/37338.png
+„
+
+1404/07/1914:19œì¨Ç"Moby*Ù…ÙˆØ¨ÛŒ20.0121:1401Aö(\Âõ4ÀHŸüáR=https://s2.coinmarketcap.com/static/img/coins/64x64/37177.png
+½
+
+1404/07/1914:19œì¨Ç"Crown by Third Time Games*,Ú©Ø±Ø§ÙˆÙ† ØªÙˆØ³Ø· Ø«Ø±Ø¯ ØªØ§ÛŒÙ… Ú¯ÛŒÙ…Ø²20.0552:6399AR¸…ëÑ!ÀHùòáR=https://s2.coinmarketcap.com/static/img/coins/64x64/25714.png
+“
+
+1404/07/1914:19œì¨Ç"Verse World*ÙˆØ±Ø³ ÙˆØ±Ù„Ø¯20.1208:13990A…ëQ¸,ÀH›ˆáR=https://s2.coinmarketcap.com/static/img/coins/64x64/36774.png
+¦
+
+1404/07/1914:19œì¨Ç"Fulcrom Finance*ÙÙˆÙ„Ú©Ø±ÙˆÙ… ÙØ§ÛŒÙ†Ù†Ø³20.005666:656.42Aáz®G¡0ÀH³ãàR=https://s2.coinmarketcap.com/static/img/coins/64x64/24190.png
+•
+
+1404/07/1914:20Øì¨Ç"Defigram*Ø¯ÛŒÙÛŒâ€ŒÚ¯Ø±Ø§Ù…21.2023:139289Aš™™™™™©?H’éİR=https://s2.coinmarketcap.com/static/img/coins/64x64/19590.png
+…
+
+1404/07/1914:19œì¨Ç"Gelato*Ø¬Ù„Ø§Øª20.0463:5358A¤p=
+×£+ÀH‰˜İR<https://s2.coinmarketcap.com/static/img/coins/64x64/7229.png
+˜
+
+1404/07/1914:20Øì¨Ç"	Kendu Inu*Ú©Ù†Ø¯Ùˆ Ø§ÛŒÙ†Ùˆ2
+0.00001256:1.4556A®Gáz%ÀHÍ¥×R=https://s2.coinmarketcap.com/static/img/coins/64x64/31152.png
+
+
+1404/07/1914:20Øì¨Ç"Beefy Finance*Ø¨ÛŒÙÛŒ ÙØ§ÛŒÙ†Ù†Ø³2148.92:17253105A¤p=
+×#+ÀH¿”×R<https://s2.coinmarketcap.com/static/img/coins/64x64/7311.png
+Á
+
+1404/07/1914:19œì¨Ç"Donkey (DONKEY_BSC_MEME)*1Ø¯Ø§Ù†Ú©ÛŒ (Ø¯Ø§Ù†Ú©ÛŒ Ø¨ÛŒâ€ŒØ§Ø³â€ŒØ³ÛŒ Ù…ÛŒÙ…)20.0119:1377A…ëQ¸…7ÀHïÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/36417.png
+†
+
+1404/07/1914:19œì¨Ç"Myro*
+Ù…Ø§ÛŒØ±Ùˆ20.0126:1454A®Gáz”>ÀHê¤ÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/28382.png
+Š
+
+1404/07/1914:20Øì¨Ç"GYEN*Ø¬ÛŒâ€ŒÛŒÙ†20.005643:653.80Afffffæ'ÀH•õÒR<https://s2.coinmarketcap.com/static/img/coins/64x64/8771.png
+‹
+
+1404/07/1914:20Øì¨Ç"Magpie*Ù…Ú¯â€ŒÙ¾Ø§ÛŒ20.0245:2839AìQ¸…ëı?HçèÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/22391.png
+©
+
+1404/07/1914:19œì¨Ç"Vita Inu*ÙˆÛŒØªØ§ Ø§ÛŒÙ†Ùˆ20.000000013039292819609416:0.001511A)\Âõ(+ÀHÁùËR=https://s2.coinmarketcap.com/static/img/coins/64x64/15270.png
+‡
+
+1404/07/1914:19œì¨Ç"Jambo*
+Ø¬Ø§Ù…Ø¨Ùˆ20.0728:8438A     €7ÀHäËR=https://s2.coinmarketcap.com/static/img/coins/64x64/35167.png
+Š
+
+1404/07/1914:20Øì¨Ç"Diamond*Ø¯Ø§ÛŒÙ…ÙˆÙ†Ø¯23.02:349971A=
+×£p=
+ÀHŸÛËR:https://s2.coinmarketcap.com/static/img/coins/64x64/77.png
+š
+
+1404/07/1914:19œì¨Ç"PumpBTC*Ù¾Ø§Ù…Ù¾ Ø¨ÛŒâ€ŒØªÛŒâ€ŒØ³ÛŒ20.0409:4739Aš™™™™™6ÀH»ÉÇR=https://s2.coinmarketcap.com/static/img/coins/64x64/36166.png
+‘
+
+1404/07/1914:19œì¨Ç"CUDIS*Ø³ÛŒâ€ŒÙˆÛŒâ€ŒØ¯ÛŒØ³20.0471:5452AìQ¸…«9ÀH¨ùÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/36396.png
+—
+
+1404/07/1914:19œì¨Ç"CESS Network*Ø³Ø³ Ù†ØªÙˆØ±Ú©20.004377:507.06A{®Gáz@HÛóÃR=https://s2.coinmarketcap.com/static/img/coins/64x64/36957.png
+µ
+
+1404/07/1914:20Øì¨Ç"
+ArbDoge AI*Ø¢Ø±Ø¨ Ø¯ÙˆØ¬ Ø§ÛŒâ€ŒØ¢ÛŒ20.000000000066185369892645:
+0.00000800A®Gáz.6ÀH¼ŞÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/24477.png
+§
+
+1404/07/1914:19œì¨Ç"AI Rig Complex*!Ø§ÛŒâ€ŒØ¢ÛŒ Ø±ÛŒÚ¯ Ú©Ø§Ù…Ù¾Ù„Ú©Ø³20.0115:1335A{®GáúFÀHÔ¤¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/34926.png
+²
+
+1404/07/1914:19œì¨Ç"Galatasaray Fan Token*$Ú¯Ø§Ù„Ø§ØªØ§Ø³Ø§Ø±Ø§ÛŒ ÙÙ† ØªÙˆÚ©Ù†21.2249:141907AR¸…ëQÀHşÛ¾R<https://s2.coinmarketcap.com/static/img/coins/64x64/5228.png
+
+
+1404/07/1914:19œì¨Ç"NEM*Ù†Ù…20.001279:148.19A333333ó¿HçÓ¾R;https://s2.coinmarketcap.com/static/img/coins/64x64/873.png
+Æ
+
+1404/07/1914:19œì¨Ç"Best Fintech Investment Coin*0Ø¨Ø³Øª ÙÛŒÙ†â€ŒØªÚ© Ø§ÛŒÙ†ÙˆØ³ØªÙ…Ù†Øª Ú©ÙˆÛŒÙ†21.0843:125616AÂõ(\ÀH¤ˆ¼R=https://s2.coinmarketcap.com/static/img/coins/64x64/18736.png
+–
+
+1404/07/1914:19œì¨Ç"USDJ*ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒâ€ŒØ¬ÛŒ21.2261:142052A×£p=
+×ó¿Hé½»R<https://s2.coinmarketcap.com/static/img/coins/64x64/5446.png
+
+
+1404/07/1914:19œì¨Ç"AVA*Ø¢ÙˆØ§20.0114:1325Aáz®G¡BÀHû¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/34116.png
+
+
+1404/07/1914:19œì¨Ç"
+Altcoinist*Ø¢Ù„Øªâ€ŒÚ©ÙˆÛŒÙ†â€ŒØ§ÛŒØ³Øª20.0466:5403A     @1ÀH£²¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/34469.png
+„
+
+1404/07/1914:19œì¨Ç"Augur*Ø¢Ú¯Ø±21.0379:120244A¤p=
+×#%ÀH­ê¸R<https://s2.coinmarketcap.com/static/img/coins/64x64/1104.png
+˜
+
+1404/07/1914:20Øì¨Ç"Bitrue Coin*Ø¨ÛŒØªâ€ŒØ±Ùˆ Ú©ÙˆÛŒÙ†20.0331:3836A      ÀHòå¶R<https://s2.coinmarketcap.com/static/img/coins/64x64/4167.png
+ˆ
+
+1404/07/1914:19œì¨Ç"World3*
+ÙˆØ±Ù„Ø¯Û³20.0521:6041AHáz®Gı¿HùÑ¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/37678.png
+
+
+1404/07/1914:19œì¨Ç"	Alltoscan*Ø¢Ù„ØªÙˆØ³Ú©Ù†20.1128:13073AÂõ(\.ÀH¼ß°R=https://s2.coinmarketcap.com/static/img/coins/64x64/30723.png
+¢
+
+1404/07/1914:19œì¨Ç"World of Dypians*ÙˆØ±Ù„Ø¯ Ø¢Ù Ø¯ÛŒÙ¾ÛŒÙ†Ø²20.0372:4314A…ëQ¸,ÀHÒ«°R=https://s2.coinmarketcap.com/static/img/coins/64x64/33746.png
+Ô
+
+1404/07/1914:20Øì¨Ç"&iShares TIPS Bond Tokenized ETF (Ondo)*;ETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢ÛŒâ€ŒØ´ÛŒØ±Ø² Ø§ÙˆØ±Ø§Ù‚ TIPS2111.86:12958904HöØ«R=https://s2.coinmarketcap.com/static/img/coins/64x64/38068.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Rezor*Ø±Ø²ÙˆØ±20.000275:31.82AìQ¸…ë'ÀHš›©R=https://s2.coinmarketcap.com/static/img/coins/64x64/36489.png
+—
+
+1404/07/1914:19œì¨Ç"MON Protocol*Ù…Ø§Ù† Ù¾Ø±ÙˆØªÚ©Ù„20.0191:2207A®GázÀHéå§R=https://s2.coinmarketcap.com/static/img/coins/64x64/30950.png
+Å
+
+1404/07/1914:20Øì¨Ç"NVIDIA tokenized stock (xStock)**Ø§Ù†ÙˆÛŒØ¯ÛŒØ§ ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2184.20:21339846A®GázÀHãÓ§R=https://s2.coinmarketcap.com/static/img/coins/64x64/36992.png
+
+
+1404/07/1914:20Øì¨Ç"Suku*Ø³ÙˆÚ©20.0215:2490AÍÌÌÌÌL/ÀHéÑ¤R<https://s2.coinmarketcap.com/static/img/coins/64x64/6180.png
+”
+
+1404/07/1914:19œì¨Ç"	Contentos*Ú©Ø§Ù†ØªÙ†ØªÙˆØ³20.002134:247.25A\Âõ(œ=ÀHå¤¢R<https://s2.coinmarketcap.com/static/img/coins/64x64/4036.png
+´
+
+1404/07/1914:19œì¨Ç"S.S. Lazio Fan Token*&Ø§Ø³â€ŒØ§Ø³ Ù„Ø§ØªØ²ÛŒÙˆ ÙÙ† ØªÙˆÚ©Ù†20.9075:105142AÂõ(\O0ÀHàÁŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/12687.png
+”
+
+1404/07/1914:19œì¨Ç"BasedAI*Ø¨ÛŒØ³Ø¯ Ø§ÛŒâ€ŒØ¢ÛŒ20.3176:36790Affffffò¿HßÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/30584.png
+Š
+
+1404/07/1914:20Øì¨Ç"WeBuy*ÙˆÛŒâ€ŒØ¨Ø§ÛŒ20.0303:3508A333333ÀH×•R=https://s2.coinmarketcap.com/static/img/coins/64x64/20456.png
+ª
+
+1404/07/1914:19œì¨Ç"Retard Finder Coin* Ø±ÛŒØªØ±Ø¯ ÙØ§ÛŒÙ†Ø¯Ø± Ú©ÙˆÛŒÙ†20.0113:1311A¸…ëQD@Hƒû—R=https://s2.coinmarketcap.com/static/img/coins/64x64/36171.png
+ 
+
+1404/07/1914:19œì¨Ç"REI Network*Ø¢Ø±â€ŒØ§ÛŒâ€ŒØ¢ÛŒ Ù†ØªÙˆØ±Ú©20.0114:1323AÃõ(\‚9ÀH—–R=https://s2.coinmarketcap.com/static/img/coins/64x64/19819.png
+§
+
+1404/07/1914:19œì¨Ç"Juventus Fan Token*ÛŒÙˆÙˆÙ†ØªÙˆØ³ ÙÙ† ØªÙˆÚ©Ù†20.9187:106430A¤p=
+×#/ÀHÚõ•R<https://s2.coinmarketcap.com/static/img/coins/64x64/5224.png
+€
+
+1404/07/1914:20Øì¨Ç"SLIMEX20.006203:718.64A×£p=
+3ÀHûR=https://s2.coinmarketcap.com/static/img/coins/64x64/38542.png
+
+
+1404/07/1914:20Øì¨Ç"Balance*Ø¨Ø§Ù„Ø§Ù†Ø³20.003631:420.65A
+×£p=
+=ÀH ®R=https://s2.coinmarketcap.com/static/img/coins/64x64/35671.png
+ 
+
+1404/07/1914:19œì¨Ç"Sweat Economy*Ø³ÙˆØ¦Øª Ø§Ú©ÙˆÙ†ÙˆÙ…ÛŒ20.001493:172.91A®GázÔ=ÀH“R=https://s2.coinmarketcap.com/static/img/coins/64x64/21351.png
+¡
+
+1404/07/1914:19œì¨Ç"InfinitiCoin*Ø§ÛŒÙ†ÙÛŒÙ†ÛŒØªÛŒâ€ŒÚ©ÙˆÛŒÙ†20.0107:1237A)\Âõ(Ì¿Híà‹R=https://s2.coinmarketcap.com/static/img/coins/64x64/34260.png
+š
+
+1404/07/1914:20Øì¨Ç"Rupiah Token*Ø±ÙˆÙ¾ÛŒÙ‡ ØªÙˆÚ©Ù†2
+0.00006112:7.08A¸…ëQ¸¾¿H¡ÏˆR<https://s2.coinmarketcap.com/static/img/coins/64x64/4702.png
+
+
+1404/07/1914:20Øì¨Ç"Flamingo*ÙÙ„Ø§Ù…ÛŒÙ†Ú¯Ùˆ20.0190:2204A\Âõ(8ÀHºÂˆR<https://s2.coinmarketcap.com/static/img/coins/64x64/7150.png
+™
+
+1404/07/1914:19œì¨Ç"WHY*ÙˆØ§ÛŒ20.000000025260375455776113:0.002926A=
+×£p}4ÀHÍÅ‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/30867.png
+È
+
+1404/07/1914:19œì¨Ç"SP500 tokenized stock (xStock)*.Ø§Ø³â€ŒÙ¾ÛŒ ÛµÛ°Û° ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2660.51:76521855AÍÌÌÌÌÌü¿Hÿ„R=https://s2.coinmarketcap.com/static/img/coins/64x64/37006.png
+‘
+
+1404/07/1914:19œì¨Ç"MilkyWay*Ù…ÛŒÙ„Ú©ÛŒâ€ŒÙˆÛŒ20.0337:3904A…ëQ¸^3ÀHÆƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/20874.png
+‘
+
+1404/07/1914:19œì¨Ç"	Fireverse*ÙØ§ÛŒØ±ÙˆÙØ±Ø³20.0768:8901A®GázÀH¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/37600.png
+¡
+
+1404/07/1914:19œì¨Ç"PeiPei*Ù¾ÛŒâ€ŒÙ¾ÛŒ20.000000024911529322808085:0.002886A…ëQ¸E7ÀH’ÒÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/31632.png
+‘
+
+1404/07/1914:19œì¨Ç"Koma Inu*Ú©ÙˆÙ…Ø§ Ø§ÛŒÙ†Ùˆ20.0178:2064Afffff¦;ÀHè÷úR=https://s2.coinmarketcap.com/static/img/coins/64x64/33405.png
+•
+
+1404/07/1914:20Øì¨Ç"
+SuperTrust*Ø³ÙˆÙ¾Ø± ØªØ±Ø§Ø³Øª25.13:594403A…ëQ¸ ÀH©üùR=https://s2.coinmarketcap.com/static/img/coins/64x64/33983.png
+
+
+1404/07/1914:19œì¨Ç"Inspect*Ø§ÛŒÙ†Ø³Ù¾Ú©Øª20.0130:1502A…ëQ¸…û¿HİÖ÷R=https://s2.coinmarketcap.com/static/img/coins/64x64/28610.png
+¢
+
+1404/07/1914:19œì¨Ç"Alpha Venture DAO*Ø¢Ù„ÙØ§ ÙˆÙ†Ú†Ø± Ø¯Ø§Ø¦Ùˆ20.0109:1257A{®Gáº6ÀHô‚ôR<https://s2.coinmarketcap.com/static/img/coins/64x64/7232.png
+¬
+
+1404/07/1914:19œì¨Ç"FreeStyle Classic*"ÙØ±ÛŒâ€ŒØ§Ø³ØªØ§ÛŒÙ„ Ú©Ù„Ø§Ø³ÛŒÚ©20.1254:14530A     €)ÀHúÊòR=https://s2.coinmarketcap.com/static/img/coins/64x64/38163.png
+±
+
+1404/07/1914:20Øì¨Ç"Jager Hunter*Ø¬ÛŒÚ¯Ø± Ù‡Ø§Ù†ØªØ±20.000000000757852221482274:
+0.00008800A¤p=
+×#+ÀHé¢òR=https://s2.coinmarketcap.com/static/img/coins/64x64/36418.png
+
+
+1404/07/1914:19œì¨Ç"GameFi*Ú¯ÛŒÙ…â€ŒÙØ§ÛŒ20.9241:107062AÍÌÌÌÌŒ0ÀHë«éR=https://s2.coinmarketcap.com/static/img/coins/64x64/11783.png
+ƒ
+
+1404/07/1914:19œì¨Ç"Save*Ø³ÛŒÙˆ20.2211:25616Aáz®GáÊ?HÀèR=https://s2.coinmarketcap.com/static/img/coins/64x64/34828.png
+­
+
+1404/07/1914:19œì¨Ç"Games for a living*Ú¯ÛŒÙ…Ø² ÙÙˆØ± Ø§ Ù„ÛŒÙˆÛŒÙ†Ú¯20.002930:339.45A
+×£p=
+*ÀHÒüæR=https://s2.coinmarketcap.com/static/img/coins/64x64/23397.png
+†
+
+1404/07/1914:19œì¨Ç"ZEON*Ø²ÛŒÙˆÙ†20.000330:38.21Aáz®GáÀHÍÃæR<https://s2.coinmarketcap.com/static/img/coins/64x64/3795.png
+
+
+1404/07/1914:19œì¨Ç"Opulous*Ø§ÙˆÙ¾ÙˆÙ„Ø§Ø³20.0238:2759AHáz®1ÀHÃšåR=https://s2.coinmarketcap.com/static/img/coins/64x64/10409.png
+“
+
+1404/07/1914:19œì¨Ç"	Unibright*ÛŒÙˆÙ†ÛŒ Ø¨Ø±Ø§ÛŒØª20.0668:7742A{®Gáú%ÀHßâãR<https://s2.coinmarketcap.com/static/img/coins/64x64/2758.png
+Œ
+
+1404/07/1914:19œì¨Ç"Pkoin*Ù¾ÛŒâ€ŒÚ©ÙˆÛŒÙ†20.7104:82305AR¸…ëQÀH…âÛR<https://s2.coinmarketcap.com/static/img/coins/64x64/5925.png
+Ú
+
+1404/07/1914:19œì¨Ç"&MicroStrategy tokenized stock (xStock)*8Ù…Ø§ÛŒÚ©Ø±ÙˆØ§Ø³ØªØ±Ø§ØªÚ˜ÛŒ ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2302.53:35048494AR¸…ëQÀHªøÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/37003.png
+’
+
+1404/07/1914:20Øì¨Ç"	EarthMeta*Ø§Ø±Ø« Ù…ØªØ§20.006847:793.23Afffffæ!ÀHêßØR=https://s2.coinmarketcap.com/static/img/coins/64x64/34348.png
+ˆ
+
+1404/07/1914:19œì¨Ç"NUMINE*
+Ù†ÙˆÙ…ÛŒÙ†20.0685:7940AÍÌÌÌÌÌä¿H±ØR=https://s2.coinmarketcap.com/static/img/coins/64x64/36227.png
+Ö
+
+1404/07/1914:20Øì¨Ç"&iShares MSCI EAFE Tokenized ETF (Ondo)*5ETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢ÛŒâ€ŒØ´ÛŒØ±Ø² MSCI EAFE294.48:10946149A)\Âõ(ä?HÖ†ØR=https://s2.coinmarketcap.com/static/img/coins/64x64/38007.png
+˜
+
+1404/07/1914:20Øì¨Ç"Step Finance*Ø§Ø³ØªÙ¾ ÙØ§ÛŒÙ†Ù†Ø³20.0443:5128AÍÌÌÌÌÌ,ÀHŠÖR<https://s2.coinmarketcap.com/static/img/coins/64x64/9443.png
+Š
+
+1404/07/1914:19œì¨Ç";iShares Core S&P Total US Stock Market Tokenized ETF (Ondo)*SETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢ÛŒâ€ŒØ´ÛŒØ±Ø² Ú©ÙˆØ± S&P Ú©Ù„ Ø¨Ø§Ø²Ø§Ø± Ø¢Ù…Ø±ÛŒÚ©Ø§2142.03:16454735A…ëQ¸ÀHàÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/38003.png
+‘
+
+1404/07/1914:20Øì¨Ç"MemeFi*Ù…ÛŒÙ…â€ŒÙØ§ÛŒ20.000978:113.26Aq=
+×£°4ÀH¦ÖÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/33464.png
+œ
+
+1404/07/1914:19œì¨Ç"Boson Protocol*Ø¨ÙˆØ²ÙˆÙ† Ù¾Ø±ÙˆØªÚ©Ù„20.0655:7594AÍÌÌÌÌÌ+ÀHü‰ÓR<https://s2.coinmarketcap.com/static/img/coins/64x64/8827.png
+—
+
+1404/07/1914:19œì¨Ç"Nibiru Chain*Ù†ÛŒØ¨ÛŒØ±Ùˆ Ú†ÛŒÙ†20.0120:1389AìQ¸…ë	@H€õÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/28508.png
+Œ
+
+1404/07/1914:19œì¨Ç"Xterio*Ø§Ú©Ø³ØªØ±ÛŒÙˆ20.0685:7939A¤p=
+×£:ÀHö¯ĞR=https://s2.coinmarketcap.com/static/img/coins/64x64/27582.png
+’
+
+1404/07/1914:19œì¨Ç"	LooksRare*Ù„ÙˆÚ©Ø³ Ø±ÙØ±20.009704:1124A{®Gáº<ÀHã£ĞR=https://s2.coinmarketcap.com/static/img/coins/64x64/17081.png
+
+
+1404/07/1914:19œì¨Ç"Ai Xovia*Ø§ÛŒÚ©Ø³ÙˆÙˆÛŒØ§22.67:309019A)\Âõ¨5ÀH×õÍR=https://s2.coinmarketcap.com/static/img/coins/64x64/37257.png
+‹
+
+1404/07/1914:19œì¨Ç"Peercoin*Ù¾ÛŒØ±Ú©ÙˆÛŒÙ†20.3226:37375AÂõ(\ ÀHÇªËR9https://s2.coinmarketcap.com/static/img/coins/64x64/5.png
+¡
+
+1404/07/1914:19œì¨Ç"Numbers Protocol*Ù†Ø§Ù…Ø¨Ø±Ø² Ù¾Ø±ÙˆØªÚ©Ù„20.0115:1335A      @H’–ÊR=https://s2.coinmarketcap.com/static/img/coins/64x64/13521.png
+œ
+
+1404/07/1914:19œì¨Ç"Ribbon Finance*Ø±ÛŒØ¨Ù† ÙØ§ÛŒÙ†Ù†Ø³20.1133:13121A
+×£p=
+ÀHÂÊR=https://s2.coinmarketcap.com/static/img/coins/64x64/12387.png
+
+
+1404/07/1914:19œì¨Ç"Scallop*Ø§Ø³Ú©Ø§Ù„ÙˆÙ¾20.0752:8713Aö(\Â55ÀH˜¥ÈR=https://s2.coinmarketcap.com/static/img/coins/64x64/29679.png
+
+
+1404/07/1914:19œì¨Ç"Origin Dollar*Ø§ÙˆØ±ÛŒØ¬ÛŒÙ† Ø¯Ù„Ø§Ø±20.9984:115667A{®Gáz¤?HÂüÅR<https://s2.coinmarketcap.com/static/img/coins/64x64/7189.png
+®
+
+1404/07/1914:19œì¨Ç"AllianceBlock Nexera* Ø§Ù„Ø§ÛŒÙ†Ø³ Ø¨Ù„Ø§Ú© Ù†Ú©Ø³Ø±Ø§20.009081:1052AÂõ(\@H‚ÚÄR=https://s2.coinmarketcap.com/static/img/coins/64x64/23825.png
+¥
+
+1404/07/1914:19œì¨Ç"Splintershards*Ø§Ø³Ù¾Ù„ÛŒÙ†ØªØ± Ø´Ø§Ø±Ø¯Ø²20.007148:828.14A)\Âõ(ÀHú®ÃR=https://s2.coinmarketcap.com/static/img/coins/64x64/11035.png
+œ
+
+1404/07/1914:19œì¨Ç"U2U Network*ÛŒÙˆÛ²ÛŒÙˆ Ù†ØªÙˆØ±Ú©20.006211:719.56Aš™™™™™á?H®¿ÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/27369.png
+—
+
+1404/07/1914:19œì¨Ç"AIVille*Ø§ÛŒâ€ŒØ¢ÛŒâ€ŒÙˆÛŒÙ„20.003408:394.84Aö(\Âõ!ÀH‹ÙÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/36939.png
+œ
+
+1404/07/1914:19œì¨Ç"Book.io*Ø¨ÙˆÚ© Ø¯Ø§Øª Ø¢ÛŒâ€ŒØ§Ùˆ20.003478:402.95Aáz®Ga,ÀH­îÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/27463.png
+—
+
+1404/07/1914:19œì¨Ç"AstraAI*Ø¢Ø³ØªØ±Ø§ Ø§ÛŒâ€ŒØ¢ÛŒ20.9443:109395A333333 ÀHß©ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/29593.png
+‡
+
+1404/07/1914:19œì¨Ç"Lingo*
+Ù„ÛŒÙ†Ú¯Ùˆ20.0194:2249A\Âõ(Ü%ÀH«ı¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/34717.png
+…
+
+1404/07/1914:19œì¨Ç"Kryll*Ú©Ø±ÛŒÙ„20.2362:27369A
+×£p=Ê2ÀHã­¿R<https://s2.coinmarketcap.com/static/img/coins/64x64/2949.png
+‰
+
+1404/07/1914:19œì¨Ç"PUP (pupxbnb.com)20.009422:1092A)\ÂõèDÀHÉŒ¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/38639.png
+µ
+
+1404/07/1914:20Øì¨Ç"Manchester City Fan Token*#Ù…Ù†Ú†Ø³ØªØ± Ø³ÛŒØªÛŒ ÙÙ† ØªÙˆÚ©Ù†20.8059:93372Aáz®G¡1ÀHªÅ¼R=https://s2.coinmarketcap.com/static/img/coins/64x64/10049.png
+„
+
+1404/07/1914:20Øì¨Ç"Blum*Ø¨Ù„ÙˆÙ…20.0545:6310A=
+×£p=ÀHŞ»¼R=https://s2.coinmarketcap.com/static/img/coins/64x64/33154.png
+…
+
+1404/07/1914:20Øì¨Ç"KONET*Ú©ÙˆÙ†Øª20.0320:3707Affffff@HÏä»R=https://s2.coinmarketcap.com/static/img/coins/64x64/29724.png
+˜
+
+1404/07/1914:19œì¨Ç"Rezerve Money*Ø±Ø²Ø±Ùˆ Ù…Ø§Ù†ÛŒ210.99:1272810A…ëQ¸…*ÀHÑ„»R=https://s2.coinmarketcap.com/static/img/coins/64x64/37291.png
+œ
+
+1404/07/1914:19œì¨Ç"Quidax Token*Ú©ÙˆÛŒØ¯Ø§Ú©Ø³ ØªÙˆÚ©Ù†20.1213:14048A¸…ëQ¸ú?H‹î¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/10079.png
+ƒ
+
+1404/07/1914:19œì¨Ç"Pipe Network20.0933:10806A=
+×£p=DÀH÷¨¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/38550.png
+
+
+1404/07/1914:19œì¨Ç"Hyperbot*Ù‡Ø§ÛŒÙ¾Ø±Ø¨Ø§Øª20.0561:6500A=
+×£p½BÀH‡»¸R=https://s2.coinmarketcap.com/static/img/coins/64x64/38257.png
+Š
+
+1404/07/1914:19œì¨Ç"Neopin*Ù†Ø¦ÙˆÙ¾ÛŒÙ†20.0297:3435AìQ¸…k4ÀHîøµR=https://s2.coinmarketcap.com/static/img/coins/64x64/18966.png
+¬
+
+1404/07/1914:20Øì¨Ç"New XAI gork*&Ù†ÛŒÙˆ Ø§ÛŒÚ©Ø³â€ŒØ§ÛŒâ€ŒØ¢ÛŒ Ú¯ÙˆØ±Ú©20.009243:1071AÂõ(\6ÀHÆ“´R=https://s2.coinmarketcap.com/static/img/coins/64x64/36390.png
+‰
+
+1404/07/1914:19œì¨Ç"Unizen*ÛŒÙˆÙ†ÛŒØ²Ù†20.0142:1644A¤p=
+×#/ÀHÒÑ³R<https://s2.coinmarketcap.com/static/img/coins/64x64/9263.png
+¢
+
+1404/07/1914:19œì¨Ç"FIO Protocol*Ø§Ùâ€ŒØ¢ÛŒâ€ŒØ§Ùˆ Ù¾Ø±ÙˆØªÚ©Ù„20.0112:1297A
+×£p=Š?ÀHù®±R<https://s2.coinmarketcap.com/static/img/coins/64x64/5865.png
+œ
+
+1404/07/1914:19œì¨Ç"ATMChain*Ø§ÛŒâ€ŒØªÛŒâ€ŒØ§Ù…â€ŒÚ†ÛŒÙ†21.2576:145701AHáz®G,ÀHà¨°R<https://s2.coinmarketcap.com/static/img/coins/64x64/5227.png
+”
+
+1404/07/1914:19œì¨Ç"Artrade*Ø¢Ø±Øªâ€ŒØªØ±ÛŒØ¯20.007262:841.27A¸…ëQ¸%ÀHó¾®R=https://s2.coinmarketcap.com/static/img/coins/64x64/19131.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"MCDEX Token*Ø§Ù…â€ŒØ³ÛŒâ€ŒØ¯Ú©Ø³ ØªÙˆÚ©Ù†22.39:277384Afffffæ"ÀHÅº®R<https://s2.coinmarketcap.com/static/img/coins/64x64/5956.png
+
+
+1404/07/1914:19œì¨Ç"Basenji*Ø¨Ø§Ø³Ù†Ø¬ÛŒ20.009144:1059A     €6ÀH›Š®R=https://s2.coinmarketcap.com/static/img/coins/64x64/30193.png
+™
+
+1404/07/1914:20Øì¨Ç"
+Squid Grow*Ø§Ø³Ú©ÙˆØ¦ÛŒØ¯ Ú¯Ø±Ùˆ20.009137:1059A…ëQ¸ÀH´Ö­R=https://s2.coinmarketcap.com/static/img/coins/64x64/21134.png
+ˆ
+
+1404/07/1914:20Øì¨Ç"Masa*Ù…Ø§Ø³Ø§20.007704:892.58A×£p=
+·AÀH³Ù¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/29547.png
+
+
+1404/07/1914:19œì¨Ç"Gold DAO*Ú¯Ù„Ø¯ Ø¯Ø§Ø¦Ùˆ20.0120:1391AìQ¸…«8ÀHóÒ¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/31296.png
+Š
+
+1404/07/1914:19œì¨Ç"Voxies*ÙˆØ§Ú©Ø³ÛŒØ²20.0357:4132A®Gázn<ÀHÚş§R=https://s2.coinmarketcap.com/static/img/coins/64x64/15678.png
+ç
+
+1404/07/1914:19œì¨Ç"0x0.ai: AI Smart Contract*VØ²ÛŒØ±Ùˆ Ø§ÛŒÚ©Ø³ Ø²ÛŒØ±Ùˆ Ø¯Ø§Øª Ø§ÛŒâ€ŒØ¢ÛŒ: Ø§ÛŒâ€ŒØ¢ÛŒ Ø§Ø³Ù…Ø§Ø±Øª Ú©Ø§Ù†ØªØ±Ú©Øª20.0104:1202A
+×£p=
+*ÀHŠÿ¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/23355.png
+ë
+
+1404/07/1914:19œì¨Ç"0iShares Russell 1000 Growth Tokenized ETF (Ondo)*HETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢ÛŒâ€ŒØ´ÛŒØ±Ø² Ø±Ø§Ø³Ù„ Û±Û°Û°Û° Ú¯Ø±Ø§ÙˆØ«2474.92:55021365H÷Ü¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/38022.png
+‹
+
+1404/07/1914:20Øì¨Ç"Mochimo*Ù…ÙˆÚ†ÛŒÙ…Ùˆ20.3207:37158A×£p=
+—9@H“¤R<https://s2.coinmarketcap.com/static/img/coins/64x64/5125.png
+’
+
+1404/07/1914:19œì¨Ç"Coinweb*Ú©ÙˆÛŒÙ†â€ŒÙˆØ¨20.003733:432.45A333333@HÜŠ£R=https://s2.coinmarketcap.com/static/img/coins/64x64/12089.png
+
+
+1404/07/1914:19œì¨Ç"Izumi Finance*Ø§ÛŒØ²ÙˆÙ…ÛŒ ÙØ§ÛŒÙ†Ù†Ø³20.0114:1319A)\Âõ($ÀHœú¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/16305.png
+‹
+
+1404/07/1914:19œì¨Ç"REDX*Ø±Ø¯ Ø§Ú©Ø³20.002254:261.13Aq=
+×£pÀH—º¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/36226.png
+­
+
+1404/07/1914:19œì¨Ç"Solana Name Service*Ø³ÙˆÙ„Ø§Ù†Ø§ Ù†ÛŒÙ… Ø³Ø±ÙˆÛŒØ³20.001982:229.63Aáz®Gá/ÀHš³ R=https://s2.coinmarketcap.com/static/img/coins/64x64/36468.png
+­
+
+1404/07/1914:19œì¨Ç"Hosky Token*Ù‡ÙˆØ³Ú©ÛŒ ØªÙˆÚ©Ù†20.00000003907597571553648:0.004527AR¸…ë‘5ÀHŠäŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/16755.png
+Ó
+
+1404/07/1914:19œì¨Ç"'iShares Gold Trust Tokenized ETF (Ondo)*2ETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢ÛŒâ€ŒØ´ÛŒØ±Ø² Ø·Ù„Ø§274.52:8633850AÍÌÌÌÌÌğ¿HÓ¥ŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/38041.png
+•
+
+1404/07/1914:20Øì¨Ç"Bitboard*Ø¨ÛŒØªâ€ŒØ¨ÙˆØ±Ø¯20.002011:232.98A\Âõ(\÷¿HüÚœR=https://s2.coinmarketcap.com/static/img/coins/64x64/33102.png
+»
+
+1404/07/1914:19œì¨Ç"VaderAI by Virtuals*.ÙˆÛŒØ¯Ø± Ø§ÛŒâ€ŒØ¢ÛŒ ØªÙˆØ³Ø· ÙˆÛŒØ±Ú†ÙˆØ§Ù„Ø²20.008862:1027A
+×£p=Š*ÀH‹”›R=https://s2.coinmarketcap.com/static/img/coins/64x64/34648.png
+
+
+1404/07/1914:19œì¨Ç"TokenFi*ØªÙˆÚ©Ù† ÙØ§ÛŒ20.008830:1023Aö(\Âµ<ÀHû÷šR=https://s2.coinmarketcap.com/static/img/coins/64x64/28299.png
+š
+
+1404/07/1914:19œì¨Ç"Aura Finance*Ø§ÙˆØ±Ø§ ÙØ§ÛŒÙ†Ù†Ø³20.1263:14627A¤p=
+×£1ÀH¶‚˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/21532.png
+›
+
+1404/07/1914:19œì¨Ç"Vara Network*ÙˆØ§Ø±Ø§ Ù†ØªÙˆØ±Ú©20.001966:227.76Aq=
+×£ğ6ÀH²ñ–R=https://s2.coinmarketcap.com/static/img/coins/64x64/28067.png
+
+
+1404/07/1914:19œì¨Ç"DeLorean*Ø¯Ù„ÙˆØ±ÛŒÙ†20.002299:266.31Aš™™™™=ÀHß°•R=https://s2.coinmarketcap.com/static/img/coins/64x64/36920.png
+›
+
+1404/07/1914:19œì¨Ç"Miracle Play*Ù…ÛŒØ±Ø§Ú©Ù„ Ù¾Ù„ÛŒ20.008171:946.61AÃõ(\Âñ¿Hô¤•R=https://s2.coinmarketcap.com/static/img/coins/64x64/28348.png
+
+
+1404/07/1914:19œì¨Ç"Observer*Ø§Ø¨Ø²Ø±ÙˆØ±20.001385:160.46A×£p=
+×@Hú••R<https://s2.coinmarketcap.com/static/img/coins/64x64/3698.png
+
+
+1404/07/1914:19œì¨Ç"Giant Mammoth*Ø¬Ø§ÛŒÙ†Øª Ù…Ø§Ù…ÙˆØª20.005084:589.04A®GázÀHÓè“R=https://s2.coinmarketcap.com/static/img/coins/64x64/23326.png
+Œ
+
+1404/07/1914:19œì¨Ç"MANEKI*
+Ù…Ø§Ù†Ú©ÛŒ20.000982:113.80AR¸…ëQ2ÀHé“R=https://s2.coinmarketcap.com/static/img/coins/64x64/30912.png
+€
+
+1404/07/1914:19œì¨Ç"Nash*Ù†Ø´20.1966:22779AHáz®GÀHÃÿ’R<https://s2.coinmarketcap.com/static/img/coins/64x64/3829.png
+Š
+
+1404/07/1914:20Øì¨Ç"Alkimi*Ø§Ù„Ú©ÛŒÙ…ÛŒ20.0366:4241AHáz®Ç4ÀH¥½‘R=https://s2.coinmarketcap.com/static/img/coins/64x64/11036.png
+˜
+
+1404/07/1914:19œì¨Ç"	Ultiverse*Ø§ÙˆÙ„ØªÛŒâ€ŒÙˆØ±Ø³20.001225:141.89A\Âõ(\1ÀHš½‘R=https://s2.coinmarketcap.com/static/img/coins/64x64/31504.png
+•
+
+1404/07/1914:20Øì¨Ç"	MileVerse*Ù…Ø§ÛŒÙ„â€ŒÙˆØ±Ø³20.003141:363.91AR¸…ëQ&ÀH¾«‘R<https://s2.coinmarketcap.com/static/img/coins/64x64/7703.png
+¤
+
+1404/07/1914:19œì¨Ç"CateCoin*Ú©ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†20.0000001506865903785976:0.0175A®Gáz)ÀHàR<https://s2.coinmarketcap.com/static/img/coins/64x64/9656.png
+”
+
+1404/07/1914:19œì¨Ç"PAID Network*Ù¾ÛŒØ¯ Ù†ØªÙˆØ±Ú©20.0162:1873AìQ¸…k#ÀH÷ÃR<https://s2.coinmarketcap.com/static/img/coins/64x64/8329.png
+‘
+
+1404/07/1914:19œì¨Ç"Verasity*ÙˆØ±Ø§Ø³ÛŒØªÛŒ20.000896:103.83Aáz®Ga+ÀH·½R<https://s2.coinmarketcap.com/static/img/coins/64x64/3816.png
+‘
+
+1404/07/1914:19œì¨Ç"SatLayer*Ø³Øªâ€ŒÙ„ÙÛŒÙØ±20.0187:2162AÂõ(\3ÀHí›R=https://s2.coinmarketcap.com/static/img/coins/64x64/36020.png
+
+
+1404/07/1914:19œì¨Ç"	Bellscoin*Ø¨Ù„Ø²Ú©ÙˆÛŒÙ†20.1408:16311Aq=
+×£ğ-ÀHò‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/32892.png
+’
+
+1404/07/1914:20Øì¨Ç"
+SpaceChain*Ø§Ø³Ù¾ÛŒØ³ Ú†ÛŒÙ†20.0279:3232A¤p=
 ×£ü¿H†‹R<https://s2.coinmarketcap.com/static/img/coins/64x64/2410.png
 …
 
-1404/07/1914:06æ¨Ç"STAT*Ø§Ø³ØªØª20.1128:13085AHáz®Ç+ÀHÍ¹ŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/21156.png
-‘
-
-1404/07/1914:06æ¨Ç"Verasity*ÙˆØ±Ø§Ø³ÛŒØªÛŒ20.000887:102.93Aq=
-×£p,ÀH„‰R<https://s2.coinmarketcap.com/static/img/coins/64x64/3816.png
+1404/07/1914:19œì¨Ç"STAT*Ø§Ø³ØªØª20.1122:12997AR¸…ëQ,ÀH¯è‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/21156.png
 ¤
 
-1404/07/1914:06æ¨Ç"Pepe Unchained (New)*Ù¾Ù¾Ù‡ Ø§Ù†Ú†ÛŒÙ†Ú†Ø¯20.000531:61.61AR¸…ëQ9ÀHõ…R=https://s2.coinmarketcap.com/static/img/coins/64x64/36696.png
-
-
-1404/07/1914:06æ¨Ç"	Reservoir*Ø±Ø²Ø±ÙˆÛŒØ±20.0422:4900A     €=ÀHı­ƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/37638.png
-˜
-
-1404/07/1914:06æ¨Ç"Cook Finance*Ú©ÙˆÚ© ÙØ§ÛŒÙ†Ù†Ø³20.009640:1119A®GázT7ÀHÛ…‚R<https://s2.coinmarketcap.com/static/img/coins/64x64/8997.png
+1404/07/1914:20Øì¨Ç"Pepe Unchained (New)*Ù¾Ù¾Ù‡ Ø§Ù†Ú†ÛŒÙ†Ú†Ø¯20.000531:61.57AR¸…ë‘9ÀH»†R=https://s2.coinmarketcap.com/static/img/coins/64x64/36696.png
 
 
-1404/07/1914:06æ¨Ç"	Everclear*Ø§ÙˆØ±Ú©Ù„ÛŒØ±20.0154:1784A×£p=
-W'ÀHÁòR=https://s2.coinmarketcap.com/static/img/coins/64x64/34512.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Tanssi*
-ØªØ§Ù†Ø³ÛŒ20.0291:3377AHáz®gAÀH¦ÊR=https://s2.coinmarketcap.com/static/img/coins/64x64/37297.png
-‘
-
-1404/07/1914:06æ¨Ç"	DuckChain*Ø¯Ø§Ú©Ú†ÛŒÙ†20.001571:182.27A×£p=
-W<ÀH¦ªR=https://s2.coinmarketcap.com/static/img/coins/64x64/35298.png
+1404/07/1914:20Øì¨Ç"	Everclear*Ø§ÙˆØ±Ú©Ù„ÛŒØ±20.0155:1797A×£p=
+×%ÀH×«†R=https://s2.coinmarketcap.com/static/img/coins/64x64/34512.png
 ³
 
-1404/07/1914:05Ôå¨Ç"r/CryptoCurrency Moons*&Ø¢Ø±/Ú©Ø±ÛŒÙ¾ØªÙˆÚ©Ø§Ø±Ù†Ø³ÛŒ Ù…ÙˆÙ†Ø²20.0787:9130AÃõ(\ÂÀHßŞ€R<https://s2.coinmarketcap.com/static/img/coins/64x64/7396.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Kwenta*
-Ú©ÙˆÙ†ØªØ§219.36:2247107AR¸…ëÑ*ÀH’ªşR=https://s2.coinmarketcap.com/static/img/coins/64x64/21929.png
- 
-
-1404/07/1914:05Ôå¨Ç"NetMind Token*Ù†Øªâ€ŒÙ…Ø§ÛŒÙ†Ø¯ ØªÙˆÚ©Ù†20.2493:28928A¤p=
-×£1ÀHŠ÷üR=https://s2.coinmarketcap.com/static/img/coins/64x64/29447.png
-„
-
-1404/07/1914:06æ¨Ç"Gleec*Ú¯Ù„ÛŒÚ©20.0458:5319Afffffæ>@HÒ¸üR<https://s2.coinmarketcap.com/static/img/coins/64x64/5200.png
-¤
-
-1404/07/1914:05Ôå¨Ç"Cryptex Finance*Ú©Ø±ÛŒÙ¾ØªÚ©Ø³ ÙØ§ÛŒÙ†Ù†Ø³21.0702:124191Afffff¦2ÀHÚŞúR=https://s2.coinmarketcap.com/static/img/coins/64x64/10368.png
-Š
-
-1404/07/1914:06æ¨Ç"StaFi*Ø§Ø³ØªØ§ÙØ§ÛŒ20.0694:8058A
-×£p=
--ÀHû‚ùR<https://s2.coinmarketcap.com/static/img/coins/64x64/5882.png
-‘
-
-1404/07/1914:05Ôå¨Ç"ParaSwap*Ù¾Ø§Ø±Ø§ Ø³ÙˆØ§Ù¾20.0111:1285AÃõ(\B,ÀHŠ¿÷R=https://s2.coinmarketcap.com/static/img/coins/64x64/14534.png
-†
-
-1404/07/1914:05Ôå¨Ç"Botto*Ø¨Ø§ØªÙˆ20.1660:19259A)\Âõ¨.ÀHôµöR=https://s2.coinmarketcap.com/static/img/coins/64x64/14345.png
-•
-
-1404/07/1914:05Ôå¨Ç"
-Streamflow*Ø§Ø³ØªØ±ÛŒÙ… ÙÙ„Ùˆ20.0608:7051A¤p=
-×£6ÀHŸ¢öR=https://s2.coinmarketcap.com/static/img/coins/64x64/34687.png
-‹
-
-1404/07/1914:05Ôå¨Ç"	Tranchess*
-ØªØ±Ù†Ú†Ø³20.0400:4643A®GázAÀHåéõR=https://s2.coinmarketcap.com/static/img/coins/64x64/10974.png
-‘
-
-1404/07/1914:05Ôå¨Ç"Propbase*Ù¾Ø±Ø§Ù¾â€ŒØ¨ÛŒØ³20.0182:2109AìQ¸…ë$ÀH±²ôR=https://s2.coinmarketcap.com/static/img/coins/64x64/28385.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Nimiq*
-Ù†ÛŒÙ…ÛŒÙ‚20.000605:70.23A×£p=
-×ÀH „óR<https://s2.coinmarketcap.com/static/img/coins/64x64/2916.png
-‹
-
-1404/07/1914:06æ¨Ç"SHPING*
-Ø´Ù¾ÛŒÙ†Ú¯20.003567:414.01A)\Âõ()ÀH‰÷ñR<https://s2.coinmarketcap.com/static/img/coins/64x64/3422.png
-š
-
-1404/07/1914:05Ôå¨Ç"WAGMI Games*ÙˆÚ¯Ù…ÛŒ Ú¯ÛŒÙ…Ø²2
-0.00000369:0.4282A)\Âõ(ÀH‡¾ïR=https://s2.coinmarketcap.com/static/img/coins/64x64/20497.png
-—
-
-1404/07/1914:05Ôå¨Ç"	Trusta.AI*ØªØ±Ø§Ø³ØªØ§ Ø§ÛŒ Ø¢ÛŒ20.0408:4733A{®GáAÀHçØîR=https://s2.coinmarketcap.com/static/img/coins/64x64/37430.png
+1404/07/1914:19œì¨Ç"r/CryptoCurrency Moons*&Ø¢Ø±/Ú©Ø±ÛŒÙ¾ØªÙˆÚ©Ø§Ø±Ù†Ø³ÛŒ Ù…ÙˆÙ†Ø²20.0790:9147Aq=
+×£pÀH·Ä‚R<https://s2.coinmarketcap.com/static/img/coins/64x64/7396.png
 ˜
 
-1404/07/1914:06æ¨Ç"EstateX*Ø§Ø³ØªÛŒØªâ€ŒØ§ÛŒÚ©Ø³20.008539:990.97A…ëQ¸*ÀHôÅîR=https://s2.coinmarketcap.com/static/img/coins/64x64/30734.png
+1404/07/1914:20Øì¨Ç"Cook Finance*Ú©ÙˆÚ© ÙØ§ÛŒÙ†Ù†Ø³20.009636:1116A×£p=
+W7ÀHèêR<https://s2.coinmarketcap.com/static/img/coins/64x64/8997.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Tanssi*
+ØªØ§Ù†Ø³ÛŒ20.0290:3363Aš™™™™¹AÀH¤³€R=https://s2.coinmarketcap.com/static/img/coins/64x64/37297.png
+Š
+
+1404/07/1914:19œì¨Ç"Kwenta*
+Ú©ÙˆÙ†ØªØ§219.36:2243381A
+×£p=Š*ÀHİ¬şR=https://s2.coinmarketcap.com/static/img/coins/64x64/21929.png
+‘
+
+1404/07/1914:20Øì¨Ç"	DuckChain*Ø¯Ø§Ú©Ú†ÛŒÙ†20.001560:180.78AìQ¸…ë<ÀHşşıR=https://s2.coinmarketcap.com/static/img/coins/64x64/35298.png
+
+
+1404/07/1914:20Øì¨Ç"	Reservoir*Ø±Ø²Ø±ÙˆÛŒØ±20.0418:4837AìQ¸…ë>ÀHıÑıR=https://s2.coinmarketcap.com/static/img/coins/64x64/37638.png
+ 
+
+1404/07/1914:19œì¨Ç"NetMind Token*Ù†Øªâ€ŒÙ…Ø§ÛŒÙ†Ø¯ ØªÙˆÚ©Ù†20.2494:28892Aq=
+×£01ÀH¿”ıR=https://s2.coinmarketcap.com/static/img/coins/64x64/29447.png
+¤
+
+1404/07/1914:20Øì¨Ç"Cryptex Finance*Ú©Ø±ÛŒÙ¾ØªÚ©Ø³ ÙØ§ÛŒÙ†Ù†Ø³21.0681:123745AR¸…ëÑ2ÀHÁãùR=https://s2.coinmarketcap.com/static/img/coins/64x64/10368.png
+Š
+
+1404/07/1914:20Øì¨Ç"StaFi*Ø§Ø³ØªØ§ÙØ§ÛŒ20.0692:8022Aáz®Ga.ÀH…Î÷R<https://s2.coinmarketcap.com/static/img/coins/64x64/5882.png
+‘
+
+1404/07/1914:19œì¨Ç"ParaSwap*Ù¾Ø§Ø±Ø§ Ø³ÙˆØ§Ù¾20.0111:1282Affffff,ÀHò‹÷R=https://s2.coinmarketcap.com/static/img/coins/64x64/14534.png
+‹
+
+1404/07/1914:20Øì¨Ç"	Tranchess*
+ØªØ±Ù†Ú†Ø³20.0400:4634A=
+×£p=AÀHìåõR=https://s2.coinmarketcap.com/static/img/coins/64x64/10974.png
+†
+
+1404/07/1914:19œì¨Ç"Botto*Ø¨Ø§ØªÙˆ20.1657:19196A{®Gáú.ÀHÑõR=https://s2.coinmarketcap.com/static/img/coins/64x64/14345.png
+•
+
+1404/07/1914:19œì¨Ç"
+Streamflow*Ø§Ø³ØªØ±ÛŒÙ… ÙÙ„Ùˆ20.0606:7026Afffffæ6ÀHİ¤õR=https://s2.coinmarketcap.com/static/img/coins/64x64/34687.png
+‘
+
+1404/07/1914:19œì¨Ç"Propbase*Ù¾Ø±Ø§Ù¾â€ŒØ¨ÛŒØ³20.0182:2108A…ëQ¸%ÀHÃíôR=https://s2.coinmarketcap.com/static/img/coins/64x64/28385.png
 
 
-1404/07/1914:05Ôå¨Ç"MATH*Ù…Ø«20.0708:8212A\Âõ(Ü*ÀHÂôíR<https://s2.coinmarketcap.com/static/img/coins/64x64/5616.png
-¡
-
-1404/07/1914:06æ¨Ç"HyperChainX*Ù‡Ø§ÛŒÙ¾Ø± Ú†ÛŒÙ† Ø§ÛŒÚ©Ø³20.008059:935.23A…ëQ¸&ÀHÂïëR=https://s2.coinmarketcap.com/static/img/coins/64x64/22274.png
-–
-
-1404/07/1914:06æ¨Ç"Counterparty*Ú©Ø§Ù†ØªØ±Ù¾Ø§Ø±ØªÛŒ23.11:360749A®Gáz)ÀHÜÈëR;https://s2.coinmarketcap.com/static/img/coins/64x64/132.png
+1404/07/1914:19œì¨Ç"MATH*Ù…Ø«20.0716:8291Aö(\Âõ'ÀHÆÃóR<https://s2.coinmarketcap.com/static/img/coins/64x64/5616.png
 ‰
 
-1404/07/1914:06æ¨Ç"Dacxi*Ø¯Ú©Ø³ÛŒ20.000894:103.74AR¸…ëQÀH‡ëR=https://s2.coinmarketcap.com/static/img/coins/64x64/10372.png
-°
-
-1404/07/1914:05Ôå¨Ç"Quantoz USDQ**Ú©ÙˆØ§Ù†ØªÙˆØ² ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒâ€ŒÚ©ÛŒÙˆ20.9993:115966A{®Gáz„¿HöÚæR=https://s2.coinmarketcap.com/static/img/coins/64x64/34177.png
-’
-
-1404/07/1914:05Ôå¨Ç"Doge Killer*Ø¯ÙˆØ¬ Ú©ÛŒÙ„Ø±20.4325:50193A×£p=
-×-ÀH¸åâR<https://s2.coinmarketcap.com/static/img/coins/64x64/9286.png
-{
-
-1404/07/1914:05Ôå¨Ç"xU3O824.94:573497Aáz®Gá@HÎÌâR=https://s2.coinmarketcap.com/static/img/coins/64x64/35597.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Aurory*
-Ø¢Ø±ÙˆØ±ÛŒ20.1049:12174Aáz®GáÀHÜƒáR=https://s2.coinmarketcap.com/static/img/coins/64x64/11367.png
+1404/07/1914:19œì¨Ç"Nimiq*
+Ù†ÛŒÙ…ÛŒÙ‚20.000605:70.05A…ëQ¸ÀH«ÏòR<https://s2.coinmarketcap.com/static/img/coins/64x64/2916.png
 ‹
 
-1404/07/1914:06æ¨Ç"NodeOps*Ù†ÙˆØ¯Ø¢Ù¾Ø³20.0588:6822A…ëQ¸/ÀHûÏŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/36977.png
-†
+1404/07/1914:20Øì¨Ç"SHPING*
+Ø´Ù¾ÛŒÙ†Ú¯20.003568:413.31A®Gáz.)ÀHç÷ñR<https://s2.coinmarketcap.com/static/img/coins/64x64/3422.png
+š
 
-1404/07/1914:05Ôå¨Ç"Allo*Ø¢Ù„Ùˆ20.004328:502.26AHáz®Ç<ÀH…¾ÛR=https://s2.coinmarketcap.com/static/img/coins/64x64/33783.png
-¢
-
-1404/07/1914:05Ôå¨Ç"Alvara Protocol*Ø¢Ù„ÙˆØ§Ø± Ø§ Ù¾Ø±ÙˆØªÚ©Ù„20.0974:11301A®Gáz®ÀHàìÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/29693.png
-’
-
-1404/07/1914:05Ôå¨Ç"RETARDIO*Ø±ÛŒØªØ±Ø¯ÛŒÙˆ20.007939:921.33A     @7ÀHãØR=https://s2.coinmarketcap.com/static/img/coins/64x64/31921.png
-
-
-1404/07/1914:05Ôå¨Ç"Hyperion*Ù‡Ø§ÛŒÙ¾Ø±ion20.4073:47268AR¸…ëQÀHÿ«ØR=https://s2.coinmarketcap.com/static/img/coins/64x64/37344.png
-›
-
-1404/07/1914:05Ôå¨Ç"Beta Finance*Ø¨ØªØ§ ÙØ§ÛŒÙ†Ù†Ø³20.007718:895.72Aáz®Ga"ÀHˆŒ×R=https://s2.coinmarketcap.com/static/img/coins/64x64/11307.png
- 
-
-1404/07/1914:05Ôå¨Ç"Hifi Finance*Ù‡Ø§ÛŒâ€ŒÙØ§ÛŒ ÙØ§ÛŒÙ†Ù†Ø³20.0543:6307A\Âõ(œ?ÀH¡ñÖR=https://s2.coinmarketcap.com/static/img/coins/64x64/23037.png
-Ê
-
-1404/07/1914:05Ôå¨Ç"!Coinbase tokenized stock (xStock)*-Ú©ÙˆÛŒÙ†â€ŒØ¨ÛŒØ³ ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2348.88:40487181A…ëQ¸…#ÀH»ÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/36989.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Opus*Ø§Ù¾ÙˆØ³20.007638:886.34A¤p=
-×£ÀHÎÒR=https://s2.coinmarketcap.com/static/img/coins/64x64/35052.png
-†
-
-1404/07/1914:05Ôå¨Ç"Smart Pocket20.007321:849.62AìQ¸…ë>ÀHìÿĞR=https://s2.coinmarketcap.com/static/img/coins/64x64/38573.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Smog*
-Ø§Ø³Ù…Ø§Ú¯20.009762:1133A\Âõ(\,ÀHÏ•ĞR=https://s2.coinmarketcap.com/static/img/coins/64x64/29358.png
-¿
-
-1404/07/1914:05Ôå¨Ç"Circle tokenized stock (xStock)*$Ø³Ø±Ú©Ù„ ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2133.15:15452611A)\Âõ((ÀHñÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/37005.png
-
-
-1404/07/1914:05Ôå¨Ç"Konnect*
-Ú©Ø§Ù†Ú©Øª20.001040:120.70A\Âõ(\ÀH„áÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/20305.png
-ƒ
-
-1404/07/1914:06æ¨Ç"TRAC*ØªØ±Ú©20.3606:41842A×£p=
-:ÀH—‘ÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/25208.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Tenset*
-ØªÙ†Ø³ÙØª20.0540:6272AìQ¸…ë'ÀHÃŒÍR<https://s2.coinmarketcap.com/static/img/coins/64x64/9089.png
-”
-
-1404/07/1914:06æ¨Ç"	WhiteCoin*ÙˆØ§ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†20.009870:1145AìQ¸…ëÑ?H÷ºÌR;https://s2.coinmarketcap.com/static/img/coins/64x64/268.png
-‘
-
-1404/07/1914:05Ôå¨Ç"Phoenix*ÙÙˆÙ†ÛŒÚ©Ø³2
-0.00001423:1.6517A33333³#ÀHÆµÌR=https://s2.coinmarketcap.com/static/img/coins/64x64/34914.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Baanx*
-Ø¨Ø§Ù†Ú©Ø³20.0316:3664A¤p=
-×£ÀHÀµÌR=https://s2.coinmarketcap.com/static/img/coins/64x64/10949.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"Aventus*Ø§ÙˆÙ†ØªÙˆØ³21.2532:145429A
-×£p=Ê3ÀH÷õÊR<https://s2.coinmarketcap.com/static/img/coins/64x64/1948.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Odos*
-Ø§ÙˆØ¯ÙˆØ³20.003523:408.88AÂõ(\5ÀHŞáÊR=https://s2.coinmarketcap.com/static/img/coins/64x64/34807.png
+1404/07/1914:19œì¨Ç"WAGMI Games*ÙˆÚ¯Ù…ÛŒ Ú¯ÛŒÙ…Ø²2
+0.00000370:0.4285A
+×£p=
+ÀHƒÓğR=https://s2.coinmarketcap.com/static/img/coins/64x64/20497.png
 ˜
 
-1404/07/1914:05Ôå¨Ç"Echo Protocol*Ù¾Ø±ÙˆØªÚ©Ù„ Ø§Ú©Ùˆ20.0296:3430Afffff&0ÀHĞîÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/36978.png
-
+1404/07/1914:20Øì¨Ç"EstateX*Ø§Ø³ØªÛŒØªâ€ŒØ§ÛŒÚ©Ø³20.008536:988.91A33333³)ÀHà­îR=https://s2.coinmarketcap.com/static/img/coins/64x64/30734.png
+¡
 
-1404/07/1914:05Ôå¨Ç"Dione Protocol*Ø¯ÛŒÙˆÙ† Ù¾Ø±ÙˆØªÚ©Ù„20.000644:74.69Aö(\Âu!ÀHÜ¿ÇR=https://s2.coinmarketcap.com/static/img/coins/64x64/21473.png
+1404/07/1914:20Øì¨Ç"HyperChainX*Ù‡Ø§ÛŒÙ¾Ø± Ú†ÛŒÙ† Ø§ÛŒÚ©Ø³20.008078:935.81A33333³%ÀH¥‚íR=https://s2.coinmarketcap.com/static/img/coins/64x64/22274.png
+‰
+
+1404/07/1914:19œì¨Ç"Dacxi*Ø¯Ú©Ø³ÛŒ20.000897:103.89A¸…ëQ¸ÀH¾ÉìR=https://s2.coinmarketcap.com/static/img/coins/64x64/10372.png
+—
+
+1404/07/1914:19œì¨Ç"	Trusta.AI*ØªØ±Ø§Ø³ØªØ§ Ø§ÛŒ Ø¢ÛŒ20.0404:4679Afffff†AÀHËôéR=https://s2.coinmarketcap.com/static/img/coins/64x64/37430.png
+°
+
+1404/07/1914:19œì¨Ç"Quantoz USDQ**Ú©ÙˆØ§Ù†ØªÙˆØ² ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒâ€ŒÚ©ÛŒÙˆ20.9992:115759A¸…ëQ¸¿HèÕæR=https://s2.coinmarketcap.com/static/img/coins/64x64/34177.png
+ 
+
+1404/07/1914:19œì¨Ç"Hifi Finance*Ù‡Ø§ÛŒâ€ŒÙØ§ÛŒ ÙØ§ÛŒÙ†Ù†Ø³20.0560:6483A®Gázn=ÀHôïäR=https://s2.coinmarketcap.com/static/img/coins/64x64/23037.png
+–
+
+1404/07/1914:20Øì¨Ç"Counterparty*Ú©Ø§Ù†ØªØ±Ù¾Ø§Ø±ØªÛŒ23.06:354007AÂõ(\,ÀHİ™ãR;https://s2.coinmarketcap.com/static/img/coins/64x64/132.png
+’
+
+1404/07/1914:19œì¨Ç"Doge Killer*Ø¯ÙˆØ¬ Ú©ÛŒÙ„Ø±20.4326:50121AHáz®Ç-ÀHœöâR<https://s2.coinmarketcap.com/static/img/coins/64x64/9286.png
+{
+
+1404/07/1914:19œì¨Ç"xU3O824.94:572305A{®Gáz@H„µâR=https://s2.coinmarketcap.com/static/img/coins/64x64/35597.png
+‰
+
+1404/07/1914:19œì¨Ç"Aurory*
+Ø¢Ø±ÙˆØ±ÛŒ20.1049:12151Aáz®GáÀHÒøàR=https://s2.coinmarketcap.com/static/img/coins/64x64/11367.png
+†
+
+1404/07/1914:20Øì¨Ç"Smart Pocket20.007553:875.04Afffffæ<ÀHÃÜßR=https://s2.coinmarketcap.com/static/img/coins/64x64/38573.png
+‹
+
+1404/07/1914:19œì¨Ç"NodeOps*Ù†ÙˆØ¯Ø¢Ù¾Ø³20.0588:6809A=
+×£p½/ÀHªÁŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/36977.png
+¢
+
+1404/07/1914:19œì¨Ç"Alvara Protocol*Ø¢Ù„ÙˆØ§Ø± Ø§ Ù¾Ø±ÙˆØªÚ©Ù„20.0975:11295A=
+×£p=ÀH×¯ÚR=https://s2.coinmarketcap.com/static/img/coins/64x64/29693.png
+
+
+1404/07/1914:19œì¨Ç"Hyperion*Ù‡Ø§ÛŒÙ¾Ø±ion20.4066:47108A\Âõ(\ÀHİÅ×R=https://s2.coinmarketcap.com/static/img/coins/64x64/37344.png
+›
+
+1404/07/1914:19œì¨Ç"Beta Finance*Ø¨ØªØ§ ÙØ§ÛŒÙ†Ù†Ø³20.007718:894.20A¤p=
+×£"ÀH‰Œ×R=https://s2.coinmarketcap.com/static/img/coins/64x64/11307.png
+’
+
+1404/07/1914:19œì¨Ç"RETARDIO*Ø±ÛŒØªØ±Ø¯ÛŒÙˆ20.007900:915.25Aš™™™™™7ÀH×¹ÖR=https://s2.coinmarketcap.com/static/img/coins/64x64/31921.png
+Ê
+
+1404/07/1914:19œì¨Ç"!Coinbase tokenized stock (xStock)*-Ú©ÙˆÛŒÙ†â€ŒØ¨ÛŒØ³ ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2348.86:40416398Aö(\Âu#ÀH˜¸ÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/36989.png
+
+
+1404/07/1914:19œì¨Ç"Konnect*
+Ú©Ø§Ù†Ú©Øª20.001044:120.92Aš™™™™™ÀHù³ĞR=https://s2.coinmarketcap.com/static/img/coins/64x64/20305.png
+†
+
+1404/07/1914:19œì¨Ç"Allo*Ø¢Ù„Ùˆ20.004225:489.52A…ëQ¸…>ÀHÆšĞR=https://s2.coinmarketcap.com/static/img/coins/64x64/33783.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Smog*
+Ø§Ø³Ù…Ø§Ú¯20.009762:1131A\Âõ(\,ÀHÏ•ĞR=https://s2.coinmarketcap.com/static/img/coins/64x64/29358.png
+ˆ
+
+1404/07/1914:20Øì¨Ç"Opus*Ø§Ù¾ÙˆØ³20.007601:880.57Aš™™™™™ÀHñÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/35052.png
+¿
+
+1404/07/1914:19œì¨Ç"Circle tokenized stock (xStock)*$Ø³Ø±Ú©Ù„ ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2132.91:15398130A\Âõ(\(ÀH§±ÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/37005.png
+Œ
+
+1404/07/1914:19œì¨Ç"Aventus*Ø§ÙˆÙ†ØªÙˆØ³21.2613:146128A
+×£p=J3ÀHÔôÍR<https://s2.coinmarketcap.com/static/img/coins/64x64/1948.png
+‡
+
+1404/07/1914:19œì¨Ç"Tenset*
+ØªÙ†Ø³ÙØª20.0540:6261AìQ¸…ë'ÀHê€ÍR<https://s2.coinmarketcap.com/static/img/coins/64x64/9089.png
 œ
 
-1404/07/1914:05Ôå¨Ç"DigitalBits*Ø¯ÛŒØ¬ÛŒØªØ§Ù„ Ø¨ÛŒØªØ³20.000433:50.21Aš™™™™$ÀH·•ÆR<https://s2.coinmarketcap.com/static/img/coins/64x64/4566.png
+1404/07/1914:19œì¨Ç"DigitalBits*Ø¯ÛŒØ¬ÛŒØªØ§Ù„ Ø¨ÛŒØªØ³20.000439:50.82A     €!ÀHØ»ÌR<https://s2.coinmarketcap.com/static/img/coins/64x64/4566.png
+‡
+
+1404/07/1914:19œì¨Ç"Baanx*
+Ø¨Ø§Ù†Ú©Ø³20.0316:3657A¤p=
+×£ÀH¥²ÌR=https://s2.coinmarketcap.com/static/img/coins/64x64/10949.png
+˜
+
+1404/07/1914:19œì¨Ç"Echo Protocol*Ù¾Ø±ÙˆØªÚ©Ù„ Ø§Ú©Ùˆ20.0296:3431A¤p=
+×#0ÀHßàÊR=https://s2.coinmarketcap.com/static/img/coins/64x64/36978.png
+”
+
+1404/07/1914:20Øì¨Ç"	WhiteCoin*ÙˆØ§ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†20.009818:1137AffffffÖ¿Hª€ÊR;https://s2.coinmarketcap.com/static/img/coins/64x64/268.png
+‘
+
+1404/07/1914:19œì¨Ç"Phoenix*ÙÙˆÙ†ÛŒÚ©Ø³2
+0.00001409:1.6326A{®Gáz%ÀHïÇR=https://s2.coinmarketcap.com/static/img/coins/64x64/34914.png
+Š
+
+1404/07/1914:20Øì¨Ç"Odos*
+Ø§ÙˆØ¯ÙˆØ³20.003495:404.87AÍÌÌÌÌÌ5ÀHÍ„ÇR=https://s2.coinmarketcap.com/static/img/coins/64x64/34807.png
+
+
+1404/07/1914:19œì¨Ç"Dione Protocol*Ø¯ÛŒÙˆÙ† Ù¾Ø±ÙˆØªÚ©Ù„20.000642:74.34AìQ¸…ë ÀHñ—ÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/21473.png
 ÿ
 
-1404/07/1914:05Ôå¨Ç"7iShares Core MSCI Emerging Markets Tokenized ETF (Ondo)*NETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢ÛŒâ€ŒØ´ÛŒØ±Ø² MSCI Ø¨Ø§Ø²Ø§Ø±Ù‡Ø§ÛŒ Ù†ÙˆØ¸Ù‡ÙˆØ±264.39:7472895AHáz®GÀH„ÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/38099.png
-©
+1404/07/1914:19œì¨Ç"7iShares Core MSCI Emerging Markets Tokenized ETF (Ondo)*NETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢ÛŒâ€ŒØ´ÛŒØ±Ø² MSCI Ø¨Ø§Ø²Ø§Ø±Ù‡Ø§ÛŒ Ù†ÙˆØ¸Ù‡ÙˆØ±264.39:7460210A333333ÀH„ÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/38099.png
+ƒ
 
-1404/07/1914:05Ôå¨Ç"Hyperpigmentation*Ù‡Ø§ÛŒÙ¾Ø±Ù¾ÛŒÚ¯Ù…Ù†ØªÛŒØ´Ù†20.007433:862.63A=
-×£p½1ÀH©•ÄR=https://s2.coinmarketcap.com/static/img/coins/64x64/36428.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"Sensay*
-Ø³Ù†Ø³ÙÛŒ20.001423:165.09Aš™™™™2ÀHıÄR=https://s2.coinmarketcap.com/static/img/coins/64x64/30156.png
-Ÿ
-
-1404/07/1914:05Ôå¨Ç"Privasea AI*Ù¾Ø±Ø§ÛŒÙˆØ³ÛŒ Ø§ÙÛŒâ€ŒØ¢ÛŒ20.0273:3173AHáz®‡5ÀHËüÃR=https://s2.coinmarketcap.com/static/img/coins/64x64/36236.png
+1404/07/1914:20Øì¨Ç"TRAC*ØªØ±Ú©20.3533:40933AÃõ(\B:ÀHêîÄR=https://s2.coinmarketcap.com/static/img/coins/64x64/25208.png
 ‡
 
-1404/07/1914:05Ôå¨Ç"Skate*
-Ø§Ø³Ú©ÛŒØª20.0346:4010A)\Âõ(AÀH™İÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/36747.png
+1404/07/1914:19œì¨Ç"Skate*
+Ø§Ø³Ú©ÛŒØª20.0346:4014A¸…ëQAÀHüğÃR=https://s2.coinmarketcap.com/static/img/coins/64x64/36747.png
+Œ
+
+1404/07/1914:19œì¨Ç"Sensay*
+Ø³Ù†Ø³ÙÛŒ20.001421:164.65A
+×£p=J2ÀHñÉÃR=https://s2.coinmarketcap.com/static/img/coins/64x64/30156.png
 ”
 
-1404/07/1914:05Ôå¨Ç"
-Saitama V2*Ø³Ø§ÛŒØªØ§Ù…Ø§ ÙˆÛŒâ€ŒÛ²20.000165:19.15HãÒÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/20513.png
+1404/07/1914:19œì¨Ç"
+Saitama V2*Ø³Ø§ÛŒØªØ§Ù…Ø§ ÙˆÛŒâ€ŒÛ²20.000165:19.12HãÒÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/20513.png
+©
+
+1404/07/1914:19œì¨Ç"Hyperpigmentation*Ù‡Ø§ÛŒÙ¾Ø±Ù¾ÛŒÚ¯Ù…Ù†ØªÛŒØ´Ù†20.007381:855.16AìQ¸…«2ÀHğÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/36428.png
 ¤
 
-1404/07/1914:05Ôå¨Ç"pSTAKE Finance*Ù¾ÛŒâ€ŒØ§Ø³ØªÛŒÚ© ÙØ§ÛŒÙ†Ù†Ø³20.0167:1941A¤p=
-×#3ÀHÿàÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/15996.png
-˜
-
-1404/07/1914:05Ôå¨Ç"PublicAI*Ù¾Ø§Ø¨Ù„ÛŒÚ© Ø§ÛŒâ€ŒØ¢ÛŒ20.0361:4191A      ÀHÎ“¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/37728.png
-‚
-
-1404/07/1914:05Ôå¨Ç"Boom*Ø¨ÙˆÙ…20.0298:3458A®Gáz”$ÀHéó¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/36411.png
+1404/07/1914:20Øì¨Ç"pSTAKE Finance*Ù¾ÛŒâ€ŒØ§Ø³ØªÛŒÚ© ÙØ§ÛŒÙ†Ù†Ø³20.0167:1936AÃõ(\B3ÀH©ÄÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/15996.png
 ‘
 
-1404/07/1914:06æ¨Ç"iMe Lab*Ø¢ÛŒâ€ŒÙ…ÛŒ Ù„Ø¨20.009693:1125AHáz®GÀHå£¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/10469.png
-£
-
-1404/07/1914:05Ôå¨Ç"PLAYA3ULL GAMES*Ù¾Ù„ÛŒØ§ Û³ Ø¢Ù„ Ú¯ÛŒÙ…Ø²20.000504:58.46A¸…ëQ¸®¿HŒ²½R=https://s2.coinmarketcap.com/static/img/coins/64x64/26863.png
-¥
-
-1404/07/1914:05Ôå¨Ç"
-StablR USD*!Ø§Ø³ØªØ§Ø¨Ù„Ø± ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.9987:115897AìQ¸…ë±?Hü½R=https://s2.coinmarketcap.com/static/img/coins/64x64/35372.png
+1404/07/1914:19œì¨Ç"iMe Lab*Ø¢ÛŒâ€ŒÙ…ÛŒ Ù„Ø¨20.009725:1127AR¸…ëQÀHƒŞ¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/10469.png
 •
 
-1404/07/1914:05Ôå¨Ç"
-bitsCrunch*Ø¨ÛŒØªØ³ Ú©Ø±Ø§Ù†Ú†20.0121:1401A)\Âõ()ÀH¦ı¼R=https://s2.coinmarketcap.com/static/img/coins/64x64/28559.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Tectum*
-ØªÚ©ØªÙˆÙ…20.7338:85162AÃõ(\‚6ÀHˆ—»R=https://s2.coinmarketcap.com/static/img/coins/64x64/21964.png
-®
-
-1404/07/1914:05Ôå¨Ç"AC Milan Fan Token*$Ø§ÛŒâ€ŒØ³ÛŒ Ù…ÛŒÙ„Ø§Ù† ÙÙ† ØªÙˆÚ©Ù†20.7034:81632Aáz®G¡2ÀHÊˆ»R<https://s2.coinmarketcap.com/static/img/coins/64x64/8538.png
-
-
-1404/07/1914:05Ôå¨Ç"San Chan*	Ø³Ù† Ú†Ù†20.007705:894.13Aš™™™™™0ÀHŸûºR=https://s2.coinmarketcap.com/static/img/coins/64x64/35572.png
-¥
-
-1404/07/1914:05Ôå¨Ç"Tether Gold Tokens*ØªØªØ± Ú¯Ù„Ø¯ ØªÙˆÚ©Ù†Ø²24018:	466272513Aö(\Âõà?Hä«ºR=https://s2.coinmarketcap.com/static/img/coins/64x64/37082.png
-¡
-
-1404/07/1914:05Ôå¨Ç"Free Palestine*ÙØ±ÛŒ Ù¾Ø§Ù„Ø³ØªØ§ÛŒÙ†20.007453:864.94A      .ÀHÜ ¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/32536.png
-®
-
-1404/07/1914:05Ôå¨Ç"Luna by Virtuals*"Ù„ÙˆÙ†Ø§ ØªÙˆØ³Ø· ÙˆÛŒØ±Ú†ÙˆØ§Ù„Ø²20.007227:838.71A{®Gá:;ÀH¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/33543.png
-”
-
-1404/07/1914:05Ôå¨Ç"	Stake DAO*Ø§Ø³ØªÛŒÚ© Ø¯Ø§Ø¦Ùˆ20.3022:35071A¸…ëQ¸&ÀHÑã¸R<https://s2.coinmarketcap.com/static/img/coins/64x64/8299.png
-
-
-1404/07/1914:05Ôå¨Ç"XSwap*Ø§ÛŒÚ©Ø³ Ø³ÙˆØ§Ù¾20.0288:3337A{®Gá:0ÀH—¨¸R=https://s2.coinmarketcap.com/static/img/coins/64x64/30916.png
-š
-
-1404/07/1914:05Ôå¨Ç"WUFFI*ÙˆÙˆÙÛŒ20.00000008732782589402091:0.0101A®Gáz® ÀHŒ„¸R=https://s2.coinmarketcap.com/static/img/coins/64x64/30683.png
-
-
-1404/07/1914:05Ôå¨Ç"Cratos*Ú©Ø±Ø§ØªÙˆØ³20.000146:16.92A\Âõ(Ü/ÀHİÊ¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/12064.png
-Š
-
-1404/07/1914:05Ôå¨Ç"PRIZM*
-Ù¾Ø±ÛŒØ²Ù…20.001644:190.76A      ÀHø¹¶R<https://s2.coinmarketcap.com/static/img/coins/64x64/1681.png
-†
-
-1404/07/1914:05Ôå¨Ç"Dill*Ø¯ÛŒÙ„20.006025:699.21AR¸…ëÑ.ÀHíâ³R=https://s2.coinmarketcap.com/static/img/coins/64x64/38401.png
+1404/07/1914:20Øì¨Ç"
+bitsCrunch*Ø¨ÛŒØªØ³ Ú©Ø±Ø§Ù†Ú†20.0121:1406A¤p=
+×#(ÀH‘‰¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/28559.png
 ‚
 
-1404/07/1914:06æ¨Ç"Dero*Ø¯Ø±Ùˆ20.4974:57723A\Âõ(\<ÀHùÂ²R<https://s2.coinmarketcap.com/static/img/coins/64x64/2665.png
-
+1404/07/1914:19œì¨Ç"Boom*Ø¨ÙˆÙ…20.0297:3444A¸…ëQ8$ÀHèê½R=https://s2.coinmarketcap.com/static/img/coins/64x64/36411.png
+Ÿ
 
-1404/07/1914:05Ôå¨Ç"	Synternet*Ø³ÛŒÙ†ØªØ±Ù†Øª20.0109:1259Aáz®GáÀHò²R=https://s2.coinmarketcap.com/static/img/coins/64x64/32108.png
+1404/07/1914:19œì¨Ç"Privasea AI*Ù¾Ø±Ø§ÛŒÙˆØ³ÛŒ Ø§ÙÛŒâ€ŒØ¢ÛŒ20.0269:3122Aö(\Â53ÀHÌ´½R=https://s2.coinmarketcap.com/static/img/coins/64x64/36236.png
+¥
+
+1404/07/1914:19œì¨Ç"
+StablR USD*!Ø§Ø³ØªØ§Ø¨Ù„Ø± ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.9987:115703Aš™™™™™©?HõŸ½R=https://s2.coinmarketcap.com/static/img/coins/64x64/35372.png
+‰
+
+1404/07/1914:19œì¨Ç"Tectum*
+ØªÚ©ØªÙˆÙ…20.7335:84976A     À6ÀH•ûºR=https://s2.coinmarketcap.com/static/img/coins/64x64/21964.png
+˜
+
+1404/07/1914:19œì¨Ç"PublicAI*Ù¾Ø§Ø¨Ù„ÛŒÚ© Ø§ÛŒâ€ŒØ¢ÛŒ20.0358:4142Aq=
+×£pÀHïÙºR=https://s2.coinmarketcap.com/static/img/coins/64x64/37728.png
+¥
+
+1404/07/1914:19œì¨Ç"Tether Gold Tokens*ØªØªØ± Ú¯Ù„Ø¯ ØªÙˆÚ©Ù†Ø²24011:	464695012AffffffÖ?H—Ì¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/37082.png
+£
+
+1404/07/1914:20Øì¨Ç"PLAYA3ULL GAMES*Ù¾Ù„ÛŒØ§ Û³ Ø¢Ù„ Ú¯ÛŒÙ…Ø²20.000499:57.86Aq=
+×£pí¿H•Ç¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/26863.png
+¡
+
+1404/07/1914:19œì¨Ç"Free Palestine*ÙØ±ÛŒ Ù¾Ø§Ù„Ø³ØªØ§ÛŒÙ†20.007453:863.47A      .ÀHÜ ¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/32536.png
+®
+
+1404/07/1914:20Øì¨Ç"AC Milan Fan Token*$Ø§ÛŒâ€ŒØ³ÛŒ Ù…ÛŒÙ„Ø§Ù† ÙÙ† ØªÙˆÚ©Ù†20.7005:81153Afffff&3ÀH°›¹R<https://s2.coinmarketcap.com/static/img/coins/64x64/8538.png
+”
+
+1404/07/1914:20Øì¨Ç"	Stake DAO*Ø§Ø³ØªÛŒÚ© Ø¯Ø§Ø¦Ùˆ20.3022:35011A¸…ëQ¸&ÀHÑã¸R<https://s2.coinmarketcap.com/static/img/coins/64x64/8299.png
+
+
+1404/07/1914:19œì¨Ç"San Chan*	Ø³Ù† Ú†Ù†20.007663:887.77A…ëQ¸Ş1ÀH«Ç¸R=https://s2.coinmarketcap.com/static/img/coins/64x64/35572.png
+
+
+1404/07/1914:19œì¨Ç"XSwap*Ø§ÛŒÚ©Ø³ Ø³ÙˆØ§Ù¾20.0288:3331A®Gáz.0ÀHå£¸R=https://s2.coinmarketcap.com/static/img/coins/64x64/30916.png
+™
+
+1404/07/1914:19œì¨Ç"WUFFI*ÙˆÙˆÙÛŒ20.0000000871848276336609:0.0101A{®Gáú ÀHî§·R=https://s2.coinmarketcap.com/static/img/coins/64x64/30683.png
+®
+
+1404/07/1914:19œì¨Ç"Luna by Virtuals*"Ù„ÙˆÙ†Ø§ ØªÙˆØ³Ø· ÙˆÛŒØ±Ú†ÙˆØ§Ù„Ø²20.007184:832.25A     €;ÀHŸº¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/33543.png
+Š
+
+1404/07/1914:19œì¨Ç"PRIZM*
+Ù¾Ø±ÛŒØ²Ù…20.001643:190.38A
+×£p=
+ÀH¡§¶R<https://s2.coinmarketcap.com/static/img/coins/64x64/1681.png
+‡
+
+1404/07/1914:19œì¨Ç"Divi*Ø¯ÛŒÙˆÛŒ20.001605:186.00Aáz®GáÊ¿H¼†´R<https://s2.coinmarketcap.com/static/img/coins/64x64/3441.png
+†
+
+1404/07/1914:19œì¨Ç"Dill*Ø¯ÛŒÙ„20.006025:698.01AR¸…ëÑ-ÀHÕá³R=https://s2.coinmarketcap.com/static/img/coins/64x64/38401.png
+‚
+
+1404/07/1914:19œì¨Ç"Dero*Ø¯Ø±Ùˆ20.4972:57602Aáz®Ga<ÀHÑ¬²R<https://s2.coinmarketcap.com/static/img/coins/64x64/2665.png
 ¼
 
-1404/07/1914:06æ¨Ç"Apple tokenized stock (xStock)*"Ø§Ù¾Ù„ ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2245.05:28437923A¸…ëQ¸
-ÀHåÛ±R=https://s2.coinmarketcap.com/static/img/coins/64x64/36994.png
-™
+1404/07/1914:20Øì¨Ç"Apple tokenized stock (xStock)*"Ø§Ù¾Ù„ ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2244.91:28374026A…ëQ¸ÀHŸ½±R=https://s2.coinmarketcap.com/static/img/coins/64x64/36994.png
+
 
-1404/07/1914:06æ¨Ç"Mind Network*Ù…Ø§ÛŒÙ†Ø¯ Ù†ØªÙˆØ±Ú©20.0317:3678AÃõ(\Â@ÀH¾¾±R=https://s2.coinmarketcap.com/static/img/coins/64x64/36153.png
-ª
+1404/07/1914:19œì¨Ç"	Synternet*Ø³ÛŒÙ†ØªØ±Ù†Øª20.0108:1255Aq=
+×£pÀHì¨±R=https://s2.coinmarketcap.com/static/img/coins/64x64/32108.png
+
 
-1404/07/1914:05Ôå¨Ç"Dora Factory (new)* Ø¯ÙˆØ±Ø§ ÙÚ©ØªÙˆØ±ÛŒ (Ø¬Ø¯ÛŒØ¯)20.0132:1533Aö(\Âu3ÀHü¤±R=https://s2.coinmarketcap.com/static/img/coins/64x64/27966.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Divi*Ø¯ÛŒÙˆÛŒ20.001595:185.12A…ëQ¸ñ¿H¡ ±R<https://s2.coinmarketcap.com/static/img/coins/64x64/3441.png
+1404/07/1914:19œì¨Ç"MonaCoin*Ù…ÙˆÙ†Ø§Ú©ÙˆÛŒÙ†20.1079:12502A{®GázÀHæ÷°R;https://s2.coinmarketcap.com/static/img/coins/64x64/213.png
 
 
-1404/07/1914:06æ¨Ç"Zypher Network*Ø²ÛŒÙØ± Ù†ØªÙˆØ±Ú©20.004927:571.77AìQ¸…k.ÀHÒó°R=https://s2.coinmarketcap.com/static/img/coins/64x64/38315.png
-
+1404/07/1914:19œì¨Ç"Camino Network*Ú©Ø§Ù…ÛŒÙ†Ø§ Ù†ØªÙˆØ±Ú©20.0218:2523A
+×£p=
+×¿H…Ã°R=https://s2.coinmarketcap.com/static/img/coins/64x64/35277.png
+
 
-1404/07/1914:05Ôå¨Ç"Camino Network*Ú©Ø§Ù…ÛŒÙ†Ø§ Ù†ØªÙˆØ±Ú©20.0218:2527A333333ã¿HÑ¾°R=https://s2.coinmarketcap.com/static/img/coins/64x64/35277.png
-¦
-
-1404/07/1914:05Ôå¨Ç"Wall Street Pepe*ÙˆØ§Ù„ Ø§Ø³ØªØ±ÛŒØª Ù¾Ù¾Ù‡2
-0.00003540:4.11A{®Gáz)ÀH€‰°R=https://s2.coinmarketcap.com/static/img/coins/64x64/35804.png
+1404/07/1914:19œì¨Ç"Cratos*Ú©Ø±Ø§ØªÙˆØ³20.000144:16.65Aš™™™™1ÀHá¹°R=https://s2.coinmarketcap.com/static/img/coins/64x64/12064.png
 —
 
-1404/07/1914:05Ôå¨Ç"Dragonchain*Ø¯Ø±Ø§Ú¯ÙˆÙ†â€ŒÚ†ÛŒÙ†20.0191:2211A\Âõ(\ÀHêŸ¯R<https://s2.coinmarketcap.com/static/img/coins/64x64/2243.png
-
+1404/07/1914:19œì¨Ç"Dragonchain*Ø¯Ø±Ø§Ú¯ÙˆÙ†â€ŒÚ†ÛŒÙ†20.0191:2210Aáz®GáÀHåÎ¯R<https://s2.coinmarketcap.com/static/img/coins/64x64/2243.png
+
 
-1404/07/1914:05Ôå¨Ç"	Venus DAI*ÙˆÙ†ÙˆØ³ Ø¯Ø§ÛŒ20.0257:2983A{®Gáz”?Hî×®R<https://s2.coinmarketcap.com/static/img/coins/64x64/8214.png
-
+1404/07/1914:20Øì¨Ç"Zypher Network*Ø²ÛŒÙØ± Ù†ØªÙˆØ±Ú©20.004911:568.99Aq=
+×£ğ,ÀHÖÄ¯R=https://s2.coinmarketcap.com/static/img/coins/64x64/38315.png
+¦
 
-1404/07/1914:05Ôå¨Ç"MonaCoin*Ù…ÙˆÙ†Ø§Ú©ÙˆÛŒÙ†20.1073:12450A…ëQ¸ÀH²³®R;https://s2.coinmarketcap.com/static/img/coins/64x64/213.png
+1404/07/1914:19œì¨Ç"Wall Street Pepe*ÙˆØ§Ù„ Ø§Ø³ØªØ±ÛŒØª Ù¾Ù¾Ù‡2
+0.00003532:4.09Aáz®Gá*ÀH˜™¯R=https://s2.coinmarketcap.com/static/img/coins/64x64/35804.png
 •
 
-1404/07/1914:05Ôå¨Ç"SwissCheese*Ø³ÙˆØ¦ÛŒØ³ Ú†ÛŒØ²20.1610:18687Afffffæ"ÀH¶ü­R=https://s2.coinmarketcap.com/static/img/coins/64x64/27805.png
-Œ
+1404/07/1914:19œì¨Ç"SwissCheese*Ø³ÙˆØ¦ÛŒØ³ Ú†ÛŒØ²20.1613:18691A)\Âõ¨"ÀHå®R=https://s2.coinmarketcap.com/static/img/coins/64x64/27805.png
+†
 
-1404/07/1914:05Ôå¨Ç"ONBUFF*Ø¢Ù†â€ŒØ¨Ø§Ù20.009146:1061A\Âõ(2ÀHŠî­R<https://s2.coinmarketcap.com/static/img/coins/64x64/6739.png
+1404/07/1914:19œì¨Ç"	Venus DAI*ÙˆÙ†ÙˆØ³ Ø¯Ø§ÛŒ20.0257:2977HòÌ®R<https://s2.coinmarketcap.com/static/img/coins/64x64/8214.png
+ª
+
+1404/07/1914:19œì¨Ç"Dora Factory (new)* Ø¯ÙˆØ±Ø§ ÙÚ©ØªÙˆØ±ÛŒ (Ø¬Ø¯ÛŒØ¯)20.0131:1519A®Gáz4ÀH…ø­R=https://s2.coinmarketcap.com/static/img/coins/64x64/27966.png
 –
 
-1404/07/1914:06æ¨Ç"
-dHedge DAO*Ø¯ÛŒâ€ŒÙ‡Ø¬ Ø¯Ø§Ø¦Ùˆ20.1286:14929A=
-×£p=-ÀHãöªR<https://s2.coinmarketcap.com/static/img/coins/64x64/7094.png
-‹
-
-1404/07/1914:05Ôå¨Ç"SIGMA*
-Ø³ÛŒÚ¯Ù…Ø§20.007772:901.96A¸…ëQx5ÀHùîªR=https://s2.coinmarketcap.com/static/img/coins/64x64/32498.png
+1404/07/1914:19œì¨Ç"
+dHedge DAO*Ø¯ÛŒâ€ŒÙ‡Ø¬ Ø¯Ø§Ø¦Ùˆ20.1287:14909A®Gáz.-ÀHíŠ«R<https://s2.coinmarketcap.com/static/img/coins/64x64/7094.png
 ‰
 
-1404/07/1914:05Ôå¨Ç"Kasta*
-Ú©Ø§Ø³ØªØ§20.009137:1060A×£p=
-×*ÀHüè©R=https://s2.coinmarketcap.com/static/img/coins/64x64/16481.png
-Œ
+1404/07/1914:19œì¨Ç"Kasta*
+Ú©Ø§Ø³ØªØ§20.009137:1059AHáz®G+ÀHìæ©R=https://s2.coinmarketcap.com/static/img/coins/64x64/16481.png
+™
 
-1404/07/1914:05Ôå¨Ç"SIDUS*Ø³Ø§ÛŒØ¯ÙˆØ³20.000461:53.52Aáz®G!2ÀHÊ™¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/15463.png
+1404/07/1914:20Øì¨Ç"Mind Network*Ù…Ø§ÛŒÙ†Ø¯ Ù†ØªÙˆØ±Ú©20.0311:3606A)\ÂõhAÀH“Ø©R=https://s2.coinmarketcap.com/static/img/coins/64x64/36153.png
+‹
+
+1404/07/1914:19œì¨Ç"SIGMA*
+Ø³ÛŒÚ¯Ù…Ø§20.007750:897.84AÂõ(\Ï5ÀHÂÑ©R=https://s2.coinmarketcap.com/static/img/coins/64x64/32498.png
 ›
 
-1404/07/1914:05Ôå¨Ç"KYVE Network*Ú©Ø§ÛŒÙˆ Ù†ØªÙˆØ±Ú©20.006533:758.16Aq=
-×£p%@H®¡§R=https://s2.coinmarketcap.com/static/img/coins/64x64/27766.png
-°
+1404/07/1914:19œì¨Ç"KYVE Network*Ú©Ø§ÛŒÙˆ Ù†ØªÙˆØ±Ú©20.006550:758.80Afffffæ%@H¨­¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/27766.png
+Œ
 
-1404/07/1914:05Ôå¨Ç"Volt Inu V2*ÙˆÙ„Øª Ø§ÛŒÙ†Ùˆ ÙˆÛŒâ€ŒÛ²20.0000001261757397289845:0.0146AR¸…ëÑ)ÀHàá¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/19650.png
+1404/07/1914:19œì¨Ç"SIDUS*Ø³Ø§ÛŒØ¯ÙˆØ³20.000461:53.37A=
+×£p=2ÀH‘Ù§R=https://s2.coinmarketcap.com/static/img/coins/64x64/15463.png
+
+
+1404/07/1914:19œì¨Ç"MEVerse*Ù…ÛŒâ€ŒÙˆØ±Ø³20.004019:465.59Aq=
+×£ğ*ÀHƒÃ§R=https://s2.coinmarketcap.com/static/img/coins/64x64/19063.png
+¢
+
+1404/07/1914:19œì¨Ç"
+Helium IOT*Ù‡Ù„ÛŒÙˆÙ… Ø¢ÛŒâ€ŒØ§Ùˆâ€ŒØªÛŒ20.000341:39.55Aš™™™™™-ÀH´†¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/24686.png
+Œ
+
+1404/07/1914:20Øì¨Ç"ONBUFF*Ø¢Ù†â€ŒØ¨Ø§Ù20.008961:1038A33333³3ÀHç”¥R<https://s2.coinmarketcap.com/static/img/coins/64x64/6739.png
 Û
 
-1404/07/1914:05Ôå¨Ç"(Argentine Football Association Fan Token*:Ø¢Ø±Ú˜Ø§Ù†ØªÛŒÙ† ÙÙˆØªØ¨Ø§Ù„ Ø§Ø³ÙˆØ³ÛŒØ´Ù† ÙÙ† ØªÙˆÚ©Ù†20.7334:85106Aq=
-×£p ÀHÛÜ¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/10430.png
-¢
+1404/07/1914:19œì¨Ç"(Argentine Football Association Fan Token*:Ø¢Ø±Ú˜Ø§Ù†ØªÛŒÙ† ÙÙˆØªØ¨Ø§Ù„ Ø§Ø³ÙˆØ³ÛŒØ´Ù† ÙÙ† ØªÙˆÚ©Ù†20.7341:85042Aáz®Ga ÀH•¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/10430.png
+±
 
-1404/07/1914:05Ôå¨Ç"
-Helium IOT*Ù‡Ù„ÛŒÙˆÙ… Ø¢ÛŒâ€ŒØ§Ùˆâ€ŒØªÛŒ20.000340:39.48Aš™™™™™-ÀHæÃ¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/24686.png
-
-
-1404/07/1914:06æ¨Ç"MEVerse*Ù…ÛŒâ€ŒÙˆØ±Ø³20.003983:462.28A)\Âõ(-ÀHÏæ£R=https://s2.coinmarketcap.com/static/img/coins/64x64/19063.png
+1404/07/1914:19œì¨Ç"Volt Inu V2*ÙˆÙ„Øª Ø§ÛŒÙ†Ùˆ ÙˆÛŒâ€ŒÛ²20.00000012581373734605617:0.0146A…ëQ¸…*ÀHïÆ¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/19650.png
 –
 
-1404/07/1914:05Ôå¨Ç"UniCrypt*ÛŒÙˆÙ†ÛŒ Ú©Ø±ÛŒÙ¾Øª2147.37:17102594A\Âõ(Ü*ÀHë°£R<https://s2.coinmarketcap.com/static/img/coins/64x64/7664.png
+1404/07/1914:19œì¨Ç"UniCrypt*ÛŒÙˆÙ†ÛŒ Ú©Ø±ÛŒÙ¾Øª2147.28:17063363A)\Âõ¨+ÀHã£R<https://s2.coinmarketcap.com/static/img/coins/64x64/7664.png
 …
 
-1404/07/1914:05Ôå¨Ç"Major*Ù…ÛŒØ¬Ø±20.0822:9542A×£p=
->ÀH†¤¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/33188.png
-“
-
-1404/07/1914:06æ¨Ç"	TrustSwap*ØªØ±Ø§Ø³Øª Ø³ÙˆØ§Ù¾20.0683:7922A×£p=
-×.ÀH¾Î R<https://s2.coinmarketcap.com/static/img/coins/64x64/5829.png
-
-
-1404/07/1914:05Ôå¨Ç"Aragon*Ø¢Ø±Ø§Ú¯ÙˆÙ†20.1571:18233Hõ—R<https://s2.coinmarketcap.com/static/img/coins/64x64/1680.png
-”
-
-1404/07/1914:06æ¨Ç"
-Multichain*Ù…Ø§Ù„ØªÛŒ Ú†ÛŒÙ†20.4665:54141AÃõ(\ÂÀHá†R=https://s2.coinmarketcap.com/static/img/coins/64x64/17050.png
+1404/07/1914:19œì¨Ç"Major*Ù…ÛŒØ¬Ø±20.0821:9517A®Gáz.>ÀH…ó¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/33188.png
 |
 
-1404/07/1914:05Ôå¨Ç"Cypher20.0708:8217A…ëQ¸=ÀHçé™R=https://s2.coinmarketcap.com/static/img/coins/64x64/38551.png
+1404/07/1914:19œì¨Ç"Cypher20.0721:8357A33333³?ÀHÌÁ¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/38551.png
+
+
+1404/07/1914:19œì¨Ç"Aragon*Ø¢Ø±Ø§Ú¯ÙˆÙ†20.1571:18202Hõ—R<https://s2.coinmarketcap.com/static/img/coins/64x64/1680.png
+”
+
+1404/07/1914:20Øì¨Ç"
+Multichain*Ù…Ø§Ù„ØªÛŒ Ú†ÛŒÙ†20.4656:53944AffffffÀHƒ R=https://s2.coinmarketcap.com/static/img/coins/64x64/17050.png
 …
 
-1404/07/1914:05Ôå¨Ç"Block*Ø¨Ù„ÙˆÚ©20.0146:1690Aáz®Gá;ÀHıë˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/37363.png
+1404/07/1914:19œì¨Ç"Block*Ø¨Ù„ÙˆÚ©20.0146:1690Aö(\Âµ;ÀH¬À™R=https://s2.coinmarketcap.com/static/img/coins/64x64/37363.png
 «
 
-1404/07/1914:05Ôå¨Ç"Freya by Virtuals*"ÙØ±ÛŒØ§ ØªÙˆØ³Ø· ÙˆÛŒØ±Ú†ÙˆØ§Ù„Ø²20.0122:1411A=
-×£p= ÀHûı–R=https://s2.coinmarketcap.com/static/img/coins/64x64/34902.png
-…
-
-1404/07/1914:05Ôå¨Ç"michi*Ù…ÛŒÚ†ÛŒ20.0119:1386Aq=
-×£p8ÀH¯ˆ•R=https://s2.coinmarketcap.com/static/img/coins/64x64/30943.png
- 
-
-1404/07/1914:05Ôå¨Ç"Laqira Protocol*Ù„Ø§Ú©ÛŒØ±Ø§ Ù¾Ø±ÙˆØªÚ©Ù„20.0744:8633A…ëQ¸$ÀH¤´’R=https://s2.coinmarketcap.com/static/img/coins/64x64/14446.png
-š
-
-1404/07/1914:06æ¨Ç"Steem Dollars*Ø§Ø³ØªÛŒÙ… Ø¯Ù„Ø§Ø±Ø²20.6711:77885A®Gáz”&ÀHÀ‘R<https://s2.coinmarketcap.com/static/img/coins/64x64/1312.png
+1404/07/1914:19œì¨Ç"Freya by Virtuals*"ÙØ±ÛŒØ§ ØªÙˆØ³Ø· ÙˆÛŒØ±Ú†ÙˆØ§Ù„Ø²20.0122:1408A=
+×£p= ÀH˜û–R=https://s2.coinmarketcap.com/static/img/coins/64x64/34902.png
 ’
 
-1404/07/1914:06æ¨Ç"KiboShib*Ú©ÛŒØ¨ÙˆØ´ÛŒ2
-0.00000655:0.7606Aš™™™™™/ÀHÛ€R=https://s2.coinmarketcap.com/static/img/coins/64x64/23802.png
+1404/07/1914:20Øì¨Ç"
+Chronobank*Ú©Ø±ÙˆÙ†ÙˆØ¨Ù†Ú©29.27:1073899A®Gáz"ÀHøà‘R<https://s2.coinmarketcap.com/static/img/coins/64x64/1556.png
 œ
 
-1404/07/1914:05Ôå¨Ç"Swarm Markets*Ø³ÙˆØ§Ø±Ù… Ù…Ø§Ø±Ú©ØªØ³20.0778:9033AÃõ(\Â*ÀHâR=https://s2.coinmarketcap.com/static/img/coins/64x64/11821.png
+1404/07/1914:19œì¨Ç"Swarm Markets*Ø³ÙˆØ§Ø±Ù… Ù…Ø§Ø±Ú©ØªØ³20.0784:9082AHáz®G)ÀHŒÑ‘R=https://s2.coinmarketcap.com/static/img/coins/64x64/11821.png
+ 
+
+1404/07/1914:19œì¨Ç"Laqira Protocol*Ù„Ø§Ú©ÛŒØ±Ø§ Ù¾Ø±ÙˆØªÚ©Ù„20.0742:8593A{®Gáz$ÀHØœ‘R=https://s2.coinmarketcap.com/static/img/coins/64x64/14446.png
 ´
 
-1404/07/1914:05Ôå¨Ç"Alaya Governance Token*"ØªÙˆÚ©Ù† Ø­Ø§Ú©Ù…ÛŒØªÛŒ Ø¢Ù„Ø§ÛŒØ§20.003652:423.86AÍÌÌÌÌ¬@ÀHŞÜR=https://s2.coinmarketcap.com/static/img/coins/64x64/36195.png
-¦
+1404/07/1914:20Øì¨Ç"Alaya Governance Token*"ØªÙˆÚ©Ù† Ø­Ø§Ú©Ù…ÛŒØªÛŒ Ø¢Ù„Ø§ÛŒØ§20.003670:425.20A¸…ëQ˜@ÀHØÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/36195.png
+“
 
-1404/07/1914:05Ôå¨Ç"Pups (Bitcoin)*Ù¾Ø§Ù¾Ø³ (Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†)20.006700:777.49A
-×£p=Š)ÀH–ŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/33320.png
-¤
+1404/07/1914:19œì¨Ç"	TrustSwap*ØªØ±Ø§Ø³Øª Ø³ÙˆØ§Ù¾20.0656:7601Aö(\Âµ2ÀH—´R<https://s2.coinmarketcap.com/static/img/coins/64x64/5829.png
+’
 
-1404/07/1914:05Ôå¨Ç"saffron.finance*Ø³affron Ø¯Ø§Øª ÙØ§ÛŒÙ†Ù†Ø³270.41:8170837Aq=
-×£p@HÇğˆR<https://s2.coinmarketcap.com/static/img/coins/64x64/7617.png
+1404/07/1914:19œì¨Ç"KiboShib*Ú©ÛŒØ¨ÙˆØ´ÛŒ2
+0.00000656:0.7597A…ëQ¸0ÀH¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/23802.png
+š
+
+1404/07/1914:19œì¨Ç"Steem Dollars*Ø§Ø³ØªÛŒÙ… Ø¯Ù„Ø§Ø±Ø²20.6689:77495AÂõ(\#ÀH˜–R<https://s2.coinmarketcap.com/static/img/coins/64x64/1312.png
 ‚
 
-1404/07/1914:06æ¨Ç"GOAT Network20.0616:7145Aq=
-×£pÀH•ˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/38494.png
-™
+1404/07/1914:20Øì¨Ç"GOAT Network20.0620:7187A333333ÀH¶‹R=https://s2.coinmarketcap.com/static/img/coins/64x64/38494.png
+¤
 
-1404/07/1914:06æ¨Ç"Emirex Token*Ø§Ù…ÛŒØ±Ú©Ø³ ØªÙˆÚ©Ù†20.2352:27298AìQ¸…ë±?HÕ¬‡R<https://s2.coinmarketcap.com/static/img/coins/64x64/4490.png
+1404/07/1914:19œì¨Ç"saffron.finance*Ø³affron Ø¯Ø§Øª ÙØ§ÛŒÙ†Ù†Ø³270.34:8149097Aáz®Gá@H†ÀˆR<https://s2.coinmarketcap.com/static/img/coins/64x64/7617.png
+…
+
+1404/07/1914:19œì¨Ç"michi*Ù…ÛŒÚ†ÛŒ20.0116:1340A33333ó:ÀH×­ˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/30943.png
 Ä
 
-1404/07/1914:06æ¨Ç"Jerry The Turtle By Matt Furie*)Ø¬Ø±ÛŒ Ø¯ ØªØ±ØªÙ„ Ø¨Ø§ÛŒ Ù…Øª ÙÛŒÙˆØ±ÛŒ2
-0.00009279:10.77Aq=
-×£pÀH£â†R=https://s2.coinmarketcap.com/static/img/coins/64x64/35817.png
-…
-
-1404/07/1914:05Ôå¨Ç"Light*Ù„Ø§ÛŒØª20.0125:1455A\Âõ(Ü=ÀHÍòƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/37986.png
-’
-
-1404/07/1914:05Ôå¨Ç"
-Chronobank*Ú©Ø±ÙˆÙ†ÙˆØ¨Ù†Ú©28.95:1038354Aö(\Âu'ÀH±æƒR<https://s2.coinmarketcap.com/static/img/coins/64x64/1556.png
-—
-
-1404/07/1914:05Ôå¨Ç"Veno Finance*ÙˆÙ†Ùˆ ÙØ§ÛŒÙ†Ù†Ø³20.0134:1551A)\Âõè3ÀH±ŒƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/23295.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Swarm*
-Ø³ÙˆØ§Ø±Ù…20.1205:13988A{®Gáz'ÀH÷ı‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/10293.png
-ˆ
-
-1404/07/1914:06æ¨Ç"Colony*
-Ú©Ù„ÙˆÙ†ÛŒ20.0562:6518Aš™™™™Y6ÀHÇ»‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/12785.png
-©
-
-1404/07/1914:05Ôå¨Ç"Upland (SPARKLET)* Ø¢Ù¾â€ŒÙ„Ù†Ø¯ (Ø§Ø³Ù¾Ø§Ø±Ú©Ù„Øª)20.0290:3363AÃõ(\ÂÀH­àR=https://s2.coinmarketcap.com/static/img/coins/64x64/32341.png
-ª
-
-1404/07/1914:06æ¨Ç"BioPassport Token*Ø¨Ø§ÛŒÙˆÙ¾Ø§Ø³Ù¾ÙˆØ±Øª ØªÙˆÚ©Ù†20.000753:87.43A¤p=
-×£%ÀH˜ªR<https://s2.coinmarketcap.com/static/img/coins/64x64/8034.png
-¡
-
-1404/07/1914:06æ¨Ç"HyperGPT*Ù‡Ø§ÛŒÙ¾Ø± Ø¬ÛŒâ€ŒÙ¾ÛŒâ€ŒØªÛŒ20.007869:913.19A×£p=
-W9ÀH¬ˆ€R=https://s2.coinmarketcap.com/static/img/coins/64x64/25419.png
-“
-
-1404/07/1914:06æ¨Ç"	YURU COIN*ÛŒÙˆØ±Ùˆ Ú©ÙˆÛŒÙ†20.8204:95205A×£p=
-×ÀH˜æÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/36963.png
-‹
-
-1404/07/1914:06æ¨Ç"Midas The Minotaur20.000704:81.75AÃõ(\B"ÀHÿ–şR=https://s2.coinmarketcap.com/static/img/coins/64x64/38222.png
-
-
-1404/07/1914:06æ¨Ç"Forest Protocol*ÙØ§Ø±Ø³Øª Ù¾Ø±ÙˆØªÚ©Ù„20.0773:8970Aš™™™™™#ÀHÀşR=https://s2.coinmarketcap.com/static/img/coins/64x64/38237.png
-
-
-1404/07/1914:06æ¨Ç"TRUF.Network*ØªØ±Ø§Ù Ø¯Ø§Øª Ù†ØªÙˆØ±Ú©20.0154:1790Aq=
-×£p)ÀH‰…şR=https://s2.coinmarketcap.com/static/img/coins/64x64/33697.png
-
-
-1404/07/1914:05Ôå¨Ç"Vameon*ÙˆØ§Ù…Ø¦ÙˆÙ†2
-0.00002496:2.90A×£p=
-×ë¿H“ÿûR=https://s2.coinmarketcap.com/static/img/coins/64x64/33725.png
-Š
-
-1404/07/1914:06æ¨Ç"Sovryn*Ø³Ø§ÙˆØ±ÛŒÙ†20.1059:12292AR¸…ëQÀHÔÔûR<https://s2.coinmarketcap.com/static/img/coins/64x64/8669.png
-¦
-
-1404/07/1914:06æ¨Ç"Tectonic*ØªÚ©ØªÙˆÙ†ÛŒÚ©20.000000025049020387143606:0.002907AÃõ(\Â(ÀH³àúR=https://s2.coinmarketcap.com/static/img/coins/64x64/16430.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"PIBBLE*Ù¾ÛŒØ¨Ù„20.000257:29.78A×£p=
-×$ÀH‡¢úR<https://s2.coinmarketcap.com/static/img/coins/64x64/3768.png
-–
-
-1404/07/1914:05Ôå¨Ç"Wibegram*ÙˆØ§ÛŒØ¨ÛŒâ€ŒÚ¯Ø±Ø§Ù…20.3011:34944Aš™™™™™ÀH²ÓöR=https://s2.coinmarketcap.com/static/img/coins/64x64/33249.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Arianee*Ø¢Ø±ÛŒØ§Ù†ÛŒ20.0571:6621Afffffæ-ÀH•´öR<https://s2.coinmarketcap.com/static/img/coins/64x64/8276.png
-
-
-1404/07/1914:05Ôå¨Ç"BitKan*Ø¨ÛŒØªâ€ŒÚ©Ø§Ù†20.000631:73.21AìQ¸…ëÀH‹öôR<https://s2.coinmarketcap.com/static/img/coins/64x64/2934.png
-š
-
-1404/07/1914:06æ¨Ç"LeisureMeta*Ù„ÙÛŒÚ˜ÙØ± Ù…ØªØ§20.001897:220.19A{®Gáz)ÀHàÕôR=https://s2.coinmarketcap.com/static/img/coins/64x64/20315.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"ALTAVA*Ø¢Ù„ØªØ§ÙˆØ§20.008768:1017Aáz®Ga-ÀHË±ôR=https://s2.coinmarketcap.com/static/img/coins/64x64/19786.png
-¥
-
-1404/07/1914:06æ¨Ç"
-BTSE Token*"Ø¨ÛŒâ€ŒØªÛŒâ€ŒØ§Ø³â€ŒØ§ÛŒ ØªÙˆÚ©Ù†21.3974:162171A®Gáz&ÀH÷µóR<https://s2.coinmarketcap.com/static/img/coins/64x64/5305.png
-
-
-1404/07/1914:05Ôå¨Ç"Adappter Token*Ø§Ø¯Ø§Ù¾ØªØ± ØªÙˆÚ©Ù†20.001313:152.35Aö(\ÂõÀHí®óR<https://s2.coinmarketcap.com/static/img/coins/64x64/8044.png
-—
-
-1404/07/1914:05Ôå¨Ç"Litecoin Cash*Ù„Ø§ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ú©Ø´20.007407:859.64H„ÛñR<https://s2.coinmarketcap.com/static/img/coins/64x64/2540.png
-
-
-1404/07/1914:05Ôå¨Ç"Autonomi*Ø§ÙˆØªÙˆÙ†ÙˆÙ…ÛŒ20.0443:5140AffffffÀHç°ñR=https://s2.coinmarketcap.com/static/img/coins/64x64/35793.png
-ƒ
-
-1404/07/1914:05Ôå¨Ç"AXEL*Ø§Ú©Ø³Ù„20.0213:2477A¸…ëQ¸ÀHêæğR<https://s2.coinmarketcap.com/static/img/coins/64x64/6216.png
-ª
-
-1404/07/1914:05Ôå¨Ç"FEED EVERY GORILLA*ÙÛŒØ¯ Ø§ÙˆØ±ÛŒ Ú¯ÙˆØ±ÛŒÙ„Ø§2
-0.00007138:8.28Aáz®G!0ÀHÄŞğR=https://s2.coinmarketcap.com/static/img/coins/64x64/32074.png
-‚
-
-1404/07/1914:05Ôå¨Ç"Boop*Ø¨ÙˆÙ¾20.0198:2294A®Gázú¿Hò¯ïR=https://s2.coinmarketcap.com/static/img/coins/64x64/36393.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Saito*
-Ø³Ø§ÛŒØªÙˆ20.003033:352.03Aš™™™™™(ÀHöºîR<https://s2.coinmarketcap.com/static/img/coins/64x64/9194.png
-›
-
-1404/07/1914:05Ôå¨Ç"Delabs Games*Ø¯Ù„Ø§Ø¨Ø² Ú¯ÛŒÙ…Ø²20.007989:927.17A…ëQ¸!ÀH²ïíR=https://s2.coinmarketcap.com/static/img/coins/64x64/37506.png
+1404/07/1914:19œì¨Ç"Jerry The Turtle By Matt Furie*)Ø¬Ø±ÛŒ Ø¯ ØªØ±ØªÙ„ Ø¨Ø§ÛŒ Ù…Øª ÙÛŒÙˆØ±ÛŒ2
+0.00009300:10.77A…ëQ¸ÀH¢×‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/35817.png
 ™
 
-1404/07/1914:05Ôå¨Ç"Polaris Share*Ù¾ÙˆÙ„Ø§Ø±ÛŒØ³ Ø´ÛŒØ±20.0113:1312AìQ¸…ë%ÀHœÖíR<https://s2.coinmarketcap.com/static/img/coins/64x64/7740.png
-‚
+1404/07/1914:20Øì¨Ç"Emirex Token*Ø§Ù…ÛŒØ±Ú©Ø³ ØªÙˆÚ©Ù†20.2352:27244A¸…ëQ¸®?HŸ‡R<https://s2.coinmarketcap.com/static/img/coins/64x64/4490.png
+ˆ
 
-1404/07/1914:05Ôå¨Ç"Ren*Ø±Ù†20.006006:697.01A…ëQ¸,ÀHİ‰íR<https://s2.coinmarketcap.com/static/img/coins/64x64/2539.png
-‘
+1404/07/1914:19œì¨Ç"Swarm*
+Ø³ÙˆØ§Ø±Ù…20.1205:13964AÃõ(\Â'ÀH¢ü‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/10293.png
+ˆ
 
-1404/07/1914:06æ¨Ç"GME*Ø¬ÛŒâ€ŒØ§Ù…â€ŒØ§ÛŒ20.000868:100.76A¸…ëQ¸3ÀHåğìR=https://s2.coinmarketcap.com/static/img/coins/64x64/29241.png
-‘
+1404/07/1914:20Øì¨Ç"Colony*
+Ú©Ù„ÙˆÙ†ÛŒ20.0562:6513AHáz®G6ÀH°å‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/12785.png
+—
 
-1404/07/1914:05Ôå¨Ç"Hydranet*Ù‡Ø§ÛŒØ¯Ø±Ø§ Ù†Øª20.0325:3771Aq=
-×£ğ.ÀHíãëR=https://s2.coinmarketcap.com/static/img/coins/64x64/19689.png
-“
+1404/07/1914:19œì¨Ç"Veno Finance*ÙˆÙ†Ùˆ ÙØ§ÛŒÙ†Ù†Ø³20.0134:1547A¤p=
+×#4ÀHÌá‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/23295.png
+©
 
-1404/07/1914:05Ôå¨Ç"
-HELLO Labs*Ù‡Ù„Ùˆ Ù„Ø¨Ø²20.008118:942.07A¸…ëQ¸'ÀHê¼êR=https://s2.coinmarketcap.com/static/img/coins/64x64/22320.png
+1404/07/1914:20Øì¨Ç"Upland (SPARKLET)* Ø¢Ù¾â€ŒÙ„Ù†Ø¯ (Ø§Ø³Ù¾Ø§Ø±Ú©Ù„Øª)20.0290:3360A{®GázÀH€ƒ‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/32341.png
+…
+
+1404/07/1914:19œì¨Ç"Light*Ù„Ø§ÛŒØª20.0125:1446A…ëQ¸?ÀHçüR=https://s2.coinmarketcap.com/static/img/coins/64x64/37986.png
+ˆ
+
+1404/07/1914:19œì¨Ç"PIBBLE*Ù¾ÛŒØ¨Ù„20.000262:30.33A333333!ÀH¥õR<https://s2.coinmarketcap.com/static/img/coins/64x64/3768.png
 ª
 
-1404/07/1914:05Ôå¨Ç"Wise Monkey*ÙˆØ§ÛŒØ² Ù…Ø§Ù†Ú©ÛŒ20.0000006979878173493259:0.0810A…ëQ¸'ÀHàêR=https://s2.coinmarketcap.com/static/img/coins/64x64/34610.png
+1404/07/1914:19œì¨Ç"BioPassport Token*Ø¨Ø§ÛŒÙˆÙ¾Ø§Ø³Ù¾ÙˆØ±Øª ØªÙˆÚ©Ù†20.000753:87.28A{®Gáz%ÀH˜ªR<https://s2.coinmarketcap.com/static/img/coins/64x64/8034.png
+‹
+
+1404/07/1914:20Øì¨Ç"Midas The Minotaur20.000707:81.95Aš™™™™™ÀHßßÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/38222.png
 ¡
 
-1404/07/1914:06æ¨Ç"Purple Bitcoin*Ù¾Ø±Ù¾Ù„ Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†20.3051:35405A     €3ÀH°ÍçR=https://s2.coinmarketcap.com/static/img/coins/64x64/35396.png
-•
+1404/07/1914:19œì¨Ç"HyperGPT*Ù‡Ø§ÛŒÙ¾Ø± Ø¬ÛŒâ€ŒÙ¾ÛŒâ€ŒØªÛŒ20.007857:910.25Aö(\Âu9ÀHÁ½ÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/25419.png
+
 
-1404/07/1914:06æ¨Ç"	Housecoin*Ù‡Ø§ÙˆØ³Ú©ÙˆÛŒÙ†20.005878:682.14A      ,ÀH˜¢æR=https://s2.coinmarketcap.com/static/img/coins/64x64/36356.png
+1404/07/1914:20Øì¨Ç"Forest Protocol*ÙØ§Ø±Ø³Øª Ù¾Ø±ÙˆØªÚ©Ù„20.0773:8953AR¸…ëÑ#ÀHãˆşR=https://s2.coinmarketcap.com/static/img/coins/64x64/38237.png
+
+
+1404/07/1914:19œì¨Ç"TRUF.Network*ØªØ±Ø§Ù Ø¯Ø§Øª Ù†ØªÙˆØ±Ú©20.0154:1785Aö(\Âõ)ÀH¢ÏıR=https://s2.coinmarketcap.com/static/img/coins/64x64/33697.png
+“
+
+1404/07/1914:19œì¨Ç"	YURU COIN*ÛŒÙˆØ±Ùˆ Ú©ÙˆÛŒÙ†20.8146:94370AÂõ(\ÀH˜ŠıR=https://s2.coinmarketcap.com/static/img/coins/64x64/36963.png
+¥
+
+1404/07/1914:20Øì¨Ç"Tectonic*ØªÚ©ØªÙˆÙ†ÛŒÚ©20.00000002518699338931876:0.002918A®Gáz'ÀH·ëüR=https://s2.coinmarketcap.com/static/img/coins/64x64/16430.png
+¦
+
+1404/07/1914:19œì¨Ç"Pups (Bitcoin)*Ù¾Ø§Ù¾Ø³ (Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†)20.006443:746.39AÍÌÌÌÌ0ÀH³èüR=https://s2.coinmarketcap.com/static/img/coins/64x64/33320.png
+
+
+1404/07/1914:19œì¨Ç"Vameon*ÙˆØ§Ù…Ø¦ÙˆÙ†2
+0.00002494:2.89Aáz®Gáö¿H£ÑûR=https://s2.coinmarketcap.com/static/img/coins/64x64/33725.png
+Š
+
+1404/07/1914:20Øì¨Ç"Sovryn*Ø³Ø§ÙˆØ±ÛŒÙ†20.1059:12267AffffffÀHÆûR<https://s2.coinmarketcap.com/static/img/coins/64x64/8669.png
+š
+
+1404/07/1914:20Øì¨Ç"LeisureMeta*Ù„ÙÛŒÚ˜ÙØ± Ù…ØªØ§20.001931:223.76AR¸…ëQ&ÀHˆ¯ûR=https://s2.coinmarketcap.com/static/img/coins/64x64/20315.png
+Œ
+
+1404/07/1914:19œì¨Ç"ALTAVA*Ø¢Ù„ØªØ§ÙˆØ§20.008827:1023AÃõ(\Â+ÀHŠóöR=https://s2.coinmarketcap.com/static/img/coins/64x64/19786.png
+–
+
+1404/07/1914:19œì¨Ç"Wibegram*ÙˆØ§ÛŒØ¨ÛŒâ€ŒÚ¯Ø±Ø§Ù…20.3010:34871A¤p=
+×£ÀHúÀöR=https://s2.coinmarketcap.com/static/img/coins/64x64/33249.png
+Š
+
+1404/07/1914:19œì¨Ç"Arianee*Ø¢Ø±ÛŒØ§Ù†ÛŒ20.0571:6610Afffffæ-ÀH•´öR<https://s2.coinmarketcap.com/static/img/coins/64x64/8276.png
+
+
+1404/07/1914:19œì¨Ç"BitKan*Ø¨ÛŒØªâ€ŒÚ©Ø§Ù†20.000630:73.01A…ëQ¸…ÀHÃÂôR<https://s2.coinmarketcap.com/static/img/coins/64x64/2934.png
+
+
+1404/07/1914:19œì¨Ç"Adappter Token*Ø§Ø¯Ø§Ù¾ØªØ± ØªÙˆÚ©Ù†20.001315:152.31A\Âõ(\ÀH‘ôóR<https://s2.coinmarketcap.com/static/img/coins/64x64/8044.png
+‚
+
+1404/07/1914:19œì¨Ç"Ren*Ø±Ù†20.006102:706.90AHáz®Ç)ÀH¨ñòR<https://s2.coinmarketcap.com/static/img/coins/64x64/2539.png
+¥
+
+1404/07/1914:20Øì¨Ç"
+BTSE Token*"Ø¨ÛŒâ€ŒØªÛŒâ€ŒØ§Ø³â€ŒØ§ÛŒ ØªÙˆÚ©Ù†21.3933:161418A\Âõ(\&ÀHÒ©òR<https://s2.coinmarketcap.com/static/img/coins/64x64/5305.png
+—
+
+1404/07/1914:19œì¨Ç"Litecoin Cash*Ù„Ø§ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ú©Ø´20.007407:858.18HÛñR<https://s2.coinmarketcap.com/static/img/coins/64x64/2540.png
+
+
+1404/07/1914:19œì¨Ç"Autonomi*Ø§ÙˆØªÙˆÙ†ÙˆÙ…ÛŒ20.0443:5133A
+×£p=
+ÀHóÄñR=https://s2.coinmarketcap.com/static/img/coins/64x64/35793.png
+ƒ
+
+1404/07/1914:19œì¨Ç"AXEL*Ø§Ú©Ø³Ù„20.0213:2468A=
+×£p=ÀHÚ”ğR<https://s2.coinmarketcap.com/static/img/coins/64x64/6216.png
+‚
+
+1404/07/1914:19œì¨Ç"Boop*Ø¨ÙˆÙ¾20.0198:2291A®Gáz®÷¿HàÄïR=https://s2.coinmarketcap.com/static/img/coins/64x64/36393.png
+™
+
+1404/07/1914:19œì¨Ç"Polaris Share*Ù¾ÙˆÙ„Ø§Ø±ÛŒØ³ Ø´ÛŒØ±20.0113:1313A{®Gáz%ÀHŠÊîR<https://s2.coinmarketcap.com/static/img/coins/64x64/7740.png
+Š
+
+1404/07/1914:19œì¨Ç"Saito*
+Ø³Ø§ÛŒØªÙˆ20.003033:351.33A¤p=
+×£(ÀH›­îR<https://s2.coinmarketcap.com/static/img/coins/64x64/9194.png
+ª
+
+1404/07/1914:19œì¨Ç"FEED EVERY GORILLA*ÙÛŒØ¯ Ø§ÙˆØ±ÛŒ Ú¯ÙˆØ±ÛŒÙ„Ø§2
+0.00007077:8.20A)\Âõè0ÀHÌËíR=https://s2.coinmarketcap.com/static/img/coins/64x64/32074.png
 œ
 
-1404/07/1914:05Ôå¨Ç"Mochi (New)*Ù…ÙˆÚ†ÛŒ (Ø¬Ø¯ÛŒØ¯)2
-0.00000625:0.7259AÃõ(\Â*ÀHûúåR=https://s2.coinmarketcap.com/static/img/coins/64x64/28478.png
+1404/07/1914:19œì¨Ç"Mochi (New)*Ù…ÙˆÚ†ÛŒ (Ø¬Ø¯ÛŒØ¯)2
+0.00000638:0.7386AìQ¸…k'ÀHéêìR=https://s2.coinmarketcap.com/static/img/coins/64x64/28478.png
+›
+
+1404/07/1914:19œì¨Ç"Delabs Games*Ø¯Ù„Ø§Ø¨Ø² Ú¯ÛŒÙ…Ø²20.007961:922.36Aö(\Âu"ÀHÛËìR=https://s2.coinmarketcap.com/static/img/coins/64x64/37506.png
+‘
+
+1404/07/1914:19œì¨Ç"Hydranet*Ù‡Ø§ÛŒØ¯Ø±Ø§ Ù†Øª20.0325:3765Aáz®Gá.ÀHóâëR=https://s2.coinmarketcap.com/static/img/coins/64x64/19689.png
+
+
+1404/07/1914:19œì¨Ç"GME*Ø¬ÛŒâ€ŒØ§Ù…â€ŒØ§ÛŒ20.000863:99.97Aö(\Â54ÀH€ÏêR=https://s2.coinmarketcap.com/static/img/coins/64x64/29241.png
+ª
+
+1404/07/1914:19œì¨Ç"Wise Monkey*ÙˆØ§ÛŒØ² Ù…Ø§Ù†Ú©ÛŒ20.0000006931425733284071:0.0803Aáz®Gá(ÀHÿÌçR=https://s2.coinmarketcap.com/static/img/coins/64x64/34610.png
+•
+
+1404/07/1914:19œì¨Ç"	Housecoin*Ù‡Ø§ÙˆØ³Ú©ÙˆÛŒÙ†20.005895:682.96Affffff,ÀH–§çR=https://s2.coinmarketcap.com/static/img/coins/64x64/36356.png
+“
+
+1404/07/1914:19œì¨Ç"
+HELLO Labs*Ù‡Ù„Ùˆ Ù„Ø¨Ø²20.008045:932.01A×£p=
+W)ÀHÎ›çR=https://s2.coinmarketcap.com/static/img/coins/64x64/22320.png
+—
+
+1404/07/1914:19œì¨Ç"Space Nation*Ø§Ø³Ù¾ÛŒØ³ Ù†ÛŒØ´Ù†20.0236:2732A…ëQ¸:@H®ñåR=https://s2.coinmarketcap.com/static/img/coins/64x64/36011.png
+¡
+
+1404/07/1914:19œì¨Ç"Purple Bitcoin*Ù¾Ø±Ù¾Ù„ Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†20.3024:35037A=
+×£p=4ÀHˆ½äR=https://s2.coinmarketcap.com/static/img/coins/64x64/35396.png
 ­
 
-1404/07/1914:05Ôå¨Ç"Partisia Blockchain*"Ù¾Ø§Ø±ØªÛŒÚ˜ÛŒØ§ Ø¨Ù„Ø§Ú©â€ŒÚ†ÛŒÙ†20.0150:1735Aš™™™™ ÀHÏ¾äR=https://s2.coinmarketcap.com/static/img/coins/64x64/17072.png
+1404/07/1914:19œì¨Ç"Partisia Blockchain*"Ù¾Ø§Ø±ØªÛŒÚ˜ÛŒØ§ Ø¨Ù„Ø§Ú©â€ŒÚ†ÛŒÙ†20.0149:1732A®Gáz. ÀH¬­äR=https://s2.coinmarketcap.com/static/img/coins/64x64/17072.png
 Ê
 
-1404/07/1914:05Ôå¨Ç"Central African Republic Meme*1Ø³Ù†ØªØ±Ø§Ù„ Ø¢ÙØ±ÛŒÚ©Ù† Ø±ÛŒÙ¾Ø§Ø¨Ù„ÛŒÚ© Ù…ÛŒÙ…20.005851:678.96A¸…ëQ¸-ÀHë€äR=https://s2.coinmarketcap.com/static/img/coins/64x64/35669.png
+1404/07/1914:19œì¨Ç"Central African Republic Meme*1Ø³Ù†ØªØ±Ø§Ù„ Ø¢ÙØ±ÛŒÚ©Ù† Ø±ÛŒÙ¾Ø§Ø¨Ù„ÛŒÚ© Ù…ÛŒÙ…20.005820:674.32A…ëQ¸0ÀH¼–âR=https://s2.coinmarketcap.com/static/img/coins/64x64/35669.png
 †
 
-1404/07/1914:05Ôå¨Ç"VAIOT*
-ÙˆØ§ÛŒÙˆØª20.0149:1733A®Gáz®0ÀHÎãR<https://s2.coinmarketcap.com/static/img/coins/64x64/8479.png
+1404/07/1914:19œì¨Ç"VAIOT*
+ÙˆØ§ÛŒÙˆØª20.0149:1725A3333331ÀH˜óáR<https://s2.coinmarketcap.com/static/img/coins/64x64/8479.png
 ”
 
-1404/07/1914:05Ôå¨Ç"Pain (paintoken.com)*Ù¾ÛŒÙ†21.1557:134119A®Gáz”.ÀHõ×àR=https://s2.coinmarketcap.com/static/img/coins/64x64/35609.png
-‘
-
-1404/07/1914:05Ôå¨Ç"Rizzmas*Ø±ÛŒØ²Ù…Ø§Ø³2
-0.00001161:1.3470A…ëQ¸.ÀHÂ©àR=https://s2.coinmarketcap.com/static/img/coins/64x64/34271.png
+1404/07/1914:19œì¨Ç"Pain (paintoken.com)*Ù¾ÛŒÙ†21.1543:133734A×£p=
+×/ÀHñ¢àR=https://s2.coinmarketcap.com/static/img/coins/64x64/35609.png
 ˜
 
-1404/07/1914:05Ôå¨Ç"Hacken Token*Ù‡Ø§Ú©Ù† ØªÙˆÚ©Ù†20.006917:802.68Aq=
-×£ğ1ÀHéæßR<https://s2.coinmarketcap.com/static/img/coins/64x64/5583.png
-ƒ
-
-1404/07/1914:05Ôå¨Ç"	Priceless20.005739:665.99Aq=
-×£ğ0ÀHÃ¢ŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/38516.png
-¨
-
-1404/07/1914:06æ¨Ç"Symbiosis Finance*Ø³ÛŒÙ…Ø¨ÛŒÙˆØ³ÛŒØ³ ÙØ§ÛŒÙ†Ù†Ø³20.0703:8164A=
-×£p=%ÀHëƒŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/15084.png
-
-
-1404/07/1914:05Ôå¨Ç"MIA*Ø§Ù…â€ŒØ¢ÛŒâ€ŒØ§ÙÛŒ20.0513:5954A{®Gáz%ÀH»ÃÜR=https://s2.coinmarketcap.com/static/img/coins/64x64/36535.png
-
-
-1404/07/1914:05Ôå¨Ç"Clore.ai*Ú©Ù„ÙˆØ± Ø¯Ø§Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.009517:1104A¸…ëQ¸4ÀH¡ÿÛR=https://s2.coinmarketcap.com/static/img/coins/64x64/26497.png
-™
-
-1404/07/1914:05Ôå¨Ç"Xeleb Protocol*Ø²Ù„Ø¨ Ù¾Ø±ÙˆØªÚ©Ù„20.0526:6103A=
-×£p=ÀHïĞÛR=https://s2.coinmarketcap.com/static/img/coins/64x64/37623.png
-
-
-1404/07/1914:05Ôå¨Ç"Hosico*Ù‡ÙˆØ³ÛŒÚ©Ùˆ20.005690:660.34A…ëQ¸^:ÀHù¥ÛR=https://s2.coinmarketcap.com/static/img/coins/64x64/36355.png
-“
-
-1404/07/1914:05Ôå¨Ç"
-Atlas Navi*Ø§Ø·Ù„Ø³ Ù†Ø§ÙˆÛŒ20.0351:4069A®Gáz#ÀH¾„ÚR=https://s2.coinmarketcap.com/static/img/coins/64x64/22892.png
-•
-
-1404/07/1914:06æ¨Ç"Ref Finance*Ø±Ù ÙØ§ÛŒÙ†Ù†Ø³20.1244:14435Aö(\Âõ2ÀH¹ÂÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/11809.png
-Œ
-
-1404/07/1914:06æ¨Ç"Stride*Ø§Ø³ØªØ±Ø§ÛŒØ¯20.0641:7439A33333³)ÀHùÎ×R=https://s2.coinmarketcap.com/static/img/coins/64x64/21781.png
-”
-
-1404/07/1914:06æ¨Ç"CEEK VR*Ø³ÛŒÚ© ÙˆÛŒâ€ŒØ¢Ø±20.006969:808.73A)\Âõ¨-ÀH»ÚÖR<https://s2.coinmarketcap.com/static/img/coins/64x64/2856.png
-—
-
-1404/07/1914:05Ôå¨Ç"Space Nation*Ø§Ø³Ù¾ÛŒØ³ Ù†ÛŒØ´Ù†20.0226:2621AÍÌÌÌÌŒ5@HúÖÖR=https://s2.coinmarketcap.com/static/img/coins/64x64/36011.png
-
-
-1404/07/1914:06æ¨Ç"Shrapnel*Ø´Ø±Ø§Ù¾Ù†Ù„20.002743:318.28Aáz®Gá3ÀHâöÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/28363.png
-
-
-1404/07/1914:05Ôå¨Ç"Stonks*Ø§Ø³ØªÙˆÙ†Ú©Ø³29.63:1118004A¤p=
-×#/ÀHÄ×ÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/10332.png
-ñ
-
-1404/07/1914:06æ¨Ç"2iShares MSCI Emerging Markets Tokenized ETF (Ondo)*NETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢ÛŒâ€ŒØ´ÛŒØ±Ø² MSCI Ø¨Ø§Ø²Ø§Ø±Ù‡Ø§ÛŒ Ù†ÙˆØ¸Ù‡ÙˆØ±254.67:6344218H‹´ÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/38033.png
-…
-
-1404/07/1914:06æ¨Ç"Soil*Ø³ÙˆÛŒÙ„20.1286:14920A=
-×£p=ÀHË©ÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/28220.png
-
-
-1404/07/1914:05Ôå¨Ç"Beam*Ø¨ÛŒÙ…20.0370:4291A®Gázn2ÀHÿ˜ÔR<https://s2.coinmarketcap.com/static/img/coins/64x64/3702.png
-™
-
-1404/07/1914:05Ôå¨Ç"IMPT*Ø§ÛŒâ€ŒØ§Ù…â€ŒÙ¾ÛŒâ€ŒØªÛŒ20.004028:467.42AÍÌÌÌÌL"ÀH÷¦ÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/22985.png
-ƒ
-
-1404/07/1914:05Ôå¨Ç"WHALE*ÙˆÛŒÙ„20.5555:64469AÂõ(\'ÀHÄˆÓR<https://s2.coinmarketcap.com/static/img/coins/64x64/6679.png
-²
-
-1404/07/1914:05Ôå¨Ç"Gochujangcoin*Ú¯ÙˆÚ†ÙˆØ¬Ù†Ú¯â€ŒÚ©ÙˆÛŒÙ†20.0000004968311206662945:0.0577AR¸…ëQÀHûûÒR=https://s2.coinmarketcap.com/static/img/coins/64x64/32772.png
-¨
-
-1404/07/1914:05Ôå¨Ç"CatCoin*Ú©Øªâ€ŒÚ©ÙˆÛŒÙ†20.000000000110848424441285:
-0.00001300Afffffæ2ÀH•¤ÒR=https://s2.coinmarketcap.com/static/img/coins/64x64/19856.png
- 
-
-1404/07/1914:05Ôå¨Ç"Spheron Network*Ø§Ø³ÙÛŒØ±ÙˆÙ† Ù†ØªÙˆØ±Ú©20.0259:3009A
-×£p=
-,ÀHêÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/37537.png
-
-
-1404/07/1914:05Ôå¨Ç"	Cellframe*Ø³Ù„â€ŒÙØ±ÛŒÙ…20.1931:22405A¤p=
-×#0ÀHË€ÑR<https://s2.coinmarketcap.com/static/img/coins/64x64/8992.png
-”
-
-1404/07/1914:05Ôå¨Ç"	ChainSwap*Ú†ÛŒÙ† Ø³ÙˆØ§Ù¾20.005956:691.20AìQ¸…ëÀHı€ĞR=https://s2.coinmarketcap.com/static/img/coins/64x64/29780.png
-
-
-1404/07/1914:05Ôå¨Ç"ROA CORE*Ø±ÙˆØ¢ Ú©ÙˆØ±20.008839:1026AÍÌÌÌÌÌ*ÀHí÷ÍR=https://s2.coinmarketcap.com/static/img/coins/64x64/23799.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"Nestree*
-Ù†Ø³ØªØ±ÛŒ20.001826:211.94Aáz®GáÀHâéÍR<https://s2.coinmarketcap.com/static/img/coins/64x64/4467.png
-‰
-
-1404/07/1914:05Ôå¨Ç"OVR*Ø§Ùˆ ÙˆÛŒ Ø¢Ø±20.1072:12442A®Gáz”+ÀH‹ØÍR<https://s2.coinmarketcap.com/static/img/coins/64x64/8144.png
-‡
-
-1404/07/1914:06æ¨Ç"Tarot*
-ØªØ§Ø±ÙˆØª20.0803:9324A®Gáz®(ÀHÈüËR=https://s2.coinmarketcap.com/static/img/coins/64x64/11409.png
-
-
-1404/07/1914:05Ôå¨Ç"Freedom Dollar*ÙØ±ÛŒØ¯Ø§Ù… Ø¯Ù„Ø§Ø±21.0013:116203A
-×£p=
-Ç?HƒÊR=https://s2.coinmarketcap.com/static/img/coins/64x64/37320.png
-¡
-
-1404/07/1914:05Ôå¨Ç"Strawberry AI*Ø§Ø³ØªØ±Ø§Ø¨Ø±ÛŒ Ø§ÛŒâ€ŒØ¢ÛŒ20.0540:6264Aš™™™™Ù=ÀHØ»ÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/32915.png
-š
-
-1404/07/1914:05Ôå¨Ç"Common Wealth*Ú©Ø§Ù…ÙˆÙ† ÙˆÙ„Ø«20.006086:706.25AR¸…ëQè?HÏƒÇR=https://s2.coinmarketcap.com/static/img/coins/64x64/31440.png
-½
-
-1404/07/1914:05Ôå¨Ç"BlackFort Exchange Network*'Ø¨Ù„Ú© ÙÙˆØ±Øª Ø§Ú©Ø³Ú†Ù†Ø¬ Ù†ØªÙˆØ±Ú©20.001192:138.37A…ëQ¸ÀH®ÜÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/25963.png
-‹
-
-1404/07/1914:06æ¨Ç"Fluence*ÙÙ„ÙˆØ¦Ù†Ø³20.0245:2845Aáz®Gá'ÀHü®ÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/30097.png
-†
-
-1404/07/1914:05Ôå¨Ç"FANC*ÙÙ†Ø³20.003553:412.32A…ëQ¸…&ÀH×¡ÃR=https://s2.coinmarketcap.com/static/img/coins/64x64/17450.png
-œ
-
-1404/07/1914:05Ôå¨Ç"GT Protocol*Ø¬ÛŒâ€ŒØªÛŒ Ù¾Ø±ÙˆØªÚ©Ù„20.0876:10170A®Gáz®#ÀHµŒÃR=https://s2.coinmarketcap.com/static/img/coins/64x64/16711.png
-Å
-
-1404/07/1914:05Ôå¨Ç"!Alphabet tokenized stock (xStock)*(Ø§Ù„ÙØ§Ø¨Øª ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2234.06:27162538AR¸…ëQÀHÏìÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/37013.png
+1404/07/1914:19œì¨Ç"Hacken Token*Ù‡Ø§Ú©Ù† ØªÙˆÚ©Ù†20.006923:802.00AR¸…ëÑ1ÀH¢àR<https://s2.coinmarketcap.com/static/img/coins/64x64/5583.png
 ‘
 
-1404/07/1914:05Ôå¨Ç"MOO DENG*Ù…Ùˆ Ø¯Ù†Ú¯2
-0.00001292:1.4991A®Gázn2ÀH“‰ÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/33076.png
-±
+1404/07/1914:19œì¨Ç"Rizzmas*Ø±ÛŒØ²Ù…Ø§Ø³2
+0.00001157:1.3401A¤p=
+×#.ÀH­ßR=https://s2.coinmarketcap.com/static/img/coins/64x64/34271.png
+
 
-1404/07/1914:05Ôå¨Ç"AGI ALPHA AGENT*&Ø§ÛŒâ€ŒØ¬ÛŒâ€ŒØ¢ÛŒ Ø¢Ù„ÙØ§ Ø§ÛŒØ¬Ù†Øª20.005274:612.01AR¸…ëÑ/ÀHÁğÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/35482.png
+1404/07/1914:19œì¨Ç"MIA*Ø§Ù…â€ŒØ¢ÛŒâ€ŒØ§ÙÛŒ20.0513:5948AÃõ(\B%ÀHååÜR=https://s2.coinmarketcap.com/static/img/coins/64x64/36535.png
 ~
 
-1404/07/1914:05Ôå¨Ç"Dust20.005273:611.91A®GázÔ<ÀHŠêÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/38461.png
-’
-
-1404/07/1914:05Ôå¨Ç"Persistence*Ù¾Ø±Ø³ÛŒØ³ØªÙ†Ø³20.0247:2864Aq=
-×£p/ÀH˜®ÁR<https://s2.coinmarketcap.com/static/img/coins/64x64/7281.png
-‡
-
-1404/07/1914:06æ¨Ç"Grok*Ú¯Ø±ÙˆÚ©20.000831:96.43A¸…ëQ¸0ÀHÑÆÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/28394.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Komodo*Ú©ÙˆÙ…ÙˆØ¯Ùˆ20.0385:4471AÍÌÌÌÌÌÀH–Õ¿R<https://s2.coinmarketcap.com/static/img/coins/64x64/1521.png
-©
-
-1404/07/1914:05Ôå¨Ç"Artyfact Metaverse*Ø¢Ø±ØªÛŒâ€ŒÙÚ©Øª Ù…ØªØ§ÙˆØ±Ø³20.2685:31163Aáz®Ga-ÀH„£¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/23751.png
-ª
-
-1404/07/1914:05Ôå¨Ç"
-Jesus Coin*Ø¬ÛŒØ²Ø³ Ú©ÙˆÛŒÙ†20.00000003442341068667004:0.003995A®GázÔ2ÀHÈ“¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/24747.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Minima*Ù…ÛŒÙ†ÛŒÙ…Ø§20.0127:1480A=
-×£p=ö¿H—­¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/20117.png
-
-
-1404/07/1914:05Ôå¨Ç"Validity*ÙˆÙ„ÛŒØ¯ÛŒØªÛŒ20.9988:115907Aš™™™™™#@HÌú¶R<https://s2.coinmarketcap.com/static/img/coins/64x64/1154.png
-š
-
-1404/07/1914:05Ôå¨Ç"Sogni AI*Ø³ÙˆÚ¯Ù†ÛŒ Ø§ÛŒâ€ŒØ¢ÛŒ20.004198:487.22A¸…ëQ¸#ÀHåÑ¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/35621.png
-³
-
-1404/07/1914:05Ôå¨Ç"VNX Swiss Franc**ÙˆÛŒâ€ŒØ§Ù†â€ŒØ§Ú©Ø³ Ø³ÙˆØ¦ÛŒØ³ ÙØ±Ø§Ù†Ú©21.2454:144532AHáz®GÑ?H¹¯µR=https://s2.coinmarketcap.com/static/img/coins/64x64/24130.png
-
-
-1404/07/1914:06æ¨Ç"Gamium*Ú¯Ø§Ù…ÛŒÙˆÙ…20.000103:12.00AìQ¸…ë"ÀH›µR=https://s2.coinmarketcap.com/static/img/coins/64x64/14304.png
-‘
-
-1404/07/1914:05Ôå¨Ç"Metahero*Ù…Øª Ø§Ù‡Ø±Ùˆ20.000993:115.20AR¸…ëÑ$ÀHµŞ´R=https://s2.coinmarketcap.com/static/img/coins/64x64/10778.png
-‘
-
-1404/07/1914:05Ôå¨Ç"PussFi*Ù¾Ø§Ø³â€ŒÙØ§ÛŒ20.005729:664.79AffffffÀHí¢³R=https://s2.coinmarketcap.com/static/img/coins/64x64/33165.png
-ƒ
-
-1404/07/1914:05Ôå¨Ç"WELF*ÙˆÙ„Ù20.4688:54407Aq=
-×£pÀHìÖ²R=https://s2.coinmarketcap.com/static/img/coins/64x64/34082.png
-Š
-
-1404/07/1914:06æ¨Ç"Pluton*Ù¾Ù„ÙˆØªÙˆÙ†20.3295:38243A\Âõ(\1ÀH¡Ü±R<https://s2.coinmarketcap.com/static/img/coins/64x64/1392.png
+1404/07/1914:19œì¨Ç"Dust20.005706:661.06AìQ¸…«6ÀHÿ¡ÜR=https://s2.coinmarketcap.com/static/img/coins/64x64/38461.png
 
 
-1404/07/1914:05Ôå¨Ç"The Root Network*Ø±ÙˆØª Ù†ØªÙˆØ±Ú©20.001293:150.09AÃõ(\Â*ÀHæÚ±R=https://s2.coinmarketcap.com/static/img/coins/64x64/28479.png
+1404/07/1914:19œì¨Ç"Clore.ai*Ú©Ù„ÙˆØ± Ø¯Ø§Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.009517:1103A)\Âõ¨4ÀHÔ€ÜR=https://s2.coinmarketcap.com/static/img/coins/64x64/26497.png
+™
+
+1404/07/1914:19œì¨Ç"Xeleb Protocol*Ø²Ù„Ø¨ Ù¾Ø±ÙˆØªÚ©Ù„20.0526:6090A=
+×£p=ÀHâ½ÛR=https://s2.coinmarketcap.com/static/img/coins/64x64/37623.png
 ¨
 
-1404/07/1914:05Ôå¨Ç"Trias Token (new)*ØªØ±Ø§ÛŒØ³ ØªÙˆÚ©Ù† (Ø¬Ø¯ÛŒØ¯)21.0009:116151A×£p=
-×!ÀH³¸±R<https://s2.coinmarketcap.com/static/img/coins/64x64/8936.png
-ˆ
+1404/07/1914:19œì¨Ç"Symbiosis Finance*Ø³ÛŒÙ…Ø¨ÛŒÙˆØ³ÛŒØ³ ÙØ§ÛŒÙ†Ù†Ø³20.0696:8068A¤p=
+×£&ÀHÜÂÚR=https://s2.coinmarketcap.com/static/img/coins/64x64/15084.png
+ƒ
 
-1404/07/1914:05Ôå¨Ç"Truth*ØªØ±ÙˆØ«20.000411:47.65A33333³"ÀH¼°R=https://s2.coinmarketcap.com/static/img/coins/64x64/35829.png
-«
+1404/07/1914:19œì¨Ç"	Priceless20.005673:657.19A     €'ÀHÆÚR=https://s2.coinmarketcap.com/static/img/coins/64x64/38516.png
+
 
-1404/07/1914:05Ôå¨Ç"	Kishu Inu*Ú©ÛŒØ´Ùˆ Ø§ÛŒÙ†Ùˆ20.000000000053524505449562:
-0.00000600A=
-×£p=,ÀHç¡°R<https://s2.coinmarketcap.com/static/img/coins/64x64/9386.png
-¥
+1404/07/1914:20Øì¨Ç"Hosico*Ù‡ÙˆØ³ÛŒÚ©Ùˆ20.005667:656.54A®Gáz®:ÀH¤ñÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/36355.png
+•
 
-1404/07/1914:05Ôå¨Ç"RocketX exchange*Ø±Ø§Ú©Øª Ø§ÛŒÚ©Ø³ Ø§Ú©Ø³Ú†Ù†Ø¬20.0529:6142A{®Gáz)ÀHêÒ®R<https://s2.coinmarketcap.com/static/img/coins/64x64/9176.png
-®
+1404/07/1914:19œì¨Ç"Ref Finance*Ø±Ù ÙØ§ÛŒÙ†Ù†Ø³20.1244:14411Aö(\Âõ2ÀH¹ÂÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/11809.png
+“
 
-1404/07/1914:05Ôå¨Ç"SwarmNode.ai*&Ø³ÙˆØ§Ø±Ù…â€ŒÙ†ÙˆØ¯ Ø¯Ø§Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.004951:574.60A¸…ëQ81ÀHÎ˜®R=https://s2.coinmarketcap.com/static/img/coins/64x64/35064.png
+1404/07/1914:19œì¨Ç"
+Atlas Navi*Ø§Ø·Ù„Ø³ Ù†Ø§ÙˆÛŒ20.0350:4056AHáz®G$ÀH¹ÂÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/22892.png
 Œ
 
-1404/07/1914:05Ôå¨Ç"Vertcoin*ÙˆØ±Øª Ú©ÙˆÛŒÙ†20.0676:7847A…ëQ¸ÀH¶Ì­R:https://s2.coinmarketcap.com/static/img/coins/64x64/99.png
-›
+1404/07/1914:19œì¨Ç"Stride*Ø§Ø³ØªØ±Ø§ÛŒØ¯20.0640:7414A      *ÀHæƒ×R=https://s2.coinmarketcap.com/static/img/coins/64x64/21781.png
+”
 
-1404/07/1914:05Ôå¨Ç"Shido Network*Ø´ÛŒØ¯Ùˆ Ù†ØªÙˆØ±Ú©20.000261:30.26A¤p=
-×#)ÀH×¦­R=https://s2.coinmarketcap.com/static/img/coins/64x64/34836.png
-‘
+1404/07/1914:19œì¨Ç"CEEK VR*Ø³ÛŒÚ© ÙˆÛŒâ€ŒØ¢Ø±20.006941:804.18A=
+×£p½-ÀHı­ÕR<https://s2.coinmarketcap.com/static/img/coins/64x64/2856.png
+
 
-1404/07/1914:05Ôå¨Ç"Funtico*ÙØ§Ù†ØªÛŒÚ©Ùˆ20.002307:267.79AHáz®G	ÀH²¥­R=https://s2.coinmarketcap.com/static/img/coins/64x64/30767.png
+1404/07/1914:19œì¨Ç"Beam*Ø¨ÛŒÙ…20.0371:4296A33333ó1ÀHØ™ÕR<https://s2.coinmarketcap.com/static/img/coins/64x64/3702.png
+ñ
+
+1404/07/1914:19œì¨Ç"2iShares MSCI Emerging Markets Tokenized ETF (Ondo)*NETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢ÛŒâ€ŒØ´ÛŒØ±Ø² MSCI Ø¨Ø§Ø²Ø§Ø±Ù‡Ø§ÛŒ Ù†ÙˆØ¸Ù‡ÙˆØ±254.67:6333448H‹´ÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/38033.png
+¨
+
+1404/07/1914:19œì¨Ç"CatCoin*Ú©Øªâ€ŒÚ©ÙˆÛŒÙ†20.000000000111398644039833:
+0.00001300A)\Âõ(2ÀHŒûÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/19856.png
+…
+
+1404/07/1914:19œì¨Ç"Soil*Ø³ÙˆÛŒÙ„20.1283:14864AÃõ(\ÂÀHŠÑÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/28220.png
+ƒ
+
+1404/07/1914:19œì¨Ç"WHALE*ÙˆÛŒÙ„20.5555:64359AÂõ(\'ÀHÄˆÓR<https://s2.coinmarketcap.com/static/img/coins/64x64/6679.png
 
 
-1404/07/1914:05Ôå¨Ç"XL1*Ø§Ú©Ø³â€ŒØ§Ù„Û±20.000859:99.67AÃõ(\B)ÀHôî¬R=https://s2.coinmarketcap.com/static/img/coins/64x64/38234.png
-
-
-1404/07/1914:05Ôå¨Ç"Taraxa*ØªØ§Ø±Ø§Ú©Ø³Ø§20.000867:100.66A…ëQ¸)ÀHóß¬R<https://s2.coinmarketcap.com/static/img/coins/64x64/8715.png
-—
-
-1404/07/1914:05Ôå¨Ç"	Ledger AI*Ù„Ø¬Ø± Ø§ÛŒâ€ŒØ¢ÛŒ20.002562:297.36A33333³(ÀH…˜¬R=https://s2.coinmarketcap.com/static/img/coins/64x64/32223.png
-¬
-
-1404/07/1914:05Ôå¨Ç"Guild of Guardians*Ú¯ÛŒÙ„Ø¯ Ø¢Ù Ú¯Ø§Ø±Ø¯ÛŒØ§Ù†Ø²20.006109:708.97Aq=
-×£ğ)ÀHæ¬ªR=https://s2.coinmarketcap.com/static/img/coins/64x64/10630.png
+1404/07/1914:19œì¨Ç"Stonks*Ø§Ø³ØªÙˆÙ†Ú©Ø³29.56:1107533Aö(\Â50ÀHÊ‡ÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/10332.png
  
 
-1404/07/1914:05Ôå¨Ç"Karate Combat*Ú©Ø§Ø±Ø§ØªÙ‡ Ú©Ø§Ù…Ø¨Øª2
-0.00007327:8.50AÃõ(\3ÀHÕ†ªR=https://s2.coinmarketcap.com/static/img/coins/64x64/25224.png
-¦
-
-1404/07/1914:06æ¨Ç"	ABBC Coin*"Ø§ÛŒâ€ŒØ¨ÛŒâ€ŒØ¨ÛŒâ€ŒØ³ÛŒ Ú©ÙˆÛŒÙ†20.005394:625.97A…ëQ¸ÀHò…ªR<https://s2.coinmarketcap.com/static/img/coins/64x64/3437.png
-œ
-
-1404/07/1914:05Ôå¨Ç"Hoge Finance*Ù‡ÙˆØ¬ ÙØ§ÛŒÙ†Ù†Ø³2
-0.00001232:1.4295A     €*ÀHóá§R<https://s2.coinmarketcap.com/static/img/coins/64x64/8438.png
-„
-
-1404/07/1914:05Ôå¨Ç"Reef*Ø±ÛŒÙ20.000230:26.72AHáz®G*ÀH¤ª§R<https://s2.coinmarketcap.com/static/img/coins/64x64/6951.png
-
-
-1404/07/1914:05Ôå¨Ç"TriumphX*ØªØ±ÛŒÙˆÙ…Ù Ø§ÛŒÚ©Ø³20.000944:109.50H¥ş¦R<https://s2.coinmarketcap.com/static/img/coins/64x64/6801.png
-«
-
-1404/07/1914:05Ôå¨Ç"LOBOâ€¢THEâ€¢WOLFâ€¢PUP*Ù„ÙˆØ¨Ùˆ Ø¯ ÙˆÙ„Ù Ù¾Ø§Ù¾20.000276:32.01A×£p=
-—2ÀHÔÛ¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/31051.png
-˜
-
-1404/07/1914:06æ¨Ç"Mother Iggy*Ù…Ø§Ø¯Ø± Ø§ÛŒÚ¯ÛŒ20.004883:566.68A×£p=
-W8ÀH’ô¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/31510.png
-z
-
-1404/07/1914:06æ¨Ç"TMX29.26:1074726A)\Âõ( ÀHæĞ¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/38480.png
-‘
-
-1404/07/1914:05Ôå¨Ç"Silencio*Ø³ÛŒÙ„Ù†Ø³ÛŒÙˆ20.000275:31.88A=
-×£p½&ÀHÙœ¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/35433.png
-’
-
-1404/07/1914:06æ¨Ç"
-Ethervista*Ø§ØªØ±ÙˆÛŒØ³ØªØ§25.08:589326A®GázT2ÀHºÊ£R=https://s2.coinmarketcap.com/static/img/coins/64x64/32943.png
-’
-
-1404/07/1914:05Ôå¨Ç"	Not Pixel*Ù†Ø§Øª Ù¾ÛŒÚ©Ø³Ù„20.0268:3105A®Gáz®2ÀHÅû¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/35392.png
-©
-
-1404/07/1914:05Ôå¨Ç"Graphlinq Protocol* Ú¯Ø±Ø§Ùâ€ŒÙ„ÛŒÙ†Ù‚ Ù¾Ø±ÙˆØªÚ©Ù„20.0139:1617A…ëQ¸…)ÀHÌˆ¡R<https://s2.coinmarketcap.com/static/img/coins/64x64/9029.png
-˜
-
-1404/07/1914:05Ôå¨Ç"Creta World*Ú©Ø±ØªØ§ ÙˆØ±Ù„Ø¯20.003220:373.70AR¸…ëQ ÀH™ R=https://s2.coinmarketcap.com/static/img/coins/64x64/23351.png
-ª
-
-1404/07/1914:06æ¨Ç"Worldwide USD*#ÙˆØ±Ù„Ø¯ÙˆØ§ÛŒØ¯ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0016:116237A¤p=
-×£À?H•áŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/29318.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Matchain*
-Ù…ØªÚ†ÛŒÙ†20.5208:60438A…ëQ¸…$@Hø€ŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/36397.png
-š
-
-1404/07/1914:05Ôå¨Ç"BitForex Token*Ø¨ÛŒØª ÙØ§Ø±Ú©Ø³ ØªÙˆÚ©Ù†20.001095:127.02HÅR<https://s2.coinmarketcap.com/static/img/coins/64x64/4283.png
-
-
-1404/07/1914:06æ¨Ç"KiloEx*Ú©ÛŒÙ„Ùˆ Ø§Ú©Ø³20.0222:2572Aáz®Ga3ÀHË¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/36053.png
-¤
-
-1404/07/1914:06æ¨Ç"Dvision Network*Ø¯ÛŒâ€ŒÙˆÛŒÚ˜Ù† Ù†ØªÙˆØ±Ú©20.004691:544.36A…ëQ¸…)ÀHŠ¦R<https://s2.coinmarketcap.com/static/img/coins/64x64/7590.png
-‘
-
-1404/07/1914:05Ôå¨Ç"	JoJoWorld*Ø¬ÙˆØ¬ÙˆÙˆØ±Ù„Ø¯20.0419:4858A®Gáz1ÀH¸”R=https://s2.coinmarketcap.com/static/img/coins/64x64/38402.png
-’
-
-1404/07/1914:06æ¨Ç"LinqAI*Ù„ÛŒÙ†Ù‚ Ø§ÛŒâ€ŒØ¢ÛŒ20.0161:1873A=
-×£p½.ÀH…R=https://s2.coinmarketcap.com/static/img/coins/64x64/30177.png
-š
-
-1404/07/1914:05Ôå¨Ç"Cycle Network*Ø³Ø§ÛŒÚ©Ù„ Ù†ØªÙˆØ±Ú©20.0305:3535Afffffæ<ÀH‚áR=https://s2.coinmarketcap.com/static/img/coins/64x64/36962.png
-§
-
-1404/07/1914:05Ôå¨Ç"DogeBonk*Ø¯ÙˆØ¬ Ø¨ÙˆÙ†Ú©20.000000007999520983964012:0.000928A¸…ëQ8&ÀHæĞœR=https://s2.coinmarketcap.com/static/img/coins/64x64/12859.png
-¬
-
-1404/07/1914:06æ¨Ç"BILLIONâ€¢DOLLARâ€¢CAT*Ø¨ÛŒÙ„ÛŒÙˆÙ† Ø¯Ø§Ù„Ø± Ú©Øª20.004661:540.90A®Gázn:ÀH¿½œR=https://s2.coinmarketcap.com/static/img/coins/64x64/31668.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Hoppy*Ù‡Ø§Ù¾ÛŒ2
-0.00001106:1.2830A\Âõ(œ1ÀH¢ï›R=https://s2.coinmarketcap.com/static/img/coins/64x64/30859.png
-—
-
-1404/07/1914:05Ôå¨Ç"RHEA Finance*Ø±ÛŒØ§ ÙØ§ÛŒÙ†Ù†Ø³20.0232:2698Aq=
-×£p5ÀHºä›R=https://s2.coinmarketcap.com/static/img/coins/64x64/37529.png
-´
-
-1404/07/1914:05Ôå¨Ç"OpenxAI Network*,Ø§ÙˆÙ¾Ù†â€ŒØ§ÛŒÚ©Ø³â€ŒØ§ÛŒâ€ŒØ¢ÛŒ Ù†ØªÙˆØ±Ú©20.4647:53928Aáz®Gá ÀHõÛ›R=https://s2.coinmarketcap.com/static/img/coins/64x64/38368.png
-•
-
-1404/07/1914:05Ôå¨Ç"Nexa*Ù†Ú©Ø³Ø§20.0000007930739523733:0.0920A…ëQ¸#ÀHÇÑ›R=https://s2.coinmarketcap.com/static/img/coins/64x64/23380.png
-“
-
-1404/07/1914:05Ôå¨Ç"ZTX*Ø²ÛŒâ€ŒØªÛŒâ€ŒØ§Ú©Ø³20.001101:127.74A¤p=
-×#4ÀHÃÀšR=https://s2.coinmarketcap.com/static/img/coins/64x64/28249.png
-
-
-1404/07/1914:06æ¨Ç"Moonveil*Ù…ÙˆÙ†â€ŒÙˆÛŒÙ„20.0255:2960Aö(\Âõ.ÀHõ˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/36944.png
-¨
-
-1404/07/1914:05Ôå¨Ç"QuadrantProtocol*Ú©ÙˆØ§Ø¯Ø±Ø§Ù†Øª Ù¾Ø±ÙˆØªÚ©Ù„20.004571:530.47A{®Gáú(ÀHÅÿ–R<https://s2.coinmarketcap.com/static/img/coins/64x64/3625.png
-‘
-
-1404/07/1914:06æ¨Ç"Lion Cat*Ù„Ø§ÛŒÙˆÙ† Ú©Øª20.009198:1067A     €-ÀHİ»•R=https://s2.coinmarketcap.com/static/img/coins/64x64/35867.png
-ƒ
-
-1404/07/1914:05Ôå¨Ç"MAGA*Ù…Ú¯Ø§20.1033:11987A¤p=
-×£*ÀHÊ±•R=https://s2.coinmarketcap.com/static/img/coins/64x64/27872.png
-•
-
-1404/07/1914:05Ôå¨Ç"Bytecoin*Ø¨Ø§ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†2
-0.00002450:2.84A¸…ëQ¸ÀH¢¡“R;https://s2.coinmarketcap.com/static/img/coins/64x64/372.png
-¨
-
-1404/07/1914:06æ¨Ç"KLAYswap Protocol* Ú©Ù„ÙÛŒâ€ŒØ³ÙˆØ§Ù¾ Ù¾Ø±ÙˆØªÚ©Ù„20.0565:6553A…ëQ¸…ÀH¼¯’R<https://s2.coinmarketcap.com/static/img/coins/64x64/8296.png
-›
-
-1404/07/1914:05Ôå¨Ç"Alliance Games*Ø§Ù„ÛŒØ§Ù†Ø³ Ú¯ÛŒÙ…Ø²20.0123:1428A¤p=
-×³T@H¶–’R=https://s2.coinmarketcap.com/static/img/coins/64x64/17947.png
+1404/07/1914:19œì¨Ç"Spheron Network*Ø§Ø³ÙÛŒØ±ÙˆÙ† Ù†ØªÙˆØ±Ú©20.0260:3009A¸…ëQ¸+ÀH¥ÁÒR=https://s2.coinmarketcap.com/static/img/coins/64x64/37537.png
 ™
 
-1404/07/1914:06æ¨Ç"Shido (new)*Ø´ÛŒØ¯Ùˆ (Ø¬Ø¯ÛŒØ¯)20.000251:29.10A333333ÀHÆçR=https://s2.coinmarketcap.com/static/img/coins/64x64/28211.png
-
-
-1404/07/1914:06æ¨Ç"AirSwap*Ø§ÛŒØ± Ø³ÙˆØ§Ù¾20.0256:2973AÍÌÌÌÌL'ÀH„åR<https://s2.coinmarketcap.com/static/img/coins/64x64/2058.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Rally*Ø±Ø§Ù„ÛŒ20.000843:97.86A)\Âõ( ÀHŒÒR<https://s2.coinmarketcap.com/static/img/coins/64x64/8075.png
-«
-
-1404/07/1914:06æ¨Ç"
-PornRocket*Ù¾ÙˆØ±Ù† Ø±Ø§Ú©Øª20.000000011542340447086366:0.001339AR¸…ëQ$ÀH£¸R=https://s2.coinmarketcap.com/static/img/coins/64x64/10165.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"TOWER*ØªØ§ÙˆØ±20.001106:128.40A
-×£p=
-ÀHæú‹R<https://s2.coinmarketcap.com/static/img/coins/64x64/8620.png
-°
-
-1404/07/1914:05Ôå¨Ç"SMARDEX USDN**Ø§Ø³Ù…Ø§Ø±Ø¯Ú©Ø³ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒâ€ŒØ§Ù†20.9966:115655Aq=
-×£pÍ¿H¯Á‹R=https://s2.coinmarketcap.com/static/img/coins/64x64/35672.png
-¢
-
-1404/07/1914:05Ôå¨Ç"RyuJin*Ø±ÛŒÙˆØ¬ÛŒÙ†20.000000004529914316490532:0.000526A¤p=
-×# ÀHÍ¾ŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/31606.png
-ˆ
-
-1404/07/1914:06æ¨Ç"TEMCO*ØªÙ…Ú©Ùˆ20.001098:127.37Affffff/ÀHˆ•ŠR<https://s2.coinmarketcap.com/static/img/coins/64x64/3722.png
-–
-
-1404/07/1914:05Ôå¨Ç"Nya*Ù†ÛŒØ§20.00000012375998335226592:0.0144A333333(ÀH‚“ŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/33011.png
-¡
-
-1404/07/1914:05Ôå¨Ç"Neiro Ethereum*Ù†ÛŒØ±ÙˆÙ† Ø§ØªØ±ÛŒÙˆÙ…20.004355:505.34AR¸…ëQ4ÀHŞã‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/32461.png
-€
-
-1404/07/1914:06æ¨Ç"
-Fragmetric20.0243:2823AR¸…ë‘5ÀHæ¯‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/37238.png
-‘
-
-1404/07/1914:06æ¨Ç"
-Aleph Zero*Ø§Ù„Ù Ø²ÛŒØ±Ùˆ20.0163:1888AR¸…ëÑ-ÀHšûˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/11976.png
-„
-
-1404/07/1914:06æ¨Ç"HI*Ù‡Ø§ÛŒ2
-0.00006980:8.10Aáz®Gá@H¥¹ˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/11240.png
-Í
-
-1404/07/1914:05Ôå¨Ç""Robinhood tokenized stock (xStock)*/Ø±Ø§Ø¨ÛŒÙ†â€ŒÙ‡ÙˆØ¯ ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2139.44:16182569A     € ÀHĞë‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/37041.png
-Š
-
-1404/07/1914:06æ¨Ç"BONDEX*Ø¨ÙˆÙ†Ø¯Ú©Ø³20.0270:3134A\Âõ(œ<ÀHíá‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/26198.png
-Å
-
-1404/07/1914:06æ¨Ç" Portugal National Team Fan Token*,Ù¾Ø±ØªØºØ§Ù„ Ù†Ø´Ù†Ø§Ù„ ØªÛŒÙ… ÙÙ† ØªÙˆÚ©Ù†20.7195:83500Aö(\Âu#ÀHœÛ‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/11531.png
-
-
-1404/07/1914:05Ôå¨Ç"Bifrost*Ø¨ÛŒÙØ±Ø§Ø³Øª20.0904:10492A…ëQ¸"ÀH—¤‡R<https://s2.coinmarketcap.com/static/img/coins/64x64/8705.png
-
-
-1404/07/1914:06æ¨Ç"Sidekick*Ø³Ø§ÛŒØ¯Ú©ÛŒÚ©20.0313:3633A…ëQ¸…GÀHßÃ†R=https://s2.coinmarketcap.com/static/img/coins/64x64/37617.png
-‘
-
-1404/07/1914:06æ¨Ç"Aerobud*Ø§ÛŒØ±ÙˆØ¨Ø§Ø¯20.004415:512.36A¸…ëQ8!ÀH¼±…R=https://s2.coinmarketcap.com/static/img/coins/64x64/31854.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"Zenrock*Ø²Ù†â€ŒØ±Ø§Ú©20.0225:2607Aq=
-×£pÍ¿H†¯…R=https://s2.coinmarketcap.com/static/img/coins/64x64/34291.png
-‘
-
-1404/07/1914:05Ôå¨Ç"Pandora*Ù¾Ø§Ù†Ø¯ÙˆØ±Ø§2427.74:49639029A     €(ÀH†‰…R=https://s2.coinmarketcap.com/static/img/coins/64x64/29291.png
-“
-
-1404/07/1914:06æ¨Ç"GALAXIA*Ú¯Ø§Ù„Ø§Ú©Ø³ÛŒØ§20.001699:197.16AHáz®GÀH¥ø„R=https://s2.coinmarketcap.com/static/img/coins/64x64/21060.png
-‹
-
-1404/07/1914:06æ¨Ç"GAMEE*Ú¯ÛŒÙ… Ø§ÛŒ20.002419:280.71A)\Âõ(-ÀH½„R<https://s2.coinmarketcap.com/static/img/coins/64x64/9103.png
-¿
-
-1404/07/1914:06æ¨Ç"Nasdaq tokenized stock (xStock)*$Ù†Ø²Ø¯Ú© ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2590.67:68547679A¤p=
-×£
-ÀH„ÉƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/37057.png
-°
-
-1404/07/1914:05Ôå¨Ç"Electric Vehicle Zone* Ø§Ù„Ú©ØªØ±ÛŒÚ© ÙˆÛŒÚ©ÙÙ„ Ø²ÙˆÙ†20.001759:204.08A×£p=
-×$ÀHî ƒR<https://s2.coinmarketcap.com/static/img/coins/64x64/6430.png
-
-
-1404/07/1914:06æ¨Ç"ZKWASM*Ø²ÙÚ© ÙˆØ§Ø³ÙÙ…20.0414:4810A…ëQ¸+ÀHÍ‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/37451.png
-»
-
-1404/07/1914:05Ôå¨Ç"Meta tokenized stock (xStock)*"Ù…ØªØ§ ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2705.00:81815233AìQ¸…ëÀHÀ–‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/37055.png
-¤
-
-1404/07/1914:05Ôå¨Ç"Mistery On Cro*Ù…ÛŒØ³ØªØ±ÛŒ Ø¢Ù† Ú©Ø±Ùˆ2
-0.00001031:1.1962A¸…ëQ8*ÀH¹‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/31006.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Zypto*
-Ø²ÛŒÙ¾ØªÙˆ20.004714:547.11Aáz®GáÀHÜùR=https://s2.coinmarketcap.com/static/img/coins/64x64/29812.png
-–
-
-1404/07/1914:05Ôå¨Ç"W Coin*Ø¯Ø§Ø¨Ù„ÛŒÙˆ Ú©ÙˆÛŒÙ†20.000648:75.21A…ëQ¸7ÀH¸İR=https://s2.coinmarketcap.com/static/img/coins/64x64/35082.png
-‰
-
-1404/07/1914:06æ¨Ç"Dynex*Ø¯Ø§ÛŒÙ†Ú©Ø³20.0402:4668Afffffæ/ÀH¯ÖR=https://s2.coinmarketcap.com/static/img/coins/64x64/22858.png
-™
-
-1404/07/1914:05Ôå¨Ç"Pundi AI*Ù¾Ø§Ù†Ø¯ÛŒ Ø§ÙÛŒâ€ŒØ¢ÛŒ20.5927:68781Aq=
-×£p&ÀH™§ÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/35943.png
-“
-
-1404/07/1914:05Ôå¨Ç"Defactor*Ø¯ÛŒâ€ŒÙØ§Ú©ØªÙˆØ±20.0140:1621A333333)ÀH€ÌşR=https://s2.coinmarketcap.com/static/img/coins/64x64/13255.png
-š
-
-1404/07/1914:05Ôå¨Ç"Samoyedcoin*Ø³Ø§Ù…ÙˆÛŒØ¯Ú©ÙˆÛŒÙ†20.001138:132.07A…ëQ¸/ÀH×‚şR<https://s2.coinmarketcap.com/static/img/coins/64x64/9721.png
-œ
-
-1404/07/1914:05Ôå¨Ç"Project Galaxy*Ù¾Ø±ÙˆÚ˜Ù‡ Ú¯Ù„Ú©Ø³ÛŒ20.5596:64941A®Gáz!ÀH¯ıR=https://s2.coinmarketcap.com/static/img/coins/64x64/11877.png
-
-
-1404/07/1914:05Ôå¨Ç"KoKoK The Roach*Ú©ÙˆÚ©ÙˆÚ© ØªÙˆ Ø±Ø§Ø´20.0207:2406Aö(\Âµ>ÀHÕıR=https://s2.coinmarketcap.com/static/img/coins/64x64/36547.png
-“
-
-1404/07/1914:05Ôå¨Ç"Dexsport*Ø¯Ú©Ø³ Ø§Ø³Ù¾ÙˆØ±Øª20.0212:2458A®GázÀH£óüR=https://s2.coinmarketcap.com/static/img/coins/64x64/12814.png
-™
-
-1404/07/1914:05Ôå¨Ç"Coupon Assets*Ú©ÙˆÙ¾Ù† Ø§Ø³ÙØªØ³20.4267:49519AìQ¸…k5ÀH‹ğûR=https://s2.coinmarketcap.com/static/img/coins/64x64/28366.png
-
-
-1404/07/1914:05Ôå¨Ç"Roaring Kitty*Ø±ÙˆØ±ÛŒÙ†Ú¯ Ú©ÛŒØªÛŒ20.004114:477.39A     €3ÀHÚ‰ûR=https://s2.coinmarketcap.com/static/img/coins/64x64/32137.png
-£
-
-1404/07/1914:05Ôå¨Ç"ICB Network*Ø¢ÛŒâ€ŒØ³ÛŒâ€ŒØ¨ÛŒ Ù†ØªÙˆØ±Ú©20.000213:24.73AHáz®G%ÀHüòúR=https://s2.coinmarketcap.com/static/img/coins/64x64/33350.png
-œ
-
-1404/07/1914:05Ôå¨Ç"BigONE Token*Ø¨ÛŒÚ¯ ÙˆØ§Ù† ØªÙˆÚ©Ù†20.000478:55.42A
-×£p=Š%ÀH«šúR<https://s2.coinmarketcap.com/static/img/coins/64x64/2324.png
-š
-
-1404/07/1914:06æ¨Ç"Renta Network*Ø±Ù†ØªØ§ Ù†ØªÙˆØ±Ú©20.009833:1141AR¸…ëQü¿Hñ…ùR=https://s2.coinmarketcap.com/static/img/coins/64x64/34739.png
-ƒ
-
-1404/07/1914:06æ¨Ç"Grin*Ú¯Ø±ÛŒÙ†20.0415:4820AÃõ(\Â(ÀHÓÿøR<https://s2.coinmarketcap.com/static/img/coins/64x64/3709.png
-‹
-
-1404/07/1914:06æ¨Ç"Attila*
-Ø¢ØªÛŒÙ„Ø§20.001465:169.97A{®Gáz @HØÂøR<https://s2.coinmarketcap.com/static/img/coins/64x64/5600.png
-›
-
-1404/07/1914:05Ôå¨Ç"Efinity Token*Ø§ÙÛŒÙ†ÛŒØªÛŒ ØªÙˆÚ©Ù†20.0468:5426A{®Gáz´?Hå‚øR<https://s2.coinmarketcap.com/static/img/coins/64x64/8985.png
-˜
-
-1404/07/1914:05Ôå¨Ç"HeroesTD*Ù‡ÛŒØ±ÙˆØ² ØªÛŒâ€ŒØ¯ÛŒ20.008919:1035A{®Gá:4ÀHºì÷R=https://s2.coinmarketcap.com/static/img/coins/64x64/14422.png
-‘
-
-1404/07/1914:05Ôå¨Ç"	METAVERSE*Ù…ØªØ§ÙˆØ±Ø³20.004050:470.01Aq=
-×£p.ÀH’™÷R=https://s2.coinmarketcap.com/static/img/coins/64x64/35007.png
-|
-
-1404/07/1914:06æ¨Ç"R0AR20.009748:1131A¤p=
-×#$ÀHÒ˜öR=https://s2.coinmarketcap.com/static/img/coins/64x64/35526.png
-“
-
-1404/07/1914:05Ôå¨Ç"	ValleyDAO*ÙˆÙ„ÛŒâ€ŒØ¯Ø§Ø¦Ùˆ20.3783:43905AÂõ(\2ÀH¥­õR=https://s2.coinmarketcap.com/static/img/coins/64x64/29633.png
-Š
-
-1404/07/1914:06æ¨Ç"Alitas*Ø¢Ù„ÛŒØªØ§Ø³20.0201:2332Aq=
-×£p=ÀHî¢õR=https://s2.coinmarketcap.com/static/img/coins/64x64/10897.png
-
-
-1404/07/1914:06æ¨Ç"LETSTOP*Ù„Øª Ø§Ø³ØªØ§Ù¾20.0632:7339A\Âõ(Ü#ÀHÂªôR=https://s2.coinmarketcap.com/static/img/coins/64x64/33967.png
-š
-
-1404/07/1914:05Ôå¨Ç"Pirate Nation*Ù¾Ø§ÛŒØ±ÛŒØª Ù†ÛŒØ´Ù†20.0132:1527AÃõ(\Â:ÀH×‡ôR=https://s2.coinmarketcap.com/static/img/coins/64x64/31704.png
-‘
-
-1404/07/1914:05Ôå¨Ç"	Celo Euro*Ø³Ù„Ùˆ ÛŒÙˆØ±Ùˆ21.1576:134336A¸…ëQ¸®?Hü‚óR<https://s2.coinmarketcap.com/static/img/coins/64x64/9467.png
-
-
-1404/07/1914:06æ¨Ç"Sentinel*Ø³Ù†ØªÛŒÙ†Ù„20.000169:19.63A\Âõ(Ü!ÀHû—òR<https://s2.coinmarketcap.com/static/img/coins/64x64/2643.png
-”
-
-1404/07/1914:06æ¨Ç"
-BLOCKLORDS*Ø¨Ù„Ø§Ú© Ù„Ø±Ø¯Ø²20.0951:11041A{®Gáú,ÀHìÎïR=https://s2.coinmarketcap.com/static/img/coins/64x64/29203.png
-¨
-
-1404/07/1914:05Ôå¨Ç"Blocksquare Token* Ø¨Ù„Ø§Ú©â€ŒØ§Ø³Ú©ÙˆØ¦Ø± ØªÙˆÚ©Ù†20.0645:7484A¤p=
-×#%ÀHò¿ïR<https://s2.coinmarketcap.com/static/img/coins/64x64/3035.png
-„
-
-1404/07/1914:05Ôå¨Ç"Azit*Ø¢Ø²ÛŒØª20.0106:1225A      $ÀH”ïR=https://s2.coinmarketcap.com/static/img/coins/64x64/18624.png
-•
-
-1404/07/1914:05Ôå¨Ç"BakeryToken*Ø¨ÛŒÚ©Ø±ÛŒ ØªÙˆÚ©Ù†20.0135:1566A=
-×£p]@ÀHàÒîR<https://s2.coinmarketcap.com/static/img/coins/64x64/7064.png
-¦
-
-1404/07/1914:06æ¨Ç"Starlink*Ø§Ø³ØªØ§Ø±Ù„ÛŒÙ†Ú©20.0000003911472548773619:0.0454A33333³&ÀHİîR=https://s2.coinmarketcap.com/static/img/coins/64x64/10821.png
-‹
-
-1404/07/1914:06æ¨Ç"Russell*Ø±Ø§Ø³Ù„20.004018:466.30AHáz®<ÀHÎîR=https://s2.coinmarketcap.com/static/img/coins/64x64/33819.png
-›
-
-1404/07/1914:05Ôå¨Ç"Moon Tropica*Ù…ÙˆÙ† ØªØ±ÙˆÙ¾ÛŒÚ©Ø§21.2993:150785Aáz®Ga4ÀH¹¨íR=https://s2.coinmarketcap.com/static/img/coins/64x64/26032.png
-‘
-
-1404/07/1914:05Ôå¨Ç"Biswap*Ø¨ÛŒâ€ŒØ³ÙˆØ§Ù¾20.005719:663.67Aq=
-×£ğ1ÀHÙíR=https://s2.coinmarketcap.com/static/img/coins/64x64/10746.png
-ˆ
-
-1404/07/1914:06æ¨Ç"	VestChain*ÙˆØ³Øª Ú†ÛŒÙ†20.000983:114.05H–×ìR<https://s2.coinmarketcap.com/static/img/coins/64x64/3607.png
-‡
-
-1404/07/1914:06æ¨Ç"Wall St. Bull20.003876:449.79A…ëQ¸FÀHëÇìR=https://s2.coinmarketcap.com/static/img/coins/64x64/38610.png
-–
-
-1404/07/1914:06æ¨Ç"	Bloktopia*Ø¨Ù„ÙˆÚ©ØªÙˆÙ¾ÛŒØ§20.000156:18.14AR¸…ë‘5ÀHí½ìR=https://s2.coinmarketcap.com/static/img/coins/64x64/11206.png
-{
-
-1404/07/1914:05Ôå¨Ç"Etarn20.0664:7707A
-×£p=
-ÀHè×ëR=https://s2.coinmarketcap.com/static/img/coins/64x64/38452.png
-¤
-
-1404/07/1914:05Ôå¨Ç"Quantoz EURQ*Ú©ÙˆØ§Ù†ØªÙˆØ² ÛŒÙˆØ± ÙˆÚ©ÛŒÙˆ21.1498:133437Aq=
-×£på¿H¼ëR=https://s2.coinmarketcap.com/static/img/coins/64x64/34176.png
-
-
-1404/07/1914:06æ¨Ç"zkLink*Ø²Ø¯Ú©ÛŒ Ù„ÛŒÙ†Ú©20.0102:1188AHáz®Ç/ÀHö§êR=https://s2.coinmarketcap.com/static/img/coins/64x64/13039.png
-™
-
-1404/07/1914:05Ôå¨Ç"
-LABUBU SOL*Ù„Ø§Ø¨ÙˆØ¨Ùˆ Ø³ÙˆÙ„20.003845:446.21Aq=
-×£05ÀHˆ“êR=https://s2.coinmarketcap.com/static/img/coins/64x64/33340.png
-š
-
-1404/07/1914:05Ôå¨Ç""Croatian Football Federation Token20.9919:115114AÂõ(\Ï:ÀHŸøéR=https://s2.coinmarketcap.com/static/img/coins/64x64/22789.png
-ƒ
-
-1404/07/1914:05Ôå¨Ç"MECCA*Ù…Ú©Ù‡20.0184:2135AìQ¸…ë@HŞÂéR=https://s2.coinmarketcap.com/static/img/coins/64x64/37726.png
+1404/07/1914:19œì¨Ç"IMPT*Ø§ÛŒâ€ŒØ§Ù…â€ŒÙ¾ÛŒâ€ŒØªÛŒ20.004012:464.81A®Gáz.#ÀH„şÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/22985.png
 
 
-1404/07/1914:05Ôå¨Ç"Australian Digital Dollar20.6455:74912AìQ¸…ëù¿HÓŸçR=https://s2.coinmarketcap.com/static/img/coins/64x64/38628.png
-¢
-
-1404/07/1914:05Ôå¨Ç"Levana Protocol*Ù„ÙˆØ§Ù†Ø§ Ù¾Ø±ÙˆØªÚ©Ù„20.004885:566.85A×£p=
-×6ÀH¬êæR=https://s2.coinmarketcap.com/static/img/coins/64x64/28660.png
-ƒ
-
-1404/07/1914:05Ôå¨Ç"Muse*Ù…ÛŒÙˆØ²27.42:860809AÃõ(\B+ÀHËæR<https://s2.coinmarketcap.com/static/img/coins/64x64/7805.png
-±
-
-1404/07/1914:06æ¨Ç"Inter Milan Fan Token*#Ø§ÛŒÙ†ØªØ± Ù…ÛŒÙ„Ø§Ù† ÙÙ† ØªÙˆÚ©Ù†20.3665:42537A×£p=
-—0ÀHƒøåR=https://s2.coinmarketcap.com/static/img/coins/64x64/11796.png
-‰
-
-1404/07/1914:05Ôå¨Ç"NuNet*Ù†ÙˆÙ†Øª20.007470:866.90AÂõ(\7ÀH©êåR=https://s2.coinmarketcap.com/static/img/coins/64x64/13198.png
-†
-
-1404/07/1914:06æ¨Ç"HODL*Ù‡ÙˆØ¯Ù„20.000420:48.76A×£p=
-×#ÀHÀÏåR<https://s2.coinmarketcap.com/static/img/coins/64x64/9900.png
-
-
-1404/07/1914:06æ¨Ç"CryptoAutos*Ú©Ø±ÛŒÙ¾ØªÙˆØ§ÙˆØªÙˆØ³20.005079:589.40Aö(\Âõ1ÀHÚÇåR=https://s2.coinmarketcap.com/static/img/coins/64x64/34573.png
-â
-
-1404/07/1914:06æ¨Ç"1Department Of Government Efficiency (dogegov.com)*5Ø¯Ù¾Ø§Ø±ØªÙ…Ø§Ù† Ø¢Ù Ú¯Ø§ÙˆØ±Ù†Ù…Ù†Øª Ø§ÙÛŒØ´Ù†Ø³ÛŒ20.003825:443.94AÃõ(\B1ÀHåÍäR=https://s2.coinmarketcap.com/static/img/coins/64x64/32778.png
-™
-
-1404/07/1914:05Ôå¨Ç"Super Champs*Ø³ÙˆÙ¾Ø± Ú†Ù…Ù¾Ø²20.004116:477.69A®Gáz®0ÀHº£äR=https://s2.coinmarketcap.com/static/img/coins/64x64/34126.png
-‘
-
-1404/07/1914:05Ôå¨Ç"Step App*Ø§Ø³ØªÙ¾ Ø§Ù¾20.000896:104.00A¸…ëQ83ÀH¥äR=https://s2.coinmarketcap.com/static/img/coins/64x64/19778.png
-œ
-
-1404/07/1914:05Ôå¨Ç"
-Katana Inu*Ú©Ø§ØªØ§Ù†Ø§ Ø§ÛŒÙ†Ùˆ2
-0.00009958:11.56A¸…ëQ8!ÀH×ÙâR=https://s2.coinmarketcap.com/static/img/coins/64x64/15142.png
-
-
-1404/07/1914:06æ¨Ç"Dmail Network*Ø¯ÛŒâ€ŒÙ…ÛŒÙ„ Ù†ØªÙˆØ±Ú©20.0302:3506A333333ÀHÛÏâR=https://s2.coinmarketcap.com/static/img/coins/64x64/19779.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Alon*Ø¢Ù„ÙˆÙ†20.003717:431.33A)\Âõh8ÀH²âR=https://s2.coinmarketcap.com/static/img/coins/64x64/35436.png
-Ÿ
-
-1404/07/1914:05Ôå¨Ç"VNX Gold*ÙˆÛŒâ€ŒØ§Ù†â€ŒØ§Ú©Ø³ Ú¯Ù„Ø¯2126.77:14711838A¤p=
-×£ğ¿HÛ”áR=https://s2.coinmarketcap.com/static/img/coins/64x64/22492.png
-—
-
-1404/07/1914:05Ôå¨Ç"Cere Network*Ø³Ø±Ù‡ Ù†ØªÙˆØ±Ú©20.000531:61.64AÂõ(\O3ÀH¤üàR<https://s2.coinmarketcap.com/static/img/coins/64x64/4710.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"TOKPIE*
-ØªØ§Ú©Ù¾ÛŒ20.1281:14869A\Âõ(œ3ÀH‰ÆàR<https://s2.coinmarketcap.com/static/img/coins/64x64/4116.png
-£
-
-1404/07/1914:05Ôå¨Ç"Dejitaru Tsuka*Ø¯Ø¬ÛŒØªØ§Ø±Ùˆ ØªØ³ÙˆÚ©Ø§20.003661:424.86A×£p=
-×ÀH¹¹ßR=https://s2.coinmarketcap.com/static/img/coins/64x64/20789.png
-—
-
-1404/07/1914:06æ¨Ç"Kima Network*Ú©ÛŒÙ…Ø§ Ù†ØªÙˆØ±Ú©20.0560:6504AìQ¸…«;ÀHš´ßR=https://s2.coinmarketcap.com/static/img/coins/64x64/33488.png
-†
-
-1404/07/1914:05Ôå¨Ç"BNB MEME SZN20.003639:422.32Aö(\ÂuFÀHİŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/38522.png
-Á
-
-1404/07/1914:05Ôå¨Ç"Tesla Tokenized Stock (Ondo)*)Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ ØªØ³Ù„Ø§2411.94:47805930A®GázÀHœİR=https://s2.coinmarketcap.com/static/img/coins/64x64/38029.png
-
-
-1404/07/1914:05Ôå¨Ç"DAOBase*Ø¯Ø§Ø¦Ùˆ Ø¨ÛŒØ³20.0213:2468A®Gáz"ÀH¿÷ÜR=https://s2.coinmarketcap.com/static/img/coins/64x64/36846.png
-˜
-
-1404/07/1914:06æ¨Ç"Brett (ETH)*Ø¨Ø±Øª (Ø§ØªØ±ÛŒÙˆÙ…)20.0521:6049Aáz®Ga/ÀH€ëÜR=https://s2.coinmarketcap.com/static/img/coins/64x64/31343.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Velas*ÙˆÙ„Ø§Ø³20.001306:151.53AìQ¸…ëÀHºƒÜR<https://s2.coinmarketcap.com/static/img/coins/64x64/4747.png
-›
-
-1404/07/1914:05Ôå¨Ç"Tune.FM*ØªÙˆÙ† Ø¯Ø§Øª Ø§Ùâ€ŒØ§Ù…20.000121:13.99Aš™™™™4ÀH‘ÈÚR=https://s2.coinmarketcap.com/static/img/coins/64x64/11420.png
-”
-
-1404/07/1914:05Ôå¨Ç"Slothana*Ø§Ø³Ù„ÙˆØªØ§Ù†Ø§20.002111:245.04A…ëQ¸*ÀHËºÚR=https://s2.coinmarketcap.com/static/img/coins/64x64/31163.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Penpie*Ù¾Ù†â€ŒÙ¾Ø§ÛŒ22.38:275717A=
-×£p½,ÀHí¯ÚR=https://s2.coinmarketcap.com/static/img/coins/64x64/27112.png
-–
-
-1404/07/1914:05Ôå¨Ç"
-HyperCycle*Ù‡Ø§ÛŒÙ¾Ø±Ø³Ø§ÛŒÚ©Ù„20.0230:2673Aö(\Âu%ÀH»†ÚR=https://s2.coinmarketcap.com/static/img/coins/64x64/24698.png
-›
-
-1404/07/1914:06æ¨Ç"KLEVA Protocol*Ú©Ù„ÙˆØ§ Ù¾Ø±ÙˆØªÚ©Ù„20.0518:6010Aö(\Âõ(ÀHÚêÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/21122.png
-…
-
-1404/07/1914:05Ôå¨Ç"LUCA*Ù„ÙˆÚ©Ø§20.5855:67953AHáz®GÀHÙÖÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/15736.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"Eesee*Ø§ÛŒâ€ŒØ³ÛŒ20.006209:720.51Aq=
-×£pÀH¨ŠÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/29454.png
-¤
-
-1404/07/1914:06æ¨Ç"PAWSWAP*Ù¾Ø§ Ø³ÙˆØ§Ù¾20.000000003748556922929048:0.000435Aq=
-×£ğ&ÀHÄñØR=https://s2.coinmarketcap.com/static/img/coins/64x64/23404.png
-°
-
-1404/07/1914:05Ôå¨Ç"Singularity Finance*%Ø³ÛŒÙ†Ú¯ÛŒÙˆÙ„Ø§Ø±ÛŒØªÛŒ ÙØ§ÛŒÙ†Ù†Ø³20.0228:2641AÃõ(\B2ÀH…‚ØR=https://s2.coinmarketcap.com/static/img/coins/64x64/35732.png
-¦
-
-1404/07/1914:06æ¨Ç"RWA Inc.*"Ø¢Ø±â€ŒØ¯Ø¨Ù„ÛŒÙˆâ€ŒØ§ÛŒ Ø§ÛŒÙ†Ú©.20.007172:832.28A×£p=
-×2ÀHî•×R=https://s2.coinmarketcap.com/static/img/coins/64x64/33611.png
-´
-
-1404/07/1914:05Ôå¨Ç"OUTLAW Crypto Games*%Ø§ÙˆØªâ€ŒÙ„Ø§Ùˆ Ú©Ø±ÛŒÙ¾ØªÙˆ Ú¯ÛŒÙ…Ø²20.003532:409.88A\Âõ(Ü)ÀH¥ÊÖR=https://s2.coinmarketcap.com/static/img/coins/64x64/38383.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Hege*Ù‡ÙØ¬Ù‡20.003515:407.96A¤p=
-×£6ÀHàÃÖR=https://s2.coinmarketcap.com/static/img/coins/64x64/31044.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Energi*
-Ø§Ù†Ø±Ú˜ÛŒ20.0351:4077A…ëQ¸…ÀH÷¯ÖR<https://s2.coinmarketcap.com/static/img/coins/64x64/3218.png
-”
-
-1404/07/1914:06æ¨Ç"	BitShares*Ø¨ÛŒØªâ€ŒØ´ÛŒØ±Ø²20.001170:135.79A{®GázÀHûòÕR;https://s2.coinmarketcap.com/static/img/coins/64x64/463.png
-…
-
-1404/07/1914:06æ¨Ç"LORDS*Ù„Ø±Ø¯Ø²20.0163:1895Afffff&2ÀH¶ÕÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/17445.png
-Š
-
-1404/07/1914:06æ¨Ç"Byte*Ø¨Ø§ÛŒØª2
-0.00000359:0.4172A®Gáz.5ÀH’ÍÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/28664.png
-‘
-
-1404/07/1914:05Ôå¨Ç"e-Radix*Ø§ÛŒ-Ø±Ø¯ÛŒÚ©Ø³20.002826:327.94A=
-×£p}7ÀHœ©ÓR<https://s2.coinmarketcap.com/static/img/coins/64x64/7692.png
-
-
-1404/07/1914:06æ¨Ç"	Epic Cash*Ø§Ù¾ÛŒÚ© Ú©Ø´20.2003:23247AHáz®Ç-ÀHø¡ÓR<https://s2.coinmarketcap.com/static/img/coins/64x64/5435.png
-’
-
-1404/07/1914:06æ¨Ç"	Polytrade*Ù¾Ù„ÛŒâ€ŒØªØ±ÛŒØ¯20.0835:9689A
-×£p=
-,ÀHÔ´ÒR=https://s2.coinmarketcap.com/static/img/coins/64x64/10465.png
-¯
-
-1404/07/1914:05Ôå¨Ç"Somnium Space Cubes*$Ø³ÙˆÙ…Ù†ÛŒÙˆÙ… Ø§Ø³Ù¾ÛŒØ³ Ú©ÛŒÙˆØ¨Ø²20.2753:31949Affffff$ÀH§…ÒR<https://s2.coinmarketcap.com/static/img/coins/64x64/5338.png
-‰
-
-1404/07/1914:06æ¨Ç"Kinic*
-Ú©ÛŒÙ†ÛŒÚ†21.1980:139034A×£p=
-W:ÀHÌáÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/31985.png
-
-
-1404/07/1914:06æ¨Ç"Decentrawood*Ø¯ÛŒØ³Ù†ØªØ±Ø§ ÙˆÙˆØ¯20.006703:777.93A)\Âõh0ÀH¸–ÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/23780.png
-¯
-
-1404/07/1914:05Ôå¨Ç"Robonomics.network*&Ø±ÙˆØ¨ÙˆÙ†ÙˆÙ…ÛŒÚ©Ø³ Ø¯Ø§Øª Ù†ØªÙˆØ±Ú©22.01:233240A®GázÀHÃÑR<https://s2.coinmarketcap.com/static/img/coins/64x64/4757.png
-˜
-
-1404/07/1914:06æ¨Ç"Aki Network*Ø¢Ú©ÛŒ Ù†ØªÙˆØ±Ú©20.001702:197.52AHáz®GÀH¾áÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/28817.png
-¥
-
-1404/07/1914:06æ¨Ç"BRN Metaverse*Ø¨ÛŒâ€ŒØ¢Ø±â€ŒØ§Ù† Ù…ØªØ§ÙˆØ±Ø³20.1204:13975A…ëQ¸ÀHï•ÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/19519.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"LATOKEN*Ù„Ø§ØªÙˆÚ©Ù†20.008880:1030Aš™™™™™.ÀHï€ÎR<https://s2.coinmarketcap.com/static/img/coins/64x64/2090.png
-“
-
-1404/07/1914:05Ôå¨Ç"BOSAGORA*Ø¨ÙˆØ³Ø§Ú¯ÙˆØ±Ø§20.005900:684.72A)\Âõ(ÀHåÊÌR<https://s2.coinmarketcap.com/static/img/coins/64x64/4217.png
-š
-
-1404/07/1914:05Ôå¨Ç"Mumu the Bull*Ù…ÙˆÙ…Ùˆ Ø¨ÙˆÙ„2
-0.00000147:0.1701A×£p=
-×6ÀHï ÌR=https://s2.coinmarketcap.com/static/img/coins/64x64/30285.png
-¸
-
-1404/07/1914:06æ¨Ç"Inflation Hedging Coin*&Ø§ÛŒÙ†ÙÙ„ÛŒØ´Ù† Ù‡Ø¯Ø¬ÛŒÙ†Ú¯ Ú©ÙˆÛŒÙ†2
-0.00002788:3.24AÂõ(\ş¿H–ÊËR=https://s2.coinmarketcap.com/static/img/coins/64x64/14371.png
-
-
-1404/07/1914:05Ôå¨Ç"apM Coin*Ø§ÛŒâ€ŒÙ¾ÛŒâ€ŒØ§Ù… Ú©ÙˆÛŒÙ†20.002178:252.71A\Âõ(Ü-ÀHô‰ÊR<https://s2.coinmarketcap.com/static/img/coins/64x64/5079.png
-»
-
-1404/07/1914:05Ôå¨Ç"Footballcoin (XFC)*.ÙÙˆØªØ¨Ø§Ù„ Ú©ÙˆÛŒÙ† (Ø§ÛŒÚ©Ø³â€ŒØ§Ùâ€ŒØ³ÛŒ)20.008362:970.45A=
-×£p=â¿H›ßÉR<https://s2.coinmarketcap.com/static/img/coins/64x64/3663.png
-Ï
-
-1404/07/1914:06æ¨Ç" Eli Lilly Tokenized Stock (Ondo)*3Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø§Ù„ÛŒ Ù„ÛŒâ€ŒÙ„ÛŒ2830.17:96341736A®GázÀHòºÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/38043.png
-”
-
-1404/07/1914:05Ôå¨Ç"Darkpino*Ø¯Ø§Ø±Ú©Ù¾ÛŒÙ†Ùˆ20.003325:385.88AÃõ(\B.ÀHØ¥ÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/36225.png
-¡
-
-1404/07/1914:05Ôå¨Ç"Sabai Ecoverse*Ø³Ø§Ø¨Ø§ÛŒ Ø§Ú©ÙˆÙˆØ±Ø³20.006135:711.93A     €$ÀHÊØÈR=https://s2.coinmarketcap.com/static/img/coins/64x64/24484.png
-Ÿ
-
-1404/07/1914:06æ¨Ç"
-LABUBU ETH*Ù„Ø§Ø¨ÙˆØ¨Ùˆ Ø§ØªØ±ÛŒÙˆÙ…20.003279:380.49A=
-×£p}4ÀHÈÈR=https://s2.coinmarketcap.com/static/img/coins/64x64/36783.png
-“
-
-1404/07/1914:06æ¨Ç"	CumRocket*Ú©Ø§Ù… Ø±Ø§Ú©Øª20.002470:286.69A     €*ÀHÈŒÇR<https://s2.coinmarketcap.com/static/img/coins/64x64/9212.png
-¤
-
-1404/07/1914:05Ôå¨Ç"Arsenal Fan Token*Ø¢Ø±Ø³Ù†Ø§Ù„ ÙÙ† ØªÙˆÚ©Ù†20.3355:38940AìQ¸…ë"ÀHˆÇR=https://s2.coinmarketcap.com/static/img/coins/64x64/11532.png
-
-
-1404/07/1914:06æ¨Ç"	Landshare*Ù„Ù†Ø¯Ø´ÛŒØ±20.6092:70700A×£p=
-×ÀHÓÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/11245.png
-
-
-1404/07/1914:05Ôå¨Ç"	0xGasless*Ø²ÛŒØ±Ùˆ Ø§Ú©Ø³ Ú¯Ø³â€ŒÙ„Ø³20.3403:39497AR¸…ëQ!ÀH”øÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/27008.png
-ƒ
-
-1404/07/1914:05Ôå¨Ç"	4EVERLAND20.001780:206.60A{®Gáz ÀH•ÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/21345.png
-€
-
-1404/07/1914:05Ôå¨Ç"
-Griffin AI20.0137:1595A…ëQ¸@HŠÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/38476.png
-„
-
-1404/07/1914:06æ¨Ç"Djed*Ø¯Ø¬Ø¯20.9785:113555A¸…ëQ¸ú¿HÏØÄR=https://s2.coinmarketcap.com/static/img/coins/64x64/21639.png
-
-
-1404/07/1914:05Ôå¨Ç"Qubit*Ú©ÛŒÙˆØ¨ÛŒØª20.003239:375.83A×£p=
-×-ÀH±—ÄR=https://s2.coinmarketcap.com/static/img/coins/64x64/37283.png
-‘
-
-1404/07/1914:05Ôå¨Ç"	Mysterium*Ù…ÛŒØ³ØªØ±ÛŒÙˆÙ…20.1603:18606A…ëQ¸ÀHØ…ÄR<https://s2.coinmarketcap.com/static/img/coins/64x64/1721.png
-Ÿ
-
-1404/07/1914:06æ¨Ç"VNX EURO*ÙˆÛŒâ€ŒØ§Ù†â€ŒØ§Ú©Ø³ ÛŒÙˆØ±Ùˆ21.1590:134508A…ëQ¸…Û¿HıÄÃR=https://s2.coinmarketcap.com/static/img/coins/64x64/24228.png
-
-
-1404/07/1914:05Ôå¨Ç"Blocery*Ø¨Ù„ÙˆØ³Ø±ÛŒ20.003268:379.21AÍÌÌÌÌL#ÀHºÂR<https://s2.coinmarketcap.com/static/img/coins/64x64/6283.png
- 
-
-1404/07/1914:05Ôå¨Ç"DeFi Kingdoms*Ø¯ÛŒÙØ§ÛŒ Ú©ÛŒÙ†Ú¯Ø¯Ø§Ù…Ø²20.0280:3255AÍÌÌÌÌ0ÀH‹¯ÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/12319.png
-“
-
-1404/07/1914:05Ôå¨Ç"Startup*Ø§Ø³ØªØ§Ø±ØªØ§Ù¾20.003215:373.07A=
-×£p=?ÀH‘§ÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/37312.png
-„
-
-1404/07/1914:05Ôå¨Ç"AVINOC*Ø§ÙˆÛŒÙ†ÙˆÚ©20.008165:947.59HÀşÁR<https://s2.coinmarketcap.com/static/img/coins/64x64/3089.png
-‘
-
-1404/07/1914:06æ¨Ç"Spectral*Ø§Ø³Ù¾Ú©ØªØ±Ø§Ù„20.2250:26113A)\Âõ¨2ÀH¶ÛÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/32925.png
-˜
-
-1404/07/1914:06æ¨Ç"Project WITH*Ù¾Ø±ÙˆÚ˜Ù‡ ÙˆÛŒØª20.003011:349.40AÃõ(\Â)ÀH„ÁÁR<https://s2.coinmarketcap.com/static/img/coins/64x64/4809.png
-½
-
-1404/07/1914:06æ¨Ç"Tottenham Hotspur Fan Token*)ØªØ§ØªÙ†Ù‡Ø§Ù… Ù‡Ø§ØªØ³Ù¾Ø± ÙÙ† ØªÙˆÚ©Ù†20.3092:35887A)\Âõè0ÀHìºÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/28286.png
-
-
-1404/07/1914:05Ôå¨Ç"BSX*Ø¨ÛŒâ€ŒØ§Ø³â€ŒØ§Ú©Ø³20.0167:1941AÂõ(\.ÀHğµÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/34585.png
-
-
-1404/07/1914:06æ¨Ç"IBStoken*Ø¢ÛŒâ€ŒØ¨ÛŒâ€ŒØ§Ø³ ØªÙˆÚ©Ù†20.000786:91.20Aš™™™™™É¿HÖ†ÁR<https://s2.coinmarketcap.com/static/img/coins/64x64/5358.png
-ƒ
-
-1404/07/1914:06æ¨Ç"Chirp*Ú†Ø±Ù¾20.0464:5383AìQ¸…k#ÀHÊÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/23445.png
-œ
-
-1404/07/1914:06æ¨Ç"QORPO WORLD*Ú©ÙˆØ§Ø±Ù¾Ùˆ ÙˆØ±Ù„Ø¯20.007980:926.05A{®Gá:4ÀH‰ä¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/18345.png
-
-
-1404/07/1914:05Ôå¨Ç"MILC Platform*Ù…ÛŒÙ„â€ŒØ³ÛŒ Ù¾Ù„ØªÙØ±Ù…20.0252:2928Aš™™™™™,ÀH¼Ì¿R<https://s2.coinmarketcap.com/static/img/coins/64x64/9764.png
-†
-
-1404/07/1914:05Ôå¨Ç"Kin*Ú©ÛŒÙ†2
-0.00000113:0.1314A…ëQ¸…ÀHáÃ¾R<https://s2.coinmarketcap.com/static/img/coins/64x64/1993.png
-†
-
-1404/07/1914:05Ôå¨Ç"RENEC*Ø±ÙÙ†Ú©20.0869:10089AÃõ(\ÂÀH®»¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/24143.png
-
-
-1404/07/1914:06æ¨Ç"LIQUIDIUMâ€¢TOKEN*Ù„ÛŒÚ©ÙˆÛŒÛŒØ¯ÛŒÙˆÙ…20.1429:16580AìQ¸…ëÀH¿«¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/32888.png
-™
-
-1404/07/1914:05Ôå¨Ç"Minati Coin*Ù…ÛŒÙ†Ø§ØªÛŒ Ú©ÙˆÛŒÙ†20.4968:57656A     À3ÀHæ£¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/25715.png
-‚
-
-1404/07/1914:06æ¨Ç"StrikeBit AI20.0148:1723AR¸…ëÑ(ÀHš•¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/38523.png
-—
-
-1404/07/1914:05Ôå¨Ç"Fei USD*ÙÛŒ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.9820:113963AìQ¸…ëõ¿H¬à½R<https://s2.coinmarketcap.com/static/img/coins/64x64/8642.png
-¤
-
-1404/07/1914:05Ôå¨Ç"Pepe 2.0*Ù¾Ù¾Ù‡ Û².Û°20.000000006582831532884811:0.000764Aö(\Âõ/ÀHó·¼R=https://s2.coinmarketcap.com/static/img/coins/64x64/27276.png
-—
-
-1404/07/1914:06æ¨Ç"	Dingocoin*Ø¯ÛŒÙ†Ú¯ÙˆÚ©ÙˆÛŒÙ†2
-0.00002672:3.10A®Gáz”-ÀH¸Ş»R=https://s2.coinmarketcap.com/static/img/coins/64x64/16185.png
-“
-
-1404/07/1914:05Ôå¨Ç"EverRise*Ø§ÙˆØ± Ø±Ø§ÛŒØ²2
-0.00004764:5.53AìQ¸…k0ÀHõÜ¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/15257.png
-§
-
-1404/07/1914:06æ¨Ç"	Shina Inu*Ø´ÛŒÙ†Ø§ Ø§ÛŒÙ†Ùˆ20.00000024812579240106276:0.0288A®Gáz®+ÀH±ÿ¸R=https://s2.coinmarketcap.com/static/img/coins/64x64/19736.png
-®
-
-1404/07/1914:06æ¨Ç"Cryptocurrency Coin*Ú©Ø±ÛŒÙ¾ØªÙˆÚ©Ø±Ù†Ø³ÛŒ Ú©ÙˆÛŒÙ†20.003019:350.35AìQ¸…ë+ÀH±¡¸R=https://s2.coinmarketcap.com/static/img/coins/64x64/36632.png
-’
-
-1404/07/1914:05Ôå¨Ç"HahaYes*Ù‡Ø§Ù‡Ø§ ÛŒØ³2
-0.00000715:0.8301A)\Âõh1ÀH‚Ò·R=https://s2.coinmarketcap.com/static/img/coins/64x64/32543.png
-’
-
-1404/07/1914:06æ¨Ç"	Rain Coin*Ø±ÙÛŒÙ† Ú©ÙˆÛŒÙ†23.00:348507Aáz®G!8ÀHÂ¥·R=https://s2.coinmarketcap.com/static/img/coins/64x64/29349.png
-Œ
-
-1404/07/1914:06æ¨Ç"Pwease*
-Ù¾ÙˆÛŒÛŒØ²20.002996:347.66A33333s4ÀH†ë¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/35945.png
-˜
-
-1404/07/1914:05Ôå¨Ç"	NuriTopia*Ù†ÙˆØ±ÛŒ ØªÙˆÙ¾ÛŒØ§20.001383:160.45Aö(\ÂõÀHËÜ¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/26413.png
-‡
-
-1404/07/1914:06æ¨Ç"BOB*Ø¨Ø§Ø¨2
-0.00000434:0.5035A{®Gáú*ÀHî¿¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/24594.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Hydra*Ù‡Ø§ÛŒØ¯Ø±Ø§20.1025:11890A
-×£p=
-·¿Hş¶R<https://s2.coinmarketcap.com/static/img/coins/64x64/8245.png
-¡
-
-1404/07/1914:05Ôå¨Ç"	ShibaDoge*Ø´ÛŒØ¨Ø§ Ø¯ÙˆØ¬20.000000000000000023934243:0AR¸…ëÑ+ÀHù‚¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/16500.png
-¡
-
-1404/07/1914:05Ôå¨Ç"League of Traders*Ù„ÛŒÚ¯ Ø¢Ùˆ ØªØ±ÛŒØ¯Ø±Ø²20.0169:1961A=
-×£p½"ÀHÈ­µR=https://s2.coinmarketcap.com/static/img/coins/64x64/36866.png
-™
-
-1404/07/1914:05Ôå¨Ç"Shiden Network*Ø´ÛŒØ¯Ù† Ù†ØªÙˆØ±Ú©20.0435:5045AR¸…ë‘4ÀHÍÕ´R=https://s2.coinmarketcap.com/static/img/coins/64x64/11451.png
-£
-
-1404/07/1914:05Ôå¨Ç"Electra Protocol*Ø§Ù„Ú©ØªØ±Ø§ Ù¾Ø±ÙˆØªÚ©Ù„20.000162:18.75AR¸…ëÑ6ÀHĞ¨´R<https://s2.coinmarketcap.com/static/img/coins/64x64/8216.png
-„
-
-1404/07/1914:06æ¨Ç"ICHI*Ø§ÛŒÚ†ÛŒ20.3133:36354AìQ¸…ë&ÀHõª³R<https://s2.coinmarketcap.com/static/img/coins/64x64/7726.png
-
-
-1404/07/1914:05Ôå¨Ç"	Happy Cat*Ù‡Ù¾ÛŒ Ú©Øª20.000881:102.23A)\Âõ¨1ÀH²š³R=https://s2.coinmarketcap.com/static/img/coins/64x64/33892.png
-
-
-1404/07/1914:05Ôå¨Ç"Gaimin*Ú¯ÙÛŒÙ…ÛŒÙ†2
-0.00006567:7.62A)\Âõ(ÀH©¸²R=https://s2.coinmarketcap.com/static/img/coins/64x64/29037.png
-‹
-
-1404/07/1914:06æ¨Ç"Bombie*
-Ø¨Ø§Ù…Ø¨ÛŒ20.000323:37.53Afffffæ!ÀHÂÕ±R=https://s2.coinmarketcap.com/static/img/coins/64x64/36771.png
-›
-
-1404/07/1914:06æ¨Ç"GameGPT*Ú¯ÛŒÙ… Ø¬ÛŒâ€ŒÙ¾ÛŒâ€ŒØªÛŒ20.000347:40.24AìQ¸…k$ÀH–È±R=https://s2.coinmarketcap.com/static/img/coins/64x64/28868.png
-Ë
-
-1404/07/1914:05Ôå¨Ç" Coca-Cola Tokenized Stock (Ondo)*1Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ú©ÙˆÚ©Ø§Ú©ÙˆÙ„Ø§266.95:7769611A¸…ëQ¸¾?H‹¤±R=https://s2.coinmarketcap.com/static/img/coins/64x64/38036.png
-˜
-
-1404/07/1914:05Ôå¨Ç"Storm Trade*Ø§Ø³ØªÙˆØ±Ù… ØªØ±ÛŒØ¯20.0111:1291A¸…ëQ¸,ÀH¬©¯R=https://s2.coinmarketcap.com/static/img/coins/64x64/31196.png
-–
-
-1404/07/1914:06æ¨Ç"	IMGN Labs*Ø§ÛŒÙ…Ø¬Ù† Ù„Ø¨Ø²20.003371:391.16A®Gáz&ÀH÷ü®R=https://s2.coinmarketcap.com/static/img/coins/64x64/36143.png
-§
-
-1404/07/1914:05Ôå¨Ç"Decentralized Euro*ÛŒÙˆØ±Ùˆ ØºÛŒØ±Ù…ØªÙ…Ø±Ú©Ø²21.1468:133080A®Gáz®ï¿HÎÑ®R=https://s2.coinmarketcap.com/static/img/coins/64x64/36169.png
-
-
-1404/07/1914:05Ôå¨Ç"Solanium*Ø³ÙˆÙ„Ø§Ù†ÛŒÙˆÙ…20.0284:3300A×£p=
-0ÀH÷Å­R<https://s2.coinmarketcap.com/static/img/coins/64x64/9741.png
-
-
-1404/07/1914:05Ôå¨Ç"	Phantasma*ÙØ§Ù†ØªØ§Ø³Ù…Ø§20.0228:2650A{®Gáz´¿Hñş¬R<https://s2.coinmarketcap.com/static/img/coins/64x64/2827.png
-
-
-1404/07/1914:05Ôå¨Ç"Radiant*Ø±Ø§Ø¯ÛŒØ§Ù†Øª20.000200:23.17A®Gáz.'ÀHµ¬R=https://s2.coinmarketcap.com/static/img/coins/64x64/22866.png
-®
-
-1404/07/1914:05Ôå¨Ç"GensoKishi Metaverse*Ø¬Ù†Ø³Ùˆ Ú©ÛŒØ´ÛŒ Ù…ØªØ§ÙˆØ±Ø³20.006898:800.46A®Gáz”"ÀHÕØ«R=https://s2.coinmarketcap.com/static/img/coins/64x64/17704.png
-…
-
-1404/07/1914:06æ¨Ç"Quq*Ú©ÙˆÚ©20.002805:325.49A333333Ã?Hä—«R=https://s2.coinmarketcap.com/static/img/coins/64x64/36101.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"GOMBLE*
-Ú¯Ø§Ù…Ø¨Ù„20.0101:1178Aö(\Âõ#ÀHüşªR=https://s2.coinmarketcap.com/static/img/coins/64x64/36123.png
-§
-
-1404/07/1914:05Ôå¨Ç"Morpheus.Network* Ù…ÙˆØ±ÙØ¦ÙˆØ³ Ø¯Ø§Øª Ù†ØªÙˆØ±Ú©20.0583:6768Aš™™™™™(ÀHã¿ªR<https://s2.coinmarketcap.com/static/img/coins/64x64/2763.png
-Š
-
-1404/07/1914:05Ôå¨Ç"
-Crypterium*Ú©Ø±ÛŒÙ¾ØªØ±ÛŒÙˆÙ…20.0295:3418Hó“ªR<https://s2.coinmarketcap.com/static/img/coins/64x64/2447.png
-Œ
-
-1404/07/1914:06æ¨Ç"BaaSid*Ø¨Ø§Ø§Ø³ÛŒØ¯20.000278:32.26A=
-×£p=ÀHßÖ©R<https://s2.coinmarketcap.com/static/img/coins/64x64/3142.png
-¢
-
-1404/07/1914:05Ôå¨Ç"LogX Network*Ù„Ø§Ø¬ Ø§ÛŒÚ©Ø³ Ù†ØªÙˆØ±Ú©20.005794:672.36A
-×£p=Š8ÀHÃÔ©R=https://s2.coinmarketcap.com/static/img/coins/64x64/33098.png
-–
-
-1404/07/1914:05Ôå¨Ç"
-AIntivirus*Ø§ÛŒÙ†ØªÛŒÙˆÛŒØ±ÙˆØ³20.0301:3495A…ëQ¸ÀH­©R=https://s2.coinmarketcap.com/static/img/coins/64x64/35589.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"TRVL*ØªØ±ÙˆÙ„20.006643:770.97AÃõ(\ÂÀHñø¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/14336.png
-§
-
-1404/07/1914:05Ôå¨Ç"Giants Protocol*Ø¬Ø§ÛŒØ§Ù†ØªØ³ Ù¾Ø±ÙˆØªÚ©Ù„2
-0.00009564:11.10AR¸…ë‘8ÀH¶ã¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/37311.png
-œ
-
-1404/07/1914:06æ¨Ç"Meter Governance*Ù…ØªØ± Ú¯Ø§ÙˆØ±Ù†Ù†Ø³20.0857:9941A×£p=
-W!ÀHà¨R<https://s2.coinmarketcap.com/static/img/coins/64x64/5919.png
-Ü
-
-1404/07/1914:06æ¨Ç"(Italian National Football Team Fan Token*;Ø§ÛŒØªØ§Ù„ÛŒØ§ Ù†Ø´Ù†Ø§Ù„ ÙÙˆØªØ¨Ø§Ù„ ØªÛŒÙ… ÙÙ† ØªÙˆÚ©Ù†20.2700:31328A…ëQ¸)ÀH­Ñ¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/22443.png
-
-
-1404/07/1914:05Ôå¨Ç"Decubate*Ø¯Ú©ÙˆØ¨ÛŒØª20.007256:842.02A
-×£p=
-ÀHè¥¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/10563.png
-«
-
-1404/07/1914:05Ôå¨Ç"	Akita Inu*Ø¢Ú©ÛŒØªØ§ Ø§ÛŒÙ†Ùˆ20.000000040380371740978246:0.004686Aš™™™™™.ÀHÒâ§R<https://s2.coinmarketcap.com/static/img/coins/64x64/8378.png
-œ
-
-1404/07/1914:06æ¨Ç"
-catwifmask*Ú©Øªâ€ŒÙˆÛŒÙâ€ŒÙ…Ø³Ú©20.002749:318.98A…ëQ¸Ş?ÀH‹İ§R=https://s2.coinmarketcap.com/static/img/coins/64x64/36819.png
-›
-
-1404/07/1914:05Ôå¨Ç"FNCY*Ø§Ùâ€ŒØ§Ù†â€ŒØ³ÛŒâ€ŒÙˆØ§ÛŒ20.002420:280.88A×£p=
-×÷?HïÚ§R=https://s2.coinmarketcap.com/static/img/coins/64x64/22847.png
-º
-
-1404/07/1914:06æ¨Ç"USD Coin (Wormhole)*-ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ Ú©ÙˆÛŒÙ† (ÙˆØ±Ù…â€ŒÙ‡ÙˆÙ„)21.0015:116229A{®GázÄ?H¹Î§R=https://s2.coinmarketcap.com/static/img/coins/64x64/20650.png
-‰
-
-1404/07/1914:05Ôå¨Ç"GemHUB*Ø¬Ù… Ù‡Ø§Ø¨20.0226:2622Aö(\Âõ ÀH¢ó¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/19709.png
-×
-
-1404/07/1914:05Ôå¨Ç"'Procter & Gamble Tokenized Stock (Ondo)*=Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ù¾Ø±Ø§Ú©ØªØ± Ø§Ù†Ø¯ Ú¯Ù…Ø¨Ù„2153.27:17787031HíË¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/38096.png
-¡
-
-1404/07/1914:05Ôå¨Ç"DeepBrain Chain*Ø¯ÛŒÙ¾â€ŒØ¨Ø±ÛŒÙ† Ú†ÛŒÙ†20.000501:58.11Aö(\ÂõÀHŞõ¥R<https://s2.coinmarketcap.com/static/img/coins/64x64/2316.png
-
-
-1404/07/1914:05Ôå¨Ç"Gorilla*Ú¯ÙˆØ±ÛŒÙ„Ø§20.002718:315.40AHáz®Ç$ÀH€ñ¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/36438.png
-£
-
-1404/07/1914:05Ôå¨Ç"Cocoro (officialcocoro.com)*Ú©ÙˆÚ©ÙˆØ±Ùˆ20.003408:395.52AÂõ(\&ÀH•ì¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/36233.png
-
-
-1404/07/1914:06æ¨Ç"DexCheck*Ø¯Ú©Ø³ Ú†Ú©20.004006:464.93A)\Âõ(ÀH»ë¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/20009.png
-Á
-
-1404/07/1914:05Ôå¨Ç"Frodo the virtual samurai*-ÙØ±ÙˆØ¯Ùˆ Ø¯ ÙˆÛŒØ±Ú†ÙˆØ§Ù„ Ø³Ø§Ù…ÙˆØ±Ø§ÛŒÛŒ20.000543:63.00Afffffæ3ÀH†Õ¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/34587.png
-
-
-1404/07/1914:05Ôå¨Ç"Trading and Payment Token20.1808:20986A\Âõ(\#ÀHÓÇ¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/37556.png
-›
-
-1404/07/1914:05Ôå¨Ç"Didi Bam Bam*Ø¯ÛŒØ¯ÛŒ Ø¨Ø§Ù… Ø¨Ø§Ù…20.1291:14981A×£p=
-—1ÀH¸º¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/34152.png
-†
-
-1404/07/1914:06æ¨Ç"XELIS*Ø²Ù„ÛŒØ³20.6974:80928A     À4ÀH±š¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/32656.png
-”
-
-1404/07/1914:06æ¨Ç"
-Zero1 Labs*Ø²ÛŒØ±Ùˆ Û± Ù„Ø¨Ø²20.0296:3437A
-×£p=Š#ÀH™ñ¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/29734.png
-–
-
-1404/07/1914:05Ôå¨Ç"GPUnet*Ø¬ÛŒâ€ŒÙ¾ÛŒâ€ŒÛŒÙˆ Ù†Øª20.2649:30746Affffff$ÀHª¸¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/36772.png
-£
-
-1404/07/1914:06æ¨Ç"AlphaKEK.AI* Ø¢Ù„ÙØ§ Ú©Ú© Ø¯Ø§Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.0114:1326A33333³ ÀHØı¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/29516.png
-…
-
-1404/07/1914:05Ôå¨Ç"Thala*ØªØ§Ù„Ø§20.0544:6315A…ëQ¸:ÀH©æ¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/24268.png
-¶
-
-1404/07/1914:05Ôå¨Ç"Xavier: Renegade Angel*$Ø²Ø§ÙˆÛŒØ±: Ø±Ù†Ù‡â€ŒÚ¯ÛŒØ¯ Ø¢Ù†Ø¬Ù„20.002666:309.35A¤p=
-×£'ÀHÒÖ¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/36852.png
-’
-
-1404/07/1914:05Ôå¨Ç"SPACEM*Ø§Ø³Ù¾ÛŒØ³â€ŒØ§Ù…20.000299:34.68A®Gáz®ÀH‰ª¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/35395.png
-“
-
-1404/07/1914:05Ôå¨Ç"
-Dolan Duck*Ø¯ÙˆÙ„Ø§Ù† Ø¯Ø§Ú©20.0270:3136AÃõ(\B:ÀH€„¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/33441.png
-’
-
-1404/07/1914:06æ¨Ç"	Yee Token*ÛŒÛŒ ØªÙˆÚ©Ù†20.002643:306.70A…ëQ¸å?Hò¦¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/36560.png
-£
-
-1404/07/1914:05Ôå¨Ç"LABEL Foundation*Ù„ÛŒØ¨Ù„ ÙØ§Ù†Ø¯ÛŒØ´Ù†20.000978:113.51AÂõ(\3ÀH€ˆ¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/12988.png
-†
-
-1404/07/1914:05Ôå¨Ç"Mode*Ù…ÙˆØ¯20.001048:121.63A¸…ëQ¸*ÀHéõŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/31016.png
-–
-
-1404/07/1914:05Ôå¨Ç"
-I'm a Jeet*Ø¢ÛŒÙ… Ø§ Ø¬ÛŒØª20.002620:304.05A      %ÀHØôŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/36938.png
-
-
-1404/07/1914:05Ôå¨Ç"LeverFi*Ù„ÙˆØ±ÙØ§ÛŒ2
-0.00004688:5.44A¤p=
-×£3ÀHÒÏŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/20873.png
-®
-
-1404/07/1914:05Ôå¨Ç"Troll (NEW)*ØªØ±ÙˆÙ„ (Ø¬Ø¯ÛŒØ¯)20.000000002706978263313887:0.000314Aáz®G¡3ÀHœ×R=https://s2.coinmarketcap.com/static/img/coins/64x64/29505.png
+1404/07/1914:19œì¨Ç"	Cellframe*Ø³Ù„â€ŒÙØ±ÛŒÙ…20.1936:22426A\Âõ(Ü.ÀHäñÑR<https://s2.coinmarketcap.com/static/img/coins/64x64/8992.png
 ²
 
-1404/07/1914:06æ¨Ç"AR.IO Network*)Ø§ÛŒâ€ŒØ¢Ø± Ø¯Ø§Øª Ø¢ÛŒâ€ŒØ§Ùˆ Ù†ØªÙˆØ±Ú©20.005463:633.99Aš™™™™™ÀHìÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/36135.png
-š
+1404/07/1914:19œì¨Ç"Gochujangcoin*Ú¯ÙˆÚ†ÙˆØ¬Ù†Ú¯â€ŒÚ©ÙˆÛŒÙ†20.0000004916771389073209:0.0570A333333ÀHï¹ÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/32772.png
+Œ
 
-1404/07/1914:06æ¨Ç"Warped Games*ÙˆØ§Ø±Ù¾Ø¯ Ú¯ÛŒÙ…Ø²20.000449:52.16AHáz®Ç,ÀHœ¯R=https://s2.coinmarketcap.com/static/img/coins/64x64/28607.png
+1404/07/1914:19œì¨Ç"Nestree*
+Ù†Ø³ØªØ±ÛŒ20.001833:212.39A\Âõ(\ÀHûŒÏR<https://s2.coinmarketcap.com/static/img/coins/64x64/4467.png
+
+
+1404/07/1914:19œì¨Ç"ROA CORE*Ø±ÙˆØ¢ Ú©ÙˆØ±20.008847:1025A)\Âõ(*ÀH¡ŸÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/23799.png
 
 
-1404/07/1914:05Ôå¨Ç"	Handshake*Ù‡Ù†Ø¯Ø´ÛŒÚ©20.003807:441.79A®Gáz”#ÀH«˜R<https://s2.coinmarketcap.com/static/img/coins/64x64/5221.png
-¬
-
-1404/07/1914:05Ôå¨Ç"Young Peezy AKA Pepe*ÛŒØ§Ù†Ú¯ Ù¾ÛŒØ²ÛŒ AKA Ù¾Ù¾Ù‡20.002591:300.65AR¸…ëQ"ÀHÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/30648.png
-Ñ
-
-1404/07/1914:06æ¨Ç"!McDonald's Tokenized Stock (Ondo)*4Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ù…Ú©â€ŒØ¯ÙˆÙ†Ø§Ù„Ø¯2294.70:34200021A…ëQ¸…ë¿H¢ÄR=https://s2.coinmarketcap.com/static/img/coins/64x64/38049.png
-¥
-
-1404/07/1914:05Ôå¨Ç"Rai Reflex Index*Ø±Ø§ÛŒ Ø±ÙÙ„Ú©Ø³ Ø§ÛŒÙ†Ø¯Ú©Ø³24.16:482895Aq=
-×£ğ,ÀH²éœR<https://s2.coinmarketcap.com/static/img/coins/64x64/8525.png
-œ
-
-1404/07/1914:06æ¨Ç"XRP Healthcare*Ø±ÛŒÙ¾Ù„ Ù‡Ù„Ø«â€ŒÚ©Ø±20.0363:4216A®Gáz®.ÀHÓäœR=https://s2.coinmarketcap.com/static/img/coins/64x64/23365.png
-›
-
-1404/07/1914:05Ôå¨Ç"OpenGPU*Ø§ÙˆÙ¾Ù† Ø¬ÛŒâ€ŒÙ¾ÛŒâ€ŒÛŒÙˆ20.1308:15175A×£p=
-—0ÀHÒŞœR=https://s2.coinmarketcap.com/static/img/coins/64x64/30751.png
-Ÿ
-
-1404/07/1914:06æ¨Ç"GAM3S.GG*Ú¯ÛŒÙ…Ø² Ø¯Ø§Øª Ø¬ÛŒâ€ŒØ¬ÛŒ20.004408:511.58A…ëQ¸ÀH¾¬œR=https://s2.coinmarketcap.com/static/img/coins/64x64/29605.png
-¯
-
-1404/07/1914:06æ¨Ç"Matrix AI Network*#Ù…ØªØ±ÛŒÚ©Ø³ Ø§ÛŒâ€ŒØ¢ÛŒ Ù†ØªÙˆØ±Ú©20.005481:636.03AHáz®G/ÀH©©œR<https://s2.coinmarketcap.com/static/img/coins/64x64/2474.png
-¯
-
-1404/07/1914:05Ôå¨Ç"QuantumCoin*Ú©ÙˆØ§Ù†ØªÙˆÙ… Ú©ÙˆÛŒÙ†20.00000014709039741414364:0.0171A\Âõ(\ÀH¾œR=https://s2.coinmarketcap.com/static/img/coins/64x64/35255.png
-†
-
-1404/07/1914:05Ôå¨Ç"YETI*ÛŒØªÛŒ20.003193:370.54AÍÌÌÌÌL<ÀHìó›R=https://s2.coinmarketcap.com/static/img/coins/64x64/36754.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"GOUT*Ú¯ÙˆØª2
-0.00001671:1.9393A¤p=
-×#,ÀHˆÙ›R=https://s2.coinmarketcap.com/static/img/coins/64x64/34110.png
-¿
-
-1404/07/1914:06æ¨Ç"Apple Tokenized Stock (Ondo)*'Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø§Ù¾Ù„2245.72:28516198Aq=
-×£pÀH©Ó›R=https://s2.coinmarketcap.com/static/img/coins/64x64/38037.png
-Ó
-
-1404/07/1914:05Ôå¨Ç"#Novo Nordisk Tokenized Stock (Ondo)*6Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ù†ÙˆÙˆ Ù†ÙˆØ±Ø¯ÛŒØ³Ú©258.45:6783646A¸…ëQ¸Î?H·ƒ›R=https://s2.coinmarketcap.com/static/img/coins/64x64/38002.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Karura*Ú©Ø§Ø±ÙˆØ±Ø§20.0217:2521A®Gáz®ÀH¨ØšR=https://s2.coinmarketcap.com/static/img/coins/64x64/10042.png
-…
-
-1404/07/1914:05Ôå¨Ç"ARC*Ø¢Ø±Ú©20.002723:315.95Aö(\Âu#ÀH’¨™R=https://s2.coinmarketcap.com/static/img/coins/64x64/13051.png
-¥
-
-1404/07/1914:06æ¨Ç"donotfomoew*Ø¯ÙˆÙ†ÙˆØª ÙÙˆÙ…Ùˆ Ø§ÛŒâ€ŒØ§Ùˆ20.000404:46.94A¤p=
-×£0ÀH‡‡™R=https://s2.coinmarketcap.com/static/img/coins/64x64/31493.png
-—
-
-1404/07/1914:05Ôå¨Ç"Hive AI*Ù‡Ø§ÛŒÙˆ Ø§ÛŒâ€ŒØ¢ÛŒ20.002504:290.63A=
-×£pı>ÀHûê˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/35188.png
-†
-
-1404/07/1914:06æ¨Ç"Serum*Ø³Ø±ÙˆÙ…20.009490:1101AìQ¸…«2ÀHÚ½˜R<https://s2.coinmarketcap.com/static/img/coins/64x64/6187.png
-¤
-
-1404/07/1914:05Ôå¨Ç"	DFI.Money*"Ø¯ÛŒâ€ŒØ§Ùâ€ŒØ¢ÛŒ Ø¯Ø§Øª Ù…Ø§Ù†ÛŒ264.53:7489286Affffff.ÀH¨ƒ˜R<https://s2.coinmarketcap.com/static/img/coins/64x64/5957.png
-±
-
-1404/07/1914:05Ôå¨Ç"Doge Eat Doge*Ø¯ÙˆØ¬ Ø§ÛŒØª Ø¯ÙˆØ¬20.000000008015285012937617:0.000930Aš™™™™1ÀH‚Ô—R=https://s2.coinmarketcap.com/static/img/coins/64x64/21453.png
-‘
-
-1404/07/1914:05Ôå¨Ç"ALEX Lab*Ø§Ù„Ú©Ø³ Ù„Ø¨20.004097:475.42A
-×£p=J4ÀHóÒ—R=https://s2.coinmarketcap.com/static/img/coins/64x64/22074.png
-„
-
-1404/07/1914:05Ôå¨Ç"Gata*Ú¯Ø§ØªØ§20.0257:2981A®Gáz4ÀHÇô–R=https://s2.coinmarketcap.com/static/img/coins/64x64/38277.png
-˜
-
-1404/07/1914:06æ¨Ç"VCHAT Token*ÙˆÛŒâ€ŒÚ†Øª ØªÙˆÚ©Ù†20.3519:40842A®Gáz®@HÍ–R=https://s2.coinmarketcap.com/static/img/coins/64x64/38119.png
+1404/07/1914:20Øì¨Ç"Shrapnel*Ø´Ø±Ø§Ù¾Ù†Ù„20.002680:310.51Aáz®Ga5ÀH²’ÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/28363.png
 ‰
 
-1404/07/1914:06æ¨Ç"LIBRA*
-Ù„ÛŒØ¨Ø±Ø§20.009608:1115A×£p=
-W"ÀHĞ¯–R=https://s2.coinmarketcap.com/static/img/coins/64x64/35767.png
-
+1404/07/1914:19œì¨Ç"OVR*Ø§Ùˆ ÙˆÛŒ Ø¢Ø±20.1071:12410A…ëQ¸+ÀHŞ²ÍR<https://s2.coinmarketcap.com/static/img/coins/64x64/8144.png
+‡
 
-1404/07/1914:05Ôå¨Ç"DeHub*Ø¯ÛŒâ€ŒÙ‡Ø§Ø¨20.000603:70.01Aš™™™™™ÀHÑŠ–R=https://s2.coinmarketcap.com/static/img/coins/64x64/11560.png
-®
-
-1404/07/1914:05Ôå¨Ç"Chickencoin*Ú†ÛŒÚ©Ù†â€ŒÚ©ÙˆÛŒÙ†20.000000038062142344686677:0.004417A)\Âõ(&ÀH‘•R=https://s2.coinmarketcap.com/static/img/coins/64x64/29999.png
-˜
-
-1404/07/1914:05Ôå¨Ç"
-yesnoerror*ÛŒØ³ Ù†Ùˆ Ø§Ø±ÙˆØ±20.002443:283.53A333333-ÀH•R=https://s2.coinmarketcap.com/static/img/coins/64x64/34854.png
-Ÿ
-
-1404/07/1914:05Ôå¨Ç"Mindfak By Matt Furie*Ù…Ø§ÛŒÙ†Ø¯ÙÚ©20.003523:408.89A¸…ëQ8/@H¬±”R=https://s2.coinmarketcap.com/static/img/coins/64x64/37521.png
-
-
-1404/07/1914:05Ôå¨Ç"OpenChat*Ø§ÙˆÙ¾Ù† Ú†Øª20.0806:9358AÂõ(\O4ÀHö±“R=https://s2.coinmarketcap.com/static/img/coins/64x64/24137.png
-º
-
-1404/07/1914:06æ¨Ç"Waffles Davincij15's Cat*&ÙˆØ§ÙÙ„Ø² Ø¯Ø§ÙˆÛŒÙ†Ú†ÛŒ Û±Ûµ'Ø² Ú©Øª20.002698:313.15A®GázÀHÁ¨“R=https://s2.coinmarketcap.com/static/img/coins/64x64/31442.png
-‚
-
-1404/07/1914:06æ¨Ç"Vai*ÙˆØ§ÛŒ21.0013:116204A{®GázÄ?Hõ§“R<https://s2.coinmarketcap.com/static/img/coins/64x64/7824.png
-”
-
-1404/07/1914:06æ¨Ç"GMCoin*Ø¬ÛŒâ€ŒØ§Ù…â€ŒÚ©ÙˆÛŒÙ†20.0583:6763AHáz®GÀHŠ¾’R=https://s2.coinmarketcap.com/static/img/coins/64x64/13636.png
-®
-
-1404/07/1914:05Ôå¨Ç"Ctomorrow Platform* Ø³ÛŒâ€ŒØªÙˆÙ…Ø§Ø±Ùˆ Ù¾Ù„ØªÙØ±Ù…20.001471:170.66Aö(\Âõü¿HÓ­’R=https://s2.coinmarketcap.com/static/img/coins/64x64/16675.png
-„
-
-1404/07/1914:06æ¨Ç"Populous*Ù¾Ø§Ù¾ÙˆÙ„ÙˆØ³20.0450:5226Hœ­’R<https://s2.coinmarketcap.com/static/img/coins/64x64/1789.png
-’
-
-1404/07/1914:05Ôå¨Ç"	Luckycoin*Ù„Ø§Ú©ÛŒâ€ŒÚ©ÙˆÛŒÙ†20.1982:23001AÂõ(\,ÀHƒ’R:https://s2.coinmarketcap.com/static/img/coins/64x64/22.png
-š
-
-1404/07/1914:06æ¨Ç"Skey Network*Ø§Ø³Ú©ÛŒ Ù†ØªÙˆØ±Ú©20.005023:582.97A)\Âõ(#ÀHÎí‘R<https://s2.coinmarketcap.com/static/img/coins/64x64/8133.png
-›
-
-1404/07/1914:06æ¨Ç"Shyft Network*Ø´ÛŒÙØª Ù†ØªÙˆØ±Ú©20.001023:118.76AÍÌÌÌÌŒG@Hùë‘R<https://s2.coinmarketcap.com/static/img/coins/64x64/8917.png
-Ì
-
-1404/07/1914:05Ôå¨Ç""Ethereum Push Notification Service*3Ø§ØªØ±ÛŒÙˆÙ… Ù¾ÙˆØ´ Ù†ÙˆØªÛŒÙÛŒÚ©ÛŒØ´Ù† Ø³Ø±ÙˆÛŒØ³20.0264:3069A
-×£p=
-+ÀH¾Ğ‘R<https://s2.coinmarketcap.com/static/img/coins/64x64/9111.png
-¬
-
-1404/07/1914:05Ôå¨Ç"Stool Prisondente*Ø§Ø³ØªÙˆÙ„ Ù¾Ø±ÛŒØ²ÙˆÙ†Ø¯Ù†ØªÙ‡20.002384:276.70AìQ¸…k6ÀHÀ½‘R=https://s2.coinmarketcap.com/static/img/coins/64x64/35687.png
-Š
-
-1404/07/1914:06æ¨Ç"RCADE*
-Ø¢Ø±Ú©ÛŒØ¯20.000287:33.32AHáz®Ç3ÀH»»‘R=https://s2.coinmarketcap.com/static/img/coins/64x64/37260.png
-’
-
-1404/07/1914:06æ¨Ç"Only1*Ø§ÙˆÙ†Ù„ÛŒ ÙˆØ§Ù†20.007163:831.25A     €)ÀHÉãR=https://s2.coinmarketcap.com/static/img/coins/64x64/10891.png
-¦
-
-1404/07/1914:05Ôå¨Ç"	Nasdaq666*!Ù†Ø§Ø³Ø¯Ø§Ú© Ø´ÛŒØ´ Ø´ÛŒØ´ Ø´ÛŒØ´20.002369:274.93A…ëQ¸ETÀHÌR=https://s2.coinmarketcap.com/static/img/coins/64x64/37355.png
-¢
-
-1404/07/1914:05Ôå¨Ç"The Game Company*Ø¯ Ú¯ÛŒÙ… Ú©Ù…Ù¾Ø§Ù†ÛŒ20.008472:983.14Aö(\ÂEx@H—³R=https://s2.coinmarketcap.com/static/img/coins/64x64/35595.png
-
-
-1404/07/1914:06æ¨Ç"Harold*Ù‡Ø§Ø±ÙˆÙ„Ø¯20.002991:347.12AÃõ(\B/ÀH×R=https://s2.coinmarketcap.com/static/img/coins/64x64/34109.png
-Ñ
-
-1404/07/1914:05Ôå¨Ç"just buy $1 worth of this coin*7Ø¬Ø§Ø³Øª Ø¨Ø§ÛŒ Û± Ø¯Ù„Ø§Ø± ÙˆØ±Ø« Ø¢Ù Ø¯ÛŒØ³ Ú©ÙˆÛŒÙ†20.002352:272.91AÃõ(\Â1ÀHÍ¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/34872.png
-‹
-
-1404/07/1914:05Ôå¨Ç"MILLI*Ù…ÛŒÙ„ÛŒ2
-0.00000893:1.0367A{®Gáú:ÀH¡³R=https://s2.coinmarketcap.com/static/img/coins/64x64/29766.png
-”
-
-1404/07/1914:05Ôå¨Ç"
-ShareToken*Ø´ÛŒØ± ØªÙˆÚ©Ù†20.000991:115.02A¤p=
-×£ÀHÍ±R<https://s2.coinmarketcap.com/static/img/coins/64x64/4197.png
-‘
-
-1404/07/1914:05Ôå¨Ç"SolCex*Ø³ÙˆÙ„â€ŒØ³Ú©Ø³20.003006:348.80A®Gáz®ÀH¨‹R=https://s2.coinmarketcap.com/static/img/coins/64x64/30750.png
-
-
-1404/07/1914:06æ¨Ç"BobaCat*Ø¨ÙˆØ¨Ø§ Ú©Øª20.003781:438.75AHáz®GÀH²¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/28132.png
-š
-
-1404/07/1914:05Ôå¨Ç"
-Eternal AI*Ø§ØªØ±Ù†Ø§Ù„ Ø§ÛŒâ€ŒØ¢ÛŒ20.0101:1176Aö(\Âu$ÀH‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/31401.png
-¤
-
-1404/07/1914:05Ôå¨Ç"SingularityDAO*Ø³ÛŒÙ†Ú¯ÙˆÙ„Ø§Ø±ÛŒØªÛŒ Ø¯Ø§Ø¦Ùˆ20.0279:3237AR¸…ëQ
-ÀHçìŒR<https://s2.coinmarketcap.com/static/img/coins/64x64/9638.png
-’
-
-1404/07/1914:06æ¨Ç"	Shark Cat*Ø´Ø§Ø±Ú© Ú©Øª20.002330:270.35A¸…ëQ¸'ÀHâßŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/30309.png
-°
-
-1404/07/1914:05Ôå¨Ç"Smoking Chicken Fish* Ø§Ø³Ù…ÙˆÚ©ÛŒÙ†Ú¯ Ú†ÛŒÚ©Ù† ÙÛŒØ´20.002302:267.15A®Gáz”+ÀH…¿ŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/32615.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Plugin*Ù¾Ù„Ø§Ú¯ÛŒÙ†20.0152:1762Aš™™™™™"ÀHãŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/14188.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Prosper*Ù¾Ø±ÙˆØ³Ù¾Ø±20.0444:5148A
-×£p=
-@H›’‹R<https://s2.coinmarketcap.com/static/img/coins/64x64/8255.png
+1404/07/1914:19œì¨Ç"Tarot*
+ØªØ§Ø±ÙˆØª20.0802:9287A…ëQ¸)ÀHÍËR=https://s2.coinmarketcap.com/static/img/coins/64x64/11409.png
 
 
-1404/07/1914:05Ôå¨Ç"TCOM Global*ØªÛŒâ€ŒÚ©Ø§Ù… Ú¯Ù„ÙˆØ¨Ø§Ù„20.0248:2873A      ÀHÂƒ‹R=https://s2.coinmarketcap.com/static/img/coins/64x64/37739.png
-¤
+1404/07/1914:19œì¨Ç"Freedom Dollar*ÙØ±ÛŒØ¯Ø§Ù… Ø¯Ù„Ø§Ø±20.9998:115825A¸…ëQ¸¿H§ÁÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/37320.png
+¡
 
-1404/07/1914:05Ôå¨Ç"	Rejuve.AI*Ø±ÛŒØ¬ÛŒÙˆÙˆ Ø¯Ø§Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.002961:343.59A…ëQ¸6ÀHçüŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/23769.png
-‹
-
-1404/07/1914:05Ôå¨Ç"FACT0RN*ÙÚ©ØªÙˆØ±Ù†22.08:241958A…ëQ¸'ÀHàøŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/27103.png
-»
-
-1404/07/1914:06æ¨Ç"Non-Playable Coin Solana*'Ù†Ø§Ù† Ù¾Ù„ÛŒØ¨Ù„ Ú©ÙˆÛŒÙ† Ø³ÙˆÙ„Ø§Ù†Ø§20.002344:272.04AHáz®Ç'ÀHçŞŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/32412.png
-‡
-
-1404/07/1914:06æ¨Ç"Verse*ÙˆØ±Ø³2
-0.00005563:6.46A¸…ëQ8'ÀHî×ŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/22929.png
-”
-
-1404/07/1914:05Ôå¨Ç"KlimaDAO*Ú©Ù„ÛŒÙ…Ø§ Ø¯Ø§Ø¦Ùˆ20.2828:32819Afffffæ'@H…ŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/12873.png
+1404/07/1914:19œì¨Ç"Strawberry AI*Ø§Ø³ØªØ±Ø§Ø¨Ø±ÛŒ Ø§ÛŒâ€ŒØ¢ÛŒ20.0540:6254A\Âõ(Ü=ÀH’»ÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/32915.png
 ‘
 
-1404/07/1914:05Ôå¨Ç"GameZone*Ú¯ÛŒÙ… Ø²ÙˆÙ†20.002691:312.25A×£p=
-W%ÀHıû‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/11871.png
-
+1404/07/1914:20Øì¨Ç"MOO DENG*Ù…Ùˆ Ø¯Ù†Ú¯2
+0.00001311:1.5184AÍÌÌÌÌL1ÀH÷âÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/33076.png
+½
 
-1404/07/1914:05Ôå¨Ç"CatSlap*Ú©Øª Ø§Ø³Ù„Ù¾20.000513:59.57AR¸…ëÑ'ÀHÉùˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/34203.png
-¹
+1404/07/1914:19œì¨Ç"BlackFort Exchange Network*'Ø¨Ù„Ú© ÙÙˆØ±Øª Ø§Ú©Ø³Ú†Ù†Ø¬ Ù†ØªÙˆØ±Ú©20.001192:138.06A…ëQ¸ÀH›ÇÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/25963.png
+‹
 
-1404/07/1914:06æ¨Ç"Real Smurf Cat (ETH)*)Ø±ÛŒÛŒÙ„ Ø§Ø³Ù…ÙˆØ±Ù Ú©Øª (Ø§ØªØ±ÛŒÙˆÙ…)2
-0.00002391:2.77Aáz®Gá0ÀHÅôˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/28053.png
-
-
-1404/07/1914:05Ôå¨Ç"UniBot*ÛŒÙˆÙ†ÛŒâ€ŒØ¨Ø§Øª22.24:259624A…ëQ¸…(ÀHòÅˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/27009.png
-
-
-1404/07/1914:05Ôå¨Ç"Permission Coin*Ù¾Ø±Ù…ÛŒØ´Ù† Ú©ÙˆÛŒÙ†20.000138:16.05A=
-×£p= ÀH¸ˆR<https://s2.coinmarketcap.com/static/img/coins/64x64/7105.png
-¶
-
-1404/07/1914:05Ôå¨Ç"Trabzonspor Fan Token*)ØªØ±Ø§Ø¨ÙˆØ²Ø§Ù† Ø§Ø³Ù¾ÙˆØ± ÙÙ† ØªÙˆÚ©Ù†20.3100:35970A…ëQ¸,ÀHÖŒˆR<https://s2.coinmarketcap.com/static/img/coins/64x64/7637.png
-Œ
-
-1404/07/1914:06æ¨Ç"E Money*Ø§ÛŒ Ù…Ø§Ù†ÛŒ20.0152:1759AHáz®Ç"ÀHÖˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/35407.png
-’
-
-1404/07/1914:05Ôå¨Ç"Credefi*Ú©Ø± Ø¯ÛŒÙØ§ÛŒ20.002976:345.35A)\Âõè5ÀH±û‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/13272.png
-
-
-1404/07/1914:06æ¨Ç"Contango*Ú©ÙˆÙ†ØªØ§Ù†Ú¯Ùˆ20.0187:2174AÂõ(\(ÀHç·‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/34045.png
-˜
-
-1404/07/1914:05Ôå¨Ç"WiFi Map*ÙˆØ§ÛŒâ€ŒÙØ§ÛŒ Ù…Ù¾20.003190:370.23A{®Gáz%ÀHü‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/24133.png
+1404/07/1914:19œì¨Ç"Fluence*ÙÙ„ÙˆØ¦Ù†Ø³20.0245:2840AìQ¸…ë'ÀH¤²ÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/30097.png
 š
 
-1404/07/1914:06æ¨Ç"Shadow Exchange*Ø´Ø¯Ùˆ Ø§Ú©Ø³Ú†Ù†Ø¬26.09:707143AìQ¸…+=ÀH·ğ†R=https://s2.coinmarketcap.com/static/img/coins/64x64/36389.png
-Ÿ
+1404/07/1914:19œì¨Ç"Common Wealth*Ú©Ø§Ù…ÙˆÙ† ÙˆÙ„Ø«20.006072:703.43A)\Âõ(Ü?Hµ£ÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/31440.png
+‰
 
-1404/07/1914:05Ôå¨Ç"BNB Card*Ø¨ÛŒâ€ŒØ§Ù†â€ŒØ¨ÛŒ Ú©Ø§Ø±Øª20.002204:255.80A33333ó2ÀHÊÄ†R=https://s2.coinmarketcap.com/static/img/coins/64x64/36131.png
-•
-
-1404/07/1914:05Ôå¨Ç"	Bitcoin 2*Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Û²20.1199:13917AÃõ(\Â@H›Ä†R<https://s2.coinmarketcap.com/static/img/coins/64x64/3974.png
-£
-
-1404/07/1914:06æ¨Ç"Napoli Fan Token*Ù†Ø§Ù¾ÙˆÙ„ÛŒ ÙÙ† ØªÙˆÚ©Ù†20.5074:58881A¸…ëQ¸'ÀHªâ…R=https://s2.coinmarketcap.com/static/img/coins/64x64/15137.png
-
-
-1404/07/1914:05Ôå¨Ç"Humanode*Ù‡ÛŒÙˆÙ…Ù†ÙˆØ¯20.0144:1667A     @0ÀHæÌ…R=https://s2.coinmarketcap.com/static/img/coins/64x64/23806.png
-“
-
-1404/07/1914:05Ôå¨Ç"	Primecoin*Ù¾Ø±Ø§ÛŒÙ…â€ŒÚ©ÙˆÛŒÙ†20.0393:4562Aáz®GáÀH°€…R:https://s2.coinmarketcap.com/static/img/coins/64x64/42.png
-™
-
-1404/07/1914:06æ¨Ç"
-Blockasset*Ø¨Ù„Ø§Ú©â€ŒØ§Ø³ÙØª20.006964:808.18AÍÌÌÌÌL4ÀHÚÛ„R=https://s2.coinmarketcap.com/static/img/coins/64x64/15752.png
-¡
-
-1404/07/1914:06æ¨Ç"Butthole Coin*Ø¨Ø§Øªâ€ŒÙ‡ÙˆÙ„ Ú©ÙˆÛŒÙ†20.002165:251.21A
-×£p=Š7ÀH¾„R=https://s2.coinmarketcap.com/static/img/coins/64x64/35139.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Reploy*Ø±ÛŒÙ¾Ù„ÙˆÛŒ20.2159:25053A¸…ëQ85ÀHÎáƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/34591.png
-«
-
-1404/07/1914:06æ¨Ç"	CATWIFHAT*Ú©Øªâ€ŒÙˆÛŒÙâ€ŒÙ‡Øª20.00000007140066435744913:0.008286AìQ¸…k3ÀHÒÖƒR<https://s2.coinmarketcap.com/static/img/coins/64x64/8977.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Plair*Ù¾Ù„ÛŒØ±20.003399:394.50A…ëQ¸…9ÀHıÎƒR<https://s2.coinmarketcap.com/static/img/coins/64x64/7461.png
-±
-
-1404/07/1914:05Ôå¨Ç"Router Protocol (New)* Ø±ÙˆØªØ± Ù¾Ø±ÙˆØªÚ©Ù„ (Ø¬Ø¯ÛŒØ¯)20.004754:551.69AR¸…ëÑ)ÀHø«ƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/32544.png
-‹
-
-1404/07/1914:06æ¨Ç"Edwin*
-Ø§Ø¯ÙˆÛŒÙ†20.002150:249.52AìQ¸…«<ÀHÁƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/35545.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Gracy*
-Ú¯Ø±ÛŒØ³ÛŒ20.0121:1399Aq=
-×£ğ2ÀH€¾‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/12515.png
-ª
-
-1404/07/1914:05Ôå¨Ç"	SHIBA INU*Ø´ÛŒØ¨Ø§ Ø§ÛŒÙ†Ùˆ20.000000003163889331995928:0.000367A®Gáz4ÀHÚ•‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/37553.png
-™
-
-1404/07/1914:06æ¨Ç"KardiaChain*Ú©Ø§Ø±Ø¯ÛŒ Ø§ Ú†ÛŒÙ†20.000444:51.55A…ëQ¸…#ÀH’»R<https://s2.coinmarketcap.com/static/img/coins/64x64/5453.png
-¡
-
-1404/07/1914:05Ôå¨Ç"Rivalz Network*Ø±ÛŒÙˆØ§Ù„Ø² Ù†ØªÙˆØ±Ú©20.001831:212.50A)\Âõ(/ÀH§Ñ€R=https://s2.coinmarketcap.com/static/img/coins/64x64/35590.png
-¢
-
-1404/07/1914:05Ôå¨Ç"Okratech Token*Ø§ÙˆÚ©Ø±Ø§ ØªÚ© ØªÙˆÚ©Ù†20.002576:298.96A)\Âõh4ÀHŸµ€R=https://s2.coinmarketcap.com/static/img/coins/64x64/16252.png
-„
-
-1404/07/1914:06æ¨Ç"Zenon*Ø²Ù†ÙˆÙ†20.3304:38338A×£p=
-×ë?H§ÓR<https://s2.coinmarketcap.com/static/img/coins/64x64/4003.png
-”
-
-1404/07/1914:05Ôå¨Ç"XOCIETY*Ø§Ú©Ø³ÙˆØ³Ø§ÛŒØªÛŒ20.002781:322.77AÃõ(\Â3ÀHÕ¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/36953.png
-‡
-
-1404/07/1914:06æ¨Ç"Sipher*
-Ø³Ø§ÛŒÙØ±20.0231:2684AR¸…ëQ$ÀHÕÙ~R=https://s2.coinmarketcap.com/static/img/coins/64x64/15469.png
-‹
-
-1404/07/1914:05Ôå¨Ç"REVOX*Ø±ÛŒÙˆÙˆÚ©Ø³20.000767:89.00AR¸…ëñNÀHÆ°~R=https://s2.coinmarketcap.com/static/img/coins/64x64/34600.png
-‡
-
-1404/07/1914:05Ôå¨Ç"BASE*Ø¨ÛŒØ³2
-0.00000222:0.2577AÂõ(\&ÀHËù}R=https://s2.coinmarketcap.com/static/img/coins/64x64/27789.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Swash*Ø³ÙˆØ§Ø´20.002070:240.23A\Âõ(\ÀHÏÚ}R=https://s2.coinmarketcap.com/static/img/coins/64x64/12148.png
+1404/07/1914:19œì¨Ç"Komodo*Ú©ÙˆÙ…ÙˆØ¯Ùˆ20.0391:4525A…ëQ¸…ÀHİ‘ÄR<https://s2.coinmarketcap.com/static/img/coins/64x64/1521.png
 †
 
-1404/07/1914:06æ¨Ç"Arcas*
-Ø¢Ø±Ú©Ø§Ø³20.0297:3441A…ëQ¸…&ÀH×Ô}R=https://s2.coinmarketcap.com/static/img/coins/64x64/11279.png
-—
+1404/07/1914:19œì¨Ç"FANC*ÙÙ†Ø³20.003552:411.46A®Gáz”&ÀHØ‘ÃR=https://s2.coinmarketcap.com/static/img/coins/64x64/17450.png
+Å
 
-1404/07/1914:06æ¨Ç"Fuse Network*ÙÛŒÙˆØ² Ù†ØªÙˆØ±Ú©20.009361:1086Aš™™™™™ÀHÕĞ}R<https://s2.coinmarketcap.com/static/img/coins/64x64/5634.png
-
-
-1404/07/1914:06æ¨Ç"ZClassic*Ø²ÛŒ Ú©Ù„Ø§Ø³ÛŒÚ©20.2213:25683Aš™™™™)g@H¹}R<https://s2.coinmarketcap.com/static/img/coins/64x64/1447.png
-¢
-
-1404/07/1914:06æ¨Ç"LTO Network*Ø§Ù„â€ŒØªÛŒâ€ŒØ§Ùˆ Ù†ØªÙˆØ±Ú©20.004833:560.87A…ëQ¸:ÀH‡¡|R<https://s2.coinmarketcap.com/static/img/coins/64x64/3714.png
-Ÿ
-
-1404/07/1914:05Ôå¨Ç"Tajir Tech Hub*ØªØ§Ø¬ÛŒØ± ØªÚ© Ù‡Ø§Ø¨20.003156:366.21A…ëQ¸E3ÀH¨œ|R=https://s2.coinmarketcap.com/static/img/coins/64x64/35230.png
-
-
-1404/07/1914:05Ôå¨Ç"Nodecoin*Ù†ÙˆØ¯Ú©ÙˆÛŒÙ†20.0114:1327A     €<ÀHÖë{R=https://s2.coinmarketcap.com/static/img/coins/64x64/34971.png
-£
-
-1404/07/1914:06æ¨Ç"Exactly Protocol*Ø§Ú¯Ø²Ú©ØªÙ„ÛŒ Ù¾Ø±ÙˆØªÚ©Ù„20.5029:58363Aš™™™™™	ÀH·Ğ{R=https://s2.coinmarketcap.com/static/img/coins/64x64/27736.png
-š
-
-1404/07/1914:05Ôå¨Ç"Wecan Group*ÙˆÛŒâ€ŒÚ©Ù† Ú¯Ø±ÙˆÙ¾20.002446:283.90AÃõ(\Â+ÀHôÄ{R=https://s2.coinmarketcap.com/static/img/coins/64x64/26833.png
-
-
-1404/07/1914:05Ôå¨Ç"COCORO*Ú©ÙˆÚ©ÙˆØ±Ùˆ2
-0.00000480:0.5573A…ëQ¸'ÀH ¦{R=https://s2.coinmarketcap.com/static/img/coins/64x64/36264.png
-˜
-
-1404/07/1914:05Ôå¨Ç"Orbit Chain*Ø§ÙˆØ±Ø¨ÛŒØª Ú†ÛŒÙ†20.002938:340.98A¤p=
-×£!ÀH™îzR<https://s2.coinmarketcap.com/static/img/coins/64x64/5326.png
-¢
-
-1404/07/1914:06æ¨Ç"Medieval Empires*Ù…Ø¯ÛŒÙˆÙ„ Ø§Ù…Ù¾Ø§ÛŒØ±20.003593:416.99A3333332ÀHİ×zR=https://s2.coinmarketcap.com/static/img/coins/64x64/22050.png
-™
-
-1404/07/1914:05Ôå¨Ç"Creo Engine*Ú©Ø±Ø¦Ùˆ Ø§Ù†Ø¬ÛŒÙ†20.003333:386.80A®Gáz”*ÀHà‡zR=https://s2.coinmarketcap.com/static/img/coins/64x64/17000.png
-”
-
-1404/07/1914:05Ôå¨Ç"	Cypherium*Ø³Ø§ÛŒÙØ±ÛŒÙˆÙ…20.005214:605.06A\Âõ(Ü.ÀHÍîyR=https://s2.coinmarketcap.com/static/img/coins/64x64/14339.png
-’
-
-1404/07/1914:05Ôå¨Ç"Vexanium*ÙˆÚ©Ø³Ø§Ù†ÛŒÙˆÙ…20.002710:314.51A
-×£p=
-Ç¿H­yR<https://s2.coinmarketcap.com/static/img/coins/64x64/2998.png
-‚
-
-1404/07/1914:05Ôå¨Ç"	Holy coin20.001981:229.89AR¸…ëQô?HäóxR=https://s2.coinmarketcap.com/static/img/coins/64x64/38533.png
-–
-
-1404/07/1914:06æ¨Ç"Multibit*Ù…Ø§Ù„ØªÛŒâ€ŒØ¨ÛŒØª20.002079:241.25A…ëQ¸…2ÀH€ÅxR=https://s2.coinmarketcap.com/static/img/coins/64x64/28412.png
+1404/07/1914:19œì¨Ç"!Alphabet tokenized stock (xStock)*(Ø§Ù„ÙØ§Ø¨Øª ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2233.98:27107562A¤p=
+×£ÀHßÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/37013.png
 œ
 
-1404/07/1914:06æ¨Ç"
-StreamCoin*Ø§Ø³ØªØ±ÛŒÙ…â€ŒÚ©ÙˆÛŒÙ†20.001323:153.52Aš™™™™™%ÀHÎÂxR=https://s2.coinmarketcap.com/static/img/coins/64x64/17464.png
-¥
+1404/07/1914:19œì¨Ç"GT Protocol*Ø¬ÛŒâ€ŒØªÛŒ Ù¾Ø±ÙˆØªÚ©Ù„20.0875:10138AHáz®Ç#ÀHËÎÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/16711.png
+±
 
-1404/07/1914:05Ôå¨Ç"Darwinia Network*Ø¯Ø§Ø±ÙˆÛŒÙ†ÛŒØ§ Ù†ØªÙˆØ±Ú©20.001163:134.96A¸…ëQ8$ÀHúxR<https://s2.coinmarketcap.com/static/img/coins/64x64/5798.png
-„
+1404/07/1914:19œì¨Ç"AGI ALPHA AGENT*&Ø§ÛŒâ€ŒØ¬ÛŒâ€ŒØ¢ÛŒ Ø¢Ù„ÙØ§ Ø§ÛŒØ¬Ù†Øª20.005273:610.95AR¸…ëÑ/ÀHúîÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/35482.png
+”
 
-1404/07/1914:05Ôå¨Ç"MAD*Ù…Ø¯2
-0.00000196:0.2279AÂõ(\O5ÀHüïwR=https://s2.coinmarketcap.com/static/img/coins/64x64/32103.png
-š
+1404/07/1914:19œì¨Ç"	ChainSwap*Ú†ÛŒÙ† Ø³ÙˆØ§Ù¾20.005687:658.90Aq=
+×£p$ÀH×ìÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/29780.png
+©
 
-1404/07/1914:05Ôå¨Ç"Cream Finance*Ú©Ø±ÛŒÙ… ÙØ§ÛŒÙ†Ù†Ø³21.0577:122744AÂõ(\ÀHËåwR<https://s2.coinmarketcap.com/static/img/coins/64x64/6193.png
+1404/07/1914:19œì¨Ç"Artyfact Metaverse*Ø¢Ø±ØªÛŒâ€ŒÙÚ©Øª Ù…ØªØ§ÙˆØ±Ø³20.2696:31229Aáz®Ga,ÀHƒÀÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/23751.png
 ‡
 
-1404/07/1914:06æ¨Ç"Obyte*Ø§ÙˆØ¨Ø§ÛŒØª22.16:251015AffffffÀH“ÁwR<https://s2.coinmarketcap.com/static/img/coins/64x64/1492.png
-›
+1404/07/1914:19œì¨Ç"Grok*Ú¯Ø±ÙˆÚ©20.000830:96.18A     À0ÀH“¡ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/28394.png
+ª
 
-1404/07/1914:05Ôå¨Ç"Aipocalypto*Ø§ÛŒâ€ŒÙ¾ÙˆÚ©Ø§Ù„ÛŒÙ¾ØªÙˆ20.0140:1623A=
-×£p=ú¿HÍ‹wR=https://s2.coinmarketcap.com/static/img/coins/64x64/33901.png
-‡
-
-1404/07/1914:05Ôå¨Ç"MAGA*Ù…Ú¯Ø§2
-0.00000496:0.5757A
-×£p=Š5ÀHé”vR=https://s2.coinmarketcap.com/static/img/coins/64x64/31305.png
-€
-
-1404/07/1914:06æ¨Ç"Pockemy20.001931:224.13A{®Gáz@HìïuR=https://s2.coinmarketcap.com/static/img/coins/64x64/38532.png
-˜
-
-1404/07/1914:06æ¨Ç"SunContract*Ø³Ø§Ù† Ú©Ø§Ù†ØªØ±Ø§Ú©Øª20.0245:2845A®GázÀHÊâuR<https://s2.coinmarketcap.com/static/img/coins/64x64/1786.png
-
-
-1404/07/1914:05Ôå¨Ç"MXC*Ø§Ù…â€ŒØ§Ú©Ø³â€ŒØ³ÛŒ20.000631:73.28A)\ÂõèH@H¬ÜuR<https://s2.coinmarketcap.com/static/img/coins/64x64/3628.png
-‡
-
-1404/07/1914:05Ôå¨Ç"HAVAH*Ù‡Ø§ÙˆØ§20.000852:98.85A…ëQ¸…'ÀHøÅuR=https://s2.coinmarketcap.com/static/img/coins/64x64/23633.png
-“
-
-1404/07/1914:06æ¨Ç"	JumpToken*Ø¬Ø§Ù…Ù¾ ØªÙˆÚ©Ù†21.0145:117729A
-×£p=
-ÀHõ¢uR=https://s2.coinmarketcap.com/static/img/coins/64x64/17334.png
-Î
-
-1404/07/1914:05Ôå¨Ç"Multi Asset Investment Vehicle*5Ù…Ø§Ù„ØªÛŒâ€ŒØ§Ø³ÙØª Ø§ÛŒÙ†ÙˆØ³ØªÙ…Ù†Øª ÙˆÙÙ‡ÛŒÚ©Ù„20.001288:149.52AÃõ(\<ÀH˜ uR=https://s2.coinmarketcap.com/static/img/coins/64x64/36738.png
-
-
-1404/07/1914:05Ôå¨Ç"KOMPETE*Ú©ÙˆÙ…Ù¾ÛŒØª20.002543:295.09AR¸…ëÑ ÀHÆÄtR=https://s2.coinmarketcap.com/static/img/coins/64x64/18795.png
-«
-
-1404/07/1914:05Ôå¨Ç"Universe Boss Coin*ÛŒÙˆÙ†ÛŒÙˆØ±Ø³ Ø¨Ø§Ø³ Ú©ÙˆÛŒÙ†20.001899:220.37Afffffæ,ÀH¨ósR=https://s2.coinmarketcap.com/static/img/coins/64x64/36575.png
-
-
-1404/07/1914:05Ôå¨Ç"Azuro Protocol*Ø¢Ø²ÙˆØ±Ùˆ Ù¾Ø±ÙˆØªÚ©Ù„20.009447:1096A)\Âõ(!ÀHåßsR=https://s2.coinmarketcap.com/static/img/coins/64x64/31775.png
-…
-
-1404/07/1914:06æ¨Ç"Boop*Ø¨ÙˆÙ¾2
-0.00001901:2.21Aáz®Gá,ÀHıÅsR=https://s2.coinmarketcap.com/static/img/coins/64x64/30525.png
-®
-
-1404/07/1914:06æ¨Ç"Agent Virtual Machine*"Ø§ÛŒØ¬Ù†Øª ÙˆÛŒØ±ØªÙˆØ§Ù„ Ù…ÛŒØ´Ù†20.0357:4140Aq=
-×£°:ÀHèärR=https://s2.coinmarketcap.com/static/img/coins/64x64/36805.png
-
-
-1404/07/1914:05Ôå¨Ç"Signum*Ø³ÛŒÚ¯Ù†ÙˆÙ…20.000882:102.37A×£p=
-×Ó¿HÈÖrR=https://s2.coinmarketcap.com/static/img/coins/64x64/10776.png
+1404/07/1914:19œì¨Ç"
+Jesus Coin*Ø¬ÛŒØ²Ø³ Ú©ÙˆÛŒÙ†20.00000003441685422287594:0.003987AÍÌÌÌÌÌ2ÀHç‹¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/24747.png
 
 
-1404/07/1914:05Ôå¨Ç"	Mintlayer*Ù…ÛŒÙ†Øª Ù„ÛŒØ±20.0293:3396A¸…ëQ8(ÀHÁÓrR=https://s2.coinmarketcap.com/static/img/coins/64x64/14977.png
-
+1404/07/1914:19œì¨Ç"Validity*ÙˆÙ„ÛŒØ¯ÛŒØªÛŒ21.0202:118191Aáz®Gá-@HõÏ½R<https://s2.coinmarketcap.com/static/img/coins/64x64/1154.png
+’
 
-1404/07/1914:06æ¨Ç"The Nation Token*Ù†ÛŒØ´Ù† ØªÙˆÚ©Ù†2
-0.00000187:0.2176A®Gáz®ÀH±¸rR=https://s2.coinmarketcap.com/static/img/coins/64x64/34756.png
-“
-
-1404/07/1914:06æ¨Ç"AgriDex*Ø§Ú¯Ø±ÛŒâ€ŒØ¯Ú©Ø³20.006595:765.41A=
-×£p=ÀHİ©rR=https://s2.coinmarketcap.com/static/img/coins/64x64/34386.png
-£
-
-1404/07/1914:05Ôå¨Ç"NanoByte Token*Ù†Ø§Ù†Ùˆ Ø¨Ø§ÛŒØª ØªÙˆÚ©Ù†20.001983:230.18A\Âõ(\ÀHÄ¦rR=https://s2.coinmarketcap.com/static/img/coins/64x64/18101.png
-
-
-1404/07/1914:06æ¨Ç"Patriot*Ù¾ØªØ±ÛŒÙˆØª20.000187:21.72AÃõ(\Â+ÀHÌŸrR=https://s2.coinmarketcap.com/static/img/coins/64x64/33786.png
+1404/07/1914:19œì¨Ç"Persistence*Ù¾Ø±Ø³ÛŒØ³ØªÙ†Ø³20.0244:2823A
+×£p=
+2ÀHÿ¯½R<https://s2.coinmarketcap.com/static/img/coins/64x64/7281.png
 Š
 
-1404/07/1914:06æ¨Ç"DeRace*Ø¯ÛŒØ³ Ø±ÛŒØ³20.0155:1803A
-×£p=
-ç¿H–åqR=https://s2.coinmarketcap.com/static/img/coins/64x64/10744.png
-›
+1404/07/1914:19œì¨Ç"Minima*Ù…ÛŒÙ†ÛŒÙ…Ø§20.0127:1477Aš™™™™™ñ¿Hº¦¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/20117.png
+š
 
-1404/07/1914:05Ôå¨Ç"DecideAI*Ø¯ÛŒØ³Ø§ÛŒØ¯ Ø§ÛŒâ€ŒØ¢ÛŒ20.003793:440.19A
-×£p=
-ÀH¦‘qR=https://s2.coinmarketcap.com/static/img/coins/64x64/29104.png
-™
-
-1404/07/1914:05Ôå¨Ç"Foxsy AI*ÙØ§Ú©Ø³ÛŒ Ø§ÛŒâ€ŒØ¢ÛŒ20.002801:325.07AìQ¸…‹AÀH¸…qR=https://s2.coinmarketcap.com/static/img/coins/64x64/31259.png
-™
-
-1404/07/1914:05Ôå¨Ç"Bitcoin.â„*Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ø§Ú†20.6719:77973A)\Âõè2ÀHÃæpR=https://s2.coinmarketcap.com/static/img/coins/64x64/36350.png
-Œ
-
-1404/07/1914:06æ¨Ç"ORBIT*Ø§ÙˆØ±Ø¨ÛŒØª20.001841:213.63A33333s>ÀHÿ¨pR=https://s2.coinmarketcap.com/static/img/coins/64x64/35090.png
-¦
-
-1404/07/1914:05Ôå¨Ç"Solcasino Token*Ø³ÙˆÙ„ Ú©Ø§Ø²ÛŒÙ†Ùˆ ØªÙˆÚ©Ù†20.001499:173.97AR¸…ëÑ0ÀHë¡pR=https://s2.coinmarketcap.com/static/img/coins/64x64/25101.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Billy*Ø¨ÛŒÙ„ÛŒ20.001961:227.53Affffff8ÀH€ƒpR=https://s2.coinmarketcap.com/static/img/coins/64x64/31914.png
-—
-
-1404/07/1914:05Ôå¨Ç"
-MagicCraft*Ù…Ø¬ÛŒÚ© Ú©Ø±Ø§ÙØª20.000364:42.21AÂõ(\$ÀHŸîoR=https://s2.coinmarketcap.com/static/img/coins/64x64/15721.png
-–
-
-1404/07/1914:05Ôå¨Ç"
-CrappyBird*Ú©Ø±Ù¾ÛŒâ€ŒØ¨Ø±Ø¯20.001530:177.55A×£p=
-W+ÀHòêoR=https://s2.coinmarketcap.com/static/img/coins/64x64/36780.png
-†
-
-1404/07/1914:06æ¨Ç"TaleX*
-ØªÙÙ„Ú©Ø³20.0122:1417A=
-×£p=0ÀH›ãoR=https://s2.coinmarketcap.com/static/img/coins/64x64/37610.png
-˜
-
-1404/07/1914:05Ôå¨Ç" Netflix tokenized stock (xStock)21221:	141645467A¤p=
-×£ğ¿H°ßoR=https://s2.coinmarketcap.com/static/img/coins/64x64/37060.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"PARSIQ*Ù¾Ø§Ø±Ø³ÛŒÙ‚20.005870:681.25AÃõ(\B'ÀHô”oR<https://s2.coinmarketcap.com/static/img/coins/64x64/5410.png
-
-
-1404/07/1914:05Ôå¨Ç"Tevaera*ØªÙÙˆÙØ±Ø§20.003715:431.17A333333"ÀHÈŒoR=https://s2.coinmarketcap.com/static/img/coins/64x64/35689.png
+1404/07/1914:19œì¨Ç"Sogni AI*Ø³ÙˆÚ¯Ù†ÛŒ Ø§ÛŒâ€ŒØ¢ÛŒ20.004221:489.06AR¸…ëÑ"ÀHï«¸R=https://s2.coinmarketcap.com/static/img/coins/64x64/35621.png
 
 
-1404/07/1914:05Ôå¨Ç"MarsDAO*Ù…Ø§Ø±Ø³ Ø¯Ø§Ø¦Ùˆ20.0256:2972Aáz®GáÀHê­nR=https://s2.coinmarketcap.com/static/img/coins/64x64/18913.png
-Œ
+1404/07/1914:20Øì¨Ç"Taraxa*ØªØ§Ø±Ø§Ú©Ø³Ø§20.000898:104.04A®Gáz”"ÀHØ°·R<https://s2.coinmarketcap.com/static/img/coins/64x64/8715.png
+³
 
-1404/07/1914:05Ôå¨Ç"Banano*Ø¨Ø§Ù†Ø§Ù†Ùˆ20.001125:130.53A333333+ÀH‡—nR<https://s2.coinmarketcap.com/static/img/coins/64x64/4704.png
+1404/07/1914:19œì¨Ç"VNX Swiss Franc**ÙˆÛŒâ€ŒØ§Ù†â€ŒØ§Ú©Ø³ Ø³ÙˆØ¦ÛŒØ³ ÙØ±Ø§Ù†Ú©21.2463:144390AÃõ(\ÂÕ?HåËµR=https://s2.coinmarketcap.com/static/img/coins/64x64/24130.png
+‘
+
+1404/07/1914:19œì¨Ç"Metahero*Ù…Øª Ø§Ù‡Ø±Ùˆ20.000994:115.19A
+×£p=Š$ÀH„µR=https://s2.coinmarketcap.com/static/img/coins/64x64/10778.png
+‘
+
+1404/07/1914:19œì¨Ç"PussFi*Ù¾Ø§Ø³â€ŒÙØ§ÛŒ20.005723:663.07Aáz®GáÀHÉÿ²R=https://s2.coinmarketcap.com/static/img/coins/64x64/33165.png
+ƒ
+
+1404/07/1914:20Øì¨Ç"WELF*ÙˆÙ„Ù20.4684:54263A=
+×£p=ÀHÿ°²R=https://s2.coinmarketcap.com/static/img/coins/64x64/34082.png
 
 
-1404/07/1914:05Ôå¨Ç"Alpaca Finance*Ø¢Ù„Ù¾Ø§Ú©Ø§ ÙØ§ÛŒÙ†Ù†Ø³20.0117:1363AR¸…ëÑ%ÀHäŞlR<https://s2.coinmarketcap.com/static/img/coins/64x64/8707.png
-µ
+1404/07/1914:19œì¨Ç"The Root Network*Ø±ÙˆØª Ù†ØªÙˆØ±Ú©20.001294:149.96A®Gáz.+ÀHšú±R=https://s2.coinmarketcap.com/static/img/coins/64x64/28479.png
+¨
 
-1404/07/1914:06æ¨Ç"Baby Grok (babygrok.ai)*Ø¨Ø¨ÛŒ Ú¯Ñ€Ğ¾Ğº20.000000005545734278944872:0.000644Aq=
-×£p"ÀHåÆlR=https://s2.coinmarketcap.com/static/img/coins/64x64/37458.png
-­
+1404/07/1914:19œì¨Ç"Trias Token (new)*ØªØ±Ø§ÛŒØ³ ØªÙˆÚ©Ù† (Ø¬Ø¯ÛŒØ¯)21.0007:115937A      "ÀHò²±R<https://s2.coinmarketcap.com/static/img/coins/64x64/8936.png
+„
 
-1404/07/1914:06æ¨Ç"OmniFlix Network*"Ø§ÙˆÙ…Ù†ÛŒâ€ŒÙÙ„ÛŒÚ©Ø³ Ù†ØªÙˆØ±Ú©20.007081:821.76Aö(\Âµ4ÀH‘°lR=https://s2.coinmarketcap.com/static/img/coins/64x64/24645.png
+1404/07/1914:20Øì¨Ç"Gleec*Ú¯Ù„ÛŒÚ©20.0275:3186A33333s5ÀHûˆ±R<https://s2.coinmarketcap.com/static/img/coins/64x64/5200.png
+
+
+1404/07/1914:20Øì¨Ç"Gamium*Ú¯Ø§Ù…ÛŒÙˆÙ…20.000102:11.83AHáz®G%ÀHäˆ±R=https://s2.coinmarketcap.com/static/img/coins/64x64/14304.png
+Š
+
+1404/07/1914:20Øì¨Ç"Pluton*Ù¾Ù„ÙˆØªÙˆÙ†20.3286:38073A×£p=
+—1ÀH±ñ°R<https://s2.coinmarketcap.com/static/img/coins/64x64/1392.png
+«
+
+1404/07/1914:19œì¨Ç"	Kishu Inu*Ú©ÛŒØ´Ùˆ Ø§ÛŒÙ†Ùˆ20.000000000053471557563268:
+0.00000600AHáz®Ç,ÀH¤û¯R<https://s2.coinmarketcap.com/static/img/coins/64x64/9386.png
+¥
+
+1404/07/1914:20Øì¨Ç"RocketX exchange*Ø±Ø§Ú©Øª Ø§ÛŒÚ©Ø³ Ø§Ú©Ø³Ú†Ù†Ø¬20.0529:6131Aö(\Âu)ÀHåÏ®R<https://s2.coinmarketcap.com/static/img/coins/64x64/9176.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Truth*ØªØ±ÙˆØ«20.000408:47.27A×£p=
+×#ÀHÑÃ®R=https://s2.coinmarketcap.com/static/img/coins/64x64/35829.png
+›
+
+1404/07/1914:19œì¨Ç"Shido Network*Ø´ÛŒØ¯Ùˆ Ù†ØªÙˆØ±Ú©20.000261:30.22A33333³*ÀHÙ°­R=https://s2.coinmarketcap.com/static/img/coins/64x64/34836.png
+
+
+1404/07/1914:19œì¨Ç"XL1*Ø§Ú©Ø³â€ŒØ§Ù„Û±20.000860:99.66A{®Gáú(ÀHä«­R=https://s2.coinmarketcap.com/static/img/coins/64x64/38234.png
+Œ
+
+1404/07/1914:19œì¨Ç"Vertcoin*ÙˆØ±Øª Ú©ÙˆÛŒÙ†20.0676:7826A\Âõ(\ÀHŞ¨­R:https://s2.coinmarketcap.com/static/img/coins/64x64/99.png
+‘
+
+1404/07/1914:19œì¨Ç"Funtico*ÙØ§Ù†ØªÛŒÚ©Ùˆ20.002307:267.24A×£p=
+×	ÀHÆ˜­R=https://s2.coinmarketcap.com/static/img/coins/64x64/30767.png
+—
+
+1404/07/1914:19œì¨Ç"	Ledger AI*Ù„Ø¬Ø± Ø§ÛŒâ€ŒØ¢ÛŒ20.002562:296.86A33333³(ÀH…˜¬R=https://s2.coinmarketcap.com/static/img/coins/64x64/32223.png
+®
+
+1404/07/1914:19œì¨Ç"SwarmNode.ai*&Ø³ÙˆØ§Ø±Ù…â€ŒÙ†ÙˆØ¯ Ø¯Ø§Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.004909:568.68A…ëQ¸^2ÀHäÊ«R=https://s2.coinmarketcap.com/static/img/coins/64x64/35064.png
+¬
+
+1404/07/1914:19œì¨Ç"Guild of Guardians*Ú¯ÛŒÙ„Ø¯ Ø¢Ù Ú¯Ø§Ø±Ø¯ÛŒØ§Ù†Ø²20.006109:707.73AÍÌÌÌÌÌ)ÀHæªªR=https://s2.coinmarketcap.com/static/img/coins/64x64/10630.png
+¦
+
+1404/07/1914:19œì¨Ç"	ABBC Coin*"Ø§ÛŒâ€ŒØ¨ÛŒâ€ŒØ¨ÛŒâ€ŒØ³ÛŒ Ú©ÙˆÛŒÙ†20.005395:625.07A)\Âõ(ÀHãªR<https://s2.coinmarketcap.com/static/img/coins/64x64/3437.png
+ 
+
+1404/07/1914:19œì¨Ç"Karate Combat*Ú©Ø§Ø±Ø§ØªÙ‡ Ú©Ø§Ù…Ø¨Øª2
+0.00007325:8.49AÂõ(\3ÀH¥û©R=https://s2.coinmarketcap.com/static/img/coins/64x64/25224.png
+œ
+
+1404/07/1914:19œì¨Ç"Hoge Finance*Ù‡ÙˆØ¬ ÙØ§ÛŒÙ†Ù†Ø³2
+0.00001232:1.4270A     €*ÀHóá§R<https://s2.coinmarketcap.com/static/img/coins/64x64/8438.png
+
+
+1404/07/1914:20Øì¨Ç"TriumphX*ØªØ±ÛŒÙˆÙ…Ù Ø§ÛŒÚ©Ø³20.000944:109.31H¥ş¦R<https://s2.coinmarketcap.com/static/img/coins/64x64/6801.png
+‘
+
+1404/07/1914:19œì¨Ç"Silencio*Ø³ÛŒÙ„Ù†Ø³ÛŒÙˆ20.000277:32.09AìQ¸…ë$ÀHµÌ¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/35433.png
+«
+
+1404/07/1914:20Øì¨Ç"LOBOâ€¢THEâ€¢WOLFâ€¢PUP*Ù„ÙˆØ¨Ùˆ Ø¯ ÙˆÙ„Ù Ù¾Ø§Ù¾20.000276:31.94AHáz®‡2ÀHµÉ¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/31051.png
+˜
+
+1404/07/1914:19œì¨Ç"Mother Iggy*Ù…Ø§Ø¯Ø± Ø§ÛŒÚ¯ÛŒ20.004883:565.76A
+×£p=J8ÀH›÷¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/31510.png
+z
+
+1404/07/1914:20Øì¨Ç"TMX29.25:1071673A333333ÿ¿Há¥¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/38480.png
+’
+
+1404/07/1914:20Øì¨Ç"
+Ethervista*Ø§ØªØ±ÙˆÛŒØ³ØªØ§25.10:590739A\Âõ(œ2ÀHÅã¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/32943.png
+©
+
+1404/07/1914:19œì¨Ç"Graphlinq Protocol* Ú¯Ø±Ø§Ùâ€ŒÙ„ÛŒÙ†Ù‚ Ù¾Ø±ÙˆØªÚ©Ù„20.0139:1613A®Gáz.*ÀHî¡R<https://s2.coinmarketcap.com/static/img/coins/64x64/9029.png
+’
+
+1404/07/1914:19œì¨Ç"	Not Pixel*Ù†Ø§Øª Ù¾ÛŒÚ©Ø³Ù„20.0265:3070Affffff3ÀHÕŸ R=https://s2.coinmarketcap.com/static/img/coins/64x64/35392.png
+˜
+
+1404/07/1914:19œì¨Ç"Creta World*Ú©Ø±ØªØ§ ÙˆØ±Ù„Ø¯20.003214:372.33A®Gáz® ÀHÙÏŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/23351.png
+ª
+
+1404/07/1914:19œì¨Ç"Worldwide USD*#ÙˆØ±Ù„Ø¯ÙˆØ§ÛŒØ¯ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0011:115985A{®Gáz´?HÖÏŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/29318.png
+š
+
+1404/07/1914:19œì¨Ç"BitForex Token*Ø¨ÛŒØª ÙØ§Ø±Ú©Ø³ ØªÙˆÚ©Ù†20.001095:126.81HÅR<https://s2.coinmarketcap.com/static/img/coins/64x64/4283.png
+¦
+
+1404/07/1914:20Øì¨Ç"DogeBonk*Ø¯ÙˆØ¬ Ø¨ÙˆÙ†Ú©20.00000000804954545813835:0.000933Aš™™™™%ÀHĞ´R=https://s2.coinmarketcap.com/static/img/coins/64x64/12859.png
+
+
+1404/07/1914:20Øì¨Ç"KiloEx*Ú©ÛŒÙ„Ùˆ Ø§Ú©Ø³20.0222:2567AìQ¸…+3ÀH´§R=https://s2.coinmarketcap.com/static/img/coins/64x64/36053.png
+’
+
+1404/07/1914:20Øì¨Ç"LinqAI*Ù„ÛŒÙ†Ù‚ Ø§ÛŒâ€ŒØ¢ÛŒ20.0161:1870A33333³.ÀHãıR=https://s2.coinmarketcap.com/static/img/coins/64x64/30177.png
+‘
+
+1404/07/1914:19œì¨Ç"	JoJoWorld*Ø¬ÙˆØ¬ÙˆÙˆØ±Ù„Ø¯20.0418:4841AÂõ(\O1ÀHëÒR=https://s2.coinmarketcap.com/static/img/coins/64x64/38402.png
+š
+
+1404/07/1914:20Øì¨Ç"Cycle Network*Ø³Ø§ÛŒÚ©Ù„ Ù†ØªÙˆØ±Ú©20.0304:3517AÂõ(\=ÀHáåœR=https://s2.coinmarketcap.com/static/img/coins/64x64/36962.png
+˜
+
+1404/07/1914:19œì¨Ç"Nexa*Ù†Ú©Ø³Ø§20.0000007954801288139488:0.0922A
+×£p=Š$ÀHÛ¿œR=https://s2.coinmarketcap.com/static/img/coins/64x64/23380.png
+‹
+
+1404/07/1914:19œì¨Ç"Hoppy*Ù‡Ø§Ù¾ÛŒ2
+0.00001108:1.2832AÃõ(\‚1ÀHí±œR=https://s2.coinmarketcap.com/static/img/coins/64x64/30859.png
+—
+
+1404/07/1914:20Øì¨Ç"RHEA Finance*Ø±ÛŒØ§ ÙØ§ÛŒÙ†Ù†Ø³20.0233:2697A¤p=
+×ã2ÀHË˜œR=https://s2.coinmarketcap.com/static/img/coins/64x64/37529.png
+‹
+
+1404/07/1914:19œì¨Ç"Matchain*
+Ù…ØªÚ†ÛŒÙ†20.5147:59626A…ëQ¸%@H”Ğ›R=https://s2.coinmarketcap.com/static/img/coins/64x64/36397.png
+¬
+
+1404/07/1914:19œì¨Ç"BILLIONâ€¢DOLLARâ€¢CAT*Ø¨ÛŒÙ„ÛŒÙˆÙ† Ø¯Ø§Ù„Ø± Ú©Øª20.004636:537.04A      :ÀH÷šR=https://s2.coinmarketcap.com/static/img/coins/64x64/31668.png
+´
+
+1404/07/1914:19œì¨Ç"OpenxAI Network*,Ø§ÙˆÙ¾Ù†â€ŒØ§ÛŒÚ©Ø³â€ŒØ§ÛŒâ€ŒØ¢ÛŒ Ù†ØªÙˆØ±Ú©20.4632:53667A¤p=
+×# ÀHèéšR=https://s2.coinmarketcap.com/static/img/coins/64x64/38368.png
+“
+
+1404/07/1914:19œì¨Ç"ZTX*Ø²ÛŒâ€ŒØªÛŒâ€ŒØ§Ú©Ø³20.001099:127.35AÂõ(\O4ÀH€šR=https://s2.coinmarketcap.com/static/img/coins/64x64/28249.png
+£
+
+1404/07/1914:19œì¨Ç"ICB Network*Ø¢ÛŒâ€ŒØ³ÛŒâ€ŒØ¨ÛŒ Ù†ØªÙˆØ±Ú©20.000238:27.58AìQ¸…ëé¿H˜­˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/33350.png
+
+
+1404/07/1914:20Øì¨Ç"Moonveil*Ù…ÙˆÙ†â€ŒÙˆÛŒÙ„20.0255:2955AÍÌÌÌÌL-ÀHö˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/36944.png
+¨
+
+1404/07/1914:19œì¨Ç"QuadrantProtocol*Ú©ÙˆØ§Ø¯Ø±Ø§Ù†Øª Ù¾Ø±ÙˆØªÚ©Ù„20.004571:529.57A{®Gáú(ÀHÅÿ–R<https://s2.coinmarketcap.com/static/img/coins/64x64/3625.png
+‘
+
+1404/07/1914:19œì¨Ç"Lion Cat*Ù„Ø§ÛŒÙˆÙ† Ú©Øª20.009189:1065A)\Âõ¨-ÀHÕ™•R=https://s2.coinmarketcap.com/static/img/coins/64x64/35867.png
+ƒ
+
+1404/07/1914:19œì¨Ç"MAGA*Ù…Ú¯Ø§20.1031:11942A×£p=
+W-ÀH·æ”R=https://s2.coinmarketcap.com/static/img/coins/64x64/27872.png
+•
+
+1404/07/1914:19œì¨Ç"Bytecoin*Ø¨Ø§ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†2
+0.00002445:2.83A{®GázÀH®Ö’R;https://s2.coinmarketcap.com/static/img/coins/64x64/372.png
+¨
+
+1404/07/1914:20Øì¨Ç"KLAYswap Protocol* Ú©Ù„ÙÛŒâ€ŒØ³ÙˆØ§Ù¾ Ù¾Ø±ÙˆØªÚ©Ù„20.0565:6546A®Gáz®ÀH¸Ç’R<https://s2.coinmarketcap.com/static/img/coins/64x64/8296.png
+›
+
+1404/07/1914:19œì¨Ç"Alliance Games*Ø§Ù„ÛŒØ§Ù†Ø³ Ú¯ÛŒÙ…Ø²20.0123:1424AfffffÆT@HÃë‘R=https://s2.coinmarketcap.com/static/img/coins/64x64/17947.png
+™
+
+1404/07/1914:20Øì¨Ç"Shido (new)*Ø´ÛŒØ¯Ùˆ (Ø¬Ø¯ÛŒØ¯)20.000251:29.06A®Gáz®ÀHÆçR=https://s2.coinmarketcap.com/static/img/coins/64x64/28211.png
+‡
+
+1404/07/1914:19œì¨Ç"Rally*Ø±Ø§Ù„ÛŒ20.000846:98.07AÍÌÌÌÌÌÀHŸÕR<https://s2.coinmarketcap.com/static/img/coins/64x64/8075.png
+
+
+1404/07/1914:19œì¨Ç"AirSwap*Ø§ÛŒØ± Ø³ÙˆØ§Ù¾20.0253:2936A)\Âõ()ÀH³õR<https://s2.coinmarketcap.com/static/img/coins/64x64/2058.png
+«
+
+1404/07/1914:19œì¨Ç"
+PornRocket*Ù¾ÙˆØ±Ù† Ø±Ø§Ú©Øª20.000000011542340447086366:0.001337AR¸…ëQ$ÀH£¸R=https://s2.coinmarketcap.com/static/img/coins/64x64/10165.png
+¤
+
+1404/07/1914:20Øì¨Ç"Dvision Network*Ø¯ÛŒâ€ŒÙˆÛŒÚ˜Ù† Ù†ØªÙˆØ±Ú©20.004404:510.16Aš™™™™2ÀHÑâŒR<https://s2.coinmarketcap.com/static/img/coins/64x64/7590.png
+ˆ
+
+1404/07/1914:19œì¨Ç"TOWER*ØªØ§ÙˆØ±20.001109:128.43A®Gáz®ÀHù½ŒR<https://s2.coinmarketcap.com/static/img/coins/64x64/8620.png
+€
+
+1404/07/1914:19œì¨Ç"
+Fragmetric20.0246:2845AìQ¸…ë4ÀH÷ö‹R=https://s2.coinmarketcap.com/static/img/coins/64x64/37238.png
+°
+
+1404/07/1914:20Øì¨Ç"SMARDEX USDN**Ø§Ø³Ù…Ø§Ø±Ø¯Ú©Ø³ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒâ€ŒØ§Ù†20.9966:115458Aq=
+×£pÍ¿H¯Á‹R=https://s2.coinmarketcap.com/static/img/coins/64x64/35672.png
+ˆ
+
+1404/07/1914:19œì¨Ç"TEMCO*ØªÙ…Ú©Ùˆ20.001098:127.15Aáz®Ga/ÀHˆ•ŠR<https://s2.coinmarketcap.com/static/img/coins/64x64/3722.png
+•
+
+1404/07/1914:19œì¨Ç"Nya*Ù†ÛŒØ§20.0000001237599827885196:0.0143Aš™™™™™'ÀH‚“ŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/33011.png
+¡
+
+1404/07/1914:19œì¨Ç"RyuJin*Ø±ÛŒÙˆØ¬ÛŒÙ†20.00000000452162671640382:0.000524Aö(\Âu ÀH™€ŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/31606.png
+‘
+
+1404/07/1914:19œì¨Ç"
+Aleph Zero*Ø§Ù„Ù Ø²ÛŒØ±Ùˆ20.0163:1892Aš™™™™™-ÀH»ñ‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/11976.png
+Å
+
+1404/07/1914:19œì¨Ç" Portugal National Team Fan Token*,Ù¾Ø±ØªØºØ§Ù„ Ù†Ø´Ù†Ø§Ù„ ØªÛŒÙ… ÙÙ† ØªÙˆÚ©Ù†20.7242:83904AHáz®G"ÀH¡¸‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/11531.png
+„
+
+1404/07/1914:19œì¨Ç"Reef*Ø±ÛŒÙ20.000207:23.97Aq=
+×£ğ5ÀHØ«‰R<https://s2.coinmarketcap.com/static/img/coins/64x64/6951.png
+¡
+
+1404/07/1914:19œì¨Ç"Neiro Ethereum*Ù†ÛŒØ±ÙˆÙ† Ø§ØªØ±ÛŒÙˆÙ…20.004339:502.72A¸…ëQx4ÀH±ìˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/32461.png
+Š
+
+1404/07/1914:20Øì¨Ç"BONDEX*Ø¨ÙˆÙ†Ø¯Ú©Ø³20.0271:3139Affffff<ÀHûÈˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/26198.png
+„
+
+1404/07/1914:20Øì¨Ç"HI*Ù‡Ø§ÛŒ2
+0.00006980:8.09A×£p=
+×@Hõ¶ˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/11240.png
+Í
+
+1404/07/1914:19œì¨Ç""Robinhood tokenized stock (xStock)*/Ø±Ø§Ø¨ÛŒÙ†â€ŒÙ‡ÙˆØ¯ ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2139.29:16137234A)\Âõ( ÀH£Æ‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/37041.png
+
+
+1404/07/1914:19œì¨Ç"Bifrost*Ø¨ÛŒÙØ±Ø§Ø³Øª20.0904:10470A
+×£p=
+"ÀH…—‡R<https://s2.coinmarketcap.com/static/img/coins/64x64/8705.png
+
+
+1404/07/1914:20Øì¨Ç"Sidekick*Ø³Ø§ÛŒØ¯Ú©ÛŒÚ©20.0312:3618A\Âõ(¼GÀHòî…R=https://s2.coinmarketcap.com/static/img/coins/64x64/37617.png
+‘
+
+1404/07/1914:20Øì¨Ç"Aerobud*Ø§ÛŒØ±ÙˆØ¨Ø§Ø¯20.004417:511.70A¤p=
+×£ ÀH¿…R=https://s2.coinmarketcap.com/static/img/coins/64x64/31854.png
+Œ
+
+1404/07/1914:19œì¨Ç"Zenrock*Ø²Ù†â€ŒØ±Ø§Ú©20.0224:2601A×£p=
+×Ó¿H·“…R=https://s2.coinmarketcap.com/static/img/coins/64x64/34291.png
+‹
+
+1404/07/1914:19œì¨Ç"Zypto*
+Ø²ÛŒÙ¾ØªÙˆ20.004771:552.73A…ëQ¸…ÀHş……R=https://s2.coinmarketcap.com/static/img/coins/64x64/29812.png
+“
+
+1404/07/1914:19œì¨Ç"GALAXIA*Ú¯Ø§Ù„Ø§Ú©Ø³ÛŒØ§20.001699:196.83Aq=
+×£pÀH¥ø„R=https://s2.coinmarketcap.com/static/img/coins/64x64/21060.png
+‘
+
+1404/07/1914:19œì¨Ç"Pandora*Ù¾Ø§Ù†Ø¯ÙˆØ±Ø§2427.46:49522317A…ëQ¸…(ÀH–ó„R=https://s2.coinmarketcap.com/static/img/coins/64x64/29291.png
+‹
+
+1404/07/1914:20Øì¨Ç"GAMEE*Ú¯ÛŒÙ… Ø§ÛŒ20.002415:279.73A
+×£p=
+-ÀH®„R<https://s2.coinmarketcap.com/static/img/coins/64x64/9103.png
+¿
+
+1404/07/1914:20Øì¨Ç"Nasdaq tokenized stock (xStock)*$Ù†Ø²Ø¯Ú© ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2590.62:68425358A¸…ëQ¸
+ÀH‘ÆƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/37057.png
+
+
+1404/07/1914:19œì¨Ç"ZKWASM*Ø²ÙÚ© ÙˆØ§Ø³ÙÙ…20.0414:4799A=
+×£p=+ÀH‡¶‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/37451.png
+–
+
+1404/07/1914:19œì¨Ç"W Coin*Ø¯Ø§Ø¨Ù„ÛŒÙˆ Ú©ÙˆÛŒÙ†20.000649:75.22A®Gáz.7ÀHñ‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/35082.png
+»
+
+1404/07/1914:19œì¨Ç"Meta tokenized stock (xStock)*"Ù…ØªØ§ ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2705.15:81694077A…ëQ¸…ÀHÖ‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/37055.png
+¤
+
+1404/07/1914:19œì¨Ç"Mistery On Cro*Ù…ÛŒØ³ØªØ±ÛŒ Ø¢Ù† Ú©Ø±Ùˆ2
+0.00001031:1.1941A¸…ëQ8*ÀHÛ‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/31006.png
+°
+
+1404/07/1914:19œì¨Ç"Electric Vehicle Zone* Ø§Ù„Ú©ØªØ±ÛŒÚ© ÙˆÛŒÚ©ÙÙ„ Ø²ÙˆÙ†20.001749:202.60AR¸…ëÑ%ÀH‡èR<https://s2.coinmarketcap.com/static/img/coins/64x64/6430.png
+‰
+
+1404/07/1914:20Øì¨Ç"Dynex*Ø¯Ø§ÛŒÙ†Ú©Ø³20.0402:4659A)\Âõ(/ÀHäÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/22858.png
+“
+
+1404/07/1914:19œì¨Ç"Defactor*Ø¯ÛŒâ€ŒÙØ§Ú©ØªÙˆØ±20.0140:1623AR¸…ëÑ(ÀHÍ¡ÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/13255.png
+™
+
+1404/07/1914:19œì¨Ç"Pundi AI*Ù¾Ø§Ù†Ø¯ÛŒ Ø§ÙÛŒâ€ŒØ¢ÛŒ20.5925:68643Aáz®Ga'ÀHÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/35943.png
+œ
+
+1404/07/1914:19œì¨Ç"Project Galaxy*Ù¾Ø±ÙˆÚ˜Ù‡ Ú¯Ù„Ú©Ø³ÛŒ20.5596:64831A®Gáz!ÀH¯ıR=https://s2.coinmarketcap.com/static/img/coins/64x64/11877.png
+œ
+
+1404/07/1914:19œì¨Ç"BigONE Token*Ø¨ÛŒÚ¯ ÙˆØ§Ù† ØªÙˆÚ©Ù†20.000482:55.89A¸…ëQ¸#ÀHšŞüR<https://s2.coinmarketcap.com/static/img/coins/64x64/2324.png
+“
+
+1404/07/1914:19œì¨Ç"Dexsport*Ø¯Ú©Ø³ Ø§Ø³Ù¾ÙˆØ±Øª20.0212:2451AÂõ(\ÀHøÔüR=https://s2.coinmarketcap.com/static/img/coins/64x64/12814.png
+š
+
+1404/07/1914:19œì¨Ç"Samoyedcoin*Ø³Ø§Ù…ÙˆÛŒØ¯Ú©ÙˆÛŒÙ†20.001130:130.92AÂõ(\0ÀHØŸüR<https://s2.coinmarketcap.com/static/img/coins/64x64/9721.png
 
 
-1404/07/1914:05Ôå¨Ç"Digital Fitness*Ø¯ÛŒØ¬ÛŒØªØ§Ù„ ÙÛŒØªÙ†Ø³20.0565:6556Aq=
+1404/07/1914:19œì¨Ç"Roaring Kitty*Ø±ÙˆØ±ÛŒÙ†Ú¯ Ú©ÛŒØªÛŒ20.004131:478.61AÍÌÌÌÌ3ÀHş’üR=https://s2.coinmarketcap.com/static/img/coins/64x64/32137.png
+
+
+1404/07/1914:19œì¨Ç"KoKoK The Roach*Ú©ÙˆÚ©ÙˆÚ© ØªÙˆ Ø±Ø§Ø´20.0207:2393Aáz®Gá>ÀHüR=https://s2.coinmarketcap.com/static/img/coins/64x64/36547.png
+™
+
+1404/07/1914:20Øì¨Ç"Coupon Assets*Ú©ÙˆÙ¾Ù† Ø§Ø³ÙØªØ³20.4264:49405A     @5ÀHâÜûR=https://s2.coinmarketcap.com/static/img/coins/64x64/28366.png
+š
+
+1404/07/1914:19œì¨Ç"Renta Network*Ø±Ù†ØªØ§ Ù†ØªÙˆØ±Ú©20.009862:1142A×£p=
+×÷¿HòâùR=https://s2.coinmarketcap.com/static/img/coins/64x64/34739.png
+ƒ
+
+1404/07/1914:20Øì¨Ç"Grin*Ú¯Ø±ÛŒÙ†20.0415:4809A®Gáz®*ÀH©ëøR<https://s2.coinmarketcap.com/static/img/coins/64x64/3709.png
+‹
+
+1404/07/1914:20Øì¨Ç"Attila*
+Ø¢ØªÛŒÙ„Ø§20.001465:169.69A
+×£p=Š @HØÂøR<https://s2.coinmarketcap.com/static/img/coins/64x64/5600.png
+›
+
+1404/07/1914:19œì¨Ç"Efinity Token*Ø§ÙÛŒÙ†ÛŒØªÛŒ ØªÙˆÚ©Ù†20.0467:5414Aš™™™™™©?Hİö÷R<https://s2.coinmarketcap.com/static/img/coins/64x64/8985.png
+˜
+
+1404/07/1914:19œì¨Ç"HeroesTD*Ù‡ÛŒØ±ÙˆØ² ØªÛŒâ€ŒØ¯ÛŒ20.008917:1033A     @4ÀHáä÷R=https://s2.coinmarketcap.com/static/img/coins/64x64/14422.png
+“
+
+1404/07/1914:19œì¨Ç"	ValleyDAO*ÙˆÙ„ÛŒâ€ŒØ¯Ø§Ø¦Ùˆ20.3819:44242A
+×£p=Ê1ÀHˆÔ÷R=https://s2.coinmarketcap.com/static/img/coins/64x64/29633.png
+|
+
+1404/07/1914:19œì¨Ç"R0AR20.009730:1127Aáz®Ga$ÀH»ßõR=https://s2.coinmarketcap.com/static/img/coins/64x64/35526.png
+‘
+
+1404/07/1914:19œì¨Ç"	METAVERSE*Ù…ØªØ§ÙˆØ±Ø³20.004004:463.83A     €0ÀH ®ôR=https://s2.coinmarketcap.com/static/img/coins/64x64/35007.png
+Š
+
+1404/07/1914:19œì¨Ç"Alitas*Ø¢Ù„ÛŒØªØ§Ø³20.0200:2316A
+×£p=Ê=ÀH¸ÿóR=https://s2.coinmarketcap.com/static/img/coins/64x64/10897.png
+
+
+1404/07/1914:19œì¨Ç"LETSTOP*Ù„Øª Ø§Ø³ØªØ§Ù¾20.0631:7313A{®Gáú#ÀHøğóR=https://s2.coinmarketcap.com/static/img/coins/64x64/33967.png
+‘
+
+1404/07/1914:19œì¨Ç"	Celo Euro*Ø³Ù„Ùˆ ÛŒÙˆØ±Ùˆ21.1592:134302AìQ¸…ë±?Hı¯óR<https://s2.coinmarketcap.com/static/img/coins/64x64/9467.png
+
+
+1404/07/1914:19œì¨Ç"Sentinel*Ø³Ù†ØªÛŒÙ†Ù„20.000169:19.60A
+×£p=Š"ÀHº˜òR<https://s2.coinmarketcap.com/static/img/coins/64x64/2643.png
+”
+
+1404/07/1914:19œì¨Ç"
+BLOCKLORDS*Ø¨Ù„Ø§Ú© Ù„Ø±Ø¯Ø²20.0957:11085A…ëQ¸…+ÀHşğR=https://s2.coinmarketcap.com/static/img/coins/64x64/29203.png
+„
+
+1404/07/1914:19œì¨Ç"Azit*Ø¢Ø²ÛŒØª20.0106:1227Aáz®Ga#ÀH„ŒğR=https://s2.coinmarketcap.com/static/img/coins/64x64/18624.png
+¨
+
+1404/07/1914:19œì¨Ç"Blocksquare Token* Ø¨Ù„Ø§Ú©â€ŒØ§Ø³Ú©ÙˆØ¦Ø± ØªÙˆÚ©Ù†20.0644:7458A\Âõ(\%ÀHÃ‹ïR<https://s2.coinmarketcap.com/static/img/coins/64x64/3035.png
+•
+
+1404/07/1914:19œì¨Ç"BakeryToken*Ø¨ÛŒÚ©Ø±ÛŒ ØªÙˆÚ©Ù†20.0135:1563A
+×£p=Ê?ÀH™ÈîR<https://s2.coinmarketcap.com/static/img/coins/64x64/7064.png
+‘
+
+1404/07/1914:19œì¨Ç"Biswap*Ø¨ÛŒâ€ŒØ³ÙˆØ§Ù¾20.005747:665.83AÂõ(\1ÀH §îR=https://s2.coinmarketcap.com/static/img/coins/64x64/10746.png
+‹
+
+1404/07/1914:19œì¨Ç"Russell*Ø±Ø§Ø³Ù„20.004018:465.55A
+×£p=J<ÀH”“îR=https://s2.coinmarketcap.com/static/img/coins/64x64/33819.png
+§
+
+1404/07/1914:19œì¨Ç"Starlink*Ø§Ø³ØªØ§Ø±Ù„ÛŒÙ†Ú©20.00000039080939484895393:0.0453A…ëQ¸'ÀH²„îR=https://s2.coinmarketcap.com/static/img/coins/64x64/10821.png
+‡
+
+1404/07/1914:19œì¨Ç"Wall St. Bull20.003893:451.04A®GázNFÀHÄÏíR=https://s2.coinmarketcap.com/static/img/coins/64x64/38610.png
+›
+
+1404/07/1914:19œì¨Ç"Moon Tropica*Ù…ÙˆÙ† ØªØ±ÙˆÙ¾ÛŒÚ©Ø§21.2993:150529A)\Âõh4ÀH¹¨íR=https://s2.coinmarketcap.com/static/img/coins/64x64/26032.png
+ˆ
+
+1404/07/1914:20Øì¨Ç"	VestChain*ÙˆØ³Øª Ú†ÛŒÙ†20.000983:113.85H–×ìR<https://s2.coinmarketcap.com/static/img/coins/64x64/3607.png
+–
+
+1404/07/1914:20Øì¨Ç"	Bloktopia*Ø¨Ù„ÙˆÚ©ØªÙˆÙ¾ÛŒØ§20.000156:18.07Afffff¦5ÀH±€ìR=https://s2.coinmarketcap.com/static/img/coins/64x64/11206.png
+¤
+
+1404/07/1914:19œì¨Ç"Quantoz EURQ*Ú©ÙˆØ§Ù†ØªÙˆØ² ÛŒÙˆØ± ÙˆÚ©ÛŒÙˆ21.1507:133314AìQ¸…ëá¿Hå¦ëR=https://s2.coinmarketcap.com/static/img/coins/64x64/34176.png
+{
+
+1404/07/1914:19œì¨Ç"Etarn20.0662:7666AÂõ(\ÀHúèêR=https://s2.coinmarketcap.com/static/img/coins/64x64/38452.png
+š
+
+1404/07/1914:19œì¨Ç""Croatian Football Federation Token20.9917:114887AR¸…ëÑ:ÀHñïéR=https://s2.coinmarketcap.com/static/img/coins/64x64/22789.png
+ƒ
+
+1404/07/1914:19œì¨Ç"MECCA*Ù…Ú©Ù‡20.0184:2132Aš™™™™™@HÔÕéR=https://s2.coinmarketcap.com/static/img/coins/64x64/37726.png
+
+
+1404/07/1914:19œì¨Ç"zkLink*Ø²Ø¯Ú©ÛŒ Ù„ÛŒÙ†Ú©20.0102:1180A×£p=
+0ÀH¾¥éR=https://s2.coinmarketcap.com/static/img/coins/64x64/13039.png
+
+
+1404/07/1914:19œì¨Ç"Australian Digital Dollar20.6455:74783A®Gáz®÷¿HÎçR=https://s2.coinmarketcap.com/static/img/coins/64x64/38628.png
+™
+
+1404/07/1914:19œì¨Ç"
+LABUBU SOL*Ù„Ø§Ø¨ÙˆØ¨Ùˆ Ø³ÙˆÙ„20.003793:439.42A     @6ÀHƒıæR=https://s2.coinmarketcap.com/static/img/coins/64x64/33340.png
+¢
+
+1404/07/1914:19œì¨Ç"Levana Protocol*Ù„ÙˆØ§Ù†Ø§ Ù¾Ø±ÙˆØªÚ©Ù„20.004885:565.89Aš™™™™Ù6ÀH¬êæR=https://s2.coinmarketcap.com/static/img/coins/64x64/28660.png
+‰
+
+1404/07/1914:19œì¨Ç"NuNet*Ù†ÙˆÙ†Øª20.007489:867.67A¤p=
+×#7ÀHÂ¶æR=https://s2.coinmarketcap.com/static/img/coins/64x64/13198.png
+ƒ
+
+1404/07/1914:20Øì¨Ç"Muse*Ù…ÛŒÙˆØ²27.42:859366AHáz®G+ÀHœŸæR<https://s2.coinmarketcap.com/static/img/coins/64x64/7805.png
+±
+
+1404/07/1914:20Øì¨Ç"Inter Milan Fan Token*#Ø§ÛŒÙ†ØªØ± Ù…ÛŒÙ„Ø§Ù† ÙÙ† ØªÙˆÚ©Ù†20.3665:42462A®Gáz”0ÀHúõåR=https://s2.coinmarketcap.com/static/img/coins/64x64/11796.png
+
+
+1404/07/1914:20Øì¨Ç"CryptoAutos*Ú©Ø±ÛŒÙ¾ØªÙˆØ§ÙˆØªÙˆØ³20.005079:588.40AÂõ(\O2ÀHÚÇåR=https://s2.coinmarketcap.com/static/img/coins/64x64/34573.png
+†
+
+1404/07/1914:19œì¨Ç"HODL*Ù‡ÙˆØ¯Ù„20.000419:48.55A…ëQ¸$ÀHûƒåR<https://s2.coinmarketcap.com/static/img/coins/64x64/9900.png
+™
+
+1404/07/1914:19œì¨Ç"Super Champs*Ø³ÙˆÙ¾Ø± Ú†Ù…Ù¾Ø²20.004114:476.62A¸…ëQ¸0ÀH¤”äR=https://s2.coinmarketcap.com/static/img/coins/64x64/34126.png
+â
+
+1404/07/1914:20Øì¨Ç"1Department Of Government Efficiency (dogegov.com)*5Ø¯Ù¾Ø§Ø±ØªÙ…Ø§Ù† Ø¢Ù Ú¯Ø§ÙˆØ±Ù†Ù…Ù†Øª Ø§ÙÛŒØ´Ù†Ø³ÛŒ20.003816:442.08A)\Âõh1ÀHš…äR=https://s2.coinmarketcap.com/static/img/coins/64x64/32778.png
+‘
+
+1404/07/1914:19œì¨Ç"Step App*Ø§Ø³ØªÙ¾ Ø§Ù¾20.000895:103.69A®GázT3ÀHãöãR=https://s2.coinmarketcap.com/static/img/coins/64x64/19778.png
+š
+
+1404/07/1914:19œì¨Ç"Pirate Nation*Ù¾Ø§ÛŒØ±ÛŒØª Ù†ÛŒØ´Ù†20.0122:1418Afffff@ÀHÌÿâR=https://s2.coinmarketcap.com/static/img/coins/64x64/31704.png
+
+
+1404/07/1914:19œì¨Ç"Dmail Network*Ø¯ÛŒâ€ŒÙ…ÛŒÙ„ Ù†ØªÙˆØ±Ú©20.0302:3505AHáz®GÀHûõâR=https://s2.coinmarketcap.com/static/img/coins/64x64/19779.png
+œ
+
+1404/07/1914:20Øì¨Ç"
+Katana Inu*Ú©Ø§ØªØ§Ù†Ø§ Ø§ÛŒÙ†Ùˆ2
+0.00009944:11.52A{®Gáz!ÀH±âR=https://s2.coinmarketcap.com/static/img/coins/64x64/15142.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"VNX Gold*ÙˆÛŒâ€ŒØ§Ù†â€ŒØ§Ú©Ø³ Ú¯Ù„Ø¯2126.69:14677338A…ëQ¸ñ¿Hƒ‚áR=https://s2.coinmarketcap.com/static/img/coins/64x64/22492.png
+—
+
+1404/07/1914:19œì¨Ç"Cere Network*Ø³Ø±Ù‡ Ù†ØªÙˆØ±Ú©20.000530:61.42A…ëQ¸3ÀHíÈàR<https://s2.coinmarketcap.com/static/img/coins/64x64/4710.png
+ˆ
+
+1404/07/1914:19œì¨Ç"TOKPIE*
+ØªØ§Ú©Ù¾ÛŒ20.1281:14844A…ëQ¸…ÀH‰ÆàR<https://s2.coinmarketcap.com/static/img/coins/64x64/4116.png
+—
+
+1404/07/1914:20Øì¨Ç"Kima Network*Ú©ÛŒÙ…Ø§ Ù†ØªÙˆØ±Ú©20.0562:6506A×£p=
+W7ÀHªëßR=https://s2.coinmarketcap.com/static/img/coins/64x64/33488.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Alon*Ø¢Ù„ÙˆÙ†20.003671:425.25A¸…ëQx9ÀH¶ÊßR=https://s2.coinmarketcap.com/static/img/coins/64x64/35436.png
+£
+
+1404/07/1914:19œì¨Ç"Dejitaru Tsuka*Ø¯Ø¬ÛŒØªØ§Ø±Ùˆ ØªØ³ÙˆÚ©Ø§20.003642:421.92A)\Âõ(ÀH¢¤ŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/20789.png
+Á
+
+1404/07/1914:19œì¨Ç"Tesla Tokenized Stock (Ondo)*)Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ ØªØ³Ù„Ø§2411.88:47717423A      ÀHîŠİR=https://s2.coinmarketcap.com/static/img/coins/64x64/38029.png
+
+
+1404/07/1914:19œì¨Ç"DAOBase*Ø¯Ø§Ø¦Ùˆ Ø¨ÛŒØ³20.0212:2462AÃõ(\B"ÀH©ÜÜR=https://s2.coinmarketcap.com/static/img/coins/64x64/36846.png
+˜
+
+1404/07/1914:20Øì¨Ç"Brett (ETH)*Ø¨Ø±Øª (Ø§ØªØ±ÛŒÙˆÙ…)20.0521:6032A
+×£p=Š/ÀH÷ËÜR=https://s2.coinmarketcap.com/static/img/coins/64x64/31343.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Velas*ÙˆÙ„Ø§Ø³20.001306:151.28A®GázÀHîƒÜR<https://s2.coinmarketcap.com/static/img/coins/64x64/4747.png
+‹
+
+1404/07/1914:19œì¨Ç"Penpie*Ù¾Ù†â€ŒÙ¾Ø§ÛŒ22.38:275941AHáz®G,ÀH”öÚR=https://s2.coinmarketcap.com/static/img/coins/64x64/27112.png
+›
+
+1404/07/1914:20Øì¨Ç"Tune.FM*ØªÙˆÙ† Ø¯Ø§Øª Ø§Ùâ€ŒØ§Ù…20.000120:13.94AÃõ(\Â4ÀHÃ–ÚR=https://s2.coinmarketcap.com/static/img/coins/64x64/11420.png
+–
+
+1404/07/1914:19œì¨Ç"
+HyperCycle*Ù‡Ø§ÛŒÙ¾Ø±Ø³Ø§ÛŒÚ©Ù„20.0230:2668Aö(\Âu%ÀH»†ÚR=https://s2.coinmarketcap.com/static/img/coins/64x64/24698.png
+›
+
+1404/07/1914:19œì¨Ç"KLEVA Protocol*Ú©Ù„ÙˆØ§ Ù¾Ø±ÙˆØªÚ©Ù„20.0518:5999A
+×£p=
+)ÀHéçÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/21122.png
+†
+
+1404/07/1914:19œì¨Ç"BNB MEME SZN20.003566:413.13AR¸…ëÑCÀH¤ÓÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/38522.png
+”
+
+1404/07/1914:19œì¨Ç"Slothana*Ø§Ø³Ù„ÙˆØªØ§Ù†Ø§20.002103:243.58AHáz®G*ÀH‹ÄÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/31163.png
+¤
+
+1404/07/1914:19œì¨Ç"PAWSWAP*Ù¾Ø§ Ø³ÙˆØ§Ù¾20.000000003747218392156228:0.000434A…ëQ¸&ÀHÏçØR=https://s2.coinmarketcap.com/static/img/coins/64x64/23404.png
+Œ
+
+1404/07/1914:19œì¨Ç"Eesee*Ø§ÛŒâ€ŒØ³ÛŒ20.006196:717.79Aö(\ÂõÀHÒĞØR=https://s2.coinmarketcap.com/static/img/coins/64x64/29454.png
+…
+
+1404/07/1914:19œì¨Ç"LUCA*Ù„ÙˆÚ©Ø§20.5808:67282A×£p=
+×ÀHÙò×R=https://s2.coinmarketcap.com/static/img/coins/64x64/15736.png
+°
+
+1404/07/1914:20Øì¨Ç"Singularity Finance*%Ø³ÛŒÙ†Ú¯ÛŒÙˆÙ„Ø§Ø±ÛŒØªÛŒ ÙØ§ÛŒÙ†Ù†Ø³20.0227:2629A)\Âõ¨2ÀHò°×R=https://s2.coinmarketcap.com/static/img/coins/64x64/35732.png
+¦
+
+1404/07/1914:20Øì¨Ç"RWA Inc.*"Ø¢Ø±â€ŒØ¯Ø¨Ù„ÛŒÙˆâ€ŒØ§ÛŒ Ø§ÛŒÙ†Ú©.20.007170:830.65A)\Âõ(3ÀHï×R=https://s2.coinmarketcap.com/static/img/coins/64x64/33611.png
+‡
+
+1404/07/1914:19œì¨Ç"Energi*
+Ø§Ù†Ø±Ú˜ÛŒ20.0351:4068AHáz®GÀHÂ®ÖR<https://s2.coinmarketcap.com/static/img/coins/64x64/3218.png
+”
+
+1404/07/1914:19œì¨Ç"	BitShares*Ø¨ÛŒØªâ€ŒØ´ÛŒØ±Ø²20.001167:135.23A)\Âõ(ÀHÃ°ÕR;https://s2.coinmarketcap.com/static/img/coins/64x64/463.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Hege*Ù‡ÙØ¬Ù‡20.003489:404.17A
+×£p=J7ÀHÛòÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/31044.png
+…
+
+1404/07/1914:19œì¨Ç"LORDS*Ù„Ø±Ø¯Ø²20.0163:1891Afffff&2ÀH¶ÕÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/17445.png
+¯
+
+1404/07/1914:19œì¨Ç"Robonomics.network*&Ø±ÙˆØ¨ÙˆÙ†ÙˆÙ…ÛŒÚ©Ø³ Ø¯Ø§Øª Ù†ØªÙˆØ±Ú©22.04:236579A{®GázÀHöºÔR<https://s2.coinmarketcap.com/static/img/coins/64x64/4757.png
+´
+
+1404/07/1914:19œì¨Ç"OUTLAW Crypto Games*%Ø§ÙˆØªâ€ŒÙ„Ø§Ùˆ Ú©Ø±ÛŒÙ¾ØªÙˆ Ú¯ÛŒÙ…Ø²20.003493:404.72AHáz®Ç+ÀHÇÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/38383.png
+
+
+1404/07/1914:20Øì¨Ç"	Epic Cash*Ø§Ù¾ÛŒÚ© Ú©Ø´20.2003:23203AR¸…ëÑ-ÀHˆÓR<https://s2.coinmarketcap.com/static/img/coins/64x64/5435.png
+‘
+
+1404/07/1914:19œì¨Ç"e-Radix*Ø§ÛŒ-Ø±Ø¯ÛŒÚ©Ø³20.002823:327.05AìQ¸…«7ÀHóÓR<https://s2.coinmarketcap.com/static/img/coins/64x64/7692.png
+Š
+
+1404/07/1914:20Øì¨Ç"Byte*Ø¨Ø§ÛŒØª2
+0.00000357:0.4141A=
+×£p}5ÀHØ±ÒR=https://s2.coinmarketcap.com/static/img/coins/64x64/28664.png
+’
+
+1404/07/1914:20Øì¨Ç"	Polytrade*Ù¾Ù„ÛŒâ€ŒØªØ±ÛŒØ¯20.0833:9656Affffff,ÀHÃ„ÒR=https://s2.coinmarketcap.com/static/img/coins/64x64/10465.png
+¯
+
+1404/07/1914:19œì¨Ç"Somnium Space Cubes*$Ø³ÙˆÙ…Ù†ÛŒÙˆÙ… Ø§Ø³Ù¾ÛŒØ³ Ú©ÛŒÙˆØ¨Ø²20.2753:31889AìQ¸…k$ÀH¿€ÒR<https://s2.coinmarketcap.com/static/img/coins/64x64/5338.png
+
+
+1404/07/1914:20Øì¨Ç"Decentrawood*Ø¯ÛŒØ³Ù†ØªØ±Ø§ ÙˆÙˆØ¯20.006717:778.17A…ëQ¸0ÀH…ÌÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/23780.png
+‰
+
+1404/07/1914:20Øì¨Ç"Kinic*
+Ú©ÛŒÙ†ÛŒÚ†21.1905:137920AÍÌÌÌÌÌ:ÀHô·ĞR=https://s2.coinmarketcap.com/static/img/coins/64x64/31985.png
+˜
+
+1404/07/1914:20Øì¨Ç"Aki Network*Ø¢Ú©ÛŒ Ù†ØªÙˆØ±Ú©20.001700:196.96A\Âõ(\ÀHãÃÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/28817.png
+¥
+
+1404/07/1914:19œì¨Ç"BRN Metaverse*Ø¨ÛŒâ€ŒØ¢Ø±â€ŒØ§Ù† Ù…ØªØ§ÙˆØ±Ø³20.1204:13945Aš™™™™™ÀHäˆÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/19519.png
+Œ
+
+1404/07/1914:19œì¨Ç"LATOKEN*Ù„Ø§ØªÙˆÚ©Ù†20.008877:1028A¤p=
+×£.ÀHçøÍR<https://s2.coinmarketcap.com/static/img/coins/64x64/2090.png
+“
+
+1404/07/1914:19œì¨Ç"BOSAGORA*Ø¨ÙˆØ³Ø§Ú¯ÙˆØ±Ø§20.005880:681.23A
+×£p=Š ÀHÒñËR<https://s2.coinmarketcap.com/static/img/coins/64x64/4217.png
+š
+
+1404/07/1914:19œì¨Ç"Mumu the Bull*Ù…ÙˆÙ…Ùˆ Ø¨ÙˆÙ„2
+0.00000146:0.1695AHáz®G7ÀH´ğËR=https://s2.coinmarketcap.com/static/img/coins/64x64/30285.png
+¸
+
+1404/07/1914:20Øì¨Ç"Inflation Hedging Coin*&Ø§ÛŒÙ†ÙÙ„ÛŒØ´Ù† Ù‡Ø¯Ø¬ÛŒÙ†Ú¯ Ú©ÙˆÛŒÙ†2
+0.00002788:3.23A=
+×£p=ş¿H˜ÊËR=https://s2.coinmarketcap.com/static/img/coins/64x64/14371.png
+
+
+1404/07/1914:19œì¨Ç"apM Coin*Ø§ÛŒâ€ŒÙ¾ÛŒâ€ŒØ§Ù… Ú©ÙˆÛŒÙ†20.002190:253.66Aš™™™™-ÀH”—ËR<https://s2.coinmarketcap.com/static/img/coins/64x64/5079.png
+»
+
+1404/07/1914:20Øì¨Ç"Footballcoin (XFC)*.ÙÙˆØªØ¨Ø§Ù„ Ú©ÙˆÛŒÙ† (Ø§ÛŒÚ©Ø³â€ŒØ§Ùâ€ŒØ³ÛŒ)20.008361:968.63AìQ¸…ëá¿HÈÚÉR<https://s2.coinmarketcap.com/static/img/coins/64x64/3663.png
+Ï
+
+1404/07/1914:20Øì¨Ç" Eli Lilly Tokenized Stock (Ondo)*3Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø§Ù„ÛŒ Ù„ÛŒâ€ŒÙ„ÛŒ2830.29:96191817A®GázÀHÅ¾ÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/38043.png
+¡
+
+1404/07/1914:19œì¨Ç"Sabai Ecoverse*Ø³Ø§Ø¨Ø§ÛŒ Ø§Ú©ÙˆÙˆØ±Ø³20.006100:706.74AR¸…ëQ%ÀHŞÈÇR=https://s2.coinmarketcap.com/static/img/coins/64x64/24484.png
+”
+
+1404/07/1914:19œì¨Ç"Darkpino*Ø¯Ø§Ø±Ú©Ù¾ÛŒÙ†Ùˆ20.003289:381.07A      0ÀHßÇR=https://s2.coinmarketcap.com/static/img/coins/64x64/36225.png
+“
+
+1404/07/1914:19œì¨Ç"	CumRocket*Ú©Ø§Ù… Ø±Ø§Ú©Øª20.002470:286.20AìQ¸…ë*ÀH³ŒÇR<https://s2.coinmarketcap.com/static/img/coins/64x64/9212.png
+¤
+
+1404/07/1914:19œì¨Ç"Arsenal Fan Token*Ø¢Ø±Ø³Ù†Ø§Ù„ ÙÙ† ØªÙˆÚ©Ù†20.3354:38859A×£p=
+W#ÀH¦şÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/11532.png
+
+
+1404/07/1914:19œì¨Ç"	Landshare*Ù„Ù†Ø¯Ø´ÛŒØ±20.6071:70332A=
+×£p=ÀH×ùÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/11245.png
+
+
+1404/07/1914:19œì¨Ç"	0xGasless*Ø²ÛŒØ±Ùˆ Ø§Ú©Ø³ Ú¯Ø³â€ŒÙ„Ø³20.3403:39430AR¸…ëQ!ÀH”øÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/27008.png
+ƒ
+
+1404/07/1914:19œì¨Ç"	4EVERLAND20.001784:206.71AR¸…ëQü¿H“ÎÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/21345.png
+„
+
+1404/07/1914:20Øì¨Ç"Djed*Ø¯Ø¬Ø¯20.9795:113480Aq=
+×£pù¿HÎòÄR=https://s2.coinmarketcap.com/static/img/coins/64x64/21639.png
+Ÿ
+
+1404/07/1914:20Øì¨Ç"
+LABUBU ETH*Ù„Ø§Ø¨ÙˆØ¨Ùˆ Ø§ØªØ±ÛŒÙˆÙ…20.003224:373.51A®Gázî5ÀHÌãÄR=https://s2.coinmarketcap.com/static/img/coins/64x64/36783.png
+‘
+
+1404/07/1914:19œì¨Ç"	Mysterium*Ù…ÛŒØ³ØªØ±ÛŒÙˆÙ…20.1607:18616Aš™™™™™ÀH«½ÄR<https://s2.coinmarketcap.com/static/img/coins/64x64/1721.png
+
+
+1404/07/1914:19œì¨Ç"Qubit*Ú©ÛŒÙˆØ¨ÛŒØª20.003239:375.20AHáz®Ç-ÀH±—ÄR=https://s2.coinmarketcap.com/static/img/coins/64x64/37283.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"VNX EURO*ÙˆÛŒâ€ŒØ§Ù†â€ŒØ§Ú©Ø³ ÛŒÙˆØ±Ùˆ21.1587:134237A=
+×£p=Ú¿HŠ½ÃR=https://s2.coinmarketcap.com/static/img/coins/64x64/24228.png
+
+
+1404/07/1914:20Øì¨Ç"Blocery*Ø¨Ù„ÙˆØ³Ø±ÛŒ20.003267:378.55AÍÌÌÌÌL#ÀH‹¹ÂR<https://s2.coinmarketcap.com/static/img/coins/64x64/6283.png
+
+
+1404/07/1914:19œì¨Ç"BSX*Ø¨ÛŒâ€ŒØ§Ø³â€ŒØ§Ú©Ø³20.0168:1947A…ëQ¸…-ÀH£¯ÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/34585.png
+ 
+
+1404/07/1914:19œì¨Ç"DeFi Kingdoms*Ø¯ÛŒÙØ§ÛŒ Ú©ÛŒÙ†Ú¯Ø¯Ø§Ù…Ø²20.0280:3249AÍÌÌÌÌ0ÀH‹¯ÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/12319.png
+“
+
+1404/07/1914:19œì¨Ç"Startup*Ø§Ø³ØªØ§Ø±ØªØ§Ù¾20.003210:371.92A\Âõ(?ÀH‰„ÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/37312.png
+„
+
+1404/07/1914:19œì¨Ç"AVINOC*Ø§ÙˆÛŒÙ†ÙˆÚ©20.008165:945.98HÀşÁR<https://s2.coinmarketcap.com/static/img/coins/64x64/3089.png
+€
+
+1404/07/1914:19œì¨Ç"
+Griffin AI20.0135:1566A\Âõ(DÀHàöÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/38476.png
+½
+
+1404/07/1914:19œì¨Ç"Tottenham Hotspur Fan Token*)ØªØ§ØªÙ†Ù‡Ø§Ù… Ù‡Ø§ØªØ³Ù¾Ø± ÙÙ† ØªÙˆÚ©Ù†20.3095:35855A=
+×£p½1ÀHÌÎÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/28286.png
+˜
+
+1404/07/1914:19œì¨Ç"Project WITH*Ù¾Ø±ÙˆÚ˜Ù‡ ÙˆÛŒØª20.003010:348.74A…ëQ¸)ÀH»¼ÁR<https://s2.coinmarketcap.com/static/img/coins/64x64/4809.png
+—
+
+1404/07/1914:19œì¨Ç"Fei USD*ÙÛŒ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.9989:115729A{®GázÔ?HÎ‚ÁR<https://s2.coinmarketcap.com/static/img/coins/64x64/8642.png
+
+
+1404/07/1914:20Øì¨Ç"IBStoken*Ø¢ÛŒâ€ŒØ¨ÛŒâ€ŒØ§Ø³ ØªÙˆÚ©Ù†20.000785:91.00Aš™™™™™É¿HºúÀR<https://s2.coinmarketcap.com/static/img/coins/64x64/5358.png
+ƒ
+
+1404/07/1914:19œì¨Ç"Chirp*Ú†Ø±Ù¾20.0464:5373A\Âõ(\#ÀH–ÅÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/23445.png
+
+
+1404/07/1914:19œì¨Ç"MILC Platform*Ù…ÛŒÙ„â€ŒØ³ÛŒ Ù¾Ù„ØªÙØ±Ù…20.0253:2934A)\Âõ¨,ÀHÍ§ÀR<https://s2.coinmarketcap.com/static/img/coins/64x64/9764.png
+‘
+
+1404/07/1914:19œì¨Ç"Spectral*Ø§Ø³Ù¾Ú©ØªØ±Ø§Ù„20.2224:25771A
+×£p=Š3ÀHÀ¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/32925.png
+
+
+1404/07/1914:20Øì¨Ç"LIQUIDIUMâ€¢TOKEN*Ù„ÛŒÚ©ÙˆÛŒÛŒØ¯ÛŒÙˆÙ…20.1435:16629A…ëQ¸ÀHçœ¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/32888.png
+œ
+
+1404/07/1914:19œì¨Ç"QORPO WORLD*Ú©ÙˆØ§Ø±Ù¾Ùˆ ÙˆØ±Ù„Ø¯20.007955:921.63A     €4ÀHª˜¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/18345.png
+†
+
+1404/07/1914:19œì¨Ç"Kin*Ú©ÛŒÙ†2
+0.00000113:0.1312A333333ÀH‘Ø¾R<https://s2.coinmarketcap.com/static/img/coins/64x64/1993.png
+™
+
+1404/07/1914:19œì¨Ç"Minati Coin*Ù…ÛŒÙ†Ø§ØªÛŒ Ú©ÙˆÛŒÙ†20.4973:57612Aq=
+×£°3ÀHÂº¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/25715.png
+†
+
+1404/07/1914:19œì¨Ç"RENEC*Ø±ÙÙ†Ú©20.0869:10069AÍÌÌÌÌÌÀHõ³¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/24143.png
+‚
+
+1404/07/1914:20Øì¨Ç"StrikeBit AI20.0149:1721A…ëQ¸(ÀH¹¥¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/38523.png
+¤
+
+1404/07/1914:19œì¨Ç"Pepe 2.0*Ù¾Ù¾Ù‡ Û².Û°20.000000006572255951525545:0.000761A
+×£p=
+0ÀH”‘¼R=https://s2.coinmarketcap.com/static/img/coins/64x64/27276.png
+—
+
+1404/07/1914:19œì¨Ç"	Dingocoin*Ø¯ÛŒÙ†Ú¯ÙˆÚ©ÙˆÛŒÙ†2
+0.00002666:3.09A×£p=
+×-ÀHÙª»R=https://s2.coinmarketcap.com/static/img/coins/64x64/16185.png
+“
+
+1404/07/1914:20Øì¨Ç"EverRise*Ø§ÙˆØ± Ø±Ø§ÛŒØ²2
+0.00004764:5.52AìQ¸…k0ÀHîÜ¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/15257.png
+§
+
+1404/07/1914:20Øì¨Ç"	Shina Inu*Ø´ÛŒÙ†Ø§ Ø§ÛŒÙ†Ùˆ20.00000024806477444526634:0.0287A®Gáz”+ÀHÈù¸R=https://s2.coinmarketcap.com/static/img/coins/64x64/19736.png
+®
+
+1404/07/1914:20Øì¨Ç"Cryptocurrency Coin*Ú©Ø±ÛŒÙ¾ØªÙˆÚ©Ø±Ù†Ø³ÛŒ Ú©ÙˆÛŒÙ†20.003014:349.21Aáz®Ga,ÀH•ü·R=https://s2.coinmarketcap.com/static/img/coins/64x64/36632.png
+’
+
+1404/07/1914:20Øì¨Ç"	Rain Coin*Ø±ÙÛŒÙ† Ú©ÙˆÛŒÙ†23.00:347907A¤p=
+×£8ÀHû¤·R=https://s2.coinmarketcap.com/static/img/coins/64x64/29349.png
+‰
+
+1404/07/1914:19œì¨Ç"Hydra*Ù‡Ø§ÛŒØ¯Ø±Ø§20.1027:11901AìQ¸…ëÁ?H¢Ú¶R<https://s2.coinmarketcap.com/static/img/coins/64x64/8245.png
+˜
+
+1404/07/1914:19œì¨Ç"	NuriTopia*Ù†ÙˆØ±ÛŒ ØªÙˆÙ¾ÛŒØ§20.001380:159.87Aq=
+×£pÀH²¯¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/26413.png
+’
+
+1404/07/1914:19œì¨Ç"HahaYes*Ù‡Ø§Ù‡Ø§ ÛŒØ³2
+0.00000709:0.8219A×£p=
+2ÀHÕ¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/32543.png
+¡
+
+1404/07/1914:19œì¨Ç"	ShibaDoge*Ø´ÛŒØ¨Ø§ Ø¯ÙˆØ¬20.000000000000000023932926:0AR¸…ëÑ+ÀHÕ¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/16500.png
+‡
+
+1404/07/1914:19œì¨Ç"BOB*Ø¨Ø§Ø¨2
+0.00000432:0.5010A33333³+ÀHüñµR=https://s2.coinmarketcap.com/static/img/coins/64x64/24594.png
+Œ
+
+1404/07/1914:20Øì¨Ç"Pwease*
+Ù¾ÙˆÛŒÛŒØ²20.002977:344.86Aáz®Ga4ÀHöÕµR=https://s2.coinmarketcap.com/static/img/coins/64x64/35945.png
+¡
+
+1404/07/1914:19œì¨Ç"League of Traders*Ù„ÛŒÚ¯ Ø¢Ùˆ ØªØ±ÛŒØ¯Ø±Ø²20.0169:1953A33333³#ÀHúğ´R=https://s2.coinmarketcap.com/static/img/coins/64x64/36866.png
+™
+
+1404/07/1914:19œì¨Ç"Shiden Network*Ø´ÛŒØ¯Ù† Ù†ØªÙˆØ±Ú©20.0435:5036A®GázT4ÀH¢Ó´R=https://s2.coinmarketcap.com/static/img/coins/64x64/11451.png
+£
+
+1404/07/1914:19œì¨Ç"Electra Protocol*Ø§Ù„Ú©ØªØ±Ø§ Ù¾Ø±ÙˆØªÚ©Ù„20.000161:18.64A¸…ëQø6ÀHŒÇ³R<https://s2.coinmarketcap.com/static/img/coins/64x64/8216.png
+„
+
+1404/07/1914:19œì¨Ç"ICHI*Ø§ÛŒÚ†ÛŒ20.3132:36287Aq=
+×£ğ&ÀH˜§³R<https://s2.coinmarketcap.com/static/img/coins/64x64/7726.png
+
+
+1404/07/1914:19œì¨Ç"Gaimin*Ú¯ÙÛŒÙ…ÛŒÙ†2
+0.00006567:7.61A
+×£p=
+ÀHğ·²R=https://s2.coinmarketcap.com/static/img/coins/64x64/29037.png
+‹
+
+1404/07/1914:20Øì¨Ç"Bombie*
+Ø¨Ø§Ù…Ø¨ÛŒ20.000324:37.59A…ëQ¸!ÀH­ ²R=https://s2.coinmarketcap.com/static/img/coins/64x64/36771.png
+
+
+1404/07/1914:19œì¨Ç"	Happy Cat*Ù‡Ù¾ÛŒ Ú©Øª20.000876:101.49A=
+×£p}2ÀHéœ²R=https://s2.coinmarketcap.com/static/img/coins/64x64/33892.png
+›
+
+1404/07/1914:19œì¨Ç"GameGPT*Ú¯ÛŒÙ… Ø¬ÛŒâ€ŒÙ¾ÛŒâ€ŒØªÛŒ20.000346:40.13AÂõ(\$ÀH„³±R=https://s2.coinmarketcap.com/static/img/coins/64x64/28868.png
+Ë
+
+1404/07/1914:19œì¨Ç" Coca-Cola Tokenized Stock (Ondo)*1Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ú©ÙˆÚ©Ø§Ú©ÙˆÙ„Ø§266.94:7755505A{®Gáz„?H³¡±R=https://s2.coinmarketcap.com/static/img/coins/64x64/38036.png
+–
+
+1404/07/1914:19œì¨Ç"	IMGN Labs*Ø§ÛŒÙ…Ø¬Ù† Ù„Ø¨Ø²20.003370:390.45A…ëQ¸&ÀHÿù®R=https://s2.coinmarketcap.com/static/img/coins/64x64/36143.png
+§
+
+1404/07/1914:19œì¨Ç"Decentralized Euro*ÛŒÙˆØ±Ùˆ ØºÛŒØ±Ù…ØªÙ…Ø±Ú©Ø²21.1467:132850Affffffî¿HóĞ®R=https://s2.coinmarketcap.com/static/img/coins/64x64/36169.png
+˜
+
+1404/07/1914:20Øì¨Ç"Storm Trade*Ø§Ø³ØªÙˆØ±Ù… ØªØ±ÛŒØ¯20.0110:1280A
+×£p=
+.ÀH›®R=https://s2.coinmarketcap.com/static/img/coins/64x64/31196.png
+§
+
+1404/07/1914:19œì¨Ç"Giants Protocol*Ø¬Ø§ÛŒØ§Ù†ØªØ³ Ù¾Ø±ÙˆØªÚ©Ù„2
+0.00009848:11.41AHáz®G6ÀHËæ­R=https://s2.coinmarketcap.com/static/img/coins/64x64/37311.png
+
+
+1404/07/1914:19œì¨Ç"Radiant*Ø±Ø§Ø¯ÛŒØ§Ù†Øª20.000201:23.25A¤p=
+×#'ÀHŒª­R=https://s2.coinmarketcap.com/static/img/coins/64x64/22866.png
+
+
+1404/07/1914:19œì¨Ç"Solanium*Ø³ÙˆÙ„Ø§Ù†ÛŒÙˆÙ…20.0283:3282AÂõ(\0ÀHöò¬R<https://s2.coinmarketcap.com/static/img/coins/64x64/9741.png
+
+
+1404/07/1914:19œì¨Ç"	Phantasma*ÙØ§Ù†ØªØ§Ø³Ù…Ø§20.0228:2644AÍÌÌÌÌÌÜ¿H’ğ¬R<https://s2.coinmarketcap.com/static/img/coins/64x64/2827.png
+®
+
+1404/07/1914:19œì¨Ç"GensoKishi Metaverse*Ø¬Ù†Ø³Ùˆ Ú©ÛŒØ´ÛŒ Ù…ØªØ§ÙˆØ±Ø³20.006916:801.21Aš™™™™"ÀHÑ’¬R=https://s2.coinmarketcap.com/static/img/coins/64x64/17704.png
+…
+
+1404/07/1914:19œì¨Ç"Quq*Ú©ÙˆÚ©20.002803:324.71AìQ¸…ë±?H²ˆ«R=https://s2.coinmarketcap.com/static/img/coins/64x64/36101.png
+ˆ
+
+1404/07/1914:19œì¨Ç"GOMBLE*
+Ú¯Ø§Ù…Ø¨Ù„20.0101:1176AR¸…ëÑ#ÀHåıªR=https://s2.coinmarketcap.com/static/img/coins/64x64/36123.png
+§
+
+1404/07/1914:19œì¨Ç"Morpheus.Network* Ù…ÙˆØ±ÙØ¦ÙˆØ³ Ø¯Ø§Øª Ù†ØªÙˆØ±Ú©20.0583:6757Aš™™™™™(ÀHã¿ªR<https://s2.coinmarketcap.com/static/img/coins/64x64/2763.png
+Š
+
+1404/07/1914:19œì¨Ç"
+Crypterium*Ú©Ø±ÛŒÙ¾ØªØ±ÛŒÙˆÙ…20.0295:3412Hó“ªR<https://s2.coinmarketcap.com/static/img/coins/64x64/2447.png
+Œ
+
+1404/07/1914:20Øì¨Ç"BaaSid*Ø¨Ø§Ø§Ø³ÛŒØ¯20.000278:32.19A…ëQ¸ÀHñÌ©R<https://s2.coinmarketcap.com/static/img/coins/64x64/3142.png
+¢
+
+1404/07/1914:19œì¨Ç"LogX Network*Ù„Ø§Ø¬ Ø§ÛŒÚ©Ø³ Ù†ØªÙˆØ±Ú©20.005791:670.91AÍÌÌÌÌÌ8ÀH­Ê©R=https://s2.coinmarketcap.com/static/img/coins/64x64/33098.png
+Ü
+
+1404/07/1914:20Øì¨Ç"(Italian National Football Team Fan Token*;Ø§ÛŒØªØ§Ù„ÛŒØ§ Ù†Ø´Ù†Ø§Ù„ ÙÙˆØªØ¨Ø§Ù„ ØªÛŒÙ… ÙÙ† ØªÙˆÚ©Ù†20.2699:31274A33333³)ÀHšĞ¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/22443.png
+œ
+
+1404/07/1914:19œì¨Ç"Meter Governance*Ù…ØªØ± Ú¯Ø§ÙˆØ±Ù†Ù†Ø³20.0855:9907A=
+×£p½!ÀHØ»¨R<https://s2.coinmarketcap.com/static/img/coins/64x64/5919.png
+ˆ
+
+1404/07/1914:19œì¨Ç"TRVL*ØªØ±ÙˆÙ„20.006622:767.22AR¸…ëQÀH´¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/14336.png
+
+
+1404/07/1914:19œì¨Ç"Decubate*Ø¯Ú©ÙˆØ¨ÛŒØª20.007255:840.49A®GázÀH¢£¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/10563.png
+†
+
+1404/07/1914:20Øì¨Ç"XELIS*Ø²Ù„ÛŒØ³20.7094:82185A     À1ÀHøˆ¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/32656.png
+ª
+
+1404/07/1914:19œì¨Ç"	Akita Inu*Ø¢Ú©ÛŒØªØ§ Ø§ÛŒÙ†Ùˆ20.00000004038519807950746:0.004679Aö(\Âu.ÀHšå§R<https://s2.coinmarketcap.com/static/img/coins/64x64/8378.png
+›
+
+1404/07/1914:19œì¨Ç"FNCY*Ø§Ùâ€ŒØ§Ù†â€ŒØ³ÛŒâ€ŒÙˆØ§ÛŒ20.002420:280.40A)\Âõ(ø?HşÚ§R=https://s2.coinmarketcap.com/static/img/coins/64x64/22847.png
+º
+
+1404/07/1914:20Øì¨Ç"USD Coin (Wormhole)*-ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ Ú©ÙˆÛŒÙ† (ÙˆØ±Ù…â€ŒÙ‡ÙˆÙ„)20.9994:115779A¸…ëQ¸¿HØŸ§R=https://s2.coinmarketcap.com/static/img/coins/64x64/20650.png
+œ
+
+1404/07/1914:20Øì¨Ç"
+catwifmask*Ú©Øªâ€ŒÙˆÛŒÙâ€ŒÙ…Ø³Ú©20.002734:316.74Afffff¦?ÀHÈê¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/36819.png
+‰
+
+1404/07/1914:19œì¨Ç"GemHUB*Ø¬Ù… Ù‡Ø§Ø¨20.0226:2613A
+×£p=
+ÀHÅÌ¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/19709.png
+×
+
+1404/07/1914:19œì¨Ç"'Procter & Gamble Tokenized Stock (Ondo)*=Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ù¾Ø±Ø§Ú©ØªØ± Ø§Ù†Ø¯ Ú¯Ù…Ø¨Ù„2153.27:17756836HíË¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/38096.png
+¡
+
+1404/07/1914:19œì¨Ç"DeepBrain Chain*Ø¯ÛŒÙ¾â€ŒØ¨Ø±ÛŒÙ† Ú†ÛŒÙ†20.000501:57.99A®GázÀHÕí¥R<https://s2.coinmarketcap.com/static/img/coins/64x64/2316.png
+Á
+
+1404/07/1914:19œì¨Ç"Frodo the virtual samurai*-ÙØ±ÙˆØ¯Ùˆ Ø¯ ÙˆÛŒØ±Ú†ÙˆØ§Ù„ Ø³Ø§Ù…ÙˆØ±Ø§ÛŒÛŒ20.000543:62.91A…ëQ¸Ş3ÀHöÜ¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/34587.png
+›
+
+1404/07/1914:19œì¨Ç"Didi Bam Bam*Ø¯ÛŒØ¯ÛŒ Ø¨Ø§Ù… Ø¨Ø§Ù…20.1291:14952A\Âõ(œ1ÀHñµ¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/34152.png
+£
+
+1404/07/1914:20Øì¨Ç"Cocoro (officialcocoro.com)*Ú©ÙˆÚ©ÙˆØ±Ùˆ20.003399:393.84A
+×£p=
+&ÀHéµ¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/36233.png
+
+
+1404/07/1914:19œì¨Ç"Gorilla*Ú¯ÙˆØ±ÛŒÙ„Ø§20.002709:313.90A¤p=
+×£$ÀH´¯¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/36438.png
+–
+
+1404/07/1914:20Øì¨Ç"GPUnet*Ø¬ÛŒâ€ŒÙ¾ÛŒâ€ŒÛŒÙˆ Ù†Øª20.2653:30731A®Gáz.$ÀHÒ¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/36772.png
+–
+
+1404/07/1914:19œì¨Ç"
+AIntivirus*Ø§ÛŒÙ†ØªÛŒÙˆÛŒØ±ÙˆØ³20.0293:3389AÂõ(\ÀHşÁ¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/35589.png
+”
+
+1404/07/1914:19œì¨Ç"
+Zero1 Labs*Ø²ÛŒØ±Ùˆ Û± Ù„Ø¨Ø²20.0295:3421A{®Gáú$ÀHó´¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/29734.png
+
+
+1404/07/1914:20Øì¨Ç"DexCheck*Ø¯Ú©Ø³ Ú†Ú©20.003961:458.91A®GázÀH­ü£R=https://s2.coinmarketcap.com/static/img/coins/64x64/20009.png
+…
+
+1404/07/1914:19œì¨Ç"Thala*ØªØ§Ù„Ø§20.0546:6321A     À9ÀHÛœ£R=https://s2.coinmarketcap.com/static/img/coins/64x64/24268.png
+£
+
+1404/07/1914:19œì¨Ç"AlphaKEK.AI* Ø¢Ù„ÙØ§ Ú©Ú© Ø¯Ø§Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.0114:1324A33333³ ÀHØı¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/29516.png
+„
+
+1404/07/1914:19œì¨Ç"Serum*Ø³Ø±ÙˆÙ…20.0101:1169A®Gáz”)ÀHÚˆ¢R<https://s2.coinmarketcap.com/static/img/coins/64x64/6187.png
+£
+
+1404/07/1914:19œì¨Ç"LABEL Foundation*Ù„ÛŒØ¨Ù„ ÙØ§Ù†Ø¯ÛŒØ´Ù†20.000983:113.88Aáz®G!2ÀH—ï¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/12988.png
+’
+
+1404/07/1914:19œì¨Ç"SPACEM*Ø§Ø³Ù¾ÛŒØ³â€ŒØ§Ù…20.000298:34.50AÍÌÌÌÌÌÀH‘â¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/35395.png
+“
+
+1404/07/1914:19œì¨Ç"
+Dolan Duck*Ø¯ÙˆÙ„Ø§Ù† Ø¯Ø§Ú©20.0269:3118AÍÌÌÌÌŒ:ÀHÕ¯¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/33441.png
+’
+
+1404/07/1914:19œì¨Ç"	Yee Token*ÛŒÛŒ ØªÙˆÚ©Ù†20.002643:306.18A)\Âõ(ÀH”§¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/36560.png
+¶
+
+1404/07/1914:19œì¨Ç"Xavier: Renegade Angel*$Ø²Ø§ÙˆÛŒØ±: Ø±Ù†Ù‡â€ŒÚ¯ÛŒØ¯ Ø¢Ù†Ø¬Ù„20.002642:306.11A¸…ëQ8)ÀH› ¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/36852.png
+‡
+
+1404/07/1914:20Øì¨Ç"LIBRA*
+Ù„ÛŒØ¨Ø±Ø§20.0103:1192A×£p=
+×ÀH…„¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/35767.png
+¬
+
+1404/07/1914:19œì¨Ç"Young Peezy AKA Pepe*ÛŒØ§Ù†Ú¯ Ù¾ÛŒØ²ÛŒ AKA Ù¾Ù¾Ù‡20.002628:304.42Aq=
+×£pÀHÙ° R=https://s2.coinmarketcap.com/static/img/coins/64x64/30648.png
+
+
+1404/07/1914:19œì¨Ç"LeverFi*Ù„ÙˆØ±ÙØ§ÛŒ2
+0.00004707:5.45A=
+×£p}3ÀHü¡ R=https://s2.coinmarketcap.com/static/img/coins/64x64/20873.png
+
+
+1404/07/1914:19œì¨Ç"Trading and Payment Token20.1750:20269A)\Âõ( ÀHè– R=https://s2.coinmarketcap.com/static/img/coins/64x64/37556.png
+–
+
+1404/07/1914:19œì¨Ç"
+I'm a Jeet*Ø¢ÛŒÙ… Ø§ Ø¬ÛŒØª20.002623:303.84Aš™™™™$ÀHïˆ R=https://s2.coinmarketcap.com/static/img/coins/64x64/36938.png
+†
+
+1404/07/1914:19œì¨Ç"Mode*Ù…ÙˆØ¯20.001047:121.28A¸…ëQ¸*ÀHÿİŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/31016.png
+²
+
+1404/07/1914:19œì¨Ç"AR.IO Network*)Ø§ÛŒâ€ŒØ¢Ø± Ø¯Ø§Øª Ø¢ÛŒâ€ŒØ§Ùˆ Ù†ØªÙˆØ±Ú©20.005463:632.93A…ëQ¸ÀH“ÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/36135.png
+š
+
+1404/07/1914:19œì¨Ç"Warped Games*ÙˆØ§Ø±Ù¾Ø¯ Ú¯ÛŒÙ…Ø²20.000449:52.07AHáz®Ç,ÀHœ¯R=https://s2.coinmarketcap.com/static/img/coins/64x64/28607.png
+®
+
+1404/07/1914:20Øì¨Ç"Troll (NEW)*ØªØ±ÙˆÙ„ (Ø¬Ø¯ÛŒØ¯)20.000000002696977178198571:0.000312A)\Âõè3ÀH–ŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/29505.png
+
+
+1404/07/1914:20Øì¨Ç"	Handshake*Ù‡Ù†Ø¯Ø´ÛŒÚ©20.003804:440.73AÂõ(\!ÀH¥ŠR<https://s2.coinmarketcap.com/static/img/coins/64x64/5221.png
+Ñ
+
+1404/07/1914:19œì¨Ç"!McDonald's Tokenized Stock (Ondo)*4Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ù…Ú©â€ŒØ¯ÙˆÙ†Ø§Ù„Ø¯2294.68:34139740A…ëQ¸í¿HúÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/38049.png
+œ
+
+1404/07/1914:19œì¨Ç"XRP Healthcare*Ø±ÛŒÙ¾Ù„ Ù‡Ù„Ø«â€ŒÚ©Ø±20.0364:4213A…ëQ¸/ÀH¤÷œR=https://s2.coinmarketcap.com/static/img/coins/64x64/23365.png
+¥
+
+1404/07/1914:19œì¨Ç"Rai Reflex Index*Ø±Ø§ÛŒ Ø±ÙÙ„Ú©Ø³ Ø§ÛŒÙ†Ø¯Ú©Ø³24.16:481807Aš™™™™-ÀHœŞœR<https://s2.coinmarketcap.com/static/img/coins/64x64/8525.png
+›
+
+1404/07/1914:19œì¨Ç"OpenGPU*Ø§ÙˆÙ¾Ù† Ø¬ÛŒâ€ŒÙ¾ÛŒâ€ŒÛŒÙˆ20.1304:15107A¤p=
+×ã0ÀHÃ§œR=https://s2.coinmarketcap.com/static/img/coins/64x64/30751.png
+ˆ
+
+1404/07/1914:19œì¨Ç"GOUT*Ú¯ÙˆØª2
+0.00001676:1.9421A®Gáz”.ÀH¤—œR=https://s2.coinmarketcap.com/static/img/coins/64x64/34110.png
+¯
+
+1404/07/1914:19œì¨Ç"QuantumCoin*Ú©ÙˆØ§Ù†ØªÙˆÙ… Ú©ÙˆÛŒÙ†20.00000014695367262854258:0.0170Aö(\ÂõÀHü›R=https://s2.coinmarketcap.com/static/img/coins/64x64/35255.png
+Š
+
+1404/07/1914:19œì¨Ç"Karura*Ú©Ø§Ø±ÙˆØ±Ø§20.0219:2536Aö(\ÂõÀHÈğ›R=https://s2.coinmarketcap.com/static/img/coins/64x64/10042.png
+¿
+
+1404/07/1914:19œì¨Ç"Apple Tokenized Stock (Ondo)*'Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø§Ù¾Ù„2245.74:28470008A…ëQ¸…ÀHïÔ›R=https://s2.coinmarketcap.com/static/img/coins/64x64/38037.png
+¯
+
+1404/07/1914:20Øì¨Ç"Matrix AI Network*#Ù…ØªØ±ÛŒÚ©Ø³ Ø§ÛŒâ€ŒØ¢ÛŒ Ù†ØªÙˆØ±Ú©20.005439:630.12AÃõ(\B0ÀH™‘›R<https://s2.coinmarketcap.com/static/img/coins/64x64/2474.png
+Ó
+
+1404/07/1914:19œì¨Ç"#Novo Nordisk Tokenized Stock (Ondo)*6Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ù†ÙˆÙˆ Ù†ÙˆØ±Ø¯ÛŒØ³Ú©258.45:6772131Aš™™™™™¹?H·ƒ›R=https://s2.coinmarketcap.com/static/img/coins/64x64/38002.png
+†
+
+1404/07/1914:19œì¨Ç"YETI*ÛŒØªÛŒ20.003164:366.55A33333ó<ÀHÛ¾šR=https://s2.coinmarketcap.com/static/img/coins/64x64/36754.png
+¥
+
+1404/07/1914:19œì¨Ç"donotfomoew*Ø¯ÙˆÙ†ÙˆØª ÙÙˆÙ…Ùˆ Ø§ÛŒâ€ŒØ§Ùˆ20.000408:47.29A=
+×£p½/ÀHËºšR=https://s2.coinmarketcap.com/static/img/coins/64x64/31493.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"GAM3S.GG*Ú¯ÛŒÙ…Ø² Ø¯Ø§Øª Ø¬ÛŒâ€ŒØ¬ÛŒ20.004354:504.41A
+×£p=
+ÀHÈµšR=https://s2.coinmarketcap.com/static/img/coins/64x64/29605.png
+…
+
+1404/07/1914:19œì¨Ç"ARC*Ø¢Ø±Ú©20.002731:316.40A×£p=
+×"ÀHÀå™R=https://s2.coinmarketcap.com/static/img/coins/64x64/13051.png
+
+
+1404/07/1914:19œì¨Ç"DeHub*Ø¯ÛŒâ€ŒÙ‡Ø§Ø¨20.000615:71.24AÂõ(\ÀH¬û˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/11560.png
+„
+
+1404/07/1914:19œì¨Ç"Gata*Ú¯Ø§ØªØ§20.0259:3003A)\Âõ¨3ÀHå£˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/38277.png
+—
+
+1404/07/1914:19œì¨Ç"Hive AI*Ù‡Ø§ÛŒÙˆ Ø§ÛŒâ€ŒØ¢ÛŒ20.002491:288.54AìQ¸…k?ÀH¡ÿ—R=https://s2.coinmarketcap.com/static/img/coins/64x64/35188.png
+ 
+
+1404/07/1914:19œì¨Ç"The Game Company*Ø¯ Ú¯ÛŒÙ… Ú©Ù…Ù¾Ø§Ù†ÛŒ20.008907:1032AìQ¸…Ûy@H¨é—R=https://s2.coinmarketcap.com/static/img/coins/64x64/35595.png
+‘
+
+1404/07/1914:19œì¨Ç"ALEX Lab*Ø§Ù„Ú©Ø³ Ù„Ø¨20.004100:475.05Aáz®G!4ÀHàä—R=https://s2.coinmarketcap.com/static/img/coins/64x64/22074.png
+±
+
+1404/07/1914:20Øì¨Ç"Doge Eat Doge*Ø¯ÙˆØ¬ Ø§ÛŒØª Ø¯ÙˆØ¬20.000000007993628650993194:0.000926AR¸…ëÑ1ÀHÈŸ—R=https://s2.coinmarketcap.com/static/img/coins/64x64/21453.png
+¤
+
+1404/07/1914:19œì¨Ç"	DFI.Money*"Ø¯ÛŒâ€ŒØ§Ùâ€ŒØ¢ÛŒ Ø¯Ø§Øª Ù…Ø§Ù†ÛŒ264.07:7422933Affffff*ÀHÚ÷–R<https://s2.coinmarketcap.com/static/img/coins/64x64/5957.png
+˜
+
+1404/07/1914:20Øì¨Ç"VCHAT Token*ÙˆÛŒâ€ŒÚ†Øª ØªÙˆÚ©Ù†20.3519:40773A\Âõ(\@H’Í–R=https://s2.coinmarketcap.com/static/img/coins/64x64/38119.png
+˜
+
+1404/07/1914:19œì¨Ç"
+yesnoerror*ÛŒØ³ Ù†Ùˆ Ø§Ø±ÙˆØ±20.002442:282.86AHáz®G.ÀH¡‚•R=https://s2.coinmarketcap.com/static/img/coins/64x64/34854.png
+­
+
+1404/07/1914:19œì¨Ç"Chickencoin*Ú†ÛŒÚ©Ù†â€ŒÚ©ÙˆÛŒÙ†20.00000003770927494410049:0.004369Afffffæ'ÀH†í“R=https://s2.coinmarketcap.com/static/img/coins/64x64/29999.png
+‚
+
+1404/07/1914:19œì¨Ç"Vai*ÙˆØ§ÛŒ21.0013:116007A{®GázÄ?Hÿ”“R<https://s2.coinmarketcap.com/static/img/coins/64x64/7824.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"Mindfak By Matt Furie*Ù…Ø§ÛŒÙ†Ø¯ÙÚ©20.003488:404.12A=
+×£p=-@H¼ó’R=https://s2.coinmarketcap.com/static/img/coins/64x64/37521.png
+
+
+1404/07/1914:19œì¨Ç"OpenChat*Ø§ÙˆÙ¾Ù† Ú†Øª20.0802:9289A…ëQ¸Ş4ÀHÇ’R=https://s2.coinmarketcap.com/static/img/coins/64x64/24137.png
+”
+
+1404/07/1914:20Øì¨Ç"GMCoin*Ø¬ÛŒâ€ŒØ§Ù…â€ŒÚ©ÙˆÛŒÙ†20.0583:6753AìQ¸…ëÀHšÁ’R=https://s2.coinmarketcap.com/static/img/coins/64x64/13636.png
+„
+
+1404/07/1914:19œì¨Ç"Populous*Ù¾Ø§Ù¾ÙˆÙ„ÙˆØ³20.0450:5217Hœ­’R<https://s2.coinmarketcap.com/static/img/coins/64x64/1789.png
+›
+
+1404/07/1914:19œì¨Ç"Shyft Network*Ø´ÛŒÙØª Ù†ØªÙˆØ±Ú©20.001026:118.90A3333330ÀHõ¢’R<https://s2.coinmarketcap.com/static/img/coins/64x64/8917.png
+®
+
+1404/07/1914:19œì¨Ç"Ctomorrow Platform* Ø³ÛŒâ€ŒØªÙˆÙ…Ø§Ø±Ùˆ Ù¾Ù„ØªÙØ±Ù…20.001469:170.19AÂõ(\ú¿HÛ™’R=https://s2.coinmarketcap.com/static/img/coins/64x64/16675.png
+š
+
+1404/07/1914:20Øì¨Ç"Skey Network*Ø§Ø³Ú©ÛŒ Ù†ØªÙˆØ±Ú©20.005029:582.68A¸…ëQ8#ÀH”„’R<https://s2.coinmarketcap.com/static/img/coins/64x64/8133.png
+º
+
+1404/07/1914:19œì¨Ç"Waffles Davincij15's Cat*&ÙˆØ§ÙÙ„Ø² Ø¯Ø§ÙˆÛŒÙ†Ú†ÛŒ Û±Ûµ'Ø² Ú©Øª20.002675:309.88AÍÌÌÌÌÌ ÀH°ƒ’R=https://s2.coinmarketcap.com/static/img/coins/64x64/31442.png
+Š
+
+1404/07/1914:20Øì¨Ç"RCADE*
+Ø¢Ø±Ú©ÛŒØ¯20.000287:33.27AÃõ(\3ÀHÎ¾‘R=https://s2.coinmarketcap.com/static/img/coins/64x64/37260.png
+Ì
+
+1404/07/1914:19œì¨Ç""Ethereum Push Notification Service*3Ø§ØªØ±ÛŒÙˆÙ… Ù¾ÙˆØ´ Ù†ÙˆØªÛŒÙÛŒÚ©ÛŒØ´Ù† Ø³Ø±ÙˆÛŒØ³20.0263:3052Affffff,ÀH‹‘R<https://s2.coinmarketcap.com/static/img/coins/64x64/9111.png
+’
+
+1404/07/1914:19œì¨Ç"Only1*Ø§ÙˆÙ†Ù„ÛŒ ÙˆØ§Ù†20.007162:829.74Aö(\Âu)ÀH¬áR=https://s2.coinmarketcap.com/static/img/coins/64x64/10891.png
+’
+
+1404/07/1914:20Øì¨Ç"	Luckycoin*Ù„Ø§Ú©ÛŒâ€ŒÚ©ÙˆÛŒÙ†20.1957:22678A¸…ëQ¸.ÀHà›R:https://s2.coinmarketcap.com/static/img/coins/64x64/22.png
+¦
+
+1404/07/1914:20Øì¨Ç"	Nasdaq666*!Ù†Ø§Ø³Ø¯Ø§Ú© Ø´ÛŒØ´ Ø´ÛŒØ´ Ø´ÛŒØ´20.002361:273.54AìQ¸…KTÀHøR=https://s2.coinmarketcap.com/static/img/coins/64x64/37355.png
+”
+
+1404/07/1914:19œì¨Ç"
+ShareToken*Ø´ÛŒØ± ØªÙˆÚ©Ù†20.000996:115.36AHáz®GÀHï†R<https://s2.coinmarketcap.com/static/img/coins/64x64/4197.png
+¬
+
+1404/07/1914:19œì¨Ç"Stool Prisondente*Ø§Ø³ØªÙˆÙ„ Ù¾Ø±ÛŒØ²ÙˆÙ†Ø¯Ù†ØªÙ‡20.002359:273.33A\Âõ(\7ÀHÅúR=https://s2.coinmarketcap.com/static/img/coins/64x64/35687.png
+Ñ
+
+1404/07/1914:19œì¨Ç"just buy $1 worth of this coin*7Ø¬Ø§Ø³Øª Ø¨Ø§ÛŒ Û± Ø¯Ù„Ø§Ø± ÙˆØ±Ø« Ø¢Ù Ø¯ÛŒØ³ Ú©ÙˆÛŒÙ†20.002351:272.37A{®Gáº1ÀHÈºR=https://s2.coinmarketcap.com/static/img/coins/64x64/34872.png
+‘
+
+1404/07/1914:19œì¨Ç"SolCex*Ø³ÙˆÙ„â€ŒØ³Ú©Ø³20.003006:348.21A®Gáz®ÀH¨‹R=https://s2.coinmarketcap.com/static/img/coins/64x64/30750.png
+
+
+1404/07/1914:19œì¨Ç"Harold*Ù‡Ø§Ø±ÙˆÙ„Ø¯20.002974:344.53A\Âõ(0ÀHÙìR=https://s2.coinmarketcap.com/static/img/coins/64x64/34109.png
+‹
+
+1404/07/1914:20Øì¨Ç"MILLI*Ù…ÛŒÙ„ÛŒ2
+0.00000888:1.0286AìQ¸…k;ÀHÈÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/29766.png
+š
+
+1404/07/1914:20Øì¨Ç"
+Eternal AI*Ø§ØªØ±Ù†Ø§Ù„ Ø§ÛŒâ€ŒØ¢ÛŒ20.0101:1175A×£p=
+W#ÀHˆ’R=https://s2.coinmarketcap.com/static/img/coins/64x64/31401.png
+¤
+
+1404/07/1914:19œì¨Ç"SingularityDAO*Ø³ÛŒÙ†Ú¯ÙˆÙ„Ø§Ø±ÛŒØªÛŒ Ø¯Ø§Ø¦Ùˆ20.0279:3230AìQ¸…ë	ÀHâãŒR<https://s2.coinmarketcap.com/static/img/coins/64x64/9638.png
+
+
+1404/07/1914:20Øì¨Ç"BobaCat*Ø¨ÙˆØ¨Ø§ Ú©Øª20.003761:435.77A…ëQ¸…ÀHÿÙŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/28132.png
+°
+
+1404/07/1914:20Øì¨Ç"Smoking Chicken Fish* Ø§Ø³Ù…ÙˆÚ©ÛŒÙ†Ú¯ Ú†ÛŒÚ©Ù† ÙÛŒØ´20.002296:266.04AHáz®Ç,ÀHş’ŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/32615.png
+Š
+
+1404/07/1914:20Øì¨Ç"Plugin*Ù¾Ù„Ø§Ú¯ÛŒÙ†20.0152:1757Aq=
+×£p"ÀHµ‘ŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/14188.png
+’
+
+1404/07/1914:19œì¨Ç"	Shark Cat*Ø´Ø§Ø±Ú© Ú©Øª20.002312:267.82A      )ÀHìÕ‹R=https://s2.coinmarketcap.com/static/img/coins/64x64/30309.png
+
+
+1404/07/1914:19œì¨Ç"TCOM Global*ØªÛŒâ€ŒÚ©Ø§Ù… Ú¯Ù„ÙˆØ¨Ø§Ù„20.0247:2867AÍÌÌÌÌÌÀHıüŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/37739.png
+‹
+
+1404/07/1914:19œì¨Ç"FACT0RN*ÙÚ©ØªÙˆØ±Ù†22.08:241515A=
+×£p='ÀHœ÷ŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/27103.png
+Š
+
+1404/07/1914:19œì¨Ç"Prosper*Ù¾Ø±ÙˆØ³Ù¾Ø±20.0443:5131AHáz®G	@HÚöŠR<https://s2.coinmarketcap.com/static/img/coins/64x64/8255.png
+‘
+
+1404/07/1914:19œì¨Ç"GameZone*Ú¯ÛŒÙ… Ø²ÙˆÙ†20.002705:313.44Affffff$ÀH¤İŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/11871.png
+‡
+
+1404/07/1914:19œì¨Ç"Verse*ÙˆØ±Ø³2
+0.00005563:6.45A¸…ëQ8'ÀHî×ŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/22929.png
+»
+
+1404/07/1914:19œì¨Ç"Non-Playable Coin Solana*'Ù†Ø§Ù† Ù¾Ù„ÛŒØ¨Ù„ Ú©ÙˆÛŒÙ† Ø³ÙˆÙ„Ø§Ù†Ø§20.002339:271.03Aš™™™™™(ÀH»ŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/32412.png
+”
+
+1404/07/1914:19œì¨Ç"KlimaDAO*Ú©Ù„ÛŒÙ…Ø§ Ø¯Ø§Ø¦Ùˆ20.2832:32808A333333(@H–ŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/12873.png
+¤
+
+1404/07/1914:19œì¨Ç"	Rejuve.AI*Ø±ÛŒØ¬ÛŒÙˆÙˆ Ø¯Ø§Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.002938:340.37A\Âõ(œ6ÀH‡ô‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/23769.png
+’
+
+1404/07/1914:20Øì¨Ç"Credefi*Ú©Ø± Ø¯ÛŒÙØ§ÛŒ20.003001:347.71A{®Gáú4ÀH‰‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/13272.png
+
+
+1404/07/1914:19œì¨Ç"CatSlap*Ú©Øª Ø§Ø³Ù„Ù¾20.000513:59.47Aš™™™™(ÀHÉùˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/34203.png
+
+
+1404/07/1914:19œì¨Ç"Permission Coin*Ù¾Ø±Ù…ÛŒØ´Ù† Ú©ÙˆÛŒÙ†20.000139:16.07A=
+×£p=ÀH¹îˆR<https://s2.coinmarketcap.com/static/img/coins/64x64/7105.png
+
+
+1404/07/1914:19œì¨Ç"UniBot*ÛŒÙˆÙ†ÛŒâ€ŒØ¨Ø§Øª22.24:259532A¤p=
+×£(ÀH¹İˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/27009.png
+¶
+
+1404/07/1914:19œì¨Ç"Trabzonspor Fan Token*)ØªØ±Ø§Ø¨ÙˆØ²Ø§Ù† Ø§Ø³Ù¾ÙˆØ± ÙÙ† ØªÙˆÚ©Ù†20.3112:36051Aö(\Âu+ÀH“ÑˆR<https://s2.coinmarketcap.com/static/img/coins/64x64/7637.png
+¹
+
+1404/07/1914:19œì¨Ç"Real Smurf Cat (ETH)*)Ø±ÛŒÛŒÙ„ Ø§Ø³Ù…ÙˆØ±Ù Ú©Øª (Ø§ØªØ±ÛŒÙˆÙ…)2
+0.00002384:2.76AÍÌÌÌÌÌ0ÀH‚ÀˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/28053.png
+Œ
+
+1404/07/1914:19œì¨Ç"REVOX*Ø±ÛŒÙˆÙˆÚ©Ø³20.000827:95.77Aš™™™™¹MÀH½œˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/34600.png
+
+
+1404/07/1914:20Øì¨Ç"Contango*Ú©ÙˆÙ†ØªØ§Ù†Ú¯Ùˆ20.0187:2170AÂõ(\(ÀHç·‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/34045.png
+Œ
+
+1404/07/1914:19œì¨Ç"E Money*Ø§ÛŒ Ù…Ø§Ù†ÛŒ20.0151:1745A)\Âõ($ÀH¢”‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/35407.png
+˜
+
+1404/07/1914:19œì¨Ç"WiFi Map*ÙˆØ§ÛŒâ€ŒÙØ§ÛŒ Ù…Ù¾20.003186:369.17A333333&ÀH¶ù†R=https://s2.coinmarketcap.com/static/img/coins/64x64/24133.png
+š
+
+1404/07/1914:20Øì¨Ç"Shadow Exchange*Ø´Ø¯Ùˆ Ø§Ú©Ø³Ú†Ù†Ø¬26.08:704951AR¸…ëQ=ÀH˜Ø†R=https://s2.coinmarketcap.com/static/img/coins/64x64/36389.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"BNB Card*Ø¨ÛŒâ€ŒØ§Ù†â€ŒØ¨ÛŒ Ú©Ø§Ø±Øª20.002207:255.65A®Gáz®1ÀH°×†R=https://s2.coinmarketcap.com/static/img/coins/64x64/36131.png
+•
+
+1404/07/1914:19œì¨Ç"	Bitcoin 2*Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Û²20.1196:13855Aš™™™™™@H¿”†R<https://s2.coinmarketcap.com/static/img/coins/64x64/3974.png
+£
+
+1404/07/1914:19œì¨Ç"Napoli Fan Token*Ù†Ø§Ù¾ÙˆÙ„ÛŒ ÙÙ† ØªÙˆÚ©Ù†20.5078:58827A
+×£p=Š(ÀH¾ï…R=https://s2.coinmarketcap.com/static/img/coins/64x64/15137.png
+
+
+1404/07/1914:19œì¨Ç"Humanode*Ù‡ÛŒÙˆÙ…Ù†ÙˆØ¯20.0143:1659AHáz®Ç0ÀHˆ …R=https://s2.coinmarketcap.com/static/img/coins/64x64/23806.png
+“
+
+1404/07/1914:19œì¨Ç"	Primecoin*Ù¾Ø±Ø§ÛŒÙ…â€ŒÚ©ÙˆÛŒÙ†20.0393:4548A=
+×£p=ÀH¤é„R:https://s2.coinmarketcap.com/static/img/coins/64x64/42.png
+™
+
+1404/07/1914:19œì¨Ç"
+Blockasset*Ø¨Ù„Ø§Ú©â€ŒØ§Ø³ÙØª20.006961:806.51A®Gáz.4ÀH³Õ„R=https://s2.coinmarketcap.com/static/img/coins/64x64/15752.png
+‡
+
+1404/07/1914:19œì¨Ç"Gracy*
+Ú¯Ø±ÛŒØ³ÛŒ20.0122:1409A×£p=
+×1ÀHŒÙƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/12515.png
+«
+
+1404/07/1914:19œì¨Ç"	CATWIFHAT*Ú©Øªâ€ŒÙˆÛŒÙâ€ŒÙ‡Øª20.00000007140258127113409:0.008272AHáz®G3ÀHŒ×ƒR<https://s2.coinmarketcap.com/static/img/coins/64x64/8977.png
+‹
+
+1404/07/1914:19œì¨Ç"Edwin*
+Ø§Ø¯ÙˆÛŒÙ†20.002152:249.31AR¸…ë‘<ÀHë«ƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/35545.png
+¡
+
+1404/07/1914:19œì¨Ç"Butthole Coin*Ø¨Ø§Øªâ€ŒÙ‡ÙˆÙ„ Ú©ÙˆÛŒÙ†20.002146:248.61AR¸…ëQ8ÀH½ü‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/35139.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Plair*Ù¾Ù„ÛŒØ±20.003380:391.60A®GázT:ÀHÔï‚R<https://s2.coinmarketcap.com/static/img/coins/64x64/7461.png
+¨
+
+1404/07/1914:19œì¨Ç"	SHIBA INU*Ø´ÛŒØ¨Ø§ Ø§ÛŒÙ†Ùˆ20.0000000031714020970419:0.000367A¤p=
+×ã3ÀH£½‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/37553.png
+‹
+
+1404/07/1914:19œì¨Ç"Reploy*Ø±ÛŒÙ¾Ù„ÙˆÛŒ20.2137:24760A)\Âõ(6ÀHá¸‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/34591.png
+±
+
+1404/07/1914:19œì¨Ç"Router Protocol (New)* Ø±ÙˆØªØ± Ù¾Ø±ÙˆØªÚ©Ù„ (Ø¬Ø¯ÛŒØ¯)20.004705:545.09Aš™™™™™*ÀHüşR=https://s2.coinmarketcap.com/static/img/coins/64x64/32544.png
+™
+
+1404/07/1914:19œì¨Ç"KardiaChain*Ú©Ø§Ø±Ø¯ÛŒ Ø§ Ú†ÛŒÙ†20.000443:51.28A{®Gáú#ÀHÇ€R<https://s2.coinmarketcap.com/static/img/coins/64x64/5453.png
+¡
+
+1404/07/1914:19œì¨Ç"Rivalz Network*Ø±ÛŒÙˆØ§Ù„Ø² Ù†ØªÙˆØ±Ú©20.001831:212.07A333333/ÀHéË€R=https://s2.coinmarketcap.com/static/img/coins/64x64/35590.png
+¢
+
+1404/07/1914:19œì¨Ç"Okratech Token*Ø§ÙˆÚ©Ø±Ø§ ØªÚ© ØªÙˆÚ©Ù†20.002577:298.56AÂõ(\O4ÀH»€R=https://s2.coinmarketcap.com/static/img/coins/64x64/16252.png
+”
+
+1404/07/1914:19œì¨Ç"XOCIETY*Ø§Ú©Ø³ÙˆØ³Ø§ÛŒØªÛŒ20.002789:323.08AHáz®‡3ÀHîÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/36953.png
+„
+
+1404/07/1914:19œì¨Ç"Zenon*Ø²Ù†ÙˆÙ†20.3303:38263Aáz®Gáê?HşÎR<https://s2.coinmarketcap.com/static/img/coins/64x64/4003.png
+¢
+
+1404/07/1914:19œì¨Ç"LTO Network*Ø§Ù„â€ŒØªÛŒâ€ŒØ§Ùˆ Ù†ØªÙˆØ±Ú©20.004958:574.39Aš™™™™Ù8ÀH†¼R<https://s2.coinmarketcap.com/static/img/coins/64x64/3714.png
+‡
+
+1404/07/1914:19œì¨Ç"Sipher*
+Ø³Ø§ÛŒÙØ±20.0231:2679A\Âõ(\$ÀHêÖ~R=https://s2.coinmarketcap.com/static/img/coins/64x64/15469.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Swash*Ø³ÙˆØ§Ø´20.002078:240.70AÍÌÌÌÌÌÀHÉ•~R=https://s2.coinmarketcap.com/static/img/coins/64x64/12148.png
+‡
+
+1404/07/1914:20Øì¨Ç"BASE*Ø¨ÛŒØ³2
+0.00000222:0.2575Affffff&ÀHÏˆ~R=https://s2.coinmarketcap.com/static/img/coins/64x64/27789.png
+†
+
+1404/07/1914:20Øì¨Ç"Arcas*
+Ø¢Ø±Ú©Ø§Ø³20.0297:3435A…ëQ¸…&ÀH³Õ}R=https://s2.coinmarketcap.com/static/img/coins/64x64/11279.png
+
+
+1404/07/1914:19œì¨Ç"Nodecoin*Ù†ÙˆØ¯Ú©ÙˆÛŒÙ†20.0116:1340A®Gáz®;ÀHì¦}R=https://s2.coinmarketcap.com/static/img/coins/64x64/34971.png
+
+
+1404/07/1914:19œì¨Ç"ZClassic*Ø²ÛŒ Ú©Ù„Ø§Ø³ÛŒÚ©20.2210:25599A33333g@HñŸ}R<https://s2.coinmarketcap.com/static/img/coins/64x64/1447.png
+—
+
+1404/07/1914:20Øì¨Ç"Fuse Network*ÙÛŒÙˆØ² Ù†ØªÙˆØ±Ú©20.009328:1081A¤p=
+×£ÀHÒ˜}R<https://s2.coinmarketcap.com/static/img/coins/64x64/5634.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"Tajir Tech Hub*ØªØ§Ø¬ÛŒØ± ØªÚ© Ù‡Ø§Ø¨20.003154:365.45A     @3ÀH˜–|R=https://s2.coinmarketcap.com/static/img/coins/64x64/35230.png
+£
+
+1404/07/1914:19œì¨Ç"Exactly Protocol*Ø§Ú¯Ø²Ú©ØªÙ„ÛŒ Ù¾Ø±ÙˆØªÚ©Ù„20.5029:58264Aš™™™™™	ÀHºÒ{R=https://s2.coinmarketcap.com/static/img/coins/64x64/27736.png
+š
+
+1404/07/1914:19œì¨Ç"Wecan Group*ÙˆÛŒâ€ŒÚ©Ù† Ú¯Ø±ÙˆÙ¾20.002446:283.42A=
+×£p½+ÀHôÄ{R=https://s2.coinmarketcap.com/static/img/coins/64x64/26833.png
+—
+
+1404/07/1914:19œì¨Ç"
+Rifampicin*Ø±ÛŒÙØ§Ù…Ù¾Ø³ÛŒÙ†20.002017:233.72A{®Gáz7@HÅŠ{R=https://s2.coinmarketcap.com/static/img/coins/64x64/34089.png
+
+
+1404/07/1914:19œì¨Ç"COCORO*Ú©ÙˆÚ©ÙˆØ±Ùˆ2
+0.00000479:0.5550Afffffæ'ÀHÀ{R=https://s2.coinmarketcap.com/static/img/coins/64x64/36264.png
+¢
+
+1404/07/1914:20Øì¨Ç"Medieval Empires*Ù…Ø¯ÛŒÙˆÙ„ Ø§Ù…Ù¾Ø§ÛŒØ±20.003598:416.89A®Gáz2ÀHŞîzR=https://s2.coinmarketcap.com/static/img/coins/64x64/22050.png
+˜
+
+1404/07/1914:19œì¨Ç"Orbit Chain*Ø§ÙˆØ±Ø¨ÛŒØª Ú†ÛŒÙ†20.002938:340.40A¤p=
+×£!ÀH™îzR<https://s2.coinmarketcap.com/static/img/coins/64x64/5326.png
+™
+
+1404/07/1914:19œì¨Ç"Creo Engine*Ú©Ø±Ø¦Ùˆ Ø§Ù†Ø¬ÛŒÙ†20.003331:385.93AÍÌÌÌÌÌ*ÀHêşyR=https://s2.coinmarketcap.com/static/img/coins/64x64/17000.png
+”
+
+1404/07/1914:19œì¨Ç"	Cypherium*Ø³Ø§ÛŒÙØ±ÛŒÙˆÙ…20.005212:603.85A333333.ÀHíéyR=https://s2.coinmarketcap.com/static/img/coins/64x64/14339.png
+’
+
+1404/07/1914:19œì¨Ç"Vexanium*ÙˆÚ©Ø³Ø§Ù†ÛŒÙˆÙ…20.002710:313.97A¸…ëQ¸Î¿H­yR<https://s2.coinmarketcap.com/static/img/coins/64x64/2998.png
+œ
+
+1404/07/1914:20Øì¨Ç"
+StreamCoin*Ø§Ø³ØªØ±ÛŒÙ…â€ŒÚ©ÙˆÛŒÙ†20.001321:152.99AÃõ(\B(ÀH«§xR=https://s2.coinmarketcap.com/static/img/coins/64x64/17464.png
+¥
+
+1404/07/1914:19œì¨Ç"Darwinia Network*Ø¯Ø§Ø±ÙˆÛŒÙ†ÛŒØ§ Ù†ØªÙˆØ±Ú©20.001163:134.71A…ëQ¸$ÀH†xR<https://s2.coinmarketcap.com/static/img/coins/64x64/5798.png
+‡
+
+1404/07/1914:20Øì¨Ç"Obyte*Ø§ÙˆØ¨Ø§ÛŒØª22.17:251661AÃõ(\ÂÀHĞ‚xR<https://s2.coinmarketcap.com/static/img/coins/64x64/1492.png
+š
+
+1404/07/1914:19œì¨Ç"Cream Finance*Ú©Ø±ÛŒÙ… ÙØ§ÛŒÙ†Ù†Ø³21.0575:122515Aš™™™™™ÀH†ãwR<https://s2.coinmarketcap.com/static/img/coins/64x64/6193.png
+–
+
+1404/07/1914:20Øì¨Ç"Multibit*Ù…Ø§Ù„ØªÛŒâ€ŒØ¨ÛŒØª20.002066:239.30A{®Gá:3ÀH¿âwR=https://s2.coinmarketcap.com/static/img/coins/64x64/28412.png
+„
+
+1404/07/1914:19œì¨Ç"MAD*Ù…Ø¯2
+0.00000195:0.2263A
+×£p=J5ÀH­œwR=https://s2.coinmarketcap.com/static/img/coins/64x64/32103.png
+›
+
+1404/07/1914:19œì¨Ç"Aipocalypto*Ø§ÛŒâ€ŒÙ¾ÙˆÚ©Ø§Ù„ÛŒÙ¾ØªÙˆ20.0140:1620A¸…ëQ¸ö¿HèŠwR=https://s2.coinmarketcap.com/static/img/coins/64x64/33901.png
+‡
+
+1404/07/1914:19œì¨Ç"MAGA*Ù…Ú¯Ø§2
+0.00000497:0.5757AÍÌÌÌÌ4ÀHû®vR=https://s2.coinmarketcap.com/static/img/coins/64x64/31305.png
+˜
+
+1404/07/1914:20Øì¨Ç"SunContract*Ø³Ø§Ù† Ú©Ø§Ù†ØªØ±Ø§Ú©Øª20.0245:2839A…ëQ¸…ÀHìÚuR<https://s2.coinmarketcap.com/static/img/coins/64x64/1786.png
+‚
+
+1404/07/1914:19œì¨Ç"	Holy coin20.001928:223.40AR¸…ëQ @H±ØuR=https://s2.coinmarketcap.com/static/img/coins/64x64/38533.png
+‡
+
+1404/07/1914:19œì¨Ç"HAVAH*Ù‡Ø§ÙˆØ§20.000852:98.66A333333'ÀH™ÁuR=https://s2.coinmarketcap.com/static/img/coins/64x64/23633.png
+“
+
+1404/07/1914:19œì¨Ç"	JumpToken*Ø¬Ø§Ù…Ù¾ ØªÙˆÚ©Ù†21.0133:117396A=
+×£p=ÀHê‘uR=https://s2.coinmarketcap.com/static/img/coins/64x64/17334.png
+
+
+1404/07/1914:19œì¨Ç"MXC*Ø§Ù…â€ŒØ§Ú©Ø³â€ŒØ³ÛŒ20.000628:72.76A¤p=
+×ƒG@Hß‰uR<https://s2.coinmarketcap.com/static/img/coins/64x64/3628.png
+Î
+
+1404/07/1914:19œì¨Ç"Multi Asset Investment Vehicle*5Ù…Ø§Ù„ØªÛŒâ€ŒØ§Ø³ÙØª Ø§ÛŒÙ†ÙˆØ³ØªÙ…Ù†Øª ÙˆÙÙ‡ÛŒÚ©Ù„20.001286:148.99A)\Âõè<ÀH’„uR=https://s2.coinmarketcap.com/static/img/coins/64x64/36738.png
+
+
+1404/07/1914:19œì¨Ç"KOMPETE*Ú©ÙˆÙ…Ù¾ÛŒØª20.002543:294.59AR¸…ëÑ ÀHÆÄtR=https://s2.coinmarketcap.com/static/img/coins/64x64/18795.png
+€
+
+1404/07/1914:19œì¨Ç"Pockemy20.001903:220.42A…ëQ¸ñ¿H¯tR=https://s2.coinmarketcap.com/static/img/coins/64x64/38532.png
+“
+
+1404/07/1914:20Øì¨Ç"AgriDex*Ø§Ú¯Ø±ÛŒâ€ŒØ¯Ú©Ø³20.006672:772.97A×£p=
+×ÀHÃÓsR=https://s2.coinmarketcap.com/static/img/coins/64x64/34386.png
+
+
+1404/07/1914:20Øì¨Ç"Azuro Protocol*Ø¢Ø²ÙˆØ±Ùˆ Ù¾Ø±ÙˆØªÚ©Ù„20.009438:1093Aáz®Gá ÀH’ÒsR=https://s2.coinmarketcap.com/static/img/coins/64x64/31775.png
+…
+
+1404/07/1914:20Øì¨Ç"Boop*Ø¨ÙˆÙ¾2
+0.00001901:2.20AR¸…ëÑ,ÀHşÅsR=https://s2.coinmarketcap.com/static/img/coins/64x64/30525.png
+
+
+1404/07/1914:19œì¨Ç"	Mintlayer*Ù…ÛŒÙ†Øª Ù„ÛŒØ±20.0293:3393Aö(\Âõ'ÀHÚârR=https://s2.coinmarketcap.com/static/img/coins/64x64/14977.png
+
+
+1404/07/1914:19œì¨Ç"Signum*Ø³ÛŒÚ¯Ù†ÙˆÙ…20.000882:102.22A{®GázÄ?H–ÙrR=https://s2.coinmarketcap.com/static/img/coins/64x64/10776.png
+®
+
+1404/07/1914:20Øì¨Ç"Agent Virtual Machine*"Ø§ÛŒØ¬Ù†Øª ÙˆÛŒØ±ØªÙˆØ§Ù„ Ù…ÛŒØ´Ù†20.0355:4117Aö(\Âõ:ÀHğ¬rR=https://s2.coinmarketcap.com/static/img/coins/64x64/36805.png
+£
+
+1404/07/1914:19œì¨Ç"NanoByte Token*Ù†Ø§Ù†Ùˆ Ø¨Ø§ÛŒØª ØªÙˆÚ©Ù†20.001984:229.81AR¸…ëQÀH…¨rR=https://s2.coinmarketcap.com/static/img/coins/64x64/18101.png
+
+
+1404/07/1914:20Øì¨Ç"Patriot*Ù¾ØªØ±ÛŒÙˆØª20.000187:21.68AR¸…ëÑ+ÀH×œrR=https://s2.coinmarketcap.com/static/img/coins/64x64/33786.png
+
+
+1404/07/1914:20Øì¨Ç"The Nation Token*Ù†ÛŒØ´Ù† ØªÙˆÚ©Ù†2
+0.00000187:0.2168AÃõ(\ÂÀHÏšrR=https://s2.coinmarketcap.com/static/img/coins/64x64/34756.png
+™
+
+1404/07/1914:20Øì¨Ç"Foxsy AI*ÙØ§Ú©Ø³ÛŒ Ø§ÛŒâ€ŒØ¢ÛŒ20.002822:326.99Aö(\Â5AÀHÀóqR=https://s2.coinmarketcap.com/static/img/coins/64x64/31259.png
+Š
+
+1404/07/1914:19œì¨Ç"DeRace*Ø¯ÛŒØ³ Ø±ÛŒØ³20.0155:1801A…ëQ¸í¿H™ëqR=https://s2.coinmarketcap.com/static/img/coins/64x64/10744.png
+›
+
+1404/07/1914:19œì¨Ç"DecideAI*Ø¯ÛŒØ³Ø§ÛŒØ¯ Ø§ÛŒâ€ŒØ¢ÛŒ20.003794:439.58AHáz®GÀHà•qR=https://s2.coinmarketcap.com/static/img/coins/64x64/29104.png
+™
+
+1404/07/1914:19œì¨Ç"Bitcoin.â„*Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ø§Ú†20.6716:77811Aq=
+×£ğ2ÀH‚ápR=https://s2.coinmarketcap.com/static/img/coins/64x64/36350.png
+¦
+
+1404/07/1914:19œì¨Ç"Solcasino Token*Ø³ÙˆÙ„ Ú©Ø§Ø²ÛŒÙ†Ùˆ ØªÙˆÚ©Ù†20.001498:173.61A\Âõ(Ü0ÀHí›pR=https://s2.coinmarketcap.com/static/img/coins/64x64/25101.png
+–
+
+1404/07/1914:19œì¨Ç"
+CrappyBird*Ú©Ø±Ù¾ÛŒâ€ŒØ¨Ø±Ø¯20.001531:177.40A333333+ÀHÃ÷oR=https://s2.coinmarketcap.com/static/img/coins/64x64/36780.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Billy*Ø¨ÛŒÙ„ÛŒ20.001959:226.92AìQ¸…k8ÀHïôoR=https://s2.coinmarketcap.com/static/img/coins/64x64/31914.png
+Œ
+
+1404/07/1914:20Øì¨Ç"ORBIT*Ø§ÙˆØ±Ø¨ÛŒØª20.001833:212.32A…ëQ¸Å>ÀH¢éoR=https://s2.coinmarketcap.com/static/img/coins/64x64/35090.png
+—
+
+1404/07/1914:20Øì¨Ç"
+MagicCraft*Ù…Ø¬ÛŒÚ© Ú©Ø±Ø§ÙØª20.000364:42.13AÂõ(\$ÀH¥èoR=https://s2.coinmarketcap.com/static/img/coins/64x64/15721.png
+˜
+
+1404/07/1914:20Øì¨Ç" Netflix tokenized stock (xStock)21220:	141371519AÃõ(\Âí¿HÿÛoR=https://s2.coinmarketcap.com/static/img/coins/64x64/37060.png
+†
+
+1404/07/1914:19œì¨Ç"TaleX*
+ØªÙÙ„Ú©Ø³20.0122:1411A)\Âõh0ÀHÏ¾oR=https://s2.coinmarketcap.com/static/img/coins/64x64/37610.png
+
+
+1404/07/1914:19œì¨Ç"Tevaera*ØªÙÙˆÙØ±Ø§20.003727:431.79Aö(\ÂõÀH÷¸oR=https://s2.coinmarketcap.com/static/img/coins/64x64/35689.png
+Œ
+
+1404/07/1914:19œì¨Ç"PARSIQ*Ù¾Ø§Ø±Ø³ÛŒÙ‚20.005868:679.88AÍÌÌÌÌL'ÀH²oR<https://s2.coinmarketcap.com/static/img/coins/64x64/5410.png
+“
+
+1404/07/1914:19œì¨Ç"BEERCOIN*Ø¨ÛŒØ±Ú©ÙˆÛŒÙ†2
+0.00000329:0.3808AìQ¸…k%ÀHô¦nR=https://s2.coinmarketcap.com/static/img/coins/64x64/31337.png
+µ
+
+1404/07/1914:19œì¨Ç"Baby Grok (babygrok.ai)*Ø¨Ø¨ÛŒ Ú¯Ñ€Ğ¾Ğº20.000000005633159616945317:0.000653Aš™™™™™ÀHê¡nR=https://s2.coinmarketcap.com/static/img/coins/64x64/37458.png
+
+
+1404/07/1914:19œì¨Ç"MarsDAO*Ù…Ø§Ø±Ø³ Ø¯Ø§Ø¦Ùˆ20.0256:2965AìQ¸…ëÀHÎ¡nR=https://s2.coinmarketcap.com/static/img/coins/64x64/18913.png
+Œ
+
+1404/07/1914:19œì¨Ç"Banano*Ø¨Ø§Ù†Ø§Ù†Ùˆ20.001124:130.27Aáz®Ga+ÀHı’nR<https://s2.coinmarketcap.com/static/img/coins/64x64/4704.png
+
+
+1404/07/1914:19œì¨Ç"Alpaca Finance*Ø¢Ù„Ù¾Ø§Ú©Ø§ ÙØ§ÛŒÙ†Ù†Ø³20.0117:1360AìQ¸…ë%ÀH¬ÚlR<https://s2.coinmarketcap.com/static/img/coins/64x64/8707.png
+­
+
+1404/07/1914:20Øì¨Ç"OmniFlix Network*"Ø§ÙˆÙ…Ù†ÛŒâ€ŒÙÙ„ÛŒÚ©Ø³ Ù†ØªÙˆØ±Ú©20.007087:821.09A¤p=
+×£4ÀH²¼lR=https://s2.coinmarketcap.com/static/img/coins/64x64/24645.png
+
+
+1404/07/1914:19œì¨Ç"Digital Fitness*Ø¯ÛŒØ¬ÛŒØªØ§Ù„ ÙÛŒØªÙ†Ø³20.0565:6545Aq=
 ×£p+ÀHÌ–lR<https://s2.coinmarketcap.com/static/img/coins/64x64/9155.png
 »
 
-1404/07/1914:06æ¨Ç"r/FortNiteBR Bricks*1Ø¢Ø±/ÙÙˆØ±Øªâ€ŒÙ†Ø§ÛŒØªâ€ŒØ¨ÛŒâ€ŒØ¢Ø± Ø¨Ø±ÛŒÚ©Ø³20.0159:1842A®Gáz®ÀHÓãkR=https://s2.coinmarketcap.com/static/img/coins/64x64/27615.png
+1404/07/1914:20Øì¨Ç"r/FortNiteBR Bricks*1Ø¢Ø±/ÙÙˆØ±Øªâ€ŒÙ†Ø§ÛŒØªâ€ŒØ¨ÛŒâ€ŒØ¢Ø± Ø¨Ø±ÛŒÚ©Ø³20.0159:1839A®Gáz®ÀHÓãkR=https://s2.coinmarketcap.com/static/img/coins/64x64/27615.png
 “
 
-1404/07/1914:06æ¨Ç"ScPrime*Ø§Ø³â€ŒØ³ÛŒ Ù¾Ø±Ø§ÛŒÙ…20.0366:4249A{®GázÔ?HÈ¾kR<https://s2.coinmarketcap.com/static/img/coins/64x64/4074.png
-
+1404/07/1914:19œì¨Ç"ScPrime*Ø§Ø³â€ŒØ³ÛŒ Ù¾Ø±Ø§ÛŒÙ…20.0366:4241A333333Ó?H÷»kR<https://s2.coinmarketcap.com/static/img/coins/64x64/4074.png
+£
 
-1404/07/1914:05Ôå¨Ç"CHADETTE*
-Ú†Ø§Ø¯ÙØª20.001819:211.12A)\Âõ¨$ÀHÆ±kR=https://s2.coinmarketcap.com/static/img/coins/64x64/36235.png
-¤
-
-1404/07/1914:05Ôå¨Ç"OciCat*Ø§ÙˆØ³ÛŒâ€ŒÚ©Øª20.000000005521975983475601:0.000641Aš™™™™Ù0ÀH­£kR=https://s2.coinmarketcap.com/static/img/coins/64x64/26836.png
+1404/07/1914:19œì¨Ç"OciCat*Ø§ÙˆØ³ÛŒâ€ŒÚ©Øª20.00000000551826186255175:0.000639Aš™™™™1ÀHškR=https://s2.coinmarketcap.com/static/img/coins/64x64/26836.png
 ¢
 
-1404/07/1914:06æ¨Ç"Emorya Finance*Ø§Ù…ÙˆØ±ÛŒØ§ ÙØ§ÛŒÙ†Ù†Ø³20.002095:243.18AR¸…ëÑ"ÀH´kR=https://s2.coinmarketcap.com/static/img/coins/64x64/25612.png
+1404/07/1914:19œì¨Ç"Emorya Finance*Ø§Ù…ÙˆØ±ÛŒØ§ ÙØ§ÛŒÙ†Ù†Ø³20.002095:242.67Aáz®Gá"ÀH‚‹kR=https://s2.coinmarketcap.com/static/img/coins/64x64/25612.png
+
+
+1404/07/1914:19œì¨Ç"CHADETTE*
+Ú†Ø§Ø¯ÙØª20.001813:210.10A=
+×£p=%ÀH­†kR=https://s2.coinmarketcap.com/static/img/coins/64x64/36235.png
 ‡
 
-1404/07/1914:06æ¨Ç"Pikamoon*Ù¾ÛŒÚ©Ø§Ù…ÙˆÙ†20.000100:11.61H•ÈjR=https://s2.coinmarketcap.com/static/img/coins/64x64/30230.png
+1404/07/1914:20Øì¨Ç"Pikamoon*Ù¾ÛŒÚ©Ø§Ù…ÙˆÙ†20.000100:11.59H•ÈjR=https://s2.coinmarketcap.com/static/img/coins/64x64/30230.png
 Ì
 
-1404/07/1914:05Ôå¨Ç" Crypto Asset Governance Alliance*1Ú©Ø±ÛŒÙ¾ØªÙˆ Ø§Ø³ÙØª Ú¯Ø§ÙˆØ±Ù†Ù†Ø³ Ø§Ù„Ø§ÛŒÙ†Ø³2
-0.00002836:3.29AÍÌÌÌÌÌü¿HÃ¹jR=https://s2.coinmarketcap.com/static/img/coins/64x64/28395.png
+1404/07/1914:19œì¨Ç" Crypto Asset Governance Alliance*1Ú©Ø±ÛŒÙ¾ØªÙˆ Ø§Ø³ÙØª Ú¯Ø§ÙˆØ±Ù†Ù†Ø³ Ø§Ù„Ø§ÛŒÙ†Ø³2
+0.00002835:3.28Affffffş¿H­´jR=https://s2.coinmarketcap.com/static/img/coins/64x64/28395.png
 ¥
 
-1404/07/1914:05Ôå¨Ç"MAX Exchange Token*Ù…Ú©Ø³ Ø§Ú©Ø³Ú†Ù†Ø¬ ØªÙˆÚ©Ù†20.3482:40414AffffffÀH°äiR<https://s2.coinmarketcap.com/static/img/coins/64x64/5067.png
-œ
+1404/07/1914:19œì¨Ç"MAX Exchange Token*Ù…Ú©Ø³ Ø§Ú©Ø³Ú†Ù†Ø¬ ØªÙˆÚ©Ù†20.3485:40372AffffffÀH©íiR<https://s2.coinmarketcap.com/static/img/coins/64x64/5067.png
+«
 
-1404/07/1914:05Ôå¨Ç"Magic Square*Ù…Ø¬ÛŒÚ© Ø§Ø³Ú©ÙˆØ¦Ø±20.005128:595.07AÃõ(\ÂÀHŠŞiR=https://s2.coinmarketcap.com/static/img/coins/64x64/16882.png
+1404/07/1914:19œì¨Ç"Universe Boss Coin*ÛŒÙˆÙ†ÛŒÙˆØ±Ø³ Ø¨Ø§Ø³ Ú©ÙˆÛŒÙ†20.001732:200.60A®Gázî5ÀH¿×iR=https://s2.coinmarketcap.com/static/img/coins/64x64/36575.png
 ’
 
-1404/07/1914:05Ôå¨Ç"	Presearch*Ù¾Ø±ÛŒâ€ŒØ³Ø±Ú†20.004356:505.55AÂõ(\!ÀH“¹iR<https://s2.coinmarketcap.com/static/img/coins/64x64/2245.png
+1404/07/1914:19œì¨Ç"	Presearch*Ù¾Ø±ÛŒâ€ŒØ³Ø±Ú†20.004355:504.56Aš™™™™!ÀH½µiR<https://s2.coinmarketcap.com/static/img/coins/64x64/2245.png
 ¡
 
-1404/07/1914:05Ôå¨Ç"LimoCoin Swap*Ù„ÛŒÙ…ÙˆÚ©ÙˆÛŒÙ† Ø³ÙˆØ§Ù¾20.001467:170.28A\Âõ(\"@H€¶iR=https://s2.coinmarketcap.com/static/img/coins/64x64/15758.png
+1404/07/1914:19œì¨Ç"LimoCoin Swap*Ù„ÛŒÙ…ÙˆÚ©ÙˆÛŒÙ† Ø³ÙˆØ§Ù¾20.001467:169.98Aš™™™™™"@HœµiR=https://s2.coinmarketcap.com/static/img/coins/64x64/15758.png
 œ
 
-1404/07/1914:05Ôå¨Ç"	Venus BCH*ÙˆÙ†ÙˆØ³ Ø¨ÛŒâ€ŒØ³ÛŒâ€ŒØ§Ú†211.17:1296313Aáz®Ga#ÀH¼¡iR<https://s2.coinmarketcap.com/static/img/coins/64x64/7974.png
+1404/07/1914:19œì¨Ç"Magic Square*Ù…Ø¬ÛŒÚ© Ø§Ø³Ú©ÙˆØ¦Ø±20.005110:591.99A      ÀHñ®iR=https://s2.coinmarketcap.com/static/img/coins/64x64/16882.png
+œ
+
+1404/07/1914:19œì¨Ç"	Venus BCH*ÙˆÙ†ÙˆØ³ Ø¨ÛŒâ€ŒØ³ÛŒâ€ŒØ§Ú†211.13:1289557AR¸…ëÑ#ÀH†òhR<https://s2.coinmarketcap.com/static/img/coins/64x64/7974.png
 ‡
 
-1404/07/1914:05Ôå¨Ç"Ycash*ÙˆØ§ÛŒ Ú©Ø´20.1017:11800A)\ÂõHHÀHåçhR<https://s2.coinmarketcap.com/static/img/coins/64x64/4160.png
+1404/07/1914:19œì¨Ç"Ycash*ÙˆØ§ÛŒ Ú©Ø´20.1016:11775A
+×£p=JHÀHèâhR<https://s2.coinmarketcap.com/static/img/coins/64x64/4160.png
 ‘
 
-1404/07/1914:05Ôå¨Ç"	Aeternity*Ø§ØªØ±Ù†ÛŒØªÛŒ20.004448:516.20AHáz®G@HßÆhR<https://s2.coinmarketcap.com/static/img/coins/64x64/1700.png
- 
-
-1404/07/1914:05Ôå¨Ç"ADAMANT Messenger*Ø¢Ø¯Ø§Ù…Ø§Ù†Øª Ù…Ø³Ù†Ø¬Ø±20.0155:1797A)\Âõ(ø¿Hó¦hR<https://s2.coinmarketcap.com/static/img/coins/64x64/3703.png
+1404/07/1914:19œì¨Ç"	Aeternity*Ø§ØªØ±Ù†ÛŒØªÛŒ20.004445:515.01A¤p=
+×£@HÓ¾hR<https://s2.coinmarketcap.com/static/img/coins/64x64/1700.png
 Ÿ
 
-1404/07/1914:05Ôå¨Ç"Talent Protocol*ØªÙ„Ù†Øª Ù¾Ø±ÙˆØªÚ©Ù„20.005830:676.61A®Gáz”+ÀHÁ£hR=https://s2.coinmarketcap.com/static/img/coins/64x64/33500.png
+1404/07/1914:19œì¨Ç"Talent Protocol*ØªÙ„Ù†Øª Ù¾Ø±ÙˆØªÚ©Ù„20.005834:675.89A…ëQ¸+ÀHƒ¬hR=https://s2.coinmarketcap.com/static/img/coins/64x64/33500.png
 ˜
 
-1404/07/1914:05Ôå¨Ç"
-ritestream*Ø±ÛŒØª Ø§Ø³ØªØ±ÛŒÙ…20.002215:257.09Aáz®Gá@Hš‚hR=https://s2.coinmarketcap.com/static/img/coins/64x64/18353.png
+1404/07/1914:19œì¨Ç"
+ritestream*Ø±ÛŒØª Ø§Ø³ØªØ±ÛŒÙ…20.002216:256.71AÂõ(\@H…hR=https://s2.coinmarketcap.com/static/img/coins/64x64/18353.png
+ 
+
+1404/07/1914:19œì¨Ç"ADAMANT Messenger*Ø¢Ø¯Ø§Ù…Ø§Ù†Øª Ù…Ø³Ù†Ø¬Ø±20.0154:1788A¤p=
+×£ü¿H­ÿgR<https://s2.coinmarketcap.com/static/img/coins/64x64/3703.png
 —
 
-1404/07/1914:05Ôå¨Ç"ZyFAI*Ø²Ø§ÛŒâ€ŒØ§Ùâ€ŒØ§ÛŒâ€ŒØ¢ÛŒ20.0217:2522A×£p=
-3ÀHÓügR=https://s2.coinmarketcap.com/static/img/coins/64x64/32933.png
+1404/07/1914:19œì¨Ç"ZyFAI*Ø²Ø§ÛŒâ€ŒØ§Ùâ€ŒØ§ÛŒâ€ŒØ¢ÛŒ20.0217:2518Aš™™™™3ÀHÌügR=https://s2.coinmarketcap.com/static/img/coins/64x64/32933.png
 
 
-1404/07/1914:05Ôå¨Ç"Keep3rV1*Ú©ÛŒÙ¾Ø± ÙˆÛŒÛ±24.00:463941AìQ¸…ë&ÀH´ßgR<https://s2.coinmarketcap.com/static/img/coins/64x64/7535.png
-›
-
-1404/07/1914:06æ¨Ç""Microsoft tokenized stock (xStock)2650.86:75532785AÂõ(\O3@HÖ¤gR=https://s2.coinmarketcap.com/static/img/coins/64x64/37056.png
+1404/07/1914:19œì¨Ç"Keep3rV1*Ú©ÛŒÙ¾Ø± ÙˆÛŒÛ±24.00:463747A…ëQ¸&ÀH¶ğgR<https://s2.coinmarketcap.com/static/img/coins/64x64/7535.png
 “
 
-1404/07/1914:05Ôå¨Ç"	Moonchain*Ù…ÙˆÙ†â€ŒÚ†ÛŒÙ†20.006776:786.34A…ëQ¸Å4ÀHˆ•gR=https://s2.coinmarketcap.com/static/img/coins/64x64/38247.png
+1404/07/1914:19œì¨Ç"	Moonchain*Ù…ÙˆÙ†â€ŒÚ†ÛŒÙ†20.006819:790.02A\Âõ(œ5ÀH³égR=https://s2.coinmarketcap.com/static/img/coins/64x64/38247.png
+›
+
+1404/07/1914:20Øì¨Ç""Microsoft tokenized stock (xStock)2650.86:75404565AÂõ(\O3@HÖ¤gR=https://s2.coinmarketcap.com/static/img/coins/64x64/37056.png
+›
+
+1404/07/1914:20Øì¨Ç"ISKRA Token*Ø§ÛŒØ³Ú©Ø±Ø§ ØªÙˆÚ©Ù†20.003148:364.71A
+×£p=Š ÀHë„gR=https://s2.coinmarketcap.com/static/img/coins/64x64/21916.png
 ‡
 
-1404/07/1914:05Ôå¨Ç"Fric*ÙØ±ÛŒÚ©20.001685:195.57A{®Gáú4ÀHäífR=https://s2.coinmarketcap.com/static/img/coins/64x64/34406.png
-›
-
-1404/07/1914:06æ¨Ç"ISKRA Token*Ø§ÛŒØ³Ú©Ø±Ø§ ØªÙˆÚ©Ù†20.003142:364.64A¸…ëQ¸ ÀHîëfR=https://s2.coinmarketcap.com/static/img/coins/64x64/21916.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"Crypton*Ú©Ø±ÛŒÙ¾ØªÙˆÙ†20.1603:18599A…ëQ¸…÷¿HÚfR<https://s2.coinmarketcap.com/static/img/coins/64x64/6865.png
-
-
-1404/07/1914:05Ôå¨Ç"MetaCene*Ù…ØªØ§ Ø³ÛŒÙ†20.003226:374.36A®Gáz!ÀH˜ÌfR=https://s2.coinmarketcap.com/static/img/coins/64x64/32926.png
+1404/07/1914:19œì¨Ç"Fric*ÙØ±ÛŒÚ©20.001688:195.52A¸…ëQø4ÀH¿€gR=https://s2.coinmarketcap.com/static/img/coins/64x64/34406.png
 ‰
 
-1404/07/1914:05Ôå¨Ç"Celsius*Ø³Ù„Ø³ÛŒÙˆØ³20.0445:5163A\Âõ(\0ÀH·fR<https://s2.coinmarketcap.com/static/img/coins/64x64/2700.png
+1404/07/1914:19œì¨Ç"Celsius*Ø³Ù„Ø³ÛŒÙˆØ³20.0447:5175A=
+×£p=/ÀHëfR<https://s2.coinmarketcap.com/static/img/coins/64x64/2700.png
+Œ
+
+1404/07/1914:19œì¨Ç"Crypton*Ú©Ø±ÛŒÙ¾ØªÙˆÙ†20.1604:18586AR¸…ëQØ¿H€çfR<https://s2.coinmarketcap.com/static/img/coins/64x64/6865.png
+
+
+1404/07/1914:19œì¨Ç"MetaCene*Ù…ØªØ§ Ø³ÛŒÙ†20.003227:373.85A¸…ëQ¸ÀHÆĞfR=https://s2.coinmarketcap.com/static/img/coins/64x64/32926.png
+™
+
+1404/07/1914:19œì¨Ç"POOH*Ù¾ÙˆÙ‡20.000000003992062416691839:0.000462A     €$ÀH¼ÀfR=https://s2.coinmarketcap.com/static/img/coins/64x64/24851.png
 ¥
 
-1404/07/1914:06æ¨Ç"Sugar Daddy Season*Ø³ÛŒØ²Ù† Ø´ÙˆÚ¯Ø± Ø¯Ø¯ÛŒ20.001672:194.03A)\Âõ(ÀH¯†fR=https://s2.coinmarketcap.com/static/img/coins/64x64/36856.png
-™
-
-1404/07/1914:05Ôå¨Ç"POOH*Ù¾ÙˆÙ‡20.000000003968208391980414:0.000461Aáz®Ga%ÀH‰òeR=https://s2.coinmarketcap.com/static/img/coins/64x64/24851.png
-¡
-
-1404/07/1914:05Ôå¨Ç"MSTR2100*"Ø§Ù…â€ŒØ§Ø³â€ŒØªÛŒâ€ŒØ¢Ø± Û²Û±Û°Û°20.0805:9338A®GázT2ÀH¿²eR=https://s2.coinmarketcap.com/static/img/coins/64x64/33356.png
+1404/07/1914:20Øì¨Ç"Sugar Daddy Season*Ø³ÛŒØ²Ù† Ø´ÙˆÚ¯Ø± Ø¯Ø¯ÛŒ20.001672:193.70A)\Âõ(ÀH¯†fR=https://s2.coinmarketcap.com/static/img/coins/64x64/36856.png
 ¤
 
-1404/07/1914:05Ôå¨Ç"OFFICIAL K-POP*Ø¢ÙÛŒØ³ÙÛŒØ§Ù„ Ú©ÛŒ Ù¾Ø§Ù¾20.000256:29.70A\Âõ(\1ÀH¡¥eR=https://s2.coinmarketcap.com/static/img/coins/64x64/37371.png
-•
-
-1404/07/1914:05Ôå¨Ç"Gui Inu*Ú¯ÙˆÛŒÛŒ Ø§ÛŒÙ†Ùˆ2
-0.00000299:0.3464A¤p=
-×£1ÀH«¤eR=https://s2.coinmarketcap.com/static/img/coins/64x64/28851.png
-›
-
-1404/07/1914:06æ¨Ç"
-Choise.com*Ú†ÙˆÛŒØ³ Ø¯Ø§Øª Ú©Ø§Ù…20.003561:413.23AHáz®Ç'ÀH‹eR=https://s2.coinmarketcap.com/static/img/coins/64x64/19018.png
-€
-
-1404/07/1914:06æ¨Ç"MASQ*Ù…Ø³Ú©20.0481:5581A)\Âõh0ÀHµõdR<https://s2.coinmarketcap.com/static/img/coins/64x64/8376.png
+1404/07/1914:19œì¨Ç"OFFICIAL K-POP*Ø¢ÙÛŒØ³ÙÛŒØ§Ù„ Ú©ÛŒ Ù¾Ø§Ù¾20.000256:29.67AìQ¸…k1ÀHì®eR=https://s2.coinmarketcap.com/static/img/coins/64x64/37371.png
 µ
 
-1404/07/1914:06æ¨Ç"Bad Idea AI*Ø¨Ø¯ Ø¢ÛŒØ¯ÛŒØ§ Ø§ÛŒâ€ŒØ¢ÛŒ20.000000002664739038866412:0.000309A…ëQ¸+ÀHûĞdR=https://s2.coinmarketcap.com/static/img/coins/64x64/25479.png
+1404/07/1914:19œì¨Ç"Bad Idea AI*Ø¨Ø¯ Ø¢ÛŒØ¯ÛŒØ§ Ø§ÛŒâ€ŒØ¢ÛŒ20.000000002676849733855142:0.000310Aq=
+×£p*ÀHÀ‹eR=https://s2.coinmarketcap.com/static/img/coins/64x64/25479.png
+•
+
+1404/07/1914:19œì¨Ç"Gui Inu*Ú¯ÙˆÛŒÛŒ Ø§ÛŒÙ†Ùˆ2
+0.00000298:0.3450A¤p=
+×ã1ÀHì…eR=https://s2.coinmarketcap.com/static/img/coins/64x64/28851.png
+€
+
+1404/07/1914:19œì¨Ç"MASQ*Ù…Ø³Ú©20.0481:5572A…ëQ¸.ÀH¡õdR<https://s2.coinmarketcap.com/static/img/coins/64x64/8376.png
+›
+
+1404/07/1914:20Øì¨Ç"
+Choise.com*Ú†ÙˆÛŒØ³ Ø¯Ø§Øª Ú©Ø§Ù…20.003547:410.98Aö(\Âu(ÀHÊÜdR=https://s2.coinmarketcap.com/static/img/coins/64x64/19018.png
 ™
 
-1404/07/1914:05Ôå¨Ç"TON Station*ØªÙˆÙ† Ø§Ø³ØªÛŒØ´Ù†2
-0.00002503:2.90AR¸…ë0ÀHÏdR=https://s2.coinmarketcap.com/static/img/coins/64x64/33734.png
-™
+1404/07/1914:19œì¨Ç"TON Station*ØªÙˆÙ† Ø§Ø³ØªÛŒØ´Ù†2
+0.00002504:2.90A      0ÀH¹ÒdR=https://s2.coinmarketcap.com/static/img/coins/64x64/33734.png
+¡
 
-1404/07/1914:05Ôå¨Ç"Orbitt Token*Ø§ÙˆØ±Ø¨ÛŒØª ØªÙˆÚ©Ù†20.1101:12773A…ëQ¸/ÀHà®dR=https://s2.coinmarketcap.com/static/img/coins/64x64/30448.png
+1404/07/1914:20Øì¨Ç"MSTR2100*"Ø§Ù…â€ŒØ§Ø³â€ŒØªÛŒâ€ŒØ¢Ø± Û²Û±Û°Û°20.0799:9252A     @3ÀHÂĞdR=https://s2.coinmarketcap.com/static/img/coins/64x64/33356.png
 ”
 
-1404/07/1914:06æ¨Ç"VIDT DAO*ÙˆÛŒØ¯Øª Ø¯Ø§Ø¦Ùˆ20.001890:219.29Aš™™™™™©?H¨dR=https://s2.coinmarketcap.com/static/img/coins/64x64/22710.png
+1404/07/1914:20Øì¨Ç"VIDT DAO*ÙˆÛŒØ¯Øª Ø¯Ø§Ø¦Ùˆ20.001889:218.85A¸…ëQ¸?Hà¤dR=https://s2.coinmarketcap.com/static/img/coins/64x64/22710.png
 â
 
-1404/07/1914:05Ôå¨Ç"$mStable Governance Token: Meta (MTA)*HØ§Ù…â€ŒØ§Ø³ØªÛŒØ¨Ù„ Ú¯Ø§ÙˆØ±Ù†Ù†Ø³ ØªÙˆÚ©Ù†: Ù…ØªØ§ (Ø§Ù…â€ŒØªÛŒâ€ŒØ§ÛŒ)20.0296:3436A×£p=
-×ë¿HÛdR<https://s2.coinmarketcap.com/static/img/coins/64x64/5748.png
+1404/07/1914:20Øì¨Ç"$mStable Governance Token: Meta (MTA)*HØ§Ù…â€ŒØ§Ø³ØªÛŒØ¨Ù„ Ú¯Ø§ÙˆØ±Ù†Ù†Ø³ ØªÙˆÚ©Ù†: Ù…ØªØ§ (Ø§Ù…â€ŒØªÛŒâ€ŒØ§ÛŒ)20.0296:3430AÃõ(\Âí¿HİdR<https://s2.coinmarketcap.com/static/img/coins/64x64/5748.png
 —
 
-1404/07/1914:05Ôå¨Ç"	Vyvo Coin*ÙˆØ§ÛŒÙˆÙˆ Ú©ÙˆÛŒÙ†20.001740:201.90A×£p=
-6ÀH½úcR=https://s2.coinmarketcap.com/static/img/coins/64x64/23917.png
+1404/07/1914:20Øì¨Ç"	Vyvo Coin*ÙˆØ§ÛŒÙˆÙˆ Ú©ÙˆÛŒÙ†20.001740:201.60A®Gáz6ÀHÅıcR=https://s2.coinmarketcap.com/static/img/coins/64x64/23917.png
 †
 
-1404/07/1914:06æ¨Ç"Dtec*Ø¯ÛŒâ€ŒØªÚ©20.0137:1586A¤p=
-×£ÀHı»cR=https://s2.coinmarketcap.com/static/img/coins/64x64/29456.png
-“
-
-1404/07/1914:05Ôå¨Ç"	Tron Bull*ØªØ±ÙˆÙ† Ø¨ÙˆÙ„20.001703:197.69A)\Âõ(BÀHçæbR=https://s2.coinmarketcap.com/static/img/coins/64x64/32832.png
-¢
-
-1404/07/1914:05Ôå¨Ç"
-NFT Worlds*Ø§Ù†â€ŒØ§Ùâ€ŒØªÛŒ ÙˆØ±Ù„Ø¯Ø²20.002257:261.92A=
-×£pı4ÀHŠŒbR=https://s2.coinmarketcap.com/static/img/coins/64x64/16678.png
-
-
-1404/07/1914:06æ¨Ç"Stratos*Ø§Ø³ØªØ±Ø§ØªÙˆØ³20.0413:4787AìQ¸…ëÀHÚØaR<https://s2.coinmarketcap.com/static/img/coins/64x64/9760.png
-’
-
-1404/07/1914:05Ôå¨Ç"AIPAD*Ø§ÛŒâ€ŒØ¢ÛŒâ€ŒÙ¾Ø¯20.008232:955.35A{®Gáú*ÀH¿ÏaR=https://s2.coinmarketcap.com/static/img/coins/64x64/23300.png
- 
-
-1404/07/1914:05Ôå¨Ç"Skibidi Toilet*Ø§Ø³Ú©ÛŒØ¨ÛŒØ¯ÛŒ ØªÙˆÛŒÙ„Øª20.0228:2647AÍÌÌÌÌÌ1ÀHÌÀaR=https://s2.coinmarketcap.com/static/img/coins/64x64/32415.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"hehe*	Ù‡Ù‡ Ù‡Ù‡20.001893:219.74Aq=
-×£p$ÀHä’aR=https://s2.coinmarketcap.com/static/img/coins/64x64/32386.png
-›
-
-1404/07/1914:05Ôå¨Ç"
-Optimus AI*Ø§Ù¾ØªÛŒÙ…ÙˆØ³ Ø§ÛŒâ€ŒØ¢ÛŒ20.0167:1941A)\Âõ(2ÀH¬aR=https://s2.coinmarketcap.com/static/img/coins/64x64/23794.png
+1404/07/1914:19œì¨Ç"Dtec*Ø¯ÛŒâ€ŒØªÚ©20.0136:1579Aq=
+×£pÀHù—cR=https://s2.coinmarketcap.com/static/img/coins/64x64/29456.png
 ™
 
-1404/07/1914:05Ôå¨Ç"Kira Network*Ú©ÛŒØ±Ø§ Ù†ØªÙˆØ±Ú©20.007718:895.66A®Gáz'ÀHâê`R<https://s2.coinmarketcap.com/static/img/coins/64x64/6930.png
-–
+1404/07/1914:19œì¨Ç"Orbitt Token*Ø§ÙˆØ±Ø¨ÛŒØª ØªÙˆÚ©Ù†20.1087:12597Aš™™™™™0ÀHº“cR=https://s2.coinmarketcap.com/static/img/coins/64x64/30448.png
+“
 
-1404/07/1914:05Ôå¨Ç"Ispolink*Ø§ÛŒØ³â€ŒÙ¾ÙˆÙ„ÛŒÙ†Ú©20.000202:23.44A®Gáz®7ÀH‚Í`R<https://s2.coinmarketcap.com/static/img/coins/64x64/9865.png
-š
+1404/07/1914:19œì¨Ç"	Tron Bull*ØªØ±ÙˆÙ† Ø¨ÙˆÙ„20.001703:197.36A)\Âõ(BÀHçæbR=https://s2.coinmarketcap.com/static/img/coins/64x64/32832.png
+¢
 
-1404/07/1914:06æ¨Ç"Gari Network*Ú¯Ø§Ø±ÛŒ Ù†ØªÙˆØ±Ú©20.002813:326.44Aáz®Gá'ÀHŸ´`R=https://s2.coinmarketcap.com/static/img/coins/64x64/12969.png
-
-
-1404/07/1914:05Ôå¨Ç"Phoenixcoin*ÙÙˆÙ†ÛŒÚ©Ø³â€ŒÚ©ÙˆÛŒÙ†20.0170:1976Hú³`R:https://s2.coinmarketcap.com/static/img/coins/64x64/35.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Koinos*Ú©ÙˆÛŒÙ†ÙˆØ³20.0190:2202Aq=
-×£pÀHÎ³`R<https://s2.coinmarketcap.com/static/img/coins/64x64/8282.png
-’
-
-1404/07/1914:05Ôå¨Ç"ZeroLend*Ø²ÛŒØ±Ùˆ Ù„Ù†Ø¯2
-0.00002869:3.33AffffffÀH¿Š`R=https://s2.coinmarketcap.com/static/img/coins/64x64/31076.png
+1404/07/1914:19œì¨Ç"
+NFT Worlds*Ø§Ù†â€ŒØ§Ùâ€ŒØªÛŒ ÙˆØ±Ù„Ø¯Ø²20.002257:261.48A=
+×£pı4ÀHŠŒbR=https://s2.coinmarketcap.com/static/img/coins/64x64/16678.png
 ­
 
-1404/07/1914:06æ¨Ç"
-UFO Gaming*ÛŒÙˆÙÙˆ Ú¯ÛŒÙ…ÛŒÙ†Ú¯20.00000006092207381891738:0.007070Aö(\Âõğ?H´ã_R=https://s2.coinmarketcap.com/static/img/coins/64x64/10729.png
-Ä
+1404/07/1914:20Øì¨Ç"
+UFO Gaming*ÛŒÙˆÙÙˆ Ú¯ÛŒÙ…ÛŒÙ†Ú¯20.00000006234576998855278:0.007223Aq=
+×£p@HóbR=https://s2.coinmarketcap.com/static/img/coins/64x64/10729.png
+’
 
-1404/07/1914:05Ôå¨Ç"First Convicted Raccon Fred*.ÙØ±Ø³Øª Ú©Ø§Ù†â€ŒÙˆÛŒÚ©ØªØ¯ Ø±Ø§Ú©ÙˆÙ† ÙØ±Ø¯20.001567:181.87AÃõ(\Â4ÀH¸Ñ_R=https://s2.coinmarketcap.com/static/img/coins/64x64/33999.png
-“
+1404/07/1914:19œì¨Ç"AIPAD*Ø§ÛŒâ€ŒØ¢ÛŒâ€ŒÙ¾Ø¯20.008226:952.99Aš™™™™+ÀHöÅaR=https://s2.coinmarketcap.com/static/img/coins/64x64/23300.png
+ 
 
-1404/07/1914:05Ôå¨Ç"BEERCOIN*Ø¨ÛŒØ±Ú©ÙˆÛŒÙ†2
-0.00000285:0.3304A=
-×£p=5ÀHİÂ_R=https://s2.coinmarketcap.com/static/img/coins/64x64/31337.png
-Œ
+1404/07/1914:19œì¨Ç"Skibidi Toilet*Ø§Ø³Ú©ÛŒØ¨ÛŒØ¯ÛŒ ØªÙˆÛŒÙ„Øª20.0228:2642AÂõ(\Ï1ÀHº½aR=https://s2.coinmarketcap.com/static/img/coins/64x64/32415.png
+ˆ
 
-1404/07/1914:05Ôå¨Ç"Nitro*
-Ù†ÛŒØªØ±Ùˆ2
-0.00000370:0.4298A®Gáz”"ÀH”ø^R=https://s2.coinmarketcap.com/static/img/coins/64x64/35942.png
-€
+1404/07/1914:19œì¨Ç"hehe*	Ù‡Ù‡ Ù‡Ù‡20.001893:219.32A×£p=
+W$ÀH»aR=https://s2.coinmarketcap.com/static/img/coins/64x64/32386.png
+›
 
-1404/07/1914:05Ôå¨Ç"U*ÛŒÙˆ20.001566:181.71AfffffFDÀH©÷^R=https://s2.coinmarketcap.com/static/img/coins/64x64/36853.png
-“
+1404/07/1914:19œì¨Ç"
+Optimus AI*Ø§Ù¾ØªÛŒÙ…ÙˆØ³ Ø§ÛŒâ€ŒØ¢ÛŒ20.0167:1939Aš™™™™2ÀHŒaR=https://s2.coinmarketcap.com/static/img/coins/64x64/23794.png
+–
 
-1404/07/1914:05Ôå¨Ç"	Dogechain*Ø¯ÙˆØ¬â€ŒÚ†ÛŒÙ†2
-0.00002361:2.74A\Âõ(\ÀHîó^R=https://s2.coinmarketcap.com/static/img/coins/64x64/21414.png
-³
+1404/07/1914:19œì¨Ç"Ispolink*Ø§ÛŒØ³â€ŒÙ¾ÙˆÙ„ÛŒÙ†Ú©20.000203:23.47A{®Gáº6ÀHÁñ`R<https://s2.coinmarketcap.com/static/img/coins/64x64/9865.png
+™
 
-1404/07/1914:06æ¨Ç"Shoggoth (shoggoth.monster)*Ø´ÙˆÚ¯Ø§Ø« (shoggoth.monster)20.001554:180.37A33333s6ÀHÂî^R=https://s2.coinmarketcap.com/static/img/coins/64x64/33595.png
-Š
-
-1404/07/1914:05Ôå¨Ç"OSCAR*
-Ø§Ø³Ú©Ø§Ø±20.001737:201.59AìQ¸…ë(ÀHåá^R=https://s2.coinmarketcap.com/static/img/coins/64x64/33608.png
-‰
-
-1404/07/1914:05Ôå¨Ç"ASTROS*Ø¢Ø³ØªØ±ÙˆØ³20.0608:7057A333333Ã¿HİÑ^R=https://s2.coinmarketcap.com/static/img/coins/64x64/34555.png
-•
-
-1404/07/1914:05Ôå¨Ç"	Muhdo Hub*Ù…ÙˆÙ‡Ø¯Ùˆ Ù‡Ø§Ø¨20.000922:106.98AffffffÀH¤Á^R=https://s2.coinmarketcap.com/static/img/coins/64x64/34778.png
-‡
-
-1404/07/1914:06æ¨Ç"Rubic*
-Ø±ÙˆØ¨ÛŒÚ©20.009320:1082Aáz®GáÀHã‚^R<https://s2.coinmarketcap.com/static/img/coins/64x64/7219.png
-¨
-
-1404/07/1914:05Ôå¨Ç"MongCoin*Ù…Ø§Ù†Ú¯ Ú©ÙˆÛŒÙ†20.000000002630443733539222:0.000305A¸…ëQ8(ÀHã§]R=https://s2.coinmarketcap.com/static/img/coins/64x64/24793.png
-«
-
-1404/07/1914:05Ôå¨Ç"Vitalik Smart Gas* ÙˆÛŒØªØ§Ù„ÛŒÚ© Ø§Ø³Ù…Ø§Ø±Øª Ú¯Ø³20.000153:17.73A×£p=
-×ÀHÚ]R=https://s2.coinmarketcap.com/static/img/coins/64x64/29350.png
-˜
-
-1404/07/1914:05Ôå¨Ç"	Infinitar*Ø§ÛŒÙ†ÙÛŒÙ†ÛŒØªØ§Ø±20.005263:610.81A333333ó?Hö]R=https://s2.coinmarketcap.com/static/img/coins/64x64/33657.png
-©
-
-1404/07/1914:05Ôå¨Ç"Just A Shitcoin*Ø¬Ø§Ø³Øª Ø§Ù Ø´ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†20.001524:176.81A)\Âõ(0ÀH‹ÿ\R=https://s2.coinmarketcap.com/static/img/coins/64x64/38232.png
+1404/07/1914:19œì¨Ç"Kira Network*Ú©ÛŒØ±Ø§ Ù†ØªÙˆØ±Ú©20.007718:894.14A®Gáz'ÀHâê`R<https://s2.coinmarketcap.com/static/img/coins/64x64/6930.png
 
 
-1404/07/1914:05Ôå¨Ç"Solama*Ø³ÙˆÙ„Ø§Ù…Ø§20.002326:269.90AÍÌÌÌÌÌ.ÀHäè\R=https://s2.coinmarketcap.com/static/img/coins/64x64/29015.png
+1404/07/1914:19œì¨Ç"Phoenixcoin*ÙÙˆÙ†ÛŒÚ©Ø³â€ŒÚ©ÙˆÛŒÙ†20.0170:1973Hı³`R:https://s2.coinmarketcap.com/static/img/coins/64x64/35.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Koinos*Ú©ÙˆÛŒÙ†ÙˆØ³20.0190:2197AÃõ(\ÂÀHõ°`R<https://s2.coinmarketcap.com/static/img/coins/64x64/8282.png
+š
+
+1404/07/1914:20Øì¨Ç"Gari Network*Ú¯Ø§Ø±ÛŒ Ù†ØªÙˆØ±Ú©20.002808:325.28A…ëQ¸'ÀHÁ`R=https://s2.coinmarketcap.com/static/img/coins/64x64/12969.png
+’
+
+1404/07/1914:19œì¨Ç"ZeroLend*Ø²ÛŒØ±Ùˆ Ù„Ù†Ø¯2
+0.00002857:3.31A…ëQ¸…ÀHµÖ_R=https://s2.coinmarketcap.com/static/img/coins/64x64/31076.png
+€
+
+1404/07/1914:19œì¨Ç"U*ÛŒÙˆ20.001574:182.32A…ëQ¸?ÀHë´_R=https://s2.coinmarketcap.com/static/img/coins/64x64/36853.png
+Ä
+
+1404/07/1914:19œì¨Ç"First Convicted Raccon Fred*.ÙØ±Ø³Øª Ú©Ø§Ù†â€ŒÙˆÛŒÚ©ØªØ¯ Ø±Ø§Ú©ÙˆÙ† ÙØ±Ø¯20.001562:180.95AÃõ(\5ÀH†¨_R=https://s2.coinmarketcap.com/static/img/coins/64x64/33999.png
+“
+
+1404/07/1914:19œì¨Ç"	Dogechain*Ø¯ÙˆØ¬â€ŒÚ†ÛŒÙ†2
+0.00002370:2.75Aö(\ÂõÀHÓ£_R=https://s2.coinmarketcap.com/static/img/coins/64x64/21414.png
+Œ
+
+1404/07/1914:19œì¨Ç"Nitro*
+Ù†ÛŒØªØ±Ùˆ2
+0.00000370:0.4283A…ëQ¸…"ÀH›á^R=https://s2.coinmarketcap.com/static/img/coins/64x64/35942.png
+•
+
+1404/07/1914:19œì¨Ç"	Muhdo Hub*Ù…ÙˆÙ‡Ø¯Ùˆ Ù‡Ø§Ø¨20.000922:106.80AffffffÀH¤Á^R=https://s2.coinmarketcap.com/static/img/coins/64x64/34778.png
+‰
+
+1404/07/1914:19œì¨Ç"ASTROS*Ø¢Ø³ØªØ±ÙˆØ³20.0606:7017AHáz®Gñ?HÀ¢^R=https://s2.coinmarketcap.com/static/img/coins/64x64/34555.png
+³
+
+1404/07/1914:19œì¨Ç"Shoggoth (shoggoth.monster)*Ø´ÙˆÚ¯Ø§Ø« (shoggoth.monster)20.001541:178.57A®Gáz”6ÀHø‰^R=https://s2.coinmarketcap.com/static/img/coins/64x64/33595.png
+‡
+
+1404/07/1914:19œì¨Ç"Rubic*
+Ø±ÙˆØ¨ÛŒÚ©20.009287:1076A®GázÀH’Ø]R<https://s2.coinmarketcap.com/static/img/coins/64x64/7219.png
+Š
+
+1404/07/1914:19œì¨Ç"OSCAR*
+Ø§Ø³Ú©Ø§Ø±20.001716:198.80A      ,ÀHûÍ]R=https://s2.coinmarketcap.com/static/img/coins/64x64/33608.png
+
+
+1404/07/1914:19œì¨Ç"Stratos*Ø§Ø³ØªØ±Ø§ØªÙˆØ³20.0395:4573A{®GázÀHè½]R<https://s2.coinmarketcap.com/static/img/coins/64x64/9760.png
+˜
+
+1404/07/1914:19œì¨Ç"	Infinitar*Ø§ÛŒÙ†ÙÛŒÙ†ÛŒØªØ§Ø±20.005267:610.23A…ëQ¸ñ?Hó—]R=https://s2.coinmarketcap.com/static/img/coins/64x64/33657.png
+«
+
+1404/07/1914:20Øì¨Ç"Vitalik Smart Gas* ÙˆÛŒØªØ§Ù„ÛŒÚ© Ø§Ø³Ù…Ø§Ø±Øª Ú¯Ø³20.000152:17.64Aq=
+×£pÀHóõ\R=https://s2.coinmarketcap.com/static/img/coins/64x64/29350.png
+
+
+1404/07/1914:19œì¨Ç"Solama*Ø³ÙˆÙ„Ø§Ù…Ø§20.002323:269.14A\Âõ(Ü/ÀH¹Û\R=https://s2.coinmarketcap.com/static/img/coins/64x64/29015.png
+¨
+
+1404/07/1914:19œì¨Ç"MongCoin*Ù…Ø§Ù†Ú¯ Ú©ÙˆÛŒÙ†20.000000002602515826406421:0.000302AìQ¸…ë*ÀHû¨\R=https://s2.coinmarketcap.com/static/img/coins/64x64/24793.png
 
 
-1404/07/1914:06æ¨Ç"IRISnet*Ø¢ÛŒâ€ŒØ¢Ø±Ø¢ÛŒâ€ŒØ§Ø³â€ŒÙ†Øª20.000936:108.57AÂõ(\k@Hü¬\R<https://s2.coinmarketcap.com/static/img/coins/64x64/3874.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Solchat*Ø³ÙˆÙ„ Ú†Øª20.1877:21788A      0ÀHæ•\R=https://s2.coinmarketcap.com/static/img/coins/64x64/29478.png
-³
-
-1404/07/1914:05Ôå¨Ç"Shiba Predator*Ø´ÛŒØ¨Ø§ Ù¾Ø±Ø¯ÛŒØªÙˆØ±20.00000000251150950351143:0.000291AHáz®G(ÀH¼ú[R=https://s2.coinmarketcap.com/static/img/coins/64x64/18919.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"KARASOU*Ú©Ø§Ø±Ø§Ø³Ùˆ21.9902:230962AHáz®G*ÀHçó[R=https://s2.coinmarketcap.com/static/img/coins/64x64/30692.png
-‚
-
-1404/07/1914:05Ôå¨Ç"Xaya*Ø²Ø§ÛŒØ§20.0261:3030Affffff'ÀHß[R<https://s2.coinmarketcap.com/static/img/coins/64x64/5541.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Overlay*Ø§ÙˆÙˆØ±Ù„ÛŒ20.1204:13968A)\Âõ(+ÀH’Ñ[R=https://s2.coinmarketcap.com/static/img/coins/64x64/23009.png
-›
-
-1404/07/1914:05Ôå¨Ç"Bridge Oracle*Ø¨Ø±ÛŒØ¬ Ø§ÙˆØ±Ø§Ú©Ù„20.000188:21.77A=
-×£pı0ÀH‚Ï[R<https://s2.coinmarketcap.com/static/img/coins/64x64/7096.png
-˜
-
-1404/07/1914:05Ôå¨Ç"
-Q Protocol*Ú©ÛŒÙˆ Ù¾Ø±ÙˆØªÚ©Ù„20.005536:642.44A      Ğ?H»´[R=https://s2.coinmarketcap.com/static/img/coins/64x64/29443.png
+1404/07/1914:19œì¨Ç"IRISnet*Ø¢ÛŒâ€ŒØ¢Ø±Ø¢ÛŒâ€ŒØ§Ø³â€ŒÙ†Øª20.000935:108.28AÂõ(\_k@Hó \R<https://s2.coinmarketcap.com/static/img/coins/64x64/3874.png
 £
 
-1404/07/1914:05Ôå¨Ç"KILT Protocol (new)*Ú©ÛŒÙ„Øª Ù¾Ø±ÙˆØªÚ©Ù„20.007923:919.46A®Gáz.+ÀHÜª[R=https://s2.coinmarketcap.com/static/img/coins/64x64/37468.png
-…
+1404/07/1914:20Øì¨Ç"KILT Protocol (new)*Ú©ÛŒÙ„Øª Ù¾Ø±ÙˆØªÚ©Ù„20.007989:925.60A¸…ëQ¸)ÀHåŒ\R=https://s2.coinmarketcap.com/static/img/coins/64x64/37468.png
+³
 
-1404/07/1914:06æ¨Ç"Bubb*Ø¨Ø§Ø¨20.001493:173.32A…ëQ¸0ÀHç“[R=https://s2.coinmarketcap.com/static/img/coins/64x64/36090.png
+1404/07/1914:19œì¨Ç"Shiba Predator*Ø´ÛŒØ¨Ø§ Ù¾Ø±Ø¯ÛŒØªÙˆØ±20.00000000251150950351143:0.000291AHáz®G(ÀH¼ú[R=https://s2.coinmarketcap.com/static/img/coins/64x64/18919.png
+Œ
+
+1404/07/1914:19œì¨Ç"KARASOU*Ú©Ø§Ø±Ø§Ø³Ùˆ21.9902:230570AHáz®G*ÀHçó[R=https://s2.coinmarketcap.com/static/img/coins/64x64/30692.png
+©
+
+1404/07/1914:19œì¨Ç"Just A Shitcoin*Ø¬Ø§Ø³Øª Ø§Ù Ø´ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†20.001505:174.35A)\Âõh1ÀHıì[R=https://s2.coinmarketcap.com/static/img/coins/64x64/38232.png
 Š
 
-1404/07/1914:06æ¨Ç"Ternoa*
-ØªØ±Ù†ÙˆØ§20.001160:134.57Aš™™™™™ÀHğ‹[R<https://s2.coinmarketcap.com/static/img/coins/64x64/9291.png
-•
+1404/07/1914:19œì¨Ç"Solchat*Ø³ÙˆÙ„ Ú†Øª20.1871:21672A®Gáz”/ÀHıê[R=https://s2.coinmarketcap.com/static/img/coins/64x64/29478.png
+‚
 
-1404/07/1914:05Ôå¨Ç"ivendPay*Ø¢ÛŒâ€ŒÙˆÙ†Ø¯ Ù¾ÛŒ20.001604:186.16Afffffæ%ÀHğÙZR=https://s2.coinmarketcap.com/static/img/coins/64x64/29930.png
-Â
+1404/07/1914:19œì¨Ç"Xaya*Ø²Ø§ÛŒØ§20.0261:3024Affffff'ÀH‡ß[R<https://s2.coinmarketcap.com/static/img/coins/64x64/5541.png
+›
 
-1404/07/1914:05Ôå¨Ç"Vanguard tokenized ETF (xStock)*(ETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ ÙˆÙ†Ú¯Ø§Ø±Ø¯2321.63:37325408AHáz®GÀHÓ¦ZR=https://s2.coinmarketcap.com/static/img/coins/64x64/37047.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Minted*
-Ù…ÛŒÙ†ØªØ¯20.007963:924.09A…ëQ¸8ÀH×ZR=https://s2.coinmarketcap.com/static/img/coins/64x64/21418.png
-
-
-1404/07/1914:06æ¨Ç"UNIT0*ÛŒÙˆÙ†ÛŒØª Ø²ÛŒØ±Ùˆ20.2883:33457A)\Âõ(ÀHİYR=https://s2.coinmarketcap.com/static/img/coins/64x64/33785.png
+1404/07/1914:19œì¨Ç"Bridge Oracle*Ø¨Ø±ÛŒØ¬ Ø§ÙˆØ±Ø§Ú©Ù„20.000187:21.69AR¸…ëQ1ÀHº[R<https://s2.coinmarketcap.com/static/img/coins/64x64/7096.png
 ˜
 
-1404/07/1914:05Ôå¨Ç"HAPI Protocol*Ù‡Ø§Ù¾ÛŒ Ù¾Ø±ÙˆØªÚ©Ù„22.00:232428A¤p=
-×£&ÀHÅÁYR<https://s2.coinmarketcap.com/static/img/coins/64x64/8567.png
-¼
-
-1404/07/1914:05Ôå¨Ç"Gold tokenized ETF (xStock)*&Ú¯Ù„Ø¯ ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§ÛŒ ØªÛŒ Ø§Ù2375.71:43601631A®Gázş?HÄ·YR=https://s2.coinmarketcap.com/static/img/coins/64x64/37024.png
-–
-
-1404/07/1914:06æ¨Ç"
-Newscrypto*Ù†ÛŒÙˆØ²Ú©Ø±ÛŒÙ¾ØªÙˆ20.009713:1127A     €8ÀH¾”YR<https://s2.coinmarketcap.com/static/img/coins/64x64/4890.png
-‹
-
-1404/07/1914:05Ôå¨Ç"LoungeM*Ù„Ø§Ù†Ø¬ Ø§Ù…20.0115:1337AÍÌÌÌÌÌÀH†õWR=https://s2.coinmarketcap.com/static/img/coins/64x64/10440.png
-—
-
-1404/07/1914:06æ¨Ç"Dark Cheems*Ø¯Ø§Ø±Ú© Ú†ÛŒÙ…Ø²20.001437:166.79Aš™™™™Ù1ÀH„ÜWR=https://s2.coinmarketcap.com/static/img/coins/64x64/37369.png
-–
-
-1404/07/1914:05Ôå¨Ç"ROVR Network*Ø±ÙˆÙˆØ± Ù†ØªÙˆØ±Ú©20.0112:1295A{®GázÀHÖ„WR=https://s2.coinmarketcap.com/static/img/coins/64x64/36558.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Ta-da*	ØªØ§ Ø¯Ø§20.002105:244.33AR¸…ë1ÀH”äVR=https://s2.coinmarketcap.com/static/img/coins/64x64/29370.png
+1404/07/1914:20Øì¨Ç"
+Q Protocol*Ú©ÛŒÙˆ Ù¾Ø±ÙˆØªÚ©Ù„20.005525:640.12A)\Âõ(¼¿H‚[R=https://s2.coinmarketcap.com/static/img/coins/64x64/29443.png
 …
 
-1404/07/1914:05Ôå¨Ç"LUCE*Ù„ÙˆØ³20.001420:164.75A=
-×£pı6ÀHıÒVR=https://s2.coinmarketcap.com/static/img/coins/64x64/33694.png
-
-
-1404/07/1914:06æ¨Ç"	LayerEdge*Ù„ÛŒØ± Ø§Ø¬20.004895:568.03A{®Gáú,ÀHÊÑVR=https://s2.coinmarketcap.com/static/img/coins/64x64/36499.png
-œ
-
-1404/07/1914:05Ôå¨Ç"Lnfi Network*Ø§Ù„ Ø§Ù† ÙÛŒ Ù†ØªÙˆØ±Ú©20.0149:1724A¤p=
-×£ÀHÊ‡VR=https://s2.coinmarketcap.com/static/img/coins/64x64/37471.png
+1404/07/1914:20Øì¨Ç"Bubb*Ø¨Ø§Ø¨20.001494:173.10A     €-ÀHî˜[R=https://s2.coinmarketcap.com/static/img/coins/64x64/36090.png
 ‹
 
-1404/07/1914:05Ôå¨Ç"Talken*
-ØªØ§Ù„Ú©Ù†20.004412:512.05Aáz®Ga9ÀH°îUR=https://s2.coinmarketcap.com/static/img/coins/64x64/11552.png
+1404/07/1914:19œì¨Ç"Overlay*Ø§ÙˆÙˆØ±Ù„ÛŒ20.1197:13863Affffff-ÀHĞŒ[R=https://s2.coinmarketcap.com/static/img/coins/64x64/23009.png
+Š
+
+1404/07/1914:20Øì¨Ç"Ternoa*
+ØªØ±Ù†ÙˆØ§20.001159:134.32A¤p=
+×£ÀH…Š[R<https://s2.coinmarketcap.com/static/img/coins/64x64/9291.png
+•
+
+1404/07/1914:19œì¨Ç"ivendPay*Ø¢ÛŒâ€ŒÙˆÙ†Ø¯ Ù¾ÛŒ20.001603:185.72A33333³$ÀHÒZR=https://s2.coinmarketcap.com/static/img/coins/64x64/29930.png
+Â
+
+1404/07/1914:19œì¨Ç"Vanguard tokenized ETF (xStock)*(ETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ ÙˆÙ†Ú¯Ø§Ø±Ø¯2321.56:37253926Aáz®GáÀH‘¤ZR=https://s2.coinmarketcap.com/static/img/coins/64x64/37047.png
+‹
+
+1404/07/1914:19œì¨Ç"Minted*
+Ù…ÛŒÙ†ØªØ¯20.007963:922.51AHáz®Ç7ÀHÒZR=https://s2.coinmarketcap.com/static/img/coins/64x64/21418.png
+¼
+
+1404/07/1914:19œì¨Ç"Gold tokenized ETF (xStock)*&Ú¯Ù„Ø¯ ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§ÛŒ ØªÛŒ Ø§Ù2375.65:43520320Aš™™™™™ı?HÎµYR=https://s2.coinmarketcap.com/static/img/coins/64x64/37024.png
+
+
+1404/07/1914:19œì¨Ç"UNIT0*ÛŒÙˆÙ†ÛŒØª Ø²ÛŒØ±Ùˆ20.2871:33267A¸…ëQ¸ÀH©¯YR=https://s2.coinmarketcap.com/static/img/coins/64x64/33785.png
+š
+
+1404/07/1914:19œì¨Ç"HAPI Protocol*Ù‡Ø§Ù¾ÛŒ Ù¾Ø±ÙˆØªÚ©Ù„21.9970:231363A®Gáz'ÀHº YR<https://s2.coinmarketcap.com/static/img/coins/64x64/8567.png
+–
+
+1404/07/1914:19œì¨Ç"
+Newscrypto*Ù†ÛŒÙˆØ²Ú©Ø±ÛŒÙ¾ØªÙˆ20.009611:1113AìQ¸…ë9ÀHåœXR<https://s2.coinmarketcap.com/static/img/coins/64x64/4890.png
+‹
+
+1404/07/1914:19œì¨Ç"LoungeM*Ù„Ø§Ù†Ø¬ Ø§Ù…20.0115:1335Aáz®GáÀHéòWR=https://s2.coinmarketcap.com/static/img/coins/64x64/10440.png
+–
+
+1404/07/1914:19œì¨Ç"ROVR Network*Ø±ÙˆÙˆØ± Ù†ØªÙˆØ±Ú©20.0111:1291A)\Âõ(ÀHºğVR=https://s2.coinmarketcap.com/static/img/coins/64x64/36558.png
+‰
+
+1404/07/1914:19œì¨Ç"Ta-da*	ØªØ§ Ø¯Ø§20.002101:243.44A33333s1ÀHËÎVR=https://s2.coinmarketcap.com/static/img/coins/64x64/29370.png
+
+
+1404/07/1914:19œì¨Ç"	LayerEdge*Ù„ÛŒØ± Ø§Ø¬20.004887:566.20Aö(\Âõ,ÀHÒÀVR=https://s2.coinmarketcap.com/static/img/coins/64x64/36499.png
 
 
-1404/07/1914:05Ôå¨Ç"
-Privix new20.0668:7748A×£p=
-×Ó?HÉUR=https://s2.coinmarketcap.com/static/img/coins/64x64/38458.png
-•
+1404/07/1914:19œì¨Ç"
+Privix new20.0674:7809Aáz®GáÚ¿H™³VR=https://s2.coinmarketcap.com/static/img/coins/64x64/38458.png
+…
 
-1404/07/1914:05Ôå¨Ç"	Philtoken*ÙÛŒÙ„â€ŒØªÙˆÚ©Ù†20.001400:162.46A=
-×£p½3ÀHÖ¸UR=https://s2.coinmarketcap.com/static/img/coins/64x64/32940.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"Analog*Ø¢Ù†Ø§Ù„ÙˆÚ¯20.000751:87.10Aö(\Âu.ÀHıˆUR=https://s2.coinmarketcap.com/static/img/coins/64x64/35651.png
-
-
-1404/07/1914:05Ôå¨Ç"Redbrick*Ø±Ø¯Ø¨Ø±ÛŒÚ©20.005926:687.76A=
-×£p=/ÀHÎ…UR=https://s2.coinmarketcap.com/static/img/coins/64x64/36826.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Hemule*Ù‡Ù…ÙˆÙ„20.001421:164.95A
-×£p=
-.ÀHÍ‚UR=https://s2.coinmarketcap.com/static/img/coins/64x64/28786.png
-•
-
-1404/07/1914:05Ôå¨Ç"Xend Finance*Ø²Ù†Ø¯ ÙØ§ÛŒÙ†Ù†Ø³20.0130:1510Aáz®Gá!ÀH“‚UR<https://s2.coinmarketcap.com/static/img/coins/64x64/8519.png
-„
-
-1404/07/1914:05Ôå¨Ç"TOP*ØªØ§Ù¾2
-0.00009611:11.15A{®Gáz´?Hä¼TR<https://s2.coinmarketcap.com/static/img/coins/64x64/3826.png
-“
-
-1404/07/1914:05Ôå¨Ç"	DappRadar*Ø¯Ù¾ Ø±Ø§Ø¯Ø§Ø±20.001438:166.85A\Âõ(œ3ÀH‡ TR=https://s2.coinmarketcap.com/static/img/coins/64x64/15188.png
-’
-
-1404/07/1914:05Ôå¨Ç"Brainlet*Ø¨Ø±ÛŒÙ†â€ŒÙ„Øª20.001448:168.00AÂõ(\O8ÀH…™TR=https://s2.coinmarketcap.com/static/img/coins/64x64/32448.png
-•
-
-1404/07/1914:05Ôå¨Ç"	GameSwift*Ú¯ÛŒÙ… Ø³ÙˆÛŒÙØª20.003814:442.62AHáz®‡5ÀHéıSR=https://s2.coinmarketcap.com/static/img/coins/64x64/27445.png
-
-
-1404/07/1914:06æ¨Ç"Stobox Token*Ø§Ø³ØªÙˆØ¨Ø§Ú©Ø³ ØªÙˆÚ©Ù†20.009141:1061Affffff'ÀHÎØSR<https://s2.coinmarketcap.com/static/img/coins/64x64/7245.png
-†
-
-1404/07/1914:05Ôå¨Ç"BABB*Ø¨Ø§Ø¨2
-0.00001664:1.9308AR¸…ëQÀHˆÄSR<https://s2.coinmarketcap.com/static/img/coins/64x64/2572.png
+1404/07/1914:19œì¨Ç"LUCE*Ù„ÙˆØ³20.001415:163.92Aq=
+×£ğ6ÀHÒ­VR=https://s2.coinmarketcap.com/static/img/coins/64x64/33694.png
 œ
 
-1404/07/1914:06æ¨Ç"PoSciDonDAO*Ù¾ÙˆØ³Ø§ÛŒØ¯ÙˆÙ† Ø¯Ø§Ø¦Ùˆ20.3829:44437Afffff&0ÀHç­SR=https://s2.coinmarketcap.com/static/img/coins/64x64/34636.png
-‚
+1404/07/1914:19œì¨Ç"Lnfi Network*Ø§Ù„ Ø§Ù† ÙÛŒ Ù†ØªÙˆØ±Ú©20.0149:1723AÂõ(\ÀH¯”VR=https://s2.coinmarketcap.com/static/img/coins/64x64/37471.png
+
 
-1404/07/1914:05Ôå¨Ç"Bytom*Ø¨Ø§ÛŒØªÙˆÙ…20.000876:101.68H„óRR<https://s2.coinmarketcap.com/static/img/coins/64x64/1866.png
+1404/07/1914:19œì¨Ç"Stobox Token*Ø§Ø³ØªÙˆØ¨Ø§Ú©Ø³ ØªÙˆÚ©Ù†20.009391:1088A®GázÀHŞüUR<https://s2.coinmarketcap.com/static/img/coins/64x64/7245.png
+‹
+
+1404/07/1914:19œì¨Ç"Talken*
+ØªØ§Ù„Ú©Ù†20.004408:510.69A\Âõ(\9ÀHéãUR=https://s2.coinmarketcap.com/static/img/coins/64x64/11552.png
+•
+
+1404/07/1914:19œì¨Ç"	Philtoken*ÙÛŒÙ„â€ŒØªÙˆÚ©Ù†20.001400:162.16AR¸…ë‘3ÀH¿·UR=https://s2.coinmarketcap.com/static/img/coins/64x64/32940.png
+Œ
+
+1404/07/1914:19œì¨Ç"Analog*Ø¢Ù†Ø§Ù„ÙˆÚ¯20.000753:87.22A\Âõ(Ü-ÀH™«UR=https://s2.coinmarketcap.com/static/img/coins/64x64/35651.png
+•
+
+1404/07/1914:19œì¨Ç"Xend Finance*Ø²Ù†Ø¯ ÙØ§ÛŒÙ†Ù†Ø³20.0130:1507A®Gáz"ÀHÙşTR<https://s2.coinmarketcap.com/static/img/coins/64x64/8519.png
+
+
+1404/07/1914:19œì¨Ç"Redbrick*Ø±Ø¯Ø¨Ø±ÛŒÚ©20.005922:686.03AìQ¸…k/ÀHÑüTR=https://s2.coinmarketcap.com/static/img/coins/64x64/36826.png
+‰
+
+1404/07/1914:19œì¨Ç"Hemule*Ù‡Ù…ÙˆÙ„20.001419:164.40Aš™™™™™.ÀHäğTR=https://s2.coinmarketcap.com/static/img/coins/64x64/28786.png
+„
+
+1404/07/1914:19œì¨Ç"TOP*ØªØ§Ù¾2
+0.00009608:11.13Aš™™™™™©?Hô¸TR<https://s2.coinmarketcap.com/static/img/coins/64x64/3826.png
+—
+
+1404/07/1914:19œì¨Ç"Dark Cheems*Ø¯Ø§Ø±Ú© Ú†ÛŒÙ…Ø²20.001383:160.20A
+×£p=Š4ÀHœ³TR=https://s2.coinmarketcap.com/static/img/coins/64x64/37369.png
+“
+
+1404/07/1914:19œì¨Ç"	DappRadar*Ø¯Ù¾ Ø±Ø§Ø¯Ø§Ø±20.001438:166.63A
+×£p=Š3ÀH’¤TR=https://s2.coinmarketcap.com/static/img/coins/64x64/15188.png
+•
+
+1404/07/1914:19œì¨Ç"	GameSwift*Ú¯ÛŒÙ… Ø³ÙˆÛŒÙØª20.003814:441.92A…ëQ¸5ÀH–ÿSR=https://s2.coinmarketcap.com/static/img/coins/64x64/27445.png
+†
+
+1404/07/1914:19œì¨Ç"BABB*Ø¨Ø§Ø¨2
+0.00001670:1.9349AìQ¸…ëÀH¯íSR<https://s2.coinmarketcap.com/static/img/coins/64x64/2572.png
+œ
+
+1404/07/1914:20Øì¨Ç"PoSciDonDAO*Ù¾ÙˆØ³Ø§ÛŒØ¯ÙˆÙ† Ø¯Ø§Ø¦Ùˆ20.3851:44612Aö(\Âu-ÀH÷éSR=https://s2.coinmarketcap.com/static/img/coins/64x64/34636.png
 š
 
-1404/07/1914:05Ôå¨Ç"	Chihuahua*Ú†ÛŒâ€ŒÙ‡ÙˆØ§ Ù‡ÙˆØ§2
-0.00001452:1.6846Aö(\Âõ=ÀH”ñRR=https://s2.coinmarketcap.com/static/img/coins/64x64/17208.png
+1404/07/1914:19œì¨Ç"	Chihuahua*Ú†ÛŒâ€ŒÙ‡ÙˆØ§ Ù‡ÙˆØ§2
+0.00001453:1.6829A®Gáz.=ÀH®øRR=https://s2.coinmarketcap.com/static/img/coins/64x64/17208.png
 ’
 
-1404/07/1914:05Ôå¨Ç"
-Marie Rose*Ù…Ø§Ø±ÛŒ Ø±Ø²20.003223:374.03A{®Gáú!ÀHşàRR=https://s2.coinmarketcap.com/static/img/coins/64x64/37464.png
+1404/07/1914:19œì¨Ç"Brainlet*Ø¨Ø±ÛŒÙ†â€ŒÙ„Øª20.001425:165.14AìQ¸…k9ÀHºóRR=https://s2.coinmarketcap.com/static/img/coins/64x64/32448.png
+‚
+
+1404/07/1914:19œì¨Ç"Bytom*Ø¨Ø§ÛŒØªÙˆÙ…20.000876:101.51H„óRR<https://s2.coinmarketcap.com/static/img/coins/64x64/1866.png
 ¨
 
-1404/07/1914:05Ôå¨Ç"
-Boss Token*Ø¨Ø§Ø³ ØªÙˆÚ©Ù†20.000000003417167908197466:0.000397A
+1404/07/1914:20Øì¨Ç"
+Boss Token*Ø¨Ø§Ø³ ØªÙˆÚ©Ù†20.000000003417167908197466:0.000396A
 ×£p=
 %ÀHÂ×RR=https://s2.coinmarketcap.com/static/img/coins/64x64/12198.png
+
+
+1404/07/1914:19œì¨Ç"	Dynachain*Ø¯Ø§ÛŒÙ†Ø§Ú†ÛŒÙ†20.0338:3920AHáz®Gé¿HäËRR=https://s2.coinmarketcap.com/static/img/coins/64x64/33190.png
 
 
-1404/07/1914:05Ôå¨Ç"BOTIFY*Ø¨ÙˆØªÛŒÙØ§ÛŒ20.001351:156.76A=
-×£p}4ÀHù·RR=https://s2.coinmarketcap.com/static/img/coins/64x64/35163.png
-œ
+1404/07/1914:19œì¨Ç"BOTIFY*Ø¨ÙˆØªÛŒÙØ§ÛŒ20.001350:156.35A=
+×£p=4ÀHô­RR=https://s2.coinmarketcap.com/static/img/coins/64x64/35163.png
+
 
-1404/07/1914:05Ôå¨Ç"YooShi*ÛŒÙˆØ´ÛŒ20.000000003715345430240202:0.000431A…ëQ¸#ÀH€®RR<https://s2.coinmarketcap.com/static/img/coins/64x64/9892.png
-˜
-
-1404/07/1914:05Ôå¨Ç"WorldShards*ÙˆØ±Ù„Ø¯Ø´Ø§Ø±Ø¯Ø²20.003457:401.21A\Âõ(Ü'@HË•RR=https://s2.coinmarketcap.com/static/img/coins/64x64/38291.png
+1404/07/1914:19œì¨Ç"SafeCoin*Ø³ÛŒÙâ€ŒÚ©ÙˆÛŒÙ†20.0485:5617A…ëQ¸…	@HÊ‰RR<https://s2.coinmarketcap.com/static/img/coins/64x64/3799.png
 ¦
 
-1404/07/1914:05Ôå¨Ç"Flamengo Fan Token*ÙÙ„Ø§Ù…Ù†Ú¯Ùˆ ÙÙ† ØªÙˆÚ©Ù†20.1008:11695A…ëQ¸Ş1ÀHô“RR=https://s2.coinmarketcap.com/static/img/coins/64x64/13319.png
-
+1404/07/1914:19œì¨Ç"Flamengo Fan Token*ÙÙ„Ø§Ù…Ù†Ú¯Ùˆ ÙÙ† ØªÙˆÚ©Ù†20.1006:11651Aq=
+×£02ÀH©şQR=https://s2.coinmarketcap.com/static/img/coins/64x64/13319.png
+œ
 
-1404/07/1914:05Ôå¨Ç"SafeCoin*Ø³ÛŒÙâ€ŒÚ©ÙˆÛŒÙ†20.0485:5631A      
-@H¤‘RR<https://s2.coinmarketcap.com/static/img/coins/64x64/3799.png
+1404/07/1914:19œì¨Ç"YooShi*ÛŒÙˆØ´ÛŒ20.000000003696497313791106:0.000428A…ëQ¸…"ÀHÃøQR<https://s2.coinmarketcap.com/static/img/coins/64x64/9892.png
 ²
 
-1404/07/1914:05Ôå¨Ç"Degen Spartan AI*'Ø¯ÙØ¬ÙÙ† Ø§Ø³Ù¾Ø§Ø±ØªØ§Ù† Ø§ÛŒâ€ŒØ¢ÛŒ20.001345:156.12AÍÌÌÌÌÌ>ÀHÇRR=https://s2.coinmarketcap.com/static/img/coins/64x64/34994.png
-
-
-1404/07/1914:05Ôå¨Ç"	Dynachain*Ø¯Ø§ÛŒÙ†Ø§Ú†ÛŒÙ†20.0335:3893A=
-×£p=ú¿HÒñQR=https://s2.coinmarketcap.com/static/img/coins/64x64/33190.png
-™
-
-1404/07/1914:05Ôå¨Ç"Wizard Gang*ÙˆÛŒØ²Ø§Ø±Ø¯ Ú¯Ù†Ú¯20.001338:155.23A®Gáz®#ÀHĞQR=https://s2.coinmarketcap.com/static/img/coins/64x64/36312.png
+1404/07/1914:19œì¨Ç"Degen Spartan AI*'Ø¯ÙØ¬ÙÙ† Ø§Ø³Ù¾Ø§Ø±ØªØ§Ù† Ø§ÛŒâ€ŒØ¢ÛŒ20.001342:155.51A®Gázî>ÀHŸöQR=https://s2.coinmarketcap.com/static/img/coins/64x64/34994.png
 
 
-1404/07/1914:05Ôå¨Ç"Lumerin*Ù„ÙˆÙ…Ø±ÛŒÙ†20.002201:255.42A®Gáz*ÀHÚ¾QR=https://s2.coinmarketcap.com/static/img/coins/64x64/19118.png
+1404/07/1914:19œì¨Ç"Lumerin*Ù„ÙˆÙ…Ø±ÛŒÙ†20.002201:254.99A®Gáz*ÀHÚ¾QR=https://s2.coinmarketcap.com/static/img/coins/64x64/19118.png
+’
+
+1404/07/1914:19œì¨Ç"
+Marie Rose*Ù…Ø§Ø±ÛŒ Ø±Ø²20.003172:367.54Aáz®Ga%ÀHÛºQR=https://s2.coinmarketcap.com/static/img/coins/64x64/37464.png
 ­
 
-1404/07/1914:05Ôå¨Ç"Unifi Protocol DAO*$ÛŒÙˆÙ†ÛŒÙØ§ÛŒ Ù¾Ø±ÙˆØªÚ©Ù„ Ø¯Ø§Ø¦Ùˆ20.1396:16200A=
-×£p}1ÀHõ­QR<https://s2.coinmarketcap.com/static/img/coins/64x64/7672.png
-¢
-
-1404/07/1914:05Ôå¨Ç"MicroBitcoin*Ù…ÛŒÚ©Ø±Ùˆ Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†2
-0.00002393:2.78A¸…ëQ¸î?H’QR<https://s2.coinmarketcap.com/static/img/coins/64x64/3507.png
+1404/07/1914:19œì¨Ç"Unifi Protocol DAO*$ÛŒÙˆÙ†ÛŒÙØ§ÛŒ Ù¾Ø±ÙˆØªÚ©Ù„ Ø¯Ø§Ø¦Ùˆ20.1397:16182A     €1ÀHğ³QR<https://s2.coinmarketcap.com/static/img/coins/64x64/7672.png
 †
 
-1404/07/1914:05Ôå¨Ç"Fusion*
-ÙÛŒÙˆÚ˜Ù†20.0170:1972A{®Gáz´¿Hò‘QR<https://s2.coinmarketcap.com/static/img/coins/64x64/2530.png
+1404/07/1914:20Øì¨Ç"Fusion*
+ÙÛŒÙˆÚ˜Ù†20.0170:1968Aš™™™™™¹¿HÖQR<https://s2.coinmarketcap.com/static/img/coins/64x64/2530.png
+™
+
+1404/07/1914:19œì¨Ç"Wizard Gang*ÙˆÛŒØ²Ø§Ø±Ø¯ Ú¯Ù†Ú¯20.001328:153.91A333333%ÀHêˆQR=https://s2.coinmarketcap.com/static/img/coins/64x64/36312.png
 •
 
-1404/07/1914:06æ¨Ç"	MixMarvel*Ù…ÛŒÚ©Ø³ Ù…Ø§Ø±ÙˆÙ„20.000137:15.86AÍÌÌÌÌŒ9ÀHÅ€QR<https://s2.coinmarketcap.com/static/img/coins/64x64/4366.png
+1404/07/1914:20Øì¨Ç"	MixMarvel*Ù…ÛŒÚ©Ø³ Ù…Ø§Ø±ÙˆÙ„20.000137:15.85AR¸…ëQ:ÀHˆQR<https://s2.coinmarketcap.com/static/img/coins/64x64/4366.png
 
 
-1404/07/1914:05Ôå¨Ç"TERMINUS*ØªØ±Ù…ÛŒÙ†ÙˆØ³20.0133:1540AÂõ(\>ÀHŠÿPR=https://s2.coinmarketcap.com/static/img/coins/64x64/33351.png
+1404/07/1914:19œì¨Ç"TERMINUS*ØªØ±Ù…ÛŒÙ†ÙˆØ³20.0133:1538AÍÌÌÌÌL>ÀH„QR=https://s2.coinmarketcap.com/static/img/coins/64x64/33351.png
+–
+
+1404/07/1914:19œì¨Ç"Pollux Coin*Ù¾ÙˆÙ„ÙˆÚ©Ø³ Ú©ÙˆÛŒÙ†20.0400:4635A333333ÿ¿Hš‚QR<https://s2.coinmarketcap.com/static/img/coins/64x64/6682.png
+˜
+
+1404/07/1914:19œì¨Ç"WorldShards*ÙˆØ±Ù„Ø¯Ø´Ø§Ø±Ø¯Ø²20.003406:394.64A33333³#@HûPR=https://s2.coinmarketcap.com/static/img/coins/64x64/38291.png
+¢
+
+1404/07/1914:19œì¨Ç"MicroBitcoin*Ù…ÛŒÚ©Ø±Ùˆ Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†2
+0.00002387:2.77A{®Gáz´?H„÷PR<https://s2.coinmarketcap.com/static/img/coins/64x64/3507.png
 
 
-1404/07/1914:06æ¨Ç"PKT*Ù¾ÛŒâ€ŒÚ©ÛŒâ€ŒØªÛŒ20.000312:36.18A33333³'ÀHÇãPR<https://s2.coinmarketcap.com/static/img/coins/64x64/9523.png
+1404/07/1914:20Øì¨Ç"PKT*Ù¾ÛŒâ€ŒÚ©ÛŒâ€ŒØªÛŒ20.000312:36.12A33333³'ÀHÇãPR<https://s2.coinmarketcap.com/static/img/coins/64x64/9523.png
 œ
 
-1404/07/1914:05Ôå¨Ç"Crash On Base*Ú©Ø±Ø§Ø´ Ø¢Ù† Ø¨ÛŒØ³20.001349:156.52AìQ¸…«4ÀHÛÃPR=https://s2.coinmarketcap.com/static/img/coins/64x64/32019.png
+1404/07/1914:19œì¨Ç"Crash On Base*Ú©Ø±Ø§Ø´ Ø¢Ù† Ø¨ÛŒØ³20.001349:156.26Aš™™™™Y3ÀHŞÃPR=https://s2.coinmarketcap.com/static/img/coins/64x64/32019.png
 
 
-1404/07/1914:05Ôå¨Ç"XELS*Ø²Ù„Ø³20.0628:7285AÃõ(\Â	@HåºPR=https://s2.coinmarketcap.com/static/img/coins/64x64/16962.png
+1404/07/1914:20Øì¨Ç"XELS*Ø²Ù„Ø³20.0628:7273A×£p=
+×	@HĞ»PR=https://s2.coinmarketcap.com/static/img/coins/64x64/16962.png
 Ä
 
-1404/07/1914:05Ôå¨Ç"PayPal Tokenized Stock (Ondo)*.Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ù¾ÛŒâ€ŒÙ¾Ø§Ù„269.52:8068182A¸…ëQ¸!ÀHÒ¨PR=https://s2.coinmarketcap.com/static/img/coins/64x64/38010.png
+1404/07/1914:19œì¨Ç"PayPal Tokenized Stock (Ondo)*.Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ù¾ÛŒâ€ŒÙ¾Ø§Ù„269.52:8053533A®Gáz®!ÀH¶§PR=https://s2.coinmarketcap.com/static/img/coins/64x64/38010.png
 –
 
-1404/07/1914:05Ôå¨Ç"RIFT AI*Ø±ÛŒÙØª Ø§ÛŒâ€ŒØ¢ÛŒ20.004963:575.96A®Gáz”6ÀHçŸPR=https://s2.coinmarketcap.com/static/img/coins/64x64/35547.png
-
-
-1404/07/1914:05Ôå¨Ç"MultiVAC*Ù…Ø§Ù„ØªÛŒ ÙˆÚ©20.000366:42.53A
-×£p=
-	ÀH…ŸPR<https://s2.coinmarketcap.com/static/img/coins/64x64/3853.png
-©
-
-1404/07/1914:05Ôå¨Ç"Koala AI*Ú©ÙˆØ§Ù„Ø§ Ø§ÛŒâ€ŒØ¢ÛŒ20.0000001441877057925608:0.0167A®Gáz´EÀHÅ–PR=https://s2.coinmarketcap.com/static/img/coins/64x64/30089.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Trog*ØªØ±ÙˆÚ¯2
-0.00000311:0.3613A¤p=
-×#&ÀHÀøOR=https://s2.coinmarketcap.com/static/img/coins/64x64/31569.png
-™
-
-1404/07/1914:05Ôå¨Ç"Tiger Shark*ØªØ§ÛŒÚ¯Ø± Ø´Ø§Ø±Ú©20.001304:151.38AìQ¸…Ë@ÀHÌÎOR=https://s2.coinmarketcap.com/static/img/coins/64x64/36590.png
-¢
-
-1404/07/1914:05Ôå¨Ç"Gasspas*Ú¯Ø§Ø³Ù¾Ø§Ø³20.000000003098931281126532:0.000360Aq=
-×£ğ!ÀH‰ÉOR=https://s2.coinmarketcap.com/static/img/coins/64x64/36518.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Shrub*Ø´Ø±Ø§Ø¨20.001383:160.54Aáz®Gá ÀHİÆOR=https://s2.coinmarketcap.com/static/img/coins/64x64/31979.png
-”
-
-1404/07/1914:05Ôå¨Ç"PoolTogether*Ù¾ÙˆÙ„ ØªÙˆÚ¯Ø¯Ø±20.1924:22331Afffffæ'ÀH¹¿OR<https://s2.coinmarketcap.com/static/img/coins/64x64/8508.png
-‹
-
-1404/07/1914:05Ôå¨Ç"EFFORCE*
-Ø§ÙÙˆØ±Ø³20.002469:286.55A…ëQ¸"ÀHà¸OR<https://s2.coinmarketcap.com/static/img/coins/64x64/7882.png
-¨
-
-1404/07/1914:05Ôå¨Ç"BNBXBT*'Ø¨ÛŒâ€ŒØ§Ù†â€ŒØ¨ÛŒ Ø§ÛŒÚ©Ø³ Ø¨ÛŒâ€ŒØªÛŒ20.001302:151.05AÍÌÌÌÌÌ0ÀH¿¸OR=https://s2.coinmarketcap.com/static/img/coins/64x64/35789.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Dasha*Ø¯Ø§Ø´Ø§20.001310:152.04A®Gáz'ÀHÇ¶OR=https://s2.coinmarketcap.com/static/img/coins/64x64/34025.png
-–
-
-1404/07/1914:05Ôå¨Ç"Pollux Coin*Ù¾ÙˆÙ„ÙˆÚ©Ø³ Ú©ÙˆÛŒÙ†20.0392:4549A×£p=
-×ÀH…°OR<https://s2.coinmarketcap.com/static/img/coins/64x64/6682.png
-
-
-1404/07/1914:05Ôå¨Ç"	Suzuverse*Ø³ÙˆØ²ÙˆÙˆØ±Ø³20.1292:14998AìQ¸…ëÀHğ¥OR=https://s2.coinmarketcap.com/static/img/coins/64x64/24591.png
-¢
-
-1404/07/1914:06æ¨Ç"	CryptoGPT*Ú©Ø±ÛŒÙ¾ØªÙˆ Ø¬ÛŒâ€ŒÙ¾ÛŒâ€ŒØªÛŒ20.000236:27.41AÃõ(\Â3ÀHÄ¢OR=https://s2.coinmarketcap.com/static/img/coins/64x64/23846.png
-£
-
-1404/07/1914:06æ¨Ç"	0xBitcoin*#Ø²ÛŒØ±Ùˆ Ø§ÛŒÚ©Ø³ Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†20.1337:15519A…ëQ¸"ÀHúœOR<https://s2.coinmarketcap.com/static/img/coins/64x64/2837.png
+1404/07/1914:19œì¨Ç"RIFT AI*Ø±ÛŒÙØª Ø§ÛŒâ€ŒØ¢ÛŒ20.004963:574.99A®Gáz”6ÀHçŸPR=https://s2.coinmarketcap.com/static/img/coins/64x64/35547.png
 
 
-1404/07/1914:05Ôå¨Ç"Selfkey*Ø³Ù„Ùâ€ŒÚ©ÛŒ20.000216:25.10Aq=
-×£ğ/ÀHƒœOR<https://s2.coinmarketcap.com/static/img/coins/64x64/2398.png
-ˆ
-
-1404/07/1914:06æ¨Ç"Taker*ØªÛŒÚ©Ø±20.007622:884.49A     €-ÀH¼ŠOR=https://s2.coinmarketcap.com/static/img/coins/64x64/37386.png
-§
-
-1404/07/1914:05Ôå¨Ç"Reality Metaverse*Ø±ÛŒØ§Ù„ÛŒØªÛŒ Ù…ØªØ§ÙˆØ±Ø³20.005179:600.98Aš™™™™™ı¿HşNR=https://s2.coinmarketcap.com/static/img/coins/64x64/24106.png
-‚
-
-1404/07/1914:05Ôå¨Ç"Particl*Ù¾Ø§Ø±ØªÛŒÚ©Ù„20.0846:9817HËúNR<https://s2.coinmarketcap.com/static/img/coins/64x64/1826.png
-ˆ
-
-1404/07/1914:06æ¨Ç"AmonD*
-Ø¢Ù…ÙˆÙ†Ø¯20.000180:20.91AHáz®‡<ÀHËöNR<https://s2.coinmarketcap.com/static/img/coins/64x64/4712.png
-Ÿ
-
-1404/07/1914:05Ôå¨Ç"Graphite Network*Ú¯Ø±Ø§ÙÛŒØª Ù†ØªÙˆØ±Ú©20.1244:14440A      &ÀHÜNR=https://s2.coinmarketcap.com/static/img/coins/64x64/34910.png
-
-
-1404/07/1914:05Ôå¨Ç"5ire*ÙØ§ÛŒÙˆâ€ŒØ¢ÛŒØ±20.000874:101.42A®Gáz.+ÀH™NR=https://s2.coinmarketcap.com/static/img/coins/64x64/16919.png
-¢
-
-1404/07/1914:05Ôå¨Ç"RefundYourSOL*Ø±ÛŒÙØ§Ù†Ø¯ ÛŒÙˆØ± Ø³ÙˆÙ„20.001299:150.80A®Gáz!ÀHÍ‹NR=https://s2.coinmarketcap.com/static/img/coins/64x64/37122.png
-—
-
-1404/07/1914:05Ôå¨Ç"Loom Network*Ù„ÙˆÙ… Ù†ØªÙˆØ±Ú©20.001028:119.34A…ëQ¸.ÀH¤NR<https://s2.coinmarketcap.com/static/img/coins/64x64/2588.png
-«
-
-1404/07/1914:05Ôå¨Ç"Super Zero Protocol*Ø³ÙˆÙ¾Ø± Ø²ÛŒØ±Ùˆ Ù¾Ø±ÙˆØªÚ©Ù„20.002884:334.73Aáz®GáÀHáMR<https://s2.coinmarketcap.com/static/img/coins/64x64/4078.png
-œ
-
-1404/07/1914:05Ôå¨Ç"spinning cat*Ø§Ø³Ù¾ÛŒÙ†ÛŒÙ†Ú¯ Ú©Øª20.001274:147.85A\Âõ(œ7ÀHĞßMR=https://s2.coinmarketcap.com/static/img/coins/64x64/35849.png
-˜
-
-1404/07/1914:05Ôå¨Ç"
-Nuco.cloud*Ù†ÙˆÚ©Ùˆ Ø¯Ø§Øª Ú©Ù„Ø§Ø¯20.0254:2944A)\Âõ(-ÀHµ¶MR<https://s2.coinmarketcap.com/static/img/coins/64x64/6933.png
-¨
-
-1404/07/1914:06æ¨Ç"
-Shiro Neko*Ø´ÛŒØ±Ùˆ Ù†Ú©Ùˆ20.000000002334444840370112:0.000271A\Âõ(\2ÀHÂ¨MR=https://s2.coinmarketcap.com/static/img/coins/64x64/34378.png
-´
-
-1404/07/1914:05Ôå¨Ç"Etherisc DIP Token*(Ø§ØªØ±ÛŒØ³Ú© Ø¯ÛŒâ€ŒØ¢ÛŒâ€ŒÙ¾ÛŒ ØªÙˆÚ©Ù†20.005281:612.86A\Âõ(>ÀH££MR<https://s2.coinmarketcap.com/static/img/coins/64x64/6588.png
-š
-
-1404/07/1914:06æ¨Ç"ISLAND Token*Ø¢ÛŒÙ„Ù†Ø¯ ØªÙˆÚ©Ù†20.008542:991.27Aš™™™™&ÀHÆ‡MR=https://s2.coinmarketcap.com/static/img/coins/64x64/34794.png
-°
-
-1404/07/1914:05Ôå¨Ç"Black Mirror Experience*"Ø¨Ù„Ú© Ù…ÛŒØ±ÙˆØ± Ø§Ú©Ø³Ù¾Ø±ÛŒÙ†Ø³20.0131:1524AR¸…ë‘;ÀH“øLR=https://s2.coinmarketcap.com/static/img/coins/64x64/38292.png
+1404/07/1914:19œì¨Ç"Selfkey*Ø³Ù„Ùâ€ŒÚ©ÛŒ20.000219:25.34A{®Gáú-ÀHš‹PR<https://s2.coinmarketcap.com/static/img/coins/64x64/2398.png
 ‰
 
-1404/07/1914:05Ôå¨Ç"Hypr*
-Ù‡Ø§ÛŒÙ¾Ø±20.001797:208.53A®Gáz”)ÀHÔâLR=https://s2.coinmarketcap.com/static/img/coins/64x64/38137.png
-
+1404/07/1914:19œì¨Ç"Trog*ØªØ±ÙˆÚ¯2
+0.00000311:0.3606A®Gáz.&ÀHãõOR=https://s2.coinmarketcap.com/static/img/coins/64x64/31569.png
+—
 
-1404/07/1914:05Ôå¨Ç"	Venus DOT*ÙˆÙ†ÙˆØ³ Ø¯Ø§Øª20.0753:8743A¤p=
-×£3ÀHÎÇLR<https://s2.coinmarketcap.com/static/img/coins/64x64/7976.png
-„
+1404/07/1914:19œì¨Ç"Loom Network*Ù„ÙˆÙ… Ù†ØªÙˆØ±Ú©20.001053:121.98A¸…ëQ8(ÀH½ïOR<https://s2.coinmarketcap.com/static/img/coins/64x64/2588.png
+™
 
-1404/07/1914:05Ôå¨Ç"MAX*Ù…Ú©Ø³20.001248:144.89Aö(\Âõ*ÀH£˜LR=https://s2.coinmarketcap.com/static/img/coins/64x64/35410.png
+1404/07/1914:19œì¨Ç"Tiger Shark*ØªØ§ÛŒÚ¯Ø± Ø´Ø§Ø±Ú©20.001304:151.12AìQ¸…Ë@ÀHÌÎOR=https://s2.coinmarketcap.com/static/img/coins/64x64/36590.png
+¢
+
+1404/07/1914:19œì¨Ç"	CryptoGPT*Ú©Ø±ÛŒÙ¾ØªÙˆ Ø¬ÛŒâ€ŒÙ¾ÛŒâ€ŒØªÛŒ20.000237:27.47A{®Gáz3ÀHËÉOR=https://s2.coinmarketcap.com/static/img/coins/64x64/23846.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Dasha*Ø¯Ø§Ø´Ø§20.001312:152.05A)\Âõ(&ÀHõÈOR=https://s2.coinmarketcap.com/static/img/coins/64x64/34025.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Shrub*Ø´Ø±Ø§Ø¨20.001383:160.21AHáz®G!ÀH€ÃOR=https://s2.coinmarketcap.com/static/img/coins/64x64/31979.png
+”
+
+1404/07/1914:19œì¨Ç"PoolTogether*Ù¾ÙˆÙ„ ØªÙˆÚ¯Ø¯Ø±20.1924:22293Afffffæ'ÀH¹¿OR<https://s2.coinmarketcap.com/static/img/coins/64x64/8508.png
+‹
+
+1404/07/1914:19œì¨Ç"EFFORCE*
+Ø§ÙÙˆØ±Ø³20.002469:286.06A
+×£p=
+"ÀHà¸OR<https://s2.coinmarketcap.com/static/img/coins/64x64/7882.png
+
+
+1404/07/1914:20Øì¨Ç"	Suzuverse*Ø³ÙˆØ²ÙˆÙˆØ±Ø³20.1292:14973A×£p=
+×ÀH“¦OR=https://s2.coinmarketcap.com/static/img/coins/64x64/24591.png
+
+
+1404/07/1914:19œì¨Ç"MultiVAC*Ù…Ø§Ù„ØªÛŒ ÙˆÚ©20.000362:41.92AffffffÀHŞOR<https://s2.coinmarketcap.com/static/img/coins/64x64/3853.png
+£
+
+1404/07/1914:19œì¨Ç"	0xBitcoin*#Ø²ÛŒØ±Ùˆ Ø§ÛŒÚ©Ø³ Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†20.1337:15493A…ëQ¸"ÀHúœOR<https://s2.coinmarketcap.com/static/img/coins/64x64/2837.png
+¢
+
+1404/07/1914:19œì¨Ç"Gasspas*Ú¯Ø§Ø³Ù¾Ø§Ø³20.000000003078231048611341:0.000357AR¸…ëQ#ÀH……OR=https://s2.coinmarketcap.com/static/img/coins/64x64/36518.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Taker*ØªÛŒÚ©Ø±20.007616:882.29Aáz®Gá-ÀHµ‚OR=https://s2.coinmarketcap.com/static/img/coins/64x64/37386.png
+§
+
+1404/07/1914:19œì¨Ç"Reality Metaverse*Ø±ÛŒØ§Ù„ÛŒØªÛŒ Ù…ØªØ§ÙˆØ±Ø³20.005178:599.94A¤p=
+×£ü¿HäıNR=https://s2.coinmarketcap.com/static/img/coins/64x64/24106.png
+‚
+
+1404/07/1914:19œì¨Ç"Particl*Ù¾Ø§Ø±ØªÛŒÚ©Ù„20.0846:9800HËúNR<https://s2.coinmarketcap.com/static/img/coins/64x64/1826.png
+ˆ
+
+1404/07/1914:19œì¨Ç"AmonD*
+Ø¢Ù…ÙˆÙ†Ø¯20.000180:20.87AHáz®‡<ÀHõóNR<https://s2.coinmarketcap.com/static/img/coins/64x64/4712.png
+¨
+
+1404/07/1914:19œì¨Ç"BNBXBT*'Ø¨ÛŒâ€ŒØ§Ù†â€ŒØ¨ÛŒ Ø§ÛŒÚ©Ø³ Ø¨ÛŒâ€ŒØªÛŒ20.001292:149.65AR¸…ëQ-ÀHñëNR=https://s2.coinmarketcap.com/static/img/coins/64x64/35789.png
+¢
+
+1404/07/1914:19œì¨Ç"RefundYourSOL*Ø±ÛŒÙØ§Ù†Ø¯ ÛŒÙˆØ± Ø³ÙˆÙ„20.001306:151.34A{®Gáú!ÀH±ÀNR=https://s2.coinmarketcap.com/static/img/coins/64x64/37122.png
+
+
+1404/07/1914:19œì¨Ç"5ire*ÙØ§ÛŒÙˆâ€ŒØ¢ÛŒØ±20.000875:101.36AÂõ(\*ÀH×šNR=https://s2.coinmarketcap.com/static/img/coins/64x64/16919.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"Graphite Network*Ú¯Ø±Ø§ÙÛŒØª Ù†ØªÙˆØ±Ú©20.1242:14391A
+×£p=
+&ÀH¼ÿMR=https://s2.coinmarketcap.com/static/img/coins/64x64/34910.png
+«
+
+1404/07/1914:19œì¨Ç"Super Zero Protocol*Ø³ÙˆÙ¾Ø± Ø²ÛŒØ±Ùˆ Ù¾Ø±ÙˆØªÚ©Ù„20.002884:334.16A=
+×£p=ÀH•áMR<https://s2.coinmarketcap.com/static/img/coins/64x64/4078.png
+œ
+
+1404/07/1914:19œì¨Ç"spinning cat*Ø§Ø³Ù¾ÛŒÙ†ÛŒÙ†Ú¯ Ú©Øª20.001274:147.57Aö(\Âõ6ÀHÒİMR=https://s2.coinmarketcap.com/static/img/coins/64x64/35849.png
+˜
+
+1404/07/1914:19œì¨Ç"
+Nuco.cloud*Ù†ÙˆÚ©Ùˆ Ø¯Ø§Øª Ú©Ù„Ø§Ø¯20.0253:2937AÃõ(\B-ÀHî­MR<https://s2.coinmarketcap.com/static/img/coins/64x64/6933.png
+´
+
+1404/07/1914:19œì¨Ç"Etherisc DIP Token*(Ø§ØªØ±ÛŒØ³Ú© Ø¯ÛŒâ€ŒØ¢ÛŒâ€ŒÙ¾ÛŒ ØªÙˆÚ©Ù†20.005281:611.80Afffff&>ÀHÿ¢MR<https://s2.coinmarketcap.com/static/img/coins/64x64/6588.png
+¨
+
+1404/07/1914:19œì¨Ç"
+Shiro Neko*Ø´ÛŒØ±Ùˆ Ù†Ú©Ùˆ20.000000002332008510509357:0.000270A×£p=
+—2ÀH˜MR=https://s2.coinmarketcap.com/static/img/coins/64x64/34378.png
+ª
+
+1404/07/1914:19œì¨Ç"Koala AI*Ú©ÙˆØ§Ù„Ø§ Ø§ÛŒâ€ŒØ¢ÛŒ20.00000013875552637715135:0.0161AÃõ(\BEÀHô“MR=https://s2.coinmarketcap.com/static/img/coins/64x64/30089.png
+°
+
+1404/07/1914:19œì¨Ç"Black Mirror Experience*"Ø¨Ù„Ú© Ù…ÛŒØ±ÙˆØ± Ø§Ú©Ø³Ù¾Ø±ÛŒÙ†Ø³20.0132:1524A¤p=
+×#:ÀH®„MR=https://s2.coinmarketcap.com/static/img/coins/64x64/38292.png
+š
+
+1404/07/1914:19œì¨Ç"ISLAND Token*Ø¢ÛŒÙ„Ù†Ø¯ ØªÙˆÚ©Ù†20.008511:986.01Aš™™™™™&ÀHíãLR=https://s2.coinmarketcap.com/static/img/coins/64x64/34794.png
+‰
+
+1404/07/1914:20Øì¨Ç"Hypr*
+Ù‡Ø§ÛŒÙ¾Ø±20.001797:208.17A®Gáz”)ÀHÔâLR=https://s2.coinmarketcap.com/static/img/coins/64x64/38137.png
 
 
-1404/07/1914:05Ôå¨Ç"Workloop AI*ÙˆØ±Ú©â€ŒÙ„ÙˆÙ¾ Ø§ÛŒâ€ŒØ¢ÛŒ20.0345:3999A)\ÂõH@ÀH£„LR=https://s2.coinmarketcap.com/static/img/coins/64x64/38144.png
+1404/07/1914:19œì¨Ç"Workloop AI*ÙˆØ±Ú©â€ŒÙ„ÙˆÙ¾ Ø§ÛŒâ€ŒØ¢ÛŒ20.0344:3991AÃõ(\B@ÀHÀ‚LR=https://s2.coinmarketcap.com/static/img/coins/64x64/38144.png
 †
 
-1404/07/1914:06æ¨Ç"DUKO*Ø¯ÙˆÚ©Ùˆ20.000128:14.91Aq=
-×£ğ6ÀHÂáKR=https://s2.coinmarketcap.com/static/img/coins/64x64/29494.png
+1404/07/1914:20Øì¨Ç"DUKO*Ø¯ÙˆÚ©Ùˆ20.000128:14.88AHáz®‡6ÀHÛáKR=https://s2.coinmarketcap.com/static/img/coins/64x64/29494.png
 Â
 
-1404/07/1914:06æ¨Ç"Amazon tokenized stock (xStock)*(Ø¢Ù…Ø§Ø²ÙˆÙ† ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2215.39:24995563A×£p=
-×ÀH“áKR=https://s2.coinmarketcap.com/static/img/coins/64x64/37014.png
-œ
+1404/07/1914:20Øì¨Ç"Amazon tokenized stock (xStock)*(Ø¢Ù…Ø§Ø²ÙˆÙ† ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2215.33:24947039AHáz®GÀHäŞKR=https://s2.coinmarketcap.com/static/img/coins/64x64/37014.png
+
 
-1404/07/1914:05Ôå¨Ç"Dark Eclipse*Ø¯Ø§Ø±Ú© Ø§Ú©Ù„ÛŒÙ¾Ø³20.001237:143.59A×£p=
-—5ÀH´ÂKR=https://s2.coinmarketcap.com/static/img/coins/64x64/36292.png
+1404/07/1914:19œì¨Ç"	Venus DOT*ÙˆÙ†ÙˆØ³ Ø¯Ø§Øª20.0744:8615Aö(\Âµ4ÀH©ÈKR<https://s2.coinmarketcap.com/static/img/coins/64x64/7976.png
 ’
 
-1404/07/1914:06æ¨Ç"Rage Guy*Ø±ÛŒØ¬â€ŒÚ¯Ø§ÛŒ20.001257:145.91Aáz®G¡3ÀHØÁKR=https://s2.coinmarketcap.com/static/img/coins/64x64/38438.png
+1404/07/1914:20Øì¨Ç"Rage Guy*Ø±ÛŒØ¬â€ŒÚ¯Ø§ÛŒ20.001257:145.66Aáz®G¡3ÀHØÁKR=https://s2.coinmarketcap.com/static/img/coins/64x64/38438.png
 ™
 
-1404/07/1914:06æ¨Ç"Toad*ØªÙˆØ¯20.000000003032036576185896:0.000352AÍÌÌÌÌŒ1ÀH÷ªKR=https://s2.coinmarketcap.com/static/img/coins/64x64/31598.png
+1404/07/1914:19œì¨Ç"RAI Finance*Ø±Ø§ÛŒ ÙØ§ÛŒÙ†Ù†Ø³20.002063:238.95A{®GázÀHÖ¨KR=https://s2.coinmarketcap.com/static/img/coins/64x64/16552.png
+„
+
+1404/07/1914:20Øì¨Ç"MAX*Ù…Ú©Ø³20.001232:142.77A
+×£p=
+-ÀHè™KR=https://s2.coinmarketcap.com/static/img/coins/64x64/35410.png
+™
+
+1404/07/1914:20Øì¨Ç"Toad*ØªÙˆØ¯20.000000003022521099142514:0.000350A{®Gáº1ÀHÕŒKR=https://s2.coinmarketcap.com/static/img/coins/64x64/31598.png
 ‡
 
-1404/07/1914:06æ¨Ç"Everest*
-Ø§ÙˆØ±Ø³Øª20.0105:1221AìQ¸…ëá?HÙøJR<https://s2.coinmarketcap.com/static/img/coins/64x64/8495.png
+1404/07/1914:20Øì¨Ç"Everest*
+Ø§ÙˆØ±Ø³Øª20.0105:1219AìQ¸…ëá?HÙøJR<https://s2.coinmarketcap.com/static/img/coins/64x64/8495.png
 £
 
-1404/07/1914:06æ¨Ç"Neutrino USD*!Ù†ÙˆØªØ±ÛŒÙ†Ùˆ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.0236:2740AÂõ(\-ÀHûòJR<https://s2.coinmarketcap.com/static/img/coins/64x64/5068.png
+1404/07/1914:19œì¨Ç"Neutrino USD*!Ù†ÙˆØªØ±ÛŒÙ†Ùˆ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.0236:2734AR¸…ëQ.ÀHğJR<https://s2.coinmarketcap.com/static/img/coins/64x64/5068.png
 ¨
 
-1404/07/1914:05Ôå¨Ç"WTF Opossum*"Ø¯Ø¨Ù„ÛŒÙˆØªÛŒâ€ŒØ§Ù Ø§Ù¾ÙˆØ³Ø§Ù…20.001446:167.75AÂõ(\O8ÀHîïJR=https://s2.coinmarketcap.com/static/img/coins/64x64/36079.png
-
+1404/07/1914:19œì¨Ç"WTF Opossum*"Ø¯Ø¨Ù„ÛŒÙˆØªÛŒâ€ŒØ§Ù Ø§Ù¾ÙˆØ³Ø§Ù…20.001446:167.47AÂõ(\O8ÀHîïJR=https://s2.coinmarketcap.com/static/img/coins/64x64/36079.png
+œ
 
-1404/07/1914:06æ¨Ç"Farcana*ÙØ§Ø±Ú©Ø§Ù†Ø§20.000308:35.71A®Gáz®ÀHêJR=https://s2.coinmarketcap.com/static/img/coins/64x64/22331.png
-˜
-
-1404/07/1914:05Ôå¨Ç"
-BreederDAO*Ø¨Ø±ÛŒØ¯Ø± Ø¯Ø§Ø¦Ùˆ20.006978:809.74AR¸…ëQ$ÀHĞãJR=https://s2.coinmarketcap.com/static/img/coins/64x64/19722.png
+1404/07/1914:19œì¨Ç"Dark Eclipse*Ø¯Ø§Ø±Ú© Ø§Ú©Ù„ÛŒÙ¾Ø³20.001226:142.03A®Gáz®6ÀHÑéJR=https://s2.coinmarketcap.com/static/img/coins/64x64/36292.png
 §
 
-1404/07/1914:05Ôå¨Ç"Sekuya Multiverse*Ø³Ú©ÙˆÛŒØ§ Ù…Ø§Ù„ØªÛŒÙˆØ±Ø³20.003030:351.64A®Gáz.$ÀHôÈJR=https://s2.coinmarketcap.com/static/img/coins/64x64/31320.png
+1404/07/1914:19œì¨Ç"Sekuya Multiverse*Ø³Ú©ÙˆÛŒØ§ Ù…Ø§Ù„ØªÛŒÙˆØ±Ø³20.003032:351.23A333333$ÀHšÎJR=https://s2.coinmarketcap.com/static/img/coins/64x64/31320.png
+
+
+1404/07/1914:20Øì¨Ç"Farcana*ÙØ§Ø±Ú©Ø§Ù†Ø§20.000307:35.53AÃõ(\ÂÀHÄÊJR=https://s2.coinmarketcap.com/static/img/coins/64x64/22331.png
+˜
+
+1404/07/1914:19œì¨Ç"
+BreederDAO*Ø¨Ø±ÛŒØ¯Ø± Ø¯Ø§Ø¦Ùˆ20.006958:806.09A…ëQ¸%ÀHÖÈJR=https://s2.coinmarketcap.com/static/img/coins/64x64/19722.png
 Œ
 
-1404/07/1914:05Ôå¨Ç"Exeedme*Ø§Ú©Ø³ÛŒØ¯ Ù…ÛŒ20.0122:1416Afffffæ)ÀHÔ¹JR<https://s2.coinmarketcap.com/static/img/coins/64x64/8163.png
+1404/07/1914:19œì¨Ç"Exeedme*Ø§Ú©Ø³ÛŒØ¯ Ù…ÛŒ20.0122:1413A{®Gáú)ÀHéµJR<https://s2.coinmarketcap.com/static/img/coins/64x64/8163.png
 …
 
-1404/07/1914:06æ¨Ç"Vesper*ÙˆØ³Ù¾Ø±20.1293:15008AR¸…ëQ"ÀHé©JR<https://s2.coinmarketcap.com/static/img/coins/64x64/8492.png
+1404/07/1914:20Øì¨Ç"Vesper*ÙˆØ³Ù¾Ø±20.1293:14983Aáz®Ga"ÀHé©JR<https://s2.coinmarketcap.com/static/img/coins/64x64/8492.png
+…
+
+1404/07/1914:19œì¨Ç"Plearn*Ù¾Ù„Ø±Ù†20.0141:1633A×£p=
+0ÀH§‡JR=https://s2.coinmarketcap.com/static/img/coins/64x64/31160.png
 š
 
-1404/07/1914:06æ¨Ç"
-StarHeroes*Ø§Ø³ØªØ§Ø± Ù‡ÛŒØ±ÙˆØ²20.005759:668.38A\Âõ(\*ÀH«JR=https://s2.coinmarketcap.com/static/img/coins/64x64/29727.png
+1404/07/1914:19œì¨Ç"
+StarHeroes*Ø§Ø³ØªØ§Ø± Ù‡ÛŒØ±ÙˆØ²20.005751:666.32AÂõ(\*ÀHšJR=https://s2.coinmarketcap.com/static/img/coins/64x64/29727.png
+£
+
+1404/07/1914:19œì¨Ç"Hakka.Finance*Ù‡Ø§Ú©Ø§ Ø¯Ø§Øª ÙØ§ÛŒÙ†Ù†Ø³20.002850:330.14A      ü¿H¬øIR<https://s2.coinmarketcap.com/static/img/coins/64x64/6622.png
 ®
 
-1404/07/1914:06æ¨Ç"	Pepes Dog*Ù¾Ù¾Ù‡â€ŒÙ‡Ø§ÛŒ Ø¯Ø§Ú¯20.000000002884279052357656:0.000335A¸…ëQx9ÀHË‡JR=https://s2.coinmarketcap.com/static/img/coins/64x64/36605.png
-£
+1404/07/1914:19œì¨Ç"	Pepes Dog*Ù¾Ù¾Ù‡â€ŒÙ‡Ø§ÛŒ Ø¯Ø§Ú¯20.000000002873680004963271:0.000333A)\Âõè9ÀHàäIR=https://s2.coinmarketcap.com/static/img/coins/64x64/36605.png
+§
 
-1404/07/1914:05Ôå¨Ç"Hakka.Finance*Ù‡Ø§Ú©Ø§ Ø¯Ø§Øª ÙØ§ÛŒÙ†Ù†Ø³20.002850:330.70A      ü¿H¬øIR<https://s2.coinmarketcap.com/static/img/coins/64x64/6622.png
-…
-
-1404/07/1914:05Ôå¨Ç"Plearn*Ù¾Ù„Ø±Ù†20.0141:1631A…ëQ¸^0ÀH±éIR=https://s2.coinmarketcap.com/static/img/coins/64x64/31160.png
-™
-
-1404/07/1914:05Ôå¨Ç"RAI Finance*Ø±Ø§ÛŒ ÙØ§ÛŒÙ†Ù†Ø³20.002005:232.70AìQ¸…k"ÀHáœIR=https://s2.coinmarketcap.com/static/img/coins/64x64/16552.png
-œ
-
-1404/07/1914:05Ôå¨Ç"
-StupidCoin*Ø§Ø³ØªÙˆÙ¾ÛŒØ¯ Ú©ÙˆÛŒÙ†20.001205:139.81AÍÌÌÌÌÌ,ÀHË“IR=https://s2.coinmarketcap.com/static/img/coins/64x64/35650.png
+1404/07/1914:20Øì¨Ç"Ultraround Money*Ø§ÙˆÙ„ØªØ±Ø§ Ø±Ø§Ù†Ø¯ Ù…Ø§Ù†ÛŒ21.3758:159395A…ëQ¸%ÀHâ¬IR=https://s2.coinmarketcap.com/static/img/coins/64x64/34783.png
 —
 
-1404/07/1914:05Ôå¨Ç"Whales Market*ÙˆÛŒÙ„Ø² Ù…Ø§Ø±Ú©Øª20.0458:5318A®Gáz.2ÀH“èHR=https://s2.coinmarketcap.com/static/img/coins/64x64/29282.png
-…
+1404/07/1914:19œì¨Ç"Whales Market*ÙˆÛŒÙ„Ø² Ù…Ø§Ø±Ú©Øª20.0458:5308A3333332ÀH‡æHR=https://s2.coinmarketcap.com/static/img/coins/64x64/29282.png
+œ
 
-1404/07/1914:06æ¨Ç"PAWS*Ù¾Ø§Ø²2
-0.00002244:2.60Aš™™™™™-ÀHï×HR=https://s2.coinmarketcap.com/static/img/coins/64x64/36017.png
+1404/07/1914:19œì¨Ç"
+StupidCoin*Ø§Ø³ØªÙˆÙ¾ÛŒØ¯ Ú©ÙˆÛŒÙ†20.001198:138.74AÂõ(\-ÀH»ÛHR=https://s2.coinmarketcap.com/static/img/coins/64x64/35650.png
 ’
 
-1404/07/1914:05Ôå¨Ç"
-Self Chain*Ø³Ù„Ù Ú†ÛŒÙ†20.007124:826.74AÂõ(\Ï8ÀHÈÎHR=https://s2.coinmarketcap.com/static/img/coins/64x64/32854.png
+1404/07/1914:19œì¨Ç"
+Self Chain*Ø³Ù„Ù Ú†ÛŒÙ†20.007110:823.70A…ëQ¸^9ÀH›¼HR=https://s2.coinmarketcap.com/static/img/coins/64x64/32854.png
+‡
+
+1404/07/1914:19œì¨Ç"Pino*Ù¾ÛŒÙ†Ùˆ20.001197:138.68A¤p=
+×ã2ÀH¨HR=https://s2.coinmarketcap.com/static/img/coins/64x64/33656.png
 
 
-1404/07/1914:05Ôå¨Ç"Jobchain*Ø¬Ø§Ø¨ Ú†ÛŒÙ†20.000120:13.94A¸…ëQ¸®?Hå©HR<https://s2.coinmarketcap.com/static/img/coins/64x64/4287.png
-‡
-
-1404/07/1914:06æ¨Ç"Pino*Ù¾ÛŒÙ†Ùˆ20.001197:138.92A¤p=
-×ã2ÀH¨HR=https://s2.coinmarketcap.com/static/img/coins/64x64/33656.png
+1404/07/1914:19œì¨Ç"Jobchain*Ø¬Ø§Ø¨ Ú†ÛŒÙ†20.000120:13.91A¸…ëQ¸®?H¬§HR<https://s2.coinmarketcap.com/static/img/coins/64x64/4287.png
 —
 
-1404/07/1914:05Ôå¨Ç"StarSlax*Ø§Ø³ØªØ§Ø± Ø§Ø³Ù„Ú©Ø³20.000473:54.94AÍÌÌÌÌÌÀH×¤HR=https://s2.coinmarketcap.com/static/img/coins/64x64/21471.png
+1404/07/1914:19œì¨Ç"StarSlax*Ø§Ø³ØªØ§Ø± Ø§Ø³Ù„Ú©Ø³20.000472:54.68A¤p=
+×£ÀHÂˆHR=https://s2.coinmarketcap.com/static/img/coins/64x64/21471.png
 –
 
-1404/07/1914:05Ôå¨Ç"TRUST AI*ØªØ±Ø§Ø³Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.3104:36027A)\Âõ¨(ÀH¦€HR=https://s2.coinmarketcap.com/static/img/coins/64x64/27458.png
+1404/07/1914:19œì¨Ç"StormX*Ø§Ø³ØªÙˆØ±Ù…â€ŒØ§Ú©Ø³2
+0.00009509:11.02A…ëQ¸ñ?HÈØGR<https://s2.coinmarketcap.com/static/img/coins/64x64/2297.png
+…
+
+1404/07/1914:19œì¨Ç"PAWS*Ù¾Ø§Ø²2
+0.00002212:2.56Aš™™™™.ÀHüÑGR=https://s2.coinmarketcap.com/static/img/coins/64x64/36017.png
 •
 
-1404/07/1914:05Ôå¨Ç"BSCPAD*Ø¨ÛŒâ€ŒØ§Ø³â€ŒØ³ÛŒâ€ŒÙ¾Ø¯20.0149:1724A\Âõ(\(ÀH–êGR<https://s2.coinmarketcap.com/static/img/coins/64x64/8660.png
-§
-
-1404/07/1914:06æ¨Ç"Ultraround Money*Ø§ÙˆÙ„ØªØ±Ø§ Ø±Ø§Ù†Ø¯ Ù…Ø§Ù†ÛŒ21.3456:156152A
-×£p=Š)ÀHŞGR=https://s2.coinmarketcap.com/static/img/coins/64x64/34783.png
+1404/07/1914:19œì¨Ç"BSCPAD*Ø¨ÛŒâ€ŒØ§Ø³â€ŒØ³ÛŒâ€ŒÙ¾Ø¯20.0148:1717Aš™™™™™)ÀHõÑGR<https://s2.coinmarketcap.com/static/img/coins/64x64/8660.png
 ‘
 
-1404/07/1914:05Ôå¨Ç"Witch Token*ÙˆÛŒÚ† ØªÙˆÚ©Ù†20.0430:4987AÃõ(\B.ÀH•ÍGR=https://s2.coinmarketcap.com/static/img/coins/64x64/10984.png
+1404/07/1914:19œì¨Ç"Witch Token*ÙˆÛŒÚ† ØªÙˆÚ©Ù†20.0430:4981AÂõ(\.ÀH¢ÑGR=https://s2.coinmarketcap.com/static/img/coins/64x64/10984.png
 š
 
-1404/07/1914:05Ôå¨Ç"MBP Coin*Ø§Ù…â€ŒØ¨ÛŒâ€ŒÙ¾ÛŒ Ú©ÙˆÛŒÙ†20.0729:8456AÃõ(\Â'ÀH¼‘GR=https://s2.coinmarketcap.com/static/img/coins/64x64/33177.png
-
-
-1404/07/1914:05Ôå¨Ç"
-Let's BONK*Ù„ØªØ³ Ø¨Ø§Ù†Ú©20.0169:1957A{®Gáº:ÀH¶ÿFR=https://s2.coinmarketcap.com/static/img/coins/64x64/36347.png
+1404/07/1914:19œì¨Ç"MBP Coin*Ø§Ù…â€ŒØ¨ÛŒâ€ŒÙ¾ÛŒ Ú©ÙˆÛŒÙ†20.0724:8392AÍÌÌÌÌÌ(ÀH½ÛFR=https://s2.coinmarketcap.com/static/img/coins/64x64/33177.png
 “
 
-1404/07/1914:06æ¨Ç"Tiamonds*ØªÛŒØ§Ù…ÙˆÙ†Ø¯Ø²20.003964:460.08A×£p=
-×)ÀH‹öFR=https://s2.coinmarketcap.com/static/img/coins/64x64/18411.png
+1404/07/1914:20Øì¨Ç"Tiamonds*ØªÛŒØ§Ù…ÙˆÙ†Ø¯Ø²20.003952:457.89A…ëQ¸$ÀH®ÚFR=https://s2.coinmarketcap.com/static/img/coins/64x64/18411.png
+
+
+1404/07/1914:19œì¨Ç"
+Let's BONK*Ù„ØªØ³ Ø¨Ø§Ù†Ú©20.0168:1942A…ëQ¸;ÀHÉFR=https://s2.coinmarketcap.com/static/img/coins/64x64/36347.png
 ˜
 
-1404/07/1914:05Ôå¨Ç"
-BunkerCoin*Ø¨Ø§Ù†Ú©Ø± Ú©ÙˆÛŒÙ†20.001156:134.18Affffff-ÀHÉFR=https://s2.coinmarketcap.com/static/img/coins/64x64/35448.png
+1404/07/1914:19œì¨Ç"
+BunkerCoin*Ø¨Ø§Ù†Ú©Ø± Ú©ÙˆÛŒÙ†20.001153:133.57A…ëQ¸.ÀH©¯FR=https://s2.coinmarketcap.com/static/img/coins/64x64/35448.png
 Œ
 
-1404/07/1914:05Ôå¨Ç"Mettalex*Ù…ØªØ§Ù„Ú©Ø³21.0244:118880Aš™™™™™ÀH´›FR<https://s2.coinmarketcap.com/static/img/coins/64x64/7256.png
+1404/07/1914:19œì¨Ç"Mettalex*Ù…ØªØ§Ù„Ú©Ø³21.0244:118678Aš™™™™™ÀH´›FR<https://s2.coinmarketcap.com/static/img/coins/64x64/7256.png
 ¥
 
-1404/07/1914:06æ¨Ç"Forward Protocol*ÙÙˆØ±ÙˆØ§Ø±Ø¯ Ù¾Ø±ÙˆØªÚ©Ù„20.000228:26.52A=
-×£p=@HÛÜER=https://s2.coinmarketcap.com/static/img/coins/64x64/11919.png
-œ
-
-1404/07/1914:06æ¨Ç"SOLVEX NETWORK*Ø³ÙˆÙ„ÙˆÚ©Ø³ Ù†ØªÙˆØ±Ú©20.0288:3346Aáz®Gáú¿HúÀER=https://s2.coinmarketcap.com/static/img/coins/64x64/36212.png
+1404/07/1914:19œì¨Ç"Forward Protocol*ÙÙˆØ±ÙˆØ§Ø±Ø¯ Ù¾Ø±ÙˆØªÚ©Ù„20.000230:26.63A®Gáz@Hİ“FR=https://s2.coinmarketcap.com/static/img/coins/64x64/11919.png
 ˜
 
-1404/07/1914:05Ôå¨Ç"
+1404/07/1914:19œì¨Ç"
 Mario Coin*Ù…Ø§Ø±ÛŒÙˆ Ú©ÙˆÛŒÙ†2
-0.00003774:4.38AÃõ(\Â	ÀHøER=https://s2.coinmarketcap.com/static/img/coins/64x64/32125.png
+0.00003774:4.37AÃõ(\Â	ÀHøER=https://s2.coinmarketcap.com/static/img/coins/64x64/32125.png
+œ
+
+1404/07/1914:20Øì¨Ç"SOLVEX NETWORK*Ø³ÙˆÙ„ÙˆÚ©Ø³ Ù†ØªÙˆØ±Ú©20.0286:3312A¤p=
+×£
+ÀHíöDR=https://s2.coinmarketcap.com/static/img/coins/64x64/36212.png
 –
 
-1404/07/1914:05Ôå¨Ç"Lattice Token*Ù„ØªØ§ÛŒØ³ ØªÙˆÚ©Ù†20.0394:4578A       @HÀşDR<https://s2.coinmarketcap.com/static/img/coins/64x64/7616.png
-§
-
-1404/07/1914:05Ôå¨Ç"zkSwap Finance*Ø²Ø¯Ú©ÛŒ Ø³ÙˆØ§Ù¾ ÙØ§ÛŒÙ†Ù†Ø³20.001908:221.41A{®Gá:5ÀH…ÄDR=https://s2.coinmarketcap.com/static/img/coins/64x64/28106.png
-§
-
-1404/07/1914:06æ¨Ç"Hive Intelligence*Ù‡Ø§ÛŒÙˆ Ø§ÛŒÙ†ØªÙ„ÛŒØ¬Ù†Ø³20.002438:282.90AÂõ(\%ÀHÕ¿DR=https://s2.coinmarketcap.com/static/img/coins/64x64/35241.png
+1404/07/1914:19œì¨Ç"Lattice Token*Ù„ØªØ§ÛŒØ³ ØªÙˆÚ©Ù†20.0394:4566AR¸…ëQø?HåöDR<https://s2.coinmarketcap.com/static/img/coins/64x64/7616.png
 Œ
 
-1404/07/1914:05Ôå¨Ç"Phoenic*
-ÙÙˆÙ†ÛŒÚ©20.004401:510.72A\Âõ(\ÀHË©DR=https://s2.coinmarketcap.com/static/img/coins/64x64/31094.png
-‚
+1404/07/1914:19œì¨Ç"Phoenic*
+ÙÙˆÙ†ÛŒÚ©20.004438:514.18A\Âõ(\ÀHîóDR=https://s2.coinmarketcap.com/static/img/coins/64x64/31094.png
+§
 
-1404/07/1914:06æ¨Ç"REVV*Ø±Ùˆ20.000939:108.99Afffffæ&ÀH DR<https://s2.coinmarketcap.com/static/img/coins/64x64/6993.png
-Œ
+1404/07/1914:19œì¨Ç"zkSwap Finance*Ø²Ø¯Ú©ÛŒ Ø³ÙˆØ§Ù¾ ÙØ§ÛŒÙ†Ù†Ø³20.001914:221.70AR¸…ëÑ4ÀHÇŞDR=https://s2.coinmarketcap.com/static/img/coins/64x64/28106.png
+§
 
-1404/07/1914:06æ¨Ç"enfineo*Ø§Ù†ÙÛŒÙ†ÛŒÙˆ20.0275:3192Afffffæ2ÀHñ›DR=https://s2.coinmarketcap.com/static/img/coins/64x64/37149.png
-£
-
-1404/07/1914:05Ôå¨Ç"Big Data Protocol*Ø¨ÛŒÚ¯ Ø¯ÛŒØªØ§ Ù¾Ø±ÙˆØªÚ©Ù„20.0211:2450A{®Gáú*ÀH×DR<https://s2.coinmarketcap.com/static/img/coins/64x64/8708.png
+1404/07/1914:20Øì¨Ç"Hive Intelligence*Ù‡Ø§ÛŒÙˆ Ø§ÛŒÙ†ØªÙ„ÛŒØ¬Ù†Ø³20.002440:282.72A\Âõ(Ü$ÀH›ÉDR=https://s2.coinmarketcap.com/static/img/coins/64x64/35241.png
 ‡
 
-1404/07/1914:05Ôå¨Ç"BEFE*Ø¨ÙÙ‡2
-0.00001197:1.3889A¸…ëQ8,ÀH›ŠDR=https://s2.coinmarketcap.com/static/img/coins/64x64/28453.png
-–
+1404/07/1914:19œì¨Ç"BEFE*Ø¨ÙÙ‡2
+0.00001202:1.3928Aáz®Gá*ÀHß±DR=https://s2.coinmarketcap.com/static/img/coins/64x64/28453.png
+Œ
 
-1404/07/1914:05Ôå¨Ç"StormX*Ø§Ø³ØªÙˆØ±Ù…â€ŒØ§Ú©Ø³2
-0.00009029:10.48Aš™™™™™ÀHìˆDR<https://s2.coinmarketcap.com/static/img/coins/64x64/2297.png
+1404/07/1914:20Øì¨Ç"enfineo*Ø§Ù†ÙÛŒÙ†ÛŒÙˆ20.0275:3186A\Âõ(Ü2ÀHøšDR=https://s2.coinmarketcap.com/static/img/coins/64x64/37149.png
+£
+
+1404/07/1914:19œì¨Ç"Big Data Protocol*Ø¨ÛŒÚ¯ Ø¯ÛŒØªØ§ Ù¾Ø±ÙˆØªÚ©Ù„20.0211:2442Affffff+ÀH˜DR<https://s2.coinmarketcap.com/static/img/coins/64x64/8708.png
+‚
+
+1404/07/1914:20Øì¨Ç"REVV*Ø±Ùˆ20.000934:108.16A     €'ÀH¯ìCR<https://s2.coinmarketcap.com/static/img/coins/64x64/6993.png
 Ë
 
-1404/07/1914:05Ôå¨Ç"!Broadcom tokenized stock (xStock)*/Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¨Ø±Ø§Ø¯Ú©Ø§Ù…2326.08:37841976AHáz®GÀHËÕCR=https://s2.coinmarketcap.com/static/img/coins/64x64/37021.png
+1404/07/1914:19œì¨Ç"!Broadcom tokenized stock (xStock)*/Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¨Ø±Ø§Ø¯Ú©Ø§Ù…2325.96:37763382Aq=
+×£pÀH¦ÒCR=https://s2.coinmarketcap.com/static/img/coins/64x64/37021.png
+–
+
+1404/07/1914:19œì¨Ç"TRUST AI*ØªØ±Ø§Ø³Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.2916:33782Afffff¦1ÀHÊĞCR=https://s2.coinmarketcap.com/static/img/coins/64x64/27458.png
 Œ
 
-1404/07/1914:05Ôå¨Ç"Kimbo*
+1404/07/1914:19œì¨Ç"Kimbo*
 Ú©ÛŒÙ…Ø¨Ùˆ2
-0.00001590:1.8456Afffffæ6ÀH¯±CR=https://s2.coinmarketcap.com/static/img/coins/64x64/28836.png
-¦
+0.00001593:1.8454Aáz®G¡6ÀH†¿CR=https://s2.coinmarketcap.com/static/img/coins/64x64/28836.png
+œ
 
-1404/07/1914:05Ôå¨Ç"Welshcorgicoin*ÙˆÙ„Ø´â€ŒÚ©ÙˆØ±Ú¯ÛŒâ€ŒÚ©ÙˆÛŒÙ†20.000110:12.78A…ëQ¸9ÀH£›CR=https://s2.coinmarketcap.com/static/img/coins/64x64/29079.png
+1404/07/1914:19œì¨Ç"Lemmy The Bat*Ù„Ù…Ù…ÛŒ Ø¯ Ø¨Ø§Øª2
+0.00001602:1.8561A=
+×£p=ÀH¡¼CR=https://s2.coinmarketcap.com/static/img/coins/64x64/36813.png
 Ò
 
-1404/07/1914:06æ¨Ç""Eli Lilly tokenized stock (xStock)*5Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø§Ù„ÛŒâ€ŒÙ„ÛŒâ€ŒÙ„ÛŒ2829.66:96282186Aáz®GáÀH ™CR=https://s2.coinmarketcap.com/static/img/coins/64x64/37038.png
+1404/07/1914:19œì¨Ç""Eli Lilly tokenized stock (xStock)*5Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø§Ù„ÛŒâ€ŒÙ„ÛŒâ€ŒÙ„ÛŒ2829.50:96100052A×£p=
+×ÀHÊ—CR=https://s2.coinmarketcap.com/static/img/coins/64x64/37038.png
 š
 
-1404/07/1914:06æ¨Ç"IDRX*Ø¢ÛŒâ€ŒØ¯ÛŒâ€ŒØ¢Ø±â€ŒØ§Ú©Ø³2
-0.00005927:6.88AìQ¸…ëù¿H½…CR=https://s2.coinmarketcap.com/static/img/coins/64x64/26732.png
+1404/07/1914:20Øì¨Ç"IDRX*Ø¢ÛŒâ€ŒØ¯ÛŒâ€ŒØ¢Ø±â€ŒØ§Ú©Ø³2
+0.00005926:6.87AÂõ(\ú¿H …CR=https://s2.coinmarketcap.com/static/img/coins/64x64/26732.png
 †
 
-1404/07/1914:05Ôå¨Ç"Perry*Ù¾Ø±ÛŒ20.001098:127.42AìQ¸…+1ÀH›‚CR=https://s2.coinmarketcap.com/static/img/coins/64x64/35824.png
-œ
-
-1404/07/1914:06æ¨Ç"Lemmy The Bat*Ù„Ù…Ù…ÛŒ Ø¯ Ø¨Ø§Øª2
-0.00001586:1.8406AÍÌÌÌÌÌ ÀHîåBR=https://s2.coinmarketcap.com/static/img/coins/64x64/36813.png
+1404/07/1914:19œì¨Ç"Perry*Ù¾Ø±ÛŒ20.001098:127.21AìQ¸…+1ÀHª‚CR=https://s2.coinmarketcap.com/static/img/coins/64x64/35824.png
 µ
 
-1404/07/1914:05Ôå¨Ç"Worlds First Memecoin*%ÙˆØ±Ù„Ø¯Ø² ÙØ±Ø³Øª Ù…ÛŒÙ…â€ŒÚ©ÙˆÛŒÙ†20.001089:126.40A333333=ÀHœºBR=https://s2.coinmarketcap.com/static/img/coins/64x64/38314.png
-
-
-1404/07/1914:06æ¨Ç"Octokn*Ø§Ú©ØªØ§Ú©Ù†20.002219:257.49A…ëQ¸Ş2ÀHÈ¥BR=https://s2.coinmarketcap.com/static/img/coins/64x64/24381.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Caila*Ú©ÛŒÙ„Ø§20.001112:129.06A…ëQ¸…/ÀHŸ†BR=https://s2.coinmarketcap.com/static/img/coins/64x64/36577.png
-¡
-
-1404/07/1914:05Ôå¨Ç"FOMO (fomo.fund)*ÙÙˆÙ…Ùˆ (fomo.fund)2
-0.00001080:1.2536AÍÌÌÌÌŒ1ÀH¢öAR=https://s2.coinmarketcap.com/static/img/coins/64x64/34754.png
- 
-
-1404/07/1914:05Ôå¨Ç"SelfieDogCoin*Ø³Ù„ÙÛŒ Ø¯Ø§Ú¯ Ú©ÙˆÛŒÙ†20.001096:127.21A¤p=
-×#-ÀHèAR=https://s2.coinmarketcap.com/static/img/coins/64x64/31601.png
-’
-
-1404/07/1914:06æ¨Ç"Klaydice*Ú©Ù„ÛŒ Ø¯Ø§ÛŒØ³20.002386:276.92A{®GázÀHäßAR=https://s2.coinmarketcap.com/static/img/coins/64x64/21262.png
-’
-
-1404/07/1914:05Ôå¨Ç"
-BarnBridge*Ø¨Ø§Ø±Ù† Ø¨Ø±ÛŒØ¬20.1358:15756A®Gáz”+ÀHµÆAR<https://s2.coinmarketcap.com/static/img/coins/64x64/7440.png
-š
-
-1404/07/1914:06æ¨Ç"	v.systems*ÙˆÛŒ Ø¯Ø§Øª Ø³ÛŒØ³ØªÙ…Ø²20.000312:36.18A\Âõ(\9ÀHºÁAR<https://s2.coinmarketcap.com/static/img/coins/64x64/3704.png
-Š
-
-1404/07/1914:06æ¨Ç"ToCa.Gg*ØªÙˆÚ©Ø§20.001072:124.38A¸…ëQø>ÀH‰µAR=https://s2.coinmarketcap.com/static/img/coins/64x64/38289.png
-¨
-
-1404/07/1914:05Ôå¨Ç"	SafeBlast*Ø³ÛŒÙ Ø¨Ù„Ø§Ø³Øª20.000000006046365544248001:0.000702A¸…ëQ¸®?H¿ä@R<https://s2.coinmarketcap.com/static/img/coins/64x64/9967.png
-’
-
-1404/07/1914:06æ¨Ç"TypeAI*ØªØ§ÛŒÙ¾ Ø§ÛŒâ€ŒØ¢ÛŒ20.1052:12206Afffff¦0ÀH™@R=https://s2.coinmarketcap.com/static/img/coins/64x64/29106.png
-´
-
-1404/07/1914:05Ôå¨Ç"Acolyte by Virtuals*&Ø§Ú©ÙˆÙ„Ø§ÛŒØª Ø¨Ø§ÛŒ ÙˆÛŒØ±Ú†ÙˆØ§Ù„Ø²20.001084:125.83A®Gáz.;ÀH‹@R=https://s2.coinmarketcap.com/static/img/coins/64x64/35150.png
-†
-
-1404/07/1914:05Ôå¨Ç"Nodle*Ù†ÙˆØ¯Ù„20.000189:21.91A¤p=
-×##ÀHàİ?R<https://s2.coinmarketcap.com/static/img/coins/64x64/6837.png
-³
-
-1404/07/1914:05Ôå¨Ç"Broccoli (broccolibnb.org)*Ø¨Ø±ÙˆÚ©Ù„ÛŒ (broccolibnb.org)20.005656:656.37AÍÌÌÌÌÌÀHÈİ?R=https://s2.coinmarketcap.com/static/img/coins/64x64/35761.png
-†
-
-1404/07/1914:05Ôå¨Ç"Netvrk*
-Ù†ØªÙˆØ±Ú©20.0104:1210Aš™™™™0ÀH·Ï?R<https://s2.coinmarketcap.com/static/img/coins/64x64/9954.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Mdex*Ø§Ù…â€ŒØ¯Ú©Ø³20.001096:127.22Afffffæ,ÀH¡Ê?R<https://s2.coinmarketcap.com/static/img/coins/64x64/8335.png
-
-
-1404/07/1914:05Ôå¨Ç"TopGoal*ØªØ§Ù¾ Ú¯Ù„20.001913:222.03A33333³8ÀH©¿?R=https://s2.coinmarketcap.com/static/img/coins/64x64/11198.png
-—
-
-1404/07/1914:06æ¨Ç"
-Rifampicin*Ø±ÛŒÙØ§Ù…Ù¾Ø³ÛŒÙ†20.001031:119.60A     @BÀH—ğ>R=https://s2.coinmarketcap.com/static/img/coins/64x64/34089.png
-„
-
-1404/07/1914:05Ôå¨Ç"END*Ø§Ù†Ø¯20.008522:988.95A…ëQ¸-ÀH©ë>R=https://s2.coinmarketcap.com/static/img/coins/64x64/36969.png
-¤
-
-1404/07/1914:06æ¨Ç"Multiple Network*Ù…Ø§Ù„ØªÛŒÙ¾Ù„ Ù†ØªÙˆØ±Ú©20.001166:135.34A\Âõ(\<ÀHñÑ>R=https://s2.coinmarketcap.com/static/img/coins/64x64/38168.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Neurai*
-Ù†ÙˆØ±Ø§ÛŒ20.000104:12.06A®Gáz.+ÀHĞ>R=https://s2.coinmarketcap.com/static/img/coins/64x64/27195.png
-
-
-1404/07/1914:06æ¨Ç"Redacted*Ø±ÛŒØ¯Ú©ØªØ¯20.004443:515.57AìQ¸…k6ÀH€Ï>R=https://s2.coinmarketcap.com/static/img/coins/64x64/36419.png
-š
-
-1404/07/1914:06æ¨Ç"Project Merlin*Ù¾Ø±ÙˆÚ˜Ù‡ Ù…Ø±Ù„ÛŒÙ†20.0165:1919AHáz®Ç7ÀHºÉ>R=https://s2.coinmarketcap.com/static/img/coins/64x64/38377.png
-¤
-
-1404/07/1914:06æ¨Ç"BlockVault Token*Ø¨Ù„Ø§Ú©â€ŒÙˆØ§Ù„Øª ØªÙˆÚ©Ù†20.4124:47855A®Gáz.6ÀHÀ>R=https://s2.coinmarketcap.com/static/img/coins/64x64/37587.png
-Š
-
-1404/07/1914:06æ¨Ç"OAX*Ø§ÙˆØ§ÛŒâ€ŒØ§Ú©Ø³20.0107:1239Affffff#ÀHèµ>R<https://s2.coinmarketcap.com/static/img/coins/64x64/1853.png
-§
-
-1404/07/1914:05Ôå¨Ç"Wall Street Memes*ÙˆØ§Ù„ Ø§Ø³ØªØ±ÛŒØª Ù…ÛŒÙ…Ø²20.000543:62.98A33333³,ÀH¢®>R=https://s2.coinmarketcap.com/static/img/coins/64x64/28179.png
-§
-
-1404/07/1914:05Ôå¨Ç"Waves Enterprise*ÙˆÛŒÙˆØ² Ø§ÛŒÙ†ØªØ±Ù¾Ø±Ø§ÛŒØ²20.004529:525.64A
-×£p=Š(@Hè™>R<https://s2.coinmarketcap.com/static/img/coins/64x64/5159.png
-
-
-1404/07/1914:06æ¨Ç"nomnom*Ù†Ø§Ù…â€ŒÙ†Ø§Ù…20.001049:121.79A=
-×£p½/ÀHğù=R=https://s2.coinmarketcap.com/static/img/coins/64x64/32611.png
-«
-
-1404/07/1914:06æ¨Ç"Cakepie XYZ*(Ú©ÛŒÚ©â€ŒÙ¾Ø§ÛŒ Ø§ÛŒÚ©Ø³â€ŒÙˆØ§ÛŒâ€ŒØ²Ø¯20.5179:60105A®Gáz”!ÀHı÷=R=https://s2.coinmarketcap.com/static/img/coins/64x64/28948.png
-
-
-1404/07/1914:05Ôå¨Ç"Matr1x*Ù…ØªØ±ÛŒÚ©Ø³ Û±20.007738:897.98A…ëQ¸…-ÀHœÒ=R=https://s2.coinmarketcap.com/static/img/coins/64x64/32506.png
-‘
-
-1404/07/1914:05Ôå¨Ç"moonpig*Ù…ÙˆÙ†â€ŒÙ¾ÛŒÚ¯20.001010:117.21A\Âõ(œ4ÀHÒ=R=https://s2.coinmarketcap.com/static/img/coins/64x64/36415.png
-œ
-
-1404/07/1914:06æ¨Ç"Asterix Labs*Ø§Ø³ØªØ±ÛŒÚ©Ø³ Ù„Ø¨Ø²2100.97:11717785A®Gáz®0ÀH¶Ğ=R=https://s2.coinmarketcap.com/static/img/coins/64x64/29387.png
-Œ
-
-1404/07/1914:06æ¨Ç"Janitor*
-Ø¬Ù†ÛŒØªØ±20.001003:116.35AÃõ(\‚6ÀH¾˜=R=https://s2.coinmarketcap.com/static/img/coins/64x64/36725.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Flixxo*ÙÙ„ÛŒÚ©Ø³Ùˆ20.0119:1377AìQ¸…ë±?HĞ†=R<https://s2.coinmarketcap.com/static/img/coins/64x64/2231.png
-˜
-
-1404/07/1914:05Ôå¨Ç"
-AGON Agent*Ø¢Ú¯ÙˆÙ† Ø§ÛŒØ¬Ù†Øª20.000999:115.94A{®Gáz8ÀH¢ı<R=https://s2.coinmarketcap.com/static/img/coins/64x64/35662.png
+1404/07/1914:19œì¨Ç"Worlds First Memecoin*%ÙˆØ±Ù„Ø¯Ø² ÙØ±Ø³Øª Ù…ÛŒÙ…â€ŒÚ©ÙˆÛŒÙ†20.001098:127.25Afffff¦<ÀH³CR=https://s2.coinmarketcap.com/static/img/coins/64x64/38314.png
 ¦
 
-1404/07/1914:05Ôå¨Ç"AIT Protocol*Ø§ÛŒâ€ŒØ¢ÛŒâ€ŒØªÛŒ Ù¾Ø±ÙˆØªÚ©Ù„20.003374:391.61AÂõ(\#ÀHŠñ<R=https://s2.coinmarketcap.com/static/img/coins/64x64/28882.png
- 
-
-1404/07/1914:05Ôå¨Ç"BEPRO Network*Ø¨ÛŒâ€ŒÙ¾Ø±Ùˆ Ù†ØªÙˆØ±Ú©2
-0.00009960:11.56A¤p=
-×#%ÀHóä<R<https://s2.coinmarketcap.com/static/img/coins/64x64/5062.png
-˜
-
-1404/07/1914:05Ôå¨Ç"MonkeyLeague*Ù…Ø§Ù†Ú©ÛŒ Ù„ÛŒÚ¯20.001585:183.89A\Âõ(\$ÀHÎ¾<R=https://s2.coinmarketcap.com/static/img/coins/64x64/13011.png
-
-
-1404/07/1914:06æ¨Ç"SUNCAT*Ø³Ø§Ù†â€ŒÚ©Øª20.000991:115.00A×£p=
-6ÀH€¾<R=https://s2.coinmarketcap.com/static/img/coins/64x64/32838.png
-Ÿ
-
-1404/07/1914:05Ôå¨Ç"Ghiblification*ØºÛŒØ¨Ù„ÛŒÙÛŒÚ©ÛŒØ´Ù†20.000987:114.58A333333;ÀHô <R=https://s2.coinmarketcap.com/static/img/coins/64x64/36151.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"Kudai*
-Ú©ÙˆØ¯Ø§ÛŒ2
-0.00000987:1.1453A      ÀH¦<R=https://s2.coinmarketcap.com/static/img/coins/64x64/35236.png
-•
-
-1404/07/1914:06æ¨Ç"WeSendit*ÙˆÛŒ Ø³Ù†Ø¯ Ø§ÛŒØª20.001224:142.05A33333³&ÀH•—<R=https://s2.coinmarketcap.com/static/img/coins/64x64/20848.png
-‡
-
-1404/07/1914:06æ¨Ç"TROY*ØªØ±ÙˆÛŒ2
-0.00009837:11.42AHáz®G%@H…<R<https://s2.coinmarketcap.com/static/img/coins/64x64/5007.png
-Š
-
-1404/07/1914:06æ¨Ç"Sallar*
-Ø³Ø§Ù„Ø§Ø±20.000546:63.40A)\Âõè6ÀH±‚<R=https://s2.coinmarketcap.com/static/img/coins/64x64/33963.png
-ˆ
-
-1404/07/1914:06æ¨Ç"Reddio*Ø±Ø¯ÛŒÙˆ20.000464:53.87Aáz®Ga2ÀH¡<R=https://s2.coinmarketcap.com/static/img/coins/64x64/36634.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Palio*
-Ù¾Ø§Ù„ÛŒÙˆ20.005172:600.22AìQ¸…ëÀH¤ı;R=https://s2.coinmarketcap.com/static/img/coins/64x64/37144.png
-˜
-
-1404/07/1914:05Ôå¨Ç"
-Panda Swap*Ù¾Ø§Ù†Ø¯Ø§ Ø³ÙˆØ§Ù¾20.001089:126.37AR¸…ëQÀH”Š;R=https://s2.coinmarketcap.com/static/img/coins/64x64/29987.png
-™
-
-1404/07/1914:05Ôå¨Ç"Poolz Finance*Ù¾ÙˆÙ„Ø² ÙØ§ÛŒÙ†Ù†Ø³20.1847:21439Aš™™™™™ÀH’ƒ;R<https://s2.coinmarketcap.com/static/img/coins/64x64/8271.png
-£
-
-1404/07/1914:06æ¨Ç"Mystiko Network*Ù…ÛŒØ³ØªÛŒÚ©Ùˆ Ù†ØªÙˆØ±Ú©20.001404:162.94A¤p=
-×£:ÀHîä:R=https://s2.coinmarketcap.com/static/img/coins/64x64/30608.png
-È
-
-1404/07/1914:05Ôå¨Ç"aixCB by Virtuals*<Ø§ÛŒâ€ŒØ¢ÛŒâ€ŒØ§Ú©Ø³â€ŒØ³ÛŒâ€ŒØ¨ÛŒ ØªÙˆØ³Ø· ÙˆÛŒØ±Ú†ÙˆØ§Ù„Ø²20.000965:111.99AR¸…ë7ÀHôÁ:R=https://s2.coinmarketcap.com/static/img/coins/64x64/34552.png
-©
-
-1404/07/1914:05Ôå¨Ç"TTcoin Network*!ØªÛŒâ€ŒØªÛŒâ€ŒÚ©ÙˆÛŒÙ† Ù†ØªÙˆØ±Ú©20.000195:22.60A=
-×£p=ÀH‚¼:R=https://s2.coinmarketcap.com/static/img/coins/64x64/12532.png
-”
-
-1404/07/1914:05Ôå¨Ç"ILCOIN*Ø¢ÛŒâ€ŒØ§Ù„ Ú©ÙˆÛŒÙ†20.000932:108.16A¤p=
-×£ÀHµº:R<https://s2.coinmarketcap.com/static/img/coins/64x64/3617.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Cipher*
-Ø³Ø§ÛŒÙØ±20.000148:17.12AìQ¸…ë@Hö:R=https://s2.coinmarketcap.com/static/img/coins/64x64/17545.png
-™
-
-1404/07/1914:05Ôå¨Ç"
-Omax Token*Ø§ÙˆÙ…Ø§Ú©Ø³ ØªÙˆÚ©Ù†20.000110:12.75Affffff)ÀHŞ:R=https://s2.coinmarketcap.com/static/img/coins/64x64/13916.png
-—
-
-1404/07/1914:05Ôå¨Ç"JetTon Game*Ø¬Øªâ€ŒØªÙˆÙ† Ú¯ÛŒÙ…20.1172:13601Aq=
-×£ğ$ÀHß…:R=https://s2.coinmarketcap.com/static/img/coins/64x64/27894.png
-‚
-
-1404/07/1914:05Ôå¨Ç"SYL*Ø³ÛŒÙ„20.000123:14.26Aáz®Gá!ÀHæü9R<https://s2.coinmarketcap.com/static/img/coins/64x64/9180.png
-“
-
-1404/07/1914:05Ôå¨Ç"RabbitX*Ø±Ø¨ÛŒØª Ø§ÛŒÚ©Ø³20.001081:125.48Aö(\Â5BÀHåõ9R=https://s2.coinmarketcap.com/static/img/coins/64x64/24792.png
-’
-
-1404/07/1914:05Ôå¨Ç"	Seedworld*Ø³ÛŒØ¯ ÙˆØ±Ù„Ø¯20.000172:19.97Aáz®Ga2ÀH½ó9R=https://s2.coinmarketcap.com/static/img/coins/64x64/33571.png
-€
-
-1404/07/1914:05Ôå¨Ç"Geeq*Ø¬ÛŒÚ©20.0246:2854Aš™™™™™,ÀH–è9R<https://s2.coinmarketcap.com/static/img/coins/64x64/6194.png
-¬
-
-1404/07/1914:05Ôå¨Ç"Woman Yelling At Cat*ÙˆÙˆÙ…Ù† ÛŒÙ„ÛŒÙ†Ú¯ Ø§Øª Ú©Øª20.000952:110.51A¸…ëQø5ÀHéÄ9R=https://s2.coinmarketcap.com/static/img/coins/64x64/35282.png
-¢
-
-1404/07/1914:05Ôå¨Ç"Engines of Fury*Ø§Ù†Ø¬ÛŒÙ†Ø² Ø¢Ù ÙÛŒÙˆØ±ÛŒ20.0195:2266AHáz®1ÀHˆœ9R=https://s2.coinmarketcap.com/static/img/coins/64x64/17607.png
-
-
-1404/07/1914:06æ¨Ç"	Mubarakah*Ù…Ø¨Ø§Ø±Ú©Ù‡20.000937:108.73A…ëQ¸4ÀHµ—9R=https://s2.coinmarketcap.com/static/img/coins/64x64/36121.png
-…
-
-1404/07/1914:05Ôå¨Ç"HOME3*	Ù‡ÙˆÙ… Û³20.0112:1302A…ëQ¸^2ÀH‘Š9R=https://s2.coinmarketcap.com/static/img/coins/64x64/31708.png
-•
-
-1404/07/1914:05Ôå¨Ç"	Carnomaly*Ú©Ø§Ø±Ù†ÙˆÙ…Ø§Ù„ÛŒ20.000580:67.28AÍÌÌÌÌL(ÀHíû8R=https://s2.coinmarketcap.com/static/img/coins/64x64/21704.png
-Š
-
-1404/07/1914:06æ¨Ç"Cashaa*
-Ú©Ø§Ø´Ø§Ø¢20.000924:107.27A®GázT0ÀHŒµ8R<https://s2.coinmarketcap.com/static/img/coins/64x64/2529.png
-‡
-
-1404/07/1914:05Ôå¨Ç"BOMO*Ø¨ÙˆÙ…Ùˆ20.002420:280.88AR¸…ëQ,ÀHŸ¤8R=https://s2.coinmarketcap.com/static/img/coins/64x64/37343.png
-‡
-
-1404/07/1914:06æ¨Ç"Burn*Ø¨Ø±Ù†2
-0.00000485:0.5630A®Gáz®ÀHê8R=https://s2.coinmarketcap.com/static/img/coins/64x64/19755.png
-‘
-
-1404/07/1914:05Ôå¨Ç"LandWolf*Ù„Ù†Ø¯ ÙˆÙ„Ù2
-0.00009211:10.69A{®Gáz´?Hùš8R=https://s2.coinmarketcap.com/static/img/coins/64x64/31847.png
-œ
-
-1404/07/1914:05Ôå¨Ç"Silly Dragon*Ø³ÛŒÙ„ÛŒ Ø¯Ø±Ø§Ú¯ÙˆÙ†20.000913:105.92Afffffæ'ÀHšÚ7R=https://s2.coinmarketcap.com/static/img/coins/64x64/28789.png
-„
-
-1404/07/1914:05Ôå¨Ç"BIG*Ø¨ÛŒÚ¯20.000909:105.52A×£p=
-×+ÀHË¿7R=https://s2.coinmarketcap.com/static/img/coins/64x64/34347.png
-
-
-1404/07/1914:05Ôå¨Ç"BlueMove*Ø¨Ù„Ùˆ Ù…ÙˆÙˆ20.004169:483.85A333333>ÀHÓ¬7R=https://s2.coinmarketcap.com/static/img/coins/64x64/23359.png
-‡
-
-1404/07/1914:05Ôå¨Ç"KISSAN*
-Ú©ÛŒØ³Ø§Ù†20.0424:4917A{®GázÀH÷7R=https://s2.coinmarketcap.com/static/img/coins/64x64/21071.png
-Ÿ
-
-1404/07/1914:05Ôå¨Ç"America Party*Ø¢Ù…Ø±ÛŒÚ©Ø§ Ù¾Ø§Ø±ØªÛŒ20.000905:104.97A{®Gáz+ÀHîš7R=https://s2.coinmarketcap.com/static/img/coins/64x64/37221.png
-¥
-
-1404/07/1914:05Ôå¨Ç"Aimonica Brands*Ø¢ÛŒÙ…ÙˆÙ†ÛŒÚ©Ø§ Ø¨Ø±Ù†Ø¯Ø²20.000904:104.94Aö(\Âõ2ÀHÍ˜7R=https://s2.coinmarketcap.com/static/img/coins/64x64/34590.png
-Ÿ
-
-1404/07/1914:05Ôå¨Ç"Assisterr AI*Ø§Ø³Ø³ÛŒØ³ØªØ± Ø§ÙÛŒâ€ŒØ¢ÛŒ20.0614:7123AÍÌÌÌÌÌ#ÀHùâ6R=https://s2.coinmarketcap.com/static/img/coins/64x64/36619.png
-›
-
-1404/07/1914:05Ôå¨Ç"	ACA Token*Ø§ÛŒâ€ŒØ³ÛŒâ€ŒØ§ÛŒ ØªÙˆÚ©Ù†20.0189:2193AÂõ(\8ÀH÷Î6R=https://s2.coinmarketcap.com/static/img/coins/64x64/13626.png
-š
-
-1404/07/1914:05Ôå¨Ç"OpenLeverage*Ø§ÙˆÙ¾Ù† Ù„ÙˆØ±ÛŒØ¬20.004735:549.51AÂõ(\@HıÁ6R=https://s2.coinmarketcap.com/static/img/coins/64x64/20719.png
-¢
-
-1404/07/1914:06æ¨Ç"Baby Shark Meme*Ø¨ÛŒØ¨ÛŒ Ø´Ø§Ø±Ú© Ù…ÛŒÙ…20.001050:121.84Aáz®G¡7ÀHÃ¶6R=https://s2.coinmarketcap.com/static/img/coins/64x64/35048.png
-¨
-
-1404/07/1914:05Ôå¨Ç"Smart Layer Network*Ø§Ø³Ù…Ø§Ø±Øª Ù„ÛŒØ± Ù†ØªÙˆØ±Ú©20.0223:2584A¸…ëQ82ÀHÃª6R=https://s2.coinmarketcap.com/static/img/coins/64x64/29482.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Torum*
-ØªÙˆØ±ÙˆÙ…20.004568:530.11A®Gáz®ÀHÖ6R=https://s2.coinmarketcap.com/static/img/coins/64x64/10421.png
-¥
-
-1404/07/1914:05Ôå¨Ç"Vectorspace AI*!ÙˆÚ©ØªÙˆØ± Ø§Ø³Ù¾ÛŒØ³ Ø§ÛŒâ€ŒØ¢ÛŒ20.0177:2049Aš™™™™™@H§Ş5R<https://s2.coinmarketcap.com/static/img/coins/64x64/4441.png
-†
-
-1404/07/1914:05Ôå¨Ç"Umee*ÛŒÙˆÙ…ÛŒ20.000221:25.60A®GázÀHÔÑ5R=https://s2.coinmarketcap.com/static/img/coins/64x64/16389.png
-–
-
-1404/07/1914:05Ôå¨Ç"
-Bombcrypto*Ø¨Ø§Ù…Ø¨ Ú©Ø±ÛŒÙ¾ØªÙˆ20.0111:1290A®Gáz.+ÀHçË5R=https://s2.coinmarketcap.com/static/img/coins/64x64/12252.png
-
-
-1404/07/1914:06æ¨Ç"Realis Worlds*Ø±ÛŒÛŒÙ„Ø² ÙˆØ±Ù„Ø¯Ø²20.000877:101.83A®GázT4ÀH¡Ç5R=https://s2.coinmarketcap.com/static/img/coins/64x64/34548.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Abyss*Ø§Ø¨ÛŒØ³20.003826:444.01A…ëQ¸%ÀH‘½5R<https://s2.coinmarketcap.com/static/img/coins/64x64/2847.png
-
-
-1404/07/1914:05Ôå¨Ç"Areon Network*Ø¢Ø±Ø¦ÙˆÙ† Ù†ØªÙˆØ±Ú©20.007428:862.05Aq=
-×£01ÀHé·5R=https://s2.coinmarketcap.com/static/img/coins/64x64/23262.png
-‹
-
-1404/07/1914:05Ôå¨Ç"UPTOP*Ø¢Ù¾ ØªØ§Ù¾20.004159:482.63Aö(\Â55ÀH‹§5R=https://s2.coinmarketcap.com/static/img/coins/64x64/37409.png
-
-
-1404/07/1914:05Ôå¨Ç"RChain*Ø¢Ø± Ú†ÛŒÙ†2
-0.00001021:1.1850A¸…ëQ¸®?H¸5R<https://s2.coinmarketcap.com/static/img/coins/64x64/2135.png
-¥
-
-1404/07/1914:05Ôå¨Ç"Circuits of Value*Ø³ÛŒØ±Ú©ÛŒØªØ³ Ø¢Ù ÙˆÙ„ÛŒÙˆ20.000485:56.31A
-×£p=Š7ÀHüí4R;https://s2.coinmarketcap.com/static/img/coins/64x64/788.png
-—
-
-1404/07/1914:05Ôå¨Ç"GhibliCZ*Ú¯ÛŒØ¨Ù„ÛŒ Ø³ÛŒ Ø²ÛŒ20.000996:115.54A33333³7ÀH‘æ4R=https://s2.coinmarketcap.com/static/img/coins/64x64/36186.png
-µ
-
-1404/07/1914:05Ôå¨Ç"TQQQ tokenized ETF (xStock)* ETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ TQQQ297.58:11324360AR¸…ëQ$ÀHìÚ4R=https://s2.coinmarketcap.com/static/img/coins/64x64/37044.png
-¼
-
-1404/07/1914:05Ôå¨Ç"Baby Neiro BNB*&Ø¨ÛŒØ¨ÛŒ Ù†ÛŒØ±ÙˆÙ† Ø¨ÛŒâ€ŒØ§Ù†â€ŒØ¨ÛŒ20.000000000002053743705186:0A…ëQ¸$ÀHìÒ4R=https://s2.coinmarketcap.com/static/img/coins/64x64/33520.png
-Ÿ
-
-1404/07/1914:05Ôå¨Ç"Gremly*
-Ú¯Ø±Ù…Ù„ÛŒ20.000000002093120453714235:0.000243A®Gáz”8ÀHÉË4R=https://s2.coinmarketcap.com/static/img/coins/64x64/36729.png
-š
-
-1404/07/1914:05Ôå¨Ç"Tranche Finance*ØªØ±Ù†Ú† ÙØ§ÛŒÙ†Ù†Ø³20.0427:4956A®Gáz®$ÀH¢‘4R<https://s2.coinmarketcap.com/static/img/coins/64x64/8637.png
-ƒ
-
-1404/07/1914:05Ôå¨Ç"Ghost*Ú¯ÙˆØ³Øª20.0302:3510Aáz®Ga2ÀH©æ3R<https://s2.coinmarketcap.com/static/img/coins/64x64/5471.png
-’
-
-1404/07/1914:05Ôå¨Ç"Sinverse*Ø³ÛŒÙ†â€ŒÙˆØ±Ø³20.001015:117.79Aáz®Ga.ÀH¿ä3R=https://s2.coinmarketcap.com/static/img/coins/64x64/12813.png
-…
-
-1404/07/1914:05Ôå¨Ç"Peng*Ù¾Ù†Ú¯20.008474:983.38A=
-×£p}6ÀH’Ü3R=https://s2.coinmarketcap.com/static/img/coins/64x64/29787.png
-•
-
-1404/07/1914:06æ¨Ç"	BIDZ Coin*Ø¨ÛŒØ¯Ø² Ú©ÙˆÛŒÙ†20.000997:115.67A)\Âõ¨"ÀHˆÛ3R=https://s2.coinmarketcap.com/static/img/coins/64x64/24532.png
-†
-
-1404/07/1914:05Ôå¨Ç"Hatom*
-Ù‡Ø§ØªÙˆÙ…20.0506:5873Afffffæ3ÀHİ½3R=https://s2.coinmarketcap.com/static/img/coins/64x64/27686.png
-˜
-
-1404/07/1914:05Ôå¨Ç"Crust Network*Ú©Ø±Ø§Ø³Øª Ù†ØªÙˆØ±Ú©20.0591:6855A×£p=
-W4ÀHñü2R<https://s2.coinmarketcap.com/static/img/coins/64x64/6747.png
-Š
-
-1404/07/1914:05Ôå¨Ç"ETHAX*
-Ø§ØªØ§Ú©Ø³20.006132:711.61A
-×£p=
-CÀHòù2R=https://s2.coinmarketcap.com/static/img/coins/64x64/20090.png
-¢
-
-1404/07/1914:06æ¨Ç"Atomic Wallet Coin*Ø§ØªÙ…ÛŒÚ© ÙˆÙ„Øª Ú©ÙˆÛŒÙ†20.0786:9118AìQ¸…ëÀH‘í2R<https://s2.coinmarketcap.com/static/img/coins/64x64/3667.png
-€
-
-1404/07/1914:05Ôå¨Ç"Tap*ØªÙ¾20.000676:78.42A®Gáz%ÀH ç2R<https://s2.coinmarketcap.com/static/img/coins/64x64/5070.png
-¤
-
-1404/07/1914:05Ôå¨Ç"The Next Bitcoin*Ù†Ú©Ø³Øª Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†20.000832:96.50A\Âõ(\9ÀHÙÚ2R=https://s2.coinmarketcap.com/static/img/coins/64x64/35774.png
-’
-
-1404/07/1914:06æ¨Ç"VelasPad*ÙˆÙ„Ø§Ø³â€ŒÙ¾Ø¯20.003304:383.48Aq=
-×£ğ(ÀHª¹2R=https://s2.coinmarketcap.com/static/img/coins/64x64/11654.png
-
-
-1404/07/1914:05Ôå¨Ç"Cosplay Token*Ú©Ø§Ø³Ù¾Ù„ÛŒ ØªÙˆÚ©Ù†20.002088:242.31AÃõ(\ÂÀHí 2R=https://s2.coinmarketcap.com/static/img/coins/64x64/19621.png
-Ÿ
-
-1404/07/1914:05Ôå¨Ç"
-Buying.com*Ø¨Ø§ÛŒÛŒÙ†Ú¯ Ø¯Ø§Øª Ú©Ø§Ù…20.002481:287.89AHáz®G#ÀH«2R=https://s2.coinmarketcap.com/static/img/coins/64x64/11750.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Messiah*Ù…Ø³ÛŒØ­20.1137:13196A¸…ëQx5ÀH´œ2R=https://s2.coinmarketcap.com/static/img/coins/64x64/37577.png
-œ
-
-1404/07/1914:05Ôå¨Ç"Urolithin A*Ø§ÙˆØ±ÙˆÙ„ÛŒØªÛŒÙ† Ø§ÛŒ20.000823:95.52AR¸…ë‘5ÀH—›2R=https://s2.coinmarketcap.com/static/img/coins/64x64/34090.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"TenUp*	ØªÙ† Ø¢Ù¾20.007801:905.33A)\Âõ(#ÀH–2R<https://s2.coinmarketcap.com/static/img/coins/64x64/4411.png
-”
-
-1404/07/1914:05Ôå¨Ç"	DeFiChain*Ø¯ÛŒÙØ§ÛŒ Ú†ÛŒÙ†20.000989:114.82AÂõ(\ÀHÎ‡2R<https://s2.coinmarketcap.com/static/img/coins/64x64/5804.png
-¤
-
-1404/07/1914:06æ¨Ç"Seascape Crowns*Ø³ÛŒâ€ŒØ§Ø³Ú©ÛŒÙ¾ Ú©Ø±Ø§ÙˆÙ†Ø²20.1070:12418A…ëQ¸E1ÀHâ÷1R<https://s2.coinmarketcap.com/static/img/coins/64x64/8365.png
-œ
-
-1404/07/1914:06æ¨Ç"XCAD Network*Ø§ÛŒÚ©Ø³â€ŒÚ©Ø¯ Ù†ØªÙˆØ±Ú©20.0171:1988AÂõ(\Ï2ÀHÕò1R<https://s2.coinmarketcap.com/static/img/coins/64x64/9868.png
-¢
-
-1404/07/1914:05Ôå¨Ç"
-Sperax USD*Ø§Ø³Ù¾Ø±Ú©Ø³ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0115:117380A)\Âõ(ÀH¿ç1R=https://s2.coinmarketcap.com/static/img/coins/64x64/17285.png
+1404/07/1914:19œì¨Ç"Welshcorgicoin*ÙˆÙ„Ø´â€ŒÚ©ÙˆØ±Ú¯ÛŒâ€ŒÚ©ÙˆÛŒÙ†20.000109:12.64AÍÌÌÌÌL:ÀHÌBR=https://s2.coinmarketcap.com/static/img/coins/64x64/29079.png
 ¡
 
-1404/07/1914:06æ¨Ç"Sentio Protocol*Ø³Ù†ØªÙŠÙˆ Ù¾Ø±ÙˆØªÚ©Ù„20.008318:965.32A®GázÔ5ÀHÉà1R=https://s2.coinmarketcap.com/static/img/coins/64x64/34916.png
+1404/07/1914:19œì¨Ç"FOMO (fomo.fund)*ÙÙˆÙ…Ùˆ (fomo.fund)2
+0.00001091:1.2640A=
+×£p½0ÀHÊÊBR=https://s2.coinmarketcap.com/static/img/coins/64x64/34754.png
 
 
-1404/07/1914:05Ôå¨Ç"Frontier*ÙØ±Ø§Ù†ØªÛŒØ±20.1050:12180A     `QÀH‰Ü1R<https://s2.coinmarketcap.com/static/img/coins/64x64/5893.png
-–
-
-1404/07/1914:05Ôå¨Ç"	EXMO Coin*Ø§Ú©Ø³Ù…Ùˆ Ú©ÙˆÛŒÙ†20.007556:876.85A      ÀH¨Â1R<https://s2.coinmarketcap.com/static/img/coins/64x64/4974.png
-›
-
-1404/07/1914:06æ¨Ç"Polkamarkets*Ù¾ÙˆÙ„Ú©Ø§ Ù…Ø§Ø±Ú©ØªØ³20.008821:1024Affffff ÀHåÁ1R<https://s2.coinmarketcap.com/static/img/coins/64x64/8579.png
-™
-
-1404/07/1914:05Ôå¨Ç"Courage The Dog*Ú©ÙˆØ±Ø¬ Ø¯ Ø¯Ú¯20.000808:93.75A=
-×£p}5ÀH´§1R=https://s2.coinmarketcap.com/static/img/coins/64x64/36730.png
+1404/07/1914:19œì¨Ç"Octokn*Ø§Ú©ØªØ§Ú©Ù†20.002213:256.39AR¸…ë3ÀHíBR=https://s2.coinmarketcap.com/static/img/coins/64x64/24381.png
 ˆ
 
-1404/07/1914:06æ¨Ç"LAMBO*Ù„Ù…Ø¨Ùˆ2
-0.00008048:9.34A{®Gáz@ÀH£1R=https://s2.coinmarketcap.com/static/img/coins/64x64/36807.png
+1404/07/1914:19œì¨Ç"Caila*Ú©ÛŒÙ„Ø§20.001113:128.98AìQ¸…ë-ÀHÑBR=https://s2.coinmarketcap.com/static/img/coins/64x64/36577.png
 ’
 
-1404/07/1914:05Ôå¨Ç"	Tron Bull*ØªØ±ÙˆÙ† Ø¨ÙˆÙ„20.000803:93.18A¸…ëQ84ÀH1R=https://s2.coinmarketcap.com/static/img/coins/64x64/32964.png
-¤
-
-1404/07/1914:06æ¨Ç"Pussy Financial*Ù¾ÙˆØ³ÛŒ ÙØ§ÛŒÙ†Ù†Ø´Ø§Ù„2
-0.00000487:0.5653A     €+ÀH½ı0R<https://s2.coinmarketcap.com/static/img/coins/64x64/9639.png
-ƒ
-
-1404/07/1914:05Ôå¨Ç"Gains*Ú¯ÛŒÙ†Ø²20.0207:2400Afffffæ'ÀHÀê0R<https://s2.coinmarketcap.com/static/img/coins/64x64/9125.png
-¹
-
-1404/07/1914:05Ôå¨Ç"#Kekius Maximus (kekiusmaximus.army)*Ú©ÛŒÚ©ÛŒÙˆØ³ Ù…Ú©Ø³ÛŒÙ…ÙˆØ³20.000886:102.82Aáz®Ga!ÀHÉè0R=https://s2.coinmarketcap.com/static/img/coins/64x64/35091.png
-œ
-
-1404/07/1914:05Ôå¨Ç"Mirror Protocol*Ù…ÛŒØ±ÙˆØ± Ù¾Ø±ÙˆØªÚ©Ù„20.0103:1194AÃõ(\Â'ÀHÔç0R<https://s2.coinmarketcap.com/static/img/coins/64x64/7857.png
-œ
-
-1404/07/1914:05Ôå¨Ç"Forj(Bondly)*ÙÙˆØ±Ø¬ (Ø¨Ø§Ù†Ø¯Ù„ÛŒ)20.000809:93.92A      ÀH¦Ë0R<https://s2.coinmarketcap.com/static/img/coins/64x64/7931.png
+1404/07/1914:20Øì¨Ç"Klaydice*Ú©Ù„ÛŒ Ø¯Ø§ÛŒØ³20.002388:276.67AÃõ(\ÂÀHÌæAR=https://s2.coinmarketcap.com/static/img/coins/64x64/21262.png
  
 
-1404/07/1914:05Ôå¨Ç"LandX Finance*Ù„Ù†Ø¯ Ø§ÛŒÚ©Ø³ ÙØ§ÛŒÙ†Ù†Ø³20.0562:6525AìQ¸…ë(ÀH×Ç0R=https://s2.coinmarketcap.com/static/img/coins/64x64/29386.png
-¬
-
-1404/07/1914:06æ¨Ç"AS Monaco Fan Token*!Ø¢Ø§Ø³ Ù…ÙˆÙ†Ø§Ú©Ùˆ ÙÙ† ØªÙˆÚ©Ù†20.1486:17250A…ëQ¸)ÀHŞÄ0R=https://s2.coinmarketcap.com/static/img/coins/64x64/22766.png
-
-
-1404/07/1914:06æ¨Ç"Everdome*
-Ø§ÙˆØ±Ø¯Ù…2
-0.00004185:4.86AÍÌÌÌÌL"ÀHšÄ0R=https://s2.coinmarketcap.com/static/img/coins/64x64/16432.png
-§
-
-1404/07/1914:05Ôå¨Ç"Eliza (elizawakesup)*Ø§Ù„ÛŒØ²Ø§ (elizawakesup)20.000793:92.05Aš™™™™3ÀH¿´0R=https://s2.coinmarketcap.com/static/img/coins/64x64/34078.png
-”
-
-1404/07/1914:05Ôå¨Ç"	Kromatika*Ú©Ø±ÙˆÙ…Ø§ØªÛŒÚ©Ø§20.009842:1142Aš™™™™-ÀH‚0R=https://s2.coinmarketcap.com/static/img/coins/64x64/14745.png
-È
-
-1404/07/1914:05Ôå¨Ç"AbbVie tokenized stock (xStock)*.Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø§ÙØ¨â€ŒÙˆÛŒ2231.64:26882187AÍÌÌÌÌÌì¿H‚‰0R=https://s2.coinmarketcap.com/static/img/coins/64x64/37011.png
-”
-
-1404/07/1914:05Ôå¨Ç"PolkaFoundry*Ù¾ÙˆÙ„Ú©Ø§ ÙØ§Ù†Ø¯Ø±ÛŒ20.006856:795.67H·ÿ/R<https://s2.coinmarketcap.com/static/img/coins/64x64/8617.png
-—
-
-1404/07/1914:06æ¨Ç"	Robinhood*Ø±Ø§Ø¨ÛŒÙ†â€ŒÙ‡ÙˆØ¯2
-0.00001757:2.04A333333*ÀH…ã/R=https://s2.coinmarketcap.com/static/img/coins/64x64/35566.png
-
-
-1404/07/1914:05Ôå¨Ç"QSTAY*Ú©ÛŒÙˆâ€ŒØ§Ø³ØªÛŒ20.000783:90.82A{®Gáº4ÀHÑá/R=https://s2.coinmarketcap.com/static/img/coins/64x64/38218.png
-•
-
-1404/07/1914:05Ôå¨Ç"
-Elderglade*Ø§Ú†Ø¯Ø±Ú¯Ù„ÛŒØ¯20.005275:612.21Aö(\Âõ*ÀHïÔ/R=https://s2.coinmarketcap.com/static/img/coins/64x64/36379.png
-—
-
-1404/07/1914:06æ¨Ç"
-EPIK Prime*Ø§Ù¾ÛŒÚ© Ù¾Ø±Ø§ÛŒÙ…20.000608:70.51A\Âõ(\ÀH…Å/R=https://s2.coinmarketcap.com/static/img/coins/64x64/10047.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Lumoz*
-Ù„ÙˆÙ…ÙˆØ²20.000705:81.84A…ëQ¸*ÀH¬/R=https://s2.coinmarketcap.com/static/img/coins/64x64/34499.png
-°
-
-1404/07/1914:06æ¨Ç"Caitlyn Jenner (ETH)*"Ú©ÛŒØªÙ„ÛŒÙ† Ø¬Ù†Ø± (Ø§ØªØ±ÛŒÙˆÙ…)20.000801:92.94AìQ¸…ë±?H÷’/R=https://s2.coinmarketcap.com/static/img/coins/64x64/31798.png
-“
-
-1404/07/1914:05Ôå¨Ç"	VinuChain*ÙˆÛŒÙ†Ùˆ Ú†ÛŒÙ†20.002227:258.44A¸…ëQ¸ÀH‘/R=https://s2.coinmarketcap.com/static/img/coins/64x64/28580.png
+1404/07/1914:19œì¨Ç"SelfieDogCoin*Ø³Ù„ÙÛŒ Ø¯Ø§Ú¯ Ú©ÙˆÛŒÙ†20.001092:126.47Aš™™™™™/ÀHëÅAR=https://s2.coinmarketcap.com/static/img/coins/64x64/31601.png
 š
 
-1404/07/1914:05Ôå¨Ç"
-StarryNift*Ø§Ø³ØªØ§Ø±ÛŒ Ù†ÛŒÙØª20.004127:478.95A®Gáz2ÀHú/R=https://s2.coinmarketcap.com/static/img/coins/64x64/12830.png
-
+1404/07/1914:20Øì¨Ç"	v.systems*ÙˆÛŒ Ø¯Ø§Øª Ø³ÛŒØ³ØªÙ…Ø²20.000311:36.09A…ëQ¸8ÀH¯ºAR<https://s2.coinmarketcap.com/static/img/coins/64x64/3704.png
+’
 
-1404/07/1914:05Ôå¨Ç"MahaDAO*Ù…Ø§Ù‡Ø§ Ø¯Ø§Ø¦Ùˆ20.1756:20373AÍÌÌÌÌÌ$ÀH„‡/R<https://s2.coinmarketcap.com/static/img/coins/64x64/8043.png
-‘
+1404/07/1914:19œì¨Ç"
+BarnBridge*Ø¨Ø§Ø±Ù† Ø¨Ø±ÛŒØ¬20.1356:15705A×£p=
+W+ÀH¨¹AR<https://s2.coinmarketcap.com/static/img/coins/64x64/7440.png
+Š
 
-1404/07/1914:06æ¨Ç"	Fly.trade*ÙÙ„Ø§ÛŒ ØªØ±ÛŒØ¯20.0573:6651AÃõ(\ÂÀHÂ÷.R=https://s2.coinmarketcap.com/static/img/coins/64x64/36720.png
+1404/07/1914:19œì¨Ç"ToCa.Gg*ØªÙˆÚ©Ø§20.001072:124.17A¸…ëQø>ÀH‰µAR=https://s2.coinmarketcap.com/static/img/coins/64x64/38289.png
+¨
+
+1404/07/1914:19œì¨Ç"	SafeBlast*Ø³ÛŒÙ Ø¨Ù„Ø§Ø³Øª20.000000006044767206578948:0.000700A¸…ëQ¸®?H¦â@R<https://s2.coinmarketcap.com/static/img/coins/64x64/9967.png
+’
+
+1404/07/1914:20Øì¨Ç"TypeAI*ØªØ§ÛŒÙ¾ Ø§ÛŒâ€ŒØ¢ÛŒ20.1052:12185Afffff¦0ÀH™@R=https://s2.coinmarketcap.com/static/img/coins/64x64/29106.png
+´
+
+1404/07/1914:19œì¨Ç"Acolyte by Virtuals*&Ø§Ú©ÙˆÙ„Ø§ÛŒØª Ø¨Ø§ÛŒ ÙˆÛŒØ±Ú†ÙˆØ§Ù„Ø²20.001084:125.62A®Gáz.;ÀH‹@R=https://s2.coinmarketcap.com/static/img/coins/64x64/35150.png
+†
+
+1404/07/1914:19œì¨Ç"Nodle*Ù†ÙˆØ¯Ù„20.000189:21.88AìQ¸…ë"ÀH·â?R<https://s2.coinmarketcap.com/static/img/coins/64x64/6837.png
 ‹
 
-1404/07/1914:06æ¨Ç"Element*
-Ø§Ù„Ù…Ù†Øª20.000442:51.32AHáz®‡7ÀH—ê.R=https://s2.coinmarketcap.com/static/img/coins/64x64/28368.png
-š
+1404/07/1914:19œì¨Ç"Mdex*Ø§Ù…â€ŒØ¯Ú©Ø³20.001096:126.94Aš™™™™-ÀHªÆ?R<https://s2.coinmarketcap.com/static/img/coins/64x64/8335.png
+
 
-1404/07/1914:05Ôå¨Ç"Deri Protocol*Ø¯Ø±ÛŒ Ù¾Ø±ÙˆØªÚ©Ù„20.006132:711.65A…ëQ¸…/ÀHüÕ.R<https://s2.coinmarketcap.com/static/img/coins/64x64/8424.png
-
+1404/07/1914:19œì¨Ç"TopGoal*ØªØ§Ù¾ Ú¯Ù„20.001912:221.56AìQ¸…«8ÀH¼?R=https://s2.coinmarketcap.com/static/img/coins/64x64/11198.png
+³
 
-1404/07/1914:05Ôå¨Ç"Custodiy*Ú©Ø§Ø³ØªÙˆØ¯ÛŒ21.5303:177593A{®Gáz´¿H·°.R=https://s2.coinmarketcap.com/static/img/coins/64x64/21273.png
-—
+1404/07/1914:19œì¨Ç"Broccoli (broccolibnb.org)*Ø¨Ø±ÙˆÚ©Ù„ÛŒ (broccolibnb.org)20.005630:652.21A333333ÀHË·?R=https://s2.coinmarketcap.com/static/img/coins/64x64/35761.png
+†
 
-1404/07/1914:06æ¨Ç"	Joystream*Ø¬ÙˆÛŒâ€ŒØ§Ø³ØªØ±ÛŒÙ…20.000693:80.43AffffffÀH±®.R<https://s2.coinmarketcap.com/static/img/coins/64x64/6827.png
-–
+1404/07/1914:19œì¨Ç"Netvrk*
+Ù†ØªÙˆØ±Ú©20.0104:1203A)\Âõh0ÀHø°?R<https://s2.coinmarketcap.com/static/img/coins/64x64/9954.png
+„
 
-1404/07/1914:06æ¨Ç"Memes AI*Ù…ÛŒÙ…Ø² Ø§ÛŒâ€ŒØ¢ÛŒ20.000759:88.10A®Gázî2ÀHóª.R=https://s2.coinmarketcap.com/static/img/coins/64x64/33614.png
-¢
+1404/07/1914:19œì¨Ç"END*Ø§Ù†Ø¯20.008522:987.28A…ëQ¸-ÀH©ë>R=https://s2.coinmarketcap.com/static/img/coins/64x64/36969.png
+Š
 
-1404/07/1914:05Ôå¨Ç"Hamster*
-Ù‡Ù…Ø³ØªØ±20.000000000318073453950565:
-0.00003700A=
-×£p}1ÀHØ¤.R=https://s2.coinmarketcap.com/static/img/coins/64x64/10336.png
-
+1404/07/1914:19œì¨Ç"Neurai*
+Ù†ÙˆØ±Ø§ÛŒ20.000104:12.05A{®Gáú*ÀH˜Ù>R=https://s2.coinmarketcap.com/static/img/coins/64x64/27195.png
+«
 
-1404/07/1914:05Ôå¨Ç"Algorix*Ø§Ù„Ú¯ÙˆØ±ÛŒÚ©Ø³20.0607:7040A
-×£p=
-ï?Hš.R=https://s2.coinmarketcap.com/static/img/coins/64x64/34956.png
-“
+1404/07/1914:20Øì¨Ç"Cakepie XYZ*(Ú©ÛŒÚ©â€ŒÙ¾Ø§ÛŒ Ø§ÛŒÚ©Ø³â€ŒÙˆØ§ÛŒâ€ŒØ²Ø¯20.5241:60713AìQ¸…ëÀHßÕ>R=https://s2.coinmarketcap.com/static/img/coins/64x64/28948.png
+¤
 
-1404/07/1914:05Ôå¨Ç"	LightLink*Ù„Ø§ÛŒØª Ù„ÛŒÙ†Ú©20.009242:1073A      ÀHøˆ.R=https://s2.coinmarketcap.com/static/img/coins/64x64/22943.png
-…
-
-1404/07/1914:06æ¨Ç"Chuck*Ú†Ø§Ú©20.000860:99.77Affffff#ÀH„….R=https://s2.coinmarketcap.com/static/img/coins/64x64/30619.png
-ˆ
-
-1404/07/1914:06æ¨Ç"Nyzo*
-Ù†Ø§ÛŒØ²Ùˆ20.007528:873.63A=
-×£p=@H¢ù-R<https://s2.coinmarketcap.com/static/img/coins/64x64/5155.png
-œ
-
-1404/07/1914:05Ôå¨Ç"BlackCardCoin*Ø¨Ù„Ú© Ú©Ø§Ø±Øª Ú©ÙˆÛŒÙ†20.0751:8712A     À0ÀH‘é-R=https://s2.coinmarketcap.com/static/img/coins/64x64/30544.png
-˜
-
-1404/07/1914:05Ôå¨Ç"
-BullDogito*Ø¨ÙˆÙ„ Ø¯ÙˆØ¬ÛŒØªÙˆ20.002360:273.83AHáz®G/ÀHõà-R=https://s2.coinmarketcap.com/static/img/coins/64x64/35292.png
+1404/07/1914:19œì¨Ç"BlockVault Token*Ø¨Ù„Ø§Ú©â€ŒÙˆØ§Ù„Øª ØªÙˆÚ©Ù†20.4127:47814A×£p=
+6ÀHÇ>R=https://s2.coinmarketcap.com/static/img/coins/64x64/37587.png
 Œ
 
-1404/07/1914:05Ôå¨Ç"STARS*Ø§Ø³ØªØ§Ø±Ø²2
+1404/07/1914:20Øì¨Ç"Janitor*
+Ø¬Ù†ÛŒØªØ±20.001025:118.72A®Gáz®2ÀHúÅ>R=https://s2.coinmarketcap.com/static/img/coins/64x64/36725.png
+š
+
+1404/07/1914:20Øì¨Ç"Project Merlin*Ù¾Ø±ÙˆÚ˜Ù‡ Ù…Ø±Ù„ÛŒÙ†20.0165:1913A¸…ëQ¸8ÀH°¿>R=https://s2.coinmarketcap.com/static/img/coins/64x64/38377.png
+
+
+1404/07/1914:20Øì¨Ç"Redacted*Ø±ÛŒØ¯Ú©ØªØ¯20.004430:513.23Aq=
+×£ğ6ÀHŒ¸>R=https://s2.coinmarketcap.com/static/img/coins/64x64/36419.png
+Š
+
+1404/07/1914:19œì¨Ç"OAX*Ø§ÙˆØ§ÛŒâ€ŒØ§Ú©Ø³20.0107:1236A®Gáz®%ÀHÜ³>R<https://s2.coinmarketcap.com/static/img/coins/64x64/1853.png
+§
+
+1404/07/1914:19œì¨Ç"Wall Street Memes*ÙˆØ§Ù„ Ø§Ø³ØªØ±ÛŒØª Ù…ÛŒÙ…Ø²20.000543:62.87A33333³,ÀH¢®>R=https://s2.coinmarketcap.com/static/img/coins/64x64/28179.png
+§
+
+1404/07/1914:19œì¨Ç"Waves Enterprise*ÙˆÛŒÙˆØ² Ø§ÛŒÙ†ØªØ±Ù¾Ø±Ø§ÛŒØ²20.004530:524.84A=
+×£p½(@H¡›>R<https://s2.coinmarketcap.com/static/img/coins/64x64/5159.png
+¤
+
+1404/07/1914:19œì¨Ç"Multiple Network*Ù…Ø§Ù„ØªÛŒÙ¾Ù„ Ù†ØªÙˆØ±Ú©20.001158:134.18A=
+×£p}<ÀH´š>R=https://s2.coinmarketcap.com/static/img/coins/64x64/38168.png
+œ
+
+1404/07/1914:19œì¨Ç"Asterix Labs*Ø§Ø³ØªØ±ÛŒÚ©Ø³ Ù„Ø¨Ø²2100.97:11697893A®Gáz®0ÀH¶Ğ=R=https://s2.coinmarketcap.com/static/img/coins/64x64/29387.png
+
+
+1404/07/1914:20Øì¨Ç"Matr1x*Ù…ØªØ±ÛŒÚ©Ø³ Û±20.007734:896.06Aáz®Gá,ÀHÜÎ=R=https://s2.coinmarketcap.com/static/img/coins/64x64/32506.png
+‘
+
+1404/07/1914:19œì¨Ç"moonpig*Ù…ÙˆÙ†â€ŒÙ¾ÛŒÚ¯20.001007:116.66AìQ¸…k4ÀH¢º=R=https://s2.coinmarketcap.com/static/img/coins/64x64/36415.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Flixxo*ÙÙ„ÛŒÚ©Ø³Ùˆ20.0119:1375Aš™™™™™©?H¡‰=R<https://s2.coinmarketcap.com/static/img/coins/64x64/2231.png
+¦
+
+1404/07/1914:19œì¨Ç"AIT Protocol*Ø§ÛŒâ€ŒØ¢ÛŒâ€ŒØªÛŒ Ù¾Ø±ÙˆØªÚ©Ù„20.003384:392.02A
+×£p=
+#ÀHÂ†=R=https://s2.coinmarketcap.com/static/img/coins/64x64/28882.png
+˜
+
+1404/07/1914:19œì¨Ç"
+AGON Agent*Ø¢Ú¯ÙˆÙ† Ø§ÛŒØ¬Ù†Øª20.000997:115.45A33333s8ÀHŸé<R=https://s2.coinmarketcap.com/static/img/coins/64x64/35662.png
+
+
+1404/07/1914:20Øì¨Ç"nomnom*Ù†Ø§Ù…â€ŒÙ†Ø§Ù…20.001029:119.22AÂõ(\O2ÀHòß<R=https://s2.coinmarketcap.com/static/img/coins/64x64/32611.png
+Š
+
+1404/07/1914:19œì¨Ç"Palio*
+Ù¾Ø§Ù„ÛŒÙˆ20.005220:604.78A)\Âõ(ÀHãÄ<R=https://s2.coinmarketcap.com/static/img/coins/64x64/37144.png
+ 
+
+1404/07/1914:19œì¨Ç"BEPRO Network*Ø¨ÛŒâ€ŒÙ¾Ø±Ùˆ Ù†ØªÙˆØ±Ú©2
+0.00009909:11.48AìQ¸…k&ÀH·½<R<https://s2.coinmarketcap.com/static/img/coins/64x64/5062.png
+
+
+1404/07/1914:19œì¨Ç"SUNCAT*Ø³Ø§Ù†â€ŒÚ©Øª20.000991:114.78Aáz®G¡6ÀHŒ¼<R=https://s2.coinmarketcap.com/static/img/coins/64x64/32838.png
+˜
+
+1404/07/1914:19œì¨Ç"MonkeyLeague*Ù…Ø§Ù†Ú©ÛŒ Ù„ÛŒÚ¯20.001583:183.41A
+×£p=Š$ÀH½·<R=https://s2.coinmarketcap.com/static/img/coins/64x64/13011.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Reddio*Ø±Ø¯ÛŒÙˆ20.000466:54.02A33333s1ÀHª£<R=https://s2.coinmarketcap.com/static/img/coins/64x64/36634.png
+•
+
+1404/07/1914:20Øì¨Ç"WeSendit*ÙˆÛŒ Ø³Ù†Ø¯ Ø§ÛŒØª20.001224:141.79A=
+×£p½&ÀH×‘<R=https://s2.coinmarketcap.com/static/img/coins/64x64/20848.png
+Š
+
+1404/07/1914:20Øì¨Ç"Sallar*
+Ø³Ø§Ù„Ø§Ø±20.000546:63.29A)\Âõè6ÀH±‚<R=https://s2.coinmarketcap.com/static/img/coins/64x64/33963.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"Ghiblification*ØºÛŒØ¨Ù„ÛŒÙÛŒÚ©ÛŒØ´Ù†20.000976:113.06AÍÌÌÌÌ<ÀH”Ç;R=https://s2.coinmarketcap.com/static/img/coins/64x64/36151.png
+˜
+
+1404/07/1914:19œì¨Ç"
+Panda Swap*Ù¾Ø§Ù†Ø¯Ø§ Ø³ÙˆØ§Ù¾20.001090:126.28A®Gáz®ÀH¦‘;R=https://s2.coinmarketcap.com/static/img/coins/64x64/29987.png
+Œ
+
+1404/07/1914:19œì¨Ç"Kudai*
+Ú©ÙˆØ¯Ø§ÛŒ2
+0.00000969:1.1223A®GázÀHœ;R=https://s2.coinmarketcap.com/static/img/coins/64x64/35236.png
+™
+
+1404/07/1914:19œì¨Ç"Poolz Finance*Ù¾ÙˆÙ„Ø² ÙØ§ÛŒÙ†Ù†Ø³20.1845:21376AÍÌÌÌÌÌÀHãù:R<https://s2.coinmarketcap.com/static/img/coins/64x64/8271.png
+È
+
+1404/07/1914:19œì¨Ç"aixCB by Virtuals*<Ø§ÛŒâ€ŒØ¢ÛŒâ€ŒØ§Ú©Ø³â€ŒØ³ÛŒâ€ŒØ¨ÛŒ ØªÙˆØ³Ø· ÙˆÛŒØ±Ú†ÙˆØ§Ù„Ø²20.000965:111.79A®GázT7ÀHğÁ:R=https://s2.coinmarketcap.com/static/img/coins/64x64/34552.png
+©
+
+1404/07/1914:19œì¨Ç"TTcoin Network*!ØªÛŒâ€ŒØªÛŒâ€ŒÚ©ÙˆÛŒÙ† Ù†ØªÙˆØ±Ú©20.000195:22.57A      ÀHİ½:R=https://s2.coinmarketcap.com/static/img/coins/64x64/12532.png
+Š
+
+1404/07/1914:19œì¨Ç"Cipher*
+Ø³Ø§ÛŒÙØ±20.000148:17.13AÂõ(\@H€­:R=https://s2.coinmarketcap.com/static/img/coins/64x64/17545.png
+‚
+
+1404/07/1914:19œì¨Ç"SYL*Ø³ÛŒÙ„20.000123:14.27A)\Âõ(!ÀHé:R<https://s2.coinmarketcap.com/static/img/coins/64x64/9180.png
+™
+
+1404/07/1914:19œì¨Ç"
+Omax Token*Ø§ÙˆÙ…Ø§Ú©Ø³ ØªÙˆÚ©Ù†20.000110:12.73AìQ¸…k)ÀHà:R=https://s2.coinmarketcap.com/static/img/coins/64x64/13916.png
+—
+
+1404/07/1914:19œì¨Ç"JetTon Game*Ø¬Øªâ€ŒØªÙˆÙ† Ú¯ÛŒÙ…20.1172:13579Aö(\Âõ$ÀH†:R=https://s2.coinmarketcap.com/static/img/coins/64x64/27894.png
+’
+
+1404/07/1914:19œì¨Ç"	Seedworld*Ø³ÛŒØ¯ ÙˆØ±Ù„Ø¯20.000172:19.94Aáz®Ga2ÀH¾ó9R=https://s2.coinmarketcap.com/static/img/coins/64x64/33571.png
+“
+
+1404/07/1914:19œì¨Ç"RabbitX*Ø±Ø¨ÛŒØª Ø§ÛŒÚ©Ø³20.001081:125.22A¸…ëQ8BÀHüò9R=https://s2.coinmarketcap.com/static/img/coins/64x64/24792.png
+‡
+
+1404/07/1914:19œì¨Ç"TROY*ØªØ±ÙˆÛŒ2
+0.00009477:10.98A{®Gáz!@HÒë9R<https://s2.coinmarketcap.com/static/img/coins/64x64/5007.png
+€
+
+1404/07/1914:19œì¨Ç"Geeq*Ø¬ÛŒÚ©20.0245:2840A¸…ëQ8,ÀHŒÑ9R<https://s2.coinmarketcap.com/static/img/coins/64x64/6194.png
+¬
+
+1404/07/1914:19œì¨Ç"Woman Yelling At Cat*ÙˆÙˆÙ…Ù† ÛŒÙ„ÛŒÙ†Ú¯ Ø§Øª Ú©Øª20.000952:110.29A=
+×£pı5ÀH¿Â9R=https://s2.coinmarketcap.com/static/img/coins/64x64/35282.png
+£
+
+1404/07/1914:19œì¨Ç"Mystiko Network*Ù…ÛŒØ³ØªÛŒÚ©Ùˆ Ù†ØªÙˆØ±Ú©20.001371:158.79A=
+×£p=:ÀH¥±9R=https://s2.coinmarketcap.com/static/img/coins/64x64/30608.png
+…
+
+1404/07/1914:19œì¨Ç"HOME3*	Ù‡ÙˆÙ… Û³20.0112:1300A…ëQ¸^2ÀH‘Š9R=https://s2.coinmarketcap.com/static/img/coins/64x64/31708.png
+„
+
+1404/07/1914:19œì¨Ç"BIG*Ø¨ÛŒÚ¯20.000935:108.32A®Gáz”*ÀH¢ˆ9R=https://s2.coinmarketcap.com/static/img/coins/64x64/34347.png
+•
+
+1404/07/1914:19œì¨Ç"	Carnomaly*Ú©Ø§Ø±Ù†ÙˆÙ…Ø§Ù„ÛŒ20.000580:67.16AÃõ(\B(ÀH»û8R=https://s2.coinmarketcap.com/static/img/coins/64x64/21704.png
+
+
+1404/07/1914:19œì¨Ç"	Mubarakah*Ù…Ø¨Ø§Ø±Ú©Ù‡20.000932:107.93A¸…ëQx4ÀH¾î8R=https://s2.coinmarketcap.com/static/img/coins/64x64/36121.png
+¢
+
+1404/07/1914:19œì¨Ç"Engines of Fury*Ø§Ù†Ø¬ÛŒÙ†Ø² Ø¢Ù ÙÛŒÙˆØ±ÛŒ20.0194:2242A33333³2ÀH†Û8R=https://s2.coinmarketcap.com/static/img/coins/64x64/17607.png
+Š
+
+1404/07/1914:20Øì¨Ç"Cashaa*
+Ú©Ø§Ø´Ø§Ø¢20.000924:107.07A=
+×£p½.ÀHÃ´8R<https://s2.coinmarketcap.com/static/img/coins/64x64/2529.png
+‡
+
+1404/07/1914:19œì¨Ç"Burn*Ø¨Ø±Ù†2
+0.00000485:0.5620A®Gáz®ÀHê8R=https://s2.coinmarketcap.com/static/img/coins/64x64/19755.png
+œ
+
+1404/07/1914:19œì¨Ç"Silly Dragon*Ø³ÛŒÙ„ÛŒ Ø¯Ø±Ø§Ú¯ÙˆÙ†20.000921:106.67A=
+×£p=&ÀH„™8R=https://s2.coinmarketcap.com/static/img/coins/64x64/28789.png
+‘
+
+1404/07/1914:19œì¨Ç"LandWolf*Ù„Ù†Ø¯ ÙˆÙ„Ù2
+0.00009207:10.67Aš™™™™™©?H›˜8R=https://s2.coinmarketcap.com/static/img/coins/64x64/31847.png
+¥
+
+1404/07/1914:19œì¨Ç"Vectorspace AI*!ÙˆÚ©ØªÙˆØ± Ø§Ø³Ù¾ÛŒØ³ Ø§ÛŒâ€ŒØ¢ÛŒ20.0183:2123AR¸…ëÑ"@H¹ã7R<https://s2.coinmarketcap.com/static/img/coins/64x64/4441.png
+‡
+
+1404/07/1914:19œì¨Ç"BOMO*Ø¨ÙˆÙ…Ùˆ20.002398:277.76AìQ¸…ë-ÀH¿à7R=https://s2.coinmarketcap.com/static/img/coins/64x64/37343.png
+
+
+1404/07/1914:19œì¨Ç"BlueMove*Ø¨Ù„Ùˆ Ù…ÙˆÙˆ20.004167:482.75A=
+×£p=>ÀHÈ¨7R=https://s2.coinmarketcap.com/static/img/coins/64x64/23359.png
+‡
+
+1404/07/1914:19œì¨Ç"KISSAN*
+Ú©ÛŒØ³Ø§Ù†20.0424:4911A\Âõ(\ÀH¯¡7R=https://s2.coinmarketcap.com/static/img/coins/64x64/21071.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"America Party*Ø¢Ù…Ø±ÛŒÚ©Ø§ Ù¾Ø§Ø±ØªÛŒ20.000905:104.80AÂõ(\,ÀHîš7R=https://s2.coinmarketcap.com/static/img/coins/64x64/37221.png
+¥
+
+1404/07/1914:19œì¨Ç"Aimonica Brands*Ø¢ÛŒÙ…ÙˆÙ†ÛŒÚ©Ø§ Ø¨Ø±Ù†Ø¯Ø²20.000901:104.41Aáz®Gá2ÀHÑ€7R=https://s2.coinmarketcap.com/static/img/coins/64x64/34590.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"Assisterr AI*Ø§Ø³Ø³ÛŒØ³ØªØ± Ø§ÙÛŒâ€ŒØ¢ÛŒ20.0615:7119AHáz®Ç#ÀHáê6R=https://s2.coinmarketcap.com/static/img/coins/64x64/36619.png
+¢
+
+1404/07/1914:20Øì¨Ç"Baby Shark Meme*Ø¨ÛŒØ¨ÛŒ Ø´Ø§Ø±Ú© Ù…ÛŒÙ…20.001051:121.79A     €7ÀH´¿6R=https://s2.coinmarketcap.com/static/img/coins/64x64/35048.png
+¨
+
+1404/07/1914:19œì¨Ç"Smart Layer Network*Ø§Ø³Ù…Ø§Ø±Øª Ù„ÛŒØ± Ù†ØªÙˆØ±Ú©20.0223:2581A¤p=
+×#2ÀHË°6R=https://s2.coinmarketcap.com/static/img/coins/64x64/29482.png
+Š
+
+1404/07/1914:20Øì¨Ç"Torum*
+ØªÙˆØ±ÙˆÙ…20.004577:530.27A\Âõ(\ÀHÉœ6R=https://s2.coinmarketcap.com/static/img/coins/64x64/10421.png
+†
+
+1404/07/1914:19œì¨Ç"Umee*ÛŒÙˆÙ…ÛŒ20.000223:25.82A333333ÀHŸš6R=https://s2.coinmarketcap.com/static/img/coins/64x64/16389.png
+š
+
+1404/07/1914:19œì¨Ç"OpenLeverage*Ø§ÙˆÙ¾Ù† Ù„ÙˆØ±ÛŒØ¬20.004705:545.09AÍÌÌÌÌÌ@HØ•6R=https://s2.coinmarketcap.com/static/img/coins/64x64/20719.png
+–
+
+1404/07/1914:19œì¨Ç"
+Bombcrypto*Ø¨Ø§Ù…Ø¨ Ú©Ø±ÛŒÙ¾ØªÙˆ20.0111:1288A®Gáz.+ÀHçË5R=https://s2.coinmarketcap.com/static/img/coins/64x64/12252.png
+›
+
+1404/07/1914:19œì¨Ç"	ACA Token*Ø§ÛŒâ€ŒØ³ÛŒâ€ŒØ§ÛŒ ØªÙˆÚ©Ù†20.0185:2145Aq=
+×£°9ÀHíÀ5R=https://s2.coinmarketcap.com/static/img/coins/64x64/13626.png
+‡
+
+1404/07/1914:20Øì¨Ç"Abyss*Ø§Ø¨ÛŒØ³20.003826:443.26A…ëQ¸%ÀH‘½5R<https://s2.coinmarketcap.com/static/img/coins/64x64/2847.png
+
+
+1404/07/1914:19œì¨Ç"Areon Network*Ø¢Ø±Ø¦ÙˆÙ† Ù†ØªÙˆØ±Ú©20.007427:860.49Aq=
+×£01ÀH‡·5R=https://s2.coinmarketcap.com/static/img/coins/64x64/23262.png
+‹
+
+1404/07/1914:19œì¨Ç"UPTOP*Ø¢Ù¾ ØªØ§Ù¾20.004158:481.72A®Gáz5ÀHé¥5R=https://s2.coinmarketcap.com/static/img/coins/64x64/37409.png
+¼
+
+1404/07/1914:19œì¨Ç"Baby Neiro BNB*&Ø¨ÛŒØ¨ÛŒ Ù†ÛŒØ±ÙˆÙ† Ø¨ÛŒâ€ŒØ§Ù†â€ŒØ¨ÛŒ20.000000000002071324893794:0Aáz®Gá#ÀHÄŒ5R=https://s2.coinmarketcap.com/static/img/coins/64x64/33520.png
+
+
+1404/07/1914:19œì¨Ç"Realis Worlds*Ø±ÛŒÛŒÙ„Ø² ÙˆØ±Ù„Ø¯Ø²20.000869:100.73A
+×£p=
+6ÀHÎˆ5R=https://s2.coinmarketcap.com/static/img/coins/64x64/34548.png
+
+
+1404/07/1914:19œì¨Ç"RChain*Ø¢Ø± Ú†ÛŒÙ†2
+0.00001021:1.1826A¸…ëQ¸®?HÒÿ4R<https://s2.coinmarketcap.com/static/img/coins/64x64/2135.png
+¥
+
+1404/07/1914:20Øì¨Ç"Circuits of Value*Ø³ÛŒØ±Ú©ÛŒØªØ³ Ø¢Ù ÙˆÙ„ÛŒÙˆ20.000486:56.33Aáz®Ga7ÀH¨ü4R;https://s2.coinmarketcap.com/static/img/coins/64x64/788.png
+µ
+
+1404/07/1914:19œì¨Ç"TQQQ tokenized ETF (xStock)* ETF ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ TQQQ297.54:11300841Aö(\Âu$ÀH¤Ø4R=https://s2.coinmarketcap.com/static/img/coins/64x64/37044.png
+—
+
+1404/07/1914:19œì¨Ç"GhibliCZ*Ú¯ÛŒØ¨Ù„ÛŒ Ø³ÛŒ Ø²ÛŒ20.000991:114.76A×£p=
+—6ÀHıÃ4R=https://s2.coinmarketcap.com/static/img/coins/64x64/36186.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"Gremly*
+Ú¯Ø±Ù…Ù„ÛŒ20.000000002085133921051623:0.000242A{®Gáz8ÀHñ±4R=https://s2.coinmarketcap.com/static/img/coins/64x64/36729.png
+š
+
+1404/07/1914:19œì¨Ç"Tranche Finance*ØªØ±Ù†Ú† ÙØ§ÛŒÙ†Ù†Ø³20.0427:4946AR¸…ëÑ$ÀHİ4R<https://s2.coinmarketcap.com/static/img/coins/64x64/8637.png
+ƒ
+
+1404/07/1914:19œì¨Ç"Ghost*Ú¯ÙˆØ³Øª20.0302:3504Aáz®Ga2ÀH´æ3R<https://s2.coinmarketcap.com/static/img/coins/64x64/5471.png
+’
+
+1404/07/1914:19œì¨Ç"Sinverse*Ø³ÛŒÙ†â€ŒÙˆØ±Ø³20.001015:117.56A×£p=
+W.ÀH¦ã3R=https://s2.coinmarketcap.com/static/img/coins/64x64/12813.png
+’
+
+1404/07/1914:19œì¨Ç"	Tron Bull*ØªØ±ÙˆÙ† Ø¨ÙˆÙ„20.000848:98.19A®Gáz”/ÀHÜİ3R=https://s2.coinmarketcap.com/static/img/coins/64x64/32964.png
+•
+
+1404/07/1914:20Øì¨Ç"	BIDZ Coin*Ø¨ÛŒØ¯Ø² Ú©ÙˆÛŒÙ†20.000997:115.47A®Gáz®"ÀH»Ú3R=https://s2.coinmarketcap.com/static/img/coins/64x64/24532.png
+…
+
+1404/07/1914:19œì¨Ç"Peng*Ù¾Ù†Ú¯20.008401:973.33A®Gáz.7ÀHË£3R=https://s2.coinmarketcap.com/static/img/coins/64x64/29787.png
+†
+
+1404/07/1914:19œì¨Ç"Hatom*
+Ù‡Ø§ØªÙˆÙ…20.0504:5836A…ëQ¸E4ÀHİŸ3R=https://s2.coinmarketcap.com/static/img/coins/64x64/27686.png
+“
+
+1404/07/1914:20Øì¨Ç"ILCOIN*Ø¢ÛŒâ€ŒØ§Ù„ Ú©ÙˆÛŒÙ†20.000814:94.26AÂõ(\O0ÀH©„3R<https://s2.coinmarketcap.com/static/img/coins/64x64/3617.png
+˜
+
+1404/07/1914:19œì¨Ç"Crust Network*Ú©Ø±Ø§Ø³Øª Ù†ØªÙˆØ±Ú©20.0591:6846AÃõ(\B4ÀHˆÿ2R<https://s2.coinmarketcap.com/static/img/coins/64x64/6747.png
+Š
+
+1404/07/1914:19œì¨Ç"ETHAX*
+Ø§ØªØ§Ú©Ø³20.006130:710.22A
+×£p=
+CÀH•ø2R=https://s2.coinmarketcap.com/static/img/coins/64x64/20090.png
+‡
+
+1404/07/1914:19œì¨Ç"Messiah*Ù…Ø³ÛŒØ­20.1151:13340A{®Gáz4ÀH¼í2R=https://s2.coinmarketcap.com/static/img/coins/64x64/37577.png
+¢
+
+1404/07/1914:19œì¨Ç"Atomic Wallet Coin*Ø§ØªÙ…ÛŒÚ© ÙˆÙ„Øª Ú©ÙˆÛŒÙ†20.0786:9103AìQ¸…ëÀH‘í2R<https://s2.coinmarketcap.com/static/img/coins/64x64/3667.png
+€
+
+1404/07/1914:19œì¨Ç"Tap*ØªÙ¾20.000676:78.26Aš™™™™%ÀHÄå2R<https://s2.coinmarketcap.com/static/img/coins/64x64/5070.png
+¤
+
+1404/07/1914:19œì¨Ç"The Next Bitcoin*Ù†Ú©Ø³Øª Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†20.000830:96.11A×£p=
+×9ÀHãË2R=https://s2.coinmarketcap.com/static/img/coins/64x64/35774.png
+’
+
+1404/07/1914:20Øì¨Ç"VelasPad*ÙˆÙ„Ø§Ø³â€ŒÙ¾Ø¯20.003304:382.83Aq=
+×£ğ(ÀHª¹2R=https://s2.coinmarketcap.com/static/img/coins/64x64/11654.png
+ˆ
+
+1404/07/1914:19œì¨Ç"TenUp*	ØªÙ† Ø¢Ù¾20.007840:908.29Aö(\Âu"ÀH¶2R<https://s2.coinmarketcap.com/static/img/coins/64x64/4411.png
+
+
+1404/07/1914:19œì¨Ç"Cosplay Token*Ú©Ø§Ø³Ù¾Ù„ÛŒ ØªÙˆÚ©Ù†20.002088:241.85A\Âõ(\ÀHÆŸ2R=https://s2.coinmarketcap.com/static/img/coins/64x64/19621.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"
+Buying.com*Ø¨Ø§ÛŒÛŒÙ†Ú¯ Ø¯Ø§Øª Ú©Ø§Ù…20.002481:287.45A=
+×£p=#ÀHÃŸ2R=https://s2.coinmarketcap.com/static/img/coins/64x64/11750.png
+œ
+
+1404/07/1914:19œì¨Ç"Urolithin A*Ø§ÙˆØ±ÙˆÙ„ÛŒØªÛŒÙ† Ø§ÛŒ20.000822:95.22A
+×£p=Š5ÀHë‘2R=https://s2.coinmarketcap.com/static/img/coins/64x64/34090.png
+”
+
+1404/07/1914:19œì¨Ç"	DeFiChain*Ø¯ÛŒÙØ§ÛŒ Ú†ÛŒÙ†20.000989:114.60AÃõ(\Âù¿Hœ†2R<https://s2.coinmarketcap.com/static/img/coins/64x64/5804.png
+¢
+
+1404/07/1914:19œì¨Ç"
+Sperax USD*Ø§Ø³Ù¾Ø±Ú©Ø³ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0133:117393AR¸…ëQø¿H‰ó1R=https://s2.coinmarketcap.com/static/img/coins/64x64/17285.png
+
+
+1404/07/1914:20Øì¨Ç"Frontier*ÙØ±Ø§Ù†ØªÛŒØ±20.1050:12160AÍÌÌÌÌ\QÀH­Ü1R<https://s2.coinmarketcap.com/static/img/coins/64x64/5893.png
+¡
+
+1404/07/1914:20Øì¨Ç"Sentio Protocol*Ø³Ù†ØªÙŠÙˆ Ù¾Ø±ÙˆØªÚ©Ù„20.008297:961.28A      6ÀHÙĞ1R=https://s2.coinmarketcap.com/static/img/coins/64x64/34916.png
+›
+
+1404/07/1914:20Øì¨Ç"Polkamarkets*Ù¾ÙˆÙ„Ú©Ø§ Ù…Ø§Ø±Ú©ØªØ³20.008828:1023A¤p=
+×£ÀHâÆ1R<https://s2.coinmarketcap.com/static/img/coins/64x64/8579.png
+¤
+
+1404/07/1914:20Øì¨Ç"Seascape Crowns*Ø³ÛŒâ€ŒØ§Ø³Ú©ÛŒÙ¾ Ú©Ø±Ø§ÙˆÙ†Ø²20.1062:12299A¸…ëQx1ÀH¹Å1R<https://s2.coinmarketcap.com/static/img/coins/64x64/8365.png
+–
+
+1404/07/1914:19œì¨Ç"	EXMO Coin*Ø§Ú©Ø³Ù…Ùˆ Ú©ÙˆÛŒÙ†20.007555:875.29Aö(\ÂõÀHëÁ1R<https://s2.coinmarketcap.com/static/img/coins/64x64/4974.png
+œ
+
+1404/07/1914:20Øì¨Ç"XCAD Network*Ø§ÛŒÚ©Ø³â€ŒÚ©Ø¯ Ù†ØªÙˆØ±Ú©20.0170:1967A     @3ÀH¶»1R<https://s2.coinmarketcap.com/static/img/coins/64x64/9868.png
+™
+
+1404/07/1914:19œì¨Ç"Courage The Dog*Ú©ÙˆØ±Ø¬ Ø¯ Ø¯Ú¯20.000808:93.58A®Gáz®5ÀHÉ¦1R=https://s2.coinmarketcap.com/static/img/coins/64x64/36730.png
+ˆ
+
+1404/07/1914:19œì¨Ç"LAMBO*Ù„Ù…Ø¨Ùˆ2
+0.00008055:9.33A¸…ëQ˜@ÀHÊ”1R=https://s2.coinmarketcap.com/static/img/coins/64x64/36807.png
+¤
+
+1404/07/1914:20Øì¨Ç"Pussy Financial*Ù¾ÙˆØ³ÛŒ ÙØ§ÛŒÙ†Ù†Ø´Ø§Ù„2
+0.00000487:0.5643A     €+ÀH½ı0R<https://s2.coinmarketcap.com/static/img/coins/64x64/9639.png
+ƒ
+
+1404/07/1914:19œì¨Ç"Gains*Ú¯ÛŒÙ†Ø²20.0207:2395Afffffæ'ÀHÀê0R<https://s2.coinmarketcap.com/static/img/coins/64x64/9125.png
+œ
+
+1404/07/1914:19œì¨Ç"Mirror Protocol*Ù…ÛŒØ±ÙˆØ± Ù¾Ø±ÙˆØªÚ©Ù„20.0103:1192AÃõ(\Â'ÀHÔç0R<https://s2.coinmarketcap.com/static/img/coins/64x64/7857.png
+¹
+
+1404/07/1914:20Øì¨Ç"#Kekius Maximus (kekiusmaximus.army)*Ú©ÛŒÚ©ÛŒÙˆØ³ Ù…Ú©Ø³ÛŒÙ…ÙˆØ³20.000883:102.34AR¸…ëÑ!ÀHŞÕ0R=https://s2.coinmarketcap.com/static/img/coins/64x64/35091.png
+ 
+
+1404/07/1914:20Øì¨Ç"LandX Finance*Ù„Ù†Ø¯ Ø§ÛŒÚ©Ø³ ÙØ§ÛŒÙ†Ù†Ø³20.0560:6492Aáz®Ga)ÀH¦²0R=https://s2.coinmarketcap.com/static/img/coins/64x64/29386.png
+
+
+1404/07/1914:20Øì¨Ç"Everdome*
+Ø§ÙˆØ±Ø¯Ù…2
+0.00004166:4.83Aq=
+×£p#ÀHá§0R=https://s2.coinmarketcap.com/static/img/coins/64x64/16432.png
+œ
+
+1404/07/1914:19œì¨Ç"Forj(Bondly)*ÙÙˆØ±Ø¬ (Ø¨Ø§Ù†Ø¯Ù„ÛŒ)20.000805:93.22AffffffÀH—§0R<https://s2.coinmarketcap.com/static/img/coins/64x64/7931.png
+”
+
+1404/07/1914:19œì¨Ç"	Kromatika*Ú©Ø±ÙˆÙ…Ø§ØªÛŒÚ©Ø§20.009842:1140Aš™™™™-ÀH‚0R=https://s2.coinmarketcap.com/static/img/coins/64x64/14745.png
+‹
+
+1404/07/1914:19œì¨Ç"Element*
+Ø§Ù„Ù…Ù†Øª20.000455:52.75AÃõ(\B5ÀHÕ›0R=https://s2.coinmarketcap.com/static/img/coins/64x64/28368.png
+È
+
+1404/07/1914:19œì¨Ç"AbbVie tokenized stock (xStock)*.Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø§ÙØ¨â€ŒÙˆÛŒ2231.68:26841026Aáz®GáÚ¿H…Š0R=https://s2.coinmarketcap.com/static/img/coins/64x64/37011.png
+¬
+
+1404/07/1914:20Øì¨Ç"AS Monaco Fan Token*!Ø¢Ø§Ø³ Ù…ÙˆÙ†Ø§Ú©Ùˆ ÙÙ† ØªÙˆÚ©Ù†20.1472:17054A
+×£p=Š+ÀHçˆ0R=https://s2.coinmarketcap.com/static/img/coins/64x64/22766.png
+§
+
+1404/07/1914:19œì¨Ç"Eliza (elizawakesup)*Ø§Ù„ÛŒØ²Ø§ (elizawakesup)20.000787:91.19A      4ÀH™…0R=https://s2.coinmarketcap.com/static/img/coins/64x64/34078.png
+”
+
+1404/07/1914:19œì¨Ç"PolkaFoundry*Ù¾ÙˆÙ„Ú©Ø§ ÙØ§Ù†Ø¯Ø±ÛŒ20.006856:794.32H·ÿ/R<https://s2.coinmarketcap.com/static/img/coins/64x64/8617.png
+—
+
+1404/07/1914:19œì¨Ç"	Robinhood*Ø±Ø§Ø¨ÛŒÙ†â€ŒÙ‡ÙˆØ¯2
+0.00001758:2.04A      )ÀHôæ/R=https://s2.coinmarketcap.com/static/img/coins/64x64/35566.png
+•
+
+1404/07/1914:19œì¨Ç"
+Elderglade*Ø§Ú†Ø¯Ø±Ú¯Ù„ÛŒØ¯20.005282:611.89AìQ¸…k*ÀHÿÛ/R=https://s2.coinmarketcap.com/static/img/coins/64x64/36379.png
+—
+
+1404/07/1914:20Øì¨Ç"
+EPIK Prime*Ø§Ù¾ÛŒÚ© Ù¾Ø±Ø§ÛŒÙ…20.000605:70.15AR¸…ëQÀHÔ¯/R=https://s2.coinmarketcap.com/static/img/coins/64x64/10047.png
+‰
+
+1404/07/1914:19œì¨Ç"Lumoz*
+Ù„ÙˆÙ…ÙˆØ²20.000705:81.63AÂõ(\*ÀHí¦/R=https://s2.coinmarketcap.com/static/img/coins/64x64/34499.png
+“
+
+1404/07/1914:19œì¨Ç"	VinuChain*ÙˆÛŒÙ†Ùˆ Ú†ÛŒÙ†20.002234:258.82Aš™™™™™ÀH–£/R=https://s2.coinmarketcap.com/static/img/coins/64x64/28580.png
+°
+
+1404/07/1914:20Øì¨Ç"Caitlyn Jenner (ETH)*"Ú©ÛŒØªÙ„ÛŒÙ† Ø¬Ù†Ø± (Ø§ØªØ±ÛŒÙˆÙ…)20.000801:92.76A¸…ëQ¸®?H×‘/R=https://s2.coinmarketcap.com/static/img/coins/64x64/31798.png
+š
+
+1404/07/1914:19œì¨Ç"
+StarryNift*Ø§Ø³ØªØ§Ø±ÛŒ Ù†ÛŒÙØª20.004128:478.29Afffff&2ÀHì/R=https://s2.coinmarketcap.com/static/img/coins/64x64/12830.png
+
+
+1404/07/1914:19œì¨Ç"MahaDAO*Ù…Ø§Ù‡Ø§ Ø¯Ø§Ø¦Ùˆ20.1755:20333A)\Âõ($ÀHÁ…/R<https://s2.coinmarketcap.com/static/img/coins/64x64/8043.png
+‘
+
+1404/07/1914:20Øì¨Ç"	Fly.trade*ÙÙ„Ø§ÛŒ ØªØ±ÛŒØ¯20.0572:6632AffffffÀHÛğ.R=https://s2.coinmarketcap.com/static/img/coins/64x64/36720.png
+š
+
+1404/07/1914:19œì¨Ç"Deri Protocol*Ø¯Ø±ÛŒ Ù¾Ø±ÙˆØªÚ©Ù„20.006132:710.37A\Âõ(Ü.ÀH¯Õ.R<https://s2.coinmarketcap.com/static/img/coins/64x64/8424.png
+—
+
+1404/07/1914:19œì¨Ç"	Joystream*Ø¬ÙˆÛŒâ€ŒØ§Ø³ØªØ±ÛŒÙ…20.000692:80.23A®GázÀHª©.R<https://s2.coinmarketcap.com/static/img/coins/64x64/6827.png
+
+
+1404/07/1914:19œì¨Ç"Algorix*Ø§Ù„Ú¯ÙˆØ±ÛŒÚ©Ø³20.0606:7026Affffffî?HÓ˜.R=https://s2.coinmarketcap.com/static/img/coins/64x64/34956.png
+–
+
+1404/07/1914:19œì¨Ç"Memes AI*Ù…ÛŒÙ…Ø² Ø§ÛŒâ€ŒØ¢ÛŒ20.000756:87.62Aq=
+×£ğ3ÀH·”.R=https://s2.coinmarketcap.com/static/img/coins/64x64/33614.png
+
+
+1404/07/1914:19œì¨Ç"QSTAY*Ú©ÛŒÙˆâ€ŒØ§Ø³ØªÛŒ20.000755:87.45A      8ÀHåˆ.R=https://s2.coinmarketcap.com/static/img/coins/64x64/38218.png
+“
+
+1404/07/1914:19œì¨Ç"	LightLink*Ù„Ø§ÛŒØª Ù„ÛŒÙ†Ú©20.009235:1070A®GázÀHĞ„.R=https://s2.coinmarketcap.com/static/img/coins/64x64/22943.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Nyzo*
+Ù†Ø§ÛŒØ²Ùˆ20.007530:872.35A=
+×£p=@HĞú-R<https://s2.coinmarketcap.com/static/img/coins/64x64/5155.png
+¢
+
+1404/07/1914:19œì¨Ç"Hamster*
+Ù‡Ù…Ø³ØªØ±20.000000000315630475547588:
+0.00003700A…ëQ¸2ÀH—÷-R=https://s2.coinmarketcap.com/static/img/coins/64x64/10336.png
+
+
+1404/07/1914:19œì¨Ç"Baby BNB*Ø¨ÛŒØ¨ÛŒ Ø¨ÛŒâ€ŒØ§Ù†â€ŒØ¨ÛŒ20.001354:156.84Aq=
+×£p1ÀH›ì-R=https://s2.coinmarketcap.com/static/img/coins/64x64/33211.png
+˜
+
+1404/07/1914:19œì¨Ç"
+BullDogito*Ø¨ÙˆÙ„ Ø¯ÙˆØ¬ÛŒØªÙˆ20.002359:273.34AÍÌÌÌÌL/ÀH·à-R=https://s2.coinmarketcap.com/static/img/coins/64x64/35292.png
+…
+
+1404/07/1914:20Øì¨Ç"Chuck*Ú†Ø§Ú©20.000854:98.96Afffffæ$ÀH­ß-R=https://s2.coinmarketcap.com/static/img/coins/64x64/30619.png
+Œ
+
+1404/07/1914:19œì¨Ç"STARS*Ø§Ø³ØªØ§Ø±Ø²2
 0.00001777:2.06A¸…ëQ8%ÀHÉĞ-R=https://s2.coinmarketcap.com/static/img/coins/64x64/34793.png
 “
 
-1404/07/1914:05Ôå¨Ç"Integral*Ø§ÛŒÙ†ØªÚ¯Ø±Ø§Ù„20.003414:396.18A
-×£p=Š(ÀH•Æ-R=https://s2.coinmarketcap.com/static/img/coins/64x64/10404.png
-
-
-1404/07/1914:06æ¨Ç"RIBBIT*Ø±ÛŒâ€ŒØ¨ÛŒØª2
-0.00000183:0.2120A×£p=
-W&ÀH€´-R<https://s2.coinmarketcap.com/static/img/coins/64x64/9808.png
+1404/07/1914:19œì¨Ç"Integral*Ø§ÛŒÙ†ØªÚ¯Ø±Ø§Ù„20.003414:395.48A®Gáz®(ÀHÕÅ-R=https://s2.coinmarketcap.com/static/img/coins/64x64/10404.png
 Œ
 
-1404/07/1914:06æ¨Ç"CYBRO*Ø³Ø§ÛŒØ¨Ø±Ùˆ20.005613:651.36A…ëQ¸…ÀH×­-R=https://s2.coinmarketcap.com/static/img/coins/64x64/32224.png
-«
-
-1404/07/1914:05Ôå¨Ç"Vulcan Forged LAVA*ÙˆÙ„Ú©Ø§Ù† ÙÙˆØ±Ø¬Ø¯ Ù„Ø§ÙˆØ§20.003013:349.71A®GázWÀH-R=https://s2.coinmarketcap.com/static/img/coins/64x64/13856.png
-
-
-1404/07/1914:05Ôå¨Ç"Shardeum*Ø´Ø§Ø±Ø¯ÛŒÙˆÙ…20.0382:4436Aq=
-×£p8ÀHì›-R=https://s2.coinmarketcap.com/static/img/coins/64x64/22353.png
-Í
-
-1404/07/1914:05Ôå¨Ç"#McDonald's tokenized stock (xStock)*/Ù…Ú© Ø¯ÙˆÙ†Ø§Ù„Ø¯Ø² ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2295.95:34344515Aq=
-×£pİ?Hƒ›-R=https://s2.coinmarketcap.com/static/img/coins/64x64/37052.png
-–
-
-1404/07/1914:05Ôå¨Ç"
-King Shiba*Ú©ÛŒÙ†Ú¯ Ø´ÛŒØ¨Ø§20.002114:245.38A
-×£p=
-Ç?H‰–-R=https://s2.coinmarketcap.com/static/img/coins/64x64/12901.png
-³
-
-1404/07/1914:06æ¨Ç"Valencia CF Fan Token*&ÙˆØ§Ù„Ù†Ø³ÛŒØ§ Ø³ÛŒ Ø§Ù ÙÙ† ØªÙˆÚ©Ù†20.1121:13007Aö(\Âu.ÀH±’-R=https://s2.coinmarketcap.com/static/img/coins/64x64/11528.png
-
-
-1404/07/1914:05Ôå¨Ç"	XCarnival*Ø§ÛŒÚ©Ø³ Ú©Ø§Ø±Ù†ÛŒÙˆØ§Ù„20.000930:107.96A®GázÀH¯ò,R=https://s2.coinmarketcap.com/static/img/coins/64x64/10622.png
-±
-
-1404/07/1914:05Ôå¨Ç"Andy BSC*Ø§Ù†Ø¯ÛŒ Ø¨ÛŒâ€ŒØ§Ø³â€ŒØ³ÛŒ20.00000000733493339933402:0.000851A…ëQ¸:ÀHµâ,R=https://s2.coinmarketcap.com/static/img/coins/64x64/35085.png
-´
-
-1404/07/1914:05Ôå¨Ç"Sportbet.one Token*(Ø§Ø³Ù¾Ø±Øªâ€ŒØ¨Øª Ø¯Ø§Øª ÙˆØ§Ù† ØªÙˆÚ©Ù†20.005793:672.31A{®Gáz„?H Ì,R<https://s2.coinmarketcap.com/static/img/coins/64x64/6591.png
-Š
-
-1404/07/1914:06æ¨Ç"Powsche*Ù¾ÙˆØ´Ù‡20.007609:882.97Aáz®Gá7ÀHô‘,R=https://s2.coinmarketcap.com/static/img/coins/64x64/30645.png
-
-
-1404/07/1914:05Ôå¨Ç"CannabisCoin*Ú©Ù†Ø¨ÛŒØ³ Ú©ÙˆÛŒÙ†20.002249:261.01H¼Š,R;https://s2.coinmarketcap.com/static/img/coins/64x64/506.png
-‚
-
-1404/07/1914:05Ôå¨Ç"K21*	Ú©ÛŒ Û²Û±20.0392:4546A×£p=
-W&ÀHóú+R<https://s2.coinmarketcap.com/static/img/coins/64x64/9205.png
-
-
-1404/07/1914:06æ¨Ç"3DPass*Û³ Ø¯ÛŒ Ù¾Ø³20.001337:155.21A×£p=
-—w@H™ú+R=https://s2.coinmarketcap.com/static/img/coins/64x64/28794.png
-ˆ
-
-1404/07/1914:06æ¨Ç"Axol*
-Ø§Ú©Ø³ÙˆÙ„20.000719:83.48A)\Âõ(ÀHËó+R=https://s2.coinmarketcap.com/static/img/coins/64x64/33183.png
+1404/07/1914:20Øì¨Ç"CYBRO*Ø³Ø§ÛŒØ¨Ø±Ùˆ20.005614:650.35AÃõ(\ÂÀH½®-R=https://s2.coinmarketcap.com/static/img/coins/64x64/32224.png
 œ
 
-1404/07/1914:05Ôå¨Ç"	AME Chain*Ø§ÛŒâ€ŒØ§Ù…â€ŒØ§ÛŒ Ú†ÛŒÙ†20.001438:166.86A\Âõ(:ÀH°ğ+R<https://s2.coinmarketcap.com/static/img/coins/64x64/8162.png
-“
+1404/07/1914:19œì¨Ç"BlackCardCoin*Ø¨Ù„Ú© Ú©Ø§Ø±Øª Ú©ÙˆÛŒÙ†20.0742:8598AÍÌÌÌÌÌ1ÀHí¥-R=https://s2.coinmarketcap.com/static/img/coins/64x64/30544.png
+²
 
-1404/07/1914:05Ôå¨Ç"	FooDriver*ÙÙˆâ€ŒØ¯Ø±Ø§ÛŒÙˆØ±20.0728:8453A®Gáz®ÀHªì+R=https://s2.coinmarketcap.com/static/img/coins/64x64/36508.png
-‘
+1404/07/1914:19œì¨Ç"Andy BSC*Ø§Ù†Ø¯ÛŒ Ø¨ÛŒâ€ŒØ§Ø³â€ŒØ³ÛŒ20.000000007418492862924466:0.000859Aq=
+×£°:ÀHÙ£-R=https://s2.coinmarketcap.com/static/img/coins/64x64/35085.png
+«
 
-1404/07/1914:05Ôå¨Ç"Galaxis*Ú¯Ø§Ù„Ø§Ú©Ø³ÛŒØ³20.000216:25.05A…ëQ¸…ÀHÖ¸+R=https://s2.coinmarketcap.com/static/img/coins/64x64/31154.png
-Ÿ
-
-1404/07/1914:05Ôå¨Ç"	B-cube.ai* Ø¨ÛŒ-Ú©ÛŒÙˆØ¨ Ø¯Ø§Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.0198:2299Aö(\Âõ@Hä+R<https://s2.coinmarketcap.com/static/img/coins/64x64/9553.png
-‘
-
-1404/07/1914:06æ¨Ç"QSTaR*Ú©ÛŒÙˆ Ø§Ø³ØªØ§Ø±2
-0.00007351:8.53A®Gáz.2ÀH©‡+R=https://s2.coinmarketcap.com/static/img/coins/64x64/34328.png
-
-
-1404/07/1914:05Ôå¨Ç"
-OptionRoom*Ø¢Ù¾Ø´Ù† Ø±ÙˆÙ…20.0564:6546Aq=
-×£pí¿H«+R<https://s2.coinmarketcap.com/static/img/coins/64x64/8351.png
-‰
-
-1404/07/1914:06æ¨Ç"Chainge*Ú†ÛŒÙ†Ø¬20.001485:172.37A
-×£p=
-û¿Hôü*R<https://s2.coinmarketcap.com/static/img/coins/64x64/9071.png
-â
-
-1404/07/1914:05Ôå¨Ç"+Berkshire Hathaway tokenized stock (xStock)*<Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¨Ø±Ú©Ø´Ø§ÛŒØ± Ù‡Ø§ØªØ§ÙˆÛŒ2501.89:58243828AÍÌÌÌÌÌÀH¯ñ*R=https://s2.coinmarketcap.com/static/img/coins/64x64/37020.png
-¢
-
-1404/07/1914:05Ôå¨Ç"FenerbahÃ§e Token*ÙÙ†Ø±Ø¨Ø§ØºÚ†Ù‡ ØªÙˆÚ©Ù†20.3216:37322Aš™™™™™"ÀH£å*R=https://s2.coinmarketcap.com/static/img/coins/64x64/11308.png
-š
-
-1404/07/1914:05Ôå¨Ç"Voyager Token*ÙˆÙˆÛŒØ¬Ø± ØªÙˆÚ©Ù†20.001079:125.23AHáz®G3ÀHèâ*R<https://s2.coinmarketcap.com/static/img/coins/64x64/1817.png
-‘
-
-1404/07/1914:05Ôå¨Ç"	Decimated*Ø¯Ø³ÛŒÙ…ÛŒØªØ¯20.001285:149.07AÃõ(\Â&ÀHâË*R<https://s2.coinmarketcap.com/static/img/coins/64x64/3908.png
-ˆ
-
-1404/07/1914:06æ¨Ç"WeFi*ÙˆÛŒâ€ŒÙØ§ÛŒ20.0166:1926A®Gáz®ï?Hõ¶*R=https://s2.coinmarketcap.com/static/img/coins/64x64/24771.png
+1404/07/1914:19œì¨Ç"Vulcan Forged LAVA*ÙˆÙ„Ú©Ø§Ù† ÙÙˆØ±Ø¬Ø¯ Ù„Ø§ÙˆØ§20.003012:348.98A®GázWÀHçš-R=https://s2.coinmarketcap.com/static/img/coins/64x64/13856.png
 –
 
-1404/07/1914:06æ¨Ç"
-Buckazoids*Ø¨Ø§Ú©Ø§Ø²ÙˆÛŒØ¯Ø²20.000691:80.25AÍÌÌÌÌÌ!ÀHË™*R=https://s2.coinmarketcap.com/static/img/coins/64x64/36391.png
-Š
+1404/07/1914:19œì¨Ç"
+King Shiba*Ú©ÛŒÙ†Ú¯ Ø´ÛŒØ¨Ø§20.002116:245.10A¸…ëQ¸Î?H¬™-R=https://s2.coinmarketcap.com/static/img/coins/64x64/12901.png
+Í
 
-1404/07/1914:05Ôå¨Ç"Walken*
-ÙˆØ§Ú©ÙÙ†20.000459:53.32A¤p=
-×#"ÀHœ*R=https://s2.coinmarketcap.com/static/img/coins/64x64/18775.png
-—
+1404/07/1914:19œì¨Ç"#McDonald's tokenized stock (xStock)*/Ù…Ú© Ø¯ÙˆÙ†Ø§Ù„Ø¯Ø² ØªÙˆÚ©Ù†Ø§ÛŒØ²Ø¯ Ø§Ø³ØªØ§Ú©2295.77:34266287A¤p=
+×£à?HÕ—-R=https://s2.coinmarketcap.com/static/img/coins/64x64/37052.png
+
 
-1404/07/1914:05Ôå¨Ç"Povel Durev*Ù¾Ø§ÙˆÙ„ Ø¯ÙˆØ±Ùˆ20.007204:836.05A     €4ÀHíâ)R=https://s2.coinmarketcap.com/static/img/coins/64x64/31061.png
-¬
-
-1404/07/1914:06æ¨Ç"SafeMoon Inu*Ø³ÛŒÙ Ù…ÙˆÙ† Ø§ÛŒÙ†Ùˆ20.0000006839532925072241:0.0794AìQ¸…ëÀH±ß)R<https://s2.coinmarketcap.com/static/img/coins/64x64/9958.png
-ª
-
-1404/07/1914:05Ôå¨Ç"Ibiza Final Boss* Ø§ÛŒØ¨ÛŒØ²Ø§ ÙØ§ÛŒÙ†Ø§Ù„ Ø¨Ø§Ø³20.000734:85.23Afffff¦<ÀHÚ)R=https://s2.coinmarketcap.com/static/img/coins/64x64/37666.png
-”
-
-1404/07/1914:06æ¨Ç"SAD HAMSTER*Ø³Ø¯ Ù‡Ù…Ø³ØªØ±20.000725:84.10AHáz®3ÀHåÔ)R=https://s2.coinmarketcap.com/static/img/coins/64x64/31284.png
-˜
-
-1404/07/1914:05Ôå¨Ç"Locked Money*Ù„Ø§Ú©Øª Ù…Ø§Ù†ÛŒ20.001131:131.23A®Gáz®'ÀH’Ê)R=https://s2.coinmarketcap.com/static/img/coins/64x64/35101.png
-•
-
-1404/07/1914:05Ôå¨Ç"Unification*ÛŒÙˆÙ†ÛŒÙÛŒÚ©ÛŒØ´Ù†20.0197:2290A¤p=
-×£ÀH”¾)R<https://s2.coinmarketcap.com/static/img/coins/64x64/3854.png
-…
-
-1404/07/1914:05Ôå¨Ç"Ferro*ÙØ±Ùˆ20.000727:84.42A\Âõ(Ü+ÀHò³)R=https://s2.coinmarketcap.com/static/img/coins/64x64/20716.png
+1404/07/1914:19œì¨Ç"Shardeum*Ø´Ø§Ø±Ø¯ÛŒÙˆÙ…20.0382:4422A
+×£p=Š8ÀH‘”-R=https://s2.coinmarketcap.com/static/img/coins/64x64/22353.png
 
 
-1404/07/1914:05Ôå¨Ç"Dypius*Ø¯Ø§ÛŒÙ¾ÛŒÙˆØ³20.003682:427.32A®Gáz..ÀH¢Ÿ)R=https://s2.coinmarketcap.com/static/img/coins/64x64/28543.png
-£
+1404/07/1914:20Øì¨Ç"RIBBIT*Ø±ÛŒâ€ŒØ¨ÛŒØª2
+0.00000181:0.2102AÂõ(\'ÀH„Œ-R<https://s2.coinmarketcap.com/static/img/coins/64x64/9808.png
+
 
-1404/07/1914:05Ôå¨Ç"Everton Fan Token*Ø§ÙˆØ±ØªÙˆÙ† ÙÙ† ØªÙˆÚ©Ù†20.1133:13145Aš™™™™/ÀHÕ)R=https://s2.coinmarketcap.com/static/img/coins/64x64/15131.png
+1404/07/1914:19œì¨Ç"	XCarnival*Ø§ÛŒÚ©Ø³ Ú©Ø§Ø±Ù†ÛŒÙˆØ§Ù„20.000928:107.53A…ëQ¸…ÀH‹å,R=https://s2.coinmarketcap.com/static/img/coins/64x64/10622.png
+³
+
+1404/07/1914:20Øì¨Ç"Valencia CF Fan Token*&ÙˆØ§Ù„Ù†Ø³ÛŒØ§ Ø³ÛŒ Ø§Ù ÙÙ† ØªÙˆÚ©Ù†20.1111:12874Aö(\Âµ0ÀHá,R=https://s2.coinmarketcap.com/static/img/coins/64x64/11528.png
+œ
+
+1404/07/1914:19œì¨Ç"	AME Chain*Ø§ÛŒâ€ŒØ§Ù…â€ŒØ§ÛŒ Ú†ÛŒÙ†20.001464:169.65AìQ¸…«8ÀH’Ø,R<https://s2.coinmarketcap.com/static/img/coins/64x64/8162.png
 ´
 
-1404/07/1914:05Ôå¨Ç"GÃ¶ztepe S.K. Fan Token*&Ú¯ÙˆØ²ØªÙ¾Ù‡ Ø§Ø³â€ŒÚ©ÛŒ ÙÙ† ØªÙˆÚ©Ù†20.1750:20311Aš™™™™"ÀH°)R<https://s2.coinmarketcap.com/static/img/coins/64x64/9507.png
-™
+1404/07/1914:19œì¨Ç"Sportbet.one Token*(Ø§Ø³Ù¾Ø±Øªâ€ŒØ¨Øª Ø¯Ø§Øª ÙˆØ§Ù† ØªÙˆÚ©Ù†20.005787:670.41AR¸…ëQØ¿HåÅ,R<https://s2.coinmarketcap.com/static/img/coins/64x64/6591.png
+Š
 
-1404/07/1914:06æ¨Ç"Clustr Labs*Ú©Ù„Ø§Ø³ØªØ± Ù„Ø¨Ø²20.001348:156.46A®Gáz.(ÀH)R=https://s2.coinmarketcap.com/static/img/coins/64x64/35228.png
-w
+1404/07/1914:20Øì¨Ç"Powsche*Ù¾ÙˆØ´Ù‡20.007601:880.64A)\Âõ(8ÀHÇŒ,R=https://s2.coinmarketcap.com/static/img/coins/64x64/30645.png
+
 
-1404/07/1914:05Ôå¨Ç"Hush*Ù‡Ø§Ø´20.0562:6519Hƒ)R<https://s2.coinmarketcap.com/static/img/coins/64x64/1466.png
-–
+1404/07/1914:19œì¨Ç"CannabisCoin*Ú©Ù†Ø¨ÛŒØ³ Ú©ÙˆÛŒÙ†20.002249:260.56H¼Š,R;https://s2.coinmarketcap.com/static/img/coins/64x64/506.png
+
 
-1404/07/1914:05Ôå¨Ç"
-ANGL TOKEN*Ø§Ù†Ú¯Ù„ ØªÙˆÚ©Ù†20.002811:326.21AÂõ(\2ÀH”„)R=https://s2.coinmarketcap.com/static/img/coins/64x64/36841.png
-¶
+1404/07/1914:20Øì¨Ç"3DPass*Û³ Ø¯ÛŒ Ù¾Ø³20.001337:154.90A)\Âõ”w@H¯ù+R=https://s2.coinmarketcap.com/static/img/coins/64x64/28794.png
+‚
 
-1404/07/1914:05Ôå¨Ç"Spain National Fan Token*'Ø§Ø³Ù¾Ø§Ù†ÛŒØ§ Ù†Ø´Ù†Ø§Ù„ ÙÙ† ØªÙˆÚ©Ù†20.0293:3399A33333³&ÀHµù(R=https://s2.coinmarketcap.com/static/img/coins/64x64/12398.png
-­
+1404/07/1914:19œì¨Ç"K21*	Ú©ÛŒ Û²Û±20.0392:4537Aáz®Ga&ÀHáø+R<https://s2.coinmarketcap.com/static/img/coins/64x64/9205.png
+ˆ
 
-1404/07/1914:06æ¨Ç"CryptoTradingFund*$Ú©Ø±ÛŒÙ¾ØªÙˆ ØªØ±ÛŒØ¯ÛŒÙ†Ú¯ ÙØ§Ù†Ø¯20.1419:16463Aö(\Âu=ÀH“ö(R=https://s2.coinmarketcap.com/static/img/coins/64x64/29396.png
+1404/07/1914:19œì¨Ç"Axol*
+Ø§Ú©Ø³ÙˆÙ„20.000719:83.35A{®GázÀHæô+R=https://s2.coinmarketcap.com/static/img/coins/64x64/33183.png
+
+
+1404/07/1914:19œì¨Ç"Custodiy*Ú©Ø§Ø³ØªÙˆØ¯ÛŒ21.4479:167748AÍÌÌÌÌÌÀHñğ+R=https://s2.coinmarketcap.com/static/img/coins/64x64/21273.png
+‘
+
+1404/07/1914:19œì¨Ç"Galaxis*Ú¯Ø§Ù„Ø§Ú©Ø³ÛŒØ³20.000216:25.01AÂõ(\ö¿Hø¸+R=https://s2.coinmarketcap.com/static/img/coins/64x64/31154.png
+“
+
+1404/07/1914:20Øì¨Ç"	FooDriver*ÙÙˆâ€ŒØ¯Ø±Ø§ÛŒÙˆØ±20.0717:8309A\Âõ(\ÀHÏ•+R=https://s2.coinmarketcap.com/static/img/coins/64x64/36508.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"	B-cube.ai* Ø¨ÛŒ-Ú©ÛŒÙˆØ¨ Ø¯Ø§Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.0198:2295Aö(\Âõ@Hä+R<https://s2.coinmarketcap.com/static/img/coins/64x64/9553.png
+
+
+1404/07/1914:19œì¨Ç"
+OptionRoom*Ø¢Ù¾Ø´Ù† Ø±ÙˆÙ…20.0564:6531A®Gázî¿H¢ş*R<https://s2.coinmarketcap.com/static/img/coins/64x64/8351.png
 ‰
 
-1404/07/1914:05Ôå¨Ç"Revomon*Ø±ÙˆÙˆÙ…ÙˆÙ†20.0222:2576A®Gáz”)ÀH´ß(R<https://s2.coinmarketcap.com/static/img/coins/64x64/9200.png
-
+1404/07/1914:19œì¨Ç"Chainge*Ú†ÛŒÙ†Ø¬20.001485:172.07Aáz®GáÀHÔü*R<https://s2.coinmarketcap.com/static/img/coins/64x64/9071.png
+â
 
-1404/07/1914:05Ôå¨Ç"Nabox*Ù†Ø§ Ø¨Ø§Ú©Ø³2
-0.00000320:0.3711A®Gáz@H·Û(R<https://s2.coinmarketcap.com/static/img/coins/64x64/9653.png
-•
+1404/07/1914:19œì¨Ç"+Berkshire Hathaway tokenized stock (xStock)*<Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¨Ø±Ú©Ø´Ø§ÛŒØ± Ù‡Ø§ØªØ§ÙˆÛŒ2501.89:58144957AÍÌÌÌÌÌÀH¯ñ*R=https://s2.coinmarketcap.com/static/img/coins/64x64/37020.png
+‘
 
-1404/07/1914:06æ¨Ç"	Trollcoin*ØªØ±ÙˆÙ„â€ŒÚ©ÙˆÛŒÙ†20.001123:130.34Aáz®GáÀHÜÑ(R;https://s2.coinmarketcap.com/static/img/coins/64x64/638.png
-›
-
-1404/07/1914:06æ¨Ç"
-K9 Finance*Ú©ÛŒ Û¹ ÙØ§ÛŒÙ†Ù†Ø³2
-0.00000165:0.1920AìQ¸…k*ÀH§Ğ(R=https://s2.coinmarketcap.com/static/img/coins/64x64/29665.png
-…
-
-1404/07/1914:05Ôå¨Ç"Vidya*
-ÙˆÛŒØ¯ÛŒØ§20.0168:1951Aáz®Ga)ÀHˆÆ(R<https://s2.coinmarketcap.com/static/img/coins/64x64/6709.png
-‹
-
-1404/07/1914:06æ¨Ç"Vertus*
-ÙˆØ±ØªÙˆØ³20.001256:145.76A…ëQ¸…@H–µ(R=https://s2.coinmarketcap.com/static/img/coins/64x64/33227.png
-’
-
-1404/07/1914:06æ¨Ç"holoride*Ù‡ÙˆÙ„ÙˆØ±Ø§ÛŒØ¯20.000752:87.25A¤p=
-×c5ÀH¿°(R=https://s2.coinmarketcap.com/static/img/coins/64x64/14145.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Giveth*Ú¯ÛŒÙˆØ«20.001736:201.49A      "ÀHÙ¨(R=https://s2.coinmarketcap.com/static/img/coins/64x64/17207.png
-—
-
-1404/07/1914:05Ôå¨Ç"
-Everyworld*Ø§ÙˆØ±ÛŒâ€ŒÙˆØ±Ù„Ø¯20.000259:30.03AìQ¸…ëÀH¢¡(R=https://s2.coinmarketcap.com/static/img/coins/64x64/30357.png
-
-
-1404/07/1914:05Ôå¨Ç"Baby BNB*Ø¨ÛŒØ¨ÛŒ Ø¨ÛŒâ€ŒØ§Ù†â€ŒØ¨ÛŒ20.001185:137.55A…ëQ¸<ÀHô‘(R=https://s2.coinmarketcap.com/static/img/coins/64x64/33211.png
-Œ
-
-1404/07/1914:06æ¨Ç"Monavale*Ù…ÙˆÙ†Ø§ÙˆÙ„262.83:7291123AÃõ(\B"ÀH£Œ(R<https://s2.coinmarketcap.com/static/img/coins/64x64/7866.png
-—
-
-1404/07/1914:05Ôå¨Ç"NikolAI*Ù†ÛŒÚ©ÙˆÙ„ Ø§ÛŒâ€ŒØ¢ÛŒ20.000654:75.92A¤p=
-×ã1ÀH÷'R=https://s2.coinmarketcap.com/static/img/coins/64x64/33801.png
-™
-
-1404/07/1914:05Ôå¨Ç"FCK925*Ø§Ùâ€ŒØ³ÛŒâ€ŒÚ©ÛŒ Û¹Û²Ûµ20.000653:75.80AÃõ(\?ÀHï'R=https://s2.coinmarketcap.com/static/img/coins/64x64/37278.png
-£
-
-1404/07/1914:06æ¨Ç"eXPerience Chain*Ø§Ú©Ø³Ù¾Ø±ÛŒÙ†Ø³ Ú†ÛŒÙ†2
-0.00000713:0.8271A×£p=
-×ÿ¿H¢Ğ'R<https://s2.coinmarketcap.com/static/img/coins/64x64/3750.png
-•
-
-1404/07/1914:05Ôå¨Ç"Belt Finance*Ø¨Ù„Øª ÙØ§ÛŒÙ†Ù†Ø³20.0680:7888AÍÌÌÌÌL%ÀHËÏ'R<https://s2.coinmarketcap.com/static/img/coins/64x64/8730.png
-¥
-
-1404/07/1914:05Ôå¨Ç"Skillful AI*Ø§Ø³Ú©ÛŒÙ„â€ŒÙÙˆÙ„ Ø§ÛŒâ€ŒØ¢ÛŒ20.001783:206.88Aö(\Âõè¿HÒÈ'R=https://s2.coinmarketcap.com/static/img/coins/64x64/31716.png
+1404/07/1914:20Øì¨Ç"QSTaR*Ú©ÛŒÙˆ Ø§Ø³ØªØ§Ø±2
+0.00007305:8.46Aq=
+×£°2ÀHòä*R=https://s2.coinmarketcap.com/static/img/coins/64x64/34328.png
 š
 
-1404/07/1914:06æ¨Ç"Ski Mask Cat*Ø§Ø³Ú©ÛŒ Ù…Ø³Ú© Ú©Øª20.000655:75.98AR¸…ëÑ&ÀHĞÈ'R=https://s2.coinmarketcap.com/static/img/coins/64x64/34771.png
-„
+1404/07/1914:19œì¨Ç"Voyager Token*ÙˆÙˆÛŒØ¬Ø± ØªÙˆÚ©Ù†20.001076:124.60A)\Âõ¨1ÀH¿Ğ*R<https://s2.coinmarketcap.com/static/img/coins/64x64/1817.png
+‘
 
-1404/07/1914:06æ¨Ç"888*Û¸Û¸Û¸20.007281:844.92Afffffæ4ÀH†¾'R=https://s2.coinmarketcap.com/static/img/coins/64x64/33858.png
-Ñ
+1404/07/1914:19œì¨Ç"	Decimated*Ø¯Ø³ÛŒÙ…ÛŒØªØ¯20.001284:148.81Aáz®Gá&ÀH·Ë*R<https://s2.coinmarketcap.com/static/img/coins/64x64/3908.png
+ˆ
 
-1404/07/1914:06æ¨Ç"$AstraZeneca tokenized stock (xStock)*3Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢Ø³ØªØ±Ø§Ø²Ù†Ú©Ø§286.23:10006608A®Gázæ?H¬¼'R=https://s2.coinmarketcap.com/static/img/coins/64x64/37018.png
-¬
-
-1404/07/1914:05Ôå¨Ç"DSLA Protocol*&Ø¯ÛŒâ€ŒØ§Ø³â€ŒØ§Ù„â€ŒØ§ÛŒ Ù¾Ø±ÙˆØªÚ©Ù„20.000118:13.65AÃõ(\Â$ÀH¸'R<https://s2.coinmarketcap.com/static/img/coins/64x64/5423.png
-•
-
-1404/07/1914:06æ¨Ç"	Baby Pepe*Ø¨ÛŒØ¨ÛŒ Ù¾Ù¾Ù‡2
-0.00000153:0.1778A33333³)ÀH´ª'R=https://s2.coinmarketcap.com/static/img/coins/64x64/31752.png
+1404/07/1914:20Øì¨Ç"WeFi*ÙˆÛŒâ€ŒÙØ§ÛŒ20.0166:1922A
+×£p=
+ï?H»µ*R=https://s2.coinmarketcap.com/static/img/coins/64x64/24771.png
 —
 
-1404/07/1914:05Ôå¨Ç"Long*Ù„Ø§Ù†Ú¯20.0000008210855247902471:0.0953Aq=
+1404/07/1914:19œì¨Ç"Povel Durev*Ù¾Ø§ÙˆÙ„ Ø¯ÙˆØ±Ùˆ20.007303:846.12A®Gáz3ÀH»¬*R=https://s2.coinmarketcap.com/static/img/coins/64x64/31061.png
+¢
+
+1404/07/1914:19œì¨Ç"FenerbahÃ§e Token*ÙÙ†Ø±Ø¨Ø§ØºÚ†Ù‡ ØªÙˆÚ©Ù†20.3181:36850AÃõ(\B$ÀH©*R=https://s2.coinmarketcap.com/static/img/coins/64x64/11308.png
+–
+
+1404/07/1914:19œì¨Ç"
+Buckazoids*Ø¨Ø§Ú©Ø§Ø²ÙˆÛŒØ¯Ø²20.000688:79.74A…ëQ¸"ÀHè€*R=https://s2.coinmarketcap.com/static/img/coins/64x64/36391.png
+Š
+
+1404/07/1914:19œì¨Ç"Walken*
+ÙˆØ§Ú©ÙÙ†20.000459:53.19A\Âõ(\"ÀHı)R=https://s2.coinmarketcap.com/static/img/coins/64x64/18775.png
+¬
+
+1404/07/1914:19œì¨Ç"SafeMoon Inu*Ø³ÛŒÙ Ù…ÙˆÙ† Ø§ÛŒÙ†Ùˆ20.0000006839532925072241:0.0792AìQ¸…ëÀH±ß)R<https://s2.coinmarketcap.com/static/img/coins/64x64/9958.png
+›
+
+1404/07/1914:19œì¨Ç"
+K9 Finance*Ú©ÛŒ Û¹ ÙØ§ÛŒÙ†Ù†Ø³2
+0.00000170:0.1964AHáz®G&ÀHĞ)R=https://s2.coinmarketcap.com/static/img/coins/64x64/29665.png
+”
+
+1404/07/1914:20Øì¨Ç"SAD HAMSTER*Ø³Ø¯ Ù‡Ù…Ø³ØªØ±20.000724:83.83A)\Âõ(3ÀH¾Ì)R=https://s2.coinmarketcap.com/static/img/coins/64x64/31284.png
+˜
+
+1404/07/1914:19œì¨Ç"Locked Money*Ù„Ø§Ú©Øª Ù…Ø§Ù†ÛŒ20.001130:130.91AÍÌÌÌÌÌ'ÀH¤Æ)R=https://s2.coinmarketcap.com/static/img/coins/64x64/35101.png
+•
+
+1404/07/1914:19œì¨Ç"Unification*ÛŒÙˆÙ†ÛŒÙÛŒÚ©ÛŒØ´Ù†20.0197:2286A¤p=
+×£ÀH”¾)R<https://s2.coinmarketcap.com/static/img/coins/64x64/3854.png
+‰
+
+1404/07/1914:19œì¨Ç"Revomon*Ø±ÙˆÙˆÙ…ÙˆÙ†20.0226:2619AìQ¸…k&ÀH†¾)R<https://s2.coinmarketcap.com/static/img/coins/64x64/9200.png
+…
+
+1404/07/1914:19œì¨Ç"Ferro*ÙØ±Ùˆ20.000727:84.28A\Âõ(\+ÀHö³)R=https://s2.coinmarketcap.com/static/img/coins/64x64/20716.png
+£
+
+1404/07/1914:19œì¨Ç"Everton Fan Token*Ø§ÙˆØ±ØªÙˆÙ† ÙÙ† ØªÙˆÚ©Ù†20.1135:13151A×£p=
+W/ÀHã›)R=https://s2.coinmarketcap.com/static/img/coins/64x64/15131.png
+™
+
+1404/07/1914:19œì¨Ç"Clustr Labs*Ú©Ù„Ø§Ø³ØªØ± Ù„Ø¨Ø²20.001348:156.19AìQ¸…ë'ÀH)R=https://s2.coinmarketcap.com/static/img/coins/64x64/35228.png
+w
+
+1404/07/1914:19œì¨Ç"Hush*Ù‡Ø§Ø´20.0562:6508Hƒ)R<https://s2.coinmarketcap.com/static/img/coins/64x64/1466.png
+
+
+1404/07/1914:19œì¨Ç"Dypius*Ø¯Ø§ÛŒÙ¾ÛŒÙˆØ³20.003667:424.82A)\Âõ¨.ÀH¯‰)R=https://s2.coinmarketcap.com/static/img/coins/64x64/28543.png
+–
+
+1404/07/1914:19œì¨Ç"
+ANGL TOKEN*Ø§Ù†Ú¯Ù„ ØªÙˆÚ©Ù†20.002813:325.88A     €2ÀHï‡)R=https://s2.coinmarketcap.com/static/img/coins/64x64/36841.png
+´
+
+1404/07/1914:19œì¨Ç"GÃ¶ztepe S.K. Fan Token*&Ú¯ÙˆØ²ØªÙ¾Ù‡ Ø§Ø³â€ŒÚ©ÛŒ ÙÙ† ØªÙˆÚ©Ù†20.1746:20232A…ëQ¸"ÀHã„)R<https://s2.coinmarketcap.com/static/img/coins/64x64/9507.png
+­
+
+1404/07/1914:19œì¨Ç"CryptoTradingFund*$Ú©Ø±ÛŒÙ¾ØªÙˆ ØªØ±ÛŒØ¯ÛŒÙ†Ú¯ ÙØ§Ù†Ø¯20.1419:16434Aö(\Âu=ÀHÔõ(R=https://s2.coinmarketcap.com/static/img/coins/64x64/29396.png
+ª
+
+1404/07/1914:19œì¨Ç"Ibiza Final Boss* Ø§ÛŒØ¨ÛŒØ²Ø§ ÙØ§ÛŒÙ†Ø§Ù„ Ø¨Ø§Ø³20.000718:83.23A=
+×£p}>ÀHùå(R=https://s2.coinmarketcap.com/static/img/coins/64x64/37666.png
+
+
+1404/07/1914:19œì¨Ç"Nabox*Ù†Ø§ Ø¨Ø§Ú©Ø³2
+0.00000320:0.3705A®Gáz@H·Û(R<https://s2.coinmarketcap.com/static/img/coins/64x64/9653.png
+•
+
+1404/07/1914:19œì¨Ç"	Trollcoin*ØªØ±ÙˆÙ„â€ŒÚ©ÙˆÛŒÙ†20.001122:129.94A=
+×£p=ÀHÕÊ(R;https://s2.coinmarketcap.com/static/img/coins/64x64/638.png
+…
+
+1404/07/1914:19œì¨Ç"Vidya*
+ÙˆÛŒØ¯ÛŒØ§20.0168:1948Aáz®Ga)ÀHˆÆ(R<https://s2.coinmarketcap.com/static/img/coins/64x64/6709.png
+‰
+
+1404/07/1914:19œì¨Ç"Giveth*Ú¯ÛŒÙˆØ«20.001736:201.15A\Âõ(Ü#ÀHÙ¨(R=https://s2.coinmarketcap.com/static/img/coins/64x64/17207.png
+’
+
+1404/07/1914:20Øì¨Ç"holoride*Ù‡ÙˆÙ„ÙˆØ±Ø§ÛŒØ¯20.000751:86.97A     €5ÀH©¨(R=https://s2.coinmarketcap.com/static/img/coins/64x64/14145.png
+¶
+
+1404/07/1914:19œì¨Ç"Spain National Fan Token*'Ø§Ø³Ù¾Ø§Ù†ÛŒØ§ Ù†Ø´Ù†Ø§Ù„ ÙÙ† ØªÙˆÚ©Ù†20.0288:3341A
+×£p=
++ÀHĞ§(R=https://s2.coinmarketcap.com/static/img/coins/64x64/12398.png
+—
+
+1404/07/1914:19œì¨Ç"
+Everyworld*Ø§ÙˆØ±ÛŒâ€ŒÙˆØ±Ù„Ø¯20.000259:29.97A      ÀHËŸ(R=https://s2.coinmarketcap.com/static/img/coins/64x64/30357.png
+‹
+
+1404/07/1914:20Øì¨Ç"Vertus*
+ÙˆØ±ØªÙˆØ³20.001246:144.39A…ëQ¸…@H¬(R=https://s2.coinmarketcap.com/static/img/coins/64x64/33227.png
+Œ
+
+1404/07/1914:20Øì¨Ç"Monavale*Ù…ÙˆÙ†Ø§ÙˆÙ„262.83:7278866AÃõ(\B"ÀH®Œ(R<https://s2.coinmarketcap.com/static/img/coins/64x64/7866.png
+—
+
+1404/07/1914:19œì¨Ç"NikolAI*Ù†ÛŒÚ©ÙˆÙ„ Ø§ÛŒâ€ŒØ¢ÛŒ20.000654:75.75Afffffæ1ÀH•ô'R=https://s2.coinmarketcap.com/static/img/coins/64x64/33801.png
+•
+
+1404/07/1914:19œì¨Ç"Belt Finance*Ø¨Ù„Øª ÙØ§ÛŒÙ†Ù†Ø³20.0680:7875AÍÌÌÌÌL%ÀHËÏ'R<https://s2.coinmarketcap.com/static/img/coins/64x64/8730.png
+Ñ
+
+1404/07/1914:19œì¨Ç"$AstraZeneca tokenized stock (xStock)*3Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¢Ø³ØªØ±Ø§Ø²Ù†Ú©Ø§286.45:10015064A®Gáz®ï?H›É'R=https://s2.coinmarketcap.com/static/img/coins/64x64/37018.png
+š
+
+1404/07/1914:19œì¨Ç"Ski Mask Cat*Ø§Ø³Ú©ÛŒ Ù…Ø³Ú© Ú©Øª20.000655:75.85A{®Gáz&ÀHáÈ'R=https://s2.coinmarketcap.com/static/img/coins/64x64/34771.png
+£
+
+1404/07/1914:20Øì¨Ç"eXPerience Chain*Ø§Ú©Ø³Ù¾Ø±ÛŒÙ†Ø³ Ú†ÛŒÙ†2
+0.00000712:0.8244A…ëQ¸ÀHäÇ'R<https://s2.coinmarketcap.com/static/img/coins/64x64/3750.png
+¥
+
+1404/07/1914:20Øì¨Ç"Skillful AI*Ø§Ø³Ú©ÛŒÙ„â€ŒÙÙˆÙ„ Ø§ÛŒâ€ŒØ¢ÛŒ20.001780:206.26A×£p=
+×ë¿HîÁ'R=https://s2.coinmarketcap.com/static/img/coins/64x64/31716.png
+„
+
+1404/07/1914:20Øì¨Ç"888*Û¸Û¸Û¸20.007281:843.49Afffffæ4ÀH†¾'R=https://s2.coinmarketcap.com/static/img/coins/64x64/33858.png
+•
+
+1404/07/1914:19œì¨Ç"	Baby Pepe*Ø¨ÛŒØ¨ÛŒ Ù¾Ù¾Ù‡2
+0.00000153:0.1775A33333³)ÀH´ª'R=https://s2.coinmarketcap.com/static/img/coins/64x64/31752.png
+—
+
+1404/07/1914:19œì¨Ç"Long*Ù„Ø§Ù†Ú¯20.0000008210855247902471:0.0951Aq=
 ×£ğ+ÀH¨£'R=https://s2.coinmarketcap.com/static/img/coins/64x64/30968.png
 …
 
-1404/07/1914:06æ¨Ç"STAKE*
-Ø§Ø³ØªÛŒÚ©20.0759:8812A…ëQ¸ÀHÖš'R<https://s2.coinmarketcap.com/static/img/coins/64x64/5601.png
-¥
-
-1404/07/1914:05Ôå¨Ç"ETHEREUM IS GOOD*Ø§ØªØ±ÛŒÙˆÙ… Ø§ÛŒØ² Ú¯ÙˆØ¯2
-0.00006406:7.43A33333³&ÀH·Œ'R=https://s2.coinmarketcap.com/static/img/coins/64x64/32790.png
+1404/07/1914:20Øì¨Ç"STAKE*
+Ø§Ø³ØªÛŒÚ©20.0759:8797A…ëQ¸ÀHÖš'R<https://s2.coinmarketcap.com/static/img/coins/64x64/5601.png
 ³
 
-1404/07/1914:05Ôå¨Ç"Brazil National Fan Token*#Ø¨Ø±Ø²ÛŒÙ„ Ù†Ø´Ù†Ø§Ù„ ÙÙ† ØªÙˆÚ©Ù†20.0222:2582A…ëQ¸ÀHÁˆ'R=https://s2.coinmarketcap.com/static/img/coins/64x64/11714.png
-Ÿ
+1404/07/1914:20Øì¨Ç"Brazil National Fan Token*#Ø¨Ø±Ø²ÛŒÙ„ Ù†Ø´Ù†Ø§Ù„ ÙÙ† ØªÙˆÚ©Ù†20.0223:2580A¸…ëQ¸ÀHª'R=https://s2.coinmarketcap.com/static/img/coins/64x64/11714.png
+¥
 
-1404/07/1914:06æ¨Ç"xHashtag DAO*Ø§ÛŒÚ©Ø³ Ù‡Ø´ØªÚ¯ Ø¯Ø§Ø¦Ùˆ20.009672:1122A®Gáz”'ÀH÷‡'R=https://s2.coinmarketcap.com/static/img/coins/64x64/12781.png
+1404/07/1914:19œì¨Ç"ETHEREUM IS GOOD*Ø§ØªØ±ÛŒÙˆÙ… Ø§ÛŒØ² Ú¯ÙˆØ¯2
+0.00006406:7.42A\Âõ(\ÀH·Œ'R=https://s2.coinmarketcap.com/static/img/coins/64x64/32790.png
 
 
-1404/07/1914:06æ¨Ç"Nova Fox*Ù†ÙˆØ§ÙØ§Ú©Ø³20.0692:8028AÂõ(\7ÀHâ†'R=https://s2.coinmarketcap.com/static/img/coins/64x64/36568.png
+1404/07/1914:20Øì¨Ç"Nova Fox*Ù†ÙˆØ§ÙØ§Ú©Ø³20.0692:8014AÂõ(\7ÀHâ†'R=https://s2.coinmarketcap.com/static/img/coins/64x64/36568.png
+Ÿ
+
+1404/07/1914:20Øì¨Ç"xHashtag DAO*Ø§ÛŒÚ©Ø³ Ù‡Ø´ØªÚ¯ Ø¯Ø§Ø¦Ùˆ20.009666:1120AR¸…ëÑ'ÀHæ„'R=https://s2.coinmarketcap.com/static/img/coins/64x64/12781.png
 
 
-1404/07/1914:06æ¨Ç"Groyper*Ú¯Ø±ÙˆÛŒÙ¾Ø±20.006864:796.61A…ëQ¸2ÀH³û&R=https://s2.coinmarketcap.com/static/img/coins/64x64/31464.png
+1404/07/1914:19œì¨Ç"Groyper*Ú¯Ø±ÙˆÛŒÙ¾Ø±20.006864:795.26A…ëQ¸2ÀH³û&R=https://s2.coinmarketcap.com/static/img/coins/64x64/31464.png
+™
+
+1404/07/1914:19œì¨Ç"FCK925*Ø§Ùâ€ŒØ³ÛŒâ€ŒÚ©ÛŒ Û¹Û²Ûµ20.000638:73.93A     À?ÀH‰ù&R=https://s2.coinmarketcap.com/static/img/coins/64x64/37278.png
 š
 
-1404/07/1914:05Ôå¨Ç"Deeper Network*Ø¯ÛŒÙ¾Ø± Ù†ØªÙˆØ±Ú©20.000199:23.09A{®Gáz'ÀHèø&R<https://s2.coinmarketcap.com/static/img/coins/64x64/8894.png
-œ
-
-1404/07/1914:05Ôå¨Ç"Broak on Base*Ø¨Ø±Ø§Ú© Ø¢Ù† Ø¨ÛŒØ³20.001030:119.48Affffff0ÀH©ï&R=https://s2.coinmarketcap.com/static/img/coins/64x64/36641.png
+1404/07/1914:19œì¨Ç"Deeper Network*Ø¯ÛŒÙ¾Ø± Ù†ØªÙˆØ±Ú©20.000199:23.04A…ëQ¸…'ÀHáö&R<https://s2.coinmarketcap.com/static/img/coins/64x64/8894.png
 
 
-1404/07/1914:06æ¨Ç"	Bitgesell*Ø¨ÛŒØªâ€ŒØ¬Ø³ÙÙ„20.0393:4556A
+1404/07/1914:19œì¨Ç"	Bitgesell*Ø¨ÛŒØªâ€ŒØ¬Ø³ÙÙ„20.0393:4548A
 ×£p=
 !@HÍÛ&R<https://s2.coinmarketcap.com/static/img/coins/64x64/5667.png
 
 
-1404/07/1914:05Ôå¨Ç"Paribus*Ù¾Ø§Ø±ÛŒØ¨ÙˆØ³2
-0.00008431:9.78Aš™™™™™ ÀHÒÓ&R=https://s2.coinmarketcap.com/static/img/coins/64x64/11366.png
-
-
-1404/07/1914:05Ôå¨Ç"SGC*Ø§Ø³â€ŒØ¬ÛŒâ€ŒØ³ÛŒ20.000370:42.93A=
-×£p}>ÀH¼&R=https://s2.coinmarketcap.com/static/img/coins/64x64/36537.png
+1404/07/1914:19œì¨Ç"Paribus*Ù¾Ø§Ø±ÛŒØ¨ÙˆØ³2
+0.00008412:9.75A…ëQ¸!ÀHĞÈ&R=https://s2.coinmarketcap.com/static/img/coins/64x64/11366.png
 ˜
 
-1404/07/1914:06æ¨Ç"	Sharpe AI*Ø´Ø§Ø±Ù¾ Ø§ÛŒâ€ŒØ¢ÛŒ20.005585:648.16A33333³.ÀH¡&R=https://s2.coinmarketcap.com/static/img/coins/64x64/32836.png
+1404/07/1914:20Øì¨Ç"	Sharpe AI*Ø´Ø§Ø±Ù¾ Ø§ÛŒâ€ŒØ¢ÛŒ20.005603:649.17A…ëQ¸…-ÀH”Ÿ&R=https://s2.coinmarketcap.com/static/img/coins/64x64/32836.png
+œ
+
+1404/07/1914:19œì¨Ç"Broak on Base*Ø¨Ø±Ø§Ú© Ø¢Ù† Ø¨ÛŒØ³20.001010:116.97A…ëQ¸2ÀH’&R=https://s2.coinmarketcap.com/static/img/coins/64x64/36641.png
 ‘
 
-1404/07/1914:05Ôå¨Ç"Volumint*ÙˆÙ„ÙˆÙ…ÛŒÙ†Øª20.001128:130.93Aö(\Âõğ¿Hé‚&R=https://s2.coinmarketcap.com/static/img/coins/64x64/28962.png
+1404/07/1914:19œì¨Ç"Volumint*ÙˆÙ„ÙˆÙ…ÛŒÙ†Øª20.001128:130.70Aö(\Âõğ¿H£‚&R=https://s2.coinmarketcap.com/static/img/coins/64x64/28962.png
+¬
+
+1404/07/1914:19œì¨Ç"DSLA Protocol*&Ø¯ÛŒâ€ŒØ§Ø³â€ŒØ§Ù„â€ŒØ§ÛŒ Ù¾Ø±ÙˆØªÚ©Ù„20.000113:13.10A®Gáz®+ÀH—õ%R<https://s2.coinmarketcap.com/static/img/coins/64x64/5423.png
 ™
 
-1404/07/1914:06æ¨Ç"Laika AI*Ù„Ø§ÛŒÚ©Ø§ Ø§ÛŒâ€ŒØ¢ÛŒ20.001447:167.95A33333s8ÀHğé%R=https://s2.coinmarketcap.com/static/img/coins/64x64/31881.png
+1404/07/1914:20Øì¨Ç"Laika AI*Ù„Ø§ÛŒÚ©Ø§ Ø§ÛŒâ€ŒØ¢ÛŒ20.001448:167.77A¤p=
+×£7ÀHíì%R=https://s2.coinmarketcap.com/static/img/coins/64x64/31881.png
 ‰
 
-1404/07/1914:06æ¨Ç"Gemach*Ø¬Ù…Ø§Ú†20.001239:143.83A®Gáz+ÀH²é%R=https://s2.coinmarketcap.com/static/img/coins/64x64/27194.png
+1404/07/1914:19œì¨Ç"Gemach*Ø¬Ù…Ø§Ú†20.001239:143.59A®Gáz+ÀH²é%R=https://s2.coinmarketcap.com/static/img/coins/64x64/27194.png
 §
 
-1404/07/1914:06æ¨Ç"	Pepoclown*Ù¾Ù¾Ùˆ Ú©Ù„ÙˆÙ†20.000000001491959856950323:0.000173A
+1404/07/1914:19œì¨Ç"	Pepoclown*Ù¾Ù¾Ùˆ Ú©Ù„ÙˆÙ†20.000000001491959856950323:0.000173A
 ×£p=Š-ÀH§ç%R=https://s2.coinmarketcap.com/static/img/coins/64x64/31770.png
 ˜
 
-1404/07/1914:05Ôå¨Ç"	Garlicoin*Ú¯Ø§Ø±Ù„ÛŒÚ©â€ŒÚ©ÙˆÛŒÙ†20.008985:1043A     À1ÀHŸŞ%R<https://s2.coinmarketcap.com/static/img/coins/64x64/2475.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Game7*	Ú¯ÛŒÙ… Û·20.000268:31.14A®GázN@ÀHšÕ%R=https://s2.coinmarketcap.com/static/img/coins/64x64/35736.png
-¦
-
-1404/07/1914:06æ¨Ç"Nutcoin*Ù†Ø§Øªâ€ŒÚ©ÙˆÛŒÙ†20.00000003057558412576073:0.003548AÂõ(\"ÀHË¿%R=https://s2.coinmarketcap.com/static/img/coins/64x64/28417.png
-†
-
-1404/07/1914:06æ¨Ç"NULS*Ù†Ø§Ù„Ø²20.005380:624.33AìQ¸…ëÀHÏ¸%R<https://s2.coinmarketcap.com/static/img/coins/64x64/2092.png
-©
-
-1404/07/1914:05Ôå¨Ç"Openfabric AI*!Ø§ÙˆÙ¾Ù† ÙØ§Ø¨Ø±ÛŒÚ© Ø§ÛŒâ€ŒØ¢ÛŒ20.003501:406.32AHáz®G9ÀHÒ®%R=https://s2.coinmarketcap.com/static/img/coins/64x64/28245.png
-•
-
-1404/07/1914:05Ôå¨Ç"
-SpookySwap*Ø§Ø³Ù¾ÙˆÚ©ÛŒ Ø³ÙˆØ§Ù¾20.0652:7562Aö(\ÂÕ@ÀHä¬%R<https://s2.coinmarketcap.com/static/img/coins/64x64/9608.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Carlo*
-Ú©Ø§Ø±Ù„Ùˆ20.000659:76.43A
-×£p=
-.ÀH¯¡%R=https://s2.coinmarketcap.com/static/img/coins/64x64/31036.png
-•
-
-1404/07/1914:05Ôå¨Ç"CryBaby*Ú©Ø±Ø§ÛŒâ€ŒØ¨ÛŒØ¨ÛŒ20.000876:101.69Aö(\ÂuAÀHÍ%R=https://s2.coinmarketcap.com/static/img/coins/64x64/36802.png
-•
-
-1404/07/1914:05Ôå¨Ç"
-Roost Coin*Ø±ÙˆØ³Øª Ú©ÙˆÛŒÙ†20.000648:75.24A…ëQ¸…ÀHËŠ%R=https://s2.coinmarketcap.com/static/img/coins/64x64/30407.png
+1404/07/1914:19œì¨Ç"FU Coin*Ø§Ùâ€ŒÛŒÙˆ Ú©ÙˆÛŒÙ†2
+0.00000317:0.3677A)\Âõ¨#ÀH‡Ø%R=https://s2.coinmarketcap.com/static/img/coins/64x64/33087.png
 ˜
 
-1404/07/1914:05Ôå¨Ç"FU Coin*Ø§Ùâ€ŒÛŒÙˆ Ú©ÙˆÛŒÙ†2
-0.00000311:0.3610AHáz®G'ÀH÷$R=https://s2.coinmarketcap.com/static/img/coins/64x64/33087.png
-†
-
-1404/07/1914:05Ôå¨Ç"Honk*Ù‡ÙˆÙ†Ú©20.000655:76.05A333333.ÀH½å$R=https://s2.coinmarketcap.com/static/img/coins/64x64/29153.png
-‡
-
-1404/07/1914:06æ¨Ç"ROOBEE*Ø±ÙˆØ¨ÛŒ20.000147:17.05AÃõ(\Â@HÌã$R<https://s2.coinmarketcap.com/static/img/coins/64x64/4804.png
-£
-
-1404/07/1914:05Ôå¨Ç"BBS Network*Ø¨ÛŒâ€ŒØ¨ÛŒâ€ŒØ§Ø³ Ù†ØªÙˆØ±Ú©20.008475:983.55AìQ¸…ë±?HÀİ$R=https://s2.coinmarketcap.com/static/img/coins/64x64/18184.png
-™
-
-1404/07/1914:06æ¨Ç" PepsiCo tokenized stock (xStock)2149.87:17392639Aq=
-×£p	@H¿Ë$R=https://s2.coinmarketcap.com/static/img/coins/64x64/37064.png
-
-
-1404/07/1914:05Ôå¨Ç"STARSHIP*Ø§Ø³ØªØ§Ø±Ø´ÛŒÙ¾20.0317:3677A…ëQ¸(ÀHêÈ$R<https://s2.coinmarketcap.com/static/img/coins/64x64/9962.png
-£
-
-1404/07/1914:05Ôå¨Ç"Cryptify AI*Ú©Ø±ÛŒÙ¾ØªÛŒÙØ§ÛŒ Ø§ÛŒâ€ŒØ¢ÛŒ20.000618:71.74AÍÌÌÌÌŒ6ÀHç´$R=https://s2.coinmarketcap.com/static/img/coins/64x64/35262.png
-¡
-
-1404/07/1914:06æ¨Ç"Hasbulla's Cat*Ø­Ø³Ø¨â€ŒØ§Ù„Ù„Ù‡'Ø² Ú©Øª20.000596:69.13A=
-×£p½!@Hì­$R=https://s2.coinmarketcap.com/static/img/coins/64x64/34007.png
+1404/07/1914:20Øì¨Ç"	Garlicoin*Ú¯Ø§Ø±Ù„ÛŒÚ©â€ŒÚ©ÙˆÛŒÙ†20.008973:1040A®GázÔ1ÀHÙ×%R<https://s2.coinmarketcap.com/static/img/coins/64x64/2475.png
 §
 
-1404/07/1914:05Ôå¨Ç"QnA3.AI*&Ú©ÛŒÙˆ Ø§Ù† Ø§ÛŒ Û³ Ø¯Ø§Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.000714:82.86A=
-×£p=ÀHÖ$R=https://s2.coinmarketcap.com/static/img/coins/64x64/29576.png
-£
-
-1404/07/1914:05Ôå¨Ç"Saakuru Protocol*Ø³Ø§Ú©ÙˆØ±Ùˆ Ù¾Ø±ÙˆØªÚ©Ù„20.000727:84.31AR¸…ëQÀH¯“$R=https://s2.coinmarketcap.com/static/img/coins/64x64/30934.png
-
-
-1404/07/1914:06æ¨Ç"Spore*
-Ø§Ø³Ù¾ÙˆØ±20.00000000001937776677728:
-0.00000200AÍÌÌÌÌÌ*ÀH÷$R<https://s2.coinmarketcap.com/static/img/coins/64x64/9468.png
-
-
-1404/07/1914:05Ôå¨Ç"Bitrock*Ø¨ÛŒØª Ø±Ø§Ú©20.006225:722.39A33333³=ÀHÏ‰$R=https://s2.coinmarketcap.com/static/img/coins/64x64/27606.png
-‘
-
-1404/07/1914:05Ôå¨Ç"XRADERS*Ø§ÛŒÚ©Ø³ Ø±ÛŒØ¯Ø±Ø²20.0116:1348AHáz®G-ÀHø‡$R=https://s2.coinmarketcap.com/static/img/coins/64x64/32157.png
-¡
-
-1404/07/1914:06æ¨Ç"KAI KEN*Ú©Ø§ÛŒ Ú©Ù†20.000000001403261091898606:0.000163A\Âõ(\$ÀH„$R=https://s2.coinmarketcap.com/static/img/coins/64x64/32000.png
-‚
-
-1404/07/1914:05Ôå¨Ç"ORA*Ø§ÙˆØ±Ø§20.0161:1866A×£p=
-×'ÀHŞı#R=https://s2.coinmarketcap.com/static/img/coins/64x64/34165.png
-˜
-
-1404/07/1914:05Ôå¨Ç"Wing Finance*ÙˆÛŒÙ†Ú¯ ÙØ§ÛŒÙ†Ù†Ø³20.1120:13001Affffff&ÀHı#R<https://s2.coinmarketcap.com/static/img/coins/64x64/7048.png
-—
-
-1404/07/1914:06æ¨Ç"My DeFi Pet*Ù…Ø§ÛŒ Ø¯ÛŒÙØ§ÛŒ Ù¾Øª20.0136:1581A…ëQ¸…ÀH¬÷#R<https://s2.coinmarketcap.com/static/img/coins/64x64/9665.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"Top Hat*ØªØ§Ù¾ Ù‡Øª20.000595:68.99A=
-×£p=3ÀH¥ö#R=https://s2.coinmarketcap.com/static/img/coins/64x64/35075.png
-›
-
-1404/07/1914:05Ôå¨Ç"Synesis One*Ø³ÛŒÙ†ÙØ³ÛŒØ³ ÙˆØ§Ù†20.001289:149.60A…ëQ¸.ÀHñò#R=https://s2.coinmarketcap.com/static/img/coins/64x64/17231.png
-£
-
-1404/07/1914:06æ¨Ç"
-Stream SZN*Ø§Ø³ØªØ±ÛŒÙ… Ø§Ø³â€ŒØ²Ø¯â€ŒØ§Ù†20.000588:68.18A®Gáz"ÀH“î#R=https://s2.coinmarketcap.com/static/img/coins/64x64/38412.png
+1404/07/1914:20Øì¨Ç"Nutcoin*Ù†Ø§Øªâ€ŒÚ©ÙˆÛŒÙ†20.000000030517749260427054:0.003536Afffffæ"ÀHÁ¶%R=https://s2.coinmarketcap.com/static/img/coins/64x64/28417.png
 ˆ
 
-1404/07/1914:05Ôå¨Ç"Feathercoin*ÙØ¯Ø± Ú©ÙˆÛŒÙ†20.002482:288.06H¢ì#R9https://s2.coinmarketcap.com/static/img/coins/64x64/8.png
+1404/07/1914:19œì¨Ç"Game7*	Ú¯ÛŒÙ… Û·20.000267:30.88AHáz®G?ÀH®µ%R=https://s2.coinmarketcap.com/static/img/coins/64x64/35736.png
+‰
+
+1404/07/1914:20Øì¨Ç"Carlo*
+Ú©Ø§Ø±Ù„Ùˆ20.000659:76.30A…ëQ¸…*ÀH¯¡%R=https://s2.coinmarketcap.com/static/img/coins/64x64/31036.png
+†
+
+1404/07/1914:20Øì¨Ç"NULS*Ù†Ø§Ù„Ø²20.005349:619.71A
+×£p=
+ÀH%R<https://s2.coinmarketcap.com/static/img/coins/64x64/2092.png
+•
+
+1404/07/1914:19œì¨Ç"
+SpookySwap*Ø§Ø³Ù¾ÙˆÚ©ÛŒ Ø³ÙˆØ§Ù¾20.0647:7500AÍÌÌÌÌAÀH×%R<https://s2.coinmarketcap.com/static/img/coins/64x64/9608.png
+•
+
+1404/07/1914:19œì¨Ç"
+Roost Coin*Ø±ÙˆØ³Øª Ú©ÙˆÛŒÙ†20.000648:75.11AHáz®G"ÀH·Š%R=https://s2.coinmarketcap.com/static/img/coins/64x64/30407.png
+
+
+1404/07/1914:19œì¨Ç"SGC*Ø§Ø³â€ŒØ¬ÛŒâ€ŒØ³ÛŒ20.000359:41.54A×£p=
+—@ÀHÄ‡%R=https://s2.coinmarketcap.com/static/img/coins/64x64/36537.png
+©
+
+1404/07/1914:19œì¨Ç"Openfabric AI*!Ø§ÙˆÙ¾Ù† ÙØ§Ø¨Ø±ÛŒÚ© Ø§ÛŒâ€ŒØ¢ÛŒ20.003466:401.59A
+×£p=J9ÀH…ÿ$R=https://s2.coinmarketcap.com/static/img/coins/64x64/28245.png
+•
+
+1404/07/1914:19œì¨Ç"CryBaby*Ú©Ø±Ø§ÛŒâ€ŒØ¨ÛŒØ¨ÛŒ20.000869:100.73AÃõ(\ÂAÀHÓø$R=https://s2.coinmarketcap.com/static/img/coins/64x64/36802.png
+£
+
+1404/07/1914:20Øì¨Ç"BBS Network*Ø¨ÛŒâ€ŒØ¨ÛŒâ€ŒØ§Ø³ Ù†ØªÙˆØ±Ú©20.008478:982.21Aš™™™™™©?HŠß$R=https://s2.coinmarketcap.com/static/img/coins/64x64/18184.png
+™
+
+1404/07/1914:19œì¨Ç" PepsiCo tokenized stock (xStock)2149.91:17367443A×£p=
+×	@HÕÌ$R=https://s2.coinmarketcap.com/static/img/coins/64x64/37064.png
+
+
+1404/07/1914:19œì¨Ç"STARSHIP*Ø§Ø³ØªØ§Ø±Ø´ÛŒÙ¾20.0317:3671A…ëQ¸(ÀHêÈ$R<https://s2.coinmarketcap.com/static/img/coins/64x64/9962.png
+†
+
+1404/07/1914:19œì¨Ç"Honk*Ù‡ÙˆÙ†Ú©20.000648:75.10AHáz®0ÀH©²$R=https://s2.coinmarketcap.com/static/img/coins/64x64/29153.png
+¡
+
+1404/07/1914:20Øì¨Ç"Hasbulla's Cat*Ø­Ø³Ø¨â€ŒØ§Ù„Ù„Ù‡'Ø² Ú©Øª20.000595:68.99A®Gáz®!@Hé«$R=https://s2.coinmarketcap.com/static/img/coins/64x64/34007.png
+Ÿ
+
+1404/07/1914:20Øì¨Ç"Spore*
+Ø§Ø³Ù¾ÙˆØ±20.000000000019459520276447:
+0.00000200A      )ÀH¸¢$R<https://s2.coinmarketcap.com/static/img/coins/64x64/9468.png
+§
+
+1404/07/1914:19œì¨Ç"QnA3.AI*&Ú©ÛŒÙˆ Ø§Ù† Ø§ÛŒ Û³ Ø¯Ø§Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.000713:82.64Aš™™™™™ÀH¤š$R=https://s2.coinmarketcap.com/static/img/coins/64x64/29576.png
+£
+
+1404/07/1914:20Øì¨Ç"Saakuru Protocol*Ø³Ø§Ú©ÙˆØ±Ùˆ Ù¾Ø±ÙˆØªÚ©Ù„20.000727:84.17AR¸…ëQÀHÏ“$R=https://s2.coinmarketcap.com/static/img/coins/64x64/30934.png
 ›
 
-1404/07/1914:05Ôå¨Ç"DAFI Protocol*Ø¯Ø§ÙÛŒ Ù¾Ø±ÙˆØªÚ©Ù„20.000516:59.83Aö(\Âõ%ÀH¬ë#R<https://s2.coinmarketcap.com/static/img/coins/64x64/8874.png
+1404/07/1914:19œì¨Ç"DAFI Protocol*Ø¯Ø§ÙÛŒ Ù¾Ø±ÙˆØªÚ©Ù„20.000519:60.14A×£p=
+×#ÀH†‹$R<https://s2.coinmarketcap.com/static/img/coins/64x64/8874.png
+
+
+1404/07/1914:19œì¨Ç"Bitrock*Ø¨ÛŒØª Ø±Ø§Ú©20.006224:721.10Aq=
+×£°=ÀHœ‰$R=https://s2.coinmarketcap.com/static/img/coins/64x64/27606.png
+‘
+
+1404/07/1914:19œì¨Ç"XRADERS*Ø§ÛŒÚ©Ø³ Ø±ÛŒØ¯Ø±Ø²20.0116:1345AR¸…ëQ-ÀHà†$R=https://s2.coinmarketcap.com/static/img/coins/64x64/32157.png
+Œ
+
+1404/07/1914:20Øì¨Ç"Top Hat*ØªØ§Ù¾ Ù‡Øª20.000597:69.11A®GázÔ2ÀHæ…$R=https://s2.coinmarketcap.com/static/img/coins/64x64/35075.png
+›
+
+1404/07/1914:19œì¨Ç"Synesis One*Ø³ÛŒÙ†ÙØ³ÛŒØ³ ÙˆØ§Ù†20.001293:149.85A{®Gáú,ÀH»‚$R=https://s2.coinmarketcap.com/static/img/coins/64x64/17231.png
+¡
+
+1404/07/1914:19œì¨Ç"KAI KEN*Ú©Ø§ÛŒ Ú©Ù†20.000000001401813084847481:0.000162A
+×£p=Š$ÀH ÿ#R=https://s2.coinmarketcap.com/static/img/coins/64x64/32000.png
+‚
+
+1404/07/1914:20Øì¨Ç"ORA*Ø§ÙˆØ±Ø§20.0161:1863A×£p=
+×'ÀHŞı#R=https://s2.coinmarketcap.com/static/img/coins/64x64/34165.png
+£
+
+1404/07/1914:19œì¨Ç"Cryptify AI*Ú©Ø±ÛŒÙ¾ØªÛŒÙØ§ÛŒ Ø§ÛŒâ€ŒØ¢ÛŒ20.000611:70.75A=
+×£p}7ÀHğû#R=https://s2.coinmarketcap.com/static/img/coins/64x64/35262.png
+˜
+
+1404/07/1914:19œì¨Ç"Wing Finance*ÙˆÛŒÙ†Ú¯ ÙØ§ÛŒÙ†Ù†Ø³20.1117:12946A×£p=
+×&ÀH²ñ#R<https://s2.coinmarketcap.com/static/img/coins/64x64/7048.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Feathercoin*ÙØ¯Ø± Ú©ÙˆÛŒÙ†20.002482:287.58H¢ì#R9https://s2.coinmarketcap.com/static/img/coins/64x64/8.png
+º
+
+1404/07/1914:20Øì¨Ç"Renewable Energy*Ø±ÛŒÙ†ÛŒÙˆØ¨Ù„ Ø§Ù†Ø±Ú˜ÛŒ20.000000000029171743427029:
+0.00000300A=
+×£p=6ÀHôè#R=https://s2.coinmarketcap.com/static/img/coins/64x64/20013.png
 «
 
-1404/07/1914:05Ôå¨Ç"Rari Governance Token* Ø±Ø§Ø±ÛŒ Ú¯Ø§ÙˆØ±Ù†Ù†Ø³ ØªÙˆÚ©Ù†20.0468:5431A=
+1404/07/1914:19œì¨Ç"Rari Governance Token* Ø±Ø§Ø±ÛŒ Ú¯Ø§ÙˆØ±Ù†Ù†Ø³ ØªÙˆÚ©Ù†20.0468:5422A=
 ×£p½"ÀHıÏ#R<https://s2.coinmarketcap.com/static/img/coins/64x64/7486.png
 ‰
 
-1404/07/1914:05Ôå¨Ç"	DomRaider*Ø¯Ø§Ù… Ø±ÛŒØ¯Ø±20.000985:114.26HöÅ#R<https://s2.coinmarketcap.com/static/img/coins/64x64/2070.png
-Ò
-
-1404/07/1914:06æ¨Ç"!Alfa Romeo Racing ORLEN Fan Token*9Ø¢Ù„ÙØ§ Ø±ÙˆÙ…Ø¦Ùˆ Ø±ÛŒØ³ÛŒÙ†Ú¯ Ø§ÙˆØ±Ù„Ù† ÙÙ† ØªÙˆÚ©Ù†20.2089:24245AÃõ(\B!@H‡Ã#R=https://s2.coinmarketcap.com/static/img/coins/64x64/10793.png
-‘
-
-1404/07/1914:05Ôå¨Ç"Astrafer*Ø¢Ø³ØªØ±Ø§ÙØ±20.003705:429.93A¸…ëQ¸®¿H“¯#R=https://s2.coinmarketcap.com/static/img/coins/64x64/20886.png
+1404/07/1914:19œì¨Ç"	DomRaider*Ø¯Ø§Ù… Ø±ÛŒØ¯Ø±20.000985:114.07HöÅ#R<https://s2.coinmarketcap.com/static/img/coins/64x64/2070.png
 ®
 
-1404/07/1914:05Ôå¨Ç"Aston Villa Fan Token*!Ø§Ø³ØªÙˆÙ† ÙˆÛŒÙ„Ø§ ÙÙ† ØªÙˆÚ©Ù†20.1317:15281A\Âõ(\+ÀHù­#R=https://s2.coinmarketcap.com/static/img/coins/64x64/15134.png
+1404/07/1914:19œì¨Ç"Aston Villa Fan Token*!Ø§Ø³ØªÙˆÙ† ÙˆÛŒÙ„Ø§ ÙÙ† ØªÙˆÚ©Ù†20.1322:15310A=
+×£p½*ÀH¯¾#R=https://s2.coinmarketcap.com/static/img/coins/64x64/15134.png
+‘
+
+1404/07/1914:19œì¨Ç"Astrafer*Ø¢Ø³ØªØ±Ø§ÙØ±20.003705:429.20A¸…ëQ¸®¿H“¯#R=https://s2.coinmarketcap.com/static/img/coins/64x64/20886.png
+£
+
+1404/07/1914:19œì¨Ç"Wisdomise AI*ÙˆÛŒØ²Ø¯Ù…Ø§ÛŒØ² Ø§ÛŒâ€ŒØ¢ÛŒ20.001028:119.07A…ëQ¸@HĞ©#R=https://s2.coinmarketcap.com/static/img/coins/64x64/30102.png
 Ï
 
-1404/07/1914:05Ôå¨Ç"#Mastercard tokenized stock (xStock)*1Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ù…Ø³ØªØ±Ú©Ø§Ø±Øª2551.10:63955275AHáz®GÀHÚ¨#R=https://s2.coinmarketcap.com/static/img/coins/64x64/37051.png
-”
-
-1404/07/1914:05Ôå¨Ç"	UnMarshal*Ø¢Ù†â€ŒÙ…Ø§Ø±Ø´Ø§Ù„20.008951:1039A®GázÔ2ÀH¸¨#R<https://s2.coinmarketcap.com/static/img/coins/64x64/8963.png
+1404/07/1914:19œì¨Ç"#Mastercard tokenized stock (xStock)*1Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ù…Ø³ØªØ±Ú©Ø§Ø±Øª2550.89:63822447A…ëQ¸…ÀHş¦#R=https://s2.coinmarketcap.com/static/img/coins/64x64/37051.png
 £
 
-1404/07/1914:05Ôå¨Ç"
-BSCStation*Ø¨ÛŒâ€ŒØ§Ø³â€ŒØ³ÛŒ Ø§Ø³ØªÛŒØ´Ù†20.002141:248.42A…ëQ¸…ó?HÜ¢#R<https://s2.coinmarketcap.com/static/img/coins/64x64/9345.png
+1404/07/1914:19œì¨Ç"
+BSCStation*Ø¨ÛŒâ€ŒØ§Ø³â€ŒØ³ÛŒ Ø§Ø³ØªÛŒØ´Ù†20.002140:247.92A333333ó?H«¡#R<https://s2.coinmarketcap.com/static/img/coins/64x64/9345.png
 Ì
 
-1404/07/1914:05Ôå¨Ç""Coca-Cola tokenized stock (xStock)*1Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ú©ÙˆÚ©Ø§Ú©ÙˆÙ„Ø§267.03:7778996A\Âõ(\ß?HÖ—#R=https://s2.coinmarketcap.com/static/img/coins/64x64/37033.png
-º
-
-1404/07/1914:06æ¨Ç"Renewable Energy*Ø±ÛŒÙ†ÛŒÙˆØ¨Ù„ Ø§Ù†Ø±Ú˜ÛŒ20.000000000028613564045812:
-0.00000300A{®Gáú5ÀH—‘#R=https://s2.coinmarketcap.com/static/img/coins/64x64/20013.png
+1404/07/1914:19œì¨Ç""Coca-Cola tokenized stock (xStock)*1Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ú©ÙˆÚ©Ø§Ú©ÙˆÙ„Ø§267.10:7773980A…ëQ¸…ã?H¶œ#R=https://s2.coinmarketcap.com/static/img/coins/64x64/37033.png
 ’
 
-1404/07/1914:05Ôå¨Ç"Neurahub*Ù†ÙˆØ±Ø§ Ù‡Ø§Ø¨20.006990:811.18A      )ÀHÚ#R=https://s2.coinmarketcap.com/static/img/coins/64x64/30196.png
+1404/07/1914:19œì¨Ç"Neurahub*Ù†ÙˆØ±Ø§ Ù‡Ø§Ø¨20.006990:809.81A      )ÀHÚ#R=https://s2.coinmarketcap.com/static/img/coins/64x64/30196.png
+Ò
+
+1404/07/1914:19œì¨Ç"!Alfa Romeo Racing ORLEN Fan Token*9Ø¢Ù„ÙØ§ Ø±ÙˆÙ…Ø¦Ùˆ Ø±ÛŒØ³ÛŒÙ†Ú¯ Ø§ÙˆØ±Ù„Ù† ÙÙ† ØªÙˆÚ©Ù†20.2051:23765A®Gáz®@HŞğ"R=https://s2.coinmarketcap.com/static/img/coins/64x64/10793.png
 …
 
-1404/07/1914:05Ôå¨Ç"Stabull Finance20.3897:45229A…ëQ¸E@ÀHé#R=https://s2.coinmarketcap.com/static/img/coins/64x64/36372.png
-£
+1404/07/1914:20Øì¨Ç"Stabull Finance20.3864:44768AÃõ(\â@ÀHÄè"R=https://s2.coinmarketcap.com/static/img/coins/64x64/36372.png
+‡
 
-1404/07/1914:06æ¨Ç"Wisdomise AI*ÙˆÛŒØ²Ø¯Ù…Ø§ÛŒØ² Ø§ÛŒâ€ŒØ¢ÛŒ20.001021:118.50A…ëQ¸@H«Œ#R=https://s2.coinmarketcap.com/static/img/coins/64x64/30102.png
-œ
-
-1404/07/1914:06æ¨Ç"Carbon browser*Ú©Ø±Ø¨Ù† Ø¨Ø±ÙˆØ²Ø±20.001441:167.22AÍÌÌÌÌÌ&ÀH­ğ"R=https://s2.coinmarketcap.com/static/img/coins/64x64/23546.png
+1404/07/1914:19œì¨Ç"ROOBEE*Ø±ÙˆØ¨ÛŒ20.000139:16.09A
+×£p=
+	ÀH¡â"R<https://s2.coinmarketcap.com/static/img/coins/64x64/4804.png
 
 
-1404/07/1914:06æ¨Ç"Quantum Swap*Ú©ÙˆØ§Ù†ØªÙˆÙ… Ø³ÙˆØ§Ù¾2
-0.00006189:7.18A…ëQ¸…1ÀHˆŞ"R=https://s2.coinmarketcap.com/static/img/coins/64x64/31989.png
+1404/07/1914:19œì¨Ç"Quantum Swap*Ú©ÙˆØ§Ù†ØªÙˆÙ… Ø³ÙˆØ§Ù¾2
+0.00006189:7.17A…ëQ¸…1ÀHˆŞ"R=https://s2.coinmarketcap.com/static/img/coins/64x64/31989.png
 ‚
 
-1404/07/1914:06æ¨Ç"Rook*Ø±ÙˆÚ©20.9204:106809Aáz®Gáò¿H†Ù"R<https://s2.coinmarketcap.com/static/img/coins/64x64/7678.png
-Š
+1404/07/1914:19œì¨Ç"Rook*Ø±ÙˆÚ©20.9204:106630A¸…ëQ¸ò¿H“Ù"R<https://s2.coinmarketcap.com/static/img/coins/64x64/7678.png
+”
 
-1404/07/1914:06æ¨Ç"Bubble*
-Ø¨Ø§Ø¨ÙÙ„20.000196:22.72A\Âõ(Ü/ÀHÊĞ"R=https://s2.coinmarketcap.com/static/img/coins/64x64/31297.png
+1404/07/1914:20Øì¨Ç"	UnMarshal*Ø¢Ù†â€ŒÙ…Ø§Ø±Ø´Ø§Ù„20.008749:1014AHáz®‡4ÀH´Â"R<https://s2.coinmarketcap.com/static/img/coins/64x64/8963.png
 
 
-1404/07/1914:05Ôå¨Ç"PlayZap*Ù¾Ù„ÛŒ Ø²Ù¾20.006602:766.13AÂõ(\&ÀHÊË"R=https://s2.coinmarketcap.com/static/img/coins/64x64/22556.png
+1404/07/1914:19œì¨Ç"PlayZap*Ù¾Ù„ÛŒ Ø²Ù¾20.006585:762.92A®Gáz&ÀHÅÀ"R=https://s2.coinmarketcap.com/static/img/coins/64x64/22556.png
 Ğ
 
-1404/07/1914:05Ôå¨Ç"#Home Depot tokenized stock (xStock)*2Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ù‡ÙˆÙ…â€ŒØ¯ÛŒÙ¾Ùˆ2376.81:43729303AR¸…ëQà¿Hå¿"R=https://s2.coinmarketcap.com/static/img/coins/64x64/37026.png
+1404/07/1914:19œì¨Ç"#Home Depot tokenized stock (xStock)*2Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ù‡ÙˆÙ…â€ŒØ¯ÛŒÙ¾Ùˆ2376.59:43628624AHáz®Gá¿H½"R=https://s2.coinmarketcap.com/static/img/coins/64x64/37026.png
+œ
+
+1404/07/1914:19œì¨Ç"Carbon browser*Ú©Ø±Ø¨Ù† Ø¨Ø±ÙˆØ²Ø±20.001422:164.78A)\Âõ()ÀHî¶"R=https://s2.coinmarketcap.com/static/img/coins/64x64/23546.png
 •
 
-1404/07/1914:05Ôå¨Ç"Scamcoin*Ø§Ø³Ú©Ù…â€ŒÚ©ÙˆÛŒÙ†20.000563:65.28A
+1404/07/1914:19œì¨Ç"Scamcoin*Ø§Ø³Ú©Ù…â€ŒÚ©ÙˆÛŒÙ†20.000563:65.17A
 ×£p=
 1ÀHªª"R=https://s2.coinmarketcap.com/static/img/coins/64x64/38181.png
+£
+
+1404/07/1914:19œì¨Ç"
+Stream SZN*Ø§Ø³ØªØ±ÛŒÙ… Ø§Ø³â€ŒØ²Ø¯â€ŒØ§Ù†20.000561:64.98Affffff)ÀH‡"R=https://s2.coinmarketcap.com/static/img/coins/64x64/38412.png
 
 
-1404/07/1914:05Ôå¨Ç"Dexlab*Ø¯Ú©Ø³â€ŒÙ„Ø¨2
-0.00000159:0.1850A)\Âõè4ÀHÕœ"R=https://s2.coinmarketcap.com/static/img/coins/64x64/38212.png
+1404/07/1914:19œì¨Ç"Dexlab*Ø¯Ú©Ø³â€ŒÙ„Ø¨2
+0.00000159:0.1843A¸…ëQø4ÀHÚ“"R=https://s2.coinmarketcap.com/static/img/coins/64x64/38212.png
+™
+
+1404/07/1914:19œì¨Ç"PLANET*Ù¾Ù„Ù†Øª20.0000006571509299674637:0.0761A¸…ëQ8*ÀH«“"R=https://s2.coinmarketcap.com/static/img/coins/64x64/26585.png
 ˜
 
-1404/07/1914:06æ¨Ç"PLANET*Ù¾Ù„Ù†Øª20.000000658432701354813:0.0764AR¸…ëÑ)ÀHî›"R=https://s2.coinmarketcap.com/static/img/coins/64x64/26585.png
-˜
+1404/07/1914:20Øì¨Ç"BitcoinZ*Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ø²ÛŒ2
+0.00004434:5.14A)\Âõ( ÀHú"R<https://s2.coinmarketcap.com/static/img/coins/64x64/2041.png
+‘
 
-1404/07/1914:06æ¨Ç"BitcoinZ*Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ø²ÛŒ2
-0.00004434:5.15Aš™™™™™ÀHú"R<https://s2.coinmarketcap.com/static/img/coins/64x64/2041.png
-¤
-
-1404/07/1914:06æ¨Ç"My Crypto Heroes*Ù…Ø§ÛŒ Ú©Ø±ÛŒÙ¾ØªÙˆ Ù‡ÛŒØ±ÙˆØ²20.0204:2367A)\Âõ()ÀH§‡"R<https://s2.coinmarketcap.com/static/img/coins/64x64/9686.png
+1404/07/1914:19œì¨Ç"
+PirateCash*Ù¾Ø§ÛŒØ±ÛŒØª Ú©Ø´20.0205:2379A\Âõ(\û¿Hì…"R<https://s2.coinmarketcap.com/static/img/coins/64x64/4460.png
 Â
 
-1404/07/1914:05Ôå¨Ç"Cisco tokenized stock (xStock)*+Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø³ÛŒØ³Ú©Ùˆ268.46:7944555A{®GázÀHì†"R=https://s2.coinmarketcap.com/static/img/coins/64x64/37032.png
-‘
+1404/07/1914:19œì¨Ç"Cisco tokenized stock (xStock)*+Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø³ÛŒØ³Ú©Ùˆ268.44:7928903AÂõ(\ÀHÔ…"R=https://s2.coinmarketcap.com/static/img/coins/64x64/37032.png
+¤
 
-1404/07/1914:05Ôå¨Ç"
-PirateCash*Ù¾Ø§ÛŒØ±ÛŒØª Ú©Ø´20.0205:2384AR¸…ëQô¿HÍ†"R<https://s2.coinmarketcap.com/static/img/coins/64x64/4460.png
-Ø
-
-1404/07/1914:06æ¨Ç"$CrowdStrike tokenized stock (xStock)*9Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ú©Ø±Ø§ÙˆØ¯Ø§Ø³ØªØ±Ø§ÛŒÚ©2493.44:57263885A¸…ëQ¸ÀHÎİ!R=https://s2.coinmarketcap.com/static/img/coins/64x64/37035.png
-¢
-
-1404/07/1914:06æ¨Ç"Peezy (peezy.vip)*Ù¾ÛŒØ²ÛŒ (peezy.vip)2
-0.00000180:0.2086A\Âõ(\ÀHíÄ!R=https://s2.coinmarketcap.com/static/img/coins/64x64/33689.png
-•
-
-1404/07/1914:06æ¨Ç"	DeFi Land*Ø¯ÛŒÙØ§ÛŒ Ù„Ù†Ø¯2
-0.00007689:8.92A×£p=
-7AÀH“¿!R=https://s2.coinmarketcap.com/static/img/coins/64x64/10294.png
-Í
-
-1404/07/1914:05Ôå¨Ç""Honeywell tokenized stock (xStock)*0Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ù‡Ø§Ù†ÛŒâ€ŒÙˆÙ„2202.09:23452581AÃõ(\Âı¿Hë¦!R=https://s2.coinmarketcap.com/static/img/coins/64x64/37027.png
-™
-
-1404/07/1914:05Ôå¨Ç"DUST Protocol*Ø¯Ø§Ø³Øª Ù¾Ø±ÙˆØªÚ©Ù„20.0285:3303Aáz®Gá+ÀH§ !R=https://s2.coinmarketcap.com/static/img/coins/64x64/18802.png
-
-
-1404/07/1914:05Ôå¨Ç"Statter Network*Ø§Ø³ØªØ§ØªØ± Ù†ØªÙˆØ±Ú©20.0108:1255A×£p=
-W"ÀHØœ!R=https://s2.coinmarketcap.com/static/img/coins/64x64/26914.png
+1404/07/1914:20Øì¨Ç"My Crypto Heroes*Ù…Ø§ÛŒ Ú©Ø±ÛŒÙ¾ØªÙˆ Ù‡ÛŒØ±ÙˆØ²20.0204:2362AÃõ(\B)ÀHè„"R<https://s2.coinmarketcap.com/static/img/coins/64x64/9686.png
 Š
 
-1404/07/1914:06æ¨Ç"CheckDot*Ú†Ú© Ø¯Ø§Øª20.0702:8151A     €*ÀHš!R=https://s2.coinmarketcap.com/static/img/coins/64x64/14489.png
-±
-
-1404/07/1914:05Ôå¨Ç"PIKACHU INU*Ù¾ÛŒÚ©Ø§Ú†Ùˆ Ø§ÛŒÙ†Ùˆ20.000000000005785967327581:
-0.00000100A33333³ ÀH¿•!R=https://s2.coinmarketcap.com/static/img/coins/64x64/28613.png
-‘
-
-1404/07/1914:05Ôå¨Ç"Bend DAO*Ø¨Ù†Ø¯ Ø¯Ø§Ø¦Ùˆ20.000158:18.39A\Âõ(\/ÀH®ù R=https://s2.coinmarketcap.com/static/img/coins/64x64/19162.png
-œ
-
-1404/07/1914:05Ôå¨Ç"	OctonetAI*Ø§Ú©ØªØ§Ù†Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.005480:635.93AÂõ(\3ÀHğø R=https://s2.coinmarketcap.com/static/img/coins/64x64/34073.png
-–
-
-1404/07/1914:05Ôå¨Ç"KEK*Ú©Ú©20.000000007250677082456367:0.000841A=
-×£p½"ÀH×ï R=https://s2.coinmarketcap.com/static/img/coins/64x64/24996.png
-®
-
-1404/07/1914:05Ôå¨Ç"Zeus (truezeuscoin.com)*Ø²Ø¦ÙˆØ³20.000000001279299981359822:0.000148A{®Gáz3ÀHÌì R=https://s2.coinmarketcap.com/static/img/coins/64x64/36581.png
-‡
-
-1404/07/1914:06æ¨Ç"rocky*Ø±Ø§Ú©ÛŒ20.000537:62.27A¤p=
-×c6ÀH…à R=https://s2.coinmarketcap.com/static/img/coins/64x64/32205.png
-˜
-
-1404/07/1914:05Ôå¨Ç"Å¸*ÙˆØ§ÛŒ Ø¨Ø§ Ø¨Ø§Ø± Ø¨Ø§Ù„Ø§20.005886:683.07A…ëQ¸2ÀHÈØ R=https://s2.coinmarketcap.com/static/img/coins/64x64/30278.png
-
-
-1404/07/1914:05Ôå¨Ç"Gameswap*Ú¯ÛŒÙ… Ø³ÙˆØ§Ù¾20.0485:5632A®Gáz”)ÀHª× R<https://s2.coinmarketcap.com/static/img/coins/64x64/7588.png
-‘
-
-1404/07/1914:06æ¨Ç"Limitus*Ù„ÛŒÙ…ÛŒØªÛŒÙˆØ³20.000644:74.73A{®Gáz)ÀHÁĞ R=https://s2.coinmarketcap.com/static/img/coins/64x64/34746.png
-
-
-1404/07/1914:06æ¨Ç"BizAuto*Ø¨ÛŒØ²Ø§ÙˆØªÙˆ20.000199:23.14A=
-×£p=ÀHãÉ R=https://s2.coinmarketcap.com/static/img/coins/64x64/22244.png
- 
-
-1404/07/1914:06æ¨Ç"Deutsche eMark*Ø¯ÙˆÛŒÚ†Ù‡ Ø§ÛŒâ€ŒÙ…Ø§Ø±Ú©20.003369:391.03A…ëQ¸eC@H¡Å R:https://s2.coinmarketcap.com/static/img/coins/64x64/72.png
-Ã
-
-1404/07/1914:05Ôå¨Ç"Abbott tokenized stock (xStock)*)Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø§Ø¨ÙˆØª2131.01:15203714A{®Gáz ÀH± R=https://s2.coinmarketcap.com/static/img/coins/64x64/37010.png
-™
-
-1404/07/1914:05Ôå¨Ç"NEST Protocol*Ù†Ø³Øª Ù¾Ø±ÙˆØªÚ©Ù„20.000182:21.14AìQ¸…ë±?H¿° R<https://s2.coinmarketcap.com/static/img/coins/64x64/5841.png
-’
-
-1404/07/1914:05Ôå¨Ç"	Shieldeum*Ø´ÛŒÙ„Ø¯ÛŒÙˆÙ…20.001779:206.45A¤p=
-×ã1ÀHç  R=https://s2.coinmarketcap.com/static/img/coins/64x64/34254.png
-¬
-
-1404/07/1914:05Ôå¨Ç"Large Language Model*Ù„Ø§Ø±Ø¬ Ù„Ù†Ú¯ÙˆØ¦ÛŒØ¬ Ù…Ø¯Ù„20.000528:61.33A)\Âõ¨-ÀHÔ  R=https://s2.coinmarketcap.com/static/img/coins/64x64/35130.png
-£
-
-1404/07/1914:06æ¨Ç"Ithaca Protocol*Ø§ÛŒØªÛŒÚ©Ø§ Ù¾Ø±ÙˆØªÚ©Ù„20.006612:767.37Affffffş¿H×™ R=https://s2.coinmarketcap.com/static/img/coins/64x64/34498.png
-È
-
-1404/07/1914:06æ¨Ç" Danaher tokenized stock (xStock)*-Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¯Ø§Ù†Ø§Ù‡Ø±2195.39:22675288Aš™™™™™ÀHÇ™ R=https://s2.coinmarketcap.com/static/img/coins/64x64/37036.png
-‹
-
-1404/07/1914:06æ¨Ç"BiFi*Ø¨ÛŒâ€ŒÙØ§ÛŒ20.001087:126.14Aq=
-×£06ÀHäƒ R<https://s2.coinmarketcap.com/static/img/coins/64x64/8132.png
-£
-
-1404/07/1914:06æ¨Ç"Milady Wif Hat*Ù…ÛŒÙ„ÛŒØ¯ÛŒ ÙˆÛŒÙ Ù‡Øª2
-0.00000210:0.2435A=
-×£p}2ÀH¼ R=https://s2.coinmarketcap.com/static/img/coins/64x64/30071.png
-
-
-1404/07/1914:05Ôå¨Ç"GoodBoy*Ú¯ÙˆØ¯ Ø¨ÙˆÛŒ20.000524:60.82A\Âõ(œ1ÀH±şR=https://s2.coinmarketcap.com/static/img/coins/64x64/34801.png
-…
-
-1404/07/1914:05Ôå¨Ç"FEFE*ÙÙÙ‡20.001245:144.51A×£p=
-W#ÀHİüR=https://s2.coinmarketcap.com/static/img/coins/64x64/32368.png
-
-
-1404/07/1914:05Ôå¨Ç"Moonray*Ù…ÙˆÙ†â€ŒØ±ÛŒ20.002722:315.94A¤p=
-×£#@H¹õR=https://s2.coinmarketcap.com/static/img/coins/64x64/34562.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"Speedy*Ø§Ø³Ù¾ÛŒØ¯ÛŒ20.000522:60.63A…ëQ¸.ÀHÜñR=https://s2.coinmarketcap.com/static/img/coins/64x64/33489.png
-Ÿ
-
-1404/07/1914:05Ôå¨Ç"Music Protocol*Ù…ÙˆØ²ÛŒÚ© Ù¾Ø±ÙˆØªÚ©Ù„20.000852:98.87A=
-×£p=1@HİÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/32229.png
-­
-
-1404/07/1914:06æ¨Ç"Make CRO Great Again*Ù…ÛŒÚ© Ú©Ø±Ùˆ Ú¯Ø±ÛŒØª Ø§Ú¯ÛŒÙ†20.000516:59.92A¸…ëQx2ÀHŞÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/38250.png
-³
-
-1404/07/1914:05Ôå¨Ç"Akasha by Bloomverse*%Ø¢Ú©Ø§Ø´Ø§ ØªÙˆØ³Ø· Ø¨Ù„ÙˆÙ…â€ŒÙˆØ±Ø³20.000516:59.85Aáz®GáÀH½R=https://s2.coinmarketcap.com/static/img/coins/64x64/35465.png
-‘
-
-1404/07/1914:05Ôå¨Ç"ApeBond*Ø§ÛŒÙ¾ Ø¨Ø§Ù†Ø¯20.001499:173.95AÃõ(\Â&ÀHÎ¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/29157.png
-¡
-
-1404/07/1914:05Ôå¨Ç"HUND MEME COIN*Ù‡Ø§Ù†Ø¯ Ù…ÛŒÙ… Ú©ÙˆÛŒÙ†20.001287:149.36A…ëQ¸Å5ÀH«µR=https://s2.coinmarketcap.com/static/img/coins/64x64/30007.png
-
-
-1404/07/1914:05Ôå¨Ç"ForTube*ÙÙˆØ± ØªÛŒÙˆØ¨20.000647:75.07A\Âõ(\ó?HË±R<https://s2.coinmarketcap.com/static/img/coins/64x64/4118.png
-“
-
-1404/07/1914:05Ôå¨Ç"BLOCX.*Ø¨Ù„Ø§Ú©â€ŒØ§Ú©Ø³.20.005122:594.44Afffff&2ÀHü¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/27792.png
-Œ
-
-1404/07/1914:06æ¨Ç"	UnityMeta*ÛŒÙˆÙ†ÛŒØªÛŒ Ù…ØªØ§221.72:2521036HÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/23377.png
-ª
-
-1404/07/1914:05Ôå¨Ç"Heroes of NFT*"Ù‡ÛŒØ±ÙˆØ² Ø¢Ù Ø§Ù†â€ŒØ§Ùâ€ŒØªÛŒ20.005821:675.51A     @2ÀH÷R=https://s2.coinmarketcap.com/static/img/coins/64x64/17969.png
+1404/07/1914:19œì¨Ç"Bubble*
+Ø¨Ø§Ø¨ÙÙ„20.000191:22.17Aš™™™™Ù1ÀHıì!R=https://s2.coinmarketcap.com/static/img/coins/64x64/31297.png
 —
 
-1404/07/1914:05Ôå¨Ç"
-Pacu Jalur*Ù¾Ø§Ú©Ùˆ Ø¬Ø§Ù„ÙˆØ±20.000509:59.06AR¸…ë‘2ÀHî‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/38140.png
-
-
-1404/07/1914:05Ôå¨Ç"Ellipsis*
-Ø§Ù„Ù¾Ø³ÛŒ2
-0.00000629:0.7298A{®GázÔ¿H„„R=https://s2.coinmarketcap.com/static/img/coins/64x64/19924.png
-£
-
-1404/07/1914:05Ôå¨Ç"Alt.town Token*Ø¢Ù„Øªâ€ŒØªØ§ÙˆÙ† ØªÙˆÚ©Ù†20.001116:129.50AÍÌÌÌÌL.ÀHÒşR=https://s2.coinmarketcap.com/static/img/coins/64x64/37463.png
-Š
-
-1404/07/1914:06æ¨Ç"Pillar*
-Ù¾ÛŒÙ„Ø§Ø±20.001956:226.98AìQ¸…ë±?H€ûR<https://s2.coinmarketcap.com/static/img/coins/64x64/1834.png
-™
-
-1404/07/1914:05Ôå¨Ç"Dfyn Network*Ø¯ÙÛŒÙ† Ù†ØªÙˆØ±Ú©20.002949:342.24A      ÀHü÷R<https://s2.coinmarketcap.com/static/img/coins/64x64/9511.png
-¥
-
-1404/07/1914:05Ôå¨Ç"Luigi Mangione*Ù„ÙˆØ¦ÛŒØ¬ÛŒ Ù…Ø§Ù†Ø¬ÛŒÙˆÙ†Ù‡20.000504:58.50AÍÌÌÌÌL)ÀHŞáR=https://s2.coinmarketcap.com/static/img/coins/64x64/34855.png
-†
-
-1404/07/1914:05Ôå¨Ç"Sylo*Ø³ÛŒÙ„Ùˆ2
-0.00007739:8.98Aš™™™™Y2ÀHÇÙR<https://s2.coinmarketcap.com/static/img/coins/64x64/5662.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Prism*
-Ù¾Ø±ÛŒØ³Ù…20.000871:101.07Aö(\Âõ,ÀHóÖR=https://s2.coinmarketcap.com/static/img/coins/64x64/15744.png
-‘
-
-1404/07/1914:05Ôå¨Ç"Dotmoovs*Ø¯Ø§Øª Ù…ÙˆÙˆØ²20.000687:79.76AR¸…ëQÀHÖR=https://s2.coinmarketcap.com/static/img/coins/64x64/10046.png
-™
-
-1404/07/1914:05Ôå¨Ç"
-3space Art*Û³ Ø§Ø³Ù¾ÛŒØ³ Ø¢Ø±Øª20.006937:805.03A333333ÀH©ÇR=https://s2.coinmarketcap.com/static/img/coins/64x64/18586.png
-Ÿ
-
-1404/07/1914:05Ôå¨Ç"	Orbofi AI*Ø§ÙˆØ±Ø¨ÙˆÙØ§ÛŒ Ø§ÛŒâ€ŒØ¢ÛŒ20.000446:51.77Aq=
-×£p#ÀH¦¼R=https://s2.coinmarketcap.com/static/img/coins/64x64/25033.png
-†
-
-1404/07/1914:05Ôå¨Ç"DOGGY*Ø¯Ø§Ú¯ÛŒ20.000220:25.54A)\Âõ(-ÀHœR<https://s2.coinmarketcap.com/static/img/coins/64x64/9693.png
-’
-
-1404/07/1914:05Ôå¨Ç"Numogram*Ù†ÙˆÙ…ÙˆÚ¯Ø±Ø§Ù…20.000494:57.35AìQ¸…«1ÀHƒ•R=https://s2.coinmarketcap.com/static/img/coins/64x64/33570.png
-©
-
-1404/07/1914:06æ¨Ç"Clash of Lilliput*Ú©Ù„Ø´ Ø¢Ù Ù„ÛŒÙ„ÛŒâ€ŒÙ¾Ø§Øª20.006010:697.50AìQ¸…ë±?HîR=https://s2.coinmarketcap.com/static/img/coins/64x64/20672.png
-|
-
-1404/07/1914:05Ôå¨Ç"Qpay20.000491:56.98AHáz®G@HŞûR=https://s2.coinmarketcap.com/static/img/coins/64x64/38520.png
-‡
-
-1404/07/1914:06æ¨Ç"Ertha*Ø§Ø±Ø«Ø§20.000245:28.47A¤p=
-×#<ÀHüøR=https://s2.coinmarketcap.com/static/img/coins/64x64/12294.png
-œ
-
-1404/07/1914:05Ôå¨Ç"NEIRO on SOL*Ù†ÛŒØ±ÙˆÙ† Ø¢Ù† Ø³ÙˆÙ„20.000489:56.78Aáz®Gá&ÀHÑîR=https://s2.coinmarketcap.com/static/img/coins/64x64/32464.png
-
-
-1404/07/1914:05Ôå¨Ç"	Aster Inu20.000492:57.05A…ëQ¸.ÀHÀÚR=https://s2.coinmarketcap.com/static/img/coins/64x64/38475.png
-°
-
-1404/07/1914:06æ¨Ç"Biometric Financial*#Ø¨Ø§ÛŒÙˆÙ…ØªØ±ÛŒÚ© ÙØ§ÛŒÙ†Ù†Ø´Ø§Ù„20.000124:14.36Aö(\Âõ*ÀH—ÈR=https://s2.coinmarketcap.com/static/img/coins/64x64/19907.png
-›
-
-1404/07/1914:05Ôå¨Ç"Dreams Quest*Ø¯Ø±ÛŒÙ…Ø² Ú©ÙˆØ¦Ø³Øª20.000310:35.93Affffff'ÀH©ÇR=https://s2.coinmarketcap.com/static/img/coins/64x64/11779.png
-Í
-
-1404/07/1914:06æ¨Ç"HarryPotterObamaPacMan8Inu*8Ù‡Ø±ÛŒâ€ŒÙ¾Ø§ØªØ± Ø§ÙˆØ¨Ø§Ù…Ø§ Ù¾ÙÚ©â€ŒÙ…Ù† Û¸ Ø§ÛŒÙ†Ùˆ20.005931:688.34Affffff)ÀH•ÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/27809.png
-¥
-
-1404/07/1914:06æ¨Ç"PureFi Protocol*Ù¾ÛŒÙˆØ±ÙØ§ÛŒ Ù¾Ø±ÙˆØªÚ©Ù„20.008277:960.56Afffffæ'ÀHòÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/10973.png
-‚
-
-1404/07/1914:06æ¨Ç"Govi*Ú¯ÙˆÙˆÛŒ20.0154:1784A×£p=
-W)ÀHæ¸R<https://s2.coinmarketcap.com/static/img/coins/64x64/8408.png
-
-
-1404/07/1914:06æ¨Ç"Zap*Ø²Ù¾20.002035:236.12Aö(\Âµ1@HÙ©R<https://s2.coinmarketcap.com/static/img/coins/64x64/2363.png
+1404/07/1914:19œì¨Ç"My DeFi Pet*Ù…Ø§ÛŒ Ø¯ÛŒÙØ§ÛŒ Ù¾Øª20.0128:1486AÃõ(\B$ÀH¡ê!R<https://s2.coinmarketcap.com/static/img/coins/64x64/9665.png
 
 
-1404/07/1914:05Ôå¨Ç"Bitcoin Plus*Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ù¾Ù„Ø§Ø³21.7578:203991A
-×£p=
-ÀHù£R;https://s2.coinmarketcap.com/static/img/coins/64x64/293.png
-ˆ
+1404/07/1914:19œì¨Ç"Statter Network*Ø§Ø³ØªØ§ØªØ± Ù†ØªÙˆØ±Ú©20.0110:1275A333333ÀHæé!R=https://s2.coinmarketcap.com/static/img/coins/64x64/26914.png
+Ø
 
-1404/07/1914:05Ôå¨Ç"Morra*Ù…ÙˆØ±Ø§20.001150:133.43Aš™™™™™(ÀHîˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/28518.png
+1404/07/1914:20Øì¨Ç"$CrowdStrike tokenized stock (xStock)*9Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ú©Ø±Ø§ÙˆØ¯Ø§Ø³ØªØ±Ø§ÛŒÚ©2493.54:57178097AÍÌÌÌÌÌÀH¼Ş!R=https://s2.coinmarketcap.com/static/img/coins/64x64/37035.png
+•
+
+1404/07/1914:20Øì¨Ç"	DeFi Land*Ø¯ÛŒÙØ§ÛŒ Ù„Ù†Ø¯2
+0.00007701:8.92Aq=
+×£0AÀHÆ!R=https://s2.coinmarketcap.com/static/img/coins/64x64/10294.png
+¢
+
+1404/07/1914:19œì¨Ç"Peezy (peezy.vip)*Ù¾ÛŒØ²ÛŒ (peezy.vip)2
+0.00000180:0.2082A…ëQ¸ÀH¼Ã!R=https://s2.coinmarketcap.com/static/img/coins/64x64/33689.png
+±
+
+1404/07/1914:19œì¨Ç"PIKACHU INU*Ù¾ÛŒÚ©Ø§Ú†Ùˆ Ø§ÛŒÙ†Ùˆ20.000000000005818080383537:
+0.00000100AÃõ(\ÂÀH†­!R=https://s2.coinmarketcap.com/static/img/coins/64x64/28613.png
+Í
+
+1404/07/1914:19œì¨Ç""Honeywell tokenized stock (xStock)*0Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ù‡Ø§Ù†ÛŒâ€ŒÙˆÙ„2202.06:23408721Aq=
+×£pù¿H¦!R=https://s2.coinmarketcap.com/static/img/coins/64x64/37027.png
+Š
+
+1404/07/1914:20Øì¨Ç"CheckDot*Ú†Ú© Ø¯Ø§Øª20.0702:8137A     €*ÀHš!R=https://s2.coinmarketcap.com/static/img/coins/64x64/14489.png
+™
+
+1404/07/1914:19œì¨Ç"DUST Protocol*Ø¯Ø§Ø³Øª Ù¾Ø±ÙˆØªÚ©Ù„20.0284:3292A)\Âõ(,ÀH½™!R=https://s2.coinmarketcap.com/static/img/coins/64x64/18802.png
+‘
+
+1404/07/1914:20Øì¨Ç"Bend DAO*Ø¨Ù†Ø¯ Ø¯Ø§Ø¦Ùˆ20.000160:18.48AHáz®G.ÀHÍ”!R=https://s2.coinmarketcap.com/static/img/coins/64x64/19162.png
+È
+
+1404/07/1914:20Øì¨Ç" Danaher tokenized stock (xStock)*-Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø¯Ø§Ù†Ø§Ù‡Ø±2200.42:23219031Aq=
+×£pÀHÈƒ!R=https://s2.coinmarketcap.com/static/img/coins/64x64/37036.png
+–
+
+1404/07/1914:19œì¨Ç"KEK*Ú©Ú©20.000000007250673808651486:0.000840A=
+×£p½"ÀHÖï R=https://s2.coinmarketcap.com/static/img/coins/64x64/24996.png
+˜
+
+1404/07/1914:19œì¨Ç"Å¸*ÙˆØ§ÛŒ Ø¨Ø§ Ø¨Ø§Ø± Ø¨Ø§Ù„Ø§20.005886:681.91A…ëQ¸2ÀHÈØ R=https://s2.coinmarketcap.com/static/img/coins/64x64/30278.png
+
+
+1404/07/1914:19œì¨Ç"Gameswap*Ú¯ÛŒÙ… Ø³ÙˆØ§Ù¾20.0485:5623A®Gáz”)ÀHª× R<https://s2.coinmarketcap.com/static/img/coins/64x64/7588.png
+®
+
+1404/07/1914:19œì¨Ç"Zeus (truezeuscoin.com)*Ø²Ø¦ÙˆØ³20.000000001268495328431627:0.000147A®GázT4ÀH‹É R=https://s2.coinmarketcap.com/static/img/coins/64x64/36581.png
+
+
+1404/07/1914:19œì¨Ç"BizAuto*Ø¨ÛŒØ²Ø§ÙˆØªÙˆ20.000199:23.09AHáz®GÀH¿È R=https://s2.coinmarketcap.com/static/img/coins/64x64/22244.png
+‡
+
+1404/07/1914:19œì¨Ç"rocky*Ø±Ø§Ú©ÛŒ20.000533:61.77A33333ó6ÀHÃÅ R=https://s2.coinmarketcap.com/static/img/coins/64x64/32205.png
+ 
+
+1404/07/1914:20Øì¨Ç"Deutsche eMark*Ø¯ÙˆÛŒÚ†Ù‡ Ø§ÛŒâ€ŒÙ…Ø§Ø±Ú©20.003365:389.83A®GázTC@HÎ¿ R:https://s2.coinmarketcap.com/static/img/coins/64x64/72.png
+Ã
+
+1404/07/1914:19œì¨Ç"Abbott tokenized stock (xStock)*)Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ø§Ø¨ÙˆØª2131.00:15176779A¤p=
+×£ ÀH÷° R=https://s2.coinmarketcap.com/static/img/coins/64x64/37010.png
+™
+
+1404/07/1914:19œì¨Ç"NEST Protocol*Ù†Ø³Øª Ù¾Ø±ÙˆØªÚ©Ù„20.000182:21.10Aš™™™™™©?H›¯ R<https://s2.coinmarketcap.com/static/img/coins/64x64/5841.png
+‹
+
+1404/07/1914:20Øì¨Ç"BiFi*Ø¨ÛŒâ€ŒÙØ§ÛŒ20.001097:127.07A3333335ÀH¡© R<https://s2.coinmarketcap.com/static/img/coins/64x64/8132.png
+’
+
+1404/07/1914:19œì¨Ç"	Shieldeum*Ø´ÛŒÙ„Ø¯ÛŒÙˆÙ…20.001782:206.43A¤p=
+×£1ÀHÇ§ R=https://s2.coinmarketcap.com/static/img/coins/64x64/34254.png
+‘
+
+1404/07/1914:19œì¨Ç"Limitus*Ù„ÛŒÙ…ÛŒØªÛŒÙˆØ³20.000637:73.85A{®Gáz)ÀHù¥ R=https://s2.coinmarketcap.com/static/img/coins/64x64/34746.png
+œ
+
+1404/07/1914:19œì¨Ç"	OctonetAI*Ø§Ú©ØªØ§Ù†Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.005370:622.09A×£p=
+—5ÀH‹¤ R=https://s2.coinmarketcap.com/static/img/coins/64x64/34073.png
+£
+
+1404/07/1914:19œì¨Ç"Ithaca Protocol*Ø§ÛŒØªÛŒÚ©Ø§ Ù¾Ø±ÙˆØªÚ©Ù„20.006612:766.03AR¸…ëQü¿H½™ R=https://s2.coinmarketcap.com/static/img/coins/64x64/34498.png
+£
+
+1404/07/1914:20Øì¨Ç"Milady Wif Hat*Ù…ÛŒÙ„ÛŒØ¯ÛŒ ÙˆÛŒÙ Ù‡Øª2
+0.00000210:0.2430AÃõ(\‚2ÀHğ€ R=https://s2.coinmarketcap.com/static/img/coins/64x64/30071.png
+¬
+
+1404/07/1914:19œì¨Ç"Large Language Model*Ù„Ø§Ø±Ø¬ Ù„Ù†Ú¯ÙˆØ¦ÛŒØ¬ Ù…Ø¯Ù„20.000524:60.74Aš™™™™/ÀHñÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/35130.png
+
+
+1404/07/1914:19œì¨Ç"GoodBoy*Ú¯ÙˆØ¯ Ø¨ÙˆÛŒ20.000524:60.72A\Âõ(œ1ÀH±şR=https://s2.coinmarketcap.com/static/img/coins/64x64/34801.png
+
+
+1404/07/1914:19œì¨Ç"Moonray*Ù…ÙˆÙ†â€ŒØ±ÛŒ20.002720:315.13A{®Gáz#@HûñR=https://s2.coinmarketcap.com/static/img/coins/64x64/34562.png
+Œ
+
+1404/07/1914:20Øì¨Ç"Speedy*Ø§Ø³Ù¾ÛŒØ¯ÛŒ20.000522:60.53A…ëQ¸.ÀHÜñR=https://s2.coinmarketcap.com/static/img/coins/64x64/33489.png
+…
+
+1404/07/1914:19œì¨Ç"FEFE*ÙÙÙ‡20.001232:142.68A×£p=
+W#ÀHåÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/32368.png
+Ÿ
+
+1404/07/1914:20Øì¨Ç"Music Protocol*Ù…ÙˆØ²ÛŒÚ© Ù¾Ø±ÙˆØªÚ©Ù„20.000853:98.83Affffff1@HÈR=https://s2.coinmarketcap.com/static/img/coins/64x64/32229.png
+­
+
+1404/07/1914:20Øì¨Ç"Make CRO Great Again*Ù…ÛŒÚ© Ú©Ø±Ùˆ Ú¯Ø±ÛŒØª Ø§Ú¯ÛŒÙ†20.000516:59.82A¸…ëQx2ÀHŞÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/38250.png
+‘
+
+1404/07/1914:19œì¨Ç"ApeBond*Ø§ÛŒÙ¾ Ø¨Ø§Ù†Ø¯20.001499:173.66AÍÌÌÌÌÌ&ÀHÍ¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/29157.png
+“
+
+1404/07/1914:19œì¨Ç"BLOCX.*Ø¨Ù„Ø§Ú©â€ŒØ§Ú©Ø³.20.005141:595.62A¤p=
+×ã1ÀHİ´R=https://s2.coinmarketcap.com/static/img/coins/64x64/27792.png
+
+
+1404/07/1914:19œì¨Ç"ForTube*ÙÙˆØ± ØªÛŒÙˆØ¨20.000647:74.99AHáz®Gı?Hµ´R<https://s2.coinmarketcap.com/static/img/coins/64x64/4118.png
+¡
+
+1404/07/1914:20Øì¨Ç"HUND MEME COIN*Ù‡Ø§Ù†Ø¯ Ù…ÛŒÙ… Ú©ÙˆÛŒÙ†20.001282:148.50AÍÌÌÌÌ6ÀHû¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/30007.png
+³
+
+1404/07/1914:19œì¨Ç"Akasha by Bloomverse*%Ø¢Ú©Ø§Ø´Ø§ ØªÙˆØ³Ø· Ø¨Ù„ÙˆÙ…â€ŒÙˆØ±Ø³20.000513:59.38A¸…ëQ¸ÀHŠ¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/35465.png
+Œ
+
+1404/07/1914:19œì¨Ç"	UnityMeta*ÛŒÙˆÙ†ÛŒØªÛŒ Ù…ØªØ§221.72:2516757HÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/23377.png
+£
+
+1404/07/1914:19œì¨Ç"Alt.town Token*Ø¢Ù„Øªâ€ŒØªØ§ÙˆÙ† ØªÙˆÚ©Ù†20.001122:130.00A…ëQ¸,ÀHá”R=https://s2.coinmarketcap.com/static/img/coins/64x64/37463.png
+
+
+1404/07/1914:19œì¨Ç"Ellipsis*
+Ø§Ù„Ù¾Ø³ÛŒ2
+0.00000629:0.7285A{®GázÔ¿HğƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/19924.png
+Š
+
+1404/07/1914:20Øì¨Ç"Pillar*
+Ù¾ÛŒÙ„Ø§Ø±20.001957:226.68Aš™™™™™©?HªüR<https://s2.coinmarketcap.com/static/img/coins/64x64/1834.png
+™
+
+1404/07/1914:19œì¨Ç"Dfyn Network*Ø¯ÙÛŒÙ† Ù†ØªÙˆØ±Ú©20.002950:341.81AÍÌÌÌÌÌÀHèùR<https://s2.coinmarketcap.com/static/img/coins/64x64/9511.png
+ª
+
+1404/07/1914:20Øì¨Ç"Heroes of NFT*"Ù‡ÛŒØ±ÙˆØ² Ø¢Ù Ø§Ù†â€ŒØ§Ùâ€ŒØªÛŒ20.005756:666.85AÃõ(\B3ÀHÇãR=https://s2.coinmarketcap.com/static/img/coins/64x64/17969.png
+†
+
+1404/07/1914:19œì¨Ç"Sylo*Ø³ÛŒÙ„Ùˆ2
+0.00007753:8.98A
+×£p=
+2ÀHÖàR<https://s2.coinmarketcap.com/static/img/coins/64x64/5662.png
+—
+
+1404/07/1914:19œì¨Ç"
+Pacu Jalur*Ù¾Ø§Ú©Ùˆ Ø¬Ø§Ù„ÙˆØ±20.000503:58.22A{®Gáº3ÀHˆÖR=https://s2.coinmarketcap.com/static/img/coins/64x64/38140.png
+Š
+
+1404/07/1914:19œì¨Ç"Prism*
+Ù¾Ø±ÛŒØ³Ù…20.000870:100.84Aš™™™™-ÀHêÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/15744.png
+¥
+
+1404/07/1914:19œì¨Ç"Luigi Mangione*Ù„ÙˆØ¦ÛŒØ¬ÛŒ Ù…Ø§Ù†Ø¬ÛŒÙˆÙ†Ù‡20.000502:58.20Aáz®Gá)ÀHœÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/34855.png
+‘
+
+1404/07/1914:19œì¨Ç"Dotmoovs*Ø¯Ø§Øª Ù…ÙˆÙˆØ²20.000686:79.53A      ÀH¿ÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/10046.png
+™
+
+1404/07/1914:19œì¨Ç"
+3space Art*Û³ Ø§Ø³Ù¾ÛŒØ³ Ø¢Ø±Øª20.006936:803.59A…ëQ¸ÀHûÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/18586.png
+
+
+1404/07/1914:19œì¨Ç"	Aster Inu20.000501:58.09A®Gáz®ÀH£¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/38475.png
+†
+
+1404/07/1914:20Øì¨Ç"DOGGY*Ø¯Ø§Ú¯ÛŒ20.000220:25.50A)\Âõ(-ÀHœR<https://s2.coinmarketcap.com/static/img/coins/64x64/9693.png
+’
+
+1404/07/1914:19œì¨Ç"Numogram*Ù†ÙˆÙ…ÙˆÚ¯Ø±Ø§Ù…20.000494:57.28A¤p=
+×£1ÀHÄ–R=https://s2.coinmarketcap.com/static/img/coins/64x64/33570.png
+©
+
+1404/07/1914:20Øì¨Ç"Clash of Lilliput*Ú©Ù„Ø´ Ø¢Ù Ù„ÛŒÙ„ÛŒâ€ŒÙ¾Ø§Øª20.006008:696.10Aš™™™™™©?HÔŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/20672.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"	Orbofi AI*Ø§ÙˆØ±Ø¨ÙˆÙØ§ÛŒ Ø§ÛŒâ€ŒØ¢ÛŒ20.000439:50.80AÍÌÌÌÌÌÀH‘úR=https://s2.coinmarketcap.com/static/img/coins/64x64/25033.png
+‡
+
+1404/07/1914:20Øì¨Ç"Ertha*Ø§Ø±Ø«Ø§20.000245:28.41A     @<ÀH øR=https://s2.coinmarketcap.com/static/img/coins/64x64/12294.png
+œ
+
+1404/07/1914:20Øì¨Ç"NEIRO on SOL*Ù†ÛŒØ±ÙˆÙ† Ø¢Ù† Ø³ÙˆÙ„20.000490:56.82A     €&ÀHÀ÷R=https://s2.coinmarketcap.com/static/img/coins/64x64/32464.png
+Í
+
+1404/07/1914:19œì¨Ç"HarryPotterObamaPacMan8Inu*8Ù‡Ø±ÛŒâ€ŒÙ¾Ø§ØªØ± Ø§ÙˆØ¨Ø§Ù…Ø§ Ù¾ÙÚ©â€ŒÙ…Ù† Û¸ Ø§ÛŒÙ†Ùˆ20.005931:687.17Affffff)ÀH•ÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/27809.png
+¥
+
+1404/07/1914:20Øì¨Ç"PureFi Protocol*Ù¾ÛŒÙˆØ±ÙØ§ÛŒ Ù¾Ø±ÙˆØªÚ©Ù„20.008277:958.93Afffffæ'ÀHòÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/10973.png
+‚
+
+1404/07/1914:20Øì¨Ç"Govi*Ú¯ÙˆÙˆÛŒ20.0154:1781A
+×£p=
+)ÀH›ºR<https://s2.coinmarketcap.com/static/img/coins/64x64/8408.png
 ›
 
-1404/07/1914:05Ôå¨Ç"COINBAR PAY*Ú©ÙˆÛŒÙ†â€ŒØ¨Ø§Ø± Ù¾ÛŒ20.000129:15.00A
+1404/07/1914:19œì¨Ç"Dreams Quest*Ø¯Ø±ÛŒÙ…Ø² Ú©ÙˆØ¦Ø³Øª20.000308:35.74A¤p=
+×#(ÀH©¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/11779.png
+
+
+1404/07/1914:19œì¨Ç"Zap*Ø²Ù¾20.002035:235.72A33333³1@H×©R<https://s2.coinmarketcap.com/static/img/coins/64x64/2363.png
+
+
+1404/07/1914:19œì¨Ç"Bitcoin Plus*Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ù¾Ù„Ø§Ø³21.7578:203645A¸…ëQ¸ÀHş£R;https://s2.coinmarketcap.com/static/img/coins/64x64/293.png
+ˆ
+
+1404/07/1914:20Øì¨Ç"Morra*Ù…ÙˆØ±Ø§20.001150:133.20Aš™™™™™(ÀHîˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/28518.png
+›
+
+1404/07/1914:19œì¨Ç"COINBAR PAY*Ú©ÙˆÛŒÙ†â€ŒØ¨Ø§Ø± Ù¾ÛŒ20.000129:14.97A
 ×£p=
 ÀH–„R=https://s2.coinmarketcap.com/static/img/coins/64x64/32992.png
 ­
 
-1404/07/1914:05Ôå¨Ç"Blockchain Brawlers* Ø¨Ù„Ø§Ú©â€ŒÚ†ÛŒÙ† Ø¨Ø±Ø§ÙˆÙ„Ø±Ø²20.000475:55.16A
-×£p=Š/ÀH›R=https://s2.coinmarketcap.com/static/img/coins/64x64/19216.png
+1404/07/1914:19œì¨Ç"Blockchain Brawlers* Ø¨Ù„Ø§Ú©â€ŒÚ†ÛŒÙ† Ø¨Ø±Ø§ÙˆÙ„Ø±Ø²20.000475:55.04A®Gáz”/ÀHîÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/19216.png
+°
+
+1404/07/1914:19œì¨Ç"Biometric Financial*#Ø¨Ø§ÛŒÙˆÙ…ØªØ±ÛŒÚ© ÙØ§ÛŒÙ†Ù†Ø´Ø§Ù„20.000121:14.00A{®Gáú.ÀH€ğR=https://s2.coinmarketcap.com/static/img/coins/64x64/19907.png
 ‚
 
-1404/07/1914:06æ¨Ç"WAM*ÙˆÙ…20.001016:117.92AÃõ(\B+ÀHÈéR=https://s2.coinmarketcap.com/static/img/coins/64x64/14133.png
+1404/07/1914:20Øì¨Ç"WAM*ÙˆÙ…20.001016:117.70A¸…ëQ8+ÀHéR=https://s2.coinmarketcap.com/static/img/coins/64x64/14133.png
 ¦
 
-1404/07/1914:05Ôå¨Ç"Bostrom*Ø¨ÙˆØ³ØªØ±ÙˆÙ…20.000000000795823401910332:
-0.00009200A=
-×£pG@HÀİR=https://s2.coinmarketcap.com/static/img/coins/64x64/19111.png
+1404/07/1914:19œì¨Ç"Bostrom*Ø¨ÙˆØ³ØªØ±ÙˆÙ…20.000000000797995690632549:
+0.00009200AR¸…ëÑG@HÅçR=https://s2.coinmarketcap.com/static/img/coins/64x64/19111.png
 ¥
 
-1404/07/1914:05Ôå¨Ç"XMoney Solana*Ø§ÛŒÚ©Ø³ Ù…Ø§Ù†ÛŒ Ø³ÙˆÙ„Ø§Ù†Ø§20.000573:66.45A¸…ëQ8+ÀHĞÛR=https://s2.coinmarketcap.com/static/img/coins/64x64/35127.png
-¨
+1404/07/1914:19œì¨Ç"XMoney Solana*Ø§ÛŒÚ©Ø³ Ù…Ø§Ù†ÛŒ Ø³ÙˆÙ„Ø§Ù†Ø§20.000573:66.33A¸…ëQ8+ÀHĞÛR=https://s2.coinmarketcap.com/static/img/coins/64x64/35127.png
+|
 
-1404/07/1914:05Ôå¨Ç"Tree Stuck in Cat*ØªØ±ÛŒ Ø§Ø³ØªØ§Ú© Ø§ÛŒÙ† Ú©Øª20.000535:62.06AÍÌÌÌÌ´a@HÈÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/34570.png
+1404/07/1914:19œì¨Ç"Qpay20.000469:54.31Aš™™™™™é?H¼ÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/38520.png
 –
 
-1404/07/1914:05Ôå¨Ç"
-Grove Coin*Ú¯Ø±ÙˆÙˆ Ú©ÙˆÛŒÙ†20.004919:570.80AR¸…ëQÀHÜÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/23196.png
+1404/07/1914:19œì¨Ç"
+Grove Coin*Ú¯Ø±ÙˆÙˆ Ú©ÙˆÛŒÙ†20.004911:568.90AìQ¸…ëÀHİ¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/23196.png
 Š
 
-1404/07/1914:06æ¨Ç"Ignis*Ø§ÛŒÚ¯Ù†ÛŒØ³20.000611:70.87A¸…ëQ¸®?H“¯R<https://s2.coinmarketcap.com/static/img/coins/64x64/2276.png
-Î
-
-1404/07/1914:05Ôå¨Ç" Aston Martin Cognizant Fan Token*6Ø§Ø³ØªÙˆÙ† Ù…Ø§Ø±ØªÛŒÙ† Ú©ÙˆÚ¯Ù†ÛŒØ²Ù†Øª ÙÙ† ØªÙˆÚ©Ù†20.1673:19420AHáz®GÀHùªR=https://s2.coinmarketcap.com/static/img/coins/64x64/10763.png
+1404/07/1914:20Øì¨Ç"Ignis*Ø§ÛŒÚ¯Ù†ÛŒØ³20.000610:70.73A¸…ëQ¸®?H˜®R<https://s2.coinmarketcap.com/static/img/coins/64x64/2276.png
 
 
-1404/07/1914:05Ôå¨Ç"XMON*Ø§Ú©Ø³â€ŒÙ…ÙˆÙ†2310.48:36031230A®GázÀHªR<https://s2.coinmarketcap.com/static/img/coins/64x64/8509.png
-¤
-
-1404/07/1914:05Ôå¨Ç"Catgirl*Ú©Øªâ€ŒÚ¯Ø±Ù„20.00000000001493656599672:
-0.00000200AHáz®G$ÀHöŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/10275.png
-
-
-1404/07/1914:05Ôå¨Ç"Polkadex*Ù¾ÙˆÙ„Ú©Ø§Ø¯Ú©Ø³20.0553:6417Aö(\ÂõÀH¸›R<https://s2.coinmarketcap.com/static/img/coins/64x64/9017.png
+1404/07/1914:19œì¨Ç"XMON*Ø§Ú©Ø³â€ŒÙ…ÙˆÙ†2310.48:35970066A×£p=
+W ÀHªR<https://s2.coinmarketcap.com/static/img/coins/64x64/8509.png
 ¨
 
-1404/07/1914:05Ôå¨Ç"VentureMind AI*ÙˆÙ†Ú†Ø± Ù…Ø§ÛŒÙ†Ø¯ Ø§ÛŒâ€ŒØ¢ÛŒ20.001067:123.84A=
-×£p}6ÀHİ™R=https://s2.coinmarketcap.com/static/img/coins/64x64/34645.png
+1404/07/1914:19œì¨Ç"Tree Stuck in Cat*ØªØ±ÛŒ Ø§Ø³ØªØ§Ú© Ø§ÛŒÙ† Ú©Øª20.000528:61.14Aš™™™™©a@Hò¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/34570.png
+¤
+
+1404/07/1914:19œì¨Ç"Catgirl*Ú©Øªâ€ŒÚ¯Ø±Ù„20.00000000001493656599672:
+0.00000200AÂõ(\#ÀHöŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/10275.png
+
+
+1404/07/1914:19œì¨Ç"Polkadex*Ù¾ÙˆÙ„Ú©Ø§Ø¯Ú©Ø³20.0553:6408A¸…ëQ¸ÀHÚœR<https://s2.coinmarketcap.com/static/img/coins/64x64/9017.png
+¨
+
+1404/07/1914:19œì¨Ç"VentureMind AI*ÙˆÙ†Ú†Ø± Ù…Ø§ÛŒÙ†Ø¯ Ø§ÛŒâ€ŒØ¢ÛŒ20.001067:123.61AÂõ(\Ï6ÀHµ™R=https://s2.coinmarketcap.com/static/img/coins/64x64/34645.png
+œ
+
+1404/07/1914:20Øì¨Ç"The Winkyverse*ÙˆÛŒÙ†Ú©ÛŒâ€ŒÙˆØ±Ø³2
+0.00008391:9.72A\Âõ(\ÀHÎ’R=https://s2.coinmarketcap.com/static/img/coins/64x64/16652.png
+Î
+
+1404/07/1914:19œì¨Ç" Aston Martin Cognizant Fan Token*6Ø§Ø³ØªÙˆÙ† Ù…Ø§Ø±ØªÛŒÙ† Ú©ÙˆÚ¯Ù†ÛŒØ²Ù†Øª ÙÙ† ØªÙˆÚ©Ù†20.1661:19241A=
+×£p½ ÀHÖR=https://s2.coinmarketcap.com/static/img/coins/64x64/10763.png
+Œ
+
+1404/07/1914:19œì¨Ç"Elemon*Ø§Ù„ÛŒÙ…ÙˆÙ†20.000714:82.72AHáz®G&ÀH¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/11663.png
 š
 
-1404/07/1914:05Ôå¨Ç"B.O.B the Blob*Ø¨Ø§Ø¨ Ø¯ Ø¨Ù„Ø§Ø¨20.000478:55.42AÍÌÌÌÌL#ÀH–R=https://s2.coinmarketcap.com/static/img/coins/64x64/38104.png
+1404/07/1914:20Øì¨Ç"B.O.B the Blob*Ø¨Ø§Ø¨ Ø¯ Ø¨Ù„Ø§Ø¨20.000474:54.90Aö(\Âu&ÀHñúR=https://s2.coinmarketcap.com/static/img/coins/64x64/38104.png
 “
 
-1404/07/1914:06æ¨Ç"	Nura Labs*Ù†ÙˆØ±Ø§ Ù„Ø¨Ø²2
-0.00004615:5.36AÂõ(\â¿H“•R=https://s2.coinmarketcap.com/static/img/coins/64x64/36638.png
-œ
+1404/07/1914:19œì¨Ç"	Nura Labs*Ù†ÙˆØ±Ø§ Ù„Ø¨Ø²2
+0.00004574:5.30AÂõ(\ú¿H–õR=https://s2.coinmarketcap.com/static/img/coins/64x64/36638.png
+”
 
-1404/07/1914:05Ôå¨Ç"The Winkyverse*ÙˆÛŒÙ†Ú©ÛŒâ€ŒÙˆØ±Ø³2
-0.00008394:9.74A)\Âõ(ÀH¥”R=https://s2.coinmarketcap.com/static/img/coins/64x64/16652.png
-Œ
-
-1404/07/1914:06æ¨Ç"Elemon*Ø§Ù„ÛŒÙ…ÙˆÙ†20.000714:82.86AHáz®G&ÀH¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/11663.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Nafter*
-Ù†ÙÙØªØ±20.000458:53.16A=
-×£p½%ÀHÏòR<https://s2.coinmarketcap.com/static/img/coins/64x64/9828.png
+1404/07/1914:19œì¨Ç"
+BonusCloud*Ø¨ÙˆÙ†Ø³ Ú©Ù„Ø§Ø¯20.000136:15.75A33333³ ÀH—èR<https://s2.coinmarketcap.com/static/img/coins/64x64/4703.png
 Æ
 
-1404/07/1914:05Ôå¨Ç" Comcast tokenized stock (xStock)*-Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ú©Ø§Ù…Ú©Ø³Øª229.61:3436527Aáz®Gá ÀHàêR=https://s2.coinmarketcap.com/static/img/coins/64x64/37034.png
-”
+1404/07/1914:19œì¨Ç" Comcast tokenized stock (xStock)*-Ø³Ù‡Ø§Ù… ØªÙˆÚ©Ù†ÛŒØ²Ù‡â€ŒØ´Ø¯Ù‡ Ú©Ø§Ù…Ú©Ø³Øª229.58:3426671A®Gáz®ÀHÉæR=https://s2.coinmarketcap.com/static/img/coins/64x64/37034.png
+‰
 
-1404/07/1914:06æ¨Ç"
-BonusCloud*Ø¨ÙˆÙ†Ø³ Ú©Ù„Ø§Ø¯20.000136:15.79A®Gáz® ÀHÎêR<https://s2.coinmarketcap.com/static/img/coins/64x64/4703.png
+1404/07/1914:20Øì¨Ç"Nafter*
+Ù†ÙÙØªØ±20.000455:52.72AìQ¸…ë&ÀHÍÚR<https://s2.coinmarketcap.com/static/img/coins/64x64/9828.png
 “
 
-1404/07/1914:06æ¨Ç"
-Sultanoshi*Ø³ÙˆÙ„ØªØ§Ù†ÙˆØ´ÛŒ20.0555:6437Aáz®GáÀHûµR=https://s2.coinmarketcap.com/static/img/coins/64x64/38294.png
+1404/07/1914:19œì¨Ç"	Puffverse*Ù¾Ø§Ùâ€ŒÙˆØ±Ø³20.003875:448.95A)\Âõ¨)@H€ÊR=https://s2.coinmarketcap.com/static/img/coins/64x64/36604.png
 §
 
-1404/07/1914:05Ôå¨Ç"DeFinder Capital* Ø¯ÛŒâ€ŒÙØ§ÛŒÙ†Ø¯Ø± Ú©Ù¾ÛŒØªØ§Ù„20.0169:1961A¸…ëQ8%ÀHÁ³R=https://s2.coinmarketcap.com/static/img/coins/64x64/28704.png
+1404/07/1914:19œì¨Ç"DeFinder Capital* Ø¯ÛŒâ€ŒÙØ§ÛŒÙ†Ø¯Ø± Ú©Ù¾ÛŒØªØ§Ù„20.0169:1958A=
+×£p=%ÀHÂ²R=https://s2.coinmarketcap.com/static/img/coins/64x64/28704.png
 —
 
-1404/07/1914:06æ¨Ç"TABOO TOKEN*ØªØ§Ø¨Ùˆ ØªÙˆÚ©Ù†2
-0.00004587:5.32AÍÌÌÌÌÌ&ÀHş±R=https://s2.coinmarketcap.com/static/img/coins/64x64/10586.png
-œ
-
-1404/07/1914:05Ôå¨Ç"Morpheus Labs*Ù…ÙˆØ±ÙØ¦ÙˆØ³ Ù„Ø¨Ø²20.000327:37.97AÂõ(\:ÀHì£R=https://s2.coinmarketcap.com/static/img/coins/64x64/28542.png
+1404/07/1914:20Øì¨Ç"TABOO TOKEN*ØªØ§Ø¨Ùˆ ØªÙˆÚ©Ù†2
+0.00004587:5.31AÍÌÌÌÌÌ&ÀHş±R=https://s2.coinmarketcap.com/static/img/coins/64x64/10586.png
 Ÿ
 
-1404/07/1914:05Ôå¨Ç"Dolos The Bully*Ø¯ÙˆÙ„ÙˆØ³ Ø¯ Ø¨ÙˆÙ„ÛŒ20.000464:53.90A33333³/ÀH£R=https://s2.coinmarketcap.com/static/img/coins/64x64/34571.png
+1404/07/1914:19œì¨Ç"Dolos The Bully*Ø¯ÙˆÙ„ÙˆØ³ Ø¯ Ø¨ÙˆÙ„ÛŒ20.000465:53.87A33333³/ÀHª¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/34571.png
+œ
+
+1404/07/1914:19œì¨Ç"Morpheus Labs*Ù…ÙˆØ±ÙØ¦ÙˆØ³ Ù„Ø¨Ø²20.000327:37.83AÂõ(\O:ÀHŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/28542.png
 ›
 
-1404/07/1914:05Ôå¨Ç"EXPERT_MONEY*Ø§Ú©Ø³Ù¾Ø±Øª Ù…Ø§Ù†ÛŒ20.000609:70.71A®Gáz.<ÀH„“R=https://s2.coinmarketcap.com/static/img/coins/64x64/35629.png
+1404/07/1914:19œì¨Ç"EXPERT_MONEY*Ø§Ú©Ø³Ù¾Ø±Øª Ù…Ø§Ù†ÛŒ20.000610:70.69A…ëQ¸<ÀHÕ—R=https://s2.coinmarketcap.com/static/img/coins/64x64/35629.png
+”
+
+1404/07/1914:19œì¨Ç"Gekko AI*Ú¯Ú©Ùˆ Ø§ÛŒâ€ŒØ¢ÛŒ20.000445:51.53A®Gáz”8ÀH“R=https://s2.coinmarketcap.com/static/img/coins/64x64/35189.png
+
+
+1404/07/1914:19œì¨Ç"Dagknight Dog*Ø¯Ú¯ Ù†Ø§ÛŒØª Ø¯Ø§Ú¯2
+0.00009934:11.51AHáz®Ç8ÀHõ„R=https://s2.coinmarketcap.com/static/img/coins/64x64/33476.png
+
+
+1404/07/1914:19œì¨Ç"UpOnly*Ø¢Ù¾ Ø§ÙˆÙ†Ù„ÛŒ20.003887:450.37AìQ¸…ë2ÀH÷ÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/16302.png
 Ç
 
-1404/07/1914:06æ¨Ç"Green Satoshi Token (BSC)*3Ú¯Ø±ÛŒÙ† Ø³Ø§ØªÙˆØ´ÛŒ ØªÙˆÚ©Ù† (Ø¨ÛŒâ€ŒØ§Ø³â€ŒØ³ÛŒ)20.002095:243.17Aáz®Gá/ÀHø‹R=https://s2.coinmarketcap.com/static/img/coins/64x64/20236.png
-
-
-1404/07/1914:05Ôå¨Ç"UpOnly*Ø¢Ù¾ Ø§ÙˆÙ†Ù„ÛŒ20.003897:452.21A…ëQ¸^2ÀHˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/16302.png
-
-
-1404/07/1914:06æ¨Ç"Dagknight Dog*Ø¯Ú¯ Ù†Ø§ÛŒØª Ø¯Ø§Ú¯2
-0.00009936:11.53A…ëQ¸Å8ÀHÊ…R=https://s2.coinmarketcap.com/static/img/coins/64x64/33476.png
+1404/07/1914:20Øì¨Ç"Green Satoshi Token (BSC)*3Ú¯Ø±ÛŒÙ† Ø³Ø§ØªÙˆØ´ÛŒ ØªÙˆÚ©Ù† (Ø¨ÛŒâ€ŒØ§Ø³â€ŒØ³ÛŒ)20.002087:241.75A
+×£p=J0ÀHÆıR=https://s2.coinmarketcap.com/static/img/coins/64x64/20236.png
 
 
-1404/07/1914:05Ôå¨Ç"Genopets*Ø¬Ù†ÙˆÙ¾ØªØ³20.005242:608.38Aš™™™™™0ÀH „R=https://s2.coinmarketcap.com/static/img/coins/64x64/13632.png
+1404/07/1914:19œì¨Ç"Genopets*Ø¬Ù†ÙˆÙ¾ØªØ³20.005215:604.19AHáz®1ÀH¦òR=https://s2.coinmarketcap.com/static/img/coins/64x64/13632.png
 ‘
 
-1404/07/1914:06æ¨Ç"	RigoBlock*Ø±ÛŒÚ¯Ùˆ Ø¨Ù„Ø§Ú©20.1607:18649A)\Âõ(@H†¿R<https://s2.coinmarketcap.com/static/img/coins/64x64/4927.png
+1404/07/1914:19œì¨Ç"	RigoBlock*Ø±ÛŒÚ¯Ùˆ Ø¨Ù„Ø§Ú©20.1607:18617A)\Âõ(@H†¿R<https://s2.coinmarketcap.com/static/img/coins/64x64/4927.png
 “
 
-1404/07/1914:05Ôå¨Ç"	Puffverse*Ù¾Ø§Ùâ€ŒÙˆØ±Ø³20.003702:429.64AR¸…ëQ @H¾¬R=https://s2.coinmarketcap.com/static/img/coins/64x64/36604.png
+1404/07/1914:19œì¨Ç"
+Sultanoshi*Ø³ÙˆÙ„ØªØ§Ù†ÙˆØ´ÛŒ20.0534:6185A…ëQ¸ÀH›²R=https://s2.coinmarketcap.com/static/img/coins/64x64/38294.png
+’
+
+1404/07/1914:19œì¨Ç"Gondola*Ú¯ÙˆÙ†Ø¯ÙˆÙ„Ø§2
+0.00000106:0.1224AÃõ(\B.ÀHí«R=https://s2.coinmarketcap.com/static/img/coins/64x64/32154.png
 ›
 
-1404/07/1914:05Ôå¨Ç"Civilization*Ø³ÛŒÙˆÛŒÙ„ÛŒØ²ÛŒØ´Ù†20.001430:165.98A{®Gáú)ÀH˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/11345.png
+1404/07/1914:19œì¨Ç"Civilization*Ø³ÛŒÙˆÛŒÙ„ÛŒØ²ÛŒØ´Ù†20.001430:165.70A{®Gáú)ÀH˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/11345.png
 ™
 
-1404/07/1914:05Ôå¨Ç"Bitcoin Bam*Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ø¨Ø§Ù…20.0417:4843AR¸…ëQÀHª–R<https://s2.coinmarketcap.com/static/img/coins/64x64/9270.png
+1404/07/1914:19œì¨Ç"Bitcoin Bam*Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ø¨Ø§Ù…20.0417:4835AffffffÀHá–R<https://s2.coinmarketcap.com/static/img/coins/64x64/9270.png
 ’
 
-1404/07/1914:05Ôå¨Ç"RioDeFi*Ø±ÛŒÙˆ Ø¯ÛŒÙØ§ÛŒ20.001244:144.39A¸…ëQ¸&ÀH‡•R<https://s2.coinmarketcap.com/static/img/coins/64x64/6537.png
+1404/07/1914:20Øì¨Ç"RioDeFi*Ø±ÛŒÙˆ Ø¯ÛŒÙØ§ÛŒ20.001243:144.03Aáz®Gá&ÀH¾’R<https://s2.coinmarketcap.com/static/img/coins/64x64/6537.png
 
 
-1404/07/1914:05Ôå¨Ç"DeFrogs*Ø¯ÛŒ ÙØ±Ø§Ú¯Ø²242.83:4970943A\Âõ(Ü(ÀH¸’R=https://s2.coinmarketcap.com/static/img/coins/64x64/29328.png
+1404/07/1914:19œì¨Ç"DeFrogs*Ø¯ÛŒ ÙØ±Ø§Ú¯Ø²242.83:4962504A\Âõ(Ü(ÀH¸’R=https://s2.coinmarketcap.com/static/img/coins/64x64/29328.png
 ˜
 
-1404/07/1914:05Ôå¨Ç"Looby By Stephen Bliss*Ù„ÙˆØ¨ÛŒ20.000448:52.02AR¸…ëQ1ÀH¯‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/37754.png
+1404/07/1914:20Øì¨Ç"Looby By Stephen Bliss*Ù„ÙˆØ¨ÛŒ20.000448:51.93AR¸…ëQ1ÀH¯‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/37754.png
 
 
-1404/07/1914:06æ¨Ç"Databot*Ø¯ÛŒØªØ§ Ø¨Ø§Øª20.000465:53.98AHáz®G4ÀH–€R=https://s2.coinmarketcap.com/static/img/coins/64x64/35379.png
-‡
-
-1404/07/1914:06æ¨Ç"LF*Ø§Ù„â€ŒØ§Ù20.000143:16.54A)\Âõ¨'ÀHÂûR=https://s2.coinmarketcap.com/static/img/coins/64x64/35989.png
+1404/07/1914:20Øì¨Ç"Databot*Ø¯ÛŒØªØ§ Ø¨Ø§Øª20.000465:53.89AHáz®G4ÀH–€R=https://s2.coinmarketcap.com/static/img/coins/64x64/35379.png
 ‹
 
-1404/07/1914:06æ¨Ç"Tokoin*ØªÙˆÚ©ÙˆÛŒÙ†20.000227:26.37Affffffú¿HïùR<https://s2.coinmarketcap.com/static/img/coins/64x64/4299.png
-’
-
-1404/07/1914:05Ôå¨Ç"Gondola*Ú¯ÙˆÙ†Ø¯ÙˆÙ„Ø§2
-0.00000104:0.1205Aš™™™™™0ÀHµñR=https://s2.coinmarketcap.com/static/img/coins/64x64/32154.png
-‡
-
-1404/07/1914:05Ôå¨Ç"SENATE*Ø³Ù†Øª20.003071:356.34AìQ¸…ë?ÀH¢ãR=https://s2.coinmarketcap.com/static/img/coins/64x64/15240.png
+1404/07/1914:20Øì¨Ç"Tokoin*ØªÙˆÚ©ÙˆÛŒÙ†20.000227:26.33A¸…ëQ¸ú¿H±ùR<https://s2.coinmarketcap.com/static/img/coins/64x64/4299.png
 ¦
 
-1404/07/1914:06æ¨Ç"	Mint Club*Ù…ÛŒÙ†Øª Ú©Ù„Ø§Ø¨20.00000040479222431800304:0.0470Afffffæ6ÀH‹İR=https://s2.coinmarketcap.com/static/img/coins/64x64/10977.png
-”
-
-1404/07/1914:05Ôå¨Ç"Gekko AI*Ú¯Ú©Ùˆ Ø§ÛŒâ€ŒØ¢ÛŒ20.000421:48.89A®Gáz”<ÀHÿÚR=https://s2.coinmarketcap.com/static/img/coins/64x64/35189.png
-•
-
-1404/07/1914:05Ôå¨Ç"
-SUGARVERSE*Ø´ÙˆÚ¯Ø§Ø±ÙˆØ±Ø³20.000901:104.56AR¸…ëÑ%ÀH±ÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/34376.png
-”
-
-1404/07/1914:05Ôå¨Ç"	TRI SIGMA*ØªØ±ÛŒ Ø³ÛŒÚ¯Ù…Ø§20.000420:48.72A…ëQ¸…$ÀHÆÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/34953.png
-
-
-1404/07/1914:05Ôå¨Ç"CyberFi Token*Ø³Ø§ÛŒØ¨Ø± ÙØ§ÛŒ ØªÙˆÚ©Ù†20.1728:20050Aq=
-×£p*ÀH¸§R<https://s2.coinmarketcap.com/static/img/coins/64x64/7699.png
-™
-
-1404/07/1914:05Ôå¨Ç"Elon*
-Ø§ÛŒÙ„Ø§Ù†20.0000006047096818408738:0.0702A…ëQ¸…,ÀH—¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/30979.png
-
-
-1404/07/1914:05Ôå¨Ç"ARTFI*Ø¢Ø±Øªâ€ŒÙØ§ÛŒ20.003156:366.20A¸…ëQ¸ÀHóR=https://s2.coinmarketcap.com/static/img/coins/64x64/31646.png
-Œ
-
-1404/07/1914:06æ¨Ç"stabble*
-Ø§Ø³ØªØ¨Ù„20.005550:644.03AÂõ(\/ÀHÌƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/22621.png
-
-
-1404/07/1914:06æ¨Ç"Apeiros*Ø§Ù¾Ø§ÛŒØ±ÙˆØ³20.004037:468.47A\Âõ(Ü-ÀH´R=https://s2.coinmarketcap.com/static/img/coins/64x64/29978.png
-œ
-
-1404/07/1914:06æ¨Ç"Elixir Games*Ø§Ù„Ú©Ø³ÛŒØ± Ú¯ÛŒÙ…Ø²20.001663:192.99A=
-×£p½0ÀH†ûR=https://s2.coinmarketcap.com/static/img/coins/64x64/31534.png
-Ÿ
-
-1404/07/1914:06æ¨Ç"Biggie*Ø¨ÛŒÚ¯ÛŒ20.000000000408523473121818:
-0.00004700A…ëQ¸…ÀHË÷R=https://s2.coinmarketcap.com/static/img/coins/64x64/37412.png
-‚
-
-1404/07/1914:05Ôå¨Ç"Cube*Ú©ÛŒÙˆØ¨25.32:617963A=
-×£p=)ÀH³õR<https://s2.coinmarketcap.com/static/img/coins/64x64/8387.png
+1404/07/1914:19œì¨Ç"	Mint Club*Ù…ÛŒÙ†Øª Ú©Ù„Ø§Ø¨20.00000040479222431800304:0.0469Afffffæ6ÀH‹İR=https://s2.coinmarketcap.com/static/img/coins/64x64/10977.png
 “
 
-1404/07/1914:06æ¨Ç"
-RAT Escape*Ø±Øª Ø§Ø³Ú©ÛŒÙ¾20.000407:47.20A333333ÀH±éR=https://s2.coinmarketcap.com/static/img/coins/64x64/34516.png
+1404/07/1914:19œì¨Ç"
+RAT Escape*Ø±Øª Ø§Ø³Ú©ÛŒÙ¾20.000421:48.81A{®Gáz
+ÀH‚ÛR=https://s2.coinmarketcap.com/static/img/coins/64x64/34516.png
+•
+
+1404/07/1914:19œì¨Ç"
+SUGARVERSE*Ø´ÙˆÚ¯Ø§Ø±ÙˆØ±Ø³20.000901:104.37AR¸…ëÑ%ÀH‚ÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/34376.png
+‡
+
+1404/07/1914:19œì¨Ç"SENATE*Ø³Ù†Øª20.003054:353.82A\Âõ(?ÀHÂÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/15240.png
+‡
+
+1404/07/1914:19œì¨Ç"LF*Ø§Ù„â€ŒØ§Ù20.000141:16.29AHáz®Ç(ÀH¹ÍR=https://s2.coinmarketcap.com/static/img/coins/64x64/35989.png
+›
+
+1404/07/1914:20Øì¨Ç"Geojam Token*Ø¬Ø¦Ùˆ Ø¬Ù… ØªÙˆÚ©Ù†2
+0.00005460:6.33Aáz®Gáú¿HµÈR=https://s2.coinmarketcap.com/static/img/coins/64x64/17852.png
+”
+
+1404/07/1914:19œì¨Ç"	TRI SIGMA*ØªØ±ÛŒ Ø³ÛŒÚ¯Ù…Ø§20.000418:48.42A¸…ëQ¸$ÀHœÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/34953.png
+™
+
+1404/07/1914:19œì¨Ç"Elon*
+Ø§ÛŒÙ„Ø§Ù†20.0000006085161789489978:0.0705Aq=
+×£p+ÀHÇ¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/30979.png
+
+
+1404/07/1914:19œì¨Ç"CyberFi Token*Ø³Ø§ÛŒØ¨Ø± ÙØ§ÛŒ ØªÙˆÚ©Ù†20.1726:19998A®Gáz”*ÀH¾¤R<https://s2.coinmarketcap.com/static/img/coins/64x64/7699.png
+Œ
+
+1404/07/1914:20Øì¨Ç"stabble*
+Ø§Ø³ØªØ¨Ù„20.005552:643.20A®Gáz/ÀHñ„R=https://s2.coinmarketcap.com/static/img/coins/64x64/22621.png
+
+
+1404/07/1914:20Øì¨Ç"Apeiros*Ø§Ù¾Ø§ÛŒØ±ÙˆØ³20.004036:467.60A…ëQ¸…-ÀHø€R=https://s2.coinmarketcap.com/static/img/coins/64x64/29978.png
+
+
+1404/07/1914:20Øì¨Ç"ARTFI*Ø¢Ø±Øªâ€ŒÙØ§ÛŒ20.003136:363.32A¸…ëQ¸ÀH‚úR=https://s2.coinmarketcap.com/static/img/coins/64x64/31646.png
+‚
+
+1404/07/1914:19œì¨Ç"Cube*Ú©ÛŒÙˆØ¨25.32:616914A=
+×£p=)ÀH³õR<https://s2.coinmarketcap.com/static/img/coins/64x64/8387.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"Biggie*Ø¨ÛŒÚ¯ÛŒ20.000000000406892855511318:
+0.00004700AÍÌÌÌÌÌÀHìêR=https://s2.coinmarketcap.com/static/img/coins/64x64/37412.png
 ƒ
 
-1404/07/1914:05Ôå¨Ç"Bag*Ø¨Ú¯2
-0.00009113:10.58AR¸…ëQ!ÀH›çR=https://s2.coinmarketcap.com/static/img/coins/64x64/29487.png
+1404/07/1914:19œì¨Ç"Bag*Ø¨Ú¯2
+0.00009113:10.56Aq=
+×£p!ÀHˆçR=https://s2.coinmarketcap.com/static/img/coins/64x64/29487.png
 
 
-1404/07/1914:05Ôå¨Ç"MOOMOO THE BULL*Ù…ÙˆÙˆÙ…Ùˆ Ø¯ Ø¨ÙˆÙ„20.000522:60.63Aš™™™™1ÀHÎæR=https://s2.coinmarketcap.com/static/img/coins/64x64/37306.png
+1404/07/1914:19œì¨Ç"MOOMOO THE BULL*Ù…ÙˆÙˆÙ…Ùˆ Ø¯ Ø¨ÙˆÙ„20.000522:60.53Aš™™™™1ÀHÎæR=https://s2.coinmarketcap.com/static/img/coins/64x64/37306.png
 ’
 
-1404/07/1914:05Ôå¨Ç"PLYR L1*Ù¾Ù„ÛŒØ± Ø§Ù„ Û±20.004711:546.66A=
+1404/07/1914:20Øì¨Ç"PLYR L1*Ù¾Ù„ÛŒØ± Ø§Ù„ Û±20.004711:545.73A=
 ×£p½'@H£àR=https://s2.coinmarketcap.com/static/img/coins/64x64/33760.png
 
 
-1404/07/1914:06æ¨Ç"PlotX*Ù¾Ù„Ø§Øª Ø§ÛŒÚ©Ø³20.006107:708.72A\Âõ(Ü#ÀHÜR<https://s2.coinmarketcap.com/static/img/coins/64x64/7422.png
-™
-
-1404/07/1914:05Ôå¨Ç"DePHY Network*Ø¯ÙÛŒ Ù†ØªÙˆØ±Ú©20.005599:649.71AÂõ(\-ÀHúÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/37488.png
-›
-
-1404/07/1914:05Ôå¨Ç"Geojam Token*Ø¬Ø¦Ùˆ Ø¬Ù… ØªÙˆÚ©Ù†2
-0.00005252:6.10Aq=
-×£pÀHÄËR=https://s2.coinmarketcap.com/static/img/coins/64x64/17852.png
-Ğ
-
-1404/07/1914:05Ôå¨Ç"Bitcoin Standard Hashrate Token*;Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ø§Ø³ØªØ§Ù†Ø¯Ø§Ø±Ø¯ Ù‡Ø´â€ŒØ±ÛŒØª ØªÙˆÚ©Ù†20.0330:3826A33333s0ÀH¨ÆR<https://s2.coinmarketcap.com/static/img/coins/64x64/8891.png
-
-
-1404/07/1914:05Ôå¨Ç"Karlsen*Ú©Ø§Ø±Ù„Ø³Ù†20.000169:19.57Aö(\Âõ,ÀH¡ÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/29968.png
-“
-
-1404/07/1914:05Ôå¨Ç"	Vabble v2*ÙˆØ§Ø¨Ù„ ÙˆÛŒÛ²20.002759:320.16Aö(\ÂõÀHÓÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/34601.png
-¢
-
-1404/07/1914:05Ôå¨Ç"GoCrypto Token*Ú¯Ùˆ Ú©Ø±ÛŒÙ¾ØªÙˆ ØªÙˆÚ©Ù†20.001636:189.83A®Gáz.$ÀH¶¾R<https://s2.coinmarketcap.com/static/img/coins/64x64/3052.png
-³
-
-1404/07/1914:05Ôå¨Ç"Samsunspor Fan Token*'Ø³Ø§Ù…Ø³ÙˆÙ†â€ŒØ§Ø³Ù¾ÙˆØ± ÙÙ† ØªÙˆÚ©Ù†20.1955:22682A\Âõ(\+ÀH´R=https://s2.coinmarketcap.com/static/img/coins/64x64/14020.png
-”
-
-1404/07/1914:05Ôå¨Ç"	Skeb Coin*Ø§Ø³Ú©Ø¨ Ú©ÙˆÛŒÙ†20.000345:40.03A
-×£p=
-ÀHÅ¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/21701.png
-
-
-1404/07/1914:05Ôå¨Ç"	Won Chang*ÙˆÙ† Ú†Ø§Ù†Ú¯20.000408:47.40A33333³)ÀH–›R=https://s2.coinmarketcap.com/static/img/coins/64x64/38404.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Habibi*
-Ø­Ø¨ÛŒØ¨ÛŒ20.000485:56.33A)\Âõh2ÀH‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/31189.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"WELL3*ÙˆÙ„ Û³2
-0.00009572:11.11AÃõ(\Â,ÀH˜†R=https://s2.coinmarketcap.com/static/img/coins/64x64/32211.png
-’
-
-1404/07/1914:06æ¨Ç"	Sugar Boy*Ø´ÙˆÚ¯Ø± Ø¨ÙˆÛŒ20.000403:46.77AHáz®Gé¿HŸ‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/34209.png
-
-
-1404/07/1914:05Ôå¨Ç"Junkcoin*Ø¬Ø§Ù†Ú©â€ŒÚ©ÙˆÛŒÙ†20.0220:2559A¤p=
-×ã4ÀHÖR:https://s2.coinmarketcap.com/static/img/coins/64x64/26.png
-¶
-
-1404/07/1914:05Ôå¨Ç"Bitcoin Silver AI**Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ø³ÛŒÙ„ÙˆØ± Ø§ÙÛŒâ€ŒØ¢ÛŒ2280.46:32547492AìQ¸…ë±?HİıR=https://s2.coinmarketcap.com/static/img/coins/64x64/35967.png
-š
-
-1404/07/1914:06æ¨Ç"neur.sh*Ù†ÙˆØ± Ø¯Ø§Øª Ø§Ø³â€ŒØ§Ú†20.000426:49.45A®Gázn2ÀHıR=https://s2.coinmarketcap.com/static/img/coins/64x64/35073.png
-
-
-1404/07/1914:06æ¨Ç"$AUTISM*Ø§ÙˆØªÛŒØ²Ù…20.000411:47.72A®Gáz5ÀHÇèR=https://s2.coinmarketcap.com/static/img/coins/64x64/33512.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Haven1*
-Ù‡ÛŒÙˆÙ†Û±20.001982:230.04A®Gáz®û?HèR=https://s2.coinmarketcap.com/static/img/coins/64x64/36416.png
-†
-
-1404/07/1914:05Ôå¨Ç"BIAO*Ø¨ÛŒØ§Ùˆ20.000390:45.27AÂõ(\O5ÀHòçR=https://s2.coinmarketcap.com/static/img/coins/64x64/34276.png
-¢
-
-1404/07/1914:05Ôå¨Ç"Callisto Network*Ú©Ø§Ù„ÛŒØ³ØªÙˆ Ù†ØªÙˆØ±Ú©20.000118:13.71Afffffæ(ÀH¬ÛR<https://s2.coinmarketcap.com/static/img/coins/64x64/2757.png
-
-
-1404/07/1914:05Ôå¨Ç"DOGAMÃ*Ø¯ÙˆÚ¯Ø§Ù…ÛŒ20.000498:57.84Aö(\ÂõÀH±ÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/14722.png
-’
-
-1404/07/1914:05Ôå¨Ç"	Kava Lend*Ú©Ø§ÙˆØ§ Ù„Ù†Ø¯20.002851:330.88AHáz®Ç!ÀH·ºR<https://s2.coinmarketcap.com/static/img/coins/64x64/7576.png
-Š
-
-1404/07/1914:05Ôå¨Ç"MotaCoin*Ù…ÙˆØªØ§ Ú©ÙˆÛŒÙ†20.006598:765.74H˜£R<https://s2.coinmarketcap.com/static/img/coins/64x64/4028.png
-
-
-1404/07/1914:05Ôå¨Ç"Hivello*Ù‡Ø§ÛŒÙˆÙ„Ùˆ20.000352:40.80AÂõ(\+ÀHø¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/35815.png
-‡
-
-1404/07/1914:06æ¨Ç"Bware*Ø¨ÛŒâ€ŒÙˆØ±20.0918:10654A)\Âõ(Ü?Hç’R<https://s2.coinmarketcap.com/static/img/coins/64x64/9052.png
-
-
-1404/07/1914:05Ôå¨Ç"Chirpley*
-Ú†Ø±Ù¾Ù„ÛŒ20.000915:106.16A®Gáz”(ÀHß‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/21722.png
+1404/07/1914:20Øì¨Ç"PlotX*Ù¾Ù„Ø§Øª Ø§ÛŒÚ©Ø³20.006107:707.51A\Âõ(Ü#ÀHÜR<https://s2.coinmarketcap.com/static/img/coins/64x64/7422.png
 œ
 
-1404/07/1914:06æ¨Ç"Blendr Network*Ø¨Ù„Ù†Ø¯Ø± Ù†ØªÙˆØ±Ú©20.009429:1094A
-×£p=
-ç?Hñ†R=https://s2.coinmarketcap.com/static/img/coins/64x64/29658.png
-
+1404/07/1914:20Øì¨Ç"Elixir Games*Ø§Ù„Ú©Ø³ÛŒØ± Ú¯ÛŒÙ…Ø²20.001646:190.67AÂõ(\Ï1ÀHşÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/31534.png
+™
 
-1404/07/1914:05Ôå¨Ç"Neurashi*Ù†ÙˆØ±Ø§Ø´ÛŒ20.001372:159.19A{®Gáz)ÀH€R=https://s2.coinmarketcap.com/static/img/coins/64x64/28436.png
-ˆ
+1404/07/1914:19œì¨Ç"DePHY Network*Ø¯ÙÛŒ Ù†ØªÙˆØ±Ú©20.005595:648.18AÍÌÌÌÌL,ÀHô×R=https://s2.coinmarketcap.com/static/img/coins/64x64/37488.png
+Ğ
 
-1404/07/1914:06æ¨Ç"E4C*
-Ø§ÛŒÛ´Ø³ÛŒ20.002932:340.20Aš™™™™™0ÀHöøR=https://s2.coinmarketcap.com/static/img/coins/64x64/34557.png
-
-
-1404/07/1914:06æ¨Ç"Gorilla*Ú¯ÙˆØ±ÛŒÙ„Ø§20.000431:50.06A=
-×£p=ê?H¡öR=https://s2.coinmarketcap.com/static/img/coins/64x64/28388.png
-‘
-
-1404/07/1914:05Ôå¨Ç"Pomerium*Ù¾ÙˆÙ…Ø±ÛŒÙˆÙ…20.002312:268.36A…ëQ¸…)ÀHŸéR=https://s2.coinmarketcap.com/static/img/coins/64x64/24050.png
-¢
-
-1404/07/1914:05Ôå¨Ç"Dark Frontiers*Ø¯Ø§Ø±Ú© ÙØ±Ø§Ù†ØªÛŒØ±Ø²20.002159:250.56AHáz®GÀHşçR=https://s2.coinmarketcap.com/static/img/coins/64x64/12487.png
-•
-
-1404/07/1914:05Ôå¨Ç"	Akropolis*Ø¢Ú©Ø±ÙˆÙ¾ÙˆÙ„ÛŒØ³2
-0.00008408:9.76Aáz®G¡1ÀH—âR<https://s2.coinmarketcap.com/static/img/coins/64x64/4134.png
-ˆ
-
-1404/07/1914:06æ¨Ç"Palette*Ù¾Ø§Ù„Øª253.32:6188324Afffffæ%ÀH£×R=https://s2.coinmarketcap.com/static/img/coins/64x64/29582.png
-
-
-1404/07/1914:05Ôå¨Ç"PointPay*Ù¾ÙˆÛŒÙ†Øª Ù¾ÛŒ20.0124:1435Aáz®G¡5ÀHõÑR<https://s2.coinmarketcap.com/static/img/coins/64x64/5640.png
-£
-
-1404/07/1914:05Ôå¨Ç"	Micro GPT* Ù…Ø§ÛŒÚ©Ø± Ùˆ Ø¬ÛŒâ€ŒÙ¾ÛŒâ€ŒØªÛŒ20.000493:57.16A=
-×£p=4ÀHîÃR=https://s2.coinmarketcap.com/static/img/coins/64x64/30826.png
- 
-
-1404/07/1914:05Ôå¨Ç"Tigres Fan Token*ØªÛŒÚ¯Ø±Ø³ ÙÙ† ØªÙˆÚ©Ù†20.1080:12533A¸…ëQ83ÀH³¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/22965.png
-‰
-
-1404/07/1914:05Ôå¨Ç"TORSY*
-ØªÙˆØ±Ø³ÛŒ20.000518:60.15A=
-×£p}<ÀH×’R=https://s2.coinmarketcap.com/static/img/coins/64x64/32288.png
- 
-
-1404/07/1914:06æ¨Ç"Lets Fuckin Go*Ù„ØªØ³ ÙØ§Ú©ÛŒÙ†Ú¯ Ú¯Ùˆ20.000362:42.03Aš™™™™)ÀHôŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/31530.png
-
-
-1404/07/1914:05Ôå¨Ç"Baby BNB*Ø¨ÛŒØ¨ÛŒ Ø¨ÛŒâ€ŒØ§Ù†â€ŒØ¨ÛŒ20.000360:41.83Aö(\Âõ1ÀHŒ€R=https://s2.coinmarketcap.com/static/img/coins/64x64/38595.png
-†
-
-1404/07/1914:06æ¨Ç"EGO*Ø§ÛŒÚ¯Ùˆ20.001795:208.27AffffffÀH—ıR=https://s2.coinmarketcap.com/static/img/coins/64x64/21513.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Alpha*Ø¢Ù„ÙØ§20.000360:41.77A3333330ÀH‰üR=https://s2.coinmarketcap.com/static/img/coins/64x64/35484.png
-—
-
-1404/07/1914:06æ¨Ç"
-CryptoZoon*Ú©Ø±ÛŒÙ¾ØªÙˆ Ø²ÙˆÙ†20.000515:59.76A
-×£p=Š(ÀHõøR=https://s2.coinmarketcap.com/static/img/coins/64x64/11129.png
-
-
-1404/07/1914:05Ôå¨Ç"
-SparkPoint*Ø§Ø³Ù¾Ø§Ø±Ú©â€ŒÙ¾ÙˆÛŒÙ†Øª2
-0.00002764:3.21A
-×£p=Š$ÀHñøR<https://s2.coinmarketcap.com/static/img/coins/64x64/3935.png
-¨
-
-1404/07/1914:05Ôå¨Ç"TOKYO GAMES TOKEN*ØªÙˆÚ©ÛŒÙˆ Ú¯ÛŒÙ…Ø² ØªÙˆÚ©Ù†20.002228:258.61AHáz®Ç:ÀHóïR=https://s2.coinmarketcap.com/static/img/coins/64x64/36448.png
-«
-
-1404/07/1914:05Ôå¨Ç"	Dogey-Inu*Ø¯Ø§Ú¯ÛŒ Ø§ÛŒÙ†Ùˆ20.000000000489882136584498:
-0.00005700A=
-×£pı:ÀH’ïR=https://s2.coinmarketcap.com/static/img/coins/64x64/10021.png
- 
-
-1404/07/1914:06æ¨Ç"Pentagon Games*Ù¾Ù†ØªØ§Ú¯ÙˆÙ† Ú¯ÛŒÙ…Ø²20.001080:125.35Aš™™™™™ÀH‚îR=https://s2.coinmarketcap.com/static/img/coins/64x64/34420.png
-’
-
-1404/07/1914:05Ôå¨Ç"PEAKDEFI*Ù¾ÛŒÚ© Ø¯ÛŒÙØ§ÛŒ20.000215:24.98Aq=
-×£p$ÀHíãR<https://s2.coinmarketcap.com/static/img/coins/64x64/5354.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"Itheum*Ø§ÛŒØ«ÛŒÙˆÙ…20.000732:84.92A
-×£p=Š:ÀHôÜR=https://s2.coinmarketcap.com/static/img/coins/64x64/18978.png
-Š
-
-1404/07/1914:05Ôå¨Ç"GG3*Ø¬ÛŒâ€ŒØ¬ÛŒ Û³20.008671:1006A{®Gáú*ÀH°ÜR=https://s2.coinmarketcap.com/static/img/coins/64x64/36981.png
-–
-
-1404/07/1914:05Ôå¨Ç"AssetMantle*Ø§Ø³ÙØª Ù…Ù†ØªÙ„20.000154:17.83Aš™™™™Ù5ÀHÏÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/19686.png
-‰
-
-1404/07/1914:06æ¨Ç"Donut*
-Ø¯ÙˆÙ†ÙˆØª20.002946:341.87AìQ¸…k%ÀHıÑR<https://s2.coinmarketcap.com/static/img/coins/64x64/6156.png
-—
-
-1404/07/1914:05Ôå¨Ç"
-Kunci Coin*Ú©ÙˆÙ†Ú†ÛŒ Ú©ÙˆÛŒÙ†20.000287:33.34A¸…ëQ¸®?HØÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/18208.png
-‘
-
-1404/07/1914:05Ôå¨Ç"Portuma*Ù¾ÙˆØ±ØªÙˆÙ…Ø§2
-0.00009330:10.83A=
-×£p=#ÀHéÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/16016.png
-š
-
-1404/07/1914:05Ôå¨Ç"Metrix Coin*Ù…ØªØ±ÛŒÚ©Ø³ Ú©ÙˆÛŒÙ†2
-0.00002101:2.44Aq=
-×£p@H”ÆR<https://s2.coinmarketcap.com/static/img/coins/64x64/1814.png
-°
-
-1404/07/1914:05Ôå¨Ç"sekoia by Virtuals*$Ø³Ú©ÙˆÛŒØ§ ØªÙˆØ³Ø· ÙˆÛŒØ±Ú†ÙˆØ§Ù„Ø²20.000357:41.41Aq=
-×£°=ÀH½R=https://s2.coinmarketcap.com/static/img/coins/64x64/34105.png
-¦
-
-1404/07/1914:05Ôå¨Ç"TRAVA.FINANCE*ØªØ±Ø§ÙˆØ§ Ø¯Ø§Øª ÙØ§ÛŒÙ†Ù†Ø³2
-0.00008210:9.53A¤p=
-×#$ÀHî·R=https://s2.coinmarketcap.com/static/img/coins/64x64/11209.png
-§
-
-1404/07/1914:06æ¨Ç"Integritee Network*Ø§ÛŒÙ†ØªÚ¯Ø±ÛŒØªÛŒ Ù†ØªÙˆØ±Ú©20.0882:10234AÃõ(\ÂÀHÚ´R=https://s2.coinmarketcap.com/static/img/coins/64x64/13323.png
-¤
-
-1404/07/1914:06æ¨Ç"Mystery*Ù…ÛŒØ³ØªØ±ÛŒ20.000000000831420355876913:
-0.00009600Aáz®Gá0ÀHÊ¬R=https://s2.coinmarketcap.com/static/img/coins/64x64/34583.png
-‡
-
-1404/07/1914:05Ôå¨Ç"	Coldstack*Ú©ÙˆÙ„Ø¯ Ø§Ø³ØªÚ©20.0148:1723Hï§R<https://s2.coinmarketcap.com/static/img/coins/64x64/9562.png
-’
-
-1404/07/1914:05Ôå¨Ç"UniLend*ÛŒÙˆÙ†ÛŒâ€ŒÙ„Ù†Ø¯20.003804:441.46A¤p=
-×#+ÀH©¤R<https://s2.coinmarketcap.com/static/img/coins/64x64/7412.png
-©
-
-1404/07/1914:05Ôå¨Ç"Sato The Dog*Ø³Ø§ØªÙˆ Ø¯ Ø¯Ø§Ú¯20.0000008277603868168721:0.0961A…ëQ¸…0ÀHÆ R=https://s2.coinmarketcap.com/static/img/coins/64x64/36386.png
-¼
-
-1404/07/1914:05Ôå¨Ç"Pesto the Baby King Penguin*'Ù¾Ø³ØªÙˆ Ø¨ÛŒØ¨ÛŒ Ú©ÛŒÙ†Ú¯ Ù¾Ù†Ú¯ÙˆØ¦Ù†20.000348:40.41AÃõ(\B$ÀH R=https://s2.coinmarketcap.com/static/img/coins/64x64/33195.png
-
-
-1404/07/1914:05Ôå¨Ç"
-yieldwatch*ÛŒÛŒÙ„Ø¯ ÙˆØ§Ú†20.0177:2052AÃõ(\B%ÀH˜R<https://s2.coinmarketcap.com/static/img/coins/64x64/8621.png
-º
-
-1404/07/1914:05Ôå¨Ç"Daboo - The Untold Stories!*.Ø¯Ø§Ø¨Ùˆ - Ø¯Ø§Ø³ØªØ§Ù†â€ŒÙ‡Ø§ÛŒ Ù†Ø§Ú¯ÙØªÙ‡!20.000622:72.17HğR=https://s2.coinmarketcap.com/static/img/coins/64x64/34797.png
-¾
-
-1404/07/1914:05Ôå¨Ç"Internet of Energy Network*)Ø§ÛŒÙ†ØªØ±Ù†Øª Ø¢Ù Ø§Ù†Ø±Ú˜ÛŒ Ù†ØªÙˆØ±Ú©20.001079:125.18A33333³+ÀHŞïR=https://s2.coinmarketcap.com/static/img/coins/64x64/12799.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Veloce*ÙˆÙ„ÙˆØ³20.001578:183.13A…ëQ¸…(ÀHğìR=https://s2.coinmarketcap.com/static/img/coins/64x64/27862.png
-†
-
-1404/07/1914:05Ôå¨Ç"HAMI*Ù‡Ø§Ù…ÛŒ20.000355:41.18AHáz®G2ÀH ëR=https://s2.coinmarketcap.com/static/img/coins/64x64/30550.png
+1404/07/1914:19œì¨Ç"Bitcoin Standard Hashrate Token*;Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ø§Ø³ØªØ§Ù†Ø¯Ø§Ø±Ø¯ Ù‡Ø´â€ŒØ±ÛŒØª ØªÙˆÚ©Ù†20.0329:3817A
+×£p=Š0ÀHÁÄR<https://s2.coinmarketcap.com/static/img/coins/64x64/8891.png
 “
 
-1404/07/1914:05Ôå¨Ç"Ben the Dog*Ø¨Ù† Ø¯ Ø¯Ø§Ú¯20.000341:39.62A{®GázÀHÏêR=https://s2.coinmarketcap.com/static/img/coins/64x64/29574.png
-§
+1404/07/1914:19œì¨Ç"	Vabble v2*ÙˆØ§Ø¨Ù„ ÙˆÛŒÛ²20.002759:319.61Aö(\ÂõÀHÓÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/34601.png
+¢
 
-1404/07/1914:05Ôå¨Ç"Monsta Infinite*Ù…ÙˆÙ†Ø³ØªØ§ Ø§ÛŒÙ†ÙÛŒÙ†ÛŒØª20.001880:218.13A       ÀHÅèR=https://s2.coinmarketcap.com/static/img/coins/64x64/11925.png
-©
+1404/07/1914:19œì¨Ç"GoCrypto Token*Ú¯Ùˆ Ú©Ø±ÛŒÙ¾ØªÙˆ ØªÙˆÚ©Ù†20.001636:189.50A®Gáz.$ÀH¶¾R<https://s2.coinmarketcap.com/static/img/coins/64x64/3052.png
+
 
-1404/07/1914:06æ¨Ç"
-UBXS Token*$ÛŒÙˆâ€ŒØ¨ÛŒâ€ŒØ§Ú©Ø³â€ŒØ§Ø³ ØªÙˆÚ©Ù†20.005953:690.89A33333³6ÀH¨âR=https://s2.coinmarketcap.com/static/img/coins/64x64/17242.png
-©
+1404/07/1914:19œì¨Ç"Karlsen*Ú©Ø§Ø±Ù„Ø³Ù†20.000168:19.49A®Gáz”-ÀH¦½R=https://s2.coinmarketcap.com/static/img/coins/64x64/29968.png
+”
 
-1404/07/1914:06æ¨Ç"Niftyx Protocol* Ù†ÛŒÙØªÛŒ Ø§ÛŒÚ©Ø³ Ù¾Ø±ÙˆØªÚ©Ù„20.006620:768.26Aáz®Ga+ÀHÔáR<https://s2.coinmarketcap.com/static/img/coins/64x64/6891.png
+1404/07/1914:19œì¨Ç"	Skeb Coin*Ø§Ø³Ú©Ø¨ Ú©ÙˆÛŒÙ†20.000345:39.94A333333ÀH»¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/21701.png
+³
+
+1404/07/1914:19œì¨Ç"Samsunspor Fan Token*'Ø³Ø§Ù…Ø³ÙˆÙ†â€ŒØ§Ø³Ù¾ÙˆØ± ÙÙ† ØªÙˆÚ©Ù†20.1939:22468AÃõ(\B,ÀHó›R=https://s2.coinmarketcap.com/static/img/coins/64x64/14020.png
+Š
+
+1404/07/1914:19œì¨Ç"Habibi*
+Ø­Ø¨ÛŒØ¨ÛŒ20.000485:56.23A)\Âõh2ÀH‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/31189.png
+š
+
+1404/07/1914:20Øì¨Ç"neur.sh*Ù†ÙˆØ± Ø¯Ø§Øª Ø§Ø³â€ŒØ§Ú†20.000429:49.66A\Âõ(Ü1ÀHÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/35073.png
+
+
+1404/07/1914:19œì¨Ç"Junkcoin*Ø¬Ø§Ù†Ú©â€ŒÚ©ÙˆÛŒÙ†20.0220:2553AìQ¸…ë4ÀH¸€R:https://s2.coinmarketcap.com/static/img/coins/64x64/26.png
+ˆ
+
+1404/07/1914:19œì¨Ç"WELL3*ÙˆÙ„ Û³2
+0.00009549:11.06Aö(\Âõ+ÀHÈşR=https://s2.coinmarketcap.com/static/img/coins/64x64/32211.png
+¶
+
+1404/07/1914:20Øì¨Ç"Bitcoin Silver AI**Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ø³ÛŒÙ„ÙˆØ± Ø§ÙÛŒâ€ŒØ¢ÛŒ2280.40:32484814Aš™™™™™©?HƒıR=https://s2.coinmarketcap.com/static/img/coins/64x64/35967.png
+
+
+1404/07/1914:19œì¨Ç"	Won Chang*ÙˆÙ† Ú†Ø§Ù†Ú¯20.000404:46.84A®Gáz.,ÀHÒûR=https://s2.coinmarketcap.com/static/img/coins/64x64/38404.png
+’
+
+1404/07/1914:19œì¨Ç"	Sugar Boy*Ø´ÙˆÚ¯Ø± Ø¨ÙˆÛŒ20.000402:46.58A      ğ¿H›ûR=https://s2.coinmarketcap.com/static/img/coins/64x64/34209.png
+‹
+
+1404/07/1914:19œì¨Ç"Haven1*
+Ù‡ÛŒÙˆÙ†Û±20.001983:229.79Affffff @HîéR=https://s2.coinmarketcap.com/static/img/coins/64x64/36416.png
+
+
+1404/07/1914:19œì¨Ç"$AUTISM*Ø§ÙˆØªÛŒØ²Ù…20.000411:47.64A®Gáz5ÀHÇèR=https://s2.coinmarketcap.com/static/img/coins/64x64/33512.png
+¢
+
+1404/07/1914:20Øì¨Ç"Callisto Network*Ú©Ø§Ù„ÛŒØ³ØªÙˆ Ù†ØªÙˆØ±Ú©20.000118:13.69Afffffæ(ÀH¬ÛR<https://s2.coinmarketcap.com/static/img/coins/64x64/2757.png
 †
 
-1404/07/1914:05Ôå¨Ç"ROND*Ø±ÙˆÙ†Ø¯20.000767:89.06A=
+1404/07/1914:19œì¨Ç"BIAO*Ø¨ÛŒØ§Ùˆ20.000387:44.89AHáz®Ç5ÀH¡ÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/34276.png
+
+
+1404/07/1914:19œì¨Ç"DOGAMÃ*Ø¯ÙˆÚ¯Ø§Ù…ÛŒ20.000498:57.74A¸…ëQ¸ÀHºÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/14722.png
+’
+
+1404/07/1914:19œì¨Ç"	Kava Lend*Ú©Ø§ÙˆØ§ Ù„Ù†Ø¯20.002850:330.16AÃõ(\B"ÀH€¹R<https://s2.coinmarketcap.com/static/img/coins/64x64/7576.png
+Š
+
+1404/07/1914:19œì¨Ç"MotaCoin*Ù…ÙˆØªØ§ Ú©ÙˆÛŒÙ†20.006598:764.44H˜£R<https://s2.coinmarketcap.com/static/img/coins/64x64/4028.png
+
+
+1404/07/1914:20Øì¨Ç"Hivello*Ù‡Ø§ÛŒÙˆÙ„Ùˆ20.000350:40.59A)\Âõ(,ÀHß—R=https://s2.coinmarketcap.com/static/img/coins/64x64/35815.png
+‡
+
+1404/07/1914:20Øì¨Ç"Bware*Ø¨ÛŒâ€ŒÙˆØ±20.0918:10639A¤p=
+×£à?HÖ“R<https://s2.coinmarketcap.com/static/img/coins/64x64/9052.png
+
+
+1404/07/1914:19œì¨Ç"Chirpley*
+Ú†Ø±Ù¾Ù„ÛŒ20.000916:106.15A®Gáz(ÀHÖŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/21722.png
+œ
+
+1404/07/1914:19œì¨Ç"Blendr Network*Ø¨Ù„Ù†Ø¯Ø± Ù†ØªÙˆØ±Ú©20.009428:1092A
+×£p=
+ç?HÈ†R=https://s2.coinmarketcap.com/static/img/coins/64x64/29658.png
+ˆ
+
+1404/07/1914:20Øì¨Ç"E4C*
+Ø§ÛŒÛ´Ø³ÛŒ20.002941:340.75A¤p=
+×£/ÀH×‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/34557.png
+•
+
+1404/07/1914:19œì¨Ç"	Akropolis*Ø¢Ú©Ø±ÙˆÙ¾ÙˆÙ„ÛŒØ³2
+0.00008471:9.81AHáz®2ÀHÿ÷R<https://s2.coinmarketcap.com/static/img/coins/64x64/4134.png
+
+
+1404/07/1914:20Øì¨Ç"Gorilla*Ú¯ÙˆØ±ÛŒÙ„Ø§20.000431:49.96Aö(\Âõè?H¼õR=https://s2.coinmarketcap.com/static/img/coins/64x64/28388.png
+‘
+
+1404/07/1914:19œì¨Ç"Pomerium*Ù¾ÙˆÙ…Ø±ÛŒÙˆÙ…20.002322:269.02A¸…ëQ¸(ÀH¨õR=https://s2.coinmarketcap.com/static/img/coins/64x64/24050.png
+
+
+1404/07/1914:19œì¨Ç"Neurashi*Ù†ÙˆØ±Ø§Ø´ÛŒ20.001364:158.01Afffffæ*ÀH¥ïR=https://s2.coinmarketcap.com/static/img/coins/64x64/28436.png
+¢
+
+1404/07/1914:19œì¨Ç"Dark Frontiers*Ø¯Ø§Ø±Ú© ÙØ±Ø§Ù†ØªÛŒØ±Ø²20.002159:250.16A=
+×£p=ÀHèR=https://s2.coinmarketcap.com/static/img/coins/64x64/12487.png
+
+
+1404/07/1914:20Øì¨Ç"PointPay*Ù¾ÙˆÛŒÙ†Øª Ù¾ÛŒ20.0124:1432A®Gáz”5ÀHÄĞR<https://s2.coinmarketcap.com/static/img/coins/64x64/5640.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Palette*Ù¾Ø§Ù„Øª253.13:6155351AÃõ(\Â&ÀHÛÌR=https://s2.coinmarketcap.com/static/img/coins/64x64/29582.png
+£
+
+1404/07/1914:19œì¨Ç"	Micro GPT* Ù…Ø§ÛŒÚ©Ø± Ùˆ Ø¬ÛŒâ€ŒÙ¾ÛŒâ€ŒØªÛŒ20.000492:57.01AHáz®‡4ÀH¤ÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/30826.png
+ 
+
+1404/07/1914:19œì¨Ç"Tigres Fan Token*ØªÛŒÚ¯Ø±Ø³ ÙÙ† ØªÙˆÚ©Ù†20.1080:12512A¸…ëQ83ÀH³¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/22965.png
+‰
+
+1404/07/1914:19œì¨Ç"TORSY*
+ØªÙˆØ±Ø³ÛŒ20.000518:60.05A{®Gáz<ÀH¹’R=https://s2.coinmarketcap.com/static/img/coins/64x64/32288.png
+ 
+
+1404/07/1914:19œì¨Ç"Lets Fuckin Go*Ù„ØªØ³ ÙØ§Ú©ÛŒÙ†Ú¯ Ú¯Ùˆ20.000362:41.95A¤p=
+×£)ÀHÔŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/31530.png
+†
+
+1404/07/1914:19œì¨Ç"EGO*Ø§ÛŒÚ¯Ùˆ20.001799:208.38A\Âõ(\ÀH¯ƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/21513.png
+
+
+1404/07/1914:19œì¨Ç"
+SparkPoint*Ø§Ø³Ù¾Ø§Ø±Ú©â€ŒÙ¾ÙˆÛŒÙ†Øª2
+0.00002764:3.20A
+×£p=Š$ÀHñøR<https://s2.coinmarketcap.com/static/img/coins/64x64/3935.png
+—
+
+1404/07/1914:19œì¨Ç"
+CryptoZoon*Ú©Ø±ÛŒÙ¾ØªÙˆ Ø²ÙˆÙ†20.000515:59.65A¸…ëQ¸(ÀHÄøR=https://s2.coinmarketcap.com/static/img/coins/64x64/11129.png
+ 
+
+1404/07/1914:19œì¨Ç"Pentagon Games*Ù¾Ù†ØªØ§Ú¯ÙˆÙ† Ú¯ÛŒÙ…Ø²20.001082:125.32AÃõ(\ÂÀH‹òR=https://s2.coinmarketcap.com/static/img/coins/64x64/34420.png
+¨
+
+1404/07/1914:19œì¨Ç"TOKYO GAMES TOKEN*ØªÙˆÚ©ÛŒÙˆ Ú¯ÛŒÙ…Ø² ØªÙˆÚ©Ù†20.002229:258.25A{®Gáº9ÀHÕğR=https://s2.coinmarketcap.com/static/img/coins/64x64/36448.png
+«
+
+1404/07/1914:19œì¨Ç"	Dogey-Inu*Ø¯Ø§Ú¯ÛŒ Ø§ÛŒÙ†Ùˆ20.000000000489882136584498:
+0.00005700A=
+×£pı:ÀH’ïR=https://s2.coinmarketcap.com/static/img/coins/64x64/10021.png
+
+
+1404/07/1914:19œì¨Ç"Baby BNB*Ø¨ÛŒØ¨ÛŒ Ø¨ÛŒâ€ŒØ§Ù†â€ŒØ¨ÛŒ20.000357:41.41A×£p=
+W2ÀHÙèR=https://s2.coinmarketcap.com/static/img/coins/64x64/38595.png
+‡
+
+1404/07/1914:19œì¨Ç"Alpha*Ø¢Ù„ÙØ§20.000357:41.38Aš™™™™Ù0ÀH«æR=https://s2.coinmarketcap.com/static/img/coins/64x64/35484.png
+’
+
+1404/07/1914:19œì¨Ç"PEAKDEFI*Ù¾ÛŒÚ© Ø¯ÛŒÙØ§ÛŒ20.000215:24.94A\Âõ(Ü#ÀHíãR<https://s2.coinmarketcap.com/static/img/coins/64x64/5354.png
+Š
+
+1404/07/1914:19œì¨Ç"GG3*Ø¬ÛŒâ€ŒØ¬ÛŒ Û³20.008670:1004AÍÌÌÌÌÌ*ÀHˆÜR=https://s2.coinmarketcap.com/static/img/coins/64x64/36981.png
+
+
+1404/07/1914:19œì¨Ç"BBQCOIN*Ø¨ÛŒâ€ŒØ¨ÛŒâ€ŒÚ©ÛŒÙˆ Ú©ÙˆÛŒÙ†20.000710:82.26A®Gázî6ÀHÕÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/33687.png
+Œ
+
+1404/07/1914:19œì¨Ç"Itheum*Ø§ÛŒØ«ÛŒÙˆÙ…20.000730:84.51A=
+×£p½:ÀHªÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/18978.png
+–
+
+1404/07/1914:19œì¨Ç"AssetMantle*Ø§Ø³ÙØª Ù…Ù†ØªÙ„20.000154:17.80A=
+×£p=6ÀHÏÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/19686.png
+‰
+
+1404/07/1914:20Øì¨Ç"Donut*
+Ø¯ÙˆÙ†ÙˆØª20.002946:341.29AìQ¸…k%ÀHıÑR<https://s2.coinmarketcap.com/static/img/coins/64x64/6156.png
+‘
+
+1404/07/1914:19œì¨Ç"Portuma*Ù¾ÙˆØ±ØªÙˆÙ…Ø§2
+0.00009359:10.84A{®Gáz"ÀH²ÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/16016.png
+—
+
+1404/07/1914:19œì¨Ç"
+Kunci Coin*Ú©ÙˆÙ†Ú†ÛŒ Ú©ÙˆÛŒÙ†20.000287:33.28A¸…ëQ¸®?HûÍR=https://s2.coinmarketcap.com/static/img/coins/64x64/18208.png
+¤
+
+1404/07/1914:19œì¨Ç"Mystery*Ù…ÛŒØ³ØªØ±ÛŒ20.000000000840523578347993:
+0.00009700AìQ¸…ë/ÀH¿ÊR=https://s2.coinmarketcap.com/static/img/coins/64x64/34583.png
+°
+
+1404/07/1914:19œì¨Ç"sekoia by Virtuals*$Ø³Ú©ÙˆÛŒØ§ ØªÙˆØ³Ø· ÙˆÛŒØ±Ú†ÙˆØ§Ù„Ø²20.000357:41.33Aq=
+×£°=ÀHÀ¼R=https://s2.coinmarketcap.com/static/img/coins/64x64/34105.png
+š
+
+1404/07/1914:19œì¨Ç"Metrix Coin*Ù…ØªØ±ÛŒÚ©Ø³ Ú©ÙˆÛŒÙ†2
+0.00002089:2.42A=
+×£p=@Hı¶R<https://s2.coinmarketcap.com/static/img/coins/64x64/1814.png
+§
+
+1404/07/1914:19œì¨Ç"Integritee Network*Ø§ÛŒÙ†ØªÚ¯Ø±ÛŒØªÛŒ Ù†ØªÙˆØ±Ú©20.0881:10211AÃõ(\ÂÀH¦³R=https://s2.coinmarketcap.com/static/img/coins/64x64/13323.png
+¦
+
+1404/07/1914:20Øì¨Ç"TRAVA.FINANCE*ØªØ±Ø§ÙˆØ§ Ø¯Ø§Øª ÙØ§ÛŒÙ†Ù†Ø³2
+0.00008192:9.49AÂõ(\$ÀHô±R=https://s2.coinmarketcap.com/static/img/coins/64x64/11209.png
+
+
+1404/07/1914:19œì¨Ç"	Coldstack*Ú©ÙˆÙ„Ø¯ Ø§Ø³ØªÚ©20.0148:1720AìQ¸…ë±¿HÈ§R<https://s2.coinmarketcap.com/static/img/coins/64x64/9562.png
+©
+
+1404/07/1914:19œì¨Ç"Sato The Dog*Ø³Ø§ØªÙˆ Ø¯ Ø¯Ø§Ú¯20.0000008276123890767511:0.0959Afffff¦0ÀHˆ R=https://s2.coinmarketcap.com/static/img/coins/64x64/36386.png
+
+
+1404/07/1914:19œì¨Ç"
+yieldwatch*ÛŒÛŒÙ„Ø¯ ÙˆØ§Ú†20.0177:2049AÃõ(\B#ÀH–R<https://s2.coinmarketcap.com/static/img/coins/64x64/8621.png
+“
+
+1404/07/1914:20Øì¨Ç"Cryowar*Ú©Ø±Ø§ÛŒÙˆ ÙˆØ§Ø±20.001326:153.65A…ëQ¸*ÀHñ…R=https://s2.coinmarketcap.com/static/img/coins/64x64/12722.png
+°
+
+1404/07/1914:19œì¨Ç"MBD Financials*%Ø§Ù…â€ŒØ¨ÛŒâ€ŒØ¯ÛŒ ÙØ§ÛŒÙ†Ù†Ø´Ø§Ù„Ø²2
+0.00001324:1.5341A      ÀHÏûR=https://s2.coinmarketcap.com/static/img/coins/64x64/20188.png
+º
+
+1404/07/1914:19œì¨Ç"Daboo - The Untold Stories!*.Ø¯Ø§Ø¨Ùˆ - Ø¯Ø§Ø³ØªØ§Ù†â€ŒÙ‡Ø§ÛŒ Ù†Ø§Ú¯ÙØªÙ‡!20.000622:72.05HğR=https://s2.coinmarketcap.com/static/img/coins/64x64/34797.png
+¾
+
+1404/07/1914:19œì¨Ç"Internet of Energy Network*)Ø§ÛŒÙ†ØªØ±Ù†Øª Ø¢Ù Ø§Ù†Ø±Ú˜ÛŒ Ù†ØªÙˆØ±Ú©20.001078:124.90AHáz®Ç+ÀH½îR=https://s2.coinmarketcap.com/static/img/coins/64x64/12799.png
+‰
+
+1404/07/1914:19œì¨Ç"Veloce*ÙˆÙ„ÙˆØ³20.001577:182.75A=
+×£p=2ÀHêëR=https://s2.coinmarketcap.com/static/img/coins/64x64/27862.png
+“
+
+1404/07/1914:20Øì¨Ç"Ben the Dog*Ø¨Ù† Ø¯ Ø¯Ø§Ú¯20.000341:39.55AffffffÀHÏêR=https://s2.coinmarketcap.com/static/img/coins/64x64/29574.png
+†
+
+1404/07/1914:19œì¨Ç"HAMI*Ù‡Ø§Ù…ÛŒ20.000354:40.99A¸…ëQø0ÀHçãR=https://s2.coinmarketcap.com/static/img/coins/64x64/30550.png
+©
+
+1404/07/1914:20Øì¨Ç"
+UBXS Token*$ÛŒÙˆâ€ŒØ¨ÛŒâ€ŒØ§Ú©Ø³â€ŒØ§Ø³ ØªÙˆÚ©Ù†20.005954:689.75A¸…ëQ¸6ÀH¹âR=https://s2.coinmarketcap.com/static/img/coins/64x64/17242.png
+©
+
+1404/07/1914:19œì¨Ç"Niftyx Protocol* Ù†ÛŒÙØªÛŒ Ø§ÛŒÚ©Ø³ Ù¾Ø±ÙˆØªÚ©Ù„20.006620:766.96Aáz®Ga+ÀHÔáR<https://s2.coinmarketcap.com/static/img/coins/64x64/6891.png
+†
+
+1404/07/1914:19œì¨Ç"ROND*Ø±ÙˆÙ†Ø¯20.000767:88.91A=
 ×£p=ÀHÊàR=https://s2.coinmarketcap.com/static/img/coins/64x64/22034.png
 Œ
 
-1404/07/1914:05Ôå¨Ç"Ariva*
+1404/07/1914:19œì¨Ç"Ariva*
 Ø§Ø±ÛŒÙˆØ§2
-0.00000469:0.5437A…ëQ¸!ÀHĞßR=https://s2.coinmarketcap.com/static/img/coins/64x64/11541.png
-“
+0.00000468:0.5425AÂõ(\!ÀH´ŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/11541.png
+’
 
-1404/07/1914:06æ¨Ç"Cryowar*Ú©Ø±Ø§ÛŒÙˆ ÙˆØ§Ø±20.001307:151.64A)\Âõ(-ÀHŸŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/12722.png
+1404/07/1914:19œì¨Ç"UniLend*ÛŒÙˆÙ†ÛŒâ€ŒÙ„Ù†Ø¯20.003706:429.30Aš™™™™™/ÀHäİR<https://s2.coinmarketcap.com/static/img/coins/64x64/7412.png
 £
 
-1404/07/1914:05Ôå¨Ç"BHO Network*Ø¨ÛŒâ€ŒØ§Ú†â€ŒØ§Ùˆ Ù†ØªÙˆØ±Ú©2
-0.00008402:9.75A®Gáz”/ÀHÌÜR=https://s2.coinmarketcap.com/static/img/coins/64x64/12280.png
+1404/07/1914:19œì¨Ç"BHO Network*Ø¨ÛŒâ€ŒØ§Ú†â€ŒØ§Ùˆ Ù†ØªÙˆØ±Ú©2
+0.00008402:9.73A®Gáz”/ÀHÌÜR=https://s2.coinmarketcap.com/static/img/coins/64x64/12280.png
 
 
-1404/07/1914:05Ôå¨Ç"Landwolf*Ù„Ù†Ø¯ ÙˆÙ„Ù20.000868:100.75Aq=
+1404/07/1914:19œì¨Ç"Landwolf*Ù„Ù†Ø¯ ÙˆÙ„Ù20.000868:100.58Aq=
 ×£p(ÀHïØR=https://s2.coinmarketcap.com/static/img/coins/64x64/30360.png
-™
-
-1404/07/1914:05Ôå¨Ç"Coinye West*Ú©ÙˆÛŒÙ† ÛŒÛŒ ÙˆØ³Øª20.000423:49.05A…ëQ¸%ÀHñÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/30133.png
-°
-
-1404/07/1914:05Ôå¨Ç"MBD Financials*%Ø§Ù…â€ŒØ¨ÛŒâ€ŒØ¯ÛŒ ÙØ§ÛŒÙ†Ù†Ø´Ø§Ù„Ø²2
-0.00001305:1.5149A{®GázÀHÀÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/20188.png
 ¢
 
-1404/07/1914:05Ôå¨Ç"PrompTale AI*Ù¾Ø±ÙˆÙ…Ù¾ ØªÛŒÙ„ Ø§ÛŒ Ø¢ÛŒ20.003336:387.14A=
-×£p½3ÀHÉÒR=https://s2.coinmarketcap.com/static/img/coins/64x64/36854.png
-
+1404/07/1914:19œì¨Ç"PrompTale AI*Ù¾Ø±ÙˆÙ…Ù¾ ØªÛŒÙ„ Ø§ÛŒ Ø¢ÛŒ20.003344:387.36Aáz®Ga4ÀHÆØR=https://s2.coinmarketcap.com/static/img/coins/64x64/36854.png
+™
 
-1404/07/1914:05Ôå¨Ç"Bistroo*Ø¨ÛŒØ³ØªØ±Ùˆ20.006077:705.20Aáz®Ga&ÀHˆÈR<https://s2.coinmarketcap.com/static/img/coins/64x64/9889.png
+1404/07/1914:19œì¨Ç"Coinye West*Ú©ÙˆÛŒÙ† ÛŒÛŒ ÙˆØ³Øª20.000423:48.97A…ëQ¸%ÀHñÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/30133.png
+§
+
+1404/07/1914:19œì¨Ç"Monsta Infinite*Ù…ÙˆÙ†Ø³ØªØ§ Ø§ÛŒÙ†ÙÛŒÙ†ÛŒØª20.001864:215.95A…ëQ¸…!ÀH¦ÒR=https://s2.coinmarketcap.com/static/img/coins/64x64/11925.png
 •
 
-1404/07/1914:05Ôå¨Ç"	Finceptor*ÙÛŒÙ† Ø³Ù¾ØªÙˆØ±20.006905:801.30AÍÌÌÌÌ>ÀH‡ÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/28950.png
+1404/07/1914:20Øì¨Ç"	Finceptor*ÙÛŒÙ† Ø³Ù¾ØªÙˆØ±20.006904:799.87AÍÌÌÌÌ>ÀHëÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/28950.png
 
 
-1404/07/1914:05Ôå¨Ç"Canxium*Ú©Ù†Ú©Ø³ÛŒÙˆÙ…20.2724:31608AÂõ(\-ÀH½½R=https://s2.coinmarketcap.com/static/img/coins/64x64/29262.png
+1404/07/1914:19œì¨Ç"Canxium*Ú©Ù†Ú©Ø³ÛŒÙˆÙ…20.2723:31549A…ëQ¸,ÀH†½R=https://s2.coinmarketcap.com/static/img/coins/64x64/29262.png
 Œ
 
-1404/07/1914:06æ¨Ç"ADAPad*Ø¢Ø¯Ø§ Ù¾Ø¯20.002852:330.99A      'ÀH¯½R=https://s2.coinmarketcap.com/static/img/coins/64x64/11349.png
-¹
-
-1404/07/1914:05Ôå¨Ç"QATAR 2022 TOKEN*Ù‚Ø·Ø± Û²Û°Û²Û² ØªÙˆÚ©Ù†20.000000000007927792939915:
-0.00000100Aš™™™™™©?H²¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/18706.png
-…
-
-1404/07/1914:05Ôå¨Ç"BEATS on BASE20.000515:59.79Aš™™™™™*ÀH¦£R=https://s2.coinmarketcap.com/static/img/coins/64x64/34915.png
-¬
-
-1404/07/1914:05Ôå¨Ç"DecentralGPT*#Ø¯ÛŒØ³Ù†ØªØ±Ø§Ù„ Ø¬ÛŒâ€ŒÙ¾ÛŒâ€ŒØªÛŒ2
-0.00000211:0.2451A
-×£p=Š<ÀHš¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/38106.png
-š
-
-1404/07/1914:05Ôå¨Ç"Bitcoin Atom*Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ø§ØªÙ…20.0180:2089AÃõ(\Âñ¿HR<https://s2.coinmarketcap.com/static/img/coins/64x64/2387.png
+1404/07/1914:19œì¨Ç"ADAPad*Ø¢Ø¯Ø§ Ù¾Ø¯20.002851:330.29AÂõ(\'ÀH›¼R=https://s2.coinmarketcap.com/static/img/coins/64x64/11349.png
 
 
-1404/07/1914:05Ôå¨Ç"ChainX*Ú†ÙÛŒÙ†â€ŒØ§Ú©Ø³20.0265:3072AìQ¸…ë9ÀHšR<https://s2.coinmarketcap.com/static/img/coins/64x64/4200.png
-Æ
+1404/07/1914:19œì¨Ç"Bistroo*Ø¨ÛŒØ³ØªØ±Ùˆ20.006046:700.45AHáz®Ç'ÀHáºR<https://s2.coinmarketcap.com/static/img/coins/64x64/9889.png
+¹
 
-1404/07/1914:05Ôå¨Ç"TAOCat by Virtuals & Masa*3ØªØ§Ø¦Ùˆ Ú©Øª ØªÙˆØ³Ø· ÙˆÛŒØ±Ú†ÙˆØ§Ù„Ø² Ùˆ Ù…Ø§Ø³Ø§20.000330:38.24AR¸…ë‘?ÀHÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/34848.png
-
+1404/07/1914:19œì¨Ç"QATAR 2022 TOKEN*Ù‚Ø·Ø± Û²Û°Û²Û² ØªÙˆÚ©Ù†20.000000000007925753498722:
+0.00000100A{®Gáz„?HÛ¸R=https://s2.coinmarketcap.com/static/img/coins/64x64/18706.png
+…
 
-1404/07/1914:06æ¨Ç"Memhash*Ù…Ù…â€ŒÙ‡ÙØ´20.000389:45.16A{®Gáº0ÀH›„R=https://s2.coinmarketcap.com/static/img/coins/64x64/35607.png
-‹
-
-1404/07/1914:06æ¨Ç"Orange*
-Ø§ÙˆØ±Ù†Ø¬20.003353:389.08AHáz®GÀHÄôR=https://s2.coinmarketcap.com/static/img/coins/64x64/29297.png
-Š
-
-1404/07/1914:05Ôå¨Ç"AtromG8*Ø¢ØªØ±ÙˆÙ… Ø¬ÛŒ Û¸20.007762:900.76HíòR<https://s2.coinmarketcap.com/static/img/coins/64x64/5536.png
-”
-
-1404/07/1914:06æ¨Ç"	Hourglass*Ø¢ÙˆÙØ±Ú¯Ù„Ø§Ø³20.003328:386.17A¸…ëQ8(ÀH¤íR=https://s2.coinmarketcap.com/static/img/coins/64x64/21997.png
-—
-
-1404/07/1914:05Ôå¨Ç"Success Kid*Ø³Ø§Ú©Ø³Ø³ Ú©ÛŒØ¯20.003726:432.42A{®Gáú,ÀH‘İR=https://s2.coinmarketcap.com/static/img/coins/64x64/30011.png
-ƒ
-
-1404/07/1914:06æ¨Ç"BVM*Ø¨ÛŒâ€ŒÙˆÛŒâ€ŒØ§Ù…20.0130:1503HÉÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/29767.png
-Â
-
-1404/07/1914:05Ôå¨Ç"Outer Ring MMO (GQ)*4Ø§ÙˆØªØ± Ø±ÛŒÙ†Ú¯ Ø§Ù…â€ŒØ§Ù…â€ŒØ§Ùˆ (Ø¬ÛŒâ€ŒÚ©ÛŒÙˆ)2
-0.00005411:6.28A…ëQ¸-ÀH½ÌR=https://s2.coinmarketcap.com/static/img/coins/64x64/16057.png
-¯
-
-1404/07/1914:05Ôå¨Ç"
-TiFi Token*ØªÛŒâ€ŒÙØ§ÛŒ ØªÙˆÚ©Ù†20.000000004037109550028679:0.000469A®Gáz.)ÀHò©R=https://s2.coinmarketcap.com/static/img/coins/64x64/19476.png
+1404/07/1914:19œì¨Ç"BEATS on BASE20.000515:59.61AR¸…ëÑ*ÀHÿŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/34915.png
 š
 
-1404/07/1914:06æ¨Ç"Pleasure Coin*Ù¾Ù„Ú˜Ø± Ú©ÙˆÛŒÙ†2
-0.00001291:1.4981A¸…ëQ¸@Hä¦R<https://s2.coinmarketcap.com/static/img/coins/64x64/9840.png
-
+1404/07/1914:19œì¨Ç"Bitcoin Atom*Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ø§ØªÙ…20.0180:2085A®Gázò¿H©R<https://s2.coinmarketcap.com/static/img/coins/64x64/2387.png
+
 
-1404/07/1914:05Ôå¨Ç"Binamon*Ø¨ÛŒÙ†Ø§Ù…ÙˆÙ†20.002714:314.96A¤p=
-×£ÀHüR=https://s2.coinmarketcap.com/static/img/coins/64x64/10704.png
-‰
+1404/07/1914:19œì¨Ç"ChainX*Ú†ÙÛŒÙ†â€ŒØ§Ú©Ø³20.0265:3064A=
+×£pı9ÀH’˜R<https://s2.coinmarketcap.com/static/img/coins/64x64/4200.png
+¬
 
-1404/07/1914:05Ôå¨Ç"Crowny*
-Ú©Ø±ÙˆÙ†ÛŒ20.000674:78.26AHáz®Ç(ÀHŒƒR<https://s2.coinmarketcap.com/static/img/coins/64x64/9348.png
-£
-
-1404/07/1914:05Ôå¨Ç"Cogito Protocol*Ú©ÙˆÚ¯ÛŒØªÙˆ Ù¾Ø±ÙˆØªÚ©Ù„20.003213:372.91A®Gáz+ÀHåıR=https://s2.coinmarketcap.com/static/img/coins/64x64/26016.png
+1404/07/1914:19œì¨Ç"DecentralGPT*#Ø¯ÛŒØ³Ù†ØªØ±Ø§Ù„ Ø¬ÛŒâ€ŒÙ¾ÛŒâ€ŒØªÛŒ2
+0.00000209:0.2423A®Gáz®=ÀH…ˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/38106.png
 
 
-1404/07/1914:06æ¨Ç"Goldcoin*Ú¯Ù„Ø¯Ú©ÙˆÛŒÙ†20.007116:825.83A¸…ëQ¸ú?HºüR:https://s2.coinmarketcap.com/static/img/coins/64x64/25.png
-
+1404/07/1914:19œì¨Ç"Memhash*Ù…Ù…â€ŒÙ‡ÙØ´20.000390:45.15A{®Gáz-ÀHÿ‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/35607.png
+‹
 
-1404/07/1914:05Ôå¨Ç"BBQCOIN*Ø¨ÛŒâ€ŒØ¨ÛŒâ€ŒÚ©ÛŒÙˆ Ú©ÙˆÛŒÙ†20.000621:72.02A33333S@ÀH§øR=https://s2.coinmarketcap.com/static/img/coins/64x64/33687.png
+1404/07/1914:19œì¨Ç"Orange*
+Ø§ÙˆØ±Ù†Ø¬20.003352:388.37A¤p=
+×£ÀHœôR=https://s2.coinmarketcap.com/static/img/coins/64x64/29297.png
 Š
 
-1404/07/1914:06æ¨Ç"RFOX*Ø¢Ø± ÙØ§Ú©Ø³20.000235:27.27A
+1404/07/1914:19œì¨Ç"AtromG8*Ø¢ØªØ±ÙˆÙ… Ø¬ÛŒ Û¸20.007762:899.23HíòR<https://s2.coinmarketcap.com/static/img/coins/64x64/5536.png
+”
+
+1404/07/1914:19œì¨Ç"	Hourglass*Ø¢ÙˆÙØ±Ú¯Ù„Ø§Ø³20.003328:385.52A¸…ëQ8(ÀH¤íR=https://s2.coinmarketcap.com/static/img/coins/64x64/21997.png
+—
+
+1404/07/1914:19œì¨Ç"Success Kid*Ø³Ø§Ú©Ø³Ø³ Ú©ÛŒØ¯20.003741:433.43AÍÌÌÌÌL,ÀH©çR=https://s2.coinmarketcap.com/static/img/coins/64x64/30011.png
+Æ
+
+1404/07/1914:19œì¨Ç"TAOCat by Virtuals & Masa*3ØªØ§Ø¦Ùˆ Ú©Øª ØªÙˆØ³Ø· ÙˆÛŒØ±Ú†ÙˆØ§Ù„Ø² Ùˆ Ù…Ø§Ø³Ø§20.000323:37.45A)\ÂõÈ@ÀHİR=https://s2.coinmarketcap.com/static/img/coins/64x64/34848.png
+Â
+
+1404/07/1914:19œì¨Ç"Outer Ring MMO (GQ)*4Ø§ÙˆØªØ± Ø±ÛŒÙ†Ú¯ Ø§Ù…â€ŒØ§Ù…â€ŒØ§Ùˆ (Ø¬ÛŒâ€ŒÚ©ÛŒÙˆ)2
+0.00005426:6.29A¤p=
+×£,ÀHºÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/16057.png
+ƒ
+
+1404/07/1914:19œì¨Ç"BVM*Ø¨ÛŒâ€ŒÙˆÛŒâ€ŒØ§Ù…20.0130:1501HÉÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/29767.png
+¯
+
+1404/07/1914:19œì¨Ç"
+TiFi Token*ØªÛŒâ€ŒÙØ§ÛŒ ØªÙˆÚ©Ù†20.000000004037109550028679:0.000468A®Gáz.)ÀHò©R=https://s2.coinmarketcap.com/static/img/coins/64x64/19476.png
+š
+
+1404/07/1914:19œì¨Ç"Pleasure Coin*Ù¾Ù„Ú˜Ø± Ú©ÙˆÛŒÙ†2
+0.00001291:1.4955A¸…ëQ¸@Hä¦R<https://s2.coinmarketcap.com/static/img/coins/64x64/9840.png
+¼
+
+1404/07/1914:19œì¨Ç"Pesto the Baby King Penguin*'Ù¾Ø³ØªÙˆ Ø¨ÛŒØ¨ÛŒ Ú©ÛŒÙ†Ú¯ Ù¾Ù†Ú¯ÙˆØ¦Ù†20.000313:36.31A)\Âõ()ÀHÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/33195.png
+
+
+1404/07/1914:19œì¨Ç"Binamon*Ø¨ÛŒÙ†Ø§Ù…ÙˆÙ†20.002714:314.42A¤p=
+×£ÀHøR=https://s2.coinmarketcap.com/static/img/coins/64x64/10704.png
+£
+
+1404/07/1914:20Øì¨Ç"Cogito Protocol*Ú©ÙˆÚ¯ÛŒØªÙˆ Ù¾Ø±ÙˆØªÚ©Ù„20.003213:372.28A®Gáz+ÀHåıR=https://s2.coinmarketcap.com/static/img/coins/64x64/26016.png
+
+
+1404/07/1914:19œì¨Ç"Goldcoin*Ú¯Ù„Ø¯Ú©ÙˆÛŒÙ†20.007110:823.77AÃõ(\Âù?HÃúR:https://s2.coinmarketcap.com/static/img/coins/64x64/25.png
+‰
+
+1404/07/1914:19œì¨Ç"Crowny*
+Ú©Ø±ÙˆÙ†ÛŒ20.000672:77.82Aö(\Âu)ÀHÀùR<https://s2.coinmarketcap.com/static/img/coins/64x64/9348.png
+Š
+
+1404/07/1914:19œì¨Ç"RFOX*Ø¢Ø± ÙØ§Ú©Ø³20.000235:27.22A
 ×£p=ŠMÀH¯èR<https://s2.coinmarketcap.com/static/img/coins/64x64/7654.png
 ‘
 
-1404/07/1914:06æ¨Ç"PearDAO*Ù¾ÛŒØ± Ø¯Ø§Ø¦Ùˆ20.005888:683.26A®Gáz(ÀHÕåR=https://s2.coinmarketcap.com/static/img/coins/64x64/16104.png
+1404/07/1914:19œì¨Ç"PearDAO*Ù¾ÛŒØ± Ø¯Ø§Ø¦Ùˆ20.005888:682.10A®Gáz(ÀHÕåR=https://s2.coinmarketcap.com/static/img/coins/64x64/16104.png
 ¶
 
-1404/07/1914:05Ôå¨Ç"Tiger King Coin*ØªØ§ÛŒÚ¯Ø± Ú©ÛŒÙ†Ú¯ Ú©ÙˆÛŒÙ†20.00000047469697966388365:0.0551AìQ¸…ë*ÀHŞÛR<https://s2.coinmarketcap.com/static/img/coins/64x64/9854.png
+1404/07/1914:19œì¨Ç"Tiger King Coin*ØªØ§ÛŒÚ¯Ø± Ú©ÛŒÙ†Ú¯ Ú©ÙˆÛŒÙ†20.00000047469697966388365:0.0550AìQ¸…ë*ÀHŞÛR<https://s2.coinmarketcap.com/static/img/coins/64x64/9854.png
 
 
-1404/07/1914:05Ôå¨Ç"Noggles*
+1404/07/1914:19œì¨Ç"Noggles*
 Ù†Ø§Ú¯Ù„Ø²2
-0.00001054:1.2232A×£p=
+0.00001054:1.2212A×£p=
 ×*ÀHúÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/27527.png
 
 
-1404/07/1914:05Ôå¨Ç"The Dons*Ø¯Ø§Ù† Ù‡Ø§2
-0.00003730:4.33Aáz®G¡5ÀHâÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/25219.png
+1404/07/1914:20Øì¨Ç"The Dons*Ø¯Ø§Ù† Ù‡Ø§2
+0.00003730:4.32Aáz®G¡5ÀHâÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/25219.png
 ”
 
-1404/07/1914:05Ôå¨Ç"FYDcoin*Ø§Ùâ€ŒÙˆØ§ÛŒâ€ŒØ¯ÛŒ Ú©ÙˆÛŒÙ†20.000491:57.02HÛ´R<https://s2.coinmarketcap.com/static/img/coins/64x64/4680.png
+1404/07/1914:19œì¨Ç"FYDcoin*Ø§Ùâ€ŒÙˆØ§ÛŒâ€ŒØ¯ÛŒ Ú©ÙˆÛŒÙ†20.000491:56.92HÛ´R<https://s2.coinmarketcap.com/static/img/coins/64x64/4680.png
+¡
+
+1404/07/1914:19œì¨Ç"Script Network*Ø§Ø³Ú©Ø±ÛŒÙ¾Øª Ù†ØªÙˆØ±Ú©20.000443:51.30Aš™™™™Ù3ÀH±³R=https://s2.coinmarketcap.com/static/img/coins/64x64/12621.png
 ˜
 
-1404/07/1914:06æ¨Ç"LET HIM COOK*Ù„Øª Ù‡ÛŒÙ… Ú©ÙˆÚ©20.000302:35.01Aq=
+1404/07/1914:20Øì¨Ç"LET HIM COOK*Ù„Øª Ù‡ÛŒÙ… Ú©ÙˆÚ©20.000302:34.95Aq=
 ×£04ÀHµ²R=https://s2.coinmarketcap.com/static/img/coins/64x64/32227.png
+¡
+
+1404/07/1914:19œì¨Ç"	GoldenRat*Ú¯Ù„Ø¯Ù† Ø±Øª20.0000004820549813441911:0.0558AìQ¸…k(ÀH¿¯R=https://s2.coinmarketcap.com/static/img/coins/64x64/33659.png
 ™
 
-1404/07/1914:05Ôå¨Ç"Peepo (SOL)*Ù¾ÛŒÙ¾Ùˆ (Ø³ÙˆÙ„)2
-0.00000565:0.6558Aš™™™™*ÀHğ°R=https://s2.coinmarketcap.com/static/img/coins/64x64/28467.png
-¡
-
-1404/07/1914:05Ôå¨Ç"	GoldenRat*Ú¯Ù„Ø¯Ù† Ø±Øª20.0000004820549813441911:0.0559AìQ¸…k(ÀH¿¯R=https://s2.coinmarketcap.com/static/img/coins/64x64/33659.png
+1404/07/1914:19œì¨Ç"Peepo (SOL)*Ù¾ÛŒÙ¾Ùˆ (Ø³ÙˆÙ„)2
+0.00000563:0.6522A=
+×£p½*ÀH™¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/28467.png
 ‰
 
-1404/07/1914:06æ¨Ç"
-Juggernaut*Ø¬Ø§Ú¯Ø±Ù†Ø§Øª20.002000:232.11Hñ§R<https://s2.coinmarketcap.com/static/img/coins/64x64/6942.png
+1404/07/1914:20Øì¨Ç"
+Juggernaut*Ø¬Ø§Ú¯Ø±Ù†Ø§Øª20.002000:231.72Hñ§R<https://s2.coinmarketcap.com/static/img/coins/64x64/6942.png
 ®
 
-1404/07/1914:05Ôå¨Ç"FREEdom Coin*ÙØ±ÛŒØ¯Ø§Ù… Ú©ÙˆÛŒÙ†20.00000003005347422904827:0.003488A)\Âõ(4ÀHÍR<https://s2.coinmarketcap.com/static/img/coins/64x64/3388.png
-¡
-
-1404/07/1914:05Ôå¨Ç"Script Network*Ø§Ø³Ú©Ø±ÛŒÙ¾Øª Ù†ØªÙˆØ±Ú©20.000439:50.91Aq=
-×£°4ÀH³R=https://s2.coinmarketcap.com/static/img/coins/64x64/12621.png
+1404/07/1914:19œì¨Ç"FREEdom Coin*ÙØ±ÛŒØ¯Ø§Ù… Ú©ÙˆÛŒÙ†20.00000003004612027702959:0.003481AìQ¸…+4ÀH„R<https://s2.coinmarketcap.com/static/img/coins/64x64/3388.png
 ’
 
-1404/07/1914:05Ôå¨Ç"	PowerPool*Ù¾Ø§ÙˆØ± Ù¾ÙˆÙ„20.006558:761.01Affffffæ?HßŒR<https://s2.coinmarketcap.com/static/img/coins/64x64/6669.png
-Œ
-
-1404/07/1914:06æ¨Ç"Wicrypt*ÙˆÛŒÚ©Ø±ÛŒÙ¾Øª20.0113:1310A¸…ëQ¸@HÖ€R=https://s2.coinmarketcap.com/static/img/coins/64x64/11649.png
+1404/07/1914:19œì¨Ç"	PowerPool*Ù¾Ø§ÙˆØ± Ù¾ÙˆÙ„20.006557:759.70Affffffæ?HÚŒR<https://s2.coinmarketcap.com/static/img/coins/64x64/6669.png
 
 
-1404/07/1914:05Ôå¨Ç"ZKFair*Ø²Ø¯Ú©ÛŒ ÙØ±2
-0.00002942:3.41A
-×£p=
-ÀH½úR=https://s2.coinmarketcap.com/static/img/coins/64x64/28857.png
+1404/07/1914:19œì¨Ç"ZKFair*Ø²Ø¯Ú©ÛŒ ÙØ±2
+0.00002961:3.43A=
+×£p=ÀH­‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/28857.png
 Œ
 
-1404/07/1914:06æ¨Ç"NOTAI*
-Ù†ÙˆØªØ§ÛŒ2
-0.00000497:0.5773A¤p=
-×c1ÀH¬øR=https://s2.coinmarketcap.com/static/img/coins/64x64/32503.png
-›
+1404/07/1914:20Øì¨Ç"Wicrypt*ÙˆÛŒÚ©Ø±ÛŒÙ¾Øª20.0113:1311AHáz®G	@H—†R=https://s2.coinmarketcap.com/static/img/coins/64x64/11649.png
+®
 
-1404/07/1914:06æ¨Ç"Forest Knight*ÙÙˆØ±Ø³Øª Ù†Ø§ÛŒØª20.006317:733.11Aáz®Ga(ÀHÎöR=https://s2.coinmarketcap.com/static/img/coins/64x64/11324.png
+1404/07/1914:20Øì¨Ç"
+RabBitcoin*Ø±Ø¨ Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†20.00000003959777821717525:0.004588Aö(\Âu)ÀHìüR=https://s2.coinmarketcap.com/static/img/coins/64x64/32754.png
 ”
 
-1404/07/1914:06æ¨Ç"
+1404/07/1914:19œì¨Ç"
 Safe Haven*Ø³ÛŒÙ Ù‡ÛŒÙˆÙ†2
-0.00009763:11.33AÃõ(\B2ÀHÙôR<https://s2.coinmarketcap.com/static/img/coins/64x64/3831.png
+0.00009763:11.31AÃõ(\B2ÀHÙôR<https://s2.coinmarketcap.com/static/img/coins/64x64/3831.png
 
 
-1404/07/1914:06æ¨Ç"Lou*Ù„Ùˆ20.000293:34.02A{®Gáú0ÀHìñR=https://s2.coinmarketcap.com/static/img/coins/64x64/34984.png
+1404/07/1914:19œì¨Ç"Lou*Ù„Ùˆ20.000293:33.96A{®Gáú0ÀHìñR=https://s2.coinmarketcap.com/static/img/coins/64x64/34984.png
+Œ
+
+1404/07/1914:20Øì¨Ç"NOTAI*
+Ù†ÙˆØªØ§ÛŒ2
+0.00000496:0.5746A¸…ëQø1ÀH¥ñR=https://s2.coinmarketcap.com/static/img/coins/64x64/32503.png
+›
+
+1404/07/1914:20Øì¨Ç"Forest Knight*ÙÙˆØ±Ø³Øª Ù†Ø§ÛŒØª20.006301:730.04AR¸…ëÑ(ÀHïğR=https://s2.coinmarketcap.com/static/img/coins/64x64/11324.png
 Ä
 
-1404/07/1914:06æ¨Ç"NFT Art Finance*&Ø§Ù†â€ŒØ§Ùâ€ŒØªÛŒ Ø¢Ø±Øª ÙØ§ÛŒÙ†Ù†Ø³20.00000000001157725915655:
+1404/07/1914:20Øì¨Ç"NFT Art Finance*&Ø§Ù†â€ŒØ§Ùâ€ŒØªÛŒ Ø¢Ø±Øª ÙØ§ÛŒÙ†Ù†Ø³20.00000000001157725915655:
 0.00000100A     €)ÀHÚîR<https://s2.coinmarketcap.com/static/img/coins/64x64/9299.png
-
-
-1404/07/1914:05Ôå¨Ç"Uno Re*Ø§ÙˆÙ†Ùˆ Ø±ÛŒ20.002616:303.64A)\Âõè4@HÉèR<https://s2.coinmarketcap.com/static/img/coins/64x64/8875.png
-“
-
-1404/07/1914:06æ¨Ç"UniLayer*ÛŒÙˆÙ†ÛŒâ€ŒÙ„ÛŒØ±20.007264:842.99A33333³)ÀHÿİR<https://s2.coinmarketcap.com/static/img/coins/64x64/6638.png
 ’
 
-1404/07/1914:06æ¨Ç"	DerivaDAO*Ø¯Ø±ÛŒÙˆØ§ Ø¯Ø§Ø¦Ùˆ20.0111:1292AìQ¸…ë±?HüİR<https://s2.coinmarketcap.com/static/img/coins/64x64/7228.png
+1404/07/1914:19œì¨Ç"	DerivaDAO*Ø¯Ø±ÛŒÙˆØ§ Ø¯Ø§Ø¦Ùˆ20.0111:1290Aš™™™™™©?HŞŞR<https://s2.coinmarketcap.com/static/img/coins/64x64/7228.png
+“
+
+1404/07/1914:20Øì¨Ç"UniLayer*ÛŒÙˆÙ†ÛŒâ€ŒÙ„ÛŒØ±20.007263:841.49A¸…ëQ¸)ÀHèİR<https://s2.coinmarketcap.com/static/img/coins/64x64/6638.png
 •
 
-1404/07/1914:06æ¨Ç"
-AgentLayer*Ø§ÛŒØ¬Ù†Øª Ù„ÛŒØ±20.000429:49.77A333333ÀH”ÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/33041.png
-§
-
-1404/07/1914:05Ôå¨Ç"	Gecko Inu*Ú¯Ú©Ùˆ Ø§ÛŒÙ†Ùˆ20.000000004365422281795797:0.000507A{®Gáú4ÀH³ÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/28870.png
-¯
-
-1404/07/1914:06æ¨Ç"
-RabBitcoin*Ø±Ø¨ Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†20.000000038831903386557957:0.004506AÃõ(\Â,ÀH¬ĞR=https://s2.coinmarketcap.com/static/img/coins/64x64/32754.png
+1404/07/1914:20Øì¨Ç"
+AgentLayer*Ø§ÛŒØ¬Ù†Øª Ù„ÛŒØ±20.000429:49.67AHáz®GÀH¹ÒR=https://s2.coinmarketcap.com/static/img/coins/64x64/33041.png
 
 
-1404/07/1914:05Ôå¨Ç"BOPPY*Ø¨Ø§Ù¾ÛŒ20.000000000686134676223564:
-0.00008000A\Âõ(4ÀH‰ÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/33584.png
-‰
-
-1404/07/1914:06æ¨Ç"LINKA*Ù„ÛŒÙ†Ú© Ø§20.000416:48.23A×£p=
-×ÀHÓÍR<https://s2.coinmarketcap.com/static/img/coins/64x64/4850.png
-š
-
-1404/07/1914:06æ¨Ç"Crust Shadow*Ú©Ø±Ø§Ø³Øª Ø´Ø§Ø¯Ùˆ20.002879:334.15A33333³0ÀHÀÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/10055.png
+1404/07/1914:19œì¨Ç"BOPPY*Ø¨Ø§Ù¾ÛŒ20.000000000686134676223564:
+0.00007900A\Âõ(4ÀH‰ÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/33584.png
 §
 
-1404/07/1914:05Ôå¨Ç"OpenDAO*Ø§ÙˆÙ¾Ù† Ø¯Ø§Ø¦Ùˆ20.000000002867481412247243:0.000333A¤p=
+1404/07/1914:19œì¨Ç"	Gecko Inu*Ú¯Ú©Ùˆ Ø§ÛŒÙ†Ùˆ20.000000004359525242402624:0.000505A®Gáz5ÀH­ÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/28870.png
+–
+
+1404/07/1914:19œì¨Ç"	Cherry AI*Ú†Ø±ÛŒ Ø§ÛŒâ€ŒØ¢ÛŒ20.001301:150.68A
+×£p=Š<ÀHßÊR=https://s2.coinmarketcap.com/static/img/coins/64x64/37694.png
+‰
+
+1404/07/1914:20Øì¨Ç"LINKA*Ù„ÛŒÙ†Ú© Ø§20.000415:48.07AR¸…ëQÀHÊR<https://s2.coinmarketcap.com/static/img/coins/64x64/4850.png
+§
+
+1404/07/1914:20Øì¨Ç"OpenDAO*Ø§ÙˆÙ¾Ù† Ø¯Ø§Ø¦Ùˆ20.000000002867481412247243:0.000332A¤p=
 ×£à?HœÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/16463.png
 “
 
-1404/07/1914:05Ôå¨Ç"BabySwap*Ø¨ÛŒØ¨ÛŒ Ø³ÙˆØ§Ù¾20.000462:53.56AÍÌÌÌÌÌ"ÀHä¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/10334.png
+1404/07/1914:19œì¨Ç"BabySwap*Ø¨ÛŒØ¨ÛŒ Ø³ÙˆØ§Ù¾20.000462:53.47AÍÌÌÌÌÌ"ÀHä¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/10334.png
+š
+
+1404/07/1914:19œì¨Ç"Crust Shadow*Ú©Ø±Ø§Ø³Øª Ø´Ø§Ø¯Ùˆ20.002863:331.67A=
+×£p=1ÀHË¼R=https://s2.coinmarketcap.com/static/img/coins/64x64/10055.png
+¶
+
+1404/07/1914:19œì¨Ç"Edge Matrix Computing*&Ø§Ø¬ Ù…ØªØ±ÛŒÚ©Ø³ Ú©Ø§Ù…Ù¾ÛŒÙˆØªÛŒÙ†Ú¯20.001400:162.19A     À4ÀH¾¼R=https://s2.coinmarketcap.com/static/img/coins/64x64/29281.png
 ³
 
-1404/07/1914:05Ôå¨Ç"Prisma mkUSD*.Ù¾Ø±ÛŒØ³Ù… Ø§ Ø§Ù…â€ŒÚ©ÛŒâ€ŒÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.9997:116019A
+1404/07/1914:19œì¨Ç"Prisma mkUSD*.Ù¾Ø±ÛŒØ³Ù… Ø§ Ø§Ù…â€ŒÚ©ÛŒâ€ŒÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ20.9997:115822A
 ×£p=
 ·¿H°»R=https://s2.coinmarketcap.com/static/img/coins/64x64/28094.png
 œ
 
-1404/07/1914:06æ¨Ç"Metaverse Face*Ù…ØªØ§ÙˆØ±Ø³ ÙÛŒØ³2
-0.00003005:3.49A=
+1404/07/1914:20Øì¨Ç"Metaverse Face*Ù…ØªØ§ÙˆØ±Ø³ ÙÛŒØ³2
+0.00003005:3.48A=
 ×£p½,ÀHšºR=https://s2.coinmarketcap.com/static/img/coins/64x64/15889.png
-¶
-
-1404/07/1914:05Ôå¨Ç"Edge Matrix Computing*&Ø§Ø¬ Ù…ØªØ±ÛŒÚ©Ø³ Ú©Ø§Ù…Ù¾ÛŒÙˆØªÛŒÙ†Ú¯20.001398:162.29AR¸…ë‘4ÀH”ºR=https://s2.coinmarketcap.com/static/img/coins/64x64/29281.png
 —
 
-1404/07/1914:05Ôå¨Ç"Gold Reserve*Ú¯Ù„Ø¯ Ø±ÛŒØ²Ø±Ùˆ20.000723:83.86A…ëQ¸&ÀH×´R=https://s2.coinmarketcap.com/static/img/coins/64x64/34520.png
+1404/07/1914:19œì¨Ç"Gold Reserve*Ú¯Ù„Ø¯ Ø±ÛŒØ²Ø±Ùˆ20.000723:83.72A…ëQ¸&ÀH×´R=https://s2.coinmarketcap.com/static/img/coins/64x64/34520.png
 ‘
 
-1404/07/1914:05Ôå¨Ç"	Playermon*Ù¾Ù„ÛŒØ±Ù…ÙˆÙ†20.000667:77.41A¤p=
-×£ÀH¿±R=https://s2.coinmarketcap.com/static/img/coins/64x64/12278.png
-–
-
-1404/07/1914:06æ¨Ç"Eliza (ai16zeliza)*
-Ø§Ù„ÛŒØ²Ø§20.000296:34.30A)\Âõè0ÀH¡«R=https://s2.coinmarketcap.com/static/img/coins/64x64/34079.png
+1404/07/1914:19œì¨Ç"	Playermon*Ù¾Ù„ÛŒØ±Ù…ÙˆÙ†20.000666:77.10AìQ¸…ëÀHÉ¬R=https://s2.coinmarketcap.com/static/img/coins/64x64/12278.png
 ª
 
-1404/07/1914:05Ôå¨Ç"Donâ€™t Burn Capital*Ø¯Ø§Ù†Øª Ø¨Ø±Ù† Ú©Ù¾ÛŒØªØ§Ù„20.000308:35.70A333333@H‰«R=https://s2.coinmarketcap.com/static/img/coins/64x64/37237.png
-—
-
-1404/07/1914:05Ôå¨Ç"Mars*Ù…Ø§Ø±Ø³20.0000006745212776302236:0.0783A¸…ëQx4ÀHô¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/33162.png
+1404/07/1914:20Øì¨Ç"Donâ€™t Burn Capital*Ø¯Ø§Ù†Øª Ø¨Ø±Ù† Ú©Ù¾ÛŒØªØ§Ù„20.000308:35.63A333333@H‰«R=https://s2.coinmarketcap.com/static/img/coins/64x64/37237.png
 œ
 
-1404/07/1914:06æ¨Ç"What's Updog*ÙˆØ§ØªØ³ Ø¢Ù¾â€ŒØ¯Ø§Ú¯20.000283:32.90A®Gáz”0ÀHÂ¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/29672.png
-­
-
-1404/07/1914:05Ôå¨Ç"TheStandard USD*%Ø§Ø³ØªØ§Ù†Ø¯Ø§Ø±Ø¯ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0071:116877AÂõ(\ò?HÂ¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/33452.png
+1404/07/1914:19œì¨Ç"What's Updog*ÙˆØ§ØªØ³ Ø¢Ù¾â€ŒØ¯Ø§Ú¯20.000283:32.84A®Gáz”0ÀHÂ¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/29672.png
 •
 
-1404/07/1914:05Ôå¨Ç"The Unfettered*Ø¢Ù† ÙØªØ±Ø¯20.000247:28.64A¸…ëQ¸(ÀHúR=https://s2.coinmarketcap.com/static/img/coins/64x64/24363.png
-ˆ
+1404/07/1914:19œì¨Ç"The Unfettered*Ø¢Ù† ÙØªØ±Ø¯20.000248:28.68A…ëQ¸(ÀH¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/24363.png
+­
 
-1404/07/1914:06æ¨Ç"Cheems*Ú†ÛŒÙ…Ø²20.000110:12.81A{®Gáú.ÀH¹˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/10269.png
-‰
+1404/07/1914:19œì¨Ç"TheStandard USD*%Ø§Ø³ØªØ§Ù†Ø¯Ø§Ø±Ø¯ ÛŒÙˆâ€ŒØ§Ø³â€ŒØ¯ÛŒ21.0082:116801AÍÌÌÌÌÌô?Hê¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/33452.png
+—
 
-1404/07/1914:06æ¨Ç"KOBAN*
-Ú©ÙˆØ¨Ø§Ù†20.000568:65.88Afffffæ!ÀHİ—R=https://s2.coinmarketcap.com/static/img/coins/64x64/36570.png
-
-
-1404/07/1914:05Ôå¨Ç"Vulpe Finance*ÙˆÙˆÙ„Ù¾ ÙØ§ÛŒÙ†Ù†Ø³20.004156:482.32A¸…ëQ8(ÀHó“R=https://s2.coinmarketcap.com/static/img/coins/64x64/37074.png
-–
-
-1404/07/1914:05Ôå¨Ç"	Cherry AI*Ú†Ø±ÛŒ Ø§ÛŒâ€ŒØ¢ÛŒ20.001268:147.19Aq=
-×£°BÀHï’R=https://s2.coinmarketcap.com/static/img/coins/64x64/37694.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Affyn*Ø§ÙÛŒÙ†20.001095:127.06Aö(\Âõ$ÀH÷üR=https://s2.coinmarketcap.com/static/img/coins/64x64/17073.png
-
-
-1404/07/1914:06æ¨Ç"KIKICat*Ú©ÛŒÚ©ÛŒ Ú©Øª20.000277:32.11Aš™™™™,ÀH¼ñR=https://s2.coinmarketcap.com/static/img/coins/64x64/34888.png
+1404/07/1914:19œì¨Ç"Mars*Ù…Ø§Ø±Ø³20.0000006724072963148696:0.0779Aáz®G¡4ÀHû¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/33162.png
 ˜
 
-1404/07/1914:06æ¨Ç"	BeFi Labs*Ø¨ÛŒâ€ŒÙØ§ÛŒ Ù„Ø¨Ø²20.003557:412.80A×£p=
-—7@HŞíR=https://s2.coinmarketcap.com/static/img/coins/64x64/29170.png
+1404/07/1914:19œì¨Ç"	BeFi Labs*Ø¨ÛŒâ€ŒÙØ§ÛŒ Ù„Ø¨Ø²20.003642:421.90AÃõ(\‚9@H‚¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/29170.png
+–
+
+1404/07/1914:20Øì¨Ç"Eliza (ai16zeliza)*
+Ø§Ù„ÛŒØ²Ø§20.000293:34.00A     €1ÀH»›R=https://s2.coinmarketcap.com/static/img/coins/64x64/34079.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Cheems*Ú†ÛŒÙ…Ø²20.000110:12.79A…ëQ¸/ÀHı—R=https://s2.coinmarketcap.com/static/img/coins/64x64/10269.png
+
+
+1404/07/1914:19œì¨Ç"Uno Re*Ø§ÙˆÙ†Ùˆ Ø±ÛŒ20.002521:292.04A¤p=
+×£@H•R<https://s2.coinmarketcap.com/static/img/coins/64x64/8875.png
+
+
+1404/07/1914:19œì¨Ç"KIKICat*Ú©ÛŒÚ©ÛŒ Ú©Øª20.000281:32.55A\Âõ(\'ÀH›“R=https://s2.coinmarketcap.com/static/img/coins/64x64/34888.png
+
+
+1404/07/1914:19œì¨Ç"Vulpe Finance*ÙˆÙˆÙ„Ù¾ ÙØ§ÛŒÙ†Ù†Ø³20.004151:480.91A®Gáz)ÀHš‘R=https://s2.coinmarketcap.com/static/img/coins/64x64/37074.png
+‰
+
+1404/07/1914:19œì¨Ç"KOBAN*
+Ú©ÙˆØ¨Ø§Ù†20.000565:65.51A×£p=
+×$ÀH¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/36570.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Affyn*Ø§ÙÛŒÙ†20.001094:126.80A…ëQ¸*ÀH‘üR=https://s2.coinmarketcap.com/static/img/coins/64x64/17073.png
 ’
 
-1404/07/1914:05Ôå¨Ç"	YAY Games*ÛŒÙÛŒ Ú¯ÛŒÙ…Ø²20.000400:46.44AìQ¸…k(ÀHæR=https://s2.coinmarketcap.com/static/img/coins/64x64/11664.png
+1404/07/1914:19œì¨Ç"	YAY Games*ÛŒÙÛŒ Ú¯ÛŒÙ…Ø²20.000400:46.36Aq=
+×£p(ÀHüåR=https://s2.coinmarketcap.com/static/img/coins/64x64/11664.png
 “
 
-1404/07/1914:05Ôå¨Ç"	CyberVein*Ø³Ø§ÛŒØ¨Ø± ÙˆÛŒÙ†20.000259:30.07Aš™™™™#@HáâR<https://s2.coinmarketcap.com/static/img/coins/64x64/2642.png
+1404/07/1914:19œì¨Ç"	CyberVein*Ø³Ø§ÛŒØ¨Ø± ÙˆÛŒÙ†20.000259:30.02Aš™™™™#@HáâR<https://s2.coinmarketcap.com/static/img/coins/64x64/2642.png
 ™
 
-1404/07/1914:05Ôå¨Ç"Invest Zone*Ø§ÛŒÙ† ÙˆØ³Øª Ø²ÙˆÙ†20.000292:33.89A…ëQ¸(ÀH³áR=https://s2.coinmarketcap.com/static/img/coins/64x64/32797.png
+1404/07/1914:19œì¨Ç"Invest Zone*Ø§ÛŒÙ† ÙˆØ³Øª Ø²ÙˆÙ†20.000292:33.84A=
+×£p½'ÀH³áR=https://s2.coinmarketcap.com/static/img/coins/64x64/32797.png
 ¡
 
-1404/07/1914:05Ôå¨Ç"Coconut Chicken*Ú©ÙˆÚ©ÙˆÙ†Ø§Øª Ú†ÛŒÚ©Ù†2
-0.00002936:3.41A×£p=
+1404/07/1914:20Øì¨Ç"Coconut Chicken*Ú©ÙˆÚ©ÙˆÙ†Ø§Øª Ú†ÛŒÚ©Ù†2
+0.00002936:3.40A×£p=
 ×	ÀH‘ŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/29059.png
 ™
 
-1404/07/1914:05Ôå¨Ç"
-Matt Furie*Ù…Øª ÙÙˆØ±ÛŒ20.0000006462278287461867:0.0750HõËR=https://s2.coinmarketcap.com/static/img/coins/64x64/32183.png
+1404/07/1914:19œì¨Ç"
+Matt Furie*Ù…Øª ÙÙˆØ±ÛŒ20.0000006462278287461867:0.0749HõËR=https://s2.coinmarketcap.com/static/img/coins/64x64/32183.png
 
 
-1404/07/1914:05Ôå¨Ç"X-CASH*Ø§ÛŒÚ©Ø³ Ú©Ø´2
-0.00000432:0.5010A=
-×£p½)ÀHëÆR<https://s2.coinmarketcap.com/static/img/coins/64x64/3334.png
-
-
-1404/07/1914:05Ôå¨Ç"DinoLFG*Ø¯ÛŒÙ†Ùˆ Ø§Ù„â€ŒØ§Ùâ€ŒØ¬ÛŒ20.000863:100.13A¸…ëQ8-ÀHÍ½R=https://s2.coinmarketcap.com/static/img/coins/64x64/22680.png
-
-
-1404/07/1914:05Ôå¨Ç"Oggy Inu*Ø§Ú¯ÛŒ Ø§ÛŒÙ†Ùˆ20.00000000000249053479202:0A)\Âõ(#ÀHé·R=https://s2.coinmarketcap.com/static/img/coins/64x64/24275.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Humaniq*Ù‡ÛŒÙˆÙ…Ø§Ù†ÛŒÙ‚20.001290:149.74H†¨R<https://s2.coinmarketcap.com/static/img/coins/64x64/1669.png
-
-
-1404/07/1914:05Ôå¨Ç"Forkast*ÙÙˆØ±Ú©Ø§Ø³Øª20.001539:178.65AHáz®Ç1ÀHˆ£R=https://s2.coinmarketcap.com/static/img/coins/64x64/35344.png
-„
-
-1404/07/1914:05Ôå¨Ç"SEED*Ø³ÛŒØ¯20.000747:86.64A{®Gá:0ÀH®›R=https://s2.coinmarketcap.com/static/img/coins/64x64/33468.png
-™
-
-1404/07/1914:05Ôå¨Ç"	bitSmiley*Ø¨ÛŒØª Ø§Ø³Ù…Ø§ÛŒÙ„ÛŒ20.004218:489.50A…ëQ¸-@Hê•R=https://s2.coinmarketcap.com/static/img/coins/64x64/33823.png
-®
-
-1404/07/1914:05Ôå¨Ç"Ginnan The Cat*Ø¬ÛŒÙ†Ø§Ù† Ø¯ Ú©Øª20.00000003822593933665414:0.004436A¸…ëQ8-ÀHÎŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/32524.png
-‰
-
-1404/07/1914:05Ôå¨Ç"Idena*
-Ø§ÛŒØ¯Ù†Ø§20.003171:367.98A®Gáz®-ÀH’‹R<https://s2.coinmarketcap.com/static/img/coins/64x64/5836.png
-›
-
-1404/07/1914:06æ¨Ç"
-Commune AI*Ú©Ø§Ù…ÙˆÙ† Ø§ÛŒâ€ŒØ¢ÛŒ20.004727:548.52AHáz®G*ÀH“†R=https://s2.coinmarketcap.com/static/img/coins/64x64/29509.png
-”
-
-1404/07/1914:06æ¨Ç"Wat*ÙˆØ§Øª20.0000006165761223598295:0.0716A{®Gáú+ÀH»êR=https://s2.coinmarketcap.com/static/img/coins/64x64/31908.png
-“
-
-1404/07/1914:05Ôå¨Ç"Marscoin*Ù…Ø§Ø±Ø³ Ú©ÙˆÛŒÙ†20.000259:30.09AHáz®6ÀH¶éR=https://s2.coinmarketcap.com/static/img/coins/64x64/35778.png
-Š
-
-1404/07/1914:06æ¨Ç"Lunar*
-Ù„ÙˆÙ†Ø§Ø±20.003506:406.84A®Gáz”$ÀHæR=https://s2.coinmarketcap.com/static/img/coins/64x64/22103.png
-¦
-
-1404/07/1914:05Ôå¨Ç"Plant Vs Undead*Ù¾Ù„Ù†Øª ÙˆØ±Ø³Ø² Ø¢Ù†Ø¯ÙØ¯20.000868:100.74AHáz®G	ÀHäİR=https://s2.coinmarketcap.com/static/img/coins/64x64/11130.png
-
-
-1404/07/1914:05Ôå¨Ç"CryptEx*Ú©Ø±ÛŒÙ¾Øª Ø§Ú©Ø³23.00:347704A{®Gáú(ÀHÑÅR<https://s2.coinmarketcap.com/static/img/coins/64x64/8731.png
-Š
-
-1404/07/1914:06æ¨Ç"HODL (hodl_bnbcto)20.000252:29.30AÂõ(\1ÀHµ´R=https://s2.coinmarketcap.com/static/img/coins/64x64/38570.png
-
-
-1404/07/1914:05Ôå¨Ç"XYRO*Ø²ÛŒ ÙˆØ§ÛŒ Ø±Ùˆ20.000749:86.88A…ëQ¸…0ÀHò®R=https://s2.coinmarketcap.com/static/img/coins/64x64/33160.png
-“
-
-1404/07/1914:05Ôå¨Ç"MOSS AI*Ù…Ø§Ø³ Ø§ÛŒâ€ŒØ¢ÛŒ20.000276:32.05A…ëQ¸2ÀHô¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/36168.png
-‚
-
-1404/07/1914:05Ôå¨Ç"ZAP*Ø²Ù¾20.003390:393.46A\Âõ(\(ÀHø”R=https://s2.coinmarketcap.com/static/img/coins/64x64/33360.png
-³
-
-1404/07/1914:06æ¨Ç"Kenyan Digital Token*$Ú©Ù†ÛŒØ§ÛŒÛŒ Ø¯ÛŒØ¬ÛŒØªØ§Ù„ ØªÙˆÚ©Ù†20.001129:131.00A=
-×£p½9ÀHœ”R=https://s2.coinmarketcap.com/static/img/coins/64x64/37336.png
-˜
-
-1404/07/1914:06æ¨Ç"littlemanyu*Ù„ÛŒØªÙ„ Ù…Ø§Ù†ÛŒÙˆ20.000247:28.72Aš™™™™/ÀHí‹R=https://s2.coinmarketcap.com/static/img/coins/64x64/33287.png
-›
-
-1404/07/1914:06æ¨Ç"Meme Alliance*Ù…ÛŒÙ… Ø§Ù„Ø§ÛŒÙ†Ø³20.002813:326.45Aáz®Ga%ÀHƒ‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/28725.png
-¥
-
-1404/07/1914:05Ôå¨Ç"Horizon Protocol*Ù‡ÙˆØ±Ø§ÛŒØ²Ù† Ù¾Ø±ÙˆØªÚ©Ù„20.002037:236.43AÂõ(\%ÀH¡R<https://s2.coinmarketcap.com/static/img/coins/64x64/9237.png
-—
-
-1404/07/1914:05Ôå¨Ç"NerveNetwork*Ù†Ø±Ùˆ Ù†ØªÙˆØ±Ú©20.000885:102.74A{®Gáz(ÀHçûR<https://s2.coinmarketcap.com/static/img/coins/64x64/5906.png
-™
-
-1404/07/1914:05Ôå¨Ç"Toilet Dust*ØªÙˆÛŒÙ„Øª Ø¯Ø§Ø³Øª2
-0.00002452:2.85AÂõ(\@ÀHåûR=https://s2.coinmarketcap.com/static/img/coins/64x64/36394.png
-†
-
-1404/07/1914:06æ¨Ç"Evan*Ø§ÙˆØ§Ù†20.000245:28.46Afffffæ0ÀHÒûR=https://s2.coinmarketcap.com/static/img/coins/64x64/34166.png
-–
-
-1404/07/1914:06æ¨Ç"	Infinaeon*Ø§ÛŒÙ†ÙÛŒÙ†ÛŒÙˆÙ†20.000939:108.96AR¸…ëQ$ÀHŞöR=https://s2.coinmarketcap.com/static/img/coins/64x64/36314.png
-›
-
-1404/07/1914:05Ôå¨Ç"Tradetomato*ØªØ±ÛŒØ¯ ØªÙˆÙ…Ø§ØªÙˆ20.003017:350.14AÂõ(\ÀHáìR=https://s2.coinmarketcap.com/static/img/coins/64x64/16975.png
-ª
-
-1404/07/1914:05Ôå¨Ç"BNB LION*Ø¨ÛŒâ€ŒØ§Ù†â€ŒØ¨ÛŒ Ù„Ø§ÛŒÙ†20.00000000000253017737278:0A®Gázò¿HŸåR=https://s2.coinmarketcap.com/static/img/coins/64x64/29145.png
-y
-
-1404/07/1914:05Ôå¨Ç"Zero*Ø²ÛŒØ±Ùˆ20.0167:1939HŠáR<https://s2.coinmarketcap.com/static/img/coins/64x64/1578.png
-“
-
-1404/07/1914:05Ôå¨Ç"YOUR AI*ÛŒÙˆØ± Ø§ÛŒâ€ŒØ¢ÛŒ20.000470:54.60Aš™™™™™ÀHıÚR=https://s2.coinmarketcap.com/static/img/coins/64x64/18103.png
-‡
-
-1404/07/1914:06æ¨Ç"EYWA*Ø§ÛŒÙˆØ§20.002379:276.03AHáz®GÀHÏÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/33841.png
-{
-
-1404/07/1914:06æ¨Ç"DIGG*Ø¯ÛŒÚ¯2414.01:48045671HªÀR<https://s2.coinmarketcap.com/static/img/coins/64x64/8307.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Aurox*Ø¢ÙˆØ±Ø§Ú©Ø³20.4482:52017A®GázÔ2ÀHÖ£R<https://s2.coinmarketcap.com/static/img/coins/64x64/8616.png
-‡
-
-1404/07/1914:05Ôå¨Ç"WOOF*ÙˆÙˆÙ2
-0.00001306:1.5153Aq=
-×£p0ÀH¤¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/12253.png
-‡
-
-1404/07/1914:05Ôå¨Ç"LEGIT*Ù„Ø¬ÛŒØª20.000244:28.37A×£p=
-×ÀHµšR=https://s2.coinmarketcap.com/static/img/coins/64x64/35515.png
-”
-
-1404/07/1914:05Ôå¨Ç"
-LandRocker*Ù„Ù†Ø¯ Ø±Ø§Ú©Ø±2
-0.00005784:6.71A×£p=
-×3ÀHç™R=https://s2.coinmarketcap.com/static/img/coins/64x64/31463.png
-
-
-1404/07/1914:06æ¨Ç"Altcoin*Ø¢Ù„Øª Ú©ÙˆÛŒÙ†20.000258:29.98AR¸…ë1BÀHø—R=https://s2.coinmarketcap.com/static/img/coins/64x64/37286.png
-¾
-
-1404/07/1914:05Ôå¨Ç"Reflexer Ungovernance Token*+Ø±ÙÙ„Ú©Ø³Ø± Ø¢Ù†â€ŒÚ¯Ø§ÙˆØ±Ù†Ù†Ø³ ØªÙˆÚ©Ù†21.1894:138035A)\Âõ¨*ÀHìˆR<https://s2.coinmarketcap.com/static/img/coins/64x64/9493.png
-…
-
-1404/07/1914:05Ôå¨Ç"BOLT*Ø¨ÙˆÙ„Øª20.000241:27.92A…ëQ¸Å0ÀH·‡R<https://s2.coinmarketcap.com/static/img/coins/64x64/3843.png
-§
-
-1404/07/1914:05Ôå¨Ç"Elon Trump Fart*Ø§ÛŒÙ„Ø§Ù† ØªØ±Ø§Ù…Ù¾ ÙØ§Ø±Øª20.000230:26.70A×£p=
-1ÀH™…R=https://s2.coinmarketcap.com/static/img/coins/64x64/35181.png
-˜
-
-1404/07/1914:06æ¨Ç"Super Trump*Ø³ÙˆÙ¾Ø± ØªØ±Ø§Ù…Ù¾20.000125:14.52A®Gáz”&ÀH®„R=https://s2.coinmarketcap.com/static/img/coins/64x64/29558.png
-
-
-1404/07/1914:05Ôå¨Ç"analoS*Ø¢Ù†Ø§Ù„ÙˆØ³2
-0.00000277:0.3216AR¸…ëQÀH…ñR=https://s2.coinmarketcap.com/static/img/coins/64x64/28805.png
-‹
-
-1404/07/1914:05Ôå¨Ç"
-TrustVerse*ØªØ±Ø§Ø³Øª ÙˆØ±Ø³20.000227:26.36H¥îR<https://s2.coinmarketcap.com/static/img/coins/64x64/4060.png
-
-
-1404/07/1914:06æ¨Ç"Lossless*Ù„Ø§Ø³â€ŒÙ„Ø³20.004080:473.51Aš™™™™™-ÀH¼ëR=https://s2.coinmarketcap.com/static/img/coins/64x64/10103.png
-Ã
-
-1404/07/1914:05Ôå¨Ç"Wombat Web 3 Gaming Platform*,ÙˆÙˆÙ…Ø¨Øª ÙˆØ¨ Û³ Ú¯ÛŒÙ…ÛŒÙ†Ú¯ Ù¾Ù„ØªÙØ±Ù…2
-0.00004419:5.13A¤p=
-×#$@H‡ŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/20997.png
-
-
-1404/07/1914:06æ¨Ç"MixMob*Ù…ÛŒÚ©Ø³ Ù…ÙˆØ¨20.000669:77.69A¸…ëQx1ÀH”ÚR=https://s2.coinmarketcap.com/static/img/coins/64x64/29191.png
-•
-
-1404/07/1914:05Ôå¨Ç"
-ZoRobotics*Ø²ÙˆØ±ÙˆØ¨ÙˆØªÛŒÚ©Ø³20.0180:2093A®GázÔ4ÀH¨ÔR=https://s2.coinmarketcap.com/static/img/coins/64x64/36563.png
-’
-
-1404/07/1914:05Ôå¨Ç"Ambrosus*Ø¢Ù…Ø¨Ø±ÙˆØ³ÙˆØ³2
-0.00003141:3.65Aö(\Âµ3ÀHÃÑR<https://s2.coinmarketcap.com/static/img/coins/64x64/2081.png
-Ù
-
-1404/07/1914:06æ¨Ç"#AIâ´ | Recursive Superintelligence*<Ø§ÛŒ Ø¢ÛŒ ÙÙˆØ± Ø±ÛŒÚ©ÙˆØ±Ø³ÛŒÙˆ Ø³ÙˆÙ¾Ø±Ø§ÛŒÙ†ØªÙ„ÛŒØ¬Ù†Ø³20.000218:25.32A…ëQ¸>@HÆ¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/37520.png
-‡
-
-1404/07/1914:05Ôå¨Ç"SENSO*Ø³Ù†Ø³Ùˆ20.003099:359.68Aáz®Ga$ÀH¼¥R<https://s2.coinmarketcap.com/static/img/coins/64x64/5522.png
+1404/07/1914:19œì¨Ç"X-CASH*Ø§ÛŒÚ©Ø³ Ú©Ø´2
+0.00000432:0.5001A=
+×£p½)ÀHÏÆR<https://s2.coinmarketcap.com/static/img/coins/64x64/3334.png
 œ
 
-1404/07/1914:05Ôå¨Ç"SAITAMA INU*Ø³Ø§ÛŒØªØ§Ù…Ø§ Ø§ÛŒÙ†Ùˆ20.000247:28.71A×£p=
+1404/07/1914:19œì¨Ç"DinoLFG*Ø¯ÛŒÙ†Ùˆ Ø§Ù„â€ŒØ§Ùâ€ŒØ¬ÛŒ20.000863:99.96A¸…ëQ8-ÀHÍ½R=https://s2.coinmarketcap.com/static/img/coins/64x64/22680.png
+
+
+1404/07/1914:19œì¨Ç"Oggy Inu*Ø§Ú¯ÛŒ Ø§ÛŒÙ†Ùˆ20.00000000000249019011923:0Aö(\Âu"ÀHÄ·R=https://s2.coinmarketcap.com/static/img/coins/64x64/24275.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Humaniq*Ù‡ÛŒÙˆÙ…Ø§Ù†ÛŒÙ‚20.001290:149.48H†¨R<https://s2.coinmarketcap.com/static/img/coins/64x64/1669.png
+
+
+1404/07/1914:19œì¨Ç"Forkast*ÙÙˆØ±Ú©Ø§Ø³Øª20.001539:178.28AÂõ(\Ï1ÀH£¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/35344.png
+“
+
+1404/07/1914:19œì¨Ç"Marscoin*Ù…Ø§Ø±Ø³ Ú©ÙˆÛŒÙ†20.000265:30.71A¤p=
+×#4ÀH—R=https://s2.coinmarketcap.com/static/img/coins/64x64/35778.png
+„
+
+1404/07/1914:19œì¨Ç"SEED*Ø³ÛŒØ¯20.000743:86.05AHáz®Ç0ÀHÒR=https://s2.coinmarketcap.com/static/img/coins/64x64/33468.png
+“
+
+1404/07/1914:20Øì¨Ç"Wat*ÙˆØ§Øª20.000000627808928884328:0.0727A\Âõ(Ü(ÀH°R=https://s2.coinmarketcap.com/static/img/coins/64x64/31908.png
+¯
+
+1404/07/1914:19œì¨Ç"Ginnan The Cat*Ø¬ÛŒÙ†Ø§Ù† Ø¯ Ú©Øª20.000000038227831192556747:0.004429Affffff-ÀHÛŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/32524.png
+‰
+
+1404/07/1914:19œì¨Ç"Idena*
+Ø§ÛŒØ¯Ù†Ø§20.003171:367.35A®Gáz®-ÀH’‹R<https://s2.coinmarketcap.com/static/img/coins/64x64/5836.png
+›
+
+1404/07/1914:19œì¨Ç"
+Commune AI*Ú©Ø§Ù…ÙˆÙ† Ø§ÛŒâ€ŒØ¢ÛŒ20.004726:547.49A\Âõ(\*ÀHã…R=https://s2.coinmarketcap.com/static/img/coins/64x64/29509.png
+™
+
+1404/07/1914:19œì¨Ç"	bitSmiley*Ø¨ÛŒØª Ø§Ø³Ù…Ø§ÛŒÙ„ÛŒ20.004133:478.85A®Gáz”+@HìR=https://s2.coinmarketcap.com/static/img/coins/64x64/33823.png
+
+
+1404/07/1914:19œì¨Ç"XYRO*Ø²ÛŒ ÙˆØ§ÛŒ Ø±Ùˆ20.000770:89.20Aš™™™™™,ÀHÛæR=https://s2.coinmarketcap.com/static/img/coins/64x64/33160.png
+Š
+
+1404/07/1914:20Øì¨Ç"Lunar*
+Ù„ÙˆÙ†Ø§Ø±20.003506:406.15A®Gáz”$ÀHæR=https://s2.coinmarketcap.com/static/img/coins/64x64/22103.png
+¦
+
+1404/07/1914:19œì¨Ç"Plant Vs Undead*Ù¾Ù„Ù†Øª ÙˆØ±Ø³Ø² Ø¢Ù†Ø¯ÙØ¯20.000868:100.56A{®GázÀHĞİR=https://s2.coinmarketcap.com/static/img/coins/64x64/11130.png
+
+
+1404/07/1914:19œì¨Ç"CryptEx*Ú©Ø±ÛŒÙ¾Øª Ø§Ú©Ø³23.00:347113A{®Gáú(ÀHÑÅR<https://s2.coinmarketcap.com/static/img/coins/64x64/8731.png
+Š
+
+1404/07/1914:20Øì¨Ç"HODL (hodl_bnbcto)20.000252:29.18A{®Gáz@H‰°R=https://s2.coinmarketcap.com/static/img/coins/64x64/38570.png
+“
+
+1404/07/1914:19œì¨Ç"MOSS AI*Ù…Ø§Ø³ Ø§ÛŒâ€ŒØ¢ÛŒ20.000276:32.03Aq=
+×£°1ÀHŞªR=https://s2.coinmarketcap.com/static/img/coins/64x64/36168.png
+‚
+
+1404/07/1914:19œì¨Ç"ZAP*Ø²Ù¾20.003391:392.83AR¸…ëQ(ÀH“•R=https://s2.coinmarketcap.com/static/img/coins/64x64/33360.png
+³
+
+1404/07/1914:20Øì¨Ç"Kenyan Digital Token*$Ú©Ù†ÛŒØ§ÛŒÛŒ Ø¯ÛŒØ¬ÛŒØªØ§Ù„ ØªÙˆÚ©Ù†20.001129:130.78A=
+×£p½9ÀHœ”R=https://s2.coinmarketcap.com/static/img/coins/64x64/37336.png
+™
+
+1404/07/1914:19œì¨Ç"Toilet Dust*ØªÙˆÛŒÙ„Øª Ø¯Ø§Ø³Øª2
+0.00002465:2.86Afffffæ?ÀHô…R=https://s2.coinmarketcap.com/static/img/coins/64x64/36394.png
+›
+
+1404/07/1914:20Øì¨Ç"Meme Alliance*Ù…ÛŒÙ… Ø§Ù„Ø§ÛŒÙ†Ø³20.002813:325.90Aáz®Ga%ÀHƒ‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/28725.png
+¥
+
+1404/07/1914:19œì¨Ç"Horizon Protocol*Ù‡ÙˆØ±Ø§ÛŒØ²Ù† Ù¾Ø±ÙˆØªÚ©Ù„20.002037:236.03AÂõ(\%ÀH¡R<https://s2.coinmarketcap.com/static/img/coins/64x64/9237.png
+—
+
+1404/07/1914:19œì¨Ç"NerveNetwork*Ù†Ø±Ùˆ Ù†ØªÙˆØ±Ú©20.000885:102.57A{®Gáz(ÀHçûR<https://s2.coinmarketcap.com/static/img/coins/64x64/5906.png
+†
+
+1404/07/1914:19œì¨Ç"Evan*Ø§ÙˆØ§Ù†20.000245:28.41A)\Âõè0ÀH“ûR=https://s2.coinmarketcap.com/static/img/coins/64x64/34166.png
+˜
+
+1404/07/1914:20Øì¨Ç"littlemanyu*Ù„ÛŒØªÙ„ Ù…Ø§Ù†ÛŒÙˆ20.000245:28.40A¤p=
+×£0ÀHàùR=https://s2.coinmarketcap.com/static/img/coins/64x64/33287.png
+–
+
+1404/07/1914:19œì¨Ç"	Infinaeon*Ø§ÛŒÙ†ÙÛŒÙ†ÛŒÙˆÙ†20.000940:108.86AÃõ(\B$ÀH”øR=https://s2.coinmarketcap.com/static/img/coins/64x64/36314.png
+›
+
+1404/07/1914:19œì¨Ç"Tradetomato*ØªØ±ÛŒØ¯ ØªÙˆÙ…Ø§ØªÙˆ20.003017:349.54AÂõ(\ÀHáìR=https://s2.coinmarketcap.com/static/img/coins/64x64/16975.png
+y
+
+1404/07/1914:19œì¨Ç"Zero*Ø²ÛŒØ±Ùˆ20.0167:1935HáR<https://s2.coinmarketcap.com/static/img/coins/64x64/1578.png
+«
+
+1404/07/1914:19œì¨Ç"BNB LION*Ø¨ÛŒâ€ŒØ§Ù†â€ŒØ¨ÛŒ Ù„Ø§ÛŒÙ†20.000000000002522788164951:0A{®Gázô¿HÛßR=https://s2.coinmarketcap.com/static/img/coins/64x64/29145.png
+“
+
+1404/07/1914:19œì¨Ç"YOUR AI*ÛŒÙˆØ± Ø§ÛŒâ€ŒØ¢ÛŒ20.000470:54.49A{®GázÀHŸÚR=https://s2.coinmarketcap.com/static/img/coins/64x64/18103.png
+‡
+
+1404/07/1914:19œì¨Ç"EYWA*Ø§ÛŒÙˆØ§20.002378:275.54A=
+×£p=ÀH¿ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/33841.png
+{
+
+1404/07/1914:19œì¨Ç"DIGG*Ø¯ÛŒÚ¯2414.01:47964112HªÀR<https://s2.coinmarketcap.com/static/img/coins/64x64/8307.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Aurox*Ø¢ÙˆØ±Ø§Ú©Ø³20.4482:51929A®GázÔ2ÀHÖ£R<https://s2.coinmarketcap.com/static/img/coins/64x64/8616.png
+
+
+1404/07/1914:20Øì¨Ç"Altcoin*Ø¢Ù„Øª Ú©ÙˆÛŒÙ†20.000259:30.02A×£p=
+BÀHæR=https://s2.coinmarketcap.com/static/img/coins/64x64/37286.png
+”
+
+1404/07/1914:20Øì¨Ç"
+LandRocker*Ù„Ù†Ø¯ Ø±Ø§Ú©Ø±2
+0.00005784:6.70A×£p=
+×3ÀHç™R=https://s2.coinmarketcap.com/static/img/coins/64x64/31463.png
+‡
+
+1404/07/1914:19œì¨Ç"WOOF*ÙˆÙˆÙ2
+0.00001298:1.5035A33333ó0ÀH”—R=https://s2.coinmarketcap.com/static/img/coins/64x64/12253.png
+‡
+
+1404/07/1914:19œì¨Ç"LEGIT*Ù„Ø¬ÛŒØª20.000244:28.22A{®GázÀHü“R=https://s2.coinmarketcap.com/static/img/coins/64x64/35515.png
+¾
+
+1404/07/1914:19œì¨Ç"Reflexer Ungovernance Token*+Ø±ÙÙ„Ú©Ø³Ø± Ø¢Ù†â€ŒÚ¯Ø§ÙˆØ±Ù†Ù†Ø³ ØªÙˆÚ©Ù†21.1894:137800A)\Âõ¨*ÀHìˆR<https://s2.coinmarketcap.com/static/img/coins/64x64/9493.png
+…
+
+1404/07/1914:19œì¨Ç"BOLT*Ø¨ÙˆÙ„Øª20.000241:27.87A…ëQ¸Å0ÀH«‡R<https://s2.coinmarketcap.com/static/img/coins/64x64/3843.png
+§
+
+1404/07/1914:19œì¨Ç"Elon Trump Fart*Ø§ÛŒÙ„Ø§Ù† ØªØ±Ø§Ù…Ù¾ ÙØ§Ø±Øª20.000230:26.65A×£p=
+1ÀH™…R=https://s2.coinmarketcap.com/static/img/coins/64x64/35181.png
+
+
+1404/07/1914:19œì¨Ç"analoS*Ø¢Ù†Ø§Ù„ÙˆØ³2
+0.00000277:0.3211AR¸…ëQÀH…ñR=https://s2.coinmarketcap.com/static/img/coins/64x64/28805.png
+‹
+
+1404/07/1914:19œì¨Ç"
+TrustVerse*ØªØ±Ø§Ø³Øª ÙˆØ±Ø³20.000227:26.31H¥îR<https://s2.coinmarketcap.com/static/img/coins/64x64/4060.png
+
+
+1404/07/1914:20Øì¨Ç"Lossless*Ù„Ø§Ø³â€ŒÙ„Ø³20.004079:472.55AÍÌÌÌÌL.ÀHòêR=https://s2.coinmarketcap.com/static/img/coins/64x64/10103.png
+’
+
+1404/07/1914:19œì¨Ç"Ambrosus*Ø¢Ù…Ø¨Ø±ÙˆØ³ÙˆØ³2
+0.00003171:3.67A=
+×£pı3ÀHÜáR<https://s2.coinmarketcap.com/static/img/coins/64x64/2081.png
+Ã
+
+1404/07/1914:19œì¨Ç"Wombat Web 3 Gaming Platform*,ÙˆÙˆÙ…Ø¨Øª ÙˆØ¨ Û³ Ú¯ÛŒÙ…ÛŒÙ†Ú¯ Ù¾Ù„ØªÙØ±Ù…2
+0.00004419:5.12Aš™™™™™#@H‡ŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/20997.png
+
+
+1404/07/1914:19œì¨Ç"MixMob*Ù…ÛŒÚ©Ø³ Ù…ÙˆØ¨20.000669:77.56A¸…ëQx1ÀH”ÚR=https://s2.coinmarketcap.com/static/img/coins/64x64/29191.png
+˜
+
+1404/07/1914:19œì¨Ç"Super Trump*Ø³ÙˆÙ¾Ø± ØªØ±Ø§Ù…Ù¾20.000122:14.15AìQ¸…k.ÀH„ÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/29558.png
+•
+
+1404/07/1914:19œì¨Ç"
+ZoRobotics*Ø²ÙˆØ±ÙˆØ¨ÙˆØªÛŒÚ©Ø³20.0180:2089A
+×£p=
+3ÀH÷ÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/36563.png
+‡
+
+1404/07/1914:20Øì¨Ç"SENSO*Ø³Ù†Ø³Ùˆ20.003101:359.22AÍÌÌÌÌL$ÀHš¦R<https://s2.coinmarketcap.com/static/img/coins/64x64/5522.png
+„
+
+1404/07/1914:20Øì¨Ç"APED*Ø§ÛŒÙ¾Ø¯20.2234:25886AÃõ(\B%ÀHŠ¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/24533.png
+Ù
+
+1404/07/1914:19œì¨Ç"#AIâ´ | Recursive Superintelligence*<Ø§ÛŒ Ø¢ÛŒ ÙÙˆØ± Ø±ÛŒÚ©ÙˆØ±Ø³ÛŒÙˆ Ø³ÙˆÙ¾Ø±Ø§ÛŒÙ†ØªÙ„ÛŒØ¬Ù†Ø³20.000218:25.20Aáz®Ga<@H¤£R=https://s2.coinmarketcap.com/static/img/coins/64x64/37520.png
+œ
+
+1404/07/1914:19œì¨Ç"SAITAMA INU*Ø³Ø§ÛŒØªØ§Ù…Ø§ Ø§ÛŒÙ†Ùˆ20.000247:28.66A×£p=
 ×.ÀHª R=https://s2.coinmarketcap.com/static/img/coins/64x64/32310.png
 
 
-1404/07/1914:06æ¨Ç"YAM V3*ÛŒØ§Ù… ÙˆÛŒ Û³20.0147:1706HàR<https://s2.coinmarketcap.com/static/img/coins/64x64/7131.png
-„
-
-1404/07/1914:05Ôå¨Ç"APED*Ø§ÛŒÙ¾Ø¯20.2220:25760AìQ¸…k&ÀHõ™R=https://s2.coinmarketcap.com/static/img/coins/64x64/24533.png
+1404/07/1914:19œì¨Ç"YAM V3*ÛŒØ§Ù… ÙˆÛŒ Û³20.0147:1703HàR<https://s2.coinmarketcap.com/static/img/coins/64x64/7131.png
 ‹
 
-1404/07/1914:06æ¨Ç"Polker*
-Ù¾ÙˆÙ„Ú©Ø±20.001114:129.26A=
-×£p=ö¿Hú”R=https://s2.coinmarketcap.com/static/img/coins/64x64/10427.png
+1404/07/1914:19œì¨Ç"Polker*
+Ù¾ÙˆÙ„Ú©Ø±20.001116:129.32AR¸…ëQø¿HÌ˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/10427.png
 ¡
 
-1404/07/1914:05Ôå¨Ç"Draggy*
+1404/07/1914:19œì¨Ç"Draggy*
 Ø¯Ø±Ø§Ú¯ÛŒ20.000000000525961483934754:
 0.00006100A¤p=
 ×#,ÀH‰şR=https://s2.coinmarketcap.com/static/img/coins/64x64/31982.png
 •
 
-1404/07/1914:05Ôå¨Ç"X*Ø§ÛŒÚ©Ø³20.00000022518168188953417:0.0261A
+1404/07/1914:19œì¨Ç"X*Ø§ÛŒÚ©Ø³20.00000022518168188953417:0.0261A
 ×£p=
 ,ÀH€òR=https://s2.coinmarketcap.com/static/img/coins/64x64/27704.png
+’
+
+1404/07/1914:19œì¨Ç"dextoro*Ø¯Ú©Ø³â€ŒØªÙˆØ±Ùˆ20.000211:24.46A×£p=
+W3ÀH“ñR=https://s2.coinmarketcap.com/static/img/coins/64x64/36734.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"StreamerCoin*Ø§Ø³ØªØ±ÛŒÙ…Ø±â€ŒÚ©ÙˆÛŒÙ†20.000209:24.26Aš™™™™yCÀHÜãR=https://s2.coinmarketcap.com/static/img/coins/64x64/38326.png
 ¢
 
-1404/07/1914:05Ôå¨Ç"Dimecoin*Ø¯Ø§ÛŒÙ… Ú©ÙˆÛŒÙ†20.00000043780584135600755:0.0508AÃõ(\B%ÀH‰äR:https://s2.coinmarketcap.com/static/img/coins/64x64/90.png
-Ÿ
-
-1404/07/1914:05Ôå¨Ç"StreamerCoin*Ø§Ø³ØªØ±ÛŒÙ…Ø±â€ŒÚ©ÙˆÛŒÙ†20.000209:24.28A…ëQ¸ÅDÀHîâR=https://s2.coinmarketcap.com/static/img/coins/64x64/38326.png
-Œ
-
-1404/07/1914:06æ¨Ç"Winnerz*
-ÙˆÛŒÙ†Ø±Ø²20.000974:113.04A
-×£p=JIÀHÕÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/25785.png
-Ÿ
-
-1404/07/1914:05Ôå¨Ç"Spores Network*Ø§Ø³Ù¾ÙˆØ±Ø² Ù†ØªÙˆØ±Ú©20.000196:22.74A×£p=
-W ÀHùÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/11110.png
+1404/07/1914:19œì¨Ç"Dimecoin*Ø¯Ø§ÛŒÙ… Ú©ÙˆÛŒÙ†20.00000043539621401890114:0.0504A)\Âõ(&ÀHˆÛR:https://s2.coinmarketcap.com/static/img/coins/64x64/90.png
 
 
-1404/07/1914:06æ¨Ç"Hokkaidu Inu*Ù‡ÙˆÚ©Ø§ÛŒØ¯Ùˆ Ø§ÛŒÙ†Ùˆ20.000207:24.00AffffffÀHİÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/38177.png
-
-
-1404/07/1914:05Ôå¨Ç"	CloakCoin*Ú©Ù„ÙˆÚ© Ú©ÙˆÛŒÙ†20.0338:3924Aš™™™™™©¿H…ÄR;https://s2.coinmarketcap.com/static/img/coins/64x64/362.png
-‚
-
-1404/07/1914:05Ôå¨Ç"
-Moona Lisa20.000205:23.80A…ëQ¸Ş6ÀH‰ÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/38293.png
-“
-
-1404/07/1914:05Ôå¨Ç"WATCoin*ÙˆØ§Øª Ú©ÙˆÛŒÙ†2
-0.00001591:1.8460Aš™™™™1ÀHÜÁR=https://s2.coinmarketcap.com/static/img/coins/64x64/33117.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"TON Cat*ØªÙˆÙ† Ú©Øª20.000335:38.85A333333û¿Hª¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/33128.png
-’
-
-1404/07/1914:06æ¨Ç"dextoro*Ø¯Ú©Ø³â€ŒØªÙˆØ±Ùˆ20.000204:23.70AHáz®Ç2ÀH©»R=https://s2.coinmarketcap.com/static/img/coins/64x64/36734.png
-Œ
-
-1404/07/1914:06æ¨Ç"Vestate*
-ÙˆØ³ØªÛŒØª20.001411:163.80AÍÌÌÌÌÌ@HÎ°R=https://s2.coinmarketcap.com/static/img/coins/64x64/29575.png
-„
-
-1404/07/1914:05Ôå¨Ç"MAPS*Ù…Ù¾Ø²20.004456:517.14Aq=
-×£ğ8ÀHô¯R<https://s2.coinmarketcap.com/static/img/coins/64x64/8166.png
-
-
-1404/07/1914:05Ôå¨Ç"SOMESING*Ø³Ø§Ù…Ø³ÛŒÙ†Ú¯2
-0.00006206:7.20A®Gáz®ÀHÂ¯R<https://s2.coinmarketcap.com/static/img/coins/64x64/5612.png
-¥
-
-1404/07/1914:05Ôå¨Ç"vEmpire DDAO*ÙˆÛŒ Ø§Ù…Ù¾Ø§ÛŒØ± Ø¯ÛŒ Ø¯Ø§Ø¦Ùˆ20.000514:59.66A®Gáz”+ÀH¤ªR=https://s2.coinmarketcap.com/static/img/coins/64x64/11423.png
-
-
-1404/07/1914:05Ôå¨Ç"CatDog*Ú©Øª Ø¯Ø§Ú¯2
-0.00000201:0.2337A®Gáz®.ÀHû¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/32638.png
-‹
-
-1404/07/1914:05Ôå¨Ç"OctoFi*Ø§Ú©ØªÙˆÙØ§ÛŒ20.2512:29151Aö(\Âõ$ÀHúR<https://s2.coinmarketcap.com/static/img/coins/64x64/7202.png
-—
-
-1404/07/1914:05Ôå¨Ç"	Ideaology*Ø¢ÛŒØ¯ÛŒØ§ÙˆÙ„ÙˆÚ˜ÛŒ2
-0.00003974:4.61AÍÌÌÌÌÌÀH¸R<https://s2.coinmarketcap.com/static/img/coins/64x64/7681.png
-†
-
-1404/07/1914:06æ¨Ç"Cros*Ú©Ø±ÙˆØ³20.000228:26.50A)\Âõ(ÀHÚˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/33666.png
-”
-
-1404/07/1914:05Ôå¨Ç"AiMalls*Ø§ÛŒâ€ŒØ¢ÛŒ Ù…Ø§Ù„Ø²20.9779:113483Aö(\Âu*ÀH«†R=https://s2.coinmarketcap.com/static/img/coins/64x64/25822.png
-£
-
-1404/07/1914:05Ôå¨Ç"Unstable Tether*Ø¢Ù†â€ŒØ§Ø³ØªÛŒØ¨Ù„ ØªØªØ±20.000196:22.80A¸…ëQ¸7ÀH×şR=https://s2.coinmarketcap.com/static/img/coins/64x64/38310.png
-¢
-
-1404/07/1914:06æ¨Ç"Ethernity CLOUD*Ø§ØªÛŒØ±Ù†ÛŒØªÛŒ Ú©Ù„Ø§Ø¯20.000427:49.55A…ëQ¸0ÀHÃüR=https://s2.coinmarketcap.com/static/img/coins/64x64/11815.png
-
-
-1404/07/1914:06æ¨Ç"Musk It*Ù…Ø§Ø³Ú© Ø§ÛŒØª20.000195:22.66A     €$ÀHãõR=https://s2.coinmarketcap.com/static/img/coins/64x64/34513.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Glitch*Ú¯Ù„ÛŒÚ†20.002463:285.78A¸…ëQ¸®?H©õR<https://s2.coinmarketcap.com/static/img/coins/64x64/8236.png
-Ç
-
-1404/07/1914:05Ôå¨Ç"Boochie by Matt Furie*!Ø¨ÙˆÚ†ÛŒ Ø¨Ø§ÛŒ Ù…Ø§Øª ÙÛŒÙˆØ±ÛŒ20.000000000463720079930134:
-0.00005400A…ëQ¸…,ÀHŠôR=https://s2.coinmarketcap.com/static/img/coins/64x64/36564.png
-›
-
-1404/07/1914:06æ¨Ç"
-HotKeySwap*Ù‡Ø§Øªâ€ŒÚ©ÛŒ Ø³ÙˆØ§Ù¾20.002020:234.39A{®GáêXÀHáÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/29750.png
-Š
-
-1404/07/1914:06æ¨Ç"OneDex*ÙˆØ§Ù† Ø¯Ú©Ø³20.0435:5050AHáz®GÀHÎR=https://s2.coinmarketcap.com/static/img/coins/64x64/24085.png
-–
-
-1404/07/1914:05Ôå¨Ç"OX Coin*Ø§Ùˆ Ø§Ú©Ø³ Ú©ÙˆÛŒÙ†2
-0.00005773:6.70AÍÌÌÌÌÌÀHüÈR=https://s2.coinmarketcap.com/static/img/coins/64x64/29530.png
+1404/07/1914:20Øì¨Ç"Hokkaidu Inu*Ù‡ÙˆÚ©Ø§ÛŒØ¯Ùˆ Ø§ÛŒÙ†Ùˆ20.000208:24.11Aq=
+×£pÀHßÙR=https://s2.coinmarketcap.com/static/img/coins/64x64/38177.png
 Ÿ
 
-1404/07/1914:05Ôå¨Ç"Kaizen Finance*Ú©Ø§ÛŒØ²Ù† ÙØ§ÛŒÙ†Ù†Ø³20.000441:51.22Aö(\Âõ ÀH½ÆR=https://s2.coinmarketcap.com/static/img/coins/64x64/19670.png
-¡
+1404/07/1914:19œì¨Ç"Spores Network*Ø§Ø³Ù¾ÙˆØ±Ø² Ù†ØªÙˆØ±Ú©20.000196:22.72AÃõ(\B ÀHÚÕR=https://s2.coinmarketcap.com/static/img/coins/64x64/11110.png
+Œ
 
-1404/07/1914:05Ôå¨Ç"Empty Set Dollar*Ø§Ù…Ù¾ØªÛŒ Ø³Øª Ø¯Ù„Ø§Ø±20.000421:48.85AìQ¸…ë±?HãºR<https://s2.coinmarketcap.com/static/img/coins/64x64/7033.png
-—
+1404/07/1914:20Øì¨Ç"Winnerz*
+ÙˆÛŒÙ†Ø±Ø²20.000961:111.35AÃõ(\BIÀHÄR=https://s2.coinmarketcap.com/static/img/coins/64x64/25785.png
+
 
-1404/07/1914:06æ¨Ç"Mind AI*Ù…Ø§ÛŒÙ†Ø¯ Ø§ÛŒâ€ŒØ¢ÛŒ20.000535:62.04A)\Âõ(ÀH³²R=https://s2.coinmarketcap.com/static/img/coins/64x64/35614.png
-’
+1404/07/1914:19œì¨Ç"	CloakCoin*Ú©Ù„ÙˆÚ© Ú©ÙˆÛŒÙ†20.0338:3917A¸…ëQ¸¿H…ÄR;https://s2.coinmarketcap.com/static/img/coins/64x64/362.png
+‚
 
-1404/07/1914:05Ôå¨Ç"	Bitcicoin*Ø¨ÛŒØªâ€ŒØ³ÛŒâ€ŒÚ©ÙˆÛŒÙ†2
-0.00002401:2.79HŠ¦R<https://s2.coinmarketcap.com/static/img/coins/64x64/8357.png
-Š
+1404/07/1914:19œì¨Ç"
+Moona Lisa20.000205:23.76A…ëQ¸Ş6ÀH‰ÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/38293.png
+“
 
-1404/07/1914:05Ôå¨Ç"Moutai*
-Ù…ÙˆØªØ§ÛŒ20.000266:30.83A     @4ÀHó¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/30601.png
-†
+1404/07/1914:19œì¨Ç"WATCoin*ÙˆØ§Øª Ú©ÙˆÛŒÙ†2
+0.00001590:1.8419A{®Gá:1ÀHøÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/33117.png
+Œ
 
-1404/07/1914:05Ôå¨Ç"Parex*
-Ù¾Ø§Ø±Ú©Ø³20.0135:1561A®Gáz. ÀH½›R=https://s2.coinmarketcap.com/static/img/coins/64x64/18094.png
+1404/07/1914:19œì¨Ç"TON Cat*ØªÙˆÙ† Ú©Øª20.000335:38.79A333333û¿Hª¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/33128.png
+Œ
+
+1404/07/1914:19œì¨Ç"Vestate*
+ÙˆØ³ØªÛŒØª20.001411:163.48AÃõ(\Â@H˜°R=https://s2.coinmarketcap.com/static/img/coins/64x64/29575.png
+„
+
+1404/07/1914:19œì¨Ç"MAPS*Ù…Ù¾Ø²20.004456:516.26Aq=
+×£ğ8ÀHô¯R<https://s2.coinmarketcap.com/static/img/coins/64x64/8166.png
+¥
+
+1404/07/1914:19œì¨Ç"vEmpire DDAO*ÙˆÛŒ Ø§Ù…Ù¾Ø§ÛŒØ± Ø¯ÛŒ Ø¯Ø§Ø¦Ùˆ20.000515:59.69Aö(\Âu+ÀHİ­R=https://s2.coinmarketcap.com/static/img/coins/64x64/11423.png
 
 
-1404/07/1914:05Ôå¨Ç"sci-hub*Ø³Ø§ÛŒâ€ŒÙ‡Ø§Ø¨20.000183:21.29Aš™™™™/ÀHş˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/34563.png
- 
+1404/07/1914:19œì¨Ç"SOMESING*Ø³Ø§Ù…Ø³ÛŒÙ†Ú¯2
+0.00006195:7.18AHáz®GÀHÏ¬R<https://s2.coinmarketcap.com/static/img/coins/64x64/5612.png
+‹
 
-1404/07/1914:06æ¨Ç"Qrkita Token*Ú©ÙˆØ±Ú©ÛŒØªØ§ ØªÙˆÚ©Ù†2
-0.00000183:0.2127A¸…ëQ¸®?H¿—R=https://s2.coinmarketcap.com/static/img/coins/64x64/12501.png
-¡
+1404/07/1914:19œì¨Ç"OctoFi*Ø§Ú©ØªÙˆÙØ§ÛŒ20.2512:29102Afffffæ$ÀHúR<https://s2.coinmarketcap.com/static/img/coins/64x64/7202.png
+
 
-1404/07/1914:06æ¨Ç"Brokoli Network*Ø¨Ø±ÙˆÚ©Ù„ÛŒ Ù†ØªÙˆØ±Ú©20.003421:396.98Affffffæ¿H†•R=https://s2.coinmarketcap.com/static/img/coins/64x64/10893.png
-µ
+1404/07/1914:19œì¨Ç"CatDog*Ú©Øª Ø¯Ø§Ú¯2
+0.00000200:0.2322Aq=
+×£p/ÀH÷R=https://s2.coinmarketcap.com/static/img/coins/64x64/32638.png
+”
 
-1404/07/1914:05Ôå¨Ç"dog with apple in mouth*$Ø¯Ø§Ú¯ ÙˆÛŒØª Ø§Ù¾Ù„ Ø§ÛŒÙ† Ù…Ø§ÙˆØ«20.000183:21.22A
-×£p=
-2ÀH©”R=https://s2.coinmarketcap.com/static/img/coins/64x64/31391.png
-…
+1404/07/1914:20Øì¨Ç"AiMalls*Ø§ÛŒâ€ŒØ¢ÛŒ Ù…Ø§Ù„Ø²20.9808:113631Aq=
+×£ğ)ÀHüŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/25822.png
+†
 
-1404/07/1914:06æ¨Ç"VITE*ÙˆØ§ÛŒØª20.000164:19.03Aš™™™™™©¿Hê’R<https://s2.coinmarketcap.com/static/img/coins/64x64/2937.png
+1404/07/1914:20Øì¨Ç"Cros*Ú©Ø±ÙˆØ³20.000228:26.45A…ëQ¸ÀH½ˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/33666.png
+£
+
+1404/07/1914:19œì¨Ç"Unstable Tether*Ø¢Ù†â€ŒØ§Ø³ØªÛŒØ¨Ù„ ØªØªØ±20.000197:22.86AìQ¸…«7ÀH…R=https://s2.coinmarketcap.com/static/img/coins/64x64/38310.png
+¢
+
+1404/07/1914:19œì¨Ç"Ethernity CLOUD*Ø§ØªÛŒØ±Ù†ÛŒØªÛŒ Ú©Ù„Ø§Ø¯20.000427:49.46A…ëQ¸0ÀHÃüR=https://s2.coinmarketcap.com/static/img/coins/64x64/11815.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Glitch*Ú¯Ù„ÛŒÚ†20.002462:285.22A¸…ëQ¸®?HõôR<https://s2.coinmarketcap.com/static/img/coins/64x64/8236.png
+
+
+1404/07/1914:20Øì¨Ç"Musk It*Ù…Ø§Ø³Ú© Ø§ÛŒØª20.000195:22.55A®Gáz%ÀH»ğR=https://s2.coinmarketcap.com/static/img/coins/64x64/34513.png
+Æ
+
+1404/07/1914:19œì¨Ç"Boochie by Matt Furie*!Ø¨ÙˆÚ†ÛŒ Ø¨Ø§ÛŒ Ù…Ø§Øª ÙÛŒÙˆØ±ÛŒ20.00000000046161588485837:
+0.00005300Aq=
+×£p-ÀH•íR=https://s2.coinmarketcap.com/static/img/coins/64x64/36564.png
+›
+
+1404/07/1914:20Øì¨Ç"
+HotKeySwap*Ù‡Ø§Øªâ€ŒÚ©ÛŒ Ø³ÙˆØ§Ù¾20.002020:233.99A{®GáêXÀHáÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/29750.png
+—
+
+1404/07/1914:19œì¨Ç"	Ideaology*Ø¢ÛŒØ¯ÛŒØ§ÙˆÙ„ÙˆÚ˜ÛŒ2
+0.00003808:4.41Aö(\Âu!ÀH­ÏR<https://s2.coinmarketcap.com/static/img/coins/64x64/7681.png
+–
+
+1404/07/1914:19œì¨Ç"OX Coin*Ø§Ùˆ Ø§Ú©Ø³ Ú©ÙˆÛŒÙ†2
+0.00005773:6.69Aáz®GáÀHõÈR=https://s2.coinmarketcap.com/static/img/coins/64x64/29530.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"Kaizen Finance*Ú©Ø§ÛŒØ²Ù† ÙØ§ÛŒÙ†Ù†Ø³20.000441:51.11A333333ÿ¿HæÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/19670.png
 Š
 
-1404/07/1914:05Ôå¨Ç"CRYPTO20*Ú©Ø±ÛŒÙ¾ØªÙˆ Û²Û°20.004483:520.21H–„R<https://s2.coinmarketcap.com/static/img/coins/64x64/2444.png
-ƒ
+1404/07/1914:19œì¨Ç"OneDex*ÙˆØ§Ù† Ø¯Ú©Ø³20.0433:5011AffffffÀH¥ÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/24085.png
+¡
 
-1404/07/1914:05Ôå¨Ç"Pip*Ù¾ÛŒÙ¾20.000339:39.34A)\Âõè6ÀHëÿ
-R=https://s2.coinmarketcap.com/static/img/coins/64x64/16996.png
+1404/07/1914:19œì¨Ç"Empty Set Dollar*Ø§Ù…Ù¾ØªÛŒ Ø³Øª Ø¯Ù„Ø§Ø±20.000421:48.78Aš™™™™™©?H¢»R<https://s2.coinmarketcap.com/static/img/coins/64x64/7033.png
+—
+
+1404/07/1914:19œì¨Ç"Mind AI*Ù…Ø§ÛŒÙ†Ø¯ Ø§ÛŒâ€ŒØ¢ÛŒ20.000535:61.97AHáz®GÀH ³R=https://s2.coinmarketcap.com/static/img/coins/64x64/35614.png
+’
+
+1404/07/1914:19œì¨Ç"	Bitcicoin*Ø¨ÛŒØªâ€ŒØ³ÛŒâ€ŒÚ©ÙˆÛŒÙ†2
+0.00002401:2.78HŠ¦R<https://s2.coinmarketcap.com/static/img/coins/64x64/8357.png
+Š
+
+1404/07/1914:20Øì¨Ç"Moutai*
+Ù…ÙˆØªØ§ÛŒ20.000265:30.66AÂõ(\4ÀH§ R=https://s2.coinmarketcap.com/static/img/coins/64x64/30601.png
+
+
+1404/07/1914:19œì¨Ç"sci-hub*Ø³Ø§ÛŒâ€ŒÙ‡Ø§Ø¨20.000183:21.23AÍÌÌÌÌL/ÀHİ—R=https://s2.coinmarketcap.com/static/img/coins/64x64/34563.png
+ 
+
+1404/07/1914:20Øì¨Ç"Qrkita Token*Ú©ÙˆØ±Ú©ÛŒØªØ§ ØªÙˆÚ©Ù†2
+0.00000183:0.2123A¸…ëQ¸®?H—R=https://s2.coinmarketcap.com/static/img/coins/64x64/12501.png
+†
+
+1404/07/1914:19œì¨Ç"Parex*
+Ù¾Ø§Ø±Ú©Ø³20.0134:1553AÍÌÌÌÌL#ÀHá–R=https://s2.coinmarketcap.com/static/img/coins/64x64/18094.png
+¡
+
+1404/07/1914:20Øì¨Ç"Brokoli Network*Ø¨Ø±ÙˆÚ©Ù„ÛŒ Ù†ØªÙˆØ±Ú©20.003420:396.25A=
+×£p=ê¿Hí”R=https://s2.coinmarketcap.com/static/img/coins/64x64/10893.png
+…
+
+1404/07/1914:19œì¨Ç"VITE*ÙˆØ§ÛŒØª20.000164:18.99Aš™™™™™©¿Hê’R<https://s2.coinmarketcap.com/static/img/coins/64x64/2937.png
+µ
+
+1404/07/1914:19œì¨Ç"dog with apple in mouth*$Ø¯Ø§Ú¯ ÙˆÛŒØª Ø§Ù¾Ù„ Ø§ÛŒÙ† Ù…Ø§ÙˆØ«20.000181:21.03Aáz®G¡2ÀHö‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/31391.png
+•
+
+1404/07/1914:19œì¨Ç"
+Major Frog*Ù…ÛŒØ¬Ø± ÙØ±Ø§Ú¯20.000214:24.81Aö(\ÂõÀH†R=https://s2.coinmarketcap.com/static/img/coins/64x64/34041.png
+Š
+
+1404/07/1914:19œì¨Ç"CRYPTO20*Ú©Ø±ÛŒÙ¾ØªÙˆ Û²Û°20.004483:519.33H–„R<https://s2.coinmarketcap.com/static/img/coins/64x64/2444.png
 ‡
 
-1404/07/1914:05Ôå¨Ç"QUAIN*Ú©ÙˆÛŒÙ†20.000180:20.91Aq=
-×£07ÀHÑÿ
+1404/07/1914:19œì¨Ç"QUAIN*Ú©ÙˆÛŒÙ†20.000180:20.87Aö(\Â56ÀHÑÿ
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/35131.png
 –
 
-1404/07/1914:06æ¨Ç"Fofar (fofar.meme)*
-ÙÙˆÙØ§Ø±20.000189:21.98Aš™™™™(ÀHëı
+1404/07/1914:19œì¨Ç"Fofar (fofar.meme)*
+ÙÙˆÙØ§Ø±20.000189:21.94Aš™™™™(ÀHëı
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/32727.png
+ƒ
+
+1404/07/1914:19œì¨Ç"Pip*Ù¾ÛŒÙ¾20.000337:39.01Aš™™™™7ÀHÏö
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/16996.png
 ‘
 
-1404/07/1914:06æ¨Ç"Hunter Token*Ù‡Ø§Ù†ØªØ± ØªÙˆÚ©Ù†20.001172:135.99Héõ
+1404/07/1914:19œì¨Ç"Hunter Token*Ù‡Ø§Ù†ØªØ± ØªÙˆÚ©Ù†20.001172:135.76Héõ
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/21350.png
 ©
 
-1404/07/1914:06æ¨Ç"The First Youtube Cat*ÙØ±Ø³Øª ÛŒÙˆØªÛŒÙˆØ¨ Ú©Øª20.000182:21.15AÃõ(\B.ÀHûò
+1404/07/1914:20Øì¨Ç"The First Youtube Cat*ÙØ±Ø³Øª ÛŒÙˆØªÛŒÙˆØ¨ Ú©Øª20.000182:21.11AÃõ(\B.ÀHûò
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/29855.png
-
-
-1404/07/1914:06æ¨Ç"FireStarter*ÙØ§ÛŒØ± Ø§Ø³ØªØ§Ø±ØªØ±20.002604:302.21A     @8ÀH¶ò
-R=https://s2.coinmarketcap.com/static/img/coins/64x64/12678.png
 ™
 
-1404/07/1914:06æ¨Ç"	NvirWorld*Ø§Ù†â€ŒÙˆÛŒØ± ÙˆØ±Ù„Ø¯20.000169:19.64AìQ¸…ë@Hâï
+1404/07/1914:19œì¨Ç"	NvirWorld*Ø§Ù†â€ŒÙˆÛŒØ± ÙˆØ±Ù„Ø¯20.000169:19.59AHáz®G@HÚî
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/15924.png
-
+
 
-1404/07/1914:05Ôå¨Ç"el gato*Ø§Ù„ Ú¯ØªÙˆ2
-0.00001768:2.05A®Gázî3ÀHõä
-R=https://s2.coinmarketcap.com/static/img/coins/64x64/29853.png
+1404/07/1914:19œì¨Ç"FireStarter*ÙØ§ÛŒØ± Ø§Ø³ØªØ§Ø±ØªØ±20.002589:299.89Aq=
+×£°6ÀHê
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/12678.png
 £
 
-1404/07/1914:05Ôå¨Ç"PowerTrade Fuel*Ù¾Ø§ÙˆØ± ØªØ±ÛŒØ¯ ÙÛŒÙˆÙ„20.007577:879.34AÂõ(\'ÀHıã
+1404/07/1914:19œì¨Ç"PowerTrade Fuel*Ù¾Ø§ÙˆØ± ØªØ±ÛŒØ¯ ÙÛŒÙˆÙ„20.007580:878.19Aáz®Gá'ÀHÂä
 R<https://s2.coinmarketcap.com/static/img/coins/64x64/7190.png
 …
 
-1404/07/1914:05Ôå¨Ç"UNI*ÛŒÙˆÙ†ÛŒ20.000176:20.43A{®Gáú(ÀHĞß
+1404/07/1914:19œì¨Ç"UNI*ÛŒÙˆÙ†ÛŒ20.000176:20.40A{®Gáú(ÀHĞß
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/33433.png
 “
 
-1404/07/1914:05Ôå¨Ç"	KickToken*Ú©ÛŒÚ© ØªÙˆÚ©Ù†20.001448:168.00A¸…ëQ¸ò?H©Ü
+1404/07/1914:19œì¨Ç"	KickToken*Ú©ÛŒÚ© ØªÙˆÚ©Ù†20.001448:167.71A¸…ëQ¸ò?H©Ü
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/10700.png
+
+
+1404/07/1914:19œì¨Ç"el gato*Ø§Ù„ Ú¯ØªÙˆ2
+0.00001757:2.04Affffff4ÀHÜ
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/29853.png
  
 
-1404/07/1914:05Ôå¨Ç"	flork cto*ÙÙ„ÙˆØ±Ú© Ø³ÛŒâ€ŒØªÛŒâ€ŒØ§Ùˆ20.000186:21.64Aö(\Âõ(ÀH¢×
+1404/07/1914:19œì¨Ç"	flork cto*ÙÙ„ÙˆØ±Ú© Ø³ÛŒâ€ŒØªÛŒâ€ŒØ§Ùˆ20.000186:21.51AR¸…ëQ+ÀHÑÑ
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/34977.png
 ¢
 
-1404/07/1914:05Ôå¨Ç"
-Bitcoin AI*Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ø§ÛŒâ€ŒØ¢ÛŒ20.008262:958.79A=
-×£p½9ÀH¦Ê
+1404/07/1914:19œì¨Ç"
+Bitcoin AI*Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† Ø§ÛŒâ€ŒØ¢ÛŒ20.008280:959.25Aš™™™™™9ÀH Í
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/38133.png
 •
 
-1404/07/1914:05Ôå¨Ç"AigentX*Ø§ÛŒØ¬Ù†Øª Ø§ÛŒÚ©Ø³20.001869:216.92AÍÌÌÌÌÌ*ÀHÏÇ
+1404/07/1914:20Øì¨Ç"AigentX*Ø§ÛŒØ¬Ù†Øª Ø§ÛŒÚ©Ø³20.001869:216.55AÍÌÌÌÌÌ*ÀHÏÇ
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/28734.png
+“
+
+1404/07/1914:20Øì¨Ç"
+VisionGame*ÙˆÛŒÚ˜Ù† Ú¯ÛŒÙ…20.000286:33.13Aö(\Âõø¿HÍÇ
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/18330.png
 ¿
 
-1404/07/1914:05Ôå¨Ç"S.C. Corinthians Fan Token*.Ø§Ø³â€ŒØ³ÛŒ Ú©ÙˆØ±ÛŒÙ†ØªÛŒØ§Ù†Ø³ ÙÙ† ØªÙˆÚ©Ù†20.0323:3745AÂõ(\ÀH—Å
+1404/07/1914:19œì¨Ç"S.C. Corinthians Fan Token*.Ø§Ø³â€ŒØ³ÛŒ Ú©ÙˆØ±ÛŒÙ†ØªÛŒØ§Ù†Ø³ ÙÙ† ØªÙˆÚ©Ù†20.0323:3737AÍÌÌÌÌÌÀHÖÄ
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/11446.png
 ¸
 
-1404/07/1914:05Ôå¨Ç"Blockchain Monster Hunt*'Ø¨Ù„Ø§Ú©â€ŒÚ†ÛŒÙ† Ù…Ø§Ù†Ø³ØªØ± Ù‡Ø§Ù†Øª20.000709:82.22A®Gáz3ÀHÓÃ
+1404/07/1914:19œì¨Ç"Blockchain Monster Hunt*'Ø¨Ù„Ø§Ú©â€ŒÚ†ÛŒÙ† Ù…Ø§Ù†Ø³ØªØ± Ù‡Ø§Ù†Øª20.000709:82.09A…ëQ¸3ÀHÛÃ
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/12751.png
 Œ
 
-1404/07/1914:05Ôå¨Ç"e-Money*Ø§ÛŒ-Ù…Ø§Ù†ÛŒ20.008730:1013A×£p=
-×ÀHÓÃ
+1404/07/1914:19œì¨Ç"e-Money*Ø§ÛŒ-Ù…Ø§Ù†ÛŒ20.008730:1011A\Âõ(\ÀHÓÃ
 R<https://s2.coinmarketcap.com/static/img/coins/64x64/8279.png
+’
+
+1404/07/1914:19œì¨Ç"RepubliK*Ø±ÛŒÙ¾Ø§Ø¨Ù„ÛŒÚ©20.000178:20.60A¸…ëQ83ÀHë½
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/28396.png
 ¡
 
-1404/07/1914:05Ôå¨Ç"Vibe Cat (Jupiter Studio)*ÙˆØ§ÛŒØ¨ Ú©Øª20.002143:248.73A¸…ëQ¸ÀH»
+1404/07/1914:19œì¨Ç"Vibe Cat (Jupiter Studio)*ÙˆØ§ÛŒØ¨ Ú©Øª20.002141:248.07A=
+×£p=ÀHê¹
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/36881.png
-“
-
-1404/07/1914:05Ôå¨Ç"
-VisionGame*ÙˆÛŒÚ˜Ù† Ú¯ÛŒÙ…20.000282:32.78A®GázÀH·
-R=https://s2.coinmarketcap.com/static/img/coins/64x64/18330.png
 µ
 
-1404/07/1914:05Ôå¨Ç"Jen-Hsun Huang*Ø¬Ù†-Ù‡Ø³ÙˆÙ† Ù‡ÙˆØ§Ù†Ú¯20.000000017670253990685963:0.002051A)\Âõ¨7ÀHı´
+1404/07/1914:19œì¨Ç"Jen-Hsun Huang*Ø¬Ù†-Ù‡Ø³ÙˆÙ† Ù‡ÙˆØ§Ù†Ú¯20.000000017670104581095633:0.002047A)\Âõ¨7ÀHü´
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/32576.png
 ‰
 
-1404/07/1914:06æ¨Ç"Kattana*Ú©Ø§ØªØ§Ù†Ø§20.0181:2101A¤p=
-×£@Hó¯
+1404/07/1914:19œì¨Ç"Kattana*Ú©Ø§ØªØ§Ù†Ø§20.0182:2103A\Âõ(\@H£³
 R<https://s2.coinmarketcap.com/static/img/coins/64x64/9110.png
 •
 
-1404/07/1914:06æ¨Ç"Zynecoin*Ø²Ø§ÛŒÙ†â€ŒÚ©ÙˆÛŒÙ†20.004048:469.80AR¸…ëÑ.ÀH¢­
+1404/07/1914:20Øì¨Ç"Zynecoin*Ø²Ø§ÛŒÙ†â€ŒÚ©ÙˆÛŒÙ†20.004045:468.57A      /ÀH‡¬
 R<https://s2.coinmarketcap.com/static/img/coins/64x64/4951.png
-‹
-
-1404/07/1914:05Ôå¨Ç"MARS4*Ù…Ø§Ø±Ø³ Û´2
-0.00006806:7.90AffffffÀH¨
-R=https://s2.coinmarketcap.com/static/img/coins/64x64/12240.png
 ª
 
-1404/07/1914:06æ¨Ç"Venus Reward Token*ÙˆÙ†ÙˆØ³ Ø±ÛŒÙˆØ±Ø¯ ØªÙˆÚ©Ù†2
-0.00000767:0.8898Affffff3ÀHç¥
+1404/07/1914:20Øì¨Ç"Venus Reward Token*ÙˆÙ†ÙˆØ³ Ø±ÛŒÙˆØ±Ø¯ ØªÙˆÚ©Ù†2
+0.00000767:0.8883Affffff3ÀHç¥
 R<https://s2.coinmarketcap.com/static/img/coins/64x64/9691.png
+‹
+
+1404/07/1914:20Øì¨Ç"MARS4*Ù…Ø§Ø±Ø³ Û´2
+0.00006793:7.87AÍÌÌÌÌÌÀHá¥
+R=https://s2.coinmarketcap.com/static/img/coins/64x64/12240.png
 š
 
-1404/07/1914:06æ¨Ç"ROCO FINANCE*Ø±ÙˆÚ©Ùˆ ÙØ§ÛŒÙ†Ù†Ø³20.009732:1129AÍÌÌÌÌÌü?H£
+1404/07/1914:20Øì¨Ç"ROCO FINANCE*Ø±ÙˆÚ©Ùˆ ÙØ§ÛŒÙ†Ù†Ø³20.009732:1127AÍÌÌÌÌÌü?H£
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/12653.png
-•
-
-1404/07/1914:05Ôå¨Ç"
-Major Frog*Ù…ÛŒØ¬Ø± ÙØ±Ø§Ú¯20.000199:23.12Aš™™™™*ÀHƒ£
-R=https://s2.coinmarketcap.com/static/img/coins/64x64/34041.png
 ¬
 
-1404/07/1914:05Ôå¨Ç"DeepLink Protocol*Ø¯ÛŒÙ¾â€ŒÙ„ÛŒÙ†Ú© Ù¾Ø±ÙˆØªÚ©Ù„2
-0.00001280:1.4858A…ëQ¸ÀH¶¡
+1404/07/1914:19œì¨Ç"DeepLink Protocol*Ø¯ÛŒÙ¾â€ŒÙ„ÛŒÙ†Ú© Ù¾Ø±ÙˆØªÚ©Ù„2
+0.00001275:1.4776A)\Âõ(ÀHµœ
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/36116.png
 Å
 
-1404/07/1914:06æ¨Ç"Shib Original Vision*"Ø´ÛŒØ¨ Ø§ÙˆØ±ÛŒØ¬ÛŒÙ†Ø§Ù„ ÙˆÛŒÚ˜Ù†20.000000001571130055777731:0.000182Affffff'ÀH‡—
+1404/07/1914:19œì¨Ç"Shib Original Vision*"Ø´ÛŒØ¨ Ø§ÙˆØ±ÛŒØ¬ÛŒÙ†Ø§Ù„ ÙˆÛŒÚ˜Ù†20.000000001571130055777731:0.000182Affffff'ÀH‡—
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/24126.png
 ‘
 
-1404/07/1914:05Ôå¨Ç"Ghosty Cash*Ú¯ÙˆØ³ØªÛŒ Ú©Ø´20.0182:2113A®GázT?ÀH¸’
+1404/07/1914:19œì¨Ç"Ghosty Cash*Ú¯ÙˆØ³ØªÛŒ Ú©Ø´20.0182:2109A®GázT?ÀH¸’
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/34333.png
 ˜
 
-1404/07/1914:05Ôå¨Ç"Scotty Beam*Ø§Ø³Ú©Ø§ØªÛŒ Ø¨ÛŒÙ…20.000361:41.84A
-×£p=
-ÀHË‘
+1404/07/1914:19œì¨Ç"Scotty Beam*Ø§Ø³Ú©Ø§ØªÛŒ Ø¨ÛŒÙ…20.000359:41.62A\Âõ(\ÀH€
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/13953.png
 „
 
-1404/07/1914:06æ¨Ç"Pullix*Ù¾ÙˆÙ„ÛŒÚ©Ø³20.001979:229.65H‡‡
+1404/07/1914:20Øì¨Ç"Pullix*Ù¾ÙˆÙ„ÛŒÚ©Ø³20.001979:229.26H‡‡
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/30038.png
 ‹
 
-1404/07/1914:06æ¨Ç"Perion*
-Ù¾Ø±ÛŒÙˆÙ†20.005089:590.61A     À6ÀH¢€
+1404/07/1914:20Øì¨Ç"Perion*
+Ù¾Ø±ÛŒÙˆÙ†20.005089:589.61A     À6ÀH¢€
 R=https://s2.coinmarketcap.com/static/img/coins/64x64/17837.png
 Œ
 
-1404/07/1914:05Ôå¨Ç"Arcona*Ø¢Ø±Ú©ÙˆÙ†Ø§20.007347:852.61A…ëQ¸=@Hˆÿ	R<https://s2.coinmarketcap.com/static/img/coins/64x64/6218.png
+1404/07/1914:19œì¨Ç"Arcona*Ø¢Ø±Ú©ÙˆÙ†Ø§20.007341:850.52AÃõ(\=@H‹ş	R<https://s2.coinmarketcap.com/static/img/coins/64x64/6218.png
  
 
-1404/07/1914:05Ôå¨Ç"Baby BitCoin*Ø¨ÛŒØ¨ÛŒ Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†20.000163:18.89A=
+1404/07/1914:19œì¨Ç"Baby BitCoin*Ø¨ÛŒØ¨ÛŒ Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ†20.000163:18.86A=
 ×£p}0ÀHÜ÷	R=https://s2.coinmarketcap.com/static/img/coins/64x64/33930.png
 Š
 
-1404/07/1914:05Ôå¨Ç"Soyjak*
-Ø³ÙˆÛŒØ¬Ú©20.000175:20.36AìQ¸…«=ÀHàõ	R=https://s2.coinmarketcap.com/static/img/coins/64x64/32350.png
+1404/07/1914:19œì¨Ç"Soyjak*
+Ø³ÙˆÛŒØ¬Ú©20.000175:20.32AìQ¸…«=ÀHàõ	R=https://s2.coinmarketcap.com/static/img/coins/64x64/32350.png
 
 
-1404/07/1914:06æ¨Ç"Bridge Mutual*Ø¨Ø±ÛŒØ¬ Ù…ÛŒÙˆÚ†ÙˆØ§Ù„20.002494:289.41A{®GázÀH¿ì	R<https://s2.coinmarketcap.com/static/img/coins/64x64/8364.png
+1404/07/1914:20Øì¨Ç"Bridge Mutual*Ø¨Ø±ÛŒØ¬ Ù…ÛŒÙˆÚ†ÙˆØ§Ù„20.002494:288.91A…ëQ¸…ÀHºì	R<https://s2.coinmarketcap.com/static/img/coins/64x64/8364.png
 ‹
 
-1404/07/1914:06æ¨Ç"Azbit*
+1404/07/1914:20Øì¨Ç"Azbit*
 Ø§Ø²Ø¨ÛŒØª2
-0.00000231:0.2684Afffffæ,ÀHì	R<https://s2.coinmarketcap.com/static/img/coins/64x64/4777.png
+0.00000231:0.2679Afffffæ,ÀHì	R<https://s2.coinmarketcap.com/static/img/coins/64x64/4777.png
 ¢
 
-1404/07/1914:05Ôå¨Ç"Decentral Games*Ø¯ÛŒØ³Ù†ØªØ±Ø§Ù„ Ú¯ÛŒÙ…Ø²20.000834:96.77AHáz®Ç!ÀHºà	R=https://s2.coinmarketcap.com/static/img/coins/64x64/15478.png
+1404/07/1914:19œì¨Ç"Decentral Games*Ø¯ÛŒØ³Ù†ØªØ±Ø§Ù„ Ú¯ÛŒÙ…Ø²20.000834:96.61AHáz®Ç!ÀHºà	R=https://s2.coinmarketcap.com/static/img/coins/64x64/15478.png
 ’
 
-1404/07/1914:05Ôå¨Ç"The Loonies*Ù„ÙˆÙ†ÛŒ Ù‡Ø§20.000158:18.37A{®Gáz>ÀHìÔ	R=https://s2.coinmarketcap.com/static/img/coins/64x64/35413.png
+1404/07/1914:19œì¨Ç"The Loonies*Ù„ÙˆÙ†ÛŒ Ù‡Ø§20.000158:18.36A®Gáz®>ÀHêÕ	R=https://s2.coinmarketcap.com/static/img/coins/64x64/35413.png
 ­
 
-1404/07/1914:06æ¨Ç"OneMillionDollars*"ÙˆØ§Ù†â€ŒÙ…ÛŒÙ„ÛŒÙˆÙ†â€ŒØ¯Ù„Ø§Ø±Ø²20.000123:14.32A…ëQ¸…Û?H¦Ì	R=https://s2.coinmarketcap.com/static/img/coins/64x64/28930.png
+1404/07/1914:19œì¨Ç"OneMillionDollars*"ÙˆØ§Ù†â€ŒÙ…ÛŒÙ„ÛŒÙˆÙ†â€ŒØ¯Ù„Ø§Ø±Ø²20.000124:14.39A
+×£p=
+Ç¿HõÓ	R=https://s2.coinmarketcap.com/static/img/coins/64x64/28930.png
 “
 
-1404/07/1914:05Ôå¨Ç"Meme Ai*Ù…ÛŒÙ… Ø§ÛŒâ€ŒØ¢ÛŒ20.000215:24.99A\Âõ(\ÀHØÈ	R=https://s2.coinmarketcap.com/static/img/coins/64x64/29026.png
+1404/07/1914:19œì¨Ç"Meme Ai*Ù…ÛŒÙ… Ø§ÛŒâ€ŒØ¢ÛŒ20.000215:24.94AÂõ(\ÀH­È	R=https://s2.coinmarketcap.com/static/img/coins/64x64/29026.png
 
 
-1404/07/1914:05Ôå¨Ç"Syncus*Ø³ÛŒÙ†Ú©ÙˆØ³2
-0.00003690:4.28Aq=
+1404/07/1914:20Øì¨Ç"Syncus*Ø³ÛŒÙ†Ú©ÙˆØ³2
+0.00003690:4.27Aq=
 ×£pB@HÈ¸	R=https://s2.coinmarketcap.com/static/img/coins/64x64/28799.png
 
 
-1404/07/1914:06æ¨Ç"Tamadoge*ØªØ§Ù…Ø§Ø¯ÙˆØ¬20.000110:12.75A¤p=
+1404/07/1914:20Øì¨Ç"Tamadoge*ØªØ§Ù…Ø§Ø¯ÙˆØ¬20.000110:12.73A¤p=
 ×£$ÀHµ¬	R=https://s2.coinmarketcap.com/static/img/coins/64x64/21968.png
-”
-
-1404/07/1914:06æ¨Ç"aiPump*Ø§ÛŒâ€ŒØ¢ÛŒ Ù¾Ø§Ù…Ù¾20.000400:46.47AÍÌÌÌÌL @Hø¦	R=https://s2.coinmarketcap.com/static/img/coins/64x64/35117.png
 
 
-1404/07/1914:06æ¨Ç"NVIDIA*Ø§Ù†ÙˆÛŒØ¯ÛŒØ§20.000191:22.18Aáz®Gá,ÀHû¢	R=https://s2.coinmarketcap.com/static/img/coins/64x64/33890.png
+1404/07/1914:19œì¨Ç"NVIDIA*Ø§Ù†ÙˆÛŒØ¯ÛŒØ§20.000191:22.14Aq=
+×£ğ*ÀH‹£	R=https://s2.coinmarketcap.com/static/img/coins/64x64/33890.png
 £
 
-1404/07/1914:05Ôå¨Ç"WorkQuest Token*ÙˆØ±Ú© Ú©ÙˆØ¦Ø³Øª ØªÙˆÚ©Ù†2
-0.00002622:3.04A®Gáz@Hğš	R<https://s2.coinmarketcap.com/static/img/coins/64x64/9115.png
+1404/07/1914:19œì¨Ç"WorkQuest Token*ÙˆØ±Ú© Ú©ÙˆØ¦Ø³Øª ØªÙˆÚ©Ù†2
+0.00002621:3.04A      @HÈš	R<https://s2.coinmarketcap.com/static/img/coins/64x64/9115.png
 ™
 
-1404/07/1914:05Ôå¨Ç"Andy on SOL*Ø§Ù†Ø¯ÛŒ Ø¢Ù† Ø³ÙˆÙ„20.000159:18.43A)\Âõè1ÀH†–	R=https://s2.coinmarketcap.com/static/img/coins/64x64/29811.png
+1404/07/1914:19œì¨Ç"Andy on SOL*Ø§Ù†Ø¯ÛŒ Ø¢Ù† Ø³ÙˆÙ„20.000159:18.40A)\Âõè1ÀH†–	R=https://s2.coinmarketcap.com/static/img/coins/64x64/29811.png
 ˜
 
-1404/07/1914:06æ¨Ç"	Slingshot*Ø§Ø³Ù„ÛŒÙ†Ú¯â€ŒØ´Ø§Øª20.000805:93.44AR¸…ëQ@Hÿ”	R=https://s2.coinmarketcap.com/static/img/coins/64x64/36035.png
+1404/07/1914:20Øì¨Ç"	Slingshot*Ø§Ø³Ù„ÛŒÙ†Ú¯â€ŒØ´Ø§Øª20.000803:92.99AÍÌÌÌÌÌ
+@H¥‘	R=https://s2.coinmarketcap.com/static/img/coins/64x64/36035.png
+”
+
+1404/07/1914:20Øì¨Ç"aiPump*Ø§ÛŒâ€ŒØ¢ÛŒ Ù¾Ø§Ù…Ù¾20.000392:45.46A×£p=
+×@Hó	R=https://s2.coinmarketcap.com/static/img/coins/64x64/35117.png
 Š
 
-1404/07/1914:05Ôå¨Ç"Peanut*
-Ù¾ÛŒÙ†Ø§Øª20.002987:346.67A®Gáz®+ÀHó	R<https://s2.coinmarketcap.com/static/img/coins/64x64/8458.png
-ˆ
-
-1404/07/1914:06æ¨Ç"Aurigami*Ø¢Ø±ÛŒÚ¯Ø§Ù…ÛŒ2
-0.00003601:4.18H…‰	R=https://s2.coinmarketcap.com/static/img/coins/64x64/19268.png
-„
-
-1404/07/1914:05Ôå¨Ç"Fear*ÙÛŒØ±20.008356:969.75Aáz®Gá5ÀHÃ„	R<https://s2.coinmarketcap.com/static/img/coins/64x64/9866.png
-
-
-1404/07/1914:06æ¨Ç"	OneLedger*ÙˆØ§Ù† Ù„Ø¬Ø±20.000291:33.81Aáz®GáÚ?Hâ	R<https://s2.coinmarketcap.com/static/img/coins/64x64/2921.png
+1404/07/1914:19œì¨Ç"Peanut*
+Ù¾ÛŒÙ†Ø§Øª20.002986:345.95A=
+×£p½+ÀH»	R<https://s2.coinmarketcap.com/static/img/coins/64x64/8458.png
 Œ
 
-1404/07/1914:06æ¨Ç"Lynex*Ù„Ø§ÛŒÙ†Ú©Ø³20.005059:587.14A®GázÔ:ÀHç€	R=https://s2.coinmarketcap.com/static/img/coins/64x64/29525.png
- 
+1404/07/1914:20Øì¨Ç"Lynex*Ù„Ø§ÛŒÙ†Ú©Ø³20.005105:591.40AR¸…ë:ÀH’‹	R=https://s2.coinmarketcap.com/static/img/coins/64x64/29525.png
+ˆ
 
-1404/07/1914:05Ôå¨Ç"BitCone*Ø¨ÛŒØª Ú©ÙÙ†20.00000026113237483824386:0.0303Aš™™™™$ÀHáúR=https://s2.coinmarketcap.com/static/img/coins/64x64/26386.png
+1404/07/1914:19œì¨Ç"Aurigami*Ø¢Ø±ÛŒÚ¯Ø§Ù…ÛŒ2
+0.00003601:4.17H…‰	R=https://s2.coinmarketcap.com/static/img/coins/64x64/19268.png
+„
+
+1404/07/1914:19œì¨Ç"Fear*ÙÛŒØ±20.008359:968.43A×£p=
+—5ÀHõ„	R<https://s2.coinmarketcap.com/static/img/coins/64x64/9866.png
+
+
+1404/07/1914:19œì¨Ç"BitCone*Ø¨ÛŒØª Ú©ÙÙ†20.000000261132639404106:0.0303Aš™™™™$ÀHáúR=https://s2.coinmarketcap.com/static/img/coins/64x64/26386.png
 Ÿ
 
-1404/07/1914:06æ¨Ç"SpaceFalcon*Ø§Ø³Ù¾ÛŒØ³ ÙØ§Ù„Ú©ÙˆÙ†2
-0.00000842:0.9772A\Âõ(Ü'ÀHúR=https://s2.coinmarketcap.com/static/img/coins/64x64/14904.png
+1404/07/1914:19œì¨Ç"SpaceFalcon*Ø§Ø³Ù¾ÛŒØ³ ÙØ§Ù„Ú©ÙˆÙ†2
+0.00000842:0.9755A\Âõ(Ü'ÀHúR=https://s2.coinmarketcap.com/static/img/coins/64x64/14904.png
+
+
+1404/07/1914:19œì¨Ç"	OneLedger*ÙˆØ§Ù† Ù„Ø¬Ø±20.000289:33.51A)\Âõ(ä¿H»ùR<https://s2.coinmarketcap.com/static/img/coins/64x64/2921.png
 “
 
-1404/07/1914:06æ¨Ç"
-DOGEFATHER*Ø¯ÙˆØ¬ ÙØ§Ø¯Ø±20.000146:16.89A×£p=
+1404/07/1914:19œì¨Ç"
+DOGEFATHER*Ø¯ÙˆØ¬ ÙØ§Ø¯Ø±20.000146:16.86A×£p=
 ×ÀHùğR=https://s2.coinmarketcap.com/static/img/coins/64x64/34252.png
-›
-
-1404/07/1914:05Ôå¨Ç"Bachi on Base*Ø¨Ø§Ú†ÛŒ Ø¢Ù† Ø¨ÛŒØ³20.000245:28.40AÂõ(\/ÀHµáR=https://s2.coinmarketcap.com/static/img/coins/64x64/37561.png
  
 
-1404/07/1914:06æ¨Ç"MerlinStarter*Ù…Ø±Ù„ÛŒÙ† Ø§Ø³ØªØ§Ø±ØªØ±20.000236:27.38A\Âõ(\ÀHŒØR=https://s2.coinmarketcap.com/static/img/coins/64x64/30838.png
+1404/07/1914:20Øì¨Ç"MerlinStarter*Ù…Ø±Ù„ÛŒÙ† Ø§Ø³ØªØ§Ø±ØªØ±20.000238:27.56Aö(\Âõ ÀH§áR=https://s2.coinmarketcap.com/static/img/coins/64x64/30838.png
+›
+
+1404/07/1914:20Øì¨Ç"Bachi on Base*Ø¨Ø§Ú†ÛŒ Ø¢Ù† Ø¨ÛŒØ³20.000244:28.31Aš™™™™0ÀHÕßR=https://s2.coinmarketcap.com/static/img/coins/64x64/37561.png
 ¡
 
-1404/07/1914:06æ¨Ç"StakeCubeCoin*Ø§Ø³ØªÛŒÚ© Ú©ÛŒÙˆØ¨ Ú©ÙˆÛŒÙ†20.008821:1024A=
-×£p=@H®ÕR<https://s2.coinmarketcap.com/static/img/coins/64x64/3986.png
+1404/07/1914:20Øì¨Ç"StakeCubeCoin*Ø§Ø³ØªÛŒÚ© Ú©ÛŒÙˆØ¨ Ú©ÙˆÛŒÙ†20.008767:1016AÍÌÌÌÌÌ@HÌÎR<https://s2.coinmarketcap.com/static/img/coins/64x64/3986.png
 ¥
 
-1404/07/1914:06æ¨Ç"Position Exchange*Ù¾ÙˆØ²ÛŒØ´Ù† Ø§Ú©Ø³Ú†Ù†Ø¬20.001549:179.80A¤p=
+1404/07/1914:19œì¨Ç"Position Exchange*Ù¾ÙˆØ²ÛŒØ´Ù† Ø§Ú©Ø³Ú†Ù†Ø¬20.001549:179.49A¤p=
 ×£ÀH¾ÅR=https://s2.coinmarketcap.com/static/img/coins/64x64/11234.png
 —
 
-1404/07/1914:06æ¨Ç"Aether Games*Ø§Ø«ÙØ± Ú¯ÛŒÙ…Ø²20.000314:36.40AÍÌÌÌÌ?ÀH„ÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/17605.png
+1404/07/1914:19œì¨Ç"Aether Games*Ø§Ø«ÙØ± Ú¯ÛŒÙ…Ø²20.000313:36.29Aš™™™™?ÀHáÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/17605.png
 –
 
-1404/07/1914:06æ¨Ç"NFTb*Ø§Ù†â€ŒØ§Ùâ€ŒØªÛŒâ€ŒØ¨ÛŒ20.000202:23.42A×£p=
+1404/07/1914:19œì¨Ç"NFTb*Ø§Ù†â€ŒØ§Ùâ€ŒØªÛŒâ€ŒØ¨ÛŒ20.000202:23.38A×£p=
 W*ÀHÉÀR<https://s2.coinmarketcap.com/static/img/coins/64x64/9545.png
-¦
-
-1404/07/1914:05Ôå¨Ç"UBIX.Network*ÛŒÙˆØ¨ÛŒÚ©Ø³ Ø¯Ø§Øª Ù†ØªÙˆØ±Ú©2
-0.00000305:0.3543Aš™™™™™©?HÂ¾R<https://s2.coinmarketcap.com/static/img/coins/64x64/7622.png
-­
-
-1404/07/1914:05Ôå¨Ç"Global DePIN Chain*!Ú¯Ù„ÙˆØ¨Ø§Ù„ Ø¯ÛŒâ€ŒÙ¾ÛŒÙ† Ú†ÛŒÙ†20.000175:20.34A×£p=
-×ÀHå¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/35569.png
 ’
 
-1404/07/1914:06æ¨Ç"InsurAce*Ø§ÛŒÙ†Ø´ÙˆØ±ÛŒØ³20.003067:355.92AÍÌÌÌÌÌ(ÀHÒ³R<https://s2.coinmarketcap.com/static/img/coins/64x64/8799.png
-±
+1404/07/1914:19œì¨Ç"InsurAce*Ø§ÛŒÙ†Ø´ÙˆØ±ÛŒØ³20.003067:355.32AÍÌÌÌÌÌ(ÀHÒ³R<https://s2.coinmarketcap.com/static/img/coins/64x64/8799.png
+­
 
-1404/07/1914:05Ôå¨Ç"Cat Own Kimono*Ú©Øª Ø§ÙˆÙ† Ú©ÛŒÙ…ÙˆÙ†Ùˆ20.0000001361243483089297:0.0158A33333ó3ÀHş¥R=https://s2.coinmarketcap.com/static/img/coins/64x64/31779.png
+1404/07/1914:20Øì¨Ç"Global DePIN Chain*!Ú¯Ù„ÙˆØ¨Ø§Ù„ Ø¯ÛŒâ€ŒÙ¾ÛŒÙ† Ú†ÛŒÙ†20.000173:20.09A¤p=
+×£ÀH•®R=https://s2.coinmarketcap.com/static/img/coins/64x64/35569.png
+²
+
+1404/07/1914:19œì¨Ç"Cat Own Kimono*Ú©Øª Ø§ÙˆÙ† Ú©ÛŒÙ…ÙˆÙ†Ùˆ20.00000013705098193099693:0.0159A…ëQ¸Ş3ÀHœ­R=https://s2.coinmarketcap.com/static/img/coins/64x64/31779.png
+¦
+
+1404/07/1914:19œì¨Ç"UBIX.Network*ÛŒÙˆØ¨ÛŒÚ©Ø³ Ø¯Ø§Øª Ù†ØªÙˆØ±Ú©2
+0.00000299:0.3462A      ÀHÂ§R<https://s2.coinmarketcap.com/static/img/coins/64x64/7622.png
 ¥
 
-1404/07/1914:05Ôå¨Ç"Shopping.io*Ø´Ø§Ù¾ÛŒÙ†Ú¯ Ø¯Ø§Øª Ø¢ÛŒâ€ŒØ§Ùˆ20.001353:156.97A\Âõ(üPÀH¶ŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/21772.png
-£
-
-1404/07/1914:05Ôå¨Ç"Trumpius Maximus*!ØªØ±Ø§Ù…Ù¾ÛŒÙˆØ³ Ù…Ø§Ú©Ø³ÛŒÙ…ÙˆØ³20.002918:338.68HšœR=https://s2.coinmarketcap.com/static/img/coins/64x64/34976.png
-¬
-
-1404/07/1914:05Ôå¨Ç"Wen Lambo Financial*ÙˆÙ† Ù„Ù…Ø¨Ùˆ ÙØ§ÛŒÙ†Ù†Ø´Ø§Ù„2134.11:15563168AìQ¸…ë,ÀHÛ—R=https://s2.coinmarketcap.com/static/img/coins/64x64/36973.png
-‰
-
-1404/07/1914:05Ôå¨Ç"TE-FOOD*ØªÛŒâ€ŒØ§ÛŒ-ÙÙˆØ¯20.000132:15.29H¦…R<https://s2.coinmarketcap.com/static/img/coins/64x64/2578.png
-•
-
-1404/07/1914:05Ôå¨Ç"Meta Monopoly*Ù…ØªØ§ Ù…ÙˆÙ†ÙˆÙ¾ÙˆÙ„ÛŒ20.000131:15.26H¢ƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/28204.png
+1404/07/1914:19œì¨Ç"Shopping.io*Ø´Ø§Ù¾ÛŒÙ†Ú¯ Ø¯Ø§Øª Ø¢ÛŒâ€ŒØ§Ùˆ20.001353:156.71A\Âõ(œOÀH¶ŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/21772.png
 —
 
-1404/07/1914:05Ôå¨Ç"XRPayNet*Ø±ÛŒÙ¾Ù„ Ù¾ÛŒâ€ŒÙ†Øª2
-0.00002332:2.71Aáz®G!0ÀHõşR=https://s2.coinmarketcap.com/static/img/coins/64x64/19294.png
+1404/07/1914:19œì¨Ç"XRPayNet*Ø±ÛŒÙ¾Ù„ Ù¾ÛŒâ€ŒÙ†Øª2
+0.00002402:2.78A=
+×£p=+ÀH®R=https://s2.coinmarketcap.com/static/img/coins/64x64/19294.png
+£
+
+1404/07/1914:19œì¨Ç"Trumpius Maximus*!ØªØ±Ø§Ù…Ù¾ÛŒÙˆØ³ Ù…Ø§Ú©Ø³ÛŒÙ…ÙˆØ³20.002918:338.11HšœR=https://s2.coinmarketcap.com/static/img/coins/64x64/34976.png
+¬
+
+1404/07/1914:19œì¨Ç"Wen Lambo Financial*ÙˆÙ† Ù„Ù…Ø¨Ùˆ ÙØ§ÛŒÙ†Ù†Ø´Ø§Ù„2134.11:15536749AìQ¸…ë,ÀHÛ—R=https://s2.coinmarketcap.com/static/img/coins/64x64/36973.png
 ‰
 
-1404/07/1914:06æ¨Ç"Klaus*
-Ú©Ù„Ø§ÙˆØ³20.000130:15.10A
+1404/07/1914:19œì¨Ç"TE-FOOD*ØªÛŒâ€ŒØ§ÛŒ-ÙÙˆØ¯20.000132:15.26H¦…R<https://s2.coinmarketcap.com/static/img/coins/64x64/2578.png
+•
+
+1404/07/1914:19œì¨Ç"Meta Monopoly*Ù…ØªØ§ Ù…ÙˆÙ†ÙˆÙ¾ÙˆÙ„ÛŒ20.000131:15.23H¢ƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/28204.png
+‰
+
+1404/07/1914:19œì¨Ç"Klaus*
+Ú©Ù„Ø§ÙˆØ³20.000130:15.08A
 ×£p=
 ×¿HËøR=https://s2.coinmarketcap.com/static/img/coins/64x64/33399.png
 ’
 
-1404/07/1914:06æ¨Ç"
-Metaverser*Ù…ØªØ§ÙˆØ±Ø³Ø±20.000779:90.35Aq=
-×£ğ)ÀH²øR=https://s2.coinmarketcap.com/static/img/coins/64x64/15974.png
+1404/07/1914:20Øì¨Ç"
+Metaverser*Ù…ØªØ§ÙˆØ±Ø³Ø±20.000778:90.18Aö(\Âõ)ÀHŸøR=https://s2.coinmarketcap.com/static/img/coins/64x64/15974.png
 
 
-1404/07/1914:05Ôå¨Ç"Satoshi Island*Ø³Ø§ØªÙˆØ´ÛŒ Ø¢ÛŒÙ„Ù†Ø¯20.009509:1103Aö(\Âõè¿HØğR=https://s2.coinmarketcap.com/static/img/coins/64x64/21517.png
+1404/07/1914:19œì¨Ç"Satoshi Island*Ø³Ø§ØªÙˆØ´ÛŒ Ø¢ÛŒÙ„Ù†Ø¯20.009492:1100A¸…ëQ¸î¿HöîR=https://s2.coinmarketcap.com/static/img/coins/64x64/21517.png
+•
+
+1404/07/1914:19œì¨Ç"
+OpenVision*Ø§ÙˆÙ¾Ù† ÙˆÛŒÚ˜Ù†20.000128:14.81Affffff!ÀH¼æR=https://s2.coinmarketcap.com/static/img/coins/64x64/36868.png
+—
+
+1404/07/1914:19œì¨Ç"BurgerCities*Ø¨Ø±Ú¯Ø± Ø³ÛŒØªØ²20.002963:343.23A\Âõ(\ÀHŠäR<https://s2.coinmarketcap.com/static/img/coins/64x64/7158.png
 «
 
-1404/07/1914:05Ôå¨Ç"Three Protocol Token*Ø«Ø±ÛŒ Ù¾Ø±ÙˆØªÚ©Ù„ ØªÙˆÚ©Ù†20.001517:176.05Aq=
-×£ğ'ÀH³ïR=https://s2.coinmarketcap.com/static/img/coins/64x64/31008.png
-•
-
-1404/07/1914:05Ôå¨Ç"
-OpenVision*Ø§ÙˆÙ¾Ù† ÙˆÛŒÚ˜Ù†20.000127:14.73A…ëQ¸"ÀHàßR=https://s2.coinmarketcap.com/static/img/coins/64x64/36868.png
-’
-
-1404/07/1914:05Ôå¨Ç"RepubliK*Ø±ÛŒÙ¾Ø§Ø¨Ù„ÛŒÚ©20.000131:15.23AR¸…ë1DÀH¢ŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/28396.png
+1404/07/1914:19œì¨Ç"Three Protocol Token*Ø«Ø±ÛŒ Ù¾Ø±ÙˆØªÚ©Ù„ ØªÙˆÚ©Ù†20.001497:173.48A¸…ëQ8*ÀH±âR=https://s2.coinmarketcap.com/static/img/coins/64x64/31008.png
 È
 
-1404/07/1914:06æ¨Ç"Green Shiba Inu (new)*%Ú¯Ø±ÛŒÙ† Ø´ÛŒØ¨Ø§ Ø§ÛŒÙ†Ùˆ (Ø¬Ø¯ÛŒØ¯)20.00000003522790551533543:0.004088AHáz®‡4ÀH©×R=https://s2.coinmarketcap.com/static/img/coins/64x64/10414.png
-š
-
-1404/07/1914:05Ôå¨Ç"Solana Swap*Ø³ÙˆÙ„Ø§Ù†Ø§ Ø³ÙˆØ§Ù¾20.000124:14.44Aö(\Âµ5ÀHÌR=https://s2.coinmarketcap.com/static/img/coins/64x64/33110.png
-Œ
-
-1404/07/1914:06æ¨Ç"Mithril*Ù…ÛŒØ«Ø±ÛŒÙ„20.000124:14.38A\Âõ(7ÀH‹ÈR<https://s2.coinmarketcap.com/static/img/coins/64x64/2608.png
-
-
-1404/07/1914:06æ¨Ç"RMRK*Ø¢Ø±Ø§Ù…â€ŒØ¢Ø±Ú©ÛŒ20.0136:1581AÃõ(\ÂDÀH´ÇR=https://s2.coinmarketcap.com/static/img/coins/64x64/12140.png
-Œ
-
-1404/07/1914:06æ¨Ç"Darwin*Ø¯Ø§Ø±ÙˆÛŒÙ†20.000309:35.83A¸…ëQø2ÀHêÄR=https://s2.coinmarketcap.com/static/img/coins/64x64/37382.png
+1404/07/1914:20Øì¨Ç"Green Shiba Inu (new)*%Ú¯Ø±ÛŒÙ† Ø´ÛŒØ¨Ø§ Ø§ÛŒÙ†Ùˆ (Ø¬Ø¯ÛŒØ¯)20.00000003522790551533543:0.004081AHáz®‡4ÀH©×R=https://s2.coinmarketcap.com/static/img/coins/64x64/10414.png
 ›
 
-1404/07/1914:05Ôå¨Ç"Thorstarter*Ø«ÙˆØ± Ø§Ø³ØªØ§Ø±ØªØ±20.001530:177.61A®Gáz4ÀHäÄR=https://s2.coinmarketcap.com/static/img/coins/64x64/10260.png
-§
+1404/07/1914:19œì¨Ç"Thorstarter*Ø«ÙˆØ± Ø§Ø³ØªØ§Ø±ØªØ±20.001548:179.30A®Gáz.3ÀHĞÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/10260.png
+š
 
-1404/07/1914:05Ôå¨Ç"Aiagent.app*"Ø§ÛŒâ€ŒØ¢ÛŒ Ø§ÛŒØ¬Ù†Øª Ø¯Ø§Øª Ø§Ù¾20.000123:14.30AìQ¸…+4ÀH®ÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/35543.png
-
-
-1404/07/1914:05Ôå¨Ç"TAIKAI*ØªØ§ÛŒÚ©Ø§ÛŒ20.001631:189.23AÍÌÌÌÌÌÀH¡¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/31669.png
+1404/07/1914:19œì¨Ç"Solana Swap*Ø³ÙˆÙ„Ø§Ù†Ø§ Ø³ÙˆØ§Ù¾20.000124:14.41A=
+×£pı6ÀHÜËR=https://s2.coinmarketcap.com/static/img/coins/64x64/33110.png
 Œ
 
-1404/07/1914:05Ôå¨Ç"ZELIX*
-Ø²Ù„ÛŒÚ©Ø³2
-0.00001641:1.9045AÍÌÌÌÌL,ÀHÌ»R=https://s2.coinmarketcap.com/static/img/coins/64x64/28748.png
-‘
+1404/07/1914:20Øì¨Ç"Mithril*Ù…ÛŒØ«Ø±ÛŒÙ„20.000124:14.35A…ëQ¸7ÀHùÇR<https://s2.coinmarketcap.com/static/img/coins/64x64/2608.png
+
 
-1404/07/1914:06æ¨Ç"pNetwork*Ù¾ÛŒ Ù†ØªÙˆØ±Ú©20.001352:156.93A      ÀHğ®R<https://s2.coinmarketcap.com/static/img/coins/64x64/5794.png
+1404/07/1914:19œì¨Ç"TAIKAI*ØªØ§ÛŒÚ©Ø§ÛŒ20.001640:190.03A333333ÀHùÄR=https://s2.coinmarketcap.com/static/img/coins/64x64/31669.png
+§
+
+1404/07/1914:19œì¨Ç"Aiagent.app*"Ø§ÛŒâ€ŒØ¢ÛŒ Ø§ÛŒØ¬Ù†Øª Ø¯Ø§Øª Ø§Ù¾20.000123:14.27AìQ¸…+4ÀH®ÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/35543.png
+Œ
+
+1404/07/1914:20Øì¨Ç"Darwin*Ø¯Ø§Ø±ÙˆÛŒÙ†20.000307:35.62AÍÌÌÌÌÌ2ÀHâÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/37382.png
 –
 
-1404/07/1914:06æ¨Ç"Bestcoin*Ø¨Ø³Øªâ€ŒÚ©ÙˆÛŒÙ†2
-0.00000179:0.2075A®GázÔ3ÀH¨«R=https://s2.coinmarketcap.com/static/img/coins/64x64/37222.png
+1404/07/1914:20Øì¨Ç"Bestcoin*Ø¨Ø³Øªâ€ŒÚ©ÙˆÛŒÙ†2
+0.00000182:0.2113A{®Gá:2ÀH‹¾R=https://s2.coinmarketcap.com/static/img/coins/64x64/37222.png
+
+
+1404/07/1914:19œì¨Ç"RMRK*Ø¢Ø±Ø§Ù…â€ŒØ¢Ø±Ú©ÛŒ20.0135:1562AR¸…ëEÀHÏ½R=https://s2.coinmarketcap.com/static/img/coins/64x64/12140.png
+‘
+
+1404/07/1914:19œì¨Ç"pNetwork*Ù¾ÛŒ Ù†ØªÙˆØ±Ú©20.001352:156.66A      ÀHğ®R<https://s2.coinmarketcap.com/static/img/coins/64x64/5794.png
 
 
-1404/07/1914:06æ¨Ç"
-Ondo DeFAI*Ø§ÙˆÙ†Ø¯Ùˆ Ø¯ÛŒÙØ§ÛŒ20.000119:13.81H¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/35469.png
+1404/07/1914:20Øì¨Ç"
+Ondo DeFAI*Ø§ÙˆÙ†Ø¯Ùˆ Ø¯ÛŒÙØ§ÛŒ20.000119:13.79H¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/35469.png
+Œ
+
+1404/07/1914:19œì¨Ç"ZELIX*
+Ø²Ù„ÛŒÚ©Ø³2
+0.00001597:1.8496A…ëQ¸.ÀHÓ¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/28748.png
 ¤
 
-1404/07/1914:06æ¨Ç"Kingdom Game 4.0*Ú©ÛŒÙ†Ú¯Ø¯Ø§Ù… Ú¯ÛŒÙ… Û´.Û°20.000224:25.95Aáz®GáÀHáŸR<https://s2.coinmarketcap.com/static/img/coins/64x64/5407.png
+1404/07/1914:19œì¨Ç"Kingdom Game 4.0*Ú©ÛŒÙ†Ú¯Ø¯Ø§Ù… Ú¯ÛŒÙ… Û´.Û°20.000224:25.91Aáz®GáÀHáŸR<https://s2.coinmarketcap.com/static/img/coins/64x64/5407.png
+š
+
+1404/07/1914:20Øì¨Ç"USAcoin*ÛŒÙˆØ§Ø³â€ŒØ§ÛŒ Ú©ÙˆÛŒÙ†20.005916:685.36Aö(\Âõ*ÀH«œR=https://s2.coinmarketcap.com/static/img/coins/64x64/34805.png
 •
 
-1404/07/1914:05Ôå¨Ç"markkacy*Ù…Ø§Ø±Ú© Ú©ÙÛŒØ³ÛŒ20.000118:13.73A{®Gáú(ÀH±œR=https://s2.coinmarketcap.com/static/img/coins/64x64/34173.png
-š
-
-1404/07/1914:06æ¨Ç"USAcoin*ÛŒÙˆØ§Ø³â€ŒØ§ÛŒ Ú©ÙˆÛŒÙ†20.005916:686.52Aö(\Âõ*ÀH«œR=https://s2.coinmarketcap.com/static/img/coins/64x64/34805.png
+1404/07/1914:19œì¨Ç"markkacy*Ù…Ø§Ø±Ú© Ú©ÙÛŒØ³ÛŒ20.000118:13.65A{®Gáú)ÀH¯˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/34173.png
 ™
 
-1404/07/1914:06æ¨Ç"
-CONTRACOIN*Ú©ÙˆÙ†ØªØ±Ø§ Ú©ÙˆÛŒÙ†20.002302:267.20AÃõ(\‚1ÀHè•R<https://s2.coinmarketcap.com/static/img/coins/64x64/5313.png
+1404/07/1914:19œì¨Ç"
+CONTRACOIN*Ú©ÙˆÙ†ØªØ±Ø§ Ú©ÙˆÛŒÙ†20.002302:266.67A…ëQ¸…1ÀHÉ•R<https://s2.coinmarketcap.com/static/img/coins/64x64/5313.png
 
 
-1404/07/1914:06æ¨Ç"
-SpaceCatch*Ø§Ø³Ù¾ÛŒØ³ Ú©Ú†20.0105:1221A®Gáz®&ÀH±‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/23665.png
+1404/07/1914:20Øì¨Ç"
+SpaceCatch*Ø§Ø³Ù¾ÛŒØ³ Ú©Ú†20.0106:1227Aö(\Âu%ÀHR=https://s2.coinmarketcap.com/static/img/coins/64x64/23665.png
 ‘
 
-1404/07/1914:05Ôå¨Ç"	Sheboshis*Ø´ÛŒâ€ŒØ¨ÙˆØ´ÛŒØ²25.70:661113A¤p=
+1404/07/1914:19œì¨Ç"	Sheboshis*Ø´ÛŒâ€ŒØ¨ÙˆØ´ÛŒØ²25.70:659991A¤p=
 ×ã1ÀHúR=https://s2.coinmarketcap.com/static/img/coins/64x64/29559.png
-˜
-
-1404/07/1914:05Ôå¨Ç"WOM Protocol*ÙˆÙˆÙ… Ù¾Ø±ÙˆØªÚ©Ù„20.000590:68.43Aö(\Âõ@HŠùR<https://s2.coinmarketcap.com/static/img/coins/64x64/5328.png
 
 
-1404/07/1914:05Ôå¨Ç"JulSwap*Ø¬ÙˆÙ„ Ø³ÙˆØ§Ù¾20.000190:22.07Afffffæ"ÀHüïR<https://s2.coinmarketcap.com/static/img/coins/64x64/8164.png
-
-
-1404/07/1914:05Ôå¨Ç"DOGMI*Ø¯ÙˆÚ¯â€ŒÙ…ÛŒ2
-0.00000455:0.5281Aáz®G¡6ÀHíR=https://s2.coinmarketcap.com/static/img/coins/64x64/29010.png
+1404/07/1914:19œì¨Ç"JulSwap*Ø¬ÙˆÙ„ Ø³ÙˆØ§Ù¾20.000190:22.03A¸…ëQ¸®?HØïR<https://s2.coinmarketcap.com/static/img/coins/64x64/8164.png
 ‘
 
-1404/07/1914:05Ôå¨Ç"SAFEMOON*Ø³ÛŒÙâ€ŒÙ…ÙˆÙ†20.000120:13.88AHáz®‡CÀHñçR=https://s2.coinmarketcap.com/static/img/coins/64x64/38238.png
+1404/07/1914:20Øì¨Ç"SAFEMOON*Ø³ÛŒÙâ€ŒÙ…ÙˆÙ†20.000120:13.85AHáz®‡BÀHñçR=https://s2.coinmarketcap.com/static/img/coins/64x64/38238.png
+
+
+1404/07/1914:19œì¨Ç"DOGMI*Ø¯ÙˆÚ¯â€ŒÙ…ÛŒ2
+0.00000450:0.5217Aö(\Âµ7ÀHüãR=https://s2.coinmarketcap.com/static/img/coins/64x64/29010.png
 š
 
-1404/07/1914:05Ôå¨Ç"Atsuko Sato*Ø¢ØªØ³ÙˆÚ©Ùˆ Ø³Ø§ØªÙˆ20.000113:13.08A×£p=
+1404/07/1914:20Øì¨Ç"Atsuko Sato*Ø¢ØªØ³ÙˆÚ©Ùˆ Ø³Ø§ØªÙˆ20.000113:13.05A×£p=
 W&ÀHôÓR=https://s2.coinmarketcap.com/static/img/coins/64x64/32691.png
 
 
-1404/07/1914:05Ôå¨Ç"King DAG*Ú©ÛŒÙ†Ú¯ Ø¯Ú¯20.001987:230.64Aö(\ÂõÀH¹ÍR<https://s2.coinmarketcap.com/static/img/coins/64x64/5626.png
+1404/07/1914:19œì¨Ç"King DAG*Ú©ÛŒÙ†Ú¯ Ø¯Ú¯20.001987:230.25AffffffÀH¹ÍR<https://s2.coinmarketcap.com/static/img/coins/64x64/5626.png
 ‡
 
-1404/07/1914:05Ôå¨Ç"SARAH*Ø³Ø§Ø±Ø§20.000180:20.92Aš™™™™™,ÀHêÉR=https://s2.coinmarketcap.com/static/img/coins/64x64/37436.png
-—
+1404/07/1914:20Øì¨Ç"SARAH*Ø³Ø§Ø±Ø§20.000180:20.83A×£p=
+W-ÀHÎÇR=https://s2.coinmarketcap.com/static/img/coins/64x64/37436.png
+›
 
-1404/07/1914:06æ¨Ç"BurgerCities*Ø¨Ø±Ú¯Ø± Ø³ÛŒØªØ²20.002500:290.13A      3ÀHÇÈR<https://s2.coinmarketcap.com/static/img/coins/64x64/7158.png
+1404/07/1914:19œì¨Ç"Vega Protocol*ÙˆÚ¯Ø§ Ù¾Ø±ÙˆØªÚ©Ù„20.001722:199.52A®GázÀHæÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/10223.png
 
 
-1404/07/1914:06æ¨Ç"Matr1x Fire*Ù…ØªØ±ÛŒÚ©Ø³ Û± ÙØ§ÛŒØ±20.001602:185.88A®Gáz®ÀH†ÃR=https://s2.coinmarketcap.com/static/img/coins/64x64/29273.png
-›
-
-1404/07/1914:05Ôå¨Ç"Vega Protocol*ÙˆÚ¯Ø§ Ù¾Ø±ÙˆØªÚ©Ù„20.001722:199.85A®GázÀHæÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/10223.png
-“
-
-1404/07/1914:06æ¨Ç"Interlay*Ø§ÛŒÙ†ØªØ±Ù„ÙÛŒ20.001594:184.99Aq=
-×£p1ÀHÑÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/20366.png
+1404/07/1914:20Øì¨Ç"Matr1x Fire*Ù…ØªØ±ÛŒÚ©Ø³ Û± ÙØ§ÛŒØ±20.001601:185.49AÍÌÌÌÌÌÀHÙÂR=https://s2.coinmarketcap.com/static/img/coins/64x64/29273.png
 ˜
 
-1404/07/1914:06æ¨Ç"
-retardcoin*Ø±ÛŒØªØ§Ø±Ø¯Ú©ÙˆÛŒÙ†20.000106:12.26AHáz®GÀH˜¹R=https://s2.coinmarketcap.com/static/img/coins/64x64/36587.png
-š
+1404/07/1914:19œì¨Ç"
+retardcoin*Ø±ÛŒØªØ§Ø±Ø¯Ú©ÙˆÛŒÙ†20.000105:12.12A)\Âõ(ÀHÎ±R=https://s2.coinmarketcap.com/static/img/coins/64x64/36587.png
+“
 
-1404/07/1914:05Ôå¨Ç"Ferrum Network*ÙØ±ÙˆÙ… Ù†ØªÙˆØ±Ú©20.000362:42.04Aq=
-×£p*ÀH›¬R<https://s2.coinmarketcap.com/static/img/coins/64x64/4228.png
+1404/07/1914:20Øì¨Ç"Interlay*Ø§ÛŒÙ†ØªØ±Ù„ÙÛŒ20.001556:180.23A®Gázn3ÀHÇ®R=https://s2.coinmarketcap.com/static/img/coins/64x64/20366.png
 ™
 
-1404/07/1914:06æ¨Ç"Nyan Heroes*Ù†ÛŒØ§Ù† Ù‡ÛŒØ±ÙˆØ²20.001025:118.93A)\Âõ¨MÀHƒ©R=https://s2.coinmarketcap.com/static/img/coins/64x64/13140.png
-
-
-1404/07/1914:06æ¨Ç"Drunk Robots*Ø¯Ø±Ø§Ù†Ú© Ø±ÙˆØ¨Ø§ØªØ²20.000143:16.61A¸…ëQ¸;ÀHœ¤R=https://s2.coinmarketcap.com/static/img/coins/64x64/17588.png
+1404/07/1914:20Øì¨Ç"Nyan Heroes*Ù†ÛŒØ§Ù† Ù‡ÛŒØ±ÙˆØ²20.001024:118.61AfffffÆMÀH—¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/13140.png
 Ÿ
 
-1404/07/1914:06æ¨Ç"Cat Gold Miner*Ú©Øª Ú¯Ù„Ø¯ Ù…Ø§ÛŒÙ†Ø±2
-0.00004281:4.97A)\Âõ¨/ÀHŞ¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/33465.png
+1404/07/1914:19œì¨Ç"Cat Gold Miner*Ú©Øª Ú¯Ù„Ø¯ Ù…Ø§ÛŒÙ†Ø±2
+0.00004282:4.96A…ëQ¸/ÀHğ¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/33465.png
+
+
+1404/07/1914:19œì¨Ç"Drunk Robots*Ø¯Ø±Ø§Ù†Ú© Ø±ÙˆØ¨Ø§ØªØ²20.000143:16.54AÂõ(\Ï;ÀH½¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/17588.png
+š
+
+1404/07/1914:19œì¨Ç"Ferrum Network*ÙØ±ÙˆÙ… Ù†ØªÙˆØ±Ú©20.000356:41.26Aö(\Â50ÀHÃR<https://s2.coinmarketcap.com/static/img/coins/64x64/4228.png
 ‹
 
-1404/07/1914:05Ôå¨Ç"SPECIEX*Ø§Ø³Ù¾Ø³ÛŒâ€ŒØ§Ú©Ø³20.000680:78.93HŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/23524.png
+1404/07/1914:19œì¨Ç"SPECIEX*Ø§Ø³Ù¾Ø³ÛŒâ€ŒØ§Ú©Ø³20.000680:78.80HŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/23524.png
 ›
 
-1404/07/1914:05Ôå¨Ç"Pochita (pochita.biz)*Ù¾ÙˆÚ†ÛŒØªØ§20.000102:11.78Affffff,ÀHş˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/33307.png
+1404/07/1914:19œì¨Ç"Pochita (pochita.biz)*Ù¾ÙˆÚ†ÛŒØªØ§20.000102:11.77A×£p=
+W,ÀHÀ™R=https://s2.coinmarketcap.com/static/img/coins/64x64/33307.png
 ›
 
-1404/07/1914:05Ôå¨Ç"BOZO*Ø¨ÙˆØ²Ùˆ20.000000001385608963635554:0.000161A\Âõ(8ÀHª”R=https://s2.coinmarketcap.com/static/img/coins/64x64/28991.png
+1404/07/1914:19œì¨Ç"BOZO*Ø¨ÙˆØ²Ùˆ20.000000001385608963635554:0.000161A\Âõ(8ÀHª”R=https://s2.coinmarketcap.com/static/img/coins/64x64/28991.png
 ™
 
-1404/07/1914:06æ¨Ç"Pickle Finance*Ù¾ÛŒÚ©Ù„ ÙØ§ÛŒÙ†Ù†Ø³20.0523:6068A…ëQ¸…0ÀHº‹R<https://s2.coinmarketcap.com/static/img/coins/64x64/7022.png
+1404/07/1914:19œì¨Ç"Pickle Finance*Ù¾ÛŒÚ©Ù„ ÙØ§ÛŒÙ†Ù†Ø³20.0523:6058A…ëQ¸…0ÀHº‹R<https://s2.coinmarketcap.com/static/img/coins/64x64/7022.png
 ¢
 
-1404/07/1914:05Ôå¨Ç"	Cocos-BCX*Ú©ÙˆÚ©ÙˆØ³-Ø¨ÛŒâ€ŒØ³ÛŒâ€ŒØ§Ú©Ø³20.001173:136.17Aš™™™™™©¿HıˆR<https://s2.coinmarketcap.com/static/img/coins/64x64/4275.png
+1404/07/1914:19œì¨Ç"	Cocos-BCX*Ú©ÙˆÚ©ÙˆØ³-Ø¨ÛŒâ€ŒØ³ÛŒâ€ŒØ§Ú©Ø³20.001173:135.94Aš™™™™™©¿HıˆR<https://s2.coinmarketcap.com/static/img/coins/64x64/4275.png
 Ñ
 
-1404/07/1914:06æ¨Ç"&Duckies, the canary network for Yellow*0Ø¯Ø§Ú©ÛŒØ²ØŒ Ú©Ù†Ø§Ø±ÛŒ Ù†ØªÙˆØ±Ú© ÙÙˆØ± ÛŒÙ„Ùˆ20.001899:220.35A
+1404/07/1914:19œì¨Ç"&Duckies, the canary network for Yellow*0Ø¯Ø§Ú©ÛŒØ²ØŒ Ú©Ù†Ø§Ø±ÛŒ Ù†ØªÙˆØ±Ú© ÙÙˆØ± ÛŒÙ„Ùˆ20.001899:219.98A
 ×£p=
 Ç?HØ„R=https://s2.coinmarketcap.com/static/img/coins/64x64/25851.png
 Ÿ
 
-1404/07/1914:05Ôå¨Ç"ChainGuardians*Ú†ÛŒÙ† Ú¯Ø§Ø±Ø¯ÛŒØ§Ù†Ø²20.001608:186.62AHáz®G@H±„R<https://s2.coinmarketcap.com/static/img/coins/64x64/8648.png
+1404/07/1914:19œì¨Ç"ChainGuardians*Ú†ÛŒÙ† Ú¯Ø§Ø±Ø¯ÛŒØ§Ù†Ø²20.001608:186.31AHáz®G@H±„R<https://s2.coinmarketcap.com/static/img/coins/64x64/8648.png
 ‰
 
-1404/07/1914:05Ôå¨Ç"MILKBAG*Ù…ÛŒÙ„Ù’Ú©â€ŒØ¨Ú¯20.000110:12.74H¹ƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/32314.png
+1404/07/1914:19œì¨Ç"MILKBAG*Ù…ÛŒÙ„Ù’Ú©â€ŒØ¨Ú¯20.000110:12.72H¹ƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/32314.png
 “
 
-1404/07/1914:05Ôå¨Ç"SolarX*Ø³ÙˆÙ„Ø§Ø± Ø§ÛŒÚ©Ø³20.000774:89.80AìQ¸…«4ÀHşõR=https://s2.coinmarketcap.com/static/img/coins/64x64/31269.png
+1404/07/1914:19œì¨Ç"SolarX*Ø³ÙˆÙ„Ø§Ø± Ø§ÛŒÚ©Ø³20.000774:89.64A)\Âõ¨4ÀHùõR=https://s2.coinmarketcap.com/static/img/coins/64x64/31269.png
 Ÿ
 
-1404/07/1914:05Ôå¨Ç"Fringe Finance*ÙØ±ÛŒÙ†Ø¬ ÙØ§ÛŒÙ†Ù†Ø³20.000145:16.85A…ëQ¸…@H¬æR=https://s2.coinmarketcap.com/static/img/coins/64x64/17456.png
-—
-
-1404/07/1914:05Ôå¨Ç"
-YachtsCoin*ÛŒØ§ØªØ³ Ú©ÙˆÛŒÙ†2
-0.00009358:10.86AÍÌÌÌÌ6ÀH€ÛR=https://s2.coinmarketcap.com/static/img/coins/64x64/35933.png
+1404/07/1914:19œì¨Ç"Fringe Finance*ÙØ±ÛŒÙ†Ø¬ ÙØ§ÛŒÙ†Ù†Ø³20.000142:16.47AìQ¸…ë±?HçÖR=https://s2.coinmarketcap.com/static/img/coins/64x64/17456.png
 
 
-1404/07/1914:05Ôå¨Ç"	Etherland*Ø§ØªØ±Ù„Ù†Ø¯20.002388:277.08A…ëQ¸Ş=ÀH¸ÑR<https://s2.coinmarketcap.com/static/img/coins/64x64/9492.png
-¸
-
-1404/07/1914:05Ôå¨Ç"KILL BIG BEAUTIFUL BILL*%Ú©ÛŒÙ„ Ø¨ÛŒÚ¯ Ø¨ÛŒÙˆØªÛŒÙÙˆÙ„ Ø¨ÛŒÙ„2
-0.00008823:10.24Affffff0ÀH£±R=https://s2.coinmarketcap.com/static/img/coins/64x64/36755.png
-ˆ
-
-1404/07/1914:05Ôå¨Ç"Throne*Ø«Ø±ÙˆÙ†20.000225:26.07AìQ¸…ëÀHé­R=https://s2.coinmarketcap.com/static/img/coins/64x64/10805.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Reboot*
-Ø±ÛŒØ¨ÙˆØª20.000538:62.38AR¸…ëQ*ÀH¥©R=https://s2.coinmarketcap.com/static/img/coins/64x64/28867.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Strike*Ø§Ø³ØªØ±Ø§ÛŒÚ©20.0154:1782A…ëQ¸!ÀHÇ§R<https://s2.coinmarketcap.com/static/img/coins/64x64/8911.png
-¤
-
-1404/07/1914:06æ¨Ç"Gravity Finance*Ú¯Ø±Ø§ÙˆÛŒØªÛŒ ÙØ§ÛŒÙ†Ù†Ø³20.000245:28.40A)\Âõ(ÀHÇ¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/10324.png
-‰
-
-1404/07/1914:06æ¨Ç"MetaQ*Ù…ØªØ§ Ú©ÛŒÙˆ20.0334:3871Aáz®Gáö¿HçŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/19092.png
-˜
-
-1404/07/1914:06æ¨Ç"
-Raiinmaker*Ø±ÙÛŒÙ†â€ŒÙ…ÛŒÚ©Ø±20.008205:952.21A)\Âõè9ÀH–R=https://s2.coinmarketcap.com/static/img/coins/64x64/15884.png
-‘
-
-1404/07/1914:06æ¨Ç"	CeluvPlay*Ø³Ù„Ø§ÙˆÙ¾Ù„ÛŒ20.000349:40.53AÍÌÌÌÌL@ÀHµ‹R=https://s2.coinmarketcap.com/static/img/coins/64x64/38207.png
-¡
-
-1404/07/1914:05Ôå¨Ç"Simon the Gator*Ø³Ø§ÛŒÙ…ÙˆÙ† Ø¯ Ú¯ÛŒØªØ±20.000142:16.45A¸…ëQ8-ÀHõ‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/37759.png
-
-
-1404/07/1914:05Ôå¨Ç"DOJO Protocol*Ø¯ÙˆØ¬Ùˆ Ù¾Ø±ÙˆØªÚ©Ù„2
-0.00009948:11.54Aáz®Gá&ÀH¯‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/32425.png
-™
-
-1404/07/1914:06æ¨Ç"STFX*Ø§Ø³â€ŒØªÛŒâ€ŒØ§Ùâ€ŒØ§Ú©Ø³20.000478:55.42A33333³(ÀH…ˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/23257.png
-–
-
-1404/07/1914:06æ¨Ç"GameCredits*Ú¯ÛŒÙ… Ú©Ø±Ø¯ÛŒØªØ³20.000426:49.42Afffffæ/ÀHó„R;https://s2.coinmarketcap.com/static/img/coins/64x64/576.png
-ª
-
-1404/07/1914:05Ôå¨Ç"Standard Protocol*Ø§Ø³ØªØ§Ù†Ø¯Ø§Ø±Ø¯ Ù¾Ø±ÙˆØªÚ©Ù„20.000959:111.29Aáz®GáÀH“R<https://s2.coinmarketcap.com/static/img/coins/64x64/9251.png
-
-
-1404/07/1914:05Ôå¨Ç"Credbull*Ú©Ø±ÙØ¯Ø¨ÙˆÙ„20.000191:22.22Aö(\ÂõÀHËşR=https://s2.coinmarketcap.com/static/img/coins/64x64/33805.png
-‰
-
-1404/07/1914:05Ôå¨Ç"SOLVE*Ø³ÙˆÙ„â€ŒÙˆ20.000116:13.44A)\Âõh:ÀH§ùR<https://s2.coinmarketcap.com/static/img/coins/64x64/3724.png
-¢
-
-1404/07/1914:05Ôå¨Ç"Umbrella Network*Ø¢Ù…Ø¨ÙØ±Ù„Ø§ Ù†ØªÙˆØ±Ú©20.000267:30.96A…ëQ¸1ÀHÎâR<https://s2.coinmarketcap.com/static/img/coins/64x64/8385.png
-œ
-
-1404/07/1914:05Ôå¨Ç"EAGLEBUILDER*Ø§ÛŒÚ¯Ù„â€ŒØ¨ÛŒÙ„Ø¯Ø±2
-0.00007795:9.05AR¸…ëÑ=ÀHùàR=https://s2.coinmarketcap.com/static/img/coins/64x64/36593.png
-
-
-1404/07/1914:05Ôå¨Ç"	Magaverse*Ù…Ú¯Ø§ÙˆØ±Ø³2
-0.00007778:9.03A=
-×£p}0ÀHÑßR=https://s2.coinmarketcap.com/static/img/coins/64x64/34765.png
-}
-
-1404/07/1914:05Ôå¨Ç"Kinto*
-Ú©ÛŒÙ†ØªÙˆ20.0391:4532H‚ßR=https://s2.coinmarketcap.com/static/img/coins/64x64/36142.png
-©
-
-1404/07/1914:05Ôå¨Ç"ChainAware.ai*!Ú†ÛŒÙ†â€ŒØ§ÙÙˆÙØ± Ø§ÙÛŒâ€ŒØ¢ÛŒ20.002106:244.41A…ëQ¸…ÀHõİR=https://s2.coinmarketcap.com/static/img/coins/64x64/35350.png
-•
-
-1404/07/1914:05Ôå¨Ç"	Ouroboros*Ø§ÙˆØ±ÙˆØ¨ÙˆØ±ÙˆØ³20.001761:204.35A®GázÔ;ÀH‡ÛR<https://s2.coinmarketcap.com/static/img/coins/64x64/4970.png
-‡
-
-1404/07/1914:05Ôå¨Ç"ACENT*Ø§Ø³Ù†Øª2
-0.00005316:6.17A¤p=
-×ã;ÀH¹ÅR<https://s2.coinmarketcap.com/static/img/coins/64x64/9792.png
+1404/07/1914:19œì¨Ç"	Etherland*Ø§ØªØ±Ù„Ù†Ø¯20.002388:276.61A…ëQ¸Ş=ÀH¸ÑR<https://s2.coinmarketcap.com/static/img/coins/64x64/9492.png
 —
 
-1404/07/1914:05Ôå¨Ç"
-LanLan Cat*Ù„Ù†â€ŒÙ„Ù† Ú©Øª2
-0.00000806:0.9356A®Gáz.*ÀHî¯R=https://s2.coinmarketcap.com/static/img/coins/64x64/36574.png
+1404/07/1914:19œì¨Ç"
+YachtsCoin*ÛŒØ§ØªØ³ Ú©ÙˆÛŒÙ†2
+0.00009171:10.62A×£p=
+—7ÀH±ÌR=https://s2.coinmarketcap.com/static/img/coins/64x64/35933.png
+ˆ
+
+1404/07/1914:19œì¨Ç"Throne*Ø«Ø±ÙˆÙ†20.000224:25.96A333333ÀH„¬R=https://s2.coinmarketcap.com/static/img/coins/64x64/10805.png
 Š
 
-1404/07/1914:05Ôå¨Ç"REV3AL*
-Ø±ÛŒÙˆÛŒÙ„20.000191:22.22AÂõ(\ÀH¶£R=https://s2.coinmarketcap.com/static/img/coins/64x64/20546.png
-›
-
-1404/07/1914:05Ôå¨Ç"TOAD*ØªÙˆØ¯20.000000000165889698265636:
-0.00001900A{®Gáz-ÀHó˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/36280.png
-“
-
-1404/07/1914:05Ôå¨Ç"Sakai Vault*Ø³Ø§Ú©Ø§ÛŒ ÙˆÙ„Øª20.0323:3747A…ëQ¸Õ¿H€R=https://s2.coinmarketcap.com/static/img/coins/64x64/23577.png
-
-
-1404/07/1914:05Ôå¨Ç"DeFAI*Ø¯ÛŒâ€ŒÙØ§ÛŒ2
-0.00007192:8.35AìQ¸…«8ÀHôˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/35257.png
-
-
-1404/07/1914:05Ôå¨Ç"MOONDOGE*Ù…ÙˆÙ† Ø¯Ø§Ú˜2
-0.00006689:7.76A333333 ÀHƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/37334.png
-Û
-
-1404/07/1914:05Ôå¨Ç"(Trump Derangement Syndrome (tearsforTDS)*8ØªØ±Ø§Ù…Ù¾ Ø¯Ø±ÛŒÙ†Ø¬Ù…Ù†Øª Ø³ÛŒÙ†Ø¯Ø±ÙˆÙ… (tearsforTDS)2
-0.00006547:7.60Aáz®Ga%ÀHÂÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/33870.png
-¢
-
-1404/07/1914:05Ôå¨Ç"	Baby Bonk*Ø¨ÛŒØ¨ÛŒ Ø¨ÙˆÙ†Ú©20.000000000000261779896811:0Aáz®G¡5ÀHšıR=https://s2.coinmarketcap.com/static/img/coins/64x64/28801.png
-Œ
-
-1404/07/1914:05Ôå¨Ç"Amulet*Ø§Ù…ÛŒÙˆÙ„Øª20.000147:17.05AìQ¸…ëá¿H—ûR=https://s2.coinmarketcap.com/static/img/coins/64x64/29185.png
-¨
-
-1404/07/1914:05Ôå¨Ç"	Akuma Inu*Ø¢Ú©ÙˆÙ…Ø§ Ø§ÛŒÙ†Ùˆ20.00000009720478459658213:0.0113A¸…ëQ¸$ÀH£úR=https://s2.coinmarketcap.com/static/img/coins/64x64/34457.png
-
-
-1404/07/1914:06æ¨Ç"AIRDROP2049*Ø§ÛŒØ±Ø¯Ø±Ø§Ù¾ Û²Û°Û´Û¹2
-0.00005485:6.36Aš™™™™™ÀH©õR=https://s2.coinmarketcap.com/static/img/coins/64x64/33338.png
+1404/07/1914:20Øì¨Ç"Reboot*
+Ø±ÛŒØ¨ÙˆØª20.000538:62.27AR¸…ëQ*ÀH¥©R=https://s2.coinmarketcap.com/static/img/coins/64x64/28867.png
 ¸
 
-1404/07/1914:05Ôå¨Ç"Data Ownership Protocol*$Ø¯ÛŒØªØ§ Ø§ÙˆÙ†Ø±Ø´ÛŒÙ¾ Ù¾Ø±ÙˆØªÚ©Ù„2
-0.00000735:0.8526A
-×£p=
--@H¥õR=https://s2.coinmarketcap.com/static/img/coins/64x64/31456.png
-
+1404/07/1914:19œì¨Ç"KILL BIG BEAUTIFUL BILL*%Ú©ÛŒÙ„ Ø¨ÛŒÚ¯ Ø¨ÛŒÙˆØªÛŒÙÙˆÙ„ Ø¨ÛŒÙ„2
+0.00008707:10.09Aáz®Ga1ÀHœ¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/36755.png
+¤
 
-1404/07/1914:05Ôå¨Ç"PJN*Ù¾ÛŒâ€ŒØ¬ÛŒâ€ŒØ§Ù†2
-0.00006417:7.45A®Gáz:ÀH¢õR=https://s2.coinmarketcap.com/static/img/coins/64x64/37583.png
-
+1404/07/1914:19œì¨Ç"Gravity Finance*Ú¯Ø±Ø§ÙˆÛŒØªÛŒ ÙØ§ÛŒÙ†Ù†Ø³20.000245:28.35A)\Âõ(ÀHÇ¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/10324.png
+‰
 
-1404/07/1914:05Ôå¨Ç"Angola*Ø¢Ù†Ú¯ÙˆÙ„Ø§2
-0.00003190:3.70A¤p=
-×ã7ÀH©ñR=https://s2.coinmarketcap.com/static/img/coins/64x64/22031.png
-
-
-1404/07/1914:06æ¨Ç"Digimon*Ø¯ÛŒØ¬ÛŒÙ…ÙˆÙ†2
-0.00006263:7.27A®GázÔ0ÀH¤éR=https://s2.coinmarketcap.com/static/img/coins/64x64/35221.png
-’
-
-1404/07/1914:05Ôå¨Ç"	Soarchain*Ø³ÙˆØ§Ø± Ú†ÛŒÙ†20.000619:71.83A…ëQ¸…'ÀHáæR=https://s2.coinmarketcap.com/static/img/coins/64x64/35041.png
-¡
-
-1404/07/1914:05Ôå¨Ç"Cantina Royale*Ú©Ø§Ù†ØªÛŒÙ†Ø§ Ø±ÙˆÛŒØ§Ù„20.000252:29.26AR¸…ëQ9ÀH†ßR=https://s2.coinmarketcap.com/static/img/coins/64x64/21286.png
-£
-
-1404/07/1914:05Ôå¨Ç"Primex Finance*Ù¾Ø±Ø§ÛŒÙ…Ú©Ø³ ÙØ§ÛŒÙ†Ù†Ø³20.000852:98.87AHáz®Gñ¿Hâ×R=https://s2.coinmarketcap.com/static/img/coins/64x64/20738.png
-®
-
-1404/07/1914:05Ôå¨Ç"MOODENG (moodengbnb.com)*Ù…Ùˆ Ø¯Ù†Ú¯20.0000001816734961494893:0.0211AR¸…ëQÀH£ËR=https://s2.coinmarketcap.com/static/img/coins/64x64/33712.png
-¡
-
-1404/07/1914:05Ôå¨Ç"Linear Finance*Ù„ÛŒÙ†ÛŒØ± ÙØ§ÛŒÙ†Ù†Ø³2
-0.00000583:0.6768AÍÌÌÌÌ5ÀH¾ÇR<https://s2.coinmarketcap.com/static/img/coins/64x64/7102.png
-†
-
-1404/07/1914:05Ôå¨Ç"Hyve*Ù‡Ø§ÛŒÙˆ20.002192:254.39AR¸…ë‘6ÀH˜·R<https://s2.coinmarketcap.com/static/img/coins/64x64/7552.png
-“
-
-1404/07/1914:05Ôå¨Ç"DOGEai*Ø¯ÙˆØ¬ Ø§ÛŒâ€ŒØ¢ÛŒ2
-0.00007265:8.43A)\Âõ(9ÀHØ©R=https://s2.coinmarketcap.com/static/img/coins/64x64/35601.png
-’
-
-1404/07/1914:06æ¨Ç"	Valentine*ÙˆÙ„Ù†ØªØ§ÛŒÙ†2
-0.00005446:6.32A¸…ëQ8*ÀHº©R=https://s2.coinmarketcap.com/static/img/coins/64x64/37405.png
-…
-
-1404/07/1914:05Ôå¨Ç"Brat*Ø¨Ø±Øª2
-0.00005403:6.27Aáz®Gá ÀH‹¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/35726.png
-Ÿ
-
-1404/07/1914:05Ôå¨Ç"Kobushi*Ú©ÙˆØ¨ÙˆØ´ÛŒ20.00000012725322163647307:0.0148Aš™™™™™õ¿H¢R=https://s2.coinmarketcap.com/static/img/coins/64x64/36479.png
-›
-
-1404/07/1914:06æ¨Ç"	StoryFire*Ø§Ø³ØªÙˆØ±ÛŒ ÙØ§ÛŒØ±2
-0.00000842:0.9776A¸…ëQ¸@HÈR=https://s2.coinmarketcap.com/static/img/coins/64x64/30179.png
-Š
-
-1404/07/1914:05Ôå¨Ç"STAGE*
-Ø§Ø³ØªÛŒØ¬2
-0.00003414:3.96Aáz®Ga*ÀHÑ›R=https://s2.coinmarketcap.com/static/img/coins/64x64/31747.png
-‹
-
-1404/07/1914:05Ôå¨Ç"Arcade*
-Ø¢Ø±Ú©ÛŒØ¯20.001464:169.90AìQ¸…ëÀHç’R=https://s2.coinmarketcap.com/static/img/coins/64x64/30362.png
-ƒ
-
-1404/07/1914:06æ¨Ç"Oddz*Ø¢Ø¯Ø²20.000520:60.31A
-×£p=
-"ÀHø‘R<https://s2.coinmarketcap.com/static/img/coins/64x64/8717.png
-Š
-
-1404/07/1914:05Ôå¨Ç"Valyr*
-ÙˆØ§Ù„ÛŒØ±2
-0.00005115:5.94AHáz®Ç1ÀH·R=https://s2.coinmarketcap.com/static/img/coins/64x64/38374.png
-š
-
-1404/07/1914:05Ôå¨Ç"BOSS FIGHTERS*Ø¨Ø§Ø³ ÙØ§ÛŒØªØ±Ø²20.000458:53.13AìQ¸…ë2ÀHR=https://s2.coinmarketcap.com/static/img/coins/64x64/36325.png
-
-
-1404/07/1914:05Ôå¨Ç"Nibbles*
-Ù†ÛŒØ¨Ù„Ø²20.00000035852634026440613:0.0416Aö(\Â52ÀHŞR=https://s2.coinmarketcap.com/static/img/coins/64x64/35504.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Izzy*Ø§ÛŒØ²ÛŒ2
-0.00005174:6.00Aö(\Âõ,ÀHüŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/36519.png
-
-
-1404/07/1914:05Ôå¨Ç"OMalley*Ø§ÙˆÙ…Ø§Ù„ÛŒ2
-0.00000550:0.6384A
-×£p=Š'ÀHæ‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/36668.png
+1404/07/1914:20Øì¨Ç"MetaQ*Ù…ØªØ§ Ú©ÛŒÙˆ20.0334:3870A×£p=
+×ó¿HÔ R=https://s2.coinmarketcap.com/static/img/coins/64x64/19092.png
 ‘
 
-1404/07/1914:05Ôå¨Ç"tomiNet*ØªÙˆÙ…ÛŒ Ù†Øª2
-0.00001156:1.3421A…ëQ¸EN@HçR=https://s2.coinmarketcap.com/static/img/coins/64x64/23246.png
+1404/07/1914:20Øì¨Ç"	CeluvPlay*Ø³Ù„Ø§ÙˆÙ¾Ù„ÛŒ20.000360:41.67A)\Âõ(>ÀHçR=https://s2.coinmarketcap.com/static/img/coins/64x64/38207.png
+Š
+
+1404/07/1914:19œì¨Ç"Strike*Ø§Ø³ØªØ±Ø§ÛŒÚ©20.0149:1723AÍÌÌÌÌL)ÀH™’R<https://s2.coinmarketcap.com/static/img/coins/64x64/8911.png
+˜
+
+1404/07/1914:20Øì¨Ç"
+Raiinmaker*Ø±ÙÛŒÙ†â€ŒÙ…ÛŒÚ©Ø±20.008206:950.70Aš™™™™™8ÀHŸR=https://s2.coinmarketcap.com/static/img/coins/64x64/15884.png
+
+
+1404/07/1914:19œì¨Ç"DOJO Protocol*Ø¯ÙˆØ¬Ùˆ Ù¾Ø±ÙˆØªÚ©Ù„2
+0.00009950:11.53A×£p=
+×&ÀHÀ‰R=https://s2.coinmarketcap.com/static/img/coins/64x64/32425.png
+™
+
+1404/07/1914:19œì¨Ç"STFX*Ø§Ø³â€ŒØªÛŒâ€ŒØ§Ùâ€ŒØ§Ú©Ø³20.000478:55.33A33333³(ÀH…ˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/23257.png
+¡
+
+1404/07/1914:19œì¨Ç"Simon the Gator*Ø³Ø§ÛŒÙ…ÙˆÙ† Ø¯ Ú¯ÛŒØªØ±20.000141:16.33A×£p=
+W.ÀHÿ…R=https://s2.coinmarketcap.com/static/img/coins/64x64/37759.png
+–
+
+1404/07/1914:19œì¨Ç"GameCredits*Ú¯ÛŒÙ… Ú©Ø±Ø¯ÛŒØªØ³20.000426:49.34Afffffæ/ÀHó„R;https://s2.coinmarketcap.com/static/img/coins/64x64/576.png
+
+
+1404/07/1914:19œì¨Ç"Credbull*Ú©Ø±ÙØ¯Ø¨ÙˆÙ„20.000191:22.18A333333ÀH±şR=https://s2.coinmarketcap.com/static/img/coins/64x64/33805.png
+‰
+
+1404/07/1914:19œì¨Ç"SOLVE*Ø³ÙˆÙ„â€ŒÙˆ20.000116:13.41A®Gázn:ÀH“ùR<https://s2.coinmarketcap.com/static/img/coins/64x64/3724.png
+¢
+
+1404/07/1914:19œì¨Ç"Umbrella Network*Ø¢Ù…Ø¨ÙØ±Ù„Ø§ Ù†ØªÙˆØ±Ú©20.000268:31.05AHáz®G2ÀH¸åR<https://s2.coinmarketcap.com/static/img/coins/64x64/8385.png
+œ
+
+1404/07/1914:19œì¨Ç"EAGLEBUILDER*Ø§ÛŒÚ¯Ù„â€ŒØ¨ÛŒÙ„Ø¯Ø±2
+0.00007846:9.09A¤p=
+×ã<ÀHüäR=https://s2.coinmarketcap.com/static/img/coins/64x64/36593.png
+
+
+1404/07/1914:19œì¨Ç"	Magaverse*Ù…Ú¯Ø§ÙˆØ±Ø³2
+0.00007776:9.01A     €0ÀH½ßR=https://s2.coinmarketcap.com/static/img/coins/64x64/34765.png
+}
+
+1404/07/1914:19œì¨Ç"Kinto*
+Ú©ÛŒÙ†ØªÙˆ20.0391:4524H‚ßR=https://s2.coinmarketcap.com/static/img/coins/64x64/36142.png
+©
+
+1404/07/1914:20Øì¨Ç"ChainAware.ai*!Ú†ÛŒÙ†â€ŒØ§ÙÙˆÙØ± Ø§ÙÛŒâ€ŒØ¢ÛŒ20.002105:243.92AÃõ(\ÂÀHİİR=https://s2.coinmarketcap.com/static/img/coins/64x64/35350.png
+ª
+
+1404/07/1914:19œì¨Ç"Standard Protocol*Ø§Ø³ØªØ§Ù†Ø¯Ø§Ø±Ø¯ Ù¾Ø±ÙˆØªÚ©Ù„20.000901:104.39Aö(\Âõ%ÀH¶ÚR<https://s2.coinmarketcap.com/static/img/coins/64x64/9251.png
+‡
+
+1404/07/1914:19œì¨Ç"ACENT*Ø§Ø³Ù†Øª2
+0.00005314:6.16Aö(\Âµ4ÀH›ÅR<https://s2.coinmarketcap.com/static/img/coins/64x64/9792.png
+—
+
+1404/07/1914:19œì¨Ç"
+LanLan Cat*Ù„Ù†â€ŒÙ„Ù† Ú©Øª2
+0.00000806:0.9340A®Gáz.*ÀHî¯R=https://s2.coinmarketcap.com/static/img/coins/64x64/36574.png
+Š
+
+1404/07/1914:20Øì¨Ç"REV3AL*
+Ø±ÛŒÙˆÛŒÙ„20.000191:22.18AÂõ(\ÀH¶£R=https://s2.coinmarketcap.com/static/img/coins/64x64/20546.png
+›
+
+1404/07/1914:19œì¨Ç"TOAD*ØªÙˆØ¯20.000000000165889698265636:
+0.00001900A{®Gáz-ÀHó˜R=https://s2.coinmarketcap.com/static/img/coins/64x64/36280.png
+
+
+1404/07/1914:19œì¨Ç"DeFAI*Ø¯ÛŒâ€ŒÙØ§ÛŒ2
+0.00007378:8.55A¸…ëQ¸6ÀH­–R=https://s2.coinmarketcap.com/static/img/coins/64x64/35257.png
+“
+
+1404/07/1914:19œì¨Ç"Sakai Vault*Ø³Ø§Ú©Ø§ÛŒ ÙˆÙ„Øª20.0323:3740AHáz®GÑ¿HèŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/23577.png
+
+
+1404/07/1914:19œì¨Ç"MOONDOGE*Ù…ÙˆÙ† Ø¯Ø§Ú˜2
+0.00006689:7.75A333333 ÀHƒR=https://s2.coinmarketcap.com/static/img/coins/64x64/37334.png
 •
 
-1404/07/1914:06æ¨Ç"	ApexToken*Ø§Ù¾Ú©Ø³ ØªÙˆÚ©Ù†20.001259:146.06A)\Âõ¨.ÀHşüR=https://s2.coinmarketcap.com/static/img/coins/64x64/30467.png
+1404/07/1914:19œì¨Ç"	Ouroboros*Ø§ÙˆØ±ÙˆØ¨ÙˆØ±ÙˆØ³20.001502:174.03Aö(\Â5CÀH¼‚R<https://s2.coinmarketcap.com/static/img/coins/64x64/4970.png
+Û
+
+1404/07/1914:19œì¨Ç"(Trump Derangement Syndrome (tearsforTDS)*8ØªØ±Ø§Ù…Ù¾ Ø¯Ø±ÛŒÙ†Ø¬Ù…Ù†Øª Ø³ÛŒÙ†Ø¯Ø±ÙˆÙ… (tearsforTDS)2
+0.00006547:7.59Aáz®Ga%ÀHÂÿR=https://s2.coinmarketcap.com/static/img/coins/64x64/33870.png
+Œ
+
+1404/07/1914:19œì¨Ç"Amulet*Ø§Ù…ÛŒÙˆÙ„Øª20.000147:17.02AHáz®Gá¿H—ûR=https://s2.coinmarketcap.com/static/img/coins/64x64/29185.png
+¢
+
+1404/07/1914:19œì¨Ç"	Baby Bonk*Ø¨ÛŒØ¨ÛŒ Ø¨ÙˆÙ†Ú©20.000000000000260192837755:0A…ëQ¸…3ÀHúR=https://s2.coinmarketcap.com/static/img/coins/64x64/28801.png
+
+
+1404/07/1914:19œì¨Ç"PJN*Ù¾ÛŒâ€ŒØ¬ÛŒâ€ŒØ§Ù†2
+0.00006417:7.43A®Gáz:ÀH¢õR=https://s2.coinmarketcap.com/static/img/coins/64x64/37583.png
+
+
+1404/07/1914:19œì¨Ç"AIRDROP2049*Ø§ÛŒØ±Ø¯Ø±Ø§Ù¾ Û²Û°Û´Û¹2
+0.00005484:6.35AHáz®GÀHõR=https://s2.coinmarketcap.com/static/img/coins/64x64/33338.png
+¸
+
+1404/07/1914:19œì¨Ç"Data Ownership Protocol*$Ø¯ÛŒØªØ§ Ø§ÙˆÙ†Ø±Ø´ÛŒÙ¾ Ù¾Ø±ÙˆØªÚ©Ù„2
+0.00000734:0.8505A\Âõ(Ü,@HòôR=https://s2.coinmarketcap.com/static/img/coins/64x64/31456.png
+¨
+
+1404/07/1914:19œì¨Ç"	Akuma Inu*Ø¢Ú©ÙˆÙ…Ø§ Ø§ÛŒÙ†Ùˆ20.00000009574725727289266:0.0111AHáz®G'ÀH×òR=https://s2.coinmarketcap.com/static/img/coins/64x64/34457.png
+
+
+1404/07/1914:19œì¨Ç"Angola*Ø¢Ù†Ú¯ÙˆÙ„Ø§2
+0.00003161:3.66AÃõ(\Â8ÀHêìR=https://s2.coinmarketcap.com/static/img/coins/64x64/22031.png
+
+
+1404/07/1914:20Øì¨Ç"Digimon*Ø¯ÛŒØ¬ÛŒÙ…ÙˆÙ†2
+0.00006203:7.19A)\Âõ¨1ÀHËäR=https://s2.coinmarketcap.com/static/img/coins/64x64/35221.png
+’
+
+1404/07/1914:19œì¨Ç"	Soarchain*Ø³ÙˆØ§Ø± Ú†ÛŒÙ†20.000615:71.31AÃõ(\B)ÀH†äR=https://s2.coinmarketcap.com/static/img/coins/64x64/35041.png
+¡
+
+1404/07/1914:19œì¨Ç"Cantina Royale*Ú©Ø§Ù†ØªÛŒÙ†Ø§ Ø±ÙˆÛŒØ§Ù„20.000251:29.04A=
+×£p½9ÀH•ÜR=https://s2.coinmarketcap.com/static/img/coins/64x64/21286.png
+£
+
+1404/07/1914:19œì¨Ç"Primex Finance*Ù¾Ø±Ø§ÛŒÙ…Ú©Ø³ ÙØ§ÛŒÙ†Ù†Ø³20.000852:98.69A…ëQ¸…Û?HÛ×R=https://s2.coinmarketcap.com/static/img/coins/64x64/20738.png
+®
+
+1404/07/1914:20Øì¨Ç"MOODENG (moodengbnb.com)*Ù…Ùˆ Ø¯Ù†Ú¯20.0000001816734961494893:0.0210AR¸…ëQÀH£ËR=https://s2.coinmarketcap.com/static/img/coins/64x64/33712.png
+¡
+
+1404/07/1914:19œì¨Ç"Linear Finance*Ù„ÛŒÙ†ÛŒØ± ÙØ§ÛŒÙ†Ù†Ø³2
+0.00000583:0.6757AHáz®5ÀH¾ÇR<https://s2.coinmarketcap.com/static/img/coins/64x64/7102.png
+˜
+
+1404/07/1914:19œì¨Ç"WOM Protocol*ÙˆÙˆÙ… Ù¾Ø±ÙˆØªÚ©Ù„20.000293:33.89AìQ¸…KHÀH‡¹R<https://s2.coinmarketcap.com/static/img/coins/64x64/5328.png
+†
+
+1404/07/1914:19œì¨Ç"Hyve*Ù‡Ø§ÛŒÙˆ20.002161:250.41A¤p=
+×£7ÀH‰±R<https://s2.coinmarketcap.com/static/img/coins/64x64/7552.png
+Ÿ
+
+1404/07/1914:19œì¨Ç"Kobushi*Ú©ÙˆØ¨ÙˆØ´ÛŒ20.00000013172678489254555:0.0153A      @Hø°R=https://s2.coinmarketcap.com/static/img/coins/64x64/36479.png
+’
+
+1404/07/1914:19œì¨Ç"	Valentine*ÙˆÙ„Ù†ØªØ§ÛŒÙ†2
+0.00005446:6.31A¸…ëQ8*ÀHº©R=https://s2.coinmarketcap.com/static/img/coins/64x64/37405.png
+“
+
+1404/07/1914:20Øì¨Ç"DOGEai*Ø¯ÙˆØ¬ Ø§ÛŒâ€ŒØ¢ÛŒ2
+0.00007216:8.36A)\Âõ¨9ÀHè¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/35601.png
+›
+
+1404/07/1914:20Øì¨Ç"	StoryFire*Ø§Ø³ØªÙˆØ±ÛŒ ÙØ§ÛŒØ±2
+0.00000842:0.9759A¸…ëQ¸@HÈR=https://s2.coinmarketcap.com/static/img/coins/64x64/30179.png
+Š
+
+1404/07/1914:19œì¨Ç"STAGE*
+Ø§Ø³ØªÛŒØ¬2
+0.00003413:3.95A\Âõ(Ü*ÀH¾›R=https://s2.coinmarketcap.com/static/img/coins/64x64/31747.png
+‹
+
+1404/07/1914:19œì¨Ç"Arcade*
+Ø¢Ø±Ú©ÛŒØ¯20.001464:169.61AìQ¸…ëÀHç’R=https://s2.coinmarketcap.com/static/img/coins/64x64/30362.png
+ƒ
+
+1404/07/1914:19œì¨Ç"Oddz*Ø¢Ø¯Ø²20.000520:60.19A×£p=
+W#ÀHç‘R<https://s2.coinmarketcap.com/static/img/coins/64x64/8717.png
+Š
+
+1404/07/1914:19œì¨Ç"Valyr*
+ÙˆØ§Ù„ÛŒØ±2
+0.00005115:5.93AHáz®Ç1ÀH·R=https://s2.coinmarketcap.com/static/img/coins/64x64/38374.png
+š
+
+1404/07/1914:20Øì¨Ç"BOSS FIGHTERS*Ø¨Ø§Ø³ ÙØ§ÛŒØªØ±Ø²20.000458:53.02Aq=
+×£ğ2ÀHşR=https://s2.coinmarketcap.com/static/img/coins/64x64/36325.png
+‡
+
+1404/07/1914:19œì¨Ç"Izzy*Ø§ÛŒØ²ÛŒ2
+0.00005174:5.99Aö(\Âõ,ÀHüŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/36519.png
+
+
+1404/07/1914:19œì¨Ç"Nibbles*
+Ù†ÛŒØ¨Ù„Ø²20.00000035588523335059833:0.0412AÂõ(\Ï2ÀHçŠR=https://s2.coinmarketcap.com/static/img/coins/64x64/35504.png
+…
+
+1404/07/1914:19œì¨Ç"Brat*Ø¨Ø±Øª2
+0.00005003:5.80A     €+ÀHğ†R=https://s2.coinmarketcap.com/static/img/coins/64x64/35726.png
+‘
+
+1404/07/1914:19œì¨Ç"tomiNet*ØªÙˆÙ…ÛŒ Ù†Øª2
+0.00001164:1.3487A¸…ëQøL@H¯„R=https://s2.coinmarketcap.com/static/img/coins/64x64/23246.png
+
+
+1404/07/1914:19œì¨Ç"OMalley*Ø§ÙˆÙ…Ø§Ù„ÛŒ2
+0.00000550:0.6373A
+×£p=Š'ÀHæ‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/36668.png
+•
+
+1404/07/1914:19œì¨Ç"	ApexToken*Ø§Ù¾Ú©Ø³ ØªÙˆÚ©Ù†20.001256:145.57AHáz®G/ÀH®üR=https://s2.coinmarketcap.com/static/img/coins/64x64/30467.png
 «
 
-1404/07/1914:06æ¨Ç"Degen Arena*Ø¯Ø¬Ù† Ø¢Ø±Ù†Ø§20.000000000114732891819466:
+1404/07/1914:20Øì¨Ç"Degen Arena*Ø¯Ø¬Ù† Ø¢Ø±Ù†Ø§20.000000000114732891819466:
 0.00001300A
 ×£p=J4ÀHŠùR=https://s2.coinmarketcap.com/static/img/coins/64x64/36820.png
 ‘
 
-1404/07/1914:05Ôå¨Ç"Exverse*Ø§Ú©Ø³â€ŒÙˆØ±Ø³20.001492:173.13Aö(\ÂõÀHêöR=https://s2.coinmarketcap.com/static/img/coins/64x64/30772.png
+1404/07/1914:19œì¨Ç"Exverse*Ø§Ú©Ø³â€ŒÙˆØ±Ø³20.001491:172.72Aö(\ÂõÀHÉöR=https://s2.coinmarketcap.com/static/img/coins/64x64/30772.png
 ˆ
 
-1404/07/1914:06æ¨Ç"SONM*Ø³Ø§Ù† Ø§Ù…20.000137:15.87A33333ó4@H…ãR<https://s2.coinmarketcap.com/static/img/coins/64x64/9931.png
+1404/07/1914:20Øì¨Ç"SONM*Ø³Ø§Ù† Ø§Ù…20.000137:15.84A33333ó4@H…ãR<https://s2.coinmarketcap.com/static/img/coins/64x64/9931.png
 
 
-1404/07/1914:05Ôå¨Ç"Snibbu*Ø§Ø³Ù†ÛŒØ¨Ùˆ2
-0.00006767:7.85A¤p=
+1404/07/1914:19œì¨Ç"Snibbu*Ø§Ø³Ù†ÛŒØ¨Ùˆ2
+0.00006767:7.84A¤p=
 ×£0ÀH¼àR=https://s2.coinmarketcap.com/static/img/coins/64x64/36690.png
 ’
 
-1404/07/1914:05Ôå¨Ç"	Meta Apes*Ù…ØªØ§ Ø§ÛŒÙ¾Ø²20.000280:32.53A¸…ëQ8*@HøÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/21013.png
-¦
-
-1404/07/1914:05Ôå¨Ç"RealGOAT*Ø±ÛŒÛŒÙ„ Ú¯ÙˆØª20.000000002026226338405656:0.000235A{®Gá:1ÀH¶ÌR=https://s2.coinmarketcap.com/static/img/coins/64x64/31900.png
+1404/07/1914:19œì¨Ç"	Meta Apes*Ù…ØªØ§ Ø§ÛŒÙ¾Ø²20.000280:32.47A¸…ëQ8*@HøÏR=https://s2.coinmarketcap.com/static/img/coins/64x64/21013.png
 ‡
 
-1404/07/1914:06æ¨Ç"	Pope meme*Ù¾ÙˆÙ¾ Ù…ÛŒÙ…20.000210:24.38H ÈR=https://s2.coinmarketcap.com/static/img/coins/64x64/36408.png
+1404/07/1914:19œì¨Ç"	Pope meme*Ù¾ÙˆÙ¾ Ù…ÛŒÙ…20.000210:24.34H ÈR=https://s2.coinmarketcap.com/static/img/coins/64x64/36408.png
+¥
+
+1404/07/1914:19œì¨Ç"RealGOAT*Ø±ÛŒÛŒÙ„ Ú¯ÙˆØª20.00000000196993551791187:0.000228AHáz®‡3ÀH˜ÃR=https://s2.coinmarketcap.com/static/img/coins/64x64/31900.png
 š
 
-1404/07/1914:05Ôå¨Ç"AIGOV*Ø§ÛŒâ€ŒØ¢ÛŒ Ø¬ÛŒ Ø§Ùˆ ÙˆÛŒ2
-0.00005617:6.52AHáz®1ÀH½ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/36643.png
+1404/07/1914:19œì¨Ç"AIGOV*Ø§ÛŒâ€ŒØ¢ÛŒ Ø¬ÛŒ Ø§Ùˆ ÙˆÛŒ2
+0.00005568:6.45A     À1ÀHÛ½R=https://s2.coinmarketcap.com/static/img/coins/64x64/36643.png
 ’
 
-1404/07/1914:05Ôå¨Ç"	BloodLoop*Ø¨Ù„ÙˆØ¯ Ù„ÙˆÙ¾20.000775:89.92A…ëQ¸@H¥½R=https://s2.coinmarketcap.com/static/img/coins/64x64/31629.png
+1404/07/1914:19œì¨Ç"	BloodLoop*Ø¨Ù„ÙˆØ¯ Ù„ÙˆÙ¾20.000775:89.74Aáz®Gá@Hš½R=https://s2.coinmarketcap.com/static/img/coins/64x64/31629.png
 •
 
-1404/07/1914:05Ôå¨Ç"	HODL Coin*Ù‡ÙˆØ¯Ù„ Ú©ÙˆÛŒÙ†2
-0.00004046:4.70A®Gázî>ÀHŒ¼R=https://s2.coinmarketcap.com/static/img/coins/64x64/37990.png
+1404/07/1914:19œì¨Ç"	HODL Coin*Ù‡ÙˆØ¯Ù„ Ú©ÙˆÛŒÙ†2
+0.00004024:4.66A¸…ëQ8?ÀH²ºR=https://s2.coinmarketcap.com/static/img/coins/64x64/37990.png
 Œ
 
-1404/07/1914:05Ôå¨Ç"Fabwelt*ÙØ¨ ÙˆÙ„Øª20.000175:20.29A®Gáz®ó¿Hí¸R=https://s2.coinmarketcap.com/static/img/coins/64x64/14681.png
+1404/07/1914:20Øì¨Ç"Fabwelt*ÙØ¨ ÙˆÙ„Øª20.000175:20.26A®Gáz®ó¿Hí¸R=https://s2.coinmarketcap.com/static/img/coins/64x64/14681.png
 ˆ
 
-1404/07/1914:06æ¨Ç"All in*Ø¢Ù„ Ø§ÛŒÙ†20.0415:4810Aš™™™™™ù¿Hú¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/22919.png
+1404/07/1914:20Øì¨Ç"All in*Ø¢Ù„ Ø§ÛŒÙ†20.0415:4802Aš™™™™™ù¿Hú¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/22919.png
 ´
 
-1404/07/1914:05Ôå¨Ç"Real Sociedad Fan Token*/ØªÙˆÚ©Ù† Ù‡ÙˆØ§Ø¯Ø§Ø±ÛŒ Ø±Ø¦Ø§Ù„ Ø³ÙˆØ³ÛŒØ¯Ø§Ø¯20.0378:4386HÓ¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/23411.png
+1404/07/1914:19œì¨Ç"Real Sociedad Fan Token*/ØªÙˆÚ©Ù† Ù‡ÙˆØ§Ø¯Ø§Ø±ÛŒ Ø±Ø¦Ø§Ù„ Ø³ÙˆØ³ÛŒØ¯Ø§Ø¯20.0378:4378HÓ¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/23411.png
 ¡
 
-1404/07/1914:05Ôå¨Ç"NeurochainAI*Ù†ÙˆØ±Ùˆ Ú†ÛŒÙ† Ø§ÛŒâ€ŒØ¢ÛŒ20.000146:16.89Aáz®GáÀHŠ¶R=https://s2.coinmarketcap.com/static/img/coins/64x64/32583.png
+1404/07/1914:20Øì¨Ç"NeurochainAI*Ù†ÙˆØ±Ùˆ Ú†ÛŒÙ† Ø§ÛŒâ€ŒØ¢ÛŒ20.000145:16.84AÃõ(\B ÀH×µR=https://s2.coinmarketcap.com/static/img/coins/64x64/32583.png
+’
+
+1404/07/1914:20Øì¨Ç"SolBox*Ø³ÙˆÙ„â€ŒØ¨Ø§Ú©Ø³2
+0.00003862:4.47AR¸…ëÑ3ÀHÔ­R=https://s2.coinmarketcap.com/static/img/coins/64x64/36836.png
 
 
-1404/07/1914:05Ôå¨Ç"MetaBeat*Ù…ØªØ§ Ø¨ÛŒØª2
-0.00002923:3.39A¤p=
-×£ÀHä²R=https://s2.coinmarketcap.com/static/img/coins/64x64/21020.png
-’
-
-1404/07/1914:06æ¨Ç"SolBox*Ø³ÙˆÙ„â€ŒØ¨Ø§Ú©Ø³2
-0.00003862:4.48AR¸…ëÑ3ÀHÔ­R=https://s2.coinmarketcap.com/static/img/coins/64x64/36836.png
-
-
-1404/07/1914:05Ôå¨Ç"TDM*ØªÛŒâ€ŒØ¯ÛŒâ€ŒØ§Ù…20.000415:48.19A¸…ëQx6ÀH ¨R=https://s2.coinmarketcap.com/static/img/coins/64x64/33322.png
-’
-
-1404/07/1914:05Ôå¨Ç"	Dogenarii*Ø¯ÙˆÚ˜Ù†Ø§Ø±ÛŒ2
-0.00003669:4.26A¤p=
-×#/ÀHÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/38306.png
+1404/07/1914:19œì¨Ç"MetaBeat*Ù…ØªØ§ Ø¨ÛŒØª2
+0.00002842:3.29A
+×£p=Ê<ÀH¡ªR=https://s2.coinmarketcap.com/static/img/coins/64x64/21020.png
 ˆ
 
-1404/07/1914:06æ¨Ç"Arix*
-Ø§Ø±ÛŒÚ©Ø³20.000577:66.93AR¸…ë‘8ÀH·šR=https://s2.coinmarketcap.com/static/img/coins/64x64/11862.png
-œ
-
-1404/07/1914:06æ¨Ç"Neos.ai*Ù†Ø¦ÙˆØ³ Ø¯Ø§Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.000361:41.86AHáz®G6ÀHå™R=https://s2.coinmarketcap.com/static/img/coins/64x64/34418.png
-‡
-
-1404/07/1914:05Ôå¨Ç"Lithium*Ù„ÛŒØªÛŒÙˆÙ…2
-0.00000686:0.7967H“™R=https://s2.coinmarketcap.com/static/img/coins/64x64/10527.png
-‘
-
-1404/07/1914:05Ôå¨Ç"Metadrip*Ù…ØªØ§Ø¯Ø±ÛŒÙ¾2
-0.00003575:4.15A¤p=
-×#2ÀH©—R=https://s2.coinmarketcap.com/static/img/coins/64x64/36032.png
-‘
-
-1404/07/1914:05Ôå¨Ç"OrbitAI*Ø§ÙˆØ±Ø¨ÛŒØª Ø§ÛŒâ€ŒØ¢ÛŒ20.003671:426.02HºR=https://s2.coinmarketcap.com/static/img/coins/64x64/34931.png
-‘
-
-1404/07/1914:05Ôå¨Ç"	Choruz AI*Ú†ÙˆØ±ÙˆØ² Ø§ÛŒâ€ŒØ¢ÛŒ2
-0.00003692:4.29H”R=https://s2.coinmarketcap.com/static/img/coins/64x64/35681.png
-›
-
-1404/07/1914:06æ¨Ç"Billy on SUI*Ø¨ÛŒÙ„ÛŒ Ø¢Ù† Ø³ÙˆÛŒ2
-0.00005776:6.70A®GázDÀHÒˆR=https://s2.coinmarketcap.com/static/img/coins/64x64/38225.png
-†
-
-1404/07/1914:06æ¨Ç"Lux*Ù„ÙˆÚ©Ø³2
-0.00003363:3.90A33333s3@Hß†R=https://s2.coinmarketcap.com/static/img/coins/64x64/35680.png
-
-
-1404/07/1914:05Ôå¨Ç"NDC*Ø§Ù†â€ŒØ¯ÛŒâ€ŒØ³ÛŒ20.004435:514.67A\Âõ(:ÀHóşR=https://s2.coinmarketcap.com/static/img/coins/64x64/26289.png
-‘
-
-1404/07/1914:05Ôå¨Ç"MetaDOS*Ù…ØªØ§ Ø¯ÙˆØ³2
-0.00000982:1.1399AÍÌÌÌÌL#ÀHùüR=https://s2.coinmarketcap.com/static/img/coins/64x64/30603.png
-
-
-1404/07/1914:05Ôå¨Ç"Mambo*
-Ù…Ø§Ù…Ø¨Ùˆ20.000000032348281415200244:0.003754A333333/ÀHÜüR=https://s2.coinmarketcap.com/static/img/coins/64x64/36588.png
-•
-
-1404/07/1914:05Ôå¨Ç"REGENT COIN*Ø±ÛŒØ¬Ù†Øª Ú©ÙˆÛŒÙ†20.0112:1300A…ëQ¸@HêûR=https://s2.coinmarketcap.com/static/img/coins/64x64/22897.png
-—
-
-1404/07/1914:05Ôå¨Ç"Thetan Arena*ØªØªØ§Ù† Ø¢Ø±Ù†Ø§20.000284:32.90A®GázÀHÍûR=https://s2.coinmarketcap.com/static/img/coins/64x64/11926.png
-“
-
-1404/07/1914:06æ¨Ç"	Chainbing*Ú†ÛŒÙ† Ø¨ÛŒÙ†Ú¯20.000964:111.82A
-×£p=Š&ÀH¶øR=https://s2.coinmarketcap.com/static/img/coins/64x64/11498.png
+1404/07/1914:19œì¨Ç"Arix*
+Ø§Ø±ÛŒÚ©Ø³20.000591:68.45AìQ¸…«6ÀH¬¡R=https://s2.coinmarketcap.com/static/img/coins/64x64/11862.png
 ’
 
-1404/07/1914:05Ôå¨Ç"ZeroSwap*Ø²ÛŒØ±Ùˆ Ø³ÙˆØ§Ù¾20.000491:56.94AR¸…ëQè¿H“óR<https://s2.coinmarketcap.com/static/img/coins/64x64/7438.png
+1404/07/1914:19œì¨Ç"	Dogenarii*Ø¯ÙˆÚ˜Ù†Ø§Ø±ÛŒ2
+0.00003669:4.25A¤p=
+×#/ÀHÑR=https://s2.coinmarketcap.com/static/img/coins/64x64/38306.png
+œ
+
+1404/07/1914:20Øì¨Ç"Neos.ai*Ù†Ø¦ÙˆØ³ Ø¯Ø§Øª Ø§ÛŒâ€ŒØ¢ÛŒ20.000361:41.79AHáz®G6ÀHå™R=https://s2.coinmarketcap.com/static/img/coins/64x64/34418.png
+‘
+
+1404/07/1914:19œì¨Ç"Metadrip*Ù…ØªØ§Ø¯Ø±ÛŒÙ¾2
+0.00003575:4.14A¤p=
+×#2ÀH©—R=https://s2.coinmarketcap.com/static/img/coins/64x64/36032.png
+
+
+1404/07/1914:19œì¨Ç"TDM*ØªÛŒâ€ŒØ¯ÛŒâ€ŒØ§Ù…20.000386:44.71A33333ó;ÀH¨“R=https://s2.coinmarketcap.com/static/img/coins/64x64/33322.png
+‘
+
+1404/07/1914:19œì¨Ç"OrbitAI*Ø§ÙˆØ±Ø¨ÛŒØª Ø§ÛŒâ€ŒØ¢ÛŒ20.003671:425.30HºR=https://s2.coinmarketcap.com/static/img/coins/64x64/34931.png
+‘
+
+1404/07/1914:19œì¨Ç"	Choruz AI*Ú†ÙˆØ±ÙˆØ² Ø§ÛŒâ€ŒØ¢ÛŒ2
+0.00003692:4.28H”R=https://s2.coinmarketcap.com/static/img/coins/64x64/35681.png
+•
+
+1404/07/1914:19œì¨Ç"REGENT COIN*Ø±ÛŒØ¬Ù†Øª Ú©ÙˆÛŒÙ†20.0120:1386Aš™™™™™.@HîŒR=https://s2.coinmarketcap.com/static/img/coins/64x64/22897.png
+†
+
+1404/07/1914:19œì¨Ç"Lux*Ù„ÙˆÚ©Ø³2
+0.00003363:3.90Aq=
+×£p3@HÛ†R=https://s2.coinmarketcap.com/static/img/coins/64x64/35680.png
+›
+
+1404/07/1914:19œì¨Ç"Billy on SUI*Ø¨ÛŒÙ„ÛŒ Ø¢Ù† Ø³ÙˆÛŒ2
+0.00005684:6.59Aš™™™™ùDÀH»„R=https://s2.coinmarketcap.com/static/img/coins/64x64/38225.png
+
+
+1404/07/1914:19œì¨Ç"Mambo*
+Ù…Ø§Ù…Ø¨Ùˆ20.000000032348281415200244:0.003748A333333/ÀHÜüR=https://s2.coinmarketcap.com/static/img/coins/64x64/36588.png
+‘
+
+1404/07/1914:19œì¨Ç"MetaDOS*Ù…ØªØ§ Ø¯ÙˆØ³2
+0.00000982:1.1380AÍÌÌÌÌL#ÀHÏûR=https://s2.coinmarketcap.com/static/img/coins/64x64/30603.png
+—
+
+1404/07/1914:19œì¨Ç"Thetan Arena*ØªØªØ§Ù† Ø¢Ø±Ù†Ø§20.000284:32.85A®GázÀHÍûR=https://s2.coinmarketcap.com/static/img/coins/64x64/11926.png
+
+
+1404/07/1914:19œì¨Ç"NDC*Ø§Ù†â€ŒØ¯ÛŒâ€ŒØ³ÛŒ20.004374:506.78A\Âõ(;ÀH¶ûR=https://s2.coinmarketcap.com/static/img/coins/64x64/26289.png
+“
+
+1404/07/1914:19œì¨Ç"	Chainbing*Ú†ÛŒÙ† Ø¨ÛŒÙ†Ú¯20.000964:111.63AR¸…ëÑ/ÀH¶øR=https://s2.coinmarketcap.com/static/img/coins/64x64/11498.png
+’
+
+1404/07/1914:19œì¨Ç"ZeroSwap*Ø²ÛŒØ±Ùˆ Ø³ÙˆØ§Ù¾20.000487:56.36AR¸…ëQÀH‹ñR<https://s2.coinmarketcap.com/static/img/coins/64x64/7438.png
+
+
+1404/07/1914:20Øì¨Ç"Lithium*Ù„ÛŒØªÛŒÙˆÙ…2
+0.00000588:0.6813A®Gáz®,ÀHêğR=https://s2.coinmarketcap.com/static/img/coins/64x64/10527.png
 ™
 
-1404/07/1914:05Ôå¨Ç"GATSBY (gatsby.fi)*Ú¯ØªØ³Ø¨ÛŒ (gatsby.fi)20.000522:60.56HëêR=https://s2.coinmarketcap.com/static/img/coins/64x64/34473.png
+1404/07/1914:19œì¨Ç"GATSBY (gatsby.fi)*Ú¯ØªØ³Ø¨ÛŒ (gatsby.fi)20.000522:60.46HëêR=https://s2.coinmarketcap.com/static/img/coins/64x64/34473.png
 ™
 
-1404/07/1914:06æ¨Ç"
-Metastrike*Ù…ØªØ§ Ø§Ø³ØªØ±Ø§ÛŒÚ©20.000116:13.43A¤p=
+1404/07/1914:19œì¨Ç"
+Metastrike*Ù…ØªØ§ Ø§Ø³ØªØ±Ø§ÛŒÚ©20.000116:13.41A¤p=
 ×#5@HÒêR=https://s2.coinmarketcap.com/static/img/coins/64x64/16033.png
 
 
-1404/07/1914:06æ¨Ç"SofaCat*Ø³ÙˆÙØ§Ú©Øª20.000317:36.83Aq=
+1404/07/1914:19œì¨Ç"SofaCat*Ø³ÙˆÙØ§Ú©Øª20.000317:36.77Aq=
 ×£°9ÀHÉêR=https://s2.coinmarketcap.com/static/img/coins/64x64/33358.png
 Š
 
-1404/07/1914:06æ¨Ç"SOUNI*Ø³ÙˆÙ†ÛŒ2
-0.00000310:0.3594A…ëQ¸ı¿HéR=https://s2.coinmarketcap.com/static/img/coins/64x64/15315.png
+1404/07/1914:20Øì¨Ç"SOUNI*Ø³ÙˆÙ†ÛŒ2
+0.00000310:0.3588A…ëQ¸ı¿HéR=https://s2.coinmarketcap.com/static/img/coins/64x64/15315.png
 
 
-1404/07/1914:05Ôå¨Ç"âˆ‘*Ø³Ù…20.000240:27.80A®Gáz®(ÀHöáR=https://s2.coinmarketcap.com/static/img/coins/64x64/37331.png
+1404/07/1914:19œì¨Ç"âˆ‘*Ø³Ù…20.000240:27.75A®Gáz®(ÀHöáR=https://s2.coinmarketcap.com/static/img/coins/64x64/37331.png
 ‰
 
-1404/07/1914:05Ôå¨Ç"Biao*
+1404/07/1914:19œì¨Ç"Biao*
 Ø¨ÛŒØ§Ø¦Ùˆ2
 0.00002931:3.40A
 ×£p=
 #ÀH±áR=https://s2.coinmarketcap.com/static/img/coins/64x64/36100.png
+•
+
+1404/07/1914:19œì¨Ç"
+BlockGames*Ø¨Ù„Ø§Ú© Ú¯ÛŒÙ…Ø²20.000336:38.95A…ëQ¸3ÀHÛR=https://s2.coinmarketcap.com/static/img/coins/64x64/30433.png
 ¤
 
-1404/07/1914:05Ôå¨Ç"Bloomsperg Terminal*Ø¨Ù„ÙˆÙ…Ø³Ù¾Ø±Ú¯ ØªØ±Ù…ÛŒÙ†Ø§Ù„2
+1404/07/1914:19œì¨Ç"Bloomsperg Terminal*Ø¨Ù„ÙˆÙ…Ø³Ù¾Ø±Ú¯ ØªØ±Ù…ÛŒÙ†Ø§Ù„2
 0.00002769:3.21H®ØR=https://s2.coinmarketcap.com/static/img/coins/64x64/35258.png
-•
-
-1404/07/1914:05Ôå¨Ç"
-BlockGames*Ø¨Ù„Ø§Ú© Ú¯ÛŒÙ…Ø²20.000332:38.49Aáz®G!5ÀH–ØR=https://s2.coinmarketcap.com/static/img/coins/64x64/30433.png
 ¯
 
-1404/07/1914:05Ôå¨Ç"Nugget Trap Gold Token*Ù†Ø§Ú¯Øª ØªØ±Ù¾ Ú¯Ù„Ø¯ ØªÙˆÚ©Ù†20.000100:11.61A{®Gáz„?H‰ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/33946.png
+1404/07/1914:19œì¨Ç"Nugget Trap Gold Token*Ù†Ø§Ú¯Øª ØªØ±Ù¾ Ú¯Ù„Ø¯ ØªÙˆÚ©Ù†20.000100:11.59A{®Gáz”?H‰ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/33946.png
 ›
 
-1404/07/1914:05Ôå¨Ç"Veritas Protocol*ÙˆØ±ÛŒØªØ§Ø³ Ù¾Ø±ÙˆØªÚ©Ù„2
-0.00008231:9.55Hµ¬R=https://s2.coinmarketcap.com/static/img/coins/64x64/36047.png
+1404/07/1914:19œì¨Ç"Veritas Protocol*ÙˆØ±ÛŒØªØ§Ø³ Ù¾Ø±ÙˆØªÚ©Ù„2
+0.00008231:9.54Hµ¬R=https://s2.coinmarketcap.com/static/img/coins/64x64/36047.png
 •
 
-1404/07/1914:06æ¨Ç"SimsAI*Ø³ÛŒÙ…Ø² Ø§ÛŒâ€ŒØ¢ÛŒ2
-0.00002134:2.48A®GázÔ1ÀHŞ¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/34946.png
+1404/07/1914:20Øì¨Ç"SimsAI*Ø³ÛŒÙ…Ø² Ø§ÛŒâ€ŒØ¢ÛŒ2
+0.00002134:2.47A®GázÔ1ÀHŞ¦R=https://s2.coinmarketcap.com/static/img/coins/64x64/34946.png
 ª
 
-1404/07/1914:05Ôå¨Ç"Icon.X World*#Ø¢ÛŒÚ©ÙˆÙ† Ø¯Ø§Øª Ø§ÛŒÚ©Ø³ ÙˆØ±Ù„Ø¯20.001465:170.02Aš™™™™™©?HöR=https://s2.coinmarketcap.com/static/img/coins/64x64/29603.png
+1404/07/1914:19œì¨Ç"Icon.X World*#Ø¢ÛŒÚ©ÙˆÙ† Ø¯Ø§Øª Ø§ÛŒÚ©Ø³ ÙˆØ±Ù„Ø¯20.001465:169.73Aš™™™™™©?HöR=https://s2.coinmarketcap.com/static/img/coins/64x64/29603.png
 «
 
-1404/07/1914:06æ¨Ç"Children Of The Sky*Ú†ÛŒÙ„Ø¯Ø±Ù† Ø¢Ùˆ Ø¯ Ø³Ú©Ø§ÛŒ2
+1404/07/1914:20Øì¨Ç"Children Of The Sky*Ú†ÛŒÙ„Ø¯Ø±Ù† Ø¢Ùˆ Ø¯ Ø³Ú©Ø§ÛŒ2
 0.00001843:2.14A=
 ×£p=ÀH‹R=https://s2.coinmarketcap.com/static/img/coins/64x64/37287.png
 š
 
-1404/07/1914:05Ôå¨Ç"Squirrel Swap*Ø§Ø³Ú©ÙˆØ§ÛŒØ±ÙÙ„ Ø³ÙˆØ§Ù¾2
+1404/07/1914:19œì¨Ç"Squirrel Swap*Ø§Ø³Ú©ÙˆØ§ÛŒØ±ÙÙ„ Ø³ÙˆØ§Ù¾2
 0.00001736:2.01HÊ‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/34057.png
  
 
-1404/07/1914:05Ôå¨Ç"Project Plutus*Ù¾Ø±ÙˆÚ˜Ù‡ Ù¾Ù„ÙˆØªÙˆØ³2
+1404/07/1914:19œì¨Ç"Project Plutus*Ù¾Ø±ÙˆÚ˜Ù‡ Ù¾Ù„ÙˆØªÙˆØ³2
 0.00001731:2.01A)\Âõ¨/ÀHš‡R=https://s2.coinmarketcap.com/static/img/coins/64x64/35289.png
 ‰
 
-1404/07/1914:05Ôå¨Ç"BIGFACTS*Ø¨ÛŒÚ¯ ÙÚ©ØªØ³2
-0.00003392:3.94H½„R=https://s2.coinmarketcap.com/static/img/coins/64x64/35546.png
+1404/07/1914:19œì¨Ç"BIGFACTS*Ø¨ÛŒÚ¯ ÙÚ©ØªØ³2
+0.00003392:3.93H½„R=https://s2.coinmarketcap.com/static/img/coins/64x64/35546.png
 Œ
 
-1404/07/1914:05Ôå¨Ç"DeChat*Ø¯ÛŒâ€ŒÚ†Øª20.003401:394.68Aö(\Â57ÀH‡‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/29580.png
+1404/07/1914:19œì¨Ç"DeChat*Ø¯ÛŒâ€ŒÚ†Øª20.003401:394.01Aö(\Â57ÀH‡‚R=https://s2.coinmarketcap.com/static/img/coins/64x64/29580.png
 —
 
-1404/07/1914:05Ôå¨Ç"UIUI*ÛŒÙˆâ€ŒØ¢ÛŒâ€ŒÛŒÙˆâ€ŒØ¢ÛŒ2
-0.00002696:3.13AHáz®G(ÀH­~R=https://s2.coinmarketcap.com/static/img/coins/64x64/37659.png
+1404/07/1914:19œì¨Ç"UIUI*ÛŒÙˆâ€ŒØ¢ÛŒâ€ŒÛŒÙˆâ€ŒØ¢ÛŒ2
+0.00002696:3.12AHáz®G(ÀH­~R=https://s2.coinmarketcap.com/static/img/coins/64x64/37659.png
 
 
-1404/07/1914:06æ¨Ç"WeWay*ÙˆÛŒâ€ŒÙˆÙÛŒ2
-0.00001089:1.2643A     À4ÀHÊzR=https://s2.coinmarketcap.com/static/img/coins/64x64/17047.png
+1404/07/1914:19œì¨Ç"WeWay*ÙˆÛŒâ€ŒÙˆÙÛŒ2
+0.00001089:1.2616A
+×£p=Ê4ÀHÄzR=https://s2.coinmarketcap.com/static/img/coins/64x64/17047.png
 
 
-1404/07/1914:05Ôå¨Ç"	Hot Cross*Ù‡Ø§Øª Ú©Ø±Ø§Ø³20.000137:15.91Aq=
+1404/07/1914:19œì¨Ç"	Hot Cross*Ù‡Ø§Øª Ú©Ø±Ø§Ø³20.000137:15.88Aq=
 ×£02ÀHèyR<https://s2.coinmarketcap.com/static/img/coins/64x64/9867.png
 ®
 
-1404/07/1914:06æ¨Ç"The White Lion*ÙˆØ§ÛŒØª Ù„Ø§ÛŒÙˆÙ†20.00000008590257038085362:0.009969AHáz®§CÀHßpR=https://s2.coinmarketcap.com/static/img/coins/64x64/34594.png
+1404/07/1914:20Øì¨Ç"The White Lion*ÙˆØ§ÛŒØª Ù„Ø§ÛŒÙˆÙ†20.00000008534024984189727:0.009887Aš™™™™ÙCÀHpR=https://s2.coinmarketcap.com/static/img/coins/64x64/34594.png
 
 
-1404/07/1914:06æ¨Ç"	SAFE DEAL*Ø³ÛŒÙ Ø¯ÛŒÙ„20.000353:40.97AÍÌÌÌÌÌ@HøiR<https://s2.coinmarketcap.com/static/img/coins/64x64/7270.png
+1404/07/1914:19œì¨Ç"	SAFE DEAL*Ø³ÛŒÙ Ø¯ÛŒÙ„20.000351:40.68A®Gáz®@H®iR<https://s2.coinmarketcap.com/static/img/coins/64x64/7270.png
 ¤
 
-1404/07/1914:06æ¨Ç"Captain Tsubasa*Ú©Ø§Ù¾ÛŒØªØ§Ù† Ø³ÙˆØ¨Ø§Ø³Ø§2
-0.00007353:8.53A
-×£p=Ê3ÀHáfR=https://s2.coinmarketcap.com/static/img/coins/64x64/28128.png
+1404/07/1914:20Øì¨Ç"Captain Tsubasa*Ú©Ø§Ù¾ÛŒØªØ§Ù† Ø³ÙˆØ¨Ø§Ø³Ø§2
+0.00007242:8.39Afffff¦4ÀH™eR=https://s2.coinmarketcap.com/static/img/coins/64x64/28128.png
 ’
 
-1404/07/1914:05Ôå¨Ç"MindAI*Ù…Ø§ÛŒÙ†Ø¯ Ø§ÛŒâ€ŒØ¢ÛŒ20.0314:3647A=
+1404/07/1914:19œì¨Ç"MindAI*Ù…Ø§ÛŒÙ†Ø¯ Ø§ÛŒâ€ŒØ¢ÛŒ20.0314:3640A=
 ×£p=/ÀHÁaR=https://s2.coinmarketcap.com/static/img/coins/64x64/30053.png
 
 
-1404/07/1914:05Ôå¨Ç"Brotherhood*Ø¨Ø±Ø§Ø¯Ø±Ù‡ÙˆØ¯2
-0.00001230:1.4279H`R=https://s2.coinmarketcap.com/static/img/coins/64x64/36918.png
+1404/07/1914:19œì¨Ç"Brotherhood*Ø¨Ø±Ø§Ø¯Ø±Ù‡ÙˆØ¯2
+0.00001230:1.4255H`R=https://s2.coinmarketcap.com/static/img/coins/64x64/36918.png
 
 
-1404/07/1914:05Ôå¨Ç"Eldarune*Ø§Ù„Ø¯Ø§Ø±ÙˆÙ†2
+1404/07/1914:19œì¨Ç"Eldarune*Ø§Ù„Ø¯Ø§Ø±ÙˆÙ†2
 0.00003552:4.12A=
 ×£p=&@H‚?R=https://s2.coinmarketcap.com/static/img/coins/64x64/22484.png
 ™
 
-1404/07/1914:05Ôå¨Ç"DoDreamChain*Ø¯Ùˆ Ø¯Ø±ÛŒÙ… Ú†ÛŒÙ†2
-0.00004104:4.76AìQ¸…ë±?H<R<https://s2.coinmarketcap.com/static/img/coins/64x64/5837.png
+1404/07/1914:19œì¨Ç"DoDreamChain*Ø¯Ùˆ Ø¯Ø±ÛŒÙ… Ú†ÛŒÙ†2
+0.00004103:4.75A¸…ëQ¸®?H<R<https://s2.coinmarketcap.com/static/img/coins/64x64/5837.png
 ¤
 
-1404/07/1914:05Ôå¨Ç"
+1404/07/1914:19œì¨Ç"
 OKX Mascot*Ø§ÙˆÚ©ÛŒâ€ŒØ§ÛŒÚ©Ø³ Ù…Ø³Ú©Ø§Øª2
-0.00000650:0.7547AÍÌÌÌÌÌ.ÀHç2R=https://s2.coinmarketcap.com/static/img/coins/64x64/37546.png
+0.00000650:0.7535AÍÌÌÌÌÌ.ÀHç2R=https://s2.coinmarketcap.com/static/img/coins/64x64/37546.png
 ¦
 
-1404/07/1914:05Ôå¨Ç"AKA Liberty*Ø§ÛŒâ€ŒÚ©ÛŒâ€ŒØ§ÛŒ Ù„ÛŒØ¨Ø±ØªÛŒ2
-0.00000315:0.3660A=
+1404/07/1914:19œì¨Ç"AKA Liberty*Ø§ÛŒâ€ŒÚ©ÛŒâ€ŒØ§ÛŒ Ù„ÛŒØ¨Ø±ØªÛŒ2
+0.00000315:0.3654A=
 ×£pı7ÀHæR=https://s2.coinmarketcap.com/static/img/coins/64x64/35880.png
 Ÿ
 
-1404/07/1914:05Ôå¨Ç"Moss Carbon Credit*Ù…Ø§Ø³ Ú©Ø±Ø¨Ù† Ú©Ø±Ø¯ÛŒØª20.1531:17767A=
-×£p½'ÀR<https://s2.coinmarketcap.com/static/img/coins/64x64/8826.png
+1404/07/1914:19œì¨Ç"Moss Carbon Credit*Ù…Ø§Ø³ Ú©Ø±Ø¨Ù† Ú©Ø±Ø¯ÛŒØª20.1450:16800AHáz®‡0ÀR<https://s2.coinmarketcap.com/static/img/coins/64x64/8826.png
 ¶
 
-1404/07/1914:06æ¨Ç"VNX British Pound*0ÙˆÛŒâ€ŒØ§Ù†â€ŒØ§ÛŒÚ©Ø³ Ù¾ÙˆÙ†Ø¯ Ø¨Ø±ÛŒØªØ§Ù†ÛŒØ§21.3371:155171A¸…ëQ¸?R=https://s2.coinmarketcap.com/static/img/coins/64x64/36339.png
+1404/07/1914:20Øì¨Ç"VNX British Pound*0ÙˆÛŒâ€ŒØ§Ù†â€ŒØ§ÛŒÚ©Ø³ Ù¾ÙˆÙ†Ø¯ Ø¨Ø±ÛŒØªØ§Ù†ÛŒØ§21.3376:154965Aáz®GáÊ?R=https://s2.coinmarketcap.com/static/img/coins/64x64/36339.png
 ’
 
-1404/07/1914:05Ôå¨Ç"
-Kommunitas*Ú©ÙˆÙ…ÙˆÙ†ÛŒØªØ§Ø³20.000574:66.57Aö(\Âõ#ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/10403.png
+1404/07/1914:19œì¨Ç"
+Kommunitas*Ú©ÙˆÙ…ÙˆÙ†ÛŒØªØ§Ø³20.000574:66.55Affffff#ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/10403.png
 
 
-1404/07/1914:05Ôå¨Ç"SORA*Ø³ÙˆØ±Ø§20.000000000000006079629216:0A     pS@R<https://s2.coinmarketcap.com/static/img/coins/64x64/5802.png
+1404/07/1914:19œì¨Ç"SORA*Ø³ÙˆØ±Ø§20.000000000000005270375973:0A¤p=
+×ÃU@R<https://s2.coinmarketcap.com/static/img/coins/64x64/5802.png
 ˆ
 
-1404/07/1914:05Ôå¨Ç"ideax*Ø§ÛŒØ¯ÛŒÚ©Ø³20.003227:374.49AHáz®‡0ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/35207.png
+1404/07/1914:19œì¨Ç"ideax*Ø§ÛŒØ¯ÛŒÚ©Ø³20.003227:373.85AHáz®‡0ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/35207.png
 «
 
-1404/07/1914:05Ôå¨Ç"Greenland Rare Bear*Ú¯Ø±ÛŒÙ†â€ŒÙ„Ù†Ø¯ Ø±ÙØ± Ø¨ÛŒØ±2
-0.00000348:0.4035Aö(\Âõ6ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/35947.png
+1404/07/1914:20Øì¨Ç"Greenland Rare Bear*Ú¯Ø±ÛŒÙ†â€ŒÙ„Ù†Ø¯ Ø±ÙØ± Ø¨ÛŒØ±2
+0.00000348:0.4029Aš™™™™™õ¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/35947.png
 Œ
 
-1404/07/1914:05Ôå¨Ç"Gradium*Ú¯Ø±ÛŒØ¯ÛŒÙˆÙ…2339.74:39426292A{®Gáz´?R=https://s2.coinmarketcap.com/static/img/coins/64x64/20289.png
+1404/07/1914:19œì¨Ç"Gradium*Ú¯Ø±ÛŒØ¯ÛŒÙˆÙ…2339.26:39303926A¸…ëQ¸¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/20289.png
 ’
 
-1404/07/1914:05Ôå¨Ç"
-Alpha City*Ø¢Ù„ÙØ§ Ø³ÛŒØªÛŒ20.001531:177.70A\Âõ(œ4ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/16794.png
+1404/07/1914:19œì¨Ç"
+Alpha City*Ø¢Ù„ÙØ§ Ø³ÛŒØªÛŒ20.001530:177.27AìQ¸…«4ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/16794.png
 
 
-1404/07/1914:05Ôå¨Ç"Yeet*ÛŒÛŒØª20.002221:257.72A33333SAÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/35337.png
+1404/07/1914:19œì¨Ç"Yeet*ÛŒÛŒØª20.002221:257.28A33333SAÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/35337.png
 œ
 
-1404/07/1914:05Ôå¨Ç"THE BALKAN DWARF*Ø¨Ø§Ù„Ú©Ø§Ù† Ø¯Ø§Ø±Ù2
-0.00007190:8.34A{®Gáú2ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/29323.png
+1404/07/1914:20Øì¨Ç"THE BALKAN DWARF*Ø¨Ø§Ù„Ú©Ø§Ù† Ø¯Ø§Ø±Ù2
+0.00007190:8.33A{®Gáú2ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/29323.png
 “
 
-1404/07/1914:05Ôå¨Ç"botXcoin*Ø¨Ø§Øª Ø§ÛŒÚ©Ø³ Ú©ÙˆÛŒÙ†20.2971:34475A…ëQ¸…Û¿R<https://s2.coinmarketcap.com/static/img/coins/64x64/3873.png
+1404/07/1914:20Øì¨Ç"botXcoin*Ø¨Ø§Øª Ø§ÛŒÚ©Ø³ Ú©ÙˆÛŒÙ†20.2967:34369A)\Âõ(ä¿R<https://s2.coinmarketcap.com/static/img/coins/64x64/3873.png
 ’
 
-1404/07/1914:06æ¨Ç"
-Mint Token*Ù…ÛŒÙ†Øª ØªÙˆÚ©Ù†20.006727:780.69Aö(\Âu%ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/35964.png
+1404/07/1914:20Øì¨Ç"
+Mint Token*Ù…ÛŒÙ†Øª ØªÙˆÚ©Ù†20.006727:779.37Aö(\Âu%ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/35964.png
 ‹
 
-1404/07/1914:05Ôå¨Ç"Privix*Ù¾Ø±ÛŒÙˆÛŒÚ©Ø³20.005839:677.66Aš™™™™+ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/37425.png
+1404/07/1914:19œì¨Ç"Privix*Ù¾Ø±ÛŒÙˆÛŒÚ©Ø³20.005839:676.51Aš™™™™+ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/37425.png
 ›
 
-1404/07/1914:06æ¨Ç"EverValue Coin*Ø§ÙˆØ± ÙˆÙ„ÛŒÙˆ Ú©ÙˆÛŒÙ†227.48:3189043AffffffÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/33342.png
+1404/07/1914:19œì¨Ç"EverValue Coin*Ø§ÙˆØ± ÙˆÙ„ÛŒÙˆ Ú©ÙˆÛŒÙ†227.48:3183786AÃõ(\ÂÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/33342.png
 …
 
-1404/07/1914:05Ôå¨Ç"Connex*
-Ú©Ø§Ù†Ú©Ø³214.05:1630212A®Gáz)ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/28135.png
+1404/07/1914:20Øì¨Ç"Connex*
+Ú©Ø§Ù†Ú©Ø³214.05:1627423A333333)ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/28135.png
 ™
 
-1404/07/1914:05Ôå¨Ç"Project MIRAI*Ù¾Ø±ÙˆÚ˜Ù‡ Ù…ÛŒØ±Ø§ÛŒ20.002709:314.34Aš™™™™Ù5ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/36536.png
+1404/07/1914:19œì¨Ç"Project MIRAI*Ù¾Ø±ÙˆÚ˜Ù‡ Ù…ÛŒØ±Ø§ÛŒ20.002698:312.61Afffff&6ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/36536.png
 ±
 
-1404/07/1914:05Ôå¨Ç"League of Kingdoms Arena*%Ù„ÛŒÚ¯ Ø¢Ù Ú©ÛŒÙ†Ú¯Ø¯Ø§Ù…Ø² Ø¢Ø±Ù†Ø§20.1190:13807AÃõ(\B(ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/17145.png
+1404/07/1914:20Øì¨Ç"League of Kingdoms Arena*%Ù„ÛŒÚ¯ Ø¢Ù Ú©ÛŒÙ†Ú¯Ø¯Ø§Ù…Ø² Ø¢Ø±Ù†Ø§20.1186:13741Aš™™™™(ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/17145.png
 
 
-1404/07/1914:06æ¨Ç"	Metacraft*Ù…ØªØ§Ú©Ø±Ø§ÙØª21.1747:136321AHáz®‡;@R=https://s2.coinmarketcap.com/static/img/coins/64x64/16946.png
+1404/07/1914:20Øì¨Ç"	Metacraft*Ù…ØªØ§Ú©Ø±Ø§ÙØª21.2044:139536Aš™™™™Y<@R=https://s2.coinmarketcap.com/static/img/coins/64x64/16946.png
 ™
 
-1404/07/1914:05Ôå¨Ç"Bitcoin Wizards* Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† ÙˆÛŒØ²Ø§Ø±Ø¯Ø²20.0430:4991R=https://s2.coinmarketcap.com/static/img/coins/64x64/30491.png
+1404/07/1914:19œì¨Ç"Bitcoin Wizards* Ø¨ÛŒØªâ€ŒÚ©ÙˆÛŒÙ† ÙˆÛŒØ²Ø§Ø±Ø¯Ø²20.0430:4983R=https://s2.coinmarketcap.com/static/img/coins/64x64/30491.png
 ”
 
-1404/07/1914:05Ôå¨Ç"Omni Network*Ø§ÙˆÙ…Ù†ÛŒ Ù†ØªÙˆØ±Ú©22.47:286283A\Âõ(\*ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/30315.png
+1404/07/1914:19œì¨Ç"Omni Network*Ø§ÙˆÙ…Ù†ÛŒ Ù†ØªÙˆØ±Ú©22.45:283442A…ëQ¸*ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/30315.png
 ™
 
-1404/07/1914:06æ¨Ç"H2O DAO*Ø§Ú†â€ŒØªÙˆâ€ŒØ§Ùˆ Ø¯Ø§Ø¦Ùˆ20.006504:754.81A{®Gáº4ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/19091.png
+1404/07/1914:19œì¨Ç"H2O DAO*Ø§Ú†â€ŒØªÙˆâ€ŒØ§Ùˆ Ø¯Ø§Ø¦Ùˆ20.006384:739.58A=
+×£p½6ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/19091.png
 ‡
 
-1404/07/1914:05Ôå¨Ç"BLOCKv*Ø¨Ù„Ø§Ú©â€ŒÙˆÛŒ20.0121:1410AÂõ(\$ÀR<https://s2.coinmarketcap.com/static/img/coins/64x64/2223.png
+1404/07/1914:19œì¨Ç"BLOCKv*Ø¨Ù„Ø§Ú©â€ŒÙˆÛŒ20.0121:1407AÂõ(\$ÀR<https://s2.coinmarketcap.com/static/img/coins/64x64/2223.png
 
 
-1404/07/1914:05Ôå¨Ç"Block*Ø¨Ù„ÙˆÚ©20.1402:16265A…ëQ¸…Û¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/36711.png
+1404/07/1914:19œì¨Ç"Block*Ø¨Ù„ÙˆÚ©20.1402:16237A…ëQ¸…Û¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/36711.png
 ˜
 
-1404/07/1914:06æ¨Ç"Diamond Launch*Ø¯Ø§ÛŒÙ…ÙˆÙ†Ø¯ Ù„Ø§Ù†Ú†20.0230:2670A      "ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/21849.png
+1404/07/1914:19œì¨Ç"Diamond Launch*Ø¯Ø§ÛŒÙ…ÙˆÙ†Ø¯ Ù„Ø§Ù†Ú†20.0231:2672Aq=
+×£p!ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/21849.png
 €
 
-1404/07/1914:06æ¨Ç"Zano*Ø²Ø§Ù†Ùˆ211.96:1387786Aš™™™™-ÀR<https://s2.coinmarketcap.com/static/img/coins/64x64/4691.png
+1404/07/1914:20Øì¨Ç"Zano*Ø²Ø§Ù†Ùˆ211.85:1372754A333333.ÀR<https://s2.coinmarketcap.com/static/img/coins/64x64/4691.png
 ­
 
-1404/07/1914:05Ôå¨Ç"OpenEden OpenDollar*%Ø§ÙˆÙ¾Ù†â€ŒØ§Ø¯Ù† Ø§ÙˆÙ¾Ù†â€ŒØ¯Ù„Ø§Ø±20.9961:115595A333333Ó¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/36067.png
+1404/07/1914:19œì¨Ç"OpenEden OpenDollar*%Ø§ÙˆÙ¾Ù†â€ŒØ§Ø¯Ù† Ø§ÙˆÙ¾Ù†â€ŒØ¯Ù„Ø§Ø±20.9961:115399A333333Ó¿R=https://s2.coinmarketcap.com/static/img/coins/64x64/36067.png
 ˜
 
-1404/07/1914:05Ôå¨Ç"
-Olympus v2*Ø§ÙˆÙ„ÛŒÙ…Ù¾ÙˆØ³ ÙˆÛŒâ€ŒÛ²221.40:2483814AÍÌÌÌÌÌì¿R<https://s2.coinmarketcap.com/static/img/coins/64x64/9067.png
+1404/07/1914:19œì¨Ç"
+Olympus v2*Ø§ÙˆÙ„ÛŒÙ…Ù¾ÙˆØ³ ÙˆÛŒâ€ŒÛ²221.43:2483123AR¸…ëQè¿R<https://s2.coinmarketcap.com/static/img/coins/64x64/9067.png
 
 
-1404/07/1914:05Ôå¨Ç"would*ÙˆÙˆÙ„Ø¯20.1603:18606A…ëQ¸…(ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/35837.png
+1404/07/1914:20Øì¨Ç"would*ÙˆÙˆÙ„Ø¯20.1587:18388AÃõ(\B*ÀR=https://s2.coinmarketcap.com/static/img/coins/64x64/35837.png
 ˆ
 
-1404/07/1914:05Ôå¨Ç"EOS*Ø§ÛŒâ€ŒØ§Ùˆâ€ŒØ§Ø³20.2822:32744AÍÌÌÌÌ;ÀR<https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png
+1404/07/1914:19œì¨Ç"EOS*Ø§ÛŒâ€ŒØ§Ùˆâ€ŒØ§Ø³20.2814:32607A
+×£p=J;ÀR<https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png
 ‚
 
-1404/07/1914:05Ôå¨Ç"Maker*Ù…ÛŒÚ©Ø±21608:	186586046A\Âõ(\+ÀR<https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png
+1404/07/1914:19œì¨Ç"Maker*Ù…ÛŒÚ©Ø±21607:	186148617AìQ¸…ëÀR<https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png
