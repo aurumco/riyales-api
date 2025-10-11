@@ -160,13 +160,13 @@
         },
         {
             "date": "1404/07/20",
-            "time": "00:00",
-            "time_unix": 1760214600,
+            "time": "02:44",
+            "time_unix": 1760224458,
             "symbol": "GASOIL",
             "name": "گازوییل",
-            "price": 652.5,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 683,
+            "change_value": 30.5,
+            "change_percent": 4.67,
             "unit": "دلار"
         }
     ]
