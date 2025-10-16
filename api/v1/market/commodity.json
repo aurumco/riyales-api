@@ -59,13 +59,13 @@
         },
         {
             "date": "1404/07/24",
-            "time": "09:58",
-            "time_unix": 1760596128,
+            "time": "10:21",
+            "time_unix": 1760597519,
             "symbol": "Al",
             "name": "آلومینیوم",
-            "price": 2756.6,
-            "change_value": 23,
-            "change_percent": 0.84,
+            "price": 2755.6,
+            "change_value": 22,
+            "change_percent": 0.8,
             "unit": "دلار"
         },
         {
@@ -92,8 +92,8 @@
         },
         {
             "date": "1404/07/24",
-            "time": "09:59",
-            "time_unix": 1760596187,
+            "time": "10:21",
+            "time_unix": 1760597463,
             "symbol": "Sn",
             "name": "قلع",
             "price": 35332.99,
