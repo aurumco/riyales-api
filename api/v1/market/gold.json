@@ -2,6 +2,7 @@
     "gold": [
         {
             "date": "1404/07/24",
+<<<<<<< Updated upstream
             "time": "13:22",
             "time_unix": 1760608377,
             "symbol": "18K",
@@ -10,11 +11,22 @@
             "price": 11272000,
             "change_value": 102000,
             "change_percent": 0.91,
+=======
+            "time": "13:23",
+            "time_unix": 1760608431,
+            "symbol": "18K",
+            "name_en": "18K Gold",
+            "name": "طلای 18 عیار",
+            "price": 11274600,
+            "change_value": 104600,
+            "change_percent": 0.94,
+>>>>>>> Stashed changes
             "unit": "تومان",
             "nameFa": "طلای 18 عیار"
         },
         {
             "date": "1404/07/24",
+<<<<<<< Updated upstream
             "time": "13:22",
             "time_unix": 1760608377,
             "symbol": "24K",
@@ -23,11 +35,22 @@
             "price": 15029200,
             "change_value": 136000,
             "change_percent": 0.91,
+=======
+            "time": "13:23",
+            "time_unix": 1760608431,
+            "symbol": "24K",
+            "name_en": "24K Gold",
+            "name": "طلای 24 عیار",
+            "price": 15032600,
+            "change_value": 139400,
+            "change_percent": 0.94,
+>>>>>>> Stashed changes
             "unit": "تومان",
             "nameFa": "طلای 24 عیار"
         },
         {
             "date": "1404/07/24",
+<<<<<<< Updated upstream
             "time": "13:22",
             "time_unix": 1760608378,
             "symbol": "MELTED",
@@ -36,13 +59,28 @@
             "price": 48332000,
             "change_value": 459000,
             "change_percent": 0.96,
+=======
+            "time": "13:23",
+            "time_unix": 1760608433,
+            "symbol": "MELTED",
+            "name_en": "Melted Gold",
+            "name": "طلای آب‌شده نقدی",
+            "price": 48340000,
+            "change_value": 467000,
+            "change_percent": 0.98,
+>>>>>>> Stashed changes
             "unit": "تومان",
             "nameFa": "طلای آب‌شده نقدی"
         },
         {
             "date": "1404/07/24",
+<<<<<<< Updated upstream
             "time": "13:22",
             "time_unix": 1760608358,
+=======
+            "time": "13:23",
+            "time_unix": 1760608428,
+>>>>>>> Stashed changes
             "symbol": "XAUUSD",
             "name_en": "Gold Ounce",
             "name": "انس طلا",
@@ -93,6 +131,7 @@
         },
         {
             "date": "1404/07/24",
+<<<<<<< Updated upstream
             "time": "13:22",
             "time_unix": 1760608378,
             "symbol": "EMAMI",
@@ -101,11 +140,22 @@
             "price": 115010000,
             "change_value": 800000,
             "change_percent": 0.7,
+=======
+            "time": "13:23",
+            "time_unix": 1760608432,
+            "symbol": "EMAMI",
+            "name_en": "Emami Coin",
+            "name": "سکه امامی",
+            "price": 115505000,
+            "change_value": 1295000,
+            "change_percent": 1.13,
+>>>>>>> Stashed changes
             "unit": "تومان",
             "nameFa": "سکه امامی"
         },
         {
             "date": "1404/07/24",
+<<<<<<< Updated upstream
             "time": "13:22",
             "time_unix": 1760608378,
             "symbol": "BAHAR",
@@ -114,6 +164,16 @@
             "price": 110580000,
             "change_value": 1760000,
             "change_percent": 1.62,
+=======
+            "time": "13:23",
+            "time_unix": 1760608433,
+            "symbol": "BAHAR",
+            "name_en": "Bahar Azadi Coin",
+            "name": "سکه بهار آزادی",
+            "price": 110590000,
+            "change_value": 1770000,
+            "change_percent": 1.63,
+>>>>>>> Stashed changes
             "unit": "تومان",
             "nameFa": "سکه بهار آزادی"
         }
