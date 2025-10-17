@@ -2,8 +2,8 @@
     "metal_precious": [
         {
             "date": "1404/07/26",
-            "time": "02:49",
-            "time_unix": 1760743178,
+            "time": "03:05",
+            "time_unix": 1760744111,
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 4249.98,
@@ -13,8 +13,8 @@
         },
         {
             "date": "1404/07/26",
-            "time": "02:49",
-            "time_unix": 1760743178,
+            "time": "03:05",
+            "time_unix": 1760744111,
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 51.91,
@@ -116,8 +116,8 @@
     "energy": [
         {
             "date": "1404/07/26",
-            "time": "02:49",
-            "time_unix": 1760743163,
+            "time": "03:02",
+            "time_unix": 1760743949,
             "symbol": "BRENT",
             "name": "نفت برنت",
             "price": 61.29,
@@ -149,8 +149,8 @@
         },
         {
             "date": "1404/07/26",
-            "time": "02:49",
-            "time_unix": 1760743163,
+            "time": "03:02",
+            "time_unix": 1760743949,
             "symbol": "RBOB",
             "name": "بنزین",
             "price": 1.8377,
@@ -160,8 +160,8 @@
         },
         {
             "date": "1404/07/26",
-            "time": "02:49",
-            "time_unix": 1760743163,
+            "time": "03:02",
+            "time_unix": 1760743949,
             "symbol": "GASOIL",
             "name": "گازوییل",
             "price": 633,
