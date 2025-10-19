@@ -127,13 +127,13 @@
         },
         {
             "date": "1404/07/27",
-            "time": "00:00",
-            "time_unix": 1760819400,
+            "time": "12:05",
+            "time_unix": 1760862921,
             "symbol": "WTI",
             "name": "نفت سبک",
-            "price": 57.54,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 57.15,
+            "change_value": -0.39,
+            "change_percent": -0.68,
             "unit": "دلار"
         },
         {
