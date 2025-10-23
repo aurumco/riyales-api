@@ -40,15 +40,15 @@
             "nameFa": "طلای آب‌شده نقدی"
         },
         {
-            "date": "1404/08/01",
-            "time": "23:50",
-            "time_unix": 1761250810,
+            "date": "1404/08/03",
+            "time": "00:00",
+            "time_unix": 1761337854,
             "symbol": "XAUUSD",
             "name_en": "Gold Ounce",
             "name": "انس طلا",
-            "price": 4114,
-            "change_value": 22,
-            "change_percent": 0.55,
+            "price": 4108,
+            "change_value": 16,
+            "change_percent": 0.4,
             "unit": "دلار",
             "nameFa": "انس طلا"
         },
