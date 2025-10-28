@@ -24,8 +24,8 @@
         },
         {
             "date": "1404/08/07",
-            "time": "00:53",
-            "time_unix": 1761686599,
+            "time": "01:21",
+            "time_unix": 1761688269,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
             "price": 1586,
@@ -35,8 +35,8 @@
         },
         {
             "date": "1404/08/07",
-            "time": "00:53",
-            "time_unix": 1761686600,
+            "time": "01:21",
+            "time_unix": 1761688269,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
             "price": 1425.5,
@@ -116,8 +116,8 @@
     "energy": [
         {
             "date": "1404/08/07",
-            "time": "01:11",
-            "time_unix": 1761687687,
+            "time": "01:18",
+            "time_unix": 1761688105,
             "symbol": "BRENT",
             "name": "نفت برنت",
             "price": 63.86,
@@ -127,24 +127,24 @@
         },
         {
             "date": "1404/08/07",
-            "time": "01:03",
-            "time_unix": 1761687203,
+            "time": "01:20",
+            "time_unix": 1761688224,
             "symbol": "WTI",
             "name": "نفت سبک",
-            "price": 60.18,
-            "change_value": 0.21,
-            "change_percent": 0.35,
+            "price": 60.15,
+            "change_value": 0.18,
+            "change_percent": 0.3,
             "unit": "دلار"
         },
         {
             "date": "1404/08/07",
-            "time": "01:03",
-            "time_unix": 1761687203,
+            "time": "01:18",
+            "time_unix": 1761688105,
             "symbol": "GAS",
             "name": "گاز طبیعی",
-            "price": 3.83,
-            "change_value": -0.004,
-            "change_percent": -0.1,
+            "price": 3.867,
+            "change_value": 0.033,
+            "change_percent": 0.86,
             "unit": "دلار"
         },
         {
