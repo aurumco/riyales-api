@@ -2,8 +2,8 @@
     "metal_precious": [
         {
             "date": "1404/08/10",
-            "time": "00:50",
-            "time_unix": 1761945649,
+            "time": "00:55",
+            "time_unix": 1761945918,
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 4002.63,
@@ -13,8 +13,8 @@
         },
         {
             "date": "1404/08/10",
-            "time": "00:50",
-            "time_unix": 1761945649,
+            "time": "00:55",
+            "time_unix": 1761945918,
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 48.68,
@@ -24,8 +24,8 @@
         },
         {
             "date": "1404/08/10",
-            "time": "00:50",
-            "time_unix": 1761945649,
+            "time": "01:04",
+            "time_unix": 1761946450,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
             "price": 1572,
@@ -35,8 +35,8 @@
         },
         {
             "date": "1404/08/10",
-            "time": "00:50",
-            "time_unix": 1761945649,
+            "time": "00:55",
+            "time_unix": 1761945918,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
             "price": 1458.25,
@@ -116,19 +116,19 @@
     "energy": [
         {
             "date": "1404/08/10",
-            "time": "00:45",
-            "time_unix": 1761945325,
+            "time": "01:04",
+            "time_unix": 1761946460,
             "symbol": "BRENT",
             "name": "نفت برنت",
-            "price": 64.65,
-            "change_value": 0.05,
-            "change_percent": 0.08,
+            "price": 64.69,
+            "change_value": 0.09,
+            "change_percent": 0.14,
             "unit": "دلار"
         },
         {
             "date": "1404/08/10",
-            "time": "00:44",
-            "time_unix": 1761945264,
+            "time": "01:00",
+            "time_unix": 1761946231,
             "symbol": "WTI",
             "name": "نفت سبک",
             "price": 60.88,
@@ -138,8 +138,8 @@
         },
         {
             "date": "1404/08/10",
-            "time": "00:44",
-            "time_unix": 1761945264,
+            "time": "01:00",
+            "time_unix": 1761946232,
             "symbol": "GAS",
             "name": "گاز طبیعی",
             "price": 4.116,
@@ -149,8 +149,8 @@
         },
         {
             "date": "1404/08/10",
-            "time": "00:44",
-            "time_unix": 1761945264,
+            "time": "00:56",
+            "time_unix": 1761945981,
             "symbol": "RBOB",
             "name": "بنزین",
             "price": 1.8981,
@@ -160,8 +160,8 @@
         },
         {
             "date": "1404/08/10",
-            "time": "00:44",
-            "time_unix": 1761945264,
+            "time": "01:00",
+            "time_unix": 1761946231,
             "symbol": "GASOIL",
             "name": "گازوییل",
             "price": 719.25,
