@@ -2,8 +2,8 @@
     "metal_precious": [
         {
             "date": "1404/08/15",
-            "time": "01:48",
-            "time_unix": 1762381082,
+            "time": "01:55",
+            "time_unix": 1762381509,
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 3979.23,
@@ -13,8 +13,8 @@
         },
         {
             "date": "1404/08/15",
-            "time": "01:46",
-            "time_unix": 1762381000,
+            "time": "01:55",
+            "time_unix": 1762381509,
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 48.02,
@@ -24,8 +24,8 @@
         },
         {
             "date": "1404/08/15",
-            "time": "01:48",
-            "time_unix": 1762381082,
+            "time": "02:02",
+            "time_unix": 1762381951,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
             "price": 1564.05,
@@ -35,8 +35,8 @@
         },
         {
             "date": "1404/08/15",
-            "time": "01:48",
-            "time_unix": 1762381082,
+            "time": "01:55",
+            "time_unix": 1762381509,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
             "price": 1441.25,
@@ -116,13 +116,13 @@
     "energy": [
         {
             "date": "1404/08/15",
-            "time": "01:46",
-            "time_unix": 1762380984,
+            "time": "02:06",
+            "time_unix": 1762382189,
             "symbol": "BRENT",
             "name": "نفت برنت",
-            "price": 63.53,
-            "change_value": -0.02,
-            "change_percent": -0.03,
+            "price": 63.55,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
@@ -160,8 +160,8 @@
         },
         {
             "date": "1404/08/15",
-            "time": "01:47",
-            "time_unix": 1762381045,
+            "time": "02:06",
+            "time_unix": 1762382189,
             "symbol": "GASOIL",
             "name": "گازوییل",
             "price": 734.5,
