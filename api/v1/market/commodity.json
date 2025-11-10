@@ -2,8 +2,8 @@
     "metal_precious": [
         {
             "date": "1404/08/20",
-            "time": "01:54",
-            "time_unix": 1762813469,
+            "time": "02:01",
+            "time_unix": 1762813899,
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 4116,
@@ -13,8 +13,8 @@
         },
         {
             "date": "1404/08/20",
-            "time": "01:54",
-            "time_unix": 1762813469,
+            "time": "02:01",
+            "time_unix": 1762813899,
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 50.51,
@@ -24,8 +24,8 @@
         },
         {
             "date": "1404/08/20",
-            "time": "01:54",
-            "time_unix": 1762813469,
+            "time": "02:01",
+            "time_unix": 1762813899,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
             "price": 1596.6,
@@ -35,8 +35,8 @@
         },
         {
             "date": "1404/08/20",
-            "time": "01:48",
-            "time_unix": 1762813100,
+            "time": "02:01",
+            "time_unix": 1762813899,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
             "price": 1438.5,
@@ -59,8 +59,8 @@
         },
         {
             "date": "1404/08/20",
-            "time": "01:54",
-            "time_unix": 1762813451,
+            "time": "02:13",
+            "time_unix": 1762814592,
             "symbol": "Al",
             "name": "آلومینیوم",
             "price": 2866.8,
@@ -70,8 +70,8 @@
         },
         {
             "date": "1404/08/20",
-            "time": "01:54",
-            "time_unix": 1762813457,
+            "time": "02:13",
+            "time_unix": 1762814597,
             "symbol": "Zn",
             "name": "روی",
             "price": 3062.98,
@@ -81,8 +81,8 @@
         },
         {
             "date": "1404/08/20",
-            "time": "01:54",
-            "time_unix": 1762813454,
+            "time": "02:13",
+            "time_unix": 1762814594,
             "symbol": "Pb",
             "name": "سرب",
             "price": 2047.6,
@@ -103,8 +103,8 @@
         },
         {
             "date": "1404/08/20",
-            "time": "01:54",
-            "time_unix": 1762813455,
+            "time": "02:13",
+            "time_unix": 1762814595,
             "symbol": "Ni",
             "name": "نیکل",
             "price": 15010.02,
@@ -116,13 +116,13 @@
     "energy": [
         {
             "date": "1404/08/20",
-            "time": "01:45",
-            "time_unix": 1762812920,
+            "time": "02:12",
+            "time_unix": 1762814538,
             "symbol": "BRENT",
             "name": "نفت برنت",
-            "price": 63.94,
-            "change_value": -0.1,
-            "change_percent": -0.16,
+            "price": 63.97,
+            "change_value": -0.07,
+            "change_percent": -0.11,
             "unit": "دلار"
         },
         {
