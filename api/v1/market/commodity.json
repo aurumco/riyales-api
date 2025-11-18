@@ -35,13 +35,13 @@
         },
         {
             "date": "1404/08/28",
-            "time": "02:04",
-            "time_unix": 1763505242,
+            "time": "02:19",
+            "time_unix": 1763506144,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
-            "price": 1411.5,
-            "change_value": -6.25,
-            "change_percent": -0.44,
+            "price": 1411,
+            "change_value": -6.75,
+            "change_percent": -0.48,
             "unit": "دلار"
         }
     ],
@@ -116,8 +116,8 @@
     "energy": [
         {
             "date": "1404/08/28",
-            "time": "01:58",
-            "time_unix": 1763504903,
+            "time": "02:18",
+            "time_unix": 1763506097,
             "symbol": "BRENT",
             "name": "نفت برنت",
             "price": 64.81,
@@ -160,8 +160,8 @@
         },
         {
             "date": "1404/08/28",
-            "time": "02:02",
-            "time_unix": 1763505137,
+            "time": "02:18",
+            "time_unix": 1763506097,
             "symbol": "GASOIL",
             "name": "گازوییل",
             "price": 793.5,
