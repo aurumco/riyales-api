@@ -41,14 +41,24 @@
         },
         {
             "date": "1404/08/27",
+<<<<<<< Updated upstream
             "time": "23:30",
             "time_unix": 1763496039,
+=======
+            "time": "23:36",
+            "time_unix": 1763496369,
+>>>>>>> Stashed changes
             "symbol": "XAUUSD",
             "name_en": "Gold Ounce",
             "name": "انس طلا",
             "price": 4080,
+<<<<<<< Updated upstream
             "change_value": 55,
             "change_percent": 1.38,
+=======
+            "change_value": 54,
+            "change_percent": 1.35,
+>>>>>>> Stashed changes
             "unit": "دلار",
             "nameFa": "انس طلا"
         },
