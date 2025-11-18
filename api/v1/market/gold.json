@@ -40,25 +40,15 @@
             "nameFa": "طلای آب‌شده نقدی"
         },
         {
-            "date": "1404/08/27",
-<<<<<<< Updated upstream
-            "time": "23:30",
-            "time_unix": 1763496039,
-=======
-            "time": "23:36",
-            "time_unix": 1763496369,
->>>>>>> Stashed changes
+            "date": "1404/08/28",
+            "time": "01:15",
+            "time_unix": 1763502310,
             "symbol": "XAUUSD",
             "name_en": "Gold Ounce",
             "name": "انس طلا",
-            "price": 4080,
-<<<<<<< Updated upstream
-            "change_value": 55,
-            "change_percent": 1.38,
-=======
-            "change_value": 54,
-            "change_percent": 1.35,
->>>>>>> Stashed changes
+            "price": 4067,
+            "change_value": -4,
+            "change_percent": -0.12,
             "unit": "دلار",
             "nameFa": "انس طلا"
         },
