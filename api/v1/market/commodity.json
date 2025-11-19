@@ -2,8 +2,8 @@
     "metal_precious": [
         {
             "date": "1404/08/29",
-            "time": "01:46",
-            "time_unix": 1763590588,
+            "time": "01:51",
+            "time_unix": 1763590900,
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 4078.01,
@@ -13,8 +13,8 @@
         },
         {
             "date": "1404/08/29",
-            "time": "01:46",
-            "time_unix": 1763590588,
+            "time": "01:51",
+            "time_unix": 1763590900,
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 51.36,
@@ -24,8 +24,8 @@
         },
         {
             "date": "1404/08/29",
-            "time": "01:46",
-            "time_unix": 1763590589,
+            "time": "01:51",
+            "time_unix": 1763590900,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
             "price": 1550,
@@ -35,8 +35,8 @@
         },
         {
             "date": "1404/08/29",
-            "time": "01:49",
-            "time_unix": 1763590789,
+            "time": "01:51",
+            "time_unix": 1763590900,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
             "price": 1397.75,
@@ -116,8 +116,8 @@
     "energy": [
         {
             "date": "1404/08/29",
-            "time": "01:49",
-            "time_unix": 1763590759,
+            "time": "02:09",
+            "time_unix": 1763591959,
             "symbol": "BRENT",
             "name": "نفت برنت",
             "price": 63.69,
@@ -160,13 +160,13 @@
         },
         {
             "date": "1404/08/29",
-            "time": "01:31",
-            "time_unix": 1763589679,
+            "time": "02:06",
+            "time_unix": 1763591777,
             "symbol": "GASOIL",
             "name": "گازوییل",
-            "price": 779.5,
-            "change_value": 3.37,
-            "change_percent": 0.43,
+            "price": 779.25,
+            "change_value": 3.12,
+            "change_percent": 0.4,
             "unit": "دلار"
         }
     ]
