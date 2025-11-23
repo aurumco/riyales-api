@@ -35,13 +35,13 @@
         },
         {
             "date": "1404/09/02",
-            "time": "00:00",
-            "time_unix": 1763843400,
+            "time": "18:54",
+            "time_unix": 1763911442,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
-            "price": 1386.8,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 1409.8,
+            "change_value": 23,
+            "change_percent": 1.66,
             "unit": "دلار"
         }
     ],
@@ -116,13 +116,13 @@
     "energy": [
         {
             "date": "1404/09/02",
-            "time": "00:00",
-            "time_unix": 1763843400,
+            "time": "18:36",
+            "time_unix": 1763910379,
             "symbol": "BRENT",
             "name": "نفت برنت",
-            "price": 62.56,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 61.94,
+            "change_value": -0.62,
+            "change_percent": -1,
             "unit": "دلار"
         },
         {
@@ -138,24 +138,24 @@
         },
         {
             "date": "1404/09/02",
-            "time": "00:00",
-            "time_unix": 1763843400,
+            "time": "18:34",
+            "time_unix": 1763910259,
             "symbol": "GAS",
             "name": "گاز طبیعی",
-            "price": 4.58,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 4.743,
+            "change_value": 0.163,
+            "change_percent": 3.56,
             "unit": "دلار"
         },
         {
             "date": "1404/09/02",
-            "time": "00:00",
-            "time_unix": 1763843400,
+            "time": "18:34",
+            "time_unix": 1763910259,
             "symbol": "RBOB",
             "name": "بنزین",
-            "price": 1.8834,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 1.8141,
+            "change_value": -0.0693,
+            "change_percent": -3.82,
             "unit": "دلار"
         },
         {
