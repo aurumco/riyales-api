@@ -24,24 +24,24 @@
         },
         {
             "date": "1404/09/06",
-            "time": "01:54",
-            "time_unix": 1764195847,
+            "time": "02:19",
+            "time_unix": 1764197342,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
-            "price": 1598.7,
-            "change_value": -0.7,
+            "price": 1598.8,
+            "change_value": -0.6,
             "change_percent": -0.04,
             "unit": "دلار"
         },
         {
             "date": "1404/09/06",
-            "time": "01:54",
-            "time_unix": 1764195847,
+            "time": "02:19",
+            "time_unix": 1764197342,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
-            "price": 1463.5,
-            "change_value": -1.5,
-            "change_percent": -0.1,
+            "price": 1464.5,
+            "change_value": -0.5,
+            "change_percent": -0.03,
             "unit": "دلار"
         }
     ],
@@ -160,13 +160,13 @@
         },
         {
             "date": "1404/09/06",
-            "time": "01:50",
-            "time_unix": 1764195620,
+            "time": "02:13",
+            "time_unix": 1764196997,
             "symbol": "GASOIL",
             "name": "گازوییل",
-            "price": 673.5,
-            "change_value": -1,
-            "change_percent": -0.15,
+            "price": 673,
+            "change_value": -1.5,
+            "change_percent": -0.22,
             "unit": "دلار"
         }
     ]
