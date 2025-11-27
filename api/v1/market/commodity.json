@@ -2,8 +2,8 @@
     "metal_precious": [
         {
             "date": "1404/09/07",
-            "time": "00:00",
-            "time_unix": 1764275400,
+            "time": "02:56",
+            "time_unix": 1764285979,
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 4157.99,
@@ -13,8 +13,8 @@
         },
         {
             "date": "1404/09/07",
-            "time": "00:00",
-            "time_unix": 1764275400,
+            "time": "02:56",
+            "time_unix": 1764285979,
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 53.4,
@@ -24,8 +24,8 @@
         },
         {
             "date": "1404/09/07",
-            "time": "02:28",
-            "time_unix": 1764284288,
+            "time": "02:56",
+            "time_unix": 1764285979,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
             "price": 1627.75,
@@ -35,13 +35,13 @@
         },
         {
             "date": "1404/09/07",
-            "time": "02:27",
-            "time_unix": 1764284231,
+            "time": "02:56",
+            "time_unix": 1764285961,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
-            "price": 1473.5,
-            "change_value": -1,
-            "change_percent": -0.07,
+            "price": 1474.5,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         }
     ],
@@ -127,8 +127,8 @@
         },
         {
             "date": "1404/09/07",
-            "time": "00:00",
-            "time_unix": 1764275400,
+            "time": "02:56",
+            "time_unix": 1764285977,
             "symbol": "WTI",
             "name": "نفت سبک",
             "price": 59.1,
@@ -138,8 +138,8 @@
         },
         {
             "date": "1404/09/07",
-            "time": "00:00",
-            "time_unix": 1764275400,
+            "time": "02:56",
+            "time_unix": 1764285977,
             "symbol": "GAS",
             "name": "گاز طبیعی",
             "price": 4.634,
@@ -149,8 +149,8 @@
         },
         {
             "date": "1404/09/07",
-            "time": "00:00",
-            "time_unix": 1764275400,
+            "time": "02:56",
+            "time_unix": 1764285977,
             "symbol": "RBOB",
             "name": "بنزین",
             "price": 1.8585,
