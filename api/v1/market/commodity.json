@@ -59,35 +59,35 @@
         },
         {
             "date": "1404/09/06",
-            "time": "23:43",
-            "time_unix": 1764274395,
+            "time": "22:16",
+            "time_unix": 1764269178,
             "symbol": "Al",
             "name": "آلومینیوم",
-            "price": 2818.6,
-            "change_value": -34.2,
-            "change_percent": -1.2,
+            "price": 2833.25,
+            "change_value": -38.4,
+            "change_percent": -1.36,
             "unit": "دلار"
         },
         {
             "date": "1404/09/06",
-            "time": "23:43",
-            "time_unix": 1764274400,
+            "time": "21:17",
+            "time_unix": 1764265630,
             "symbol": "Zn",
             "name": "روی",
-            "price": 3017.98,
-            "change_value": -15.15,
-            "change_percent": -0.5,
+            "price": 3020.4,
+            "change_value": -34.8,
+            "change_percent": -1.15,
             "unit": "دلار"
         },
         {
             "date": "1404/09/06",
-            "time": "23:43",
-            "time_unix": 1764274396,
+            "time": "20:58",
+            "time_unix": 1764264502,
             "symbol": "Pb",
             "name": "سرب",
-            "price": 1974.1,
-            "change_value": 8.8,
-            "change_percent": 0.45,
+            "price": 1985.03,
+            "change_value": 10,
+            "change_percent": 0.51,
             "unit": "دلار"
         },
         {
@@ -103,26 +103,26 @@
         },
         {
             "date": "1404/09/06",
-            "time": "23:43",
-            "time_unix": 1764274398,
+            "time": "21:19",
+            "time_unix": 1764265781,
             "symbol": "Ni",
             "name": "نیکل",
-            "price": 14833.52,
-            "change_value": 86.5,
-            "change_percent": 0.59,
+            "price": 14805.63,
+            "change_value": 11.75,
+            "change_percent": 0.08,
             "unit": "دلار"
         }
     ],
     "energy": [
         {
             "date": "1404/09/06",
-            "time": "23:43",
-            "time_unix": 1764274421,
+            "time": "22:02",
+            "time_unix": 1764268342,
             "symbol": "BRENT",
             "name": "نفت برنت",
-            "price": 63.374,
-            "change_value": 0.364,
-            "change_percent": 0.58,
+            "price": 62.92,
+            "change_value": 0.38,
+            "change_percent": 0.61,
             "unit": "دلار"
         },
         {
@@ -160,13 +160,13 @@
         },
         {
             "date": "1404/09/06",
-            "time": "23:43",
-            "time_unix": 1764274413,
+            "time": "22:12",
+            "time_unix": 1764268941,
             "symbol": "GASOIL",
             "name": "گازوییل",
-            "price": 678,
-            "change_value": 11.75,
-            "change_percent": 1.76,
+            "price": 680.5,
+            "change_value": 6,
+            "change_percent": 0.89,
             "unit": "دلار"
         }
     ]
