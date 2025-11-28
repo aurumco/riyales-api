@@ -24,13 +24,13 @@
         },
         {
             "date": "1404/09/08",
-            "time": "00:00",
-            "time_unix": 1764361800,
+            "time": "01:19",
+            "time_unix": 1764366549,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
-            "price": 1684.3,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 1683.7,
+            "change_value": -0.6,
+            "change_percent": -0.04,
             "unit": "دلار"
         },
         {
