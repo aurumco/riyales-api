@@ -2,6 +2,7 @@
     "metal_precious": [
         {
             "date": "1404/09/18",
+<<<<<<< Updated upstream
             "time": "00:17",
             "time_unix": 1765226871,
             "symbol": "XAUUSD",
@@ -9,10 +10,20 @@
             "price": 4194.42,
             "change_value": 5.75,
             "change_percent": 0.14,
+=======
+            "time": "00:19",
+            "time_unix": 1765226990,
+            "symbol": "XAUUSD",
+            "name": "انس طلا",
+            "price": 4195.02,
+            "change_value": 6.35,
+            "change_percent": 0.15,
+>>>>>>> Stashed changes
             "unit": "دلار"
         },
         {
             "date": "1404/09/18",
+<<<<<<< Updated upstream
             "time": "00:17",
             "time_unix": 1765226871,
             "symbol": "XAGUSD",
@@ -20,10 +31,20 @@
             "price": 58.13,
             "change_value": 0.04,
             "change_percent": 0.07,
+=======
+            "time": "00:19",
+            "time_unix": 1765226990,
+            "symbol": "XAGUSD",
+            "name": "انس نقره",
+            "price": 58.13,
+            "change_value": 0.05,
+            "change_percent": 0.08,
+>>>>>>> Stashed changes
             "unit": "دلار"
         },
         {
             "date": "1404/09/18",
+<<<<<<< Updated upstream
             "time": "00:17",
             "time_unix": 1765226871,
             "symbol": "XPTUSD",
@@ -31,10 +52,20 @@
             "price": 1662.05,
             "change_value": 2.4,
             "change_percent": 0.14,
+=======
+            "time": "00:19",
+            "time_unix": 1765226990,
+            "symbol": "XPTUSD",
+            "name": "انس پلاتین",
+            "price": 1661.4,
+            "change_value": 1.75,
+            "change_percent": 0.11,
+>>>>>>> Stashed changes
             "unit": "دلار"
         },
         {
             "date": "1404/09/18",
+<<<<<<< Updated upstream
             "time": "00:17",
             "time_unix": 1765226871,
             "symbol": "XPDUSD",
@@ -42,6 +73,15 @@
             "price": 1518.25,
             "change_value": 4.75,
             "change_percent": 0.31,
+=======
+            "time": "00:19",
+            "time_unix": 1765226990,
+            "symbol": "XPDUSD",
+            "name": "انس پالادیوم",
+            "price": 1513.75,
+            "change_value": 0.25,
+            "change_percent": 0.02,
+>>>>>>> Stashed changes
             "unit": "دلار"
         }
     ],
@@ -116,6 +156,7 @@
     "energy": [
         {
             "date": "1404/09/18",
+<<<<<<< Updated upstream
             "time": "00:16",
             "time_unix": 1765226816,
             "symbol": "BRENT",
@@ -123,12 +164,26 @@
             "price": 62.43,
             "change_value": 0,
             "change_percent": 0,
+=======
+            "time": "00:18",
+            "time_unix": 1765226926,
+            "symbol": "BRENT",
+            "name": "نفت برنت",
+            "price": 62.42,
+            "change_value": -0.01,
+            "change_percent": -0.02,
+>>>>>>> Stashed changes
             "unit": "دلار"
         },
         {
             "date": "1404/09/18",
+<<<<<<< Updated upstream
             "time": "00:13",
             "time_unix": 1765226628,
+=======
+            "time": "00:18",
+            "time_unix": 1765226926,
+>>>>>>> Stashed changes
             "symbol": "WTI",
             "name": "نفت سبک",
             "price": 58.81,
@@ -138,6 +193,7 @@
         },
         {
             "date": "1404/09/18",
+<<<<<<< Updated upstream
             "time": "00:16",
             "time_unix": 1765226817,
             "symbol": "GAS",
@@ -145,10 +201,20 @@
             "price": 4.888,
             "change_value": 0,
             "change_percent": 0,
+=======
+            "time": "00:19",
+            "time_unix": 1765226989,
+            "symbol": "GAS",
+            "name": "گاز طبیعی",
+            "price": 4.886,
+            "change_value": -0.002,
+            "change_percent": -0.04,
+>>>>>>> Stashed changes
             "unit": "دلار"
         },
         {
             "date": "1404/09/18",
+<<<<<<< Updated upstream
             "time": "00:16",
             "time_unix": 1765226816,
             "symbol": "RBOB",
@@ -156,10 +222,20 @@
             "price": 1.7952,
             "change_value": -0.0001,
             "change_percent": -0.01,
+=======
+            "time": "00:19",
+            "time_unix": 1765226989,
+            "symbol": "RBOB",
+            "name": "بنزین",
+            "price": 1.7954,
+            "change_value": 0.0001,
+            "change_percent": 0.01,
+>>>>>>> Stashed changes
             "unit": "دلار"
         },
         {
             "date": "1404/09/18",
+<<<<<<< Updated upstream
             "time": "00:16",
             "time_unix": 1765226816,
             "symbol": "GASOIL",
@@ -167,6 +243,15 @@
             "price": 663.88,
             "change_value": -0.12,
             "change_percent": -0.02,
+=======
+            "time": "00:18",
+            "time_unix": 1765226926,
+            "symbol": "GASOIL",
+            "name": "گازوییل",
+            "price": 664,
+            "change_value": 0,
+            "change_percent": 0,
+>>>>>>> Stashed changes
             "unit": "دلار"
         }
     ]
