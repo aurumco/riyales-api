@@ -2,8 +2,8 @@
     "metal_precious": [
         {
             "date": "1404/09/20",
-            "time": "01:49",
-            "time_unix": 1765405143,
+            "time": "02:00",
+            "time_unix": 1765405852,
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 4228.55,
@@ -13,8 +13,8 @@
         },
         {
             "date": "1404/09/20",
-            "time": "01:49",
-            "time_unix": 1765405143,
+            "time": "02:00",
+            "time_unix": 1765405853,
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 61.81,
@@ -24,8 +24,8 @@
         },
         {
             "date": "1404/09/20",
-            "time": "01:49",
-            "time_unix": 1765405143,
+            "time": "02:00",
+            "time_unix": 1765405853,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
             "price": 1671.65,
@@ -35,8 +35,8 @@
         },
         {
             "date": "1404/09/20",
-            "time": "01:49",
-            "time_unix": 1765405143,
+            "time": "02:01",
+            "time_unix": 1765405880,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
             "price": 1507.5,
@@ -116,13 +116,13 @@
     "energy": [
         {
             "date": "1404/09/20",
-            "time": "01:48",
-            "time_unix": 1765405137,
+            "time": "02:14",
+            "time_unix": 1765406692,
             "symbol": "BRENT",
             "name": "نفت برنت",
-            "price": 62.64,
-            "change_value": -0.06,
-            "change_percent": -0.1,
+            "price": 62.73,
+            "change_value": 0.03,
+            "change_percent": 0.05,
             "unit": "دلار"
         },
         {
@@ -160,13 +160,13 @@
         },
         {
             "date": "1404/09/20",
-            "time": "01:47",
-            "time_unix": 1765405068,
+            "time": "02:09",
+            "time_unix": 1765406393,
             "symbol": "GASOIL",
             "name": "گازوییل",
-            "price": 652,
-            "change_value": 0.12,
-            "change_percent": 0.02,
+            "price": 652.25,
+            "change_value": 0.37,
+            "change_percent": 0.06,
             "unit": "دلار"
         }
     ]
