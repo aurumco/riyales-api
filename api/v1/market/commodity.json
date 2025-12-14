@@ -159,14 +159,14 @@
             "unit": "دلار"
         },
         {
-            "date": "1404/09/24",
-            "time": "00:44",
-            "time_unix": 1765746872,
+            "date": "1404/09/23",
+            "time": "00:00",
+            "time_unix": 1765657800,
             "symbol": "GASOIL",
             "name": "گازوییل",
-            "price": 641.25,
-            "change_value": 12,
-            "change_percent": 1.91,
+            "price": 629.25,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         }
     ]
