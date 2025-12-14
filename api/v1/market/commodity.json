@@ -1,9 +1,9 @@
 {
     "metal_precious": [
         {
-            "date": "1404/09/23",
-            "time": "00:00",
-            "time_unix": 1765657800,
+            "date": "1404/09/24",
+            "time": "02:48",
+            "time_unix": 1765754282,
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 4302.43,
@@ -12,9 +12,9 @@
             "unit": "دلار"
         },
         {
-            "date": "1404/09/23",
-            "time": "00:00",
-            "time_unix": 1765657800,
+            "date": "1404/09/24",
+            "time": "02:48",
+            "time_unix": 1765754283,
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 62.02,
@@ -23,9 +23,9 @@
             "unit": "دلار"
         },
         {
-            "date": "1404/09/23",
-            "time": "00:00",
-            "time_unix": 1765657800,
+            "date": "1404/09/24",
+            "time": "02:48",
+            "time_unix": 1765754283,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
             "price": 1770.4,
@@ -34,9 +34,9 @@
             "unit": "دلار"
         },
         {
-            "date": "1404/09/23",
-            "time": "00:00",
-            "time_unix": 1765657800,
+            "date": "1404/09/24",
+            "time": "02:48",
+            "time_unix": 1765754283,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
             "price": 1542.7,
@@ -115,58 +115,58 @@
     ],
     "energy": [
         {
-            "date": "1404/09/23",
-            "time": "00:00",
-            "time_unix": 1765657800,
+            "date": "1404/09/24",
+            "time": "02:47",
+            "time_unix": 1765754272,
             "symbol": "BRENT",
             "name": "نفت برنت",
-            "price": 61.12,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 61.2,
+            "change_value": 0.08,
+            "change_percent": 0.13,
             "unit": "دلار"
         },
         {
             "date": "1404/09/24",
-            "time": "00:00",
-            "time_unix": 1765744200,
+            "time": "02:47",
+            "time_unix": 1765754272,
             "symbol": "WTI",
             "name": "نفت سبک",
-            "price": 57.24,
-            "change_value": 0,
-            "change_percent": 0,
-            "unit": "دلار"
-        },
-        {
-            "date": "1404/09/23",
-            "time": "00:00",
-            "time_unix": 1765657800,
-            "symbol": "GAS",
-            "name": "گاز طبیعی",
-            "price": 4.113,
-            "change_value": 0,
-            "change_percent": 0,
-            "unit": "دلار"
-        },
-        {
-            "date": "1404/09/23",
-            "time": "00:00",
-            "time_unix": 1765657800,
-            "symbol": "RBOB",
-            "name": "بنزین",
-            "price": 1.7521,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 57.35,
+            "change_value": 0.11,
+            "change_percent": 0.19,
             "unit": "دلار"
         },
         {
             "date": "1404/09/24",
-            "time": "02:24",
-            "time_unix": 1765752871,
+            "time": "02:47",
+            "time_unix": 1765754272,
+            "symbol": "GAS",
+            "name": "گاز طبیعی",
+            "price": 4.172,
+            "change_value": 0.059,
+            "change_percent": 1.43,
+            "unit": "دلار"
+        },
+        {
+            "date": "1404/09/24",
+            "time": "02:47",
+            "time_unix": 1765754272,
+            "symbol": "RBOB",
+            "name": "بنزین",
+            "price": 1.7541,
+            "change_value": 0.002,
+            "change_percent": 0.11,
+            "unit": "دلار"
+        },
+        {
+            "date": "1404/09/24",
+            "time": "02:46",
+            "time_unix": 1765754216,
             "symbol": "GASOIL",
             "name": "گازوییل",
-            "price": 641.25,
-            "change_value": 12,
-            "change_percent": 1.91,
+            "price": 630.75,
+            "change_value": 1.5,
+            "change_percent": 0.24,
             "unit": "دلار"
         }
     ]
