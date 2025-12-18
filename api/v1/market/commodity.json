@@ -116,13 +116,13 @@
     "energy": [
         {
             "date": "1404/09/28",
-            "time": "01:47",
-            "time_unix": 1766096240,
+            "time": "02:11",
+            "time_unix": 1766097680,
             "symbol": "BRENT",
             "name": "نفت برنت",
-            "price": 59.79,
-            "change_value": 0.08,
-            "change_percent": 0.13,
+            "price": 59.74,
+            "change_value": 0.03,
+            "change_percent": 0.05,
             "unit": "دلار"
         },
         {
@@ -160,13 +160,13 @@
         },
         {
             "date": "1404/09/28",
-            "time": "01:39",
-            "time_unix": 1766095758,
+            "time": "02:11",
+            "time_unix": 1766097680,
             "symbol": "GASOIL",
             "name": "گازوییل",
-            "price": 610.5,
-            "change_value": 0.12,
-            "change_percent": 0.02,
+            "price": 612,
+            "change_value": 1.62,
+            "change_percent": 0.27,
             "unit": "دلار"
         }
     ]
