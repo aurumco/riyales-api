@@ -116,13 +116,13 @@
     "energy": [
         {
             "date": "1404/10/02",
-            "time": "01:41",
-            "time_unix": 1766441482,
+            "time": "02:08",
+            "time_unix": 1766443100,
             "symbol": "BRENT",
             "name": "نفت برنت",
-            "price": 61.98,
-            "change_value": -0.16,
-            "change_percent": -0.26,
+            "price": 62.01,
+            "change_value": -0.13,
+            "change_percent": -0.21,
             "unit": "دلار"
         },
         {
