@@ -24,24 +24,24 @@
         },
         {
             "date": "1404/10/05",
-            "time": "00:00",
-            "time_unix": 1766694600,
+            "time": "02:17",
+            "time_unix": 1766702822,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
-            "price": 2272.9,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 2270.3,
+            "change_value": -2.6,
+            "change_percent": -0.11,
             "unit": "دلار"
         },
         {
             "date": "1404/10/05",
-            "time": "00:00",
-            "time_unix": 1766694600,
+            "time": "02:17",
+            "time_unix": 1766702822,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
-            "price": 1806.9,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 1813.5,
+            "change_value": 6.6,
+            "change_percent": 0.37,
             "unit": "دلار"
         }
     ],
@@ -148,12 +148,12 @@
             "unit": "دلار"
         },
         {
-            "date": "1404/10/04",
-            "time": "00:00",
-            "time_unix": 1766608200,
+            "date": "1404/10/05",
+            "time": "02:17",
+            "time_unix": 1766702851,
             "symbol": "RBOB",
             "name": "بنزین",
-            "price": 1.7507,
+            "price": 1.7578,
             "change_value": 0,
             "change_percent": 0,
             "unit": "دلار"
