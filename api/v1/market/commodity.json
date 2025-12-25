@@ -23,25 +23,25 @@
             "unit": "دلار"
         },
         {
-            "date": "1404/10/04",
-            "time": "04:03",
-            "time_unix": 1766622819,
+            "date": "1404/10/05",
+            "time": "00:00",
+            "time_unix": 1766694600,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
             "price": 2272.9,
-            "change_value": 1.5,
-            "change_percent": 0.07,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
-            "date": "1404/10/04",
-            "time": "02:23",
-            "time_unix": 1766616809,
+            "date": "1404/10/05",
+            "time": "00:00",
+            "time_unix": 1766694600,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
             "price": 1806.9,
-            "change_value": -13.85,
-            "change_percent": -0.77,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         }
     ],
@@ -91,14 +91,14 @@
             "unit": "دلار"
         },
         {
-            "date": "1404/10/04",
-            "time": "08:13",
-            "time_unix": 1766637799,
+            "date": "1404/10/05",
+            "time": "00:00",
+            "time_unix": 1766694600,
             "symbol": "Sn",
             "name": "قلع",
             "price": 42797,
-            "change_value": 6597.98,
-            "change_percent": 18.23,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
@@ -126,25 +126,25 @@
             "unit": "دلار"
         },
         {
-            "date": "1404/10/04",
-            "time": "02:23",
-            "time_unix": 1766616799,
+            "date": "1404/10/05",
+            "time": "00:00",
+            "time_unix": 1766694600,
             "symbol": "WTI",
             "name": "نفت سبک",
             "price": 58.35,
-            "change_value": -0.05,
-            "change_percent": -0.09,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
-            "date": "1404/10/04",
-            "time": "02:23",
-            "time_unix": 1766616799,
+            "date": "1404/10/05",
+            "time": "00:00",
+            "time_unix": 1766694600,
             "symbol": "GAS",
             "name": "گاز طبیعی",
             "price": 4.242,
-            "change_value": -0.007,
-            "change_percent": -0.17,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
