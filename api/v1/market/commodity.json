@@ -24,24 +24,24 @@
         },
         {
             "date": "1404/10/07",
-            "time": "00:00",
-            "time_unix": 1766867400,
+            "time": "13:37",
+            "time_unix": 1766916461,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
-            "price": 2471.4,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 2491.1,
+            "change_value": 19.7,
+            "change_percent": 0.8,
             "unit": "دلار"
         },
         {
             "date": "1404/10/07",
-            "time": "00:00",
-            "time_unix": 1766867400,
+            "time": "13:38",
+            "time_unix": 1766916509,
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
-            "price": 2023.3,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 2001.5,
+            "change_value": -21.8,
+            "change_percent": -1.09,
             "unit": "دلار"
         }
     ],
@@ -105,13 +105,13 @@
     "energy": [
         {
             "date": "1404/10/07",
-            "time": "00:00",
-            "time_unix": 1766867400,
+            "time": "13:39",
+            "time_unix": 1766916572,
             "symbol": "BRENT",
             "name": "نفت برنت",
-            "price": 60.64,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 60.24,
+            "change_value": -0.4,
+            "change_percent": -0.66,
             "unit": "دلار"
         },
         {
@@ -127,24 +127,24 @@
         },
         {
             "date": "1404/10/07",
-            "time": "00:00",
-            "time_unix": 1766867400,
+            "time": "13:39",
+            "time_unix": 1766916572,
             "symbol": "GAS",
             "name": "گاز طبیعی",
-            "price": 4.366,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 3.877,
+            "change_value": -0.489,
+            "change_percent": -12.61,
             "unit": "دلار"
         },
         {
             "date": "1404/10/07",
-            "time": "00:00",
-            "time_unix": 1766867400,
+            "time": "13:39",
+            "time_unix": 1766916572,
             "symbol": "RBOB",
             "name": "بنزین",
-            "price": 1.6971,
-            "change_value": 0,
-            "change_percent": 0,
+            "price": 1.7074,
+            "change_value": 0.0103,
+            "change_percent": 0.61,
             "unit": "دلار"
         },
         {
