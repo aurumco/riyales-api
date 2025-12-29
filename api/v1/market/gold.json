@@ -41,14 +41,14 @@
         },
         {
             "date": "1404/10/08",
-            "time": "23:01",
-            "time_unix": 1767036692,
+            "time": "23:14",
+            "time_unix": 1767037472,
             "symbol": "XAUUSD",
             "name_en": "Gold Ounce",
             "name": "انس طلا",
             "price": 4331,
             "change_value": -201,
-            "change_percent": -4.66,
+            "change_percent": -4.65,
             "unit": "دلار",
             "nameFa": "انس طلا"
         },
