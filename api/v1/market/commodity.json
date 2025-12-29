@@ -24,13 +24,13 @@
         },
         {
             "date": "1404/10/09",
-            "time": "01:35",
-            "time_unix": 1767045953,
+            "time": "02:17",
+            "time_unix": 1767048422,
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
-            "price": 2139.3,
-            "change_value": -19.2,
-            "change_percent": -0.9,
+            "price": 2138.9,
+            "change_value": -19.6,
+            "change_percent": -0.92,
             "unit": "دلار"
         },
         {
@@ -105,13 +105,13 @@
     "energy": [
         {
             "date": "1404/10/09",
-            "time": "01:55",
-            "time_unix": 1767047122,
+            "time": "02:12",
+            "time_unix": 1767048140,
             "symbol": "BRENT",
             "name": "نفت برنت",
-            "price": 61.3,
-            "change_value": -0.04,
-            "change_percent": -0.07,
+            "price": 61.26,
+            "change_value": -0.08,
+            "change_percent": -0.13,
             "unit": "دلار"
         },
         {
