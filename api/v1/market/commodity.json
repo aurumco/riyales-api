@@ -105,35 +105,35 @@
     "energy": [
         {
             "date": "1404/10/10",
-            "time": "02:11",
-            "time_unix": 1767134476,
+            "time": "02:21",
+            "time_unix": 1767135081,
             "symbol": "BRENT",
             "name": "نفت برنت",
-            "price": 61.33,
+            "price": 61.28,
+            "change_value": -0.05,
+            "change_percent": -0.08,
+            "unit": "دلار"
+        },
+        {
+            "date": "1404/10/10",
+            "time": "02:20",
+            "time_unix": 1767135029,
+            "symbol": "WTI",
+            "name": "نفت سبک",
+            "price": 57.95,
             "change_value": 0,
             "change_percent": 0,
             "unit": "دلار"
         },
         {
             "date": "1404/10/10",
-            "time": "01:31",
-            "time_unix": 1767132081,
-            "symbol": "WTI",
-            "name": "نفت سبک",
-            "price": 57.98,
-            "change_value": 0.03,
-            "change_percent": 0.05,
-            "unit": "دلار"
-        },
-        {
-            "date": "1404/10/10",
-            "time": "01:31",
-            "time_unix": 1767132081,
+            "time": "02:21",
+            "time_unix": 1767135081,
             "symbol": "GAS",
             "name": "گاز طبیعی",
-            "price": 3.977,
-            "change_value": 0.009,
-            "change_percent": 0.23,
+            "price": 3.972,
+            "change_value": 0.004,
+            "change_percent": 0.1,
             "unit": "دلار"
         },
         {
