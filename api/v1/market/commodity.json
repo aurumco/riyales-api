@@ -7,8 +7,8 @@
             "symbol": "XAUUSD",
             "name": "انس طلا",
             "price": 4310.89,
-            "change_value": -5.31,
-            "change_percent": -0.12,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
@@ -18,8 +18,8 @@
             "symbol": "XAGUSD",
             "name": "انس نقره",
             "price": 71.01,
-            "change_value": -0.01,
-            "change_percent": -0.01,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
@@ -29,8 +29,8 @@
             "symbol": "XPTUSD",
             "name": "انس پلاتین",
             "price": 2070,
-            "change_value": 33.65,
-            "change_percent": 1.65,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
@@ -40,8 +40,8 @@
             "symbol": "XPDUSD",
             "name": "انس پالادیوم",
             "price": 1661,
-            "change_value": 23,
-            "change_percent": 1.4,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         }
     ],
@@ -121,8 +121,8 @@
             "symbol": "WTI",
             "name": "نفت سبک",
             "price": 57.42,
-            "change_value": -0.03,
-            "change_percent": -0.05,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
@@ -132,8 +132,8 @@
             "symbol": "GAS",
             "name": "گاز طبیعی",
             "price": 3.686,
-            "change_value": -0.026,
-            "change_percent": -0.71,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
@@ -143,8 +143,8 @@
             "symbol": "RBOB",
             "name": "بنزین",
             "price": 1.7123,
-            "change_value": -0.0013,
-            "change_percent": -0.08,
+            "change_value": 0,
+            "change_percent": 0,
             "unit": "دلار"
         },
         {
