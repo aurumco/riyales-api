@@ -2,6 +2,7 @@
     "gold": [
         {
             "date": "1404/10/15",
+<<<<<<< Updated upstream
             "time": "11:24",
             "time_unix": 1767599680,
             "symbol": "18K",
@@ -10,11 +11,22 @@
             "price": 15070600,
             "change_value": 346500,
             "change_percent": 2.35,
+=======
+            "time": "11:26",
+            "time_unix": 1767599795,
+            "symbol": "18K",
+            "name_en": "18K Gold",
+            "name": "طلای 18 عیار",
+            "price": 15061400,
+            "change_value": 337300,
+            "change_percent": 2.29,
+>>>>>>> Stashed changes
             "unit": "تومان",
             "nameFa": "طلای 18 عیار"
         },
         {
             "date": "1404/10/15",
+<<<<<<< Updated upstream
             "time": "11:24",
             "time_unix": 1767599680,
             "symbol": "24K",
@@ -23,11 +35,22 @@
             "price": 20094000,
             "change_value": 462000,
             "change_percent": 2.35,
+=======
+            "time": "11:26",
+            "time_unix": 1767599795,
+            "symbol": "24K",
+            "name_en": "24K Gold",
+            "name": "طلای 24 عیار",
+            "price": 20081700,
+            "change_value": 449700,
+            "change_percent": 2.29,
+>>>>>>> Stashed changes
             "unit": "تومان",
             "nameFa": "طلای 24 عیار"
         },
         {
             "date": "1404/10/15",
+<<<<<<< Updated upstream
             "time": "11:24",
             "time_unix": 1767599681,
             "symbol": "MELTED",
@@ -36,19 +59,38 @@
             "price": 65283000,
             "change_value": 1493000,
             "change_percent": 2.34,
+=======
+            "time": "11:26",
+            "time_unix": 1767599795,
+            "symbol": "MELTED",
+            "name_en": "Melted Gold",
+            "name": "طلای آب‌شده نقدی",
+            "price": 65241000,
+            "change_value": 1451000,
+            "change_percent": 2.27,
+>>>>>>> Stashed changes
             "unit": "تومان",
             "nameFa": "طلای آب‌شده نقدی"
         },
         {
             "date": "1404/10/15",
+<<<<<<< Updated upstream
             "time": "11:24",
             "time_unix": 1767599668,
+=======
+            "time": "11:26",
+            "time_unix": 1767599784,
+>>>>>>> Stashed changes
             "symbol": "XAUUSD",
             "name_en": "Gold Ounce",
             "name": "انس طلا",
             "price": 4420,
             "change_value": 90,
+<<<<<<< Updated upstream
             "change_percent": 2.09,
+=======
+            "change_percent": 2.08,
+>>>>>>> Stashed changes
             "unit": "دلار",
             "nameFa": "انس طلا"
         },
@@ -93,6 +135,7 @@
         },
         {
             "date": "1404/10/15",
+<<<<<<< Updated upstream
             "time": "11:24",
             "time_unix": 1767599681,
             "symbol": "EMAMI",
@@ -101,11 +144,22 @@
             "price": 158010000,
             "change_value": 4530000,
             "change_percent": 2.95,
+=======
+            "time": "11:26",
+            "time_unix": 1767599795,
+            "symbol": "EMAMI",
+            "name_en": "Emami Coin",
+            "name": "سکه امامی",
+            "price": 157985000,
+            "change_value": 4505000,
+            "change_percent": 2.94,
+>>>>>>> Stashed changes
             "unit": "تومان",
             "nameFa": "سکه امامی"
         },
         {
             "date": "1404/10/15",
+<<<<<<< Updated upstream
             "time": "11:24",
             "time_unix": 1767599680,
             "symbol": "BAHAR",
@@ -113,6 +167,15 @@
             "name": "سکه بهار آزادی",
             "price": 150025000,
             "change_value": 4145000,
+=======
+            "time": "11:26",
+            "time_unix": 1767599795,
+            "symbol": "BAHAR",
+            "name_en": "Bahar Azadi Coin",
+            "name": "سکه بهار آزادی",
+            "price": 150020000,
+            "change_value": 4140000,
+>>>>>>> Stashed changes
             "change_percent": 2.84,
             "unit": "تومان",
             "nameFa": "سکه بهار آزادی"

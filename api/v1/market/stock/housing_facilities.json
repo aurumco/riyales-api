@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< Updated upstream
         "time": "11:25:11",
+=======
+        "time": "11:26:39",
+>>>>>>> Stashed changes
         "l18": "تسه۱۴۰۴",
         "l30": "امتیاز تسهیلات مسکن سال۱۴۰۴",
         "isin": "IRO6MSKZ4041",
@@ -9,7 +13,11 @@
         "cs_id": 59,
         "z": 4427343,
         "bvol": 1,
+<<<<<<< Updated upstream
         "mv": 6900053911587,
+=======
+        "mv": 6898659298542,
+>>>>>>> Stashed changes
         "eps": null,
         "pe": null,
         "tmin": 1510120,
@@ -18,6 +26,7 @@
         "pmax": 1599999,
         "py": 1589600,
         "pf": 1577002,
+<<<<<<< Updated upstream
         "pl": 1520002,
         "plc": -69598,
         "plp": -4.38,
@@ -64,6 +73,54 @@
         "pd5": 1510138,
         "po5": 1542999,
         "qo5": 234,
+=======
+        "pl": 1521000,
+        "plc": -68600,
+        "plp": -4.32,
+        "pc": 1558194,
+        "pcc": -31406,
+        "pcp": -1.98,
+        "tno": 3417,
+        "tvol": 273222,
+        "tval": 425732926858,
+        "Buy_CountI": 280,
+        "Buy_CountN": 0,
+        "Sell_CountI": 3017,
+        "Sell_CountN": 14,
+        "Buy_I_Volume": 272925,
+        "Buy_N_Volume": 0,
+        "Sell_I_Volume": 210691,
+        "Sell_N_Volume": 62234,
+        "zd1": 1,
+        "qd1": 436,
+        "pd1": 1525002,
+        "po1": 1529999,
+        "qo1": 284,
+        "zo1": 2,
+        "zd2": 1,
+        "qd2": 43,
+        "pd2": 1520001,
+        "po2": 1530000,
+        "qo2": 17101,
+        "zo2": 18,
+        "zd3": 4,
+        "qd3": 3906,
+        "pd3": 1520000,
+        "po3": 1539000,
+        "qo3": 253,
+        "zo3": 4,
+        "zd4": 1,
+        "qd4": 261,
+        "pd4": 1510138,
+        "po4": 1540000,
+        "qo4": 719,
+        "zo4": 5,
+        "zd5": 3,
+        "qd5": 1748,
+        "pd5": 1510120,
+        "po5": 1541999,
+        "qo5": 1,
+>>>>>>> Stashed changes
         "zo5": 1
     },
     {
@@ -94,6 +151,7 @@
         "tno": 1765,
         "tvol": 64646,
         "tval": 99149874734,
+<<<<<<< Updated upstream
         "Buy_CountI": 84,
         "Buy_CountN": 0,
         "Sell_CountI": 1617,
@@ -101,13 +159,27 @@
         "Buy_I_Volume": 63846,
         "Buy_N_Volume": 0,
         "Sell_I_Volume": 63841,
+=======
+        "Buy_CountI": 85,
+        "Buy_CountN": 0,
+        "Sell_CountI": 1634,
+        "Sell_CountN": 1,
+        "Buy_I_Volume": 64646,
+        "Buy_N_Volume": 0,
+        "Sell_I_Volume": 64641,
+>>>>>>> Stashed changes
         "Sell_N_Volume": 5,
         "zd1": 0,
         "qd1": 0,
         "pd1": 0,
         "po1": 1500249,
+<<<<<<< Updated upstream
         "qo1": 4844,
         "zo1": 155,
+=======
+        "qo1": 5373,
+        "zo1": 171,
+>>>>>>> Stashed changes
         "zd2": 0,
         "qd2": 0,
         "pd2": 0,
@@ -134,7 +206,11 @@
         "zo5": 2
     },
     {
+<<<<<<< Updated upstream
         "time": "11:25:06",
+=======
+        "time": "11:26:41",
+>>>>>>> Stashed changes
         "l18": "تسه۱۴۰۳",
         "l30": "امتیاز تسهیلات مسکن سال۱۴۰۳",
         "isin": "IRO6MSKZ4031",
@@ -143,7 +219,11 @@
         "cs_id": 59,
         "z": 4427343,
         "bvol": 1,
+<<<<<<< Updated upstream
         "mv": 6869903705757,
+=======
+        "mv": 6869009382471,
+>>>>>>> Stashed changes
         "eps": null,
         "pe": null,
         "tmin": 1507006,
@@ -155,6 +235,7 @@
         "pl": 1510000,
         "plc": -76322,
         "plp": -4.81,
+<<<<<<< Updated upstream
         "pc": 1551699,
         "pcc": -34623,
         "pcp": -2.18,
@@ -198,6 +279,51 @@
         "pd5": 1507006,
         "po5": 1520002,
         "qo5": 151,
+=======
+        "pc": 1551497,
+        "pcc": -34825,
+        "pcp": -2.2,
+        "tno": 1384,
+        "tvol": 77487,
+        "tval": 120220817054,
+        "Buy_CountI": 104,
+        "Buy_CountN": 0,
+        "Sell_CountI": 1228,
+        "Sell_CountN": 1,
+        "Buy_I_Volume": 77293,
+        "Buy_N_Volume": 0,
+        "Sell_I_Volume": 76405,
+        "Sell_N_Volume": 888,
+        "zd1": 2,
+        "qd1": 1764,
+        "pd1": 1510000,
+        "po1": 1512200,
+        "qo1": 262,
+        "zo1": 4,
+        "zd2": 1,
+        "qd2": 575,
+        "pd2": 1508006,
+        "po2": 1520000,
+        "qo2": 6,
+        "zo2": 2,
+        "zd3": 1,
+        "qd3": 259,
+        "pd3": 1507009,
+        "po3": 1520001,
+        "qo3": 125,
+        "zo3": 3,
+        "zd4": 1,
+        "qd4": 895,
+        "pd4": 1507007,
+        "po4": 1520002,
+        "qo4": 151,
+        "zo4": 2,
+        "zd5": 1,
+        "qd5": 123,
+        "pd5": 1507006,
+        "po5": 1520200,
+        "qo5": 210,
+>>>>>>> Stashed changes
         "zo5": 2
     },
     {
