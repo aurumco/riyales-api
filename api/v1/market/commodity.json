@@ -105,35 +105,35 @@
     "energy": [
         {
             "date": "1404/10/18",
-            "time": "02:10",
-            "time_unix": 1767825620,
+            "time": "02:25",
+            "time_unix": 1767826517,
             "symbol": "BRENT",
             "name": "نفت برنت",
-            "price": 60.42,
-            "change_value": 0.22,
-            "change_percent": 0.37,
+            "price": 60.38,
+            "change_value": 0.18,
+            "change_percent": 0.3,
             "unit": "دلار"
         },
         {
             "date": "1404/10/18",
-            "time": "01:30",
-            "time_unix": 1767823231,
+            "time": "02:21",
+            "time_unix": 1767826278,
             "symbol": "WTI",
             "name": "نفت سبک",
-            "price": 56.36,
-            "change_value": 0.15,
-            "change_percent": 0.27,
+            "price": 55.99,
+            "change_value": -0.22,
+            "change_percent": -0.39,
             "unit": "دلار"
         },
         {
             "date": "1404/10/18",
-            "time": "01:31",
-            "time_unix": 1767823283,
+            "time": "02:21",
+            "time_unix": 1767826278,
             "symbol": "GAS",
             "name": "گاز طبیعی",
-            "price": 3.56,
-            "change_value": 0.003,
-            "change_percent": 0.08,
+            "price": 3.525,
+            "change_value": -0.032,
+            "change_percent": -0.91,
             "unit": "دلار"
         },
         {
@@ -149,13 +149,13 @@
         },
         {
             "date": "1404/10/18",
-            "time": "00:45",
-            "time_unix": 1767820523,
+            "time": "02:24",
+            "time_unix": 1767826459,
             "symbol": "GASOIL",
             "name": "گازوییل",
-            "price": 602.25,
-            "change_value": 1.25,
-            "change_percent": 0.21,
+            "price": 602,
+            "change_value": 1,
+            "change_percent": 0.17,
             "unit": "دلار"
         }
     ]
