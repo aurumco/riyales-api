@@ -2,24 +2,24 @@
     "metal_precious": [
         {
             "date": "1404/11/25",
-            "time": "01:44",
-            "time_unix": 1771020895,
+            "time": "05:45",
+            "time_unix": 1771035308,
             "symbol": "XAUUSD",
             "name": "انس طلا",
-            "price": 5042.22,
-            "change_value": 10.86,
-            "change_percent": 0.22,
+            "price": 5043.11,
+            "change_value": 11.75,
+            "change_percent": 0.23,
             "unit": "دلار"
         },
         {
             "date": "1404/11/25",
-            "time": "01:44",
-            "time_unix": 1771020895,
+            "time": "05:17",
+            "time_unix": 1771033646,
             "symbol": "XAGUSD",
             "name": "انس نقره",
-            "price": 77.39,
-            "change_value": 0.16,
-            "change_percent": 0.2,
+            "price": 77.43,
+            "change_value": 0.2,
+            "change_percent": 0.26,
             "unit": "دلار"
         },
         {
@@ -105,8 +105,8 @@
     "energy": [
         {
             "date": "1404/11/25",
-            "time": "04:38",
-            "time_unix": 1771031293,
+            "time": "05:27",
+            "time_unix": 1771034235,
             "symbol": "BRENT",
             "name": "نفت برنت",
             "price": 67.75,
@@ -138,8 +138,8 @@
         },
         {
             "date": "1404/11/25",
-            "time": "04:37",
-            "time_unix": 1771031239,
+            "time": "05:27",
+            "time_unix": 1771034235,
             "symbol": "RBOB",
             "name": "بنزین",
             "price": 1.911,
@@ -149,8 +149,8 @@
         },
         {
             "date": "1404/11/25",
-            "time": "04:31",
-            "time_unix": 1771030875,
+            "time": "05:27",
+            "time_unix": 1771034235,
             "symbol": "GASOIL",
             "name": "گازوییل",
             "price": 672.5,
