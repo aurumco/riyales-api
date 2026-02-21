@@ -48,11 +48,11 @@
     "metal_base": [
         {
             "date": "1404/12/01",
-            "time": "00:00",
-            "time_unix": 1771533000,
+            "time": "23:59",
+            "time_unix": 1771619340,
             "symbol": "Cu",
             "name": "مس",
-            "price": 12922.93,
+            "price": 12923,
             "change_value": 0,
             "change_percent": 0,
             "unit": "دلار"
@@ -116,8 +116,8 @@
         },
         {
             "date": "1404/12/02",
-            "time": "13:33",
-            "time_unix": 1771668199,
+            "time": "14:02",
+            "time_unix": 1771669942,
             "symbol": "WTI",
             "name": "نفت سبک",
             "price": 66.39,
