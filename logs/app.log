@@ -61281,60 +61281,6 @@ Traceback (most recent call last):
     with open(LITE_ASSETS_FILE, 'r', encoding='utf-8') as f:
          ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 FileNotFoundError: [Errno 2] No such file or directory: 'dictionaries/lite_assets.json'
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Logging initialized. Console level: INFO. General logs: 'logs/app.log'. Error logs: 'logs/error.log'.
-2026-02-24 08:35:58|INFO|MarketDataSync|[32m• Market Data Sync START [0m
-2026-02-24 08:35:58|DEBUG|MarketDataSync|[32m• Starting Market Data Sync Cycle [0m
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Successfully loaded 3537 crypto name mappings from dictionaries/crypto_names_fa.json
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Loaded 2 blacklist entries from dictionaries/blacklist.json
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• JSON map file not found: dictionaries/market_name_mapping.json
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Cycle time: UTC=2026-02-24T05:05:58.385229+00:00, Local=2026-02-24T08:35:58.385229+03:30
-2026-02-24 08:35:58|INFO|MarketDataSync|• Checking API Fetch Tasks 
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Checking fetch task: 'gold'
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Scheduling fetch for: 'gold'
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Checking fetch task: 'currency'
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Scheduling fetch for: 'currency'
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Checking fetch task: 'crypto'
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Scheduling fetch for: 'crypto'
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Checking fetch task: 'commodity'
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Scheduling fetch for: 'commodity'
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Checking fetch task: 'tse_ifb_symbols'
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Market Check: LocalTime=08:35:58 +0330, Weekday=1, CurrentTime=08:35:58.385634, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Market Status: OPEN (Within Market Hours Check)
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Scheduling fetch for: 'tse_ifb_symbols'
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Checking fetch task: 'tse_options'
-2026-02-24 08:35:58|DEBUG|MarketDataSync|•  // Skip 'tse_options': Disabled in config.
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Checking fetch task: 'tse_nav'
-2026-02-24 08:35:58|DEBUG|MarketDataSync|•  // Skip 'tse_nav': Disabled in config.
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Checking fetch task: 'tse_index'
-2026-02-24 08:35:58|DEBUG|MarketDataSync|•  // Skip 'tse_index': Disabled in config.
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Checking fetch task: 'ifb_index'
-2026-02-24 08:35:58|DEBUG|MarketDataSync|•  // Skip 'ifb_index': Disabled in config.
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Checking fetch task: 'selected_indices'
-2026-02-24 08:35:58|DEBUG|MarketDataSync|•  // Skip 'selected_indices': Disabled in config.
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Checking fetch task: 'debt_securities'
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Market Check: LocalTime=08:35:58 +0330, Weekday=1, CurrentTime=08:35:58.385917, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Market Status: OPEN (Within Market Hours Check)
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Scheduling fetch for: 'debt_securities'
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Checking fetch task: 'housing_facilities'
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Market Check: LocalTime=08:35:58 +0330, Weekday=1, CurrentTime=08:35:58.386021, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Market Status: OPEN (Within Market Hours Check)
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Scheduling fetch for: 'housing_facilities'
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Checking fetch task: 'futures'
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Market Check: LocalTime=08:35:58 +0330, Weekday=1, CurrentTime=08:35:58.386107, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Market Status: OPEN (Within Market Hours Check)
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Scheduling fetch for: 'futures'
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Attempting to fetch data for 8 endpoints...
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Requesting: gold
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Requesting: currency
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Requesting: crypto
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Requesting: commodity
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Requesting: tse_ifb_symbols
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Requesting: debt_securities
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Requesting: housing_facilities
-2026-02-24 08:35:58|DEBUG|MarketDataSync|• Requesting: futures
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Response: futures Status=403 in 1.25s
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Error: futures request failed. Status=403
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Response snippet for futures: <!DOCTYPE html>
 <html style="height:100%">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -61342,9 +61288,6 @@ FileNotFoundError: [Errno 2] No such file or directory: 'dictionaries/lite_asset
 </title><style>@media (prefers-color-scheme:dark){body{background-color:#000!important}}</style></head>
 <body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
 <div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: ...
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Response: commodity Status=403 in 1.25s
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Error: commodity request failed. Status=403
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Response snippet for commodity: <!DOCTYPE html>
 <html style="height:100%">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -61352,9 +61295,6 @@ FileNotFoundError: [Errno 2] No such file or directory: 'dictionaries/lite_asset
 </title><style>@media (prefers-color-scheme:dark){body{background-color:#000!important}}</style></head>
 <body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
 <div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: ...
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Response: gold Status=403 in 1.26s
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Error: gold request failed. Status=403
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Response snippet for gold: <!DOCTYPE html>
 <html style="height:100%">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -61362,9 +61302,6 @@ FileNotFoundError: [Errno 2] No such file or directory: 'dictionaries/lite_asset
 </title><style>@media (prefers-color-scheme:dark){body{background-color:#000!important}}</style></head>
 <body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
 <div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: ...
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Response: housing_facilities Status=403 in 1.26s
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Error: housing_facilities request failed. Status=403
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Response snippet for housing_facilities: <!DOCTYPE html>
 <html style="height:100%">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -61372,9 +61309,6 @@ FileNotFoundError: [Errno 2] No such file or directory: 'dictionaries/lite_asset
 </title><style>@media (prefers-color-scheme:dark){body{background-color:#000!important}}</style></head>
 <body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
 <div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: ...
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Response: currency Status=403 in 1.26s
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Error: currency request failed. Status=403
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Response snippet for currency: <!DOCTYPE html>
 <html style="height:100%">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -61382,9 +61316,6 @@ FileNotFoundError: [Errno 2] No such file or directory: 'dictionaries/lite_asset
 </title><style>@media (prefers-color-scheme:dark){body{background-color:#000!important}}</style></head>
 <body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
 <div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: ...
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Response: crypto Status=403 in 1.27s
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Error: crypto request failed. Status=403
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Response snippet for crypto: <!DOCTYPE html>
 <html style="height:100%">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -61392,9 +61323,6 @@ FileNotFoundError: [Errno 2] No such file or directory: 'dictionaries/lite_asset
 </title><style>@media (prefers-color-scheme:dark){body{background-color:#000!important}}</style></head>
 <body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
 <div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: ...
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Response: debt_securities Status=403 in 1.27s
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Error: debt_securities request failed. Status=403
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Response snippet for debt_securities: <!DOCTYPE html>
 <html style="height:100%">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -61402,9 +61330,6 @@ FileNotFoundError: [Errno 2] No such file or directory: 'dictionaries/lite_asset
 </title><style>@media (prefers-color-scheme:dark){body{background-color:#000!important}}</style></head>
 <body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
 <div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: ...
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Response: tse_ifb_symbols Status=403 in 1.27s
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Error: tse_ifb_symbols request failed. Status=403
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Response snippet for tse_ifb_symbols: <!DOCTYPE html>
 <html style="height:100%">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -61412,23 +61337,11 @@ FileNotFoundError: [Errno 2] No such file or directory: 'dictionaries/lite_asset
 </title><style>@media (prefers-color-scheme:dark){body{background-color:#000!important}}</style></head>
 <body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
 <div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: ...
-2026-02-24 08:35:59|INFO|MarketDataSync|• Processing Fetch Results 
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Fetch Results Summary:  Processed=8,  Errors=8
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• [34m• Creating Consolidated JSON Output[0m
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Reading currency.json for consolidation...
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Reading cryptocurrency.json for consolidation...
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Reading commodity.json for consolidation...
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Reading gold.json for consolidation...
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• [32m✓ Consolidated JSON successfully created at: api/v1/market/all_market_data.json (4 files combined)[0m
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• [34m• Creating Lite JSON Output[0m
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• Error loading lite assets definition from dictionaries/lite_assets.json: [Errno 2] No such file or directory: 'dictionaries/lite_assets.json'
 Traceback (most recent call last):
   File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 368, in create_lite_json
     with open(LITE_ASSETS_FILE, 'r', encoding='utf-8') as f:
          ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 FileNotFoundError: [Errno 2] No such file or directory: 'dictionaries/lite_assets.json'
-2026-02-24 08:35:59|DEBUG|MarketDataSync|• ✓ Protobuf files generated in api/v2/market
-2026-02-24 08:35:59|INFO|MarketDataSync|[32m• Market Data Sync END [0m|[90m Duration: 1.48s[0m
 2026-02-24 09:43:44|DEBUG|MarketDataSync|• Logging initialized. Console level: INFO. General logs: 'logs/app.log'. Error logs: 'logs/error.log'.
 2026-02-24 09:43:44|INFO|MarketDataSync|[32m• Market Data Sync START [0m
 2026-02-24 09:43:44|DEBUG|MarketDataSync|[32m• Starting Market Data Sync Cycle [0m
@@ -62039,3 +61952,109 @@ Traceback (most recent call last):
 FileNotFoundError: [Errno 2] No such file or directory: 'dictionaries/lite_assets.json'
 2026-02-24 13:39:03|DEBUG|MarketDataSync|• ✓ Protobuf files generated in api/v2/market
 2026-02-24 13:39:03|INFO|MarketDataSync|[32m• Market Data Sync END [0m|[90m Duration: 2.29s[0m
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Logging initialized. Console level: INFO. General logs: 'logs/app.log'. Error logs: 'logs/error.log'.
+2026-02-24 14:38:58|INFO|MarketDataSync|[32m• Market Data Sync START [0m
+2026-02-24 14:38:58|DEBUG|MarketDataSync|[32m• Starting Market Data Sync Cycle [0m
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Successfully loaded 3537 crypto name mappings from dictionaries/crypto_names_fa.json
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Loaded 2 blacklist entries from dictionaries/blacklist.json
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• JSON map file not found: dictionaries/market_name_mapping.json
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Cycle time: UTC=2026-02-24T11:08:58.832698+00:00, Local=2026-02-24T14:38:58.832698+03:30
+2026-02-24 14:38:58|INFO|MarketDataSync|• Checking API Fetch Tasks 
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Checking fetch task: 'gold'
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Scheduling fetch for: 'gold'
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Checking fetch task: 'currency'
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Scheduling fetch for: 'currency'
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Checking fetch task: 'crypto'
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Scheduling fetch for: 'crypto'
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Checking fetch task: 'commodity'
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Scheduling fetch for: 'commodity'
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Checking fetch task: 'tse_ifb_symbols'
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Market Check: LocalTime=14:38:58 +0330, Weekday=1, CurrentTime=14:38:58.833201, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
+2026-02-24 14:38:58|DEBUG|MarketDataSync|•  // Skip 'tse_ifb_symbols': Market is closed.
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Checking fetch task: 'tse_options'
+2026-02-24 14:38:58|DEBUG|MarketDataSync|•  // Skip 'tse_options': Disabled in config.
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Checking fetch task: 'tse_nav'
+2026-02-24 14:38:58|DEBUG|MarketDataSync|•  // Skip 'tse_nav': Disabled in config.
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Checking fetch task: 'tse_index'
+2026-02-24 14:38:58|DEBUG|MarketDataSync|•  // Skip 'tse_index': Disabled in config.
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Checking fetch task: 'ifb_index'
+2026-02-24 14:38:58|DEBUG|MarketDataSync|•  // Skip 'ifb_index': Disabled in config.
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Checking fetch task: 'selected_indices'
+2026-02-24 14:38:58|DEBUG|MarketDataSync|•  // Skip 'selected_indices': Disabled in config.
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Checking fetch task: 'debt_securities'
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Market Check: LocalTime=14:38:58 +0330, Weekday=1, CurrentTime=14:38:58.833613, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
+2026-02-24 14:38:58|DEBUG|MarketDataSync|•  // Skip 'debt_securities': Market is closed.
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Checking fetch task: 'housing_facilities'
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Market Check: LocalTime=14:38:58 +0330, Weekday=1, CurrentTime=14:38:58.833726, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
+2026-02-24 14:38:58|DEBUG|MarketDataSync|•  // Skip 'housing_facilities': Market is closed.
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Checking fetch task: 'futures'
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Market Check: LocalTime=14:38:58 +0330, Weekday=1, CurrentTime=14:38:58.833833, MarketHours=08:30:00-12:45:00, MarketDays=[5, 6, 0, 1, 2]
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Market Status: CLOSED (Within Market Hours Check)
+2026-02-24 14:38:58|DEBUG|MarketDataSync|•  // Skip 'futures': Market is closed.
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Attempting to fetch data for 4 endpoints...
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Requesting: gold
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Requesting: currency
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Requesting: crypto
+2026-02-24 14:38:58|DEBUG|MarketDataSync|• Requesting: commodity
+2026-02-24 14:38:59|DEBUG|MarketDataSync|• Response: currency Status=200 in 1.15s
+2026-02-24 14:38:59|DEBUG|MarketDataSync|• Response: gold Status=200 in 1.16s
+2026-02-24 14:38:59|DEBUG|MarketDataSync|• Response: commodity Status=200 in 1.16s
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• Response: crypto Status=200 in 1.17s
+2026-02-24 14:39:00|INFO|MarketDataSync|• Processing Fetch Results 
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• Applied transformation function for gold
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• Applied blacklist filter for gold
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• Saved latest raw JSON: gold.json
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• Applied transformation function for currency
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• Applied blacklist filter for currency
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• Saved latest raw JSON: currency.json
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Espresso
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Aztec
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Fidelity Digital Dollar
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Lobstar
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: wojak (wojakcto.com)
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Superform
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Hachiko
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: CAMELL
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Hachiko Inu
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Global X Copper Miners Tokenized ETF (Ondo)
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: 一 (USD1_ONE)
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Momo (momocoin.space)
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Echelon (EchelonMarket)
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: AOL (America Online)
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Superfluid
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: xAI tokenized stock (PreStocks)
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: 三维威廉泰尔企鹅 (Vulgar Penguin)
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: PDD Holdings Tokenized Stock (Ondo)
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: X-PASS
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: XYZVerse
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: United States Oil Tokenized Fund (Ondo)
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Clippy (kevanjatt)
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Catcoin (catcoin.io)
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: The Black Whale (blackwhale.fun)
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• No Persian name found/mapped for crypto: Atlas (AtlasOfUSA)
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• Persian name mapping: 25 crypto names were not found in the map.
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• Applied transformation function for crypto
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• Applied blacklist filter for crypto
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• Saved latest raw JSON: cryptocurrency.json
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• Applied transformation function for commodity
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• Applied blacklist filter for commodity
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• Saved latest raw JSON: commodity.json
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• Fetch Results Summary:  Processed=4,  Errors=0
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• [34m• Creating Consolidated JSON Output[0m
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• Reading currency.json for consolidation...
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• Reading cryptocurrency.json for consolidation...
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• Reading commodity.json for consolidation...
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• Reading gold.json for consolidation...
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• [32m✓ Consolidated JSON successfully created at: api/v1/market/all_market_data.json (4 files combined)[0m
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• [34m• Creating Lite JSON Output[0m
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• Error loading lite assets definition from dictionaries/lite_assets.json: [Errno 2] No such file or directory: 'dictionaries/lite_assets.json'
+Traceback (most recent call last):
+  File "/home/runner/work/riyales-api/riyales-api/src/main.py", line 368, in create_lite_json
+    with open(LITE_ASSETS_FILE, 'r', encoding='utf-8') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'dictionaries/lite_assets.json'
+2026-02-24 14:39:00|DEBUG|MarketDataSync|• ✓ Protobuf files generated in api/v2/market
+2026-02-24 14:39:00|INFO|MarketDataSync|[32m• Market Data Sync END [0m|[90m Duration: 1.99s[0m
