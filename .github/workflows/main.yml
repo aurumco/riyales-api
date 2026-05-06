@@ -4,8 +4,8 @@ name: Market Data Sync
 # Triggers for the workflow
 on:
   # Runs every 5 minutes
-  schedule:
-    - cron: '*/5 * * * *'
+  # schedule:
+  #   - cron: '*/5 * * * *'
   
   # Allows manual triggering from the GitHub Actions UI
   workflow_dispatch:
